@@ -144,3 +144,30 @@ table.browse td:nth-child(2) { color: var(--muted); }
 }
 .rachel { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; font-size: .9rem; color: var(--muted); }
 .rachel a { padding: 4px 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); text-decoration: none; }
+
+/* 계정 */
+.account-card { display: flex; flex-direction: column; gap: 12px; max-width: 440px; margin: 0 auto; background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 20px; }
+.account-card h3, .account-card h4 { margin: 8px 0 0; }
+.seg { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; background: var(--bg); border-radius: 10px; padding: 4px; }
+.seg button { border: none; background: none; padding: 6px 2px; font-size: .85rem; color: var(--muted); }
+.seg button.active { background: var(--panel); color: var(--ink); font-weight: 700; }
+.auth-form { display: flex; flex-direction: column; gap: 10px; }
+.auth-form.inline { flex-direction: row; align-items: flex-end; flex-wrap: wrap; }
+.auth-form.inline .field { flex: 1 1 200px; }
+.field { display: flex; flex-direction: column; gap: 4px; font-size: .85rem; color: var(--muted); }
+.field input { font-size: 1rem; }
+.consent { display: flex; gap: 8px; align-items: flex-start; font-size: .82rem; color: var(--muted); }
+.consent input { margin-top: 3px; }
+.primary { background: var(--accent); color: var(--accent-ink); border: none; padding: 10px; font-weight: 700; }
+.primary:disabled { opacity: .6; }
+.or { text-align: center; color: var(--muted); font-size: .8rem; margin: 0; }
+.social { display: flex; flex-direction: column; gap: 8px; }
+.social-btn { padding: 10px; font-weight: 700; }
+.social-btn.kakao { background: #fee500; color: #191919; border-color: #fee500; }
+.social-btn.google { background: var(--panel); color: var(--ink); }
+.auth-msg { margin: 0; font-size: .88rem; color: var(--good); min-height: 1.2em; }
+.auth-msg.bad { color: var(--again); }
+.links { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 6px; }
+.links li { display: flex; justify-content: space-between; align-items: center; }
+.links .ok { color: var(--good); font-size: .85rem; }
+.account-card .row { display: flex; gap: 8px; flex-wrap: wrap; }

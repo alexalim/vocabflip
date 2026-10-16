@@ -26,8 +26,10 @@
     return { cards: {}, days: {}, settings: { deck: "1k", newPerDay: 20, revPerDay: 200, voice: "", autoplay: true } };
   }
   let state = load();
+  const saveListeners = [];
   function save() {
     try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch (e) { toast("저장 실패: 브라우저 저장소를 쓸 수 없어요"); }
+    saveListeners.forEach((fn) => fn());
   }
   function today() {
     const k = SRS.dayKey(Date.now());
@@ -63,6 +65,7 @@
   });
 
   function toast(msg) {
+    $$(".toast").forEach((old) => old.remove());
     const t = document.createElement("div");
     t.className = "toast";
     t.textContent = msg;
@@ -417,6 +420,27 @@
     if (b.dataset.armed) { state = defaultState(); save(); delete b.dataset.armed; b.textContent = "학습 기록 초기화"; toast("초기화했어요"); renderStudy(); }
     else { b.dataset.armed = "1"; b.textContent = "한 번 더 누르면 초기화"; setTimeout(() => { delete b.dataset.armed; b.textContent = "학습 기록 초기화"; }, 3000); }
   });
+
+  function syncSettingsForm() {
+    deckSel.value = state.settings.deck;
+    $("#set-new").value = state.settings.newPerDay;
+    $("#set-rev").value = state.settings.revPerDay;
+    $("#set-autoplay").checked = state.settings.autoplay;
+  }
+
+  // auth.js 가 쓰는 연결 지점 (계정 동기화)
+  window.VF = {
+    esc, toast, showTab,
+    getState: () => state,
+    // s 가 null 이면 이 기기의 학습 기록을 비운다 (로그아웃·탈퇴)
+    replaceState(s) {
+      state = s ? Object.assign(defaultState(), s) : defaultState();
+      try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch (e) { /* 저장소 차단 */ }
+      syncSettingsForm();
+      renderStudy();
+    },
+    onSave: (fn) => saveListeners.push(fn),
+  };
 
   if (window.speechSynthesis) speechSynthesis.onvoiceschanged = loadVoices;
   loadVoices();
