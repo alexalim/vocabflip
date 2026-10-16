@@ -304,7 +304,17 @@
   document.addEventListener("click", (e) => {
     const c = e.target.closest("[data-copy]");
     if (c) {
-      navigator.clipboard.writeText(c.dataset.copy).then(() => toast("복사했어요"), () => toast("복사 실패"));
+      // http(사내망 PoC)에서는 navigator.clipboard 가 없다 → 글자를 선택해 두고 직접 복사하게 한다
+      const selectCode = () => {
+        const code = c.parentElement.querySelector("code");
+        const range = document.createRange();
+        range.selectNodeContents(code);
+        getSelection().removeAllRanges();
+        getSelection().addRange(range);
+        toast("선택해 뒀어요. 길게 눌러 복사하세요");
+      };
+      if (navigator.clipboard) navigator.clipboard.writeText(c.dataset.copy).then(() => toast("복사했어요"), selectCode);
+      else selectCode();
     }
     const ph = e.target.closest("[data-ph]");
     if (ph) showPhoneme(ph.dataset.ph);
