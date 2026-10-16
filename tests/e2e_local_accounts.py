@@ -1,12 +1,12 @@
 """Layer: E2E — PoC browser-only accounts (no Supabase config), against a local static server.
 
-Run: python3 -m http.server 8000 --bind 127.0.0.1 && uv run --with playwright python -I tests/e2e_local_accounts.py [chrome-path]
+Run: python3 -m http.server 8000 --bind 127.0.0.1 && uv run --with playwright python -I tests/e2e_local_accounts.py [chrome-path] [site-url]
 """
 import sys
 
 from playwright.sync_api import sync_playwright
 
-SITE = "http://127.0.0.1:8000/"
+SITE = sys.argv[2] if len(sys.argv) > 2 else "http://127.0.0.1:8000/"
 CHROME = sys.argv[1] if len(sys.argv) > 1 else None
 results = []
 

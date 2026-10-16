@@ -1,6 +1,9 @@
 """Layer: E2E — accounts against a LOCAL Supabase stack (supabase start) only.
 
 Never point this at the hosted project: it creates and deletes accounts.
+WARNING: `supabase start` publishes its ports on 0.0.0.0 with default, publicly known
+credentials (DB postgres/postgres, JWT secret). On a networked machine run it only for
+the test and `supabase stop` right after.
 
 Run:
   npx supabase start && npx supabase functions serve --env-file supabase/functions/.env

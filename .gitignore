@@ -6,3 +6,4 @@ __pycache__/
 .pytest_cache/
 supabase/functions/.env
 supabase/.env
+lan-data/

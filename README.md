@@ -11,6 +11,19 @@ claude.ai Artifact(비공개): https://claude.ai/artifact/P3mSq6xsAjR4svxpn8BaVi
 갱신: `python3 -I tools/build_artifact.py` → `dist/index.html`을 같은 링크로 재게시(`data/*.js`, `js/*.js`는 files로 함께).
 학습 기록은 기기별 저장이라 기기 간 이동은 설정 탭 "백업 복사" → 다른 기기에 붙여넣기.
 
+## 사내망 PoC 서버 (계정 공유)
+GitHub Pages 버전의 계정은 그 브라우저에만 저장된다. 같은 사내망의 여러 기기에서 같은 계정을 쓰려면
+이 PC에서 앱과 계정 API를 함께 띄운다(Python 표준 라이브러리만 사용, 포트 하나).
+
+```bash
+nohup python3 -u tools/serve_lan.py --host 0.0.0.0 --port 8000 > lan-data/server.log 2>&1 &
+# 접속: http://<이 PC의 사내 IP>:8000/   (PC를 재부팅하면 다시 실행)
+```
+
+- 계정·학습 기록은 `lan-data/vocabflip.sqlite3`(git 제외)에 저장, 비밀번호는 PBKDF2 해시
+- 앱에 필요한 파일만 제공하고 `.git`·설정·DB 파일은 404
+- http 연결이라 암호화되지 않는다. 다른 곳에서 쓰는 비밀번호는 쓰지 말 것
+
 ## 폰트
 국방과학연구소체(ADD Font, add.re.kr) Regular/ExtraBold → `fonts/*.woff2`. 지식재산권은 국방과학연구소, 글꼴 판매 금지,
 장평·기울기·두께 변형 금지(그래서 이탤릭 없음·`font-synthesis: none`). 임베딩 문의: (주)투게더그룹. IPA 기호는 폰트에 없어 별도 글꼴로 표시.
