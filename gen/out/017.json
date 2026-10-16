@@ -1,0 +1,1714 @@
+[
+{
+"w": "pub",
+"pos": "n",
+"meaning_ko": "술집, 펍",
+"example_en": "Let's meet at the **pub** after work for a quick drink.",
+"example_ko": "퇴근하고 펍에서 만나서 간단히 한잔하자.",
+"nuance_ko": "pub은 public house의 줄임말로 영국과 아일랜드에서 술과 간단한 식사를 파는 동네 술집이에요. bar가 미국식 술집이라면 pub은 편안하고 사교적인 동네 사랑방 같은 느낌이 있어요. go to the pub, pub lunch(펍에서 먹는 점심), pub quiz(펍에서 하는 퀴즈 대회)처럼 영국 문화와 연결된 표현이 많아요. 영국 사람들에게 pub은 단순히 술만 마시는 곳이 아니라 이웃과 만나는 장소라서 가족 단위 손님도 많아요. 한국의 호프집과 비슷하지만 분위기와 메뉴가 달라요.",
+"also": []
+},
+{
+"w": "pudding",
+"pos": "n",
+"meaning_ko": "푸딩, 디저트",
+"example_en": "We had chocolate **pudding** for dessert after dinner.",
+"example_ko": "저녁 먹고 후식으로 초콜릿 푸딩을 먹었어.",
+"nuance_ko": "pudding은 달콤한 푸딩, 또는 영국에서 디저트 전체를 가리키는 말이에요. 영국 가정에서 What's for pudding?은 '후식으로 뭐 있어?'라는 뜻이에요. 한국어의 푸딩은 말랑한 커스터드 같은 것이지만, 영국에는 Yorkshire pudding(고기 요리에 곁들이는 구운 반죽)이나 Christmas pudding처럼 푸딩이 아닌 요리도 있어요. 속담 The proof of the pudding is in the eating은 '직접 해 봐야 안다'는 뜻으로 글에서 자주 나와요. 미국에서는 dessert가 더 일반적이에요.",
+"also": []
+},
+{
+"w": "pump",
+"pos": "n",
+"meaning_ko": "펌프, 양수기",
+"example_en": "We need a **pump** to get the water out of the basement.",
+"example_ko": "지하실에서 물을 빼내려면 펌프가 필요해.",
+"nuance_ko": "pump는 액체나 공기를 밀어내는 기계 장치예요. bicycle pump(자전거 펌프), gas pump(주유기), heart pump처럼 쓰이고, 심장이 피를 내보내는 것도 pump로 설명해요. 동사로 pump는 '퍼 올리다, 주입하다'라서 pump money into a project는 '프로젝트에 돈을 쏟아붓다'예요. 구어의 pump up the volume은 '볼륨을 높이다'이고, pumped는 '신나서 들뜬'이라는 구어예요. 영국에서는 pumps가 운동화나 얇은 구두를 가리키기도 해요.",
+"also": [
+{
+"w": "pumping",
+"pos": "n",
+"ko": "펌프질",
+"en": "The **pumping** stopped when the power went out."
+}
+]
+},
+{
+"w": "punch",
+"pos": "n",
+"meaning_ko": "주먹질, 펀치",
+"example_en": "He threw a **punch**, but the other guy dodged it.",
+"example_ko": "그가 주먹을 날렸지만 상대가 피했어.",
+"nuance_ko": "punch는 주먹으로 치는 동작이나 한 방을 말해요. 동사 punch는 '주먹으로 치다'이고 구멍을 뚫는 도구 hole punch(펀치)에도 써요. 음료 punch는 과일 주스를 섞은 파티 음료이고, 비유로 pack a punch는 '강한 임팩트가 있다'는 뜻이에요. punchline은 농담의 마지막 웃음 포인트를 가리켜요. 같은 때리는 동작이라도 hit은 일반적으로 치는 것, slap은 손바닥으로 치는 것이라는 차이가 있어요.",
+"also": [
+{
+"w": "punched",
+"pos": "v",
+"ko": "주먹으로 쳤다",
+"en": "He **punched** the wall in frustration."
+}
+]
+},
+{
+"w": "punish",
+"pos": "v",
+"meaning_ko": "벌주다, 처벌하다",
+"example_en": "The teacher didn't **punish** the kids for being late.",
+"example_ko": "선생님은 지각한 아이들에게 벌을 주지 않았어.",
+"nuance_ko": "punish는 잘못에 대해 벌을 주는 동사로 punish someone for ~ 구조를 써요. 부모와 아이, 선생님과 학생, 법과 범죄자 모두에 쓸 수 있어요. penalize는 규칙 위반에 대한 규정상의 불이익(페널티)을 주는 것이고 punish는 더 넓은 의미의 처벌이에요. 명사는 punishment이고 capital punishment는 '사형'이에요. 비유로 '혹사하다'의 뜻도 있어서 The hills punished my legs는 '언덕이 다리를 혹사시켰다'예요.",
+"also": [
+{
+"w": "punishment",
+"pos": "n",
+"ko": "처벌, 벌",
+"en": "The **punishment** should fit the crime."
+},
+{
+"w": "punished",
+"pos": "v",
+"ko": "처벌받았다",
+"en": "He was **punished** for cheating on the test."
+}
+]
+},
+{
+"w": "pup",
+"pos": "n",
+"meaning_ko": "강아지, 새끼",
+"example_en": "The **pup** followed the boy all the way home.",
+"example_ko": "강아지가 소년을 집까지 줄곧 따라왔어.",
+"nuance_ko": "pup은 어린 개를 가리키는 말로 puppy와 거의 같지만 pup이 더 짧고 구어적이에요. 개뿐 아니라 바다표범, 늑대, 쥐 같은 동물의 새끼에도 써요. puppy는 귀엽게 부르는 말이고 pup은 사육이나 설명에서 자주 보여요. 비유로 buy a pup(속아서 나쁜 물건을 사다)이라는 오래된 영국식 관용구도 있어요. 사람에게 쓰면 '풋내기'라는 놀림 같은 말이에요.",
+"also": [
+{
+"w": "puppy",
+"pos": "n",
+"ko": "강아지",
+"en": "We adopted a **puppy** from the shelter."
+}
+]
+},
+{
+"w": "purchase",
+"pos": "v",
+"meaning_ko": "구매하다, 구입",
+"example_en": "You can **purchase** tickets online or at the door.",
+"example_ko": "표는 온라인이나 현장에서 구매할 수 있어요.",
+"nuance_ko": "purchase는 buy의 격식 있는 말로 구매하다 또는 명사로 '구매, 구입품'이라는 뜻이에요. 영수증에 proof of purchase(구매 증빙)라고 쓰고 make a purchase(구매하다)처럼 쓰여요. 일상 대화에서는 buy가 훨씬 자연스럽고 purchase는 비즈니스, 계약서, 쇼핑몰 안내 문구에 잘 맞아요. 큰 금액이나 중요한 거래일 때 purchase를 쓰면 어울려요. 명사 purchaser는 '구매자', 한국어의 buyer는 buyer라고 하는 쪽이 더 흔해요.",
+"also": [
+{
+"w": "purchaser",
+"pos": "n",
+"ko": "구매자",
+"en": "The **purchaser** must pay within thirty days."
+}
+]
+},
+{
+"w": "pure",
+"pos": "adj",
+"meaning_ko": "순수한, 깨끗한",
+"example_en": "This bracelet is made of **pure** silver.",
+"example_ko": "이 팔찌는 순은으로 만들어졌어.",
+"nuance_ko": "pure는 다른 것이 섞이지 않은 순수한 상태를 가리켜요. pure water, pure gold, pure cotton처럼 재료의 순도를 말할 때 써요. 감정이나 성격에도 써서 pure joy(순수한 기쁨), pure coincidence(순전한 우연)처럼 강조 표현이 돼요. 부정적인 문맥에서 pure nonsense(순 엉터리)처럼 강조하는 데도 쓰여요. clean은 더럽지 않은 상태, pure는 불순물이 없는 상태라는 차이가 있어요.",
+"also": [
+{
+"w": "purely",
+"pos": "adv",
+"ko": "순전히, 오로지",
+"en": "I did it **purely** out of curiosity."
+},
+{
+"w": "purity",
+"pos": "n",
+"ko": "순도, 순수함",
+"en": "The **purity** of the air in the mountains surprised us."
+}
+]
+},
+{
+"w": "purple",
+"pos": "adj",
+"meaning_ko": "보라색의",
+"example_en": "She painted her bedroom wall a deep **purple**.",
+"example_ko": "그녀는 침실 벽을 짙은 보라색으로 칠했어.",
+"nuance_ko": "purple은 보라색이고 형용사와 명사로 쓰여요. 역사적으로 보라색은 왕족의 색이어서 born to the purple은 '왕족으로 태어난'이라는 표현으로 남아 있어요. purple prose는 지나치게 화려한 문체를 비꼬는 말이에요. violet은 약간 푸른빛이 도는 제비꽃색, lavender는 연한 보라색으로 구분해요. 얼굴이 분노로 보랏빛이 될 때 go purple with rage라고 해서 색 변화에도 써요.",
+"also": []
+},
+{
+"w": "purpose",
+"pos": "n",
+"meaning_ko": "목적, 용도",
+"example_en": "What is the **purpose** of your visit to the city?",
+"example_ko": "이 도시를 방문한 목적이 뭐예요?",
+"nuance_ko": "purpose는 어떤 일을 하는 이유나 목적을 가리켜요. the purpose of ~(~의 목적), serve a purpose(역할을 하다), for this purpose(이 목적으로)처럼 써요. on purpose는 '일부러'라는 뜻으로 구어에서 아주 자주 써요. by accident의 반대 표현이에요. aim이 달성하려는 목표라면 purpose는 존재 이유에 가까워요. purposely(일부러)와 on purpose는 뜻이 같지만 on purpose가 구어에서 더 흔해요.",
+"also": [
+{
+"w": "purposely",
+"pos": "adv",
+"ko": "일부러, 고의로",
+"en": "He **purposely** left the door open."
+},
+{
+"w": "purposeful",
+"pos": "adj",
+"ko": "목적의식이 뚜렷한",
+"en": "She walked in a **purposeful** way toward the exit."
+}
+]
+},
+{
+"w": "qualify",
+"pos": "v",
+"meaning_ko": "자격을 얻다, 통과하다",
+"example_en": "Our team managed to **qualify** for the final round.",
+"example_ko": "우리 팀이 결승 라운드 출전 자격을 얻는 데 성공했어.",
+"nuance_ko": "qualify는 필요한 자격이나 조건을 갖추다 또는 갖추게 하다라는 동사예요. qualify for ~(~ 자격이 되다)가 자주 나오고 qualify as ~는 '~로 인정받다'예요. 스포츠에서는 예선을 통과한다는 뜻이고, 신청 자격에서는 Do I qualify?(제가 자격이 되나요?)로 쓰여요. 말을 한정하거나 완화하는 뜻으로 qualify a statement처럼 쓰기도 해요. 명사 qualification은 '자격, 자격증'이라서 job qualifications는 직무 자격 요건이에요.",
+"also": [
+{
+"w": "qualified",
+"pos": "adj",
+"ko": "자격을 갖춘",
+"en": "She is **qualified** to teach English."
+},
+{
+"w": "qualification",
+"pos": "n",
+"ko": "자격, 자격증",
+"en": "What **qualifications** do you need for the job?"
+}
+]
+},
+{
+"w": "quality",
+"pos": "n",
+"meaning_ko": "품질, 특성",
+"example_en": "The **quality** of the food here is outstanding.",
+"example_ko": "여기 음식은 품질이 아주 뛰어나.",
+"nuance_ko": "quality는 물건이나 서비스의 질, 또는 사람의 성품이나 특성을 가리켜요. high quality, poor quality, quality control(품질 관리)처럼 쓰고 사람에게는 leadership qualities(리더십 자질)처럼 써요. 형용사로 쓰면 '고급의'라서 a quality product는 '질 좋은 제품'이에요. quantity(양)와 대비해서 quality over quantity는 '양보다 질'이라는 표현이에요. 복수형 qualities는 사람의 장점, 특성을 가리킬 때 많이 써요.",
+"also": [
+{
+"w": "qualities",
+"pos": "n",
+"ko": "자질, 특성",
+"en": "Honesty is one of her best **qualities**."
+}
+]
+},
+{
+"w": "quit",
+"pos": "v",
+"meaning_ko": "그만두다, 끊다",
+"example_en": "He decided to **quit** his job and travel for a year.",
+"example_ko": "그는 일을 그만두고 일 년 동안 여행하기로 했어.",
+"nuance_ko": "quit는 일, 학교, 습관, 프로그램 등을 그만둔다는 구어적인 동사예요. quit smoking(담배를 끊다), quit one's job(직장을 그만두다)처럼 -ing와 함께 써요. stop이 일시적으로 멈추는 일이라면 quit는 완전히 끝내는 느낌이 강해요. 컴퓨터에서는 프로그램을 종료하는 quit 명령으로 알려져 있어요. Don't quit은 '포기하지 마'라는 격려 표현이에요. 과거형은 quit이라서 변하지 않는다는 점이 특징이에요.",
+"also": [
+{
+"w": "quitter",
+"pos": "n",
+"ko": "쉽게 포기하는 사람",
+"en": "I'm not a **quitter**, so I'll finish what I started."
+}
+]
+},
+{
+"w": "quote",
+"pos": "v",
+"meaning_ko": "인용하다, 견적을 내다",
+"example_en": "The article **quotes** several experts on the issue.",
+"example_ko": "그 기사는 이 문제에 대해 여러 전문가의 말을 인용하고 있어.",
+"nuance_ko": "quote는 남이 한 말이나 글을 그대로 가져오는 동사예요. 명사로는 '인용문'이고 큰따옴표를 가리키기도 해서 in quotes는 '따옴표 안에'예요. 또 비즈니스에서는 가격 견적을 말해서 Can you give me a quote?는 '견적을 받을 수 있을까요?'예요. 격식 있는 글에서는 quotation이 명사로 쓰이고 구어에서는 quote가 더 흔해요. 동사 cite는 출처를 밝히며 인용하는 느낌이 더 강해요.",
+"also": [
+{
+"w": "quotation",
+"pos": "n",
+"ko": "인용문, 견적",
+"en": "I found a nice **quotation** for the speech."
+}
+]
+},
+{
+"w": "range",
+"pos": "n",
+"meaning_ko": "범위, 다양함",
+"example_en": "The store offers a wide **range** of products at low prices.",
+"example_ko": "그 가게는 저렴한 가격에 다양한 제품을 팔아.",
+"nuance_ko": "range는 어떤 것이 미치는 폭이나 범위를 가리켜요. a wide range of ~(광범위한 ~), age range, price range, out of range(범위 밖)처럼 써요. 동사로는 '~에 걸쳐 있다'라서 Prices range from $10 to $50 같은 구조로 많이 써요. 산맥은 mountain range, 사격장은 shooting range, 가스레인지도 range(미국)라고 해요. 다양한 범위를 설명하는 비즈니스와 뉴스 영어에서 아주 자주 쓰이는 단어예요.",
+"also": [
+{
+"w": "ranging",
+"pos": "adj",
+"ko": "다양한 범위에 걸친",
+"en": "The prices are **ranging** from cheap to very expensive."
+}
+]
+},
+{
+"w": "rapid",
+"pos": "adj",
+"meaning_ko": "빠른, 급속한",
+"example_en": "The city has seen **rapid** growth over the past decade.",
+"example_ko": "그 도시는 지난 10년 동안 급속하게 성장했어.",
+"nuance_ko": "rapid는 변화나 움직임이 매우 빠르다는 형용사예요. rapid growth, rapid response, rapid change처럼 속도와 변화를 설명할 때 써요. fast는 일반적으로 빠른 사람이나 물건에 쓰고 rapid는 변화·진행의 빠름에 어울려요. 복수 명사 rapids는 '급류'라서 white-water rapids는 래프팅을 하는 급류예요. 의학에서 rapid test(신속 검사)처럼 격식 있는 문맥에서 자주 보여요.",
+"also": [
+{
+"w": "rapidly",
+"pos": "adv",
+"ko": "빠르게",
+"en": "Technology is changing **rapidly**."
+}
+]
+},
+{
+"w": "rare",
+"pos": "adj",
+"meaning_ko": "드문, 희귀한",
+"example_en": "It's **rare** to see snow here in October.",
+"example_ko": "여기서 10월에 눈을 보는 건 드문 일이야.",
+"nuance_ko": "rare는 자주 일어나지 않거나 쉽게 구할 수 없는 것을 가리켜요. a rare disease, a rare opportunity, rare species처럼 써요. 스테이크 굽기 정도에서 rare는 '살짝만 익힌'이라는 전혀 다른 뜻이어서 레스토랑에서 주문할 때 헷갈릴 수 있어요. unusual은 평소와 다르다는 느낌, rare는 개수가 적다는 느낌이에요. 부사 rarely는 '드물게'이고 seldom과 비슷하지만 rarely가 더 일상적이에요.",
+"also": [
+{
+"w": "rarely",
+"pos": "adv",
+"ko": "드물게",
+"en": "He **rarely** eats out on weekdays."
+},
+{
+"w": "rarity",
+"pos": "n",
+"ko": "희귀한 것",
+"en": "A white tiger is a real **rarity**."
+}
+]
+},
+{
+"w": "rat",
+"pos": "n",
+"meaning_ko": "쥐, 배신자",
+"example_en": "We saw a huge **rat** behind the restaurant last night.",
+"example_ko": "어젯밤 식당 뒤편에서 엄청 큰 쥐를 봤어.",
+"nuance_ko": "rat는 mouse보다 크고 더러운 이미지의 쥐예요. 사람에게 rat라고 하면 '배신자, 밀고자'라는 심한 욕이 되고, 동사 rat on someone은 '밀고하다'라는 구어예요. smell a rat은 '뭔가 수상하다고 눈치채다'라는 관용구예요. rat race는 '치열한 경쟁 사회'를 가리켜서 get out of the rat race는 '경쟁에서 벗어나다'예요. 실험용 쥐는 lab rat이라고 해요.",
+"also": [
+{
+"w": "rats",
+"pos": "n",
+"ko": "쥐들",
+"en": "The farmer put out traps for the **rats**."
+}
+]
+},
+{
+"w": "react",
+"pos": "v",
+"meaning_ko": "반응하다",
+"example_en": "How did your parents **react** when you told them the news?",
+"example_ko": "부모님께 소식을 전했을 때 어떻게 반응하셨어?",
+"nuance_ko": "react는 어떤 일에 반응하는 동사로 react to ~(~에 반응하다) 구조로 써요. 감정적 반응뿐 아니라 화학 반응에서도 쓰여서 react with ~는 '~와 반응하다'예요. respond가 의도적으로 답하는 것이라면 react는 자극을 받고 자동으로 나오는 반응이라는 느낌이에요. over-react는 '과잉 반응하다'라서 Don't overreact는 '너무 흥분하지 마'예요. 명사 reaction은 '반응'으로 allergic reaction(알레르기 반응)처럼 쓰여요.",
+"also": [
+{
+"w": "reaction",
+"pos": "n",
+"ko": "반응",
+"en": "His **reaction** surprised everyone in the room."
+},
+{
+"w": "reactor",
+"pos": "n",
+"ko": "원자로",
+"en": "The nuclear **reactor** was shut down for repairs."
+}
+]
+},
+{
+"w": "recall",
+"pos": "v",
+"meaning_ko": "기억해 내다, 리콜하다",
+"example_en": "I can't **recall** where I left my keys.",
+"example_ko": "열쇠를 어디에 뒀는지 기억이 안 나.",
+"nuance_ko": "recall은 지난 일을 기억해 내는 동사로 remember보다 약간 격식 있어요. I can't recall은 '기억나지 않는다'는 정중한 표현이고 법정이나 비즈니스에서도 잘 써요. 또 제품에 결함이 있을 때 회사가 회수하는 것을 recall이라고 해서 car recall(자동차 리콜)처럼 쓰여요. 한국어로 '리콜'이라고 쓰는 그 의미가 맞아요. 명사로는 '기억력, 회수'라서 total recall은 '완벽한 기억'이에요.",
+"also": [
+{
+"w": "recalled",
+"pos": "v",
+"ko": "기억해 냈다, 회수했다",
+"en": "The company **recalled** thousands of faulty phones."
+}
+]
+},
+{
+"w": "receive",
+"pos": "v",
+"meaning_ko": "받다, 수령하다",
+"example_en": "Did you **receive** my email about the schedule change?",
+"example_ko": "일정 변경 관련해서 보낸 이메일 받았어?",
+"nuance_ko": "receive는 건네받는 것을 가리키는 동사로 get의 격식 있는 말이에요. receive a letter, receive an award, receive a call처럼 써요. 철자 규칙인 i before e except after c의 대표 예로 receive는 ei가 맞아요. 손님을 맞이할 때도 쓰여서 receive guests는 '손님을 맞다'예요. 반대말은 give나 send이고 영수증은 receipt라서 철자에 p가 있다는 점도 함께 알아 두면 좋아요.",
+"also": [
+{
+"w": "received",
+"pos": "adj",
+"ko": "받은, 일반적으로 인정된",
+"en": "We **received** a warm welcome from the locals."
+}
+]
+},
+{
+"w": "recipe",
+"pos": "n",
+"meaning_ko": "요리법, 비법",
+"example_en": "Could you send me the **recipe** for that chocolate cake?",
+"example_ko": "그 초콜릿 케이크 레시피 좀 보내 줄래?",
+"nuance_ko": "recipe는 음식을 만드는 방법과 재료를 적은 요리법이에요. 발음은 /ˈresəpi/라서 '레시피'에 가까운데, 마지막 e가 소리 나는 것이 한국 학습자가 놓치기 쉬워요. 비유로 a recipe for disaster는 '재앙으로 이어질 게 뻔한 조합'이라는 관용 표현이고 recipe for success는 '성공의 비결'이에요. cooking method는 방법만, recipe는 재료와 순서를 포함한 설명서예요. 전통 비법은 secret recipe라고 해요.",
+"also": []
+},
+{
+"w": "reckon",
+"pos": "v",
+"meaning_ko": "생각하다, 추정하다",
+"example_en": "I **reckon** it'll rain before we get home.",
+"example_ko": "집에 도착하기 전에 비가 올 것 같은데.",
+"nuance_ko": "reckon은 영국과 호주 구어에서 'think(생각하다)'의 뜻으로 많이 써요. I reckon (that) ~은 '~인 것 같아'라는 가벼운 의견 표현이에요. 원래는 '계산하다'라는 뜻이어서 reckon the cost처럼 쓰기도 하지만 요즘은 구어의 생각을 말하는 쪽이 더 흔해요. reckon with ~는 '~를 고려하다, 상대하다'로 a force to be reckoned with(무시할 수 없는 세력)가 유명한 표현이에요. 미국에서는 남부 사투리에서 자주 들려요.",
+"also": [
+{
+"w": "reckoning",
+"pos": "n",
+"ko": "계산, 결산",
+"en": "There will be a day of **reckoning** for this mistake."
+}
+]
+},
+{
+"w": "recognize",
+"pos": "v",
+"meaning_ko": "알아보다, 인정하다",
+"example_en": "I almost didn't **recognize** you with the new haircut.",
+"example_ko": "새 머리 모양 때문에 하마터면 못 알아볼 뻔했어.",
+"nuance_ko": "recognize는 전에 본 것을 다시 알아보거나, 사실·공로를 인정한다는 동사예요. recognize a face, recognize a problem, recognized as a leader처럼 써요. 영국식 철자는 recognise예요. identify는 누구인지 확인하는 일, recognize는 보는 순간 '아, 그 사람이네' 하고 알아차리는 일이에요. 컴퓨터에서 speech recognition(음성 인식)처럼 인식 기술에도 써요. 명사는 recognition이고 in recognition of ~는 '~를 인정해서'예요.",
+"also": [
+{
+"w": "recognized",
+"pos": "adj",
+"ko": "인정받는",
+"en": "She is a **recognized** expert in her field."
+}
+]
+},
+{
+"w": "recommend",
+"pos": "v",
+"meaning_ko": "추천하다, 권하다",
+"example_en": "Can you **recommend** a good restaurant near here?",
+"example_ko": "이 근처 괜찮은 식당 추천해 줄 수 있어?",
+"nuance_ko": "recommend는 좋다고 생각해서 남에게 권하는 동사예요. recommend A to B(A를 B에게 추천하다) 구조와 recommend (that) ~ 구조를 써요. 이때 that절 안에서는 동사 원형이나 should를 쓰는 점이 특징이라서 I recommend that he go처럼 말해요. suggest보다 더 확신을 갖고 권하는 느낌이에요. 명사 recommendation은 '추천, 추천서'라서 write a recommendation letter(추천서를 쓰다)처럼 써요. 철자가 c 한 개, m 두 개인 것에 주의해요.",
+"also": [
+{
+"w": "recommendation",
+"pos": "n",
+"ko": "추천, 권고",
+"en": "Thanks for the **recommendation**, the book was great."
+}
+]
+},
+{
+"w": "recover",
+"pos": "v",
+"meaning_ko": "회복하다, 되찾다",
+"example_en": "It took her a month to **recover** from the flu.",
+"example_ko": "그녀가 독감에서 회복하는 데 한 달이 걸렸어.",
+"nuance_ko": "recover는 병이나 충격에서 회복하거나 잃은 것을 되찾는다는 동사예요. recover from an illness는 '병에서 회복하다', recover lost data는 '잃어버린 데이터를 복구하다'예요. get better보다 격식 있고 포괄적이에요. 경제나 시장이 회복될 때도 쓰여서 The economy is recovering처럼 뉴스에 자주 나와요. 명사 recovery는 '회복'으로 a quick recovery(빠른 회복), Get well soon 대신 쓰는 Wishing you a speedy recovery 같은 문구가 있어요.",
+"also": [
+{
+"w": "recovery",
+"pos": "n",
+"ko": "회복",
+"en": "The patient made a full **recovery**."
+}
+]
+},
+{
+"w": "reduce",
+"pos": "v",
+"meaning_ko": "줄이다, 감소시키다",
+"example_en": "We need to **reduce** costs without losing quality.",
+"example_ko": "품질은 유지하면서 비용을 줄여야 해.",
+"nuance_ko": "reduce는 양, 크기, 정도를 줄이는 타동사예요. reduce costs, reduce stress, reduce the risk처럼 목적어가 꼭 필요해요. 감소하다라는 자동사는 decrease나 fall을 쓰고 reduce는 스스로 줄어드는 게 아니라 누가 줄인다는 점이 포인트예요. reduce A to B는 'A를 B로 줄이다'이고 reduce someone to tears는 '울게 만들다'라는 표현이에요. 환경 구호인 reduce, reuse, recycle이 유명하고 가격 인하는 reduced price라고 해요.",
+"also": [
+{
+"w": "reduction",
+"pos": "n",
+"ko": "감소, 인하",
+"en": "There was a sharp **reduction** in crime last year."
+},
+{
+"w": "reduced",
+"pos": "adj",
+"ko": "줄어든, 할인된",
+"en": "The shop is selling shoes at **reduced** prices."
+}
+]
+},
+{
+"w": "refer",
+"pos": "v",
+"meaning_ko": "언급하다, 참고하다",
+"example_en": "Please **refer** to the manual if you have any questions.",
+"example_ko": "궁금한 점이 있으면 설명서를 참고하세요.",
+"nuance_ko": "refer는 refer to ~ 구조로 '~을 언급하다, ~을 참고하다, ~을 가리키다'는 뜻이에요. Please refer to page 10(10쪽을 참조하세요)처럼 문서에서 아주 자주 보여요. 사람을 다른 전문가에게 보내는 뜻도 있어서 The doctor referred me to a specialist(의사가 전문의에게 가 보라고 했다)예요. 과거형은 referred처럼 r을 겹쳐 써요. 명사 reference는 '언급, 참고, 추천인'이라서 job reference(추천서)처럼 비즈니스에서 쓰여요.",
+"also": [
+{
+"w": "reference",
+"pos": "n",
+"ko": "참고, 언급",
+"en": "Keep this manual for future **reference**."
+},
+{
+"w": "referral",
+"pos": "n",
+"ko": "소개, 추천 의뢰",
+"en": "You need a **referral** from your doctor."
+}
+]
+},
+{
+"w": "refrigerator",
+"pos": "n",
+"meaning_ko": "냉장고",
+"example_en": "Put the milk back in the **refrigerator** when you're done.",
+"example_ko": "다 쓰고 나면 우유를 냉장고에 다시 넣어 둬.",
+"nuance_ko": "refrigerator는 냉장고이고 일상 대화에서는 fridge로 더 많이 줄여 말해요. 미국에서는 refrigerator 그대로, 영국에서는 fridge를 더 흔히 써요. 냉동실은 freezer이고 fridge-freezer는 냉장 냉동 겸용이에요. refrigerate는 '냉장하다'라는 동사라서 Refrigerate after opening(개봉 후 냉장 보관)처럼 식품 포장에서 자주 봐요. 한국어로는 '냉장고'지만 영어는 냉동과 냉장을 구분해서 쓴다는 점이 달라요.",
+"also": [
+{
+"w": "fridge",
+"pos": "n",
+"ko": "냉장고(줄임말)",
+"en": "There's nothing to eat in the **fridge**."
+},
+{
+"w": "refrigerate",
+"pos": "v",
+"ko": "냉장하다",
+"en": "You should **refrigerate** the leftovers right away."
+}
+]
+},
+{
+"w": "refuse",
+"pos": "v",
+"meaning_ko": "거절하다, 거부하다",
+"example_en": "She **refused** to sign the contract until it was changed.",
+"example_ko": "그녀는 계약서가 수정될 때까지 서명하기를 거부했어.",
+"nuance_ko": "refuse는 요청이나 제안을 거절하거나 ~하기를 거부하는 동사예요. refuse to + 동사원형 구조가 가장 흔하고 refuse an offer(제안을 거절하다)처럼 목적어도 가능해요. reject는 받은 것을 받아들이지 않는 일, refuse는 요청에 응하지 않는 일이라는 차이가 있어요. decline은 정중하게 거절하는 느낌이라 가장 부드러워요. 명사 refuse는 /ˈrefjuːs/로 발음하고 '쓰레기'를 뜻해서 refuse collection(쓰레기 수거)처럼 써요. 명사 refusal은 '거부'예요.",
+"also": [
+{
+"w": "refusal",
+"pos": "n",
+"ko": "거절",
+"en": "His **refusal** to help surprised everyone."
+}
+]
+},
+{
+"w": "regard",
+"pos": "v",
+"meaning_ko": "~로 여기다, 간주하다",
+"example_en": "Many people **regard** him as the best player of his generation.",
+"example_ko": "많은 사람이 그를 자기 세대 최고의 선수로 여겨.",
+"nuance_ko": "regard는 regard A as B(A를 B로 여기다) 구조로 가장 많이 써요. consider와 비슷하지만 regard as에는 as가 꼭 필요하다는 점이 달라요. 편지 끝의 With kind regards는 '안부를 전하며'이고, in regard to ~ 또는 with regard to ~는 '~에 관하여'라는 격식 있는 표현이에요. 명사 regard는 '존경, 배려'라서 have high regard for ~는 '~를 높이 평가하다'예요. regarding은 '~에 관하여'라는 전치사로 이메일 제목에서 자주 보여요.",
+"also": [
+{
+"w": "regarding",
+"pos": "prep",
+"ko": "~에 관하여",
+"en": "I'm writing **regarding** your recent order."
+},
+{
+"w": "regardless",
+"pos": "adv",
+"ko": "상관없이",
+"en": "We'll go ahead **regardless** of the weather."
+}
+]
+},
+{
+"w": "region",
+"pos": "n",
+"meaning_ko": "지역, 지방",
+"example_en": "This **region** is famous for its wine and olive oil.",
+"example_ko": "이 지역은 와인과 올리브유로 유명해.",
+"nuance_ko": "region은 지리적, 행정적, 문화적으로 구분되는 지역을 가리켜요. 국가보다 작고 도시보다 큰 범위를 말할 때가 많아요. the Asia-Pacific region, the northern region처럼 쓰여요. in the region of ~는 '~ 정도'라는 어림 표현으로 in the region of 500 dollars는 '약 500달러'예요. area가 일상적이고 좁은 지역, region은 더 넓고 공식적인 느낌이에요. 형용사 regional은 '지역의'라서 regional dialect(지역 방언)처럼 써요.",
+"also": [
+{
+"w": "regional",
+"pos": "adj",
+"ko": "지역의",
+"en": "The festival features **regional** food from across the country."
+}
+]
+},
+{
+"w": "register",
+"pos": "v",
+"meaning_ko": "등록하다, 기록하다",
+"example_en": "You need to **register** online before the class starts.",
+"example_ko": "수업이 시작되기 전에 온라인으로 등록해야 해요.",
+"nuance_ko": "register는 이름이나 정보를 공식 명단에 올리는 동사예요. register for a class, register a car, register a complaint처럼 써요. 명사 register는 '기록부'이고 cash register는 '금전 등록기'예요. 감정이 겉으로 드러날 때도 쓰여서 Her face registered surprise(그녀의 얼굴에 놀람이 드러났다)처럼 써요. 명사 registration은 '등록'이라서 registration fee는 '등록비'예요. sign up보다 공식적이고 격식 있는 말이에요.",
+"also": [
+{
+"w": "registration",
+"pos": "n",
+"ko": "등록",
+"en": "**Registration** closes on Friday."
+},
+{
+"w": "registered",
+"pos": "adj",
+"ko": "등록된",
+"en": "This is a **registered** trademark."
+}
+]
+},
+{
+"w": "regular",
+"pos": "adj",
+"meaning_ko": "규칙적인, 정기적인",
+"example_en": "I try to get **regular** exercise, at least three times a week.",
+"example_ko": "나는 적어도 주 3회는 규칙적으로 운동하려고 해.",
+"nuance_ko": "regular는 일정한 간격이나 패턴으로 반복되는 것을 가리키는 형용사예요. regular meetings, regular customers, regular size(보통 사이즈)처럼 써요. 미국 카페에서 regular coffee는 '보통 커피'를 뜻해요. 문법에서 regular verb는 '규칙 동사'이고 반대는 irregular verb(불규칙 동사)예요. 명사로 쓰면 '단골'이라서 He's a regular here는 '그 사람은 여기 단골이야'예요. ordinary는 평범하다는 뜻, regular는 일정하다는 뜻이라 구분돼요.",
+"also": [
+{
+"w": "regularly",
+"pos": "adv",
+"ko": "정기적으로",
+"en": "She **regularly** visits her grandmother."
+},
+{
+"w": "irregular",
+"pos": "adj",
+"ko": "불규칙한",
+"en": "His heartbeat was **irregular**."
+}
+]
+},
+{
+"w": "relax",
+"pos": "v",
+"meaning_ko": "쉬다, 긴장을 풀다",
+"example_en": "I just want to **relax** on the sofa and watch a movie tonight.",
+"example_ko": "오늘 밤에는 소파에서 쉬면서 영화나 보고 싶어.",
+"nuance_ko": "relax는 몸과 마음의 긴장을 푼다는 동사예요. Relax!는 '진정해, 긴장 풀어'라는 구어 표현이고 take it easy와 비슷해요. relax in a hot bath(뜨거운 목욕을 하며 쉬다)처럼 쓰고, 규칙이나 근육을 '완화하다'는 뜻으로도 써요. rest가 쉬면서 에너지를 회복하는 일이라면 relax는 긴장을 푸는 일에 초점이 있어요. 형용사 relaxed는 '느긋한', relaxing은 '편안하게 해 주는'이라서 헷갈리지 않게 구분해요.",
+"also": [
+{
+"w": "relaxed",
+"pos": "adj",
+"ko": "느긋한",
+"en": "The atmosphere at the cafe was very **relaxed**."
+},
+{
+"w": "relaxing",
+"pos": "adj",
+"ko": "편안하게 하는",
+"en": "A **relaxing** walk helped clear my head."
+}
+]
+},
+{
+"w": "release",
+"pos": "v",
+"meaning_ko": "풀어 주다, 출시하다, 방출하다",
+"example_en": "The company will **release** its new phone next month.",
+"example_ko": "그 회사는 다음 달에 신형 폰을 출시할 거야.",
+"nuance_ko": "release는 가두거나 쥐고 있던 것을 놓아준다는 동사예요. 사람을 석방하거나, 영화·앨범·제품을 출시하거나, 가스를 방출하는 일에 모두 써요. release a statement(성명을 발표하다), release a prisoner처럼 폭넓게 쓰여요. 명사 release는 '출시, 석방, 발표'라서 press release는 '보도 자료', new release는 '신작'이에요. 감정을 풀어낼 때도 써서 release stress는 '스트레스를 풀다'예요.",
+"also": [
+{
+"w": "released",
+"pos": "v",
+"ko": "출시했다, 풀어 줬다",
+"en": "The band **released** a new album last week."
+}
+]
+},
+{
+"w": "relief",
+"pos": "n",
+"meaning_ko": "안도, 구호",
+"example_en": "What a **relief** that the exam is finally over!",
+"example_ko": "드디어 시험이 끝나서 정말 후련해!",
+"nuance_ko": "relief는 걱정이나 고통이 사라졌을 때 느끼는 안도감을 가리켜요. What a relief!, to my relief(안심되게도), sigh of relief(안도의 한숨)처럼 쓰여요. 고통을 덜어 주는 것도 relief라서 pain relief(진통)처럼 써요. 재난 지역의 구호품이나 구호 활동은 disaster relief로 표현해요. 동사는 relieve이고 형용사 relieved는 '안도한'이라서 I'm relieved는 '안심했어'예요.",
+"also": []
+},
+{
+"w": "rely",
+"pos": "v",
+"meaning_ko": "의지하다, 믿다",
+"example_en": "You can always **rely** on me when you need help.",
+"example_ko": "도움이 필요하면 언제든 나한테 기대도 돼.",
+"nuance_ko": "rely는 rely on ~ 구조로 '~에 의지하다, 믿고 기대다'는 뜻이에요. depend on과 거의 같지만 rely on은 신뢰에 더 초점이 있어요. 전치사가 on이라는 점을 놓치기 쉬워서 rely to나 rely at은 틀려요. 형용사 reliable은 '믿을 만한'이고 명사 reliance는 '의존'이에요. rely on A for B(B를 A에게 의존하다) 구조도 쓰여서 rely on friends for support(친구에게 지지를 의지하다)처럼 말해요.",
+"also": [
+{
+"w": "reliable",
+"pos": "adj",
+"ko": "믿을 만한",
+"en": "He's a **reliable** person who always keeps his word."
+},
+{
+"w": "reliance",
+"pos": "n",
+"ko": "의존",
+"en": "Her **reliance** on others worries me."
+}
+]
+},
+{
+"w": "remain",
+"pos": "v",
+"meaning_ko": "남아 있다, 계속 ~이다",
+"example_en": "Only a few tickets **remain** for tonight's show.",
+"example_ko": "오늘 밤 공연 표가 몇 장밖에 안 남았어.",
+"nuance_ko": "remain은 남아 있거나 변함없이 어떤 상태로 있다는 동사예요. remain silent(침묵을 지키다), remain calm(침착함을 유지하다), It remains to be seen(두고 봐야 한다)처럼 써요. stay와 비슷하지만 remain이 더 격식 있고 글에서 많이 써요. 복수 명사 remains는 '남은 것, 유해'라서 the remains of the building은 '건물의 잔해'예요. 형용사 remaining은 '남아 있는'이라서 the remaining time(남은 시간)처럼 써요.",
+"also": [
+{
+"w": "remaining",
+"pos": "adj",
+"ko": "남아 있는",
+"en": "Please finish the **remaining** work by noon."
+},
+{
+"w": "remains",
+"pos": "n",
+"ko": "유적, 잔해",
+"en": "The **remains** of the castle are still visible."
+}
+]
+},
+{
+"w": "remark",
+"pos": "n",
+"meaning_ko": "발언, 논평",
+"example_en": "His **remark** about the food made everyone laugh.",
+"example_ko": "음식에 대한 그의 한마디에 모두가 웃었어.",
+"nuance_ko": "remark는 의견이나 느낌을 가볍게 던지는 말이에요. make a remark, a rude remark(무례한 말), a passing remark(지나가는 말)처럼 써요. comment와 비슷하지만 remark는 약간 눈에 띄는 한마디라는 느낌이 있어요. 동사로는 '언급하다, 알아차리다'라서 She remarked on the weather(그녀는 날씨에 대해 한마디 했다)처럼 써요. 형용사 remarkable은 '주목할 만한, 놀라운'이라서 칭찬할 때 자주 써요.",
+"also": [
+{
+"w": "remarkable",
+"pos": "adj",
+"ko": "놀라운, 주목할 만한",
+"en": "She made a **remarkable** recovery after the surgery."
+},
+{
+"w": "remarkably",
+"pos": "adv",
+"ko": "놀랄 만큼",
+"en": "The test was **remarkably** easy."
+}
+]
+},
+{
+"w": "remind",
+"pos": "v",
+"meaning_ko": "상기시키다, 일깨우다",
+"example_en": "Please **remind** me to call the dentist tomorrow.",
+"example_ko": "내일 치과에 전화해야 한다고 나한테 좀 알려 줘.",
+"nuance_ko": "remind는 잊고 있던 것을 떠올리게 해 주는 동사로 remind someone to + 동사원형, remind someone of ~ 구조를 써요. remember와 혼동하기 쉬운데 remember는 스스로 기억하는 일, remind는 남이 떠올리게 하는 일이에요. That reminds me는 '그러고 보니 생각났다'라는 구어 표현이에요. 사람이 누구를 닮았을 때도 He reminds me of my brother(그 사람 우리 형이랑 닮았어)처럼 써요. 명사 reminder는 '알림'이에요.",
+"also": [
+{
+"w": "reminder",
+"pos": "n",
+"ko": "상기시키는 것, 알림",
+"en": "I set a **reminder** on my phone for the meeting."
+}
+]
+},
+{
+"w": "remove",
+"pos": "v",
+"meaning_ko": "제거하다, 치우다",
+"example_en": "Please **remove** your shoes before entering the room.",
+"example_ko": "방에 들어가기 전에 신발을 벗어 주세요.",
+"nuance_ko": "remove는 어떤 곳에서 떼어 내거나 치우거나 없앤다는 동사예요. remove stains(얼룩을 지우다), remove a file(파일을 삭제하다), remove someone from office(공직에서 해임하다)처럼 폭넓게 써요. take off는 구어, remove는 격식 있는 말이에요. 옷을 벗는다는 뜻으로는 remove가 격식 있게 들려서 공공 안내문에서 자주 보여요. 명사는 removal이고 형용사 removable은 '떼어 낼 수 있는'이에요.",
+"also": [
+{
+"w": "removal",
+"pos": "n",
+"ko": "제거, 철거",
+"en": "The **removal** of the old fence took two days."
+}
+]
+},
+{
+"w": "repair",
+"pos": "v",
+"meaning_ko": "수리하다",
+"example_en": "I need to **repair** my bike before the weekend trip.",
+"example_ko": "주말 여행 전에 자전거를 수리해야 해.",
+"nuance_ko": "repair는 고장 나거나 망가진 것을 고치는 동사예요. repair a car, repair a roof처럼 쓰고 fix보다 격식 있고 전문적으로 고치는 느낌이 있어요. 명사 repair는 '수리'라서 under repair(수리 중), repair shop(수리점)처럼 써요. 관계 회복에도 쓰여서 repair a relationship은 '관계를 회복하다'예요. fix는 구어에서 거의 모든 문제를 고치는 말로 쓰이는 반면 repair는 물리적으로 망가진 물건에 더 잘 어울려요.",
+"also": [
+{
+"w": "repairs",
+"pos": "n",
+"ko": "수리",
+"en": "The building needs major **repairs**."
+}
+]
+},
+{
+"w": "repeat",
+"pos": "v",
+"meaning_ko": "반복하다, 따라 말하다",
+"example_en": "Could you **repeat** that? I didn't catch it.",
+"example_ko": "다시 한 번 말해 줄래? 못 알아들었어.",
+"nuance_ko": "repeat는 같은 일을 다시 하거나 같은 말을 다시 하는 동사예요. Could you repeat that?은 '다시 말씀해 주시겠어요?'라는 정중한 요청이에요. repeat after me(저를 따라 하세요)처럼 수업에서도 많이 쓰고, repeat a year는 '재수강, 유급하다'예요. 명사 repeat는 '재방송, 반복'이라서 TV repeat는 '재방송'이에요. 경구 History repeats itself(역사는 반복된다)가 유명해요.",
+"also": [
+{
+"w": "repeatedly",
+"pos": "adv",
+"ko": "반복해서",
+"en": "I've asked him **repeatedly** to stop."
+},
+{
+"w": "repetition",
+"pos": "n",
+"ko": "반복",
+"en": "Learning a language needs a lot of **repetition**."
+}
+]
+},
+{
+"w": "replace",
+"pos": "v",
+"meaning_ko": "교체하다, 대체하다",
+"example_en": "We need to **replace** the batteries in the remote.",
+"example_ko": "리모컨 건전지를 갈아 줘야 해.",
+"nuance_ko": "replace는 낡거나 쓸 수 없는 것을 새것이나 다른 것으로 바꿔 놓는 동사예요. replace A with B(A를 B로 대체하다)와 replace the old one처럼 써요. change는 바꾸는 행위 일반, replace는 원래 자리에 다른 걸 대신 놓는 일이라는 차이가 있어요. 사람을 대체할 때도 써서 He replaced the old manager(그가 이전 매니저의 후임이 됐다)예요. 명사 replacement는 '교체품, 후임자'예요.",
+"also": [
+{
+"w": "replacement",
+"pos": "n",
+"ko": "교체품, 후임",
+"en": "We're looking for a **replacement** for our receptionist."
+},
+{
+"w": "irreplaceable",
+"pos": "adj",
+"ko": "대체할 수 없는",
+"en": "She's an **irreplaceable** member of the team."
+}
+]
+},
+{
+"w": "represent",
+"pos": "v",
+"meaning_ko": "대표하다, 나타내다",
+"example_en": "A lawyer will **represent** you in court.",
+"example_ko": "변호사가 법정에서 당신을 대리할 거예요.",
+"nuance_ko": "represent는 누군가를 대신해 나서거나, 어떤 것을 상징·의미한다는 동사예요. represent the country(나라를 대표하다), The red line represents sales(빨간 선은 매출을 나타낸다)처럼 써요. 변호사나 대리인이 의뢰인을 대신하는 의미로도 많이 보여요. 명사 representative는 '대표자, 대리인'이고 sales representative는 '영업 사원'이라서 줄여서 rep이라고도 해요. 형용사 representative는 '대표적인'이에요.",
+"also": [
+{
+"w": "representative",
+"pos": "n",
+"ko": "대표자, 담당자",
+"en": "A **representative** from the bank will call you."
+},
+{
+"w": "representation",
+"pos": "n",
+"ko": "대표, 표현",
+"en": "The charts provide a visual **representation** of the data."
+}
+]
+},
+{
+"w": "require",
+"pos": "v",
+"meaning_ko": "필요로 하다, 요구하다",
+"example_en": "This job **requires** at least two years of experience.",
+"example_ko": "이 일은 최소 2년의 경력이 필요해.",
+"nuance_ko": "require는 필요하다 또는 규칙이나 법이 요구한다는 격식 있는 동사예요. require A to + 동사원형(A가 ~하도록 요구하다), be required to ~(~해야 한다)처럼 써요. need보다 의무나 필수 조건의 느낌이 강하고 안내문과 공고에 자주 나와요. 'Required'라는 표시는 반드시 입력해야 하는 칸을 뜻해요. 명사 requirement는 '요건'으로 entry requirements(입국 요건)처럼 쓰여요. demand는 강하게 요구하는 느낌이라 require보다 세요.",
+"also": [
+{
+"w": "requirement",
+"pos": "n",
+"ko": "요건, 필요 조건",
+"en": "A passport is a basic **requirement** for travel abroad."
+},
+{
+"w": "required",
+"pos": "adj",
+"ko": "필수의",
+"en": "All fields marked with a star are **required**."
+}
+]
+},
+{
+"w": "research",
+"pos": "n",
+"meaning_ko": "연구, 조사",
+"example_en": "She spent three years doing **research** on climate change.",
+"example_ko": "그녀는 3년 동안 기후 변화를 연구했어.",
+"nuance_ko": "research는 어떤 주제를 깊이 조사하고 연구하는 일이에요. 셀 수 없는 명사라서 a research나 researches는 어색하고 some research, a piece of research라고 해요. 한국 학습자가 가장 자주 하는 실수예요. do research on ~(~을 조사하다), market research(시장 조사)처럼 써요. 동사로도 쓰여서 research the topic은 '그 주제를 조사하다'예요. 미국에서는 강세가 /ˈriːsɜːrtʃ/로 앞에 오고 영국에서는 /rɪˈsɜːtʃ/로 뒤에 오는 경우도 있어요.",
+"also": [
+{
+"w": "researcher",
+"pos": "n",
+"ko": "연구원",
+"en": "The **researcher** published her findings in a journal."
+}
+]
+},
+{
+"w": "reserve",
+"pos": "v",
+"meaning_ko": "예약하다, 비축하다",
+"example_en": "I'd like to **reserve** a table for four at seven o'clock.",
+"example_ko": "7시에 4인 테이블을 예약하고 싶어요.",
+"nuance_ko": "reserve는 자리나 물건을 미리 잡아 두는 동사예요. reserve a table, reserve a room처럼 식당이나 호텔 예약에 쓰고 미국에서는 book보다 reserve가 약간 격식 있는 말이에요. 비축한다는 뜻도 있어서 명사 reserve는 '비축량, 예비'라서 oil reserves(석유 매장량), reserve fund(예비비)처럼 써요. 성격으로는 reserved가 '내성적인, 말수가 적은'이에요. reservation은 '예약'이라서 make a reservation은 가장 흔한 표현이에요.",
+"also": [
+{
+"w": "reservation",
+"pos": "n",
+"ko": "예약",
+"en": "Do you have a **reservation** under your name?"
+},
+{
+"w": "reserved",
+"pos": "adj",
+"ko": "예약된, 내성적인",
+"en": "This seat is **reserved** for the guest of honor."
+}
+]
+},
+{
+"w": "resist",
+"pos": "v",
+"meaning_ko": "저항하다, 참다",
+"example_en": "I couldn't **resist** buying another pair of shoes.",
+"example_ko": "신발을 한 켤레 더 사는 걸 참을 수가 없었어.",
+"nuance_ko": "resist는 힘이나 유혹에 맞서 버티는 동사예요. can't resist ~ing는 '~하지 않고는 못 배기다'라서 구어에서 자주 써요. resist temptation(유혹을 뿌리치다), resist change(변화에 저항하다)처럼 써요. oppose가 의견에 반대하는 일이라면 resist는 압력이나 힘에 맞서는 일이에요. 형용사 resistant는 '내성이 있는'으로 water-resistant(방수), drug-resistant(약물 내성)처럼 합성어가 많아요.",
+"also": [
+{
+"w": "resistance",
+"pos": "n",
+"ko": "저항, 내성",
+"en": "There was strong **resistance** to the new policy."
+},
+{
+"w": "resistant",
+"pos": "adj",
+"ko": "저항력이 있는",
+"en": "This jacket is **resistant** to water."
+}
+]
+},
+{
+"w": "respect",
+"pos": "n",
+"meaning_ko": "존경, 존중",
+"example_en": "You should show some **respect** to your elders.",
+"example_ko": "어른들께 예의를 갖춰야지.",
+"nuance_ko": "respect는 상대의 인격이나 능력, 의견을 높이 평가하고 존중하는 마음이에요. show respect, earn respect, with respect(존경을 담아)처럼 써요. with all due respect는 반대 의견을 정중하게 말하기 전에 쓰는 표현으로 '실례지만'이라는 뜻이에요. 동사로도 쓰여서 respect someone's privacy(사생활을 존중하다)처럼 말해요. in this respect는 '이 점에서'라는 뜻으로 격식 있는 글에서 쓰여요.",
+"also": [
+{
+"w": "respected",
+"pos": "adj",
+"ko": "존경받는",
+"en": "He's a highly **respected** doctor in the community."
+},
+{
+"w": "respectful",
+"pos": "adj",
+"ko": "공손한",
+"en": "The children were quiet and **respectful**."
+}
+]
+},
+{
+"w": "restaurant",
+"pos": "n",
+"meaning_ko": "식당, 레스토랑",
+"example_en": "We found a small **restaurant** near the station.",
+"example_ko": "역 근처에서 작은 식당을 하나 찾았어.",
+"nuance_ko": "restaurant은 앉아서 음식을 주문해 먹는 식당이에요. 철자가 어려워서 resturant로 틀리는 일이 많은데 aurant 부분의 au를 기억해야 해요. 발음은 /ˈrestrɑːnt/ 또는 /ˈrestərɑːnt/로 두세 음절로 들려요. eat at a restaurant, book a restaurant처럼 쓰고, 한식당은 Korean restaurant이에요. cafe는 간단한 음료와 간식을, diner는 미국식 소박한 식당을 가리켜요. 식당에서 손님이 요구하는 것은 order라고 해요.",
+"also": []
+},
+{
+"w": "result",
+"pos": "n",
+"meaning_ko": "결과",
+"example_en": "The test **results** will be ready by Friday.",
+"example_ko": "검사 결과는 금요일까지 나올 거예요.",
+"nuance_ko": "result는 어떤 행동이나 원인에서 생긴 결과를 가리켜요. as a result(그 결과로), the result of ~(~의 결과), exam results(시험 성적)처럼 써요. 동사로는 result in ~(~로 이어지다)와 result from ~(~에서 비롯되다)가 구분돼요. 원인 쪽이 주어면 result in, 결과 쪽이 주어면 result from이라서 헷갈리지 않게 외워요. outcome은 최종 결과, result는 일반적인 결과라서 거의 바꿔 쓸 수 있어요.",
+"also": [
+{
+"w": "resulting",
+"pos": "adj",
+"ko": "그 결과로 생긴",
+"en": "The storm and the **resulting** floods caused major damage."
+}
+]
+},
+{
+"w": "retire",
+"pos": "v",
+"meaning_ko": "은퇴하다, 퇴직하다",
+"example_en": "My father plans to **retire** next year after thirty years of work.",
+"example_ko": "아버지는 30년 일하시고 내년에 은퇴하실 계획이야.",
+"nuance_ko": "retire는 일을 그만두고 은퇴한다는 동사로 retire from ~ 구조로 써요. retire at 65(65세에 은퇴하다)처럼 나이와 함께 자주 나와요. quit이나 resign은 직장을 그만두는 것이지만 retire는 나이나 오랜 근무 끝에 일을 마무리한다는 점이 달라요. 격식 있게 '물러나다, 잠자리에 들다'라는 뜻도 있어서 retire for the night는 '밤에 쉬러 들어가다'예요. 명사 retirement는 '은퇴, 노후'이고 retirement age(정년)처럼 써요.",
+"also": [
+{
+"w": "retirement",
+"pos": "n",
+"ko": "은퇴",
+"en": "She is looking forward to her **retirement**."
+},
+{
+"w": "retired",
+"pos": "adj",
+"ko": "은퇴한",
+"en": "He's a **retired** teacher now."
+}
+]
+},
+{
+"w": "rice",
+"pos": "n",
+"meaning_ko": "쌀, 밥",
+"example_en": "I usually have **rice** with vegetables for dinner.",
+"example_ko": "나는 저녁에 보통 밥이랑 채소를 먹어.",
+"nuance_ko": "rice는 쌀과 밥을 모두 가리키는 셀 수 없는 명사예요. 한국어에서는 쌀과 밥을 구분하지만 영어는 같은 단어를 써요. a grain of rice는 '쌀 한 톨', a bowl of rice는 '밥 한 공기'예요. 종류로는 white rice, brown rice(현미), sticky rice(찹쌀), fried rice(볶음밥)가 있어요. 복수형 rices는 여러 품종을 말할 때만 써요. 쌀알이 뭉쳐 있는 정도는 sticky, 밥을 짓는 일은 cook rice라고 해요.",
+"also": []
+},
+{
+"w": "ridiculous",
+"pos": "adj",
+"meaning_ko": "터무니없는, 우스꽝스러운",
+"example_en": "It's **ridiculous** to pay that much for a cup of coffee.",
+"example_ko": "커피 한 잔에 그렇게 많이 내는 건 말도 안 돼.",
+"nuance_ko": "ridiculous는 상식에서 벗어나 어이없거나 우스꽝스러운 것을 가리키는 형용사예요. 가격이 터무니없을 때 ridiculous price, 변명이 말이 안 될 때 ridiculous excuse처럼 써요. 상대의 말을 부정하는 구어 표현 That's ridiculous!는 '말도 안 돼!'예요. funny는 웃긴 것이지만 ridiculous는 비웃을 만큼 어이없는 것이라서 다소 부정적이에요. 가끔 absurd보다 구어에 더 잘 어울리고 감탄할 때도 써서 'ridiculously good'은 '터무니없이 맛있는'이라는 뜻이에요.",
+"also": [
+{
+"w": "ridiculously",
+"pos": "adv",
+"ko": "터무니없이",
+"en": "The test was **ridiculously** hard."
+}
+]
+},
+{
+"w": "rip",
+"pos": "v",
+"meaning_ko": "찢다, 뜯다",
+"example_en": "I **ripped** my jeans when I climbed over the fence.",
+"example_ko": "울타리를 넘다가 청바지가 찢어졌어.",
+"nuance_ko": "rip은 천이나 종이를 세게 잡아 찢는 동사예요. tear와 비슷하지만 rip은 더 거칠고 갑작스럽게 찢는 느낌이에요. rip open a package는 '포장을 뜯어서 열다'예요. rip off는 구어로 '바가지 씌우다'라서 It's a rip-off는 '완전 바가지야'라는 표현이에요. Rest in peace의 약자로 RIP가 쓰이기도 하니 문맥으로 구분해요. 컴퓨터에서 CD의 음악을 컴퓨터 파일로 옮기는 일도 rip이라고 해요.",
+"also": [
+{
+"w": "ripped",
+"pos": "adj",
+"ko": "찢어진",
+"en": "He wore **ripped** jeans to the party."
+}
+]
+},
+{
+"w": "risk",
+"pos": "n",
+"meaning_ko": "위험, 위험 요소",
+"example_en": "There's a high **risk** of flooding in this area.",
+"example_ko": "이 지역은 홍수 위험이 높아.",
+"nuance_ko": "risk는 나쁜 일이 일어날 가능성이나 그 위험 요소를 가리켜요. take a risk(위험을 무릅쓰다), at risk(위험에 처한), risk of ~(~의 위험)처럼 써요. danger는 이미 눈앞에 있는 위험, risk는 일어날 수도 있는 가능성이라는 차이가 있어요. 동사로도 쓰여서 risk one's life는 '목숨을 걸다'예요. 투자에서 high risk, high return(고위험 고수익)은 자주 듣는 표현이에요. 형용사 risky는 '위험한'이에요.",
+"also": [
+{
+"w": "risky",
+"pos": "adj",
+"ko": "위험한",
+"en": "Investing all your savings in one stock is **risky**."
+}
+]
+},
+{
+"w": "roar",
+"pos": "v",
+"meaning_ko": "포효하다, 으르렁거리다",
+"example_en": "The crowd began to **roar** when the team scored.",
+"example_ko": "팀이 골을 넣자 관중이 환호성을 질렀어.",
+"nuance_ko": "roar는 사자처럼 크고 낮게 으르렁대는 소리를 내는 동사예요. 엔진, 바람, 군중의 함성처럼 크고 낮은 소리에도 써요. roar with laughter는 '폭소하다'라는 뜻이에요. 명사로도 쓰여서 the roar of the crowd(군중의 함성), the roar of the engine(엔진 굉음)처럼 말해요. shout는 사람이 크게 외치는 일이고 roar는 그보다 더 거칠고 묵직한 소리라는 차이가 있어요.",
+"also": [
+{
+"w": "roaring",
+"pos": "adj",
+"ko": "으르렁거리는, 활활 타오르는",
+"en": "We sat by a **roaring** fire all evening."
+}
+]
+},
+{
+"w": "rob",
+"pos": "v",
+"meaning_ko": "강도질하다, 빼앗다",
+"example_en": "Two men tried to **rob** the bank on Monday morning.",
+"example_ko": "월요일 아침에 남자 두 명이 은행을 털려고 했어.",
+"nuance_ko": "rob은 사람이나 장소에서 돈이나 물건을 위협해서 빼앗는 동사예요. rob a bank(은행을 털다), rob someone of ~(~를 빼앗다)처럼 써요. 목적어가 빼앗긴 사람이나 장소라는 점이 steal과 달라요. steal은 물건을 훔치는 일이고 He stole my wallet처럼 물건이 목적어가 돼요. 그래서 He robbed my wallet은 틀린 표현이에요. 명사 robbery는 '강도 사건', robber는 '강도'예요.",
+"also": [
+{
+"w": "robbery",
+"pos": "n",
+"ko": "강도 사건",
+"en": "Police are investigating a bank **robbery**."
+},
+{
+"w": "robber",
+"pos": "n",
+"ko": "강도",
+"en": "The **robber** wore a mask."
+}
+]
+},
+{
+"w": "role",
+"pos": "n",
+"meaning_ko": "역할, 배역",
+"example_en": "She plays a key **role** in our team.",
+"example_ko": "그녀는 우리 팀에서 핵심 역할을 해.",
+"nuance_ko": "role은 어떤 일에서 맡은 역할이나 영화·연극의 배역이에요. play a role, a leading role(주연), role model(롤모델), role play(역할극)처럼 써요. 비슷한 단어 part도 역할을 뜻하지만 role이 직무나 기능에 더 자주 쓰여요. 회사에서는 job role(직무 역할), 사회에서는 gender role(성 역할)처럼 폭넓게 써요. 발음은 roll과 같고 철자가 role이라는 점에 주의해요.",
+"also": []
+},
+{
+"w": "roof",
+"pos": "n",
+"meaning_ko": "지붕",
+"example_en": "A tree fell on the **roof** during the storm last night.",
+"example_ko": "어젯밤 폭풍우에 나무가 지붕 위로 쓰러졌어.",
+"nuance_ko": "roof는 건물이나 자동차의 지붕이에요. a leaking roof(비가 새는 지붕), the roof of the car(자동차 지붕)처럼 써요. 비유로 hit the roof는 '화를 벌컥 내다'라는 구어 관용구예요. a roof over one's head는 '살 곳이 있다'는 뜻이라 최소한의 주거를 나타내요. 발음은 /ruːf/이고 복수는 roofs로 f를 그대로 써요. rooftop은 '옥상'이에요.",
+"also": []
+},
+{
+"w": "root",
+"pos": "n",
+"meaning_ko": "뿌리, 근원",
+"example_en": "The **root** of the problem is poor communication.",
+"example_ko": "그 문제의 근본 원인은 소통 부족이야.",
+"nuance_ko": "root는 식물의 뿌리이면서 비유적으로 근원, 원인, 기원을 뜻해요. the root of the problem(문제의 근원), root cause(근본 원인), roots(뿌리, 고향)처럼 써요. 수학에서 square root는 '제곱근'이고 컴퓨터에서 root는 관리자 권한을 가진 최상위 사용자를 가리켜요. 동사 root for ~는 '~를 응원하다'라서 Which team are you rooting for?는 '어느 팀을 응원해?'예요. put down roots는 '정착하다'라는 뜻이에요.",
+"also": [
+{
+"w": "roots",
+"pos": "n",
+"ko": "뿌리, 근본",
+"en": "She never forgot her **roots** in the countryside."
+}
+]
+},
+{
+"w": "rope",
+"pos": "n",
+"meaning_ko": "밧줄, 줄",
+"example_en": "They tied the boat to the dock with a thick **rope**.",
+"example_ko": "그들은 굵은 밧줄로 배를 부두에 묶었어.",
+"nuance_ko": "rope는 굵고 튼튼한 밧줄이에요. string은 가는 줄, cord는 중간 굵기의 줄, rope는 무거운 것을 묶거나 당길 때 쓰는 굵은 줄이라는 차이가 있어요. jump rope는 '줄넘기', tightrope는 '줄타기 줄'이에요. learn the ropes는 '요령을 익히다', show someone the ropes는 '일하는 법을 알려 주다'라는 관용구라서 직장에서 신입에게 자주 써요. 동사 rope in은 '끌어들이다'라는 구어예요.",
+"also": []
+},
+{
+"w": "rot",
+"pos": "v",
+"meaning_ko": "썩다, 부패하다",
+"example_en": "The fruit will **rot** if you leave it out in the heat.",
+"example_ko": "과일을 더운 데 두면 썩을 거야.",
+"nuance_ko": "rot는 유기물이 시간이 지나 썩고 부패하는 동사예요. 과일, 나무, 이빨 모두에 써요. tooth decay와 비슷하게 말하면 teeth rot(이가 썩다)예요. 형용사 rotten은 '썩은'이라서 rotten egg는 '썩은 달걀'이고 구어에서는 '형편없는, 지독한'이라는 뜻이어서 I feel rotten은 '기분이 영 안 좋아'예요. 정신적으로 시들어 가는 것도 표현해서 rot in prison은 '감옥에서 썩다'라는 뜻이에요. 사람에게 rotten이라고 하면 '못된'이라는 뜻이에요.",
+"also": [
+{
+"w": "rotten",
+"pos": "adj",
+"ko": "썩은, 형편없는",
+"en": "There was a **rotten** smell coming from the fridge."
+}
+]
+},
+{
+"w": "row",
+"pos": "n",
+"meaning_ko": "줄, 열",
+"example_en": "We sat in the front **row** at the concert.",
+"example_ko": "우리는 콘서트에서 맨 앞줄에 앉았어.",
+"nuance_ko": "row는 나란히 늘어선 줄을 가리키고, 특히 극장이나 교실의 가로줄을 말해요. in a row는 '연속으로'라서 win three games in a row(3연승)처럼 구어에서 자주 써요. 세로줄은 column이라 row와 구분해요. 엑셀의 행도 row예요. 영국 구어에서 row는 /raʊ/로 발음되는 '말다툼'이라는 전혀 다른 뜻이 있어서 have a row with someone은 '~와 다투다'예요. 동사 row는 /roʊ/로 '노를 젓다'라는 또 다른 뜻이에요.",
+"also": [
+{
+"w": "rows",
+"pos": "n",
+"ko": "줄들",
+"en": "The seats were arranged in neat **rows**."
+}
+]
+},
+{
+"w": "rowed",
+"pos": "v",
+"meaning_ko": "노를 저었다",
+"example_en": "We **rowed** across the lake just after sunrise.",
+"example_ko": "우리는 해가 뜨자마자 호수를 가로질러 노를 저었어.",
+"nuance_ko": "입력 표제어는 rowed지만 원형은 row(/roʊ/)로 '노를 젓다'라는 뜻의 동사예요. row a boat는 '배를 노 저어 가다'이고 rowing은 스포츠로서의 '조정'이에요. 노를 젓는 사람은 rower이고 노 젓는 배는 rowboat(미국) 또는 rowing boat(영국)이라고 해요. 같은 철자의 row(/raʊ/)는 영국 구어에서 말다툼을 뜻하니 발음과 문맥으로 구분해요. 돛을 이용한 sail과 구분해서 쓰고, 노를 젓는 동작은 한국어 '노 젓기'와 같아요.",
+"also": [
+{
+"w": "rowing",
+"pos": "n",
+"ko": "조정, 노 젓기",
+"en": "**Rowing** is a great workout for your arms."
+},
+{
+"w": "rower",
+"pos": "n",
+"ko": "노 젓는 사람",
+"en": "The **rower** pulled hard against the current."
+}
+]
+},
+{
+"w": "royal",
+"pos": "adj",
+"meaning_ko": "왕실의, 왕의",
+"example_en": "The **royal** family waved to the crowd from the balcony.",
+"example_ko": "왕실 가족은 발코니에서 군중에게 손을 흔들었어.",
+"nuance_ko": "royal은 왕이나 여왕, 왕실과 관련된 것을 가리키는 형용사예요. the royal family(왕실 가족), royal palace(왕궁), royal wedding처럼 써요. 비유로 royal treatment는 '극진한 대접'이라서 give someone the royal treatment라고 해요. 영국 문화에서는 the Royal Mail(영국 우편), the Royal Navy(영국 해군)처럼 기관 이름에도 들어가요. a royal pain은 구어로 '정말 골칫거리'라는 표현이에요. 명사 royalty는 '왕족', '인세'라는 두 가지 뜻이 있어요.",
+"also": [
+{
+"w": "royalty",
+"pos": "n",
+"ko": "왕족, 인세",
+"en": "The author receives **royalties** from every copy sold."
+}
+]
+},
+{
+"w": "rub",
+"pos": "v",
+"meaning_ko": "문지르다, 비비다",
+"example_en": "He **rubbed** his eyes because he was so tired.",
+"example_ko": "그는 너무 피곤해서 눈을 비볐어.",
+"nuance_ko": "rub은 손이나 물건으로 표면을 문지르는 동사예요. rub your hands together(손을 비비다), rub the stain(얼룩을 문지르다)처럼 써요. 구어 관용구로 rub salt in the wound는 '상처에 소금을 뿌리다', 즉 '괴로운 사람을 더 괴롭히다'예요. rub it in은 '실수를 계속 상기시키며 놀리다'예요. 명사 rub은 '문지르기'나 마사지를 뜻하기도 하고 back rub은 '등 마사지'예요.",
+"also": [
+{
+"w": "rubbing",
+"pos": "n",
+"ko": "문지르기",
+"en": "A little **rubbing** with a cloth removed the dirt."
+}
+]
+},
+{
+"w": "rude",
+"pos": "adj",
+"meaning_ko": "무례한",
+"example_en": "It's **rude** to talk loudly on the phone in a restaurant.",
+"example_ko": "식당에서 전화 통화를 크게 하는 건 무례한 행동이야.",
+"nuance_ko": "rude는 예의 없이 행동하거나 말하는 것을 가리키는 형용사예요. It's rude to ~는 '~하는 건 예의가 아니다'라는 말이고 rude comment(무례한 발언)처럼 써요. impolite보다 더 직접적이고 센 표현이라서 상대가 예의 없음을 지적할 때 써요. rude awakening은 '충격적인 깨달음'이라는 관용구이고 a rude shock도 같은 뜻이에요. 부사 rudely는 '무례하게'예요.",
+"also": [
+{
+"w": "rudely",
+"pos": "adv",
+"ko": "무례하게",
+"en": "He **rudely** interrupted her in the middle of a sentence."
+},
+{
+"w": "rudeness",
+"pos": "n",
+"ko": "무례함",
+"en": "I was shocked by his **rudeness**."
+}
+]
+},
+{
+"w": "ruin",
+"pos": "v",
+"meaning_ko": "망치다, 파멸시키다",
+"example_en": "The rain completely **ruined** our picnic.",
+"example_ko": "비 때문에 소풍이 완전히 망쳤어.",
+"nuance_ko": "ruin은 계획이나 물건, 분위기를 망쳐 놓는 동사예요. ruin the surprise(깜짝 이벤트를 망치다), ruin someone's life(인생을 망치다)처럼 써요. spoil과 비슷하지만 ruin은 회복이 어려운 정도의 큰 손상이라는 느낌이 강해요. 명사 ruin은 '폐허, 파멸'이라서 in ruins는 '폐허가 된'이고 복수 ruins는 유적을 뜻해요. be ruined는 재정적으로 파산했을 때도 써서 He was ruined by gambling(도박으로 망했다)이에요.",
+"also": [
+{
+"w": "ruined",
+"pos": "adj",
+"ko": "망가진",
+"en": "We stayed in a **ruined** castle."
+},
+{
+"w": "ruins",
+"pos": "n",
+"ko": "폐허, 유적",
+"en": "We explored the **ruins** of an ancient temple."
+}
+]
+},
+{
+"w": "rush",
+"pos": "v",
+"meaning_ko": "서두르다, 급히 가다",
+"example_en": "Don't **rush**, we have plenty of time before the train.",
+"example_ko": "서두르지 마, 기차 시간까지 여유 많아.",
+"nuance_ko": "rush는 급하게 움직이거나 서두르는 동사예요. rush to the station(역으로 서둘러 가다), Don't rush me(재촉하지 마)처럼 써요. 명사 rush는 '혼잡, 급증'이라서 rush hour(출퇴근 혼잡 시간), a rush of adrenaline(아드레날린 급증)처럼 써요. in a rush는 '급한'이라서 I'm in a rush는 '나 지금 바빠'예요. hurry는 서두르라는 뜻으로 동사와 명사 모두 가능하지만 rush에는 갑자기 몰려드는 느낌이 있어요.",
+"also": [
+{
+"w": "rushed",
+"pos": "adj",
+"ko": "서두른, 급하게 한",
+"en": "The report felt **rushed** and full of mistakes."
+}
+]
+},
+{
+"w": "saint",
+"pos": "n",
+"meaning_ko": "성인, 성자",
+"example_en": "She must be a **saint** to put up with that noise every night.",
+"example_ko": "매일 밤 그 소음을 참아 내다니 성인이 틀림없어.",
+"nuance_ko": "saint는 종교적으로 거룩하다고 인정받은 성인을 가리켜요. St. Patrick(성 패트릭), Saint Valentine's Day처럼 이름 앞에 St.로 줄여 써요. 구어에서는 인내심이 아주 크고 착한 사람을 비유해 He's a saint라고 해요. Patience of a saint는 '성인 같은 인내심'이라는 표현이에요. 형용사 saintly는 '성인 같은'이라는 뜻이고 도시 이름 St. Louis처럼 지명에도 많이 보여요.",
+"also": [
+{
+"w": "saintly",
+"pos": "adj",
+"ko": "성인 같은",
+"en": "She has a **saintly** patience with children."
+}
+]
+},
+{
+"w": "sake",
+"pos": "n",
+"meaning_ko": "이익, 목적, 위함",
+"example_en": "For the **sake** of the kids, let's stop arguing.",
+"example_ko": "애들을 위해서라도 그만 싸우자.",
+"nuance_ko": "sake는 for the sake of ~ 형태로 '~을 위해서'라는 뜻으로만 쓰는 표현이에요. for the sake of the company(회사를 위해서), for the sake of argument(논의를 위해 가정해서)처럼 써요. for God's sake, for heaven's sake는 짜증이나 놀람을 나타내는 감탄 표현이고 '제발'에 가까워요. 일본 술 sake(사케)는 같은 철자지만 /ˈsɑːki/로 발음이 달라요. for my sake, for your sake처럼 소유격도 가능해요.",
+"also": []
+},
+{
+"w": "salad",
+"pos": "n",
+"meaning_ko": "샐러드",
+"example_en": "I'll have the Caesar **salad** and a glass of water.",
+"example_ko": "전 시저 샐러드랑 물 한 잔 주세요.",
+"nuance_ko": "salad는 채소를 중심으로 한 샐러드예요. 가산 명사로는 한 접시, 불가산으로는 재료를 말할 때 쓰고 a salad, some salad 둘 다 자연스러워요. 샐러드 소스는 dressing이라서 Which dressing would you like?라고 물어요. fruit salad, potato salad, chicken salad처럼 채소 외 재료도 salad라고 불러요. salad days는 '풋풋하던 젊은 시절'이라는 문어체 표현이에요. 한국어 샐러드와 달리 영어에서는 과일, 감자 샐러드도 모두 salad예요.",
+"also": []
+},
+{
+"w": "salary",
+"pos": "n",
+"meaning_ko": "월급, 급여",
+"example_en": "He asked for a higher **salary** during the job interview.",
+"example_ko": "그는 면접 때 더 높은 연봉을 요구했어.",
+"nuance_ko": "salary는 매달 또는 연 단위로 고정해서 받는 월급이에요. wage는 시간당 또는 일당으로 받는 임금이라는 차이가 있어요. annual salary(연봉), monthly salary(월급), salary negotiation(연봉 협상)처럼 써요. 연봉을 말할 때 한국어의 '연봉이 얼마예요?'는 What's your salary?라고 해도 되지만 영어에서는 사적인 질문이라 조심해야 해요. pay는 급여 전반을 가리키는 더 넓은 말이에요. 형용사 salaried는 '월급을 받는'이라서 salaried worker는 '봉급 생활자'예요.",
+"also": [
+{
+"w": "salaried",
+"pos": "adj",
+"ko": "월급을 받는",
+"en": "She is a **salaried** employee at a large firm."
+}
+]
+},
+{
+"w": "sale",
+"pos": "n",
+"meaning_ko": "판매, 할인 행사",
+"example_en": "There's a big **sale** at the mall this weekend.",
+"example_ko": "이번 주말에 쇼핑몰에서 대규모 할인 행사를 해.",
+"nuance_ko": "sale은 물건을 파는 일 또는 할인 행사를 가리켜요. for sale은 '판매 중인', on sale은 '할인 중인'이라 둘이 뜻이 달라요. 한국 학습자가 자주 헷갈리는 부분이에요. The house is for sale(집이 팔려고 나와 있다), These shoes are on sale(이 신발은 세일 중이다)처럼 구분해요. 복수 sales는 '매출, 영업'이라서 sales department(영업부), sales figures(매출액)처럼 비즈니스에서 쓰여요. clearance sale은 '재고 정리 세일'이에요.",
+"also": [
+{
+"w": "sales",
+"pos": "n",
+"ko": "판매량, 영업",
+"en": "**Sales** rose by ten percent this quarter."
+}
+]
+},
+{
+"w": "salt",
+"pos": "n",
+"meaning_ko": "소금",
+"example_en": "Could you pass the **salt**, please?",
+"example_ko": "소금 좀 건네줄래요?",
+"nuance_ko": "salt는 소금이고 불가산 명사예요. pass the salt, add a pinch of salt(소금을 약간 넣다)처럼 써요. 관용구로 take it with a grain of salt는 '말을 곧이곧대로 믿지 말고 감안하다'라는 뜻이에요. worth one's salt는 '제값을 하는'이라는 표현이고 rub salt in the wound는 '상처에 소금을 뿌리다'예요. 형용사 salty는 '짠'이라서 This soup is too salty(이 수프는 너무 짜)처럼 맛을 표현해요. 구어에서 salty는 '삐친, 화난'이라는 뜻도 있어요.",
+"also": [
+{
+"w": "salty",
+"pos": "adj",
+"ko": "짠",
+"en": "The soup was too **salty** for me."
+},
+{
+"w": "salted",
+"pos": "adj",
+"ko": "소금을 친",
+"en": "I prefer **salted** butter on my toast."
+}
+]
+},
+{
+"w": "sand",
+"pos": "n",
+"meaning_ko": "모래",
+"example_en": "The kids built a castle out of **sand** on the beach.",
+"example_ko": "아이들은 해변에서 모래로 성을 쌓았어.",
+"nuance_ko": "sand는 모래이고 불가산 명사로 a grain of sand(모래 한 알)처럼 센다. 복수 sands는 모래사장이나 사막을 시적으로 가리킬 때 써요. 동사 sand는 '사포로 문지르다'라서 sand the wood는 '나무를 사포질하다'예요. bury one's head in the sand는 '현실을 외면하다'라는 관용구이고 the sands of time은 '시간의 흐름'을 뜻하는 문학적 표현이에요. 형용사 sandy는 '모래투성이의'라서 sandy beach처럼 써요.",
+"also": [
+{
+"w": "sandy",
+"pos": "adj",
+"ko": "모래투성이의",
+"en": "We walked along a long **sandy** beach."
+},
+{
+"w": "sanding",
+"pos": "n",
+"ko": "사포질",
+"en": "**Sanding** the table took all afternoon."
+}
+]
+},
+{
+"w": "sandwich",
+"pos": "n",
+"meaning_ko": "샌드위치",
+"example_en": "I made a cheese **sandwich** for lunch.",
+"example_ko": "점심으로 치즈 샌드위치를 만들었어.",
+"nuance_ko": "sandwich는 빵 사이에 재료를 끼운 음식이에요. 복수는 sandwiches처럼 -es를 붙여요. 18세기 영국의 샌드위치 백작 이름에서 유래했다는 설이 널리 알려져 있어요. 동사로는 '사이에 끼우다'라서 sandwiched between two buildings(두 건물 사이에 낀)처럼 쓰여요. open sandwich는 빵 한 장 위에 재료를 올린 것을 말하고, sub와 hoagie는 미국의 긴 샌드위치를 가리켜요. 한국어와 달리 영어는 sandwich를 발음할 때 /ˈsænwɪtʃ/에서 d가 거의 안 들려요.",
+"also": [
+{
+"w": "sandwiched",
+"pos": "adj",
+"ko": "사이에 끼인",
+"en": "The small shop is **sandwiched** between two banks."
+}
+]
+},
+{
+"w": "satisfy",
+"pos": "v",
+"meaning_ko": "만족시키다, 충족시키다",
+"example_en": "A quick snack didn't **satisfy** my hunger.",
+"example_ko": "간단한 간식으로는 허기가 채워지지 않았어.",
+"nuance_ko": "satisfy는 욕구나 기대, 조건을 채워 만족시킨다는 동사예요. satisfy a customer, satisfy a requirement(요건을 충족하다), satisfy one's curiosity(호기심을 채우다)처럼 써요. 사람의 감정을 나타내는 형용사는 satisfied(만족한)이고 상황을 설명하는 형용사는 satisfying(만족스러운)이에요. 주어가 사물이면 satisfying, 사람이면 satisfied를 쓴다는 점이 한국 학습자들이 자주 틀리는 포인트예요. 명사는 satisfaction이에요.",
+"also": [
+{
+"w": "satisfied",
+"pos": "adj",
+"ko": "만족한",
+"en": "I'm very **satisfied** with the service here."
+},
+{
+"w": "satisfying",
+"pos": "adj",
+"ko": "만족스러운",
+"en": "Finishing the project was deeply **satisfying**."
+}
+]
+},
+{
+"w": "sauce",
+"pos": "n",
+"meaning_ko": "소스",
+"example_en": "Would you like some tomato **sauce** with your pasta?",
+"example_ko": "파스타에 토마토소스 좀 드릴까요?",
+"nuance_ko": "sauce는 음식에 곁들이거나 뿌리는 소스를 가리켜요. tomato sauce, soy sauce(간장), hot sauce, pasta sauce처럼 종류가 다양해요. 불가산 명사이지만 여러 종류를 말할 때는 sauces로 쓸 수 있어요. 영국 구어에서 sauce는 케첩을 가리키는 경우가 많아요. dressing은 샐러드에 뿌리는 소스, gravy는 고기 육즙으로 만든 소스, dip은 찍어 먹는 소스라는 차이가 있어요. 구어에서 on the sauce는 '술에 빠져 사는'이라는 표현이에요.",
+"also": []
+},
+{
+"w": "sausage",
+"pos": "n",
+"meaning_ko": "소시지",
+"example_en": "We grilled **sausages** and corn at the barbecue.",
+"example_ko": "바비큐에서 소시지랑 옥수수를 구워 먹었어.",
+"nuance_ko": "sausage는 다진 고기를 껍질에 채워 만든 소시지예요. 한국어 '소세지'는 영어 발음과 철자(sausage)가 다르니 철자에 주의해요. 발음은 /ˈsɔːsɪdʒ/로 마지막이 '시지'에 가까워요. 영국 아침 식사에서 sausage는 빠지지 않는 메뉴이고 sausage roll(소시지 파이)도 인기 간식이에요. hot dog은 빵에 소시지를 끼운 음식이라는 차이가 있어요. 영국 구어로 not a sausage는 '아무것도 없는'이라는 표현이에요.",
+"also": []
+},
+{
+"w": "scale",
+"pos": "n",
+"meaning_ko": "규모, 척도, 저울",
+"example_en": "The **scale** of the project surprised everyone on the team.",
+"example_ko": "프로젝트 규모에 팀원 모두가 놀랐어.",
+"nuance_ko": "scale은 뜻이 많지만 핵심은 '크기·등급·눈금'이에요. on a large scale(대규모로), scale of 1 to 10(1에서 10까지의 척도), a map's scale(지도의 축척)처럼 써요. 복수 scales는 '저울'이어서 bathroom scales는 체중계이고, 물고기 비늘도 scale이에요. 음악에서는 '음계'(C major scale)를 뜻해요. 동사 scale up은 '규모를 키우다', scale back은 '축소하다'로 비즈니스와 IT에서 자주 쓰여요. 시스템이 커져도 잘 버틴다는 뜻의 scalable도 IT에서 흔해요.",
+"also": [
+{
+"w": "scalable",
+"pos": "adj",
+"ko": "확장 가능한",
+"en": "We need a **scalable** system that can handle more users."
+}
+]
+},
+{
+"w": "scene",
+"pos": "n",
+"meaning_ko": "장면, 현장",
+"example_en": "The police arrived at the **scene** within minutes.",
+"example_ko": "경찰은 몇 분 만에 현장에 도착했어.",
+"nuance_ko": "scene은 사건이 벌어진 현장이나 영화·연극의 한 장면을 가리켜요. the scene of the crime(범죄 현장), a scene from the movie(영화의 한 장면)처럼 써요. 풍경이라는 뜻도 있어서 a peaceful scene은 '평화로운 풍경'이에요. make a scene은 '소란을 피우다'라는 관용구라서 Don't make a scene(소란 피우지 마)처럼 구어에서 흔해요. behind the scenes는 '무대 뒤에서, 막후에서'이고 music scene은 '음악계'를 뜻해요. 같은 발음의 seen과 헷갈리지 않게 주의해요.",
+"also": [
+{
+"w": "scenery",
+"pos": "n",
+"ko": "풍경, 경치",
+"en": "The mountain **scenery** was breathtaking."
+},
+{
+"w": "scenic",
+"pos": "adj",
+"ko": "경치가 좋은",
+"en": "We took the **scenic** route along the coast."
+}
+]
+},
+{
+"w": "schedule",
+"pos": "n",
+"meaning_ko": "일정, 시간표",
+"example_en": "I have a very busy **schedule** this week.",
+"example_ko": "이번 주는 일정이 아주 빡빡해.",
+"nuance_ko": "schedule은 계획된 일정이나 시간표를 가리켜요. on schedule(예정대로), behind schedule(예정보다 늦은), ahead of schedule(예정보다 빠른)이 자주 쓰이는 짝꿍이에요. 동사로는 '일정을 잡다'라서 schedule a meeting은 '회의 일정을 잡다'예요. 발음은 미국식 /ˈskedʒuːl/, 영국식 /ˈʃedjuːl/로 갈려서 철자에 sch가 있어도 sh로 읽는 영국식이 있어요. timetable은 영국에서 열차·수업 시간표를 가리키고, agenda는 회의 안건을 뜻해요.",
+"also": [
+{
+"w": "scheduled",
+"pos": "adj",
+"ko": "예정된",
+"en": "The flight is **scheduled** to leave at noon."
+},
+{
+"w": "reschedule",
+"pos": "v",
+"ko": "일정을 다시 잡다",
+"en": "Can we **reschedule** the meeting for Thursday?"
+}
+]
+},
+{
+"w": "score",
+"pos": "n",
+"meaning_ko": "점수, 득점",
+"example_en": "What was the final **score** of the game?",
+"example_ko": "경기 최종 점수가 몇 대 몇이었어?",
+"nuance_ko": "score는 경기나 시험에서 얻은 점수를 가리켜요. a high score, test scores, final score처럼 쓰고 동사로는 '득점하다, 점수를 받다'예요. score a goal(골을 넣다), score high on the exam(시험에서 높은 점수를 받다)처럼 말해요. score는 20이라는 뜻의 옛 말이기도 해서 four score and seven years ago(87년 전에)라는 링컨의 연설이 유명해요. 음악에서는 '악보'나 영화의 '음악'을 뜻해요. know the score는 '상황을 잘 알다'라는 관용구예요.",
+"also": [
+{
+"w": "scored",
+"pos": "v",
+"ko": "득점했다",
+"en": "She **scored** twice in the second half."
+}
+]
+},
+{
+"w": "scratch",
+"pos": "v",
+"meaning_ko": "긁다, 할퀴다",
+"example_en": "The cat **scratched** the sofa again last night.",
+"example_ko": "고양이가 어젯밤에도 소파를 또 긁어 놨어.",
+"nuance_ko": "scratch는 손톱이나 날카로운 것으로 표면을 긁는 동사예요. scratch one's head(머리를 긁적이다), scratch a surface(표면을 긁다)처럼 쓰고 가려운 곳을 긁는 것도 scratch예요. 명사 scratch는 '긁힌 자국, 긁힘'이라서 There's a scratch on the car(차에 긁힌 자국이 있어)처럼 말해요. from scratch는 '처음부터, 맨땅에서'라는 관용구로 bake a cake from scratch(밀가루부터 케이크를 직접 만들다)처럼 써요. up to scratch는 '기준에 맞는'이라는 뜻이에요.",
+"also": [
+{
+"w": "scratched",
+"pos": "adj",
+"ko": "긁힌",
+"en": "The glasses were badly **scratched**."
+}
+]
+},
+{
+"w": "scream",
+"pos": "v",
+"meaning_ko": "비명을 지르다, 소리치다",
+"example_en": "She **screamed** when she saw the spider on the wall.",
+"example_ko": "그녀는 벽에 있는 거미를 보고 비명을 질렀어.",
+"nuance_ko": "scream은 공포, 고통, 흥분으로 날카롭게 지르는 소리예요. shout는 크게 외치는 일반 동사이고 scream은 더 높고 날카롭게 지르는 소리라는 차이가 있어요. scream at someone은 '~에게 소리를 지르다'로 화가 나서 고함치는 상황에도 써요. 명사 scream은 '비명'이라서 let out a scream(비명을 지르다)처럼 말해요. 구어에서 It's a scream은 '정말 웃긴다'는 뜻이고 'I scream, you scream, we all scream for ice cream'이라는 아이스크림 노래가 유명해요.",
+"also": [
+{
+"w": "screaming",
+"pos": "adj",
+"ko": "비명을 지르는",
+"en": "The **screaming** fans waited outside the hotel."
+}
+]
+},
+{
+"w": "screen",
+"pos": "n",
+"meaning_ko": "화면, 스크린",
+"example_en": "My phone **screen** cracked when I dropped it.",
+"example_ko": "휴대폰 떨어뜨렸더니 화면이 깨졌어.",
+"nuance_ko": "screen은 TV, 컴퓨터, 휴대폰 등의 화면 또는 영화관의 스크린이에요. on screen(화면에), screen time(화면 사용 시간), big screen(대형 화면, 영화)처럼 써요. 동사로는 '가리다, 검사하다'라서 screen calls(전화를 가려 받다), screen applicants(지원자를 걸러내다)처럼 말해요. 방충망은 window screen, 칸막이도 screen이에요. 영화 업계에서 the silver screen은 영화계를 비유하는 말이에요.",
+"also": [
+{
+"w": "screening",
+"pos": "n",
+"ko": "상영, 검사",
+"en": "The **screening** of the film starts at eight."
+}
+]
+},
+{
+"w": "screw",
+"pos": "n",
+"meaning_ko": "나사",
+"example_en": "One **screw** was loose, so the shelf wobbled.",
+"example_ko": "나사 하나가 풀려 있어서 선반이 흔들렸어.",
+"nuance_ko": "screw는 돌려서 박는 나사못이에요. 동사 screw는 '나사로 조이다'라서 screw the lid on(뚜껑을 돌려 닫다), unscrew the cap(뚜껑을 돌려 열다)처럼 써요. 구어에서 screw up은 '망치다, 실수하다'라서 I screwed up은 '내가 망쳤어'지만 다소 거친 표현이라 격식 있는 자리에서는 mess up을 써요. screw 단독 사용은 속된 말이 될 수 있어서 주의해요. a screw loose는 '좀 이상한'이라는 구어 관용구예요. 드라이버는 screwdriver예요.",
+"also": [
+{
+"w": "unscrew",
+"pos": "v",
+"ko": "나사를 풀다",
+"en": "Please **unscrew** the lid of the jar."
+}
+]
+},
+{
+"w": "seal",
+"pos": "n",
+"meaning_ko": "봉인, 도장, 바다표범",
+"example_en": "Make sure the **seal** on the bottle isn't broken.",
+"example_ko": "병 봉인이 뜯어지지 않았는지 확인해.",
+"nuance_ko": "seal은 세 가지 뜻이 있어서 문맥이 중요해요. 포장의 봉인이나 밀폐, 공식 도장, 그리고 동물 바다표범이에요. 동사 seal은 '봉하다, 밀봉하다'라서 seal the envelope(봉투를 봉하다), seal the deal(거래를 확정짓다)처럼 써요. seal of approval은 '승인 도장', 즉 '인증'이에요. 틈을 막는다는 뜻으로 seal off an area는 '구역을 차단하다'예요. 동물일 때는 sea lion과 구분되는 바다표범을 가리켜요.",
+"also": [
+{
+"w": "sealed",
+"pos": "adj",
+"ko": "밀봉된",
+"en": "Keep the food in a **sealed** container."
+}
+]
+},
+{
+"w": "search",
+"pos": "v",
+"meaning_ko": "찾다, 수색하다",
+"example_en": "Police **searched** the area for the missing child.",
+"example_ko": "경찰은 실종된 아이를 찾으려고 그 일대를 수색했어.",
+"nuance_ko": "search는 무언가를 찾으려고 샅샅이 뒤지는 동사예요. search for ~(~를 찾다)와 search a place(장소를 수색하다)는 구조가 달라서 헷갈려요. search the room은 방을 뒤지는 것이고 search for the keys는 열쇠를 찾는 것이에요. look for는 일반적으로 찾는 일, search는 더 체계적이고 철저하게 찾는 일이에요. 명사 search는 '검색, 수색'이라서 search engine(검색 엔진), in search of ~(~를 찾아서)처럼 써요.",
+"also": [
+{
+"w": "searching",
+"pos": "adj",
+"ko": "예리한, 탐색하는",
+"en": "The interviewer asked some **searching** questions."
+},
+{
+"w": "searches",
+"pos": "n",
+"ko": "검색, 수색",
+"en": "My last few **searches** returned no results."
+}
+]
+},
+{
+"w": "season",
+"pos": "n",
+"meaning_ko": "계절, 시즌",
+"example_en": "Autumn is my favorite **season** of the year.",
+"example_ko": "가을은 내가 일 년 중 제일 좋아하는 계절이야.",
+"nuance_ko": "season은 봄여름가을겨울의 계절 또는 특정 활동이 이루어지는 시기를 가리켜요. the holiday season(휴가철), rainy season(우기), football season(축구 시즌)처럼 써요. TV 드라마의 시즌도 season이라서 season 2(시즌 2)로 말해요. in season은 '제철인', out of season은 '철이 지난'이에요. 동사 season은 '양념을 하다'라서 season with salt and pepper는 '소금과 후추로 간하다'예요. 형용사 seasonal은 '계절적인'이에요.",
+"also": [
+{
+"w": "seasonal",
+"pos": "adj",
+"ko": "계절의, 계절적인",
+"en": "There are many **seasonal** jobs in the summer."
+}
+]
+},
+{
+"w": "seconds",
+"pos": "n",
+"meaning_ko": "초, 두 번째 접시",
+"example_en": "Wait a few **seconds** and then press the button again.",
+"example_ko": "몇 초 기다렸다가 버튼을 다시 눌러.",
+"nuance_ko": "seconds는 second의 복수형으로 '초'를 뜻해요. in a few seconds(몇 초 안에), Just a second(잠깐만)처럼 구어에서 일상적으로 말해요. a second 하나만으로도 '잠깐'이라는 뜻이어서 Wait a second는 '잠깐만 기다려'예요. 식당에서 seconds는 '두 번째 접시, 한 번 더 받는 음식'이라서 Can I have seconds?는 '한 그릇 더 먹어도 돼요?'예요. 그 외에 흠이 있어서 할인 판매하는 제품(seconds)도 가리켜요.",
+"also": [
+{
+"w": "sec",
+"pos": "n",
+"ko": "초(구어)",
+"en": "Hold on, I'll be with you in a **sec**."
+}
+]
+},
+{
+"w": "secret",
+"pos": "n",
+"meaning_ko": "비밀",
+"example_en": "Can you keep a **secret**? I'm getting married next month.",
+"example_ko": "비밀 지켜 줄 수 있어? 나 다음 달에 결혼해.",
+"nuance_ko": "secret은 남에게 알리지 않는 비밀이에요. keep a secret(비밀을 지키다), tell a secret(비밀을 말하다), open secret(공공연한 비밀)처럼 써요. 형용사로는 '비밀의'라서 secret code, secret recipe, secret agent처럼 써요. in secret은 '몰래'라는 뜻이에요. the secret of success는 '성공의 비결'이라는 의미로도 쓰여서 비밀과 비결 두 가지를 모두 가리켜요. 부사 secretly는 '몰래, 은밀히'예요.",
+"also": [
+{
+"w": "secretly",
+"pos": "adv",
+"ko": "몰래, 은밀히",
+"en": "She was **secretly** planning a surprise party."
+}
+]
+},
+{
+"w": "section",
+"pos": "n",
+"meaning_ko": "부분, 구역, 섹션",
+"example_en": "The recipe is in the dessert **section** of the book.",
+"example_ko": "그 레시피는 책의 디저트 섹션에 있어.",
+"nuance_ko": "section은 전체를 구분한 한 부분을 가리켜요. 책의 장절, 신문의 지면, 가게의 코너, 조직의 부서 모두 section이에요. the sports section(스포츠 면), no-smoking section(금연 구역), the back section(뒷부분)처럼 써요. 동사 section은 '나누다'라서 section off an area는 '구역을 나누어 막다'예요. 법률에서 section은 '조항'이라서 Section 5는 '제5조'예요. department는 부서라는 큰 단위이고 section은 그 하위 단위로 쓰는 경우가 많아요.",
+"also": [
+{
+"w": "sections",
+"pos": "n",
+"ko": "부분들, 구역들",
+"en": "The report is divided into three **sections**."
+}
+]
+},
+{
+"w": "seed",
+"pos": "n",
+"meaning_ko": "씨앗, 씨",
+"example_en": "We planted tomato **seeds** in the garden this spring.",
+"example_ko": "올봄에 정원에 토마토 씨앗을 심었어.",
+"nuance_ko": "seed는 식물의 씨앗이고, 비유로 어떤 일의 시작이나 원인을 가리켜요. plant a seed(씨앗을 심다), sow the seeds of doubt(의심의 씨앗을 뿌리다)처럼 써요. 스포츠에서는 '시드', 즉 대진표 상 순위 배정을 뜻해서 the top seed는 '1번 시드'예요. seed money는 '초기 투자금'으로 스타트업 문맥에서 자주 나와요. 동사 seed는 '씨를 뿌리다, 시드를 배정하다'예요. 과일의 씨는 seed, 복숭아 같은 단단한 씨는 pit 또는 stone이라 구분해요.",
+"also": [
+{
+"w": "seedling",
+"pos": "n",
+"ko": "묘목, 모종",
+"en": "Each **seedling** needs plenty of sunlight."
+}
+]
+},
+{
+"w": "seek",
+"pos": "v",
+"meaning_ko": "찾다, 구하다",
+"example_en": "Many young people **seek** work in the big cities.",
+"example_ko": "많은 젊은이들이 대도시에서 일자리를 찾아.",
+"nuance_ko": "seek는 look for보다 격식 있는 말로 무언가를 얻으려 찾거나 추구한다는 동사예요. seek advice(조언을 구하다), seek help(도움을 청하다), seek a job처럼 쓰여요. 불규칙 동사로 seek-sought-sought로 활용해요. 뉴스와 공고에서는 '구함'을 뜻해서 Seeking a part-time assistant처럼 자주 쓰여요. hide-and-seek는 '숨바꼭질'이라는 놀이 이름에도 나와요. seek out은 '일부러 찾아내다'라는 뜻이에요.",
+"also": [
+{
+"w": "seeker",
+"pos": "n",
+"ko": "구하는 사람",
+"en": "A job **seeker** must update the resume regularly."
+}
+]
+},
+{
+"w": "select",
+"pos": "v",
+"meaning_ko": "선택하다, 고르다",
+"example_en": "Please **select** your seat before you check in.",
+"example_ko": "체크인하기 전에 좌석을 선택해 주세요.",
+"nuance_ko": "select는 여러 가지 중에서 신중하게 골라낸다는 동사로 choose보다 격식 있고 체계적인 느낌이에요. select an option(옵션을 선택하다), select all(전체 선택)처럼 컴퓨터 화면에서 자주 보여요. 형용사 select는 '엄선된'이라서 a select group of people은 '엄선된 소수의 사람들'이라는 격식 있는 표현이에요. 명사 selection은 '선택, 선별된 것'이라서 a wide selection of wines(다양한 와인 구색)처럼 쓰여요. pick은 구어에서 가볍게 고르는 말이에요.",
+"also": [
+{
+"w": "selection",
+"pos": "n",
+"ko": "선택, 구색",
+"en": "The store has a great **selection** of books."
+},
+{
+"w": "selected",
+"pos": "adj",
+"ko": "선택된",
+"en": "The **selected** candidates will be notified by email."
+}
+]
+}
+]

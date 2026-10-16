@@ -1,0 +1,1600 @@
+[
+{
+"w": "knowledge",
+"pos": "n",
+"meaning_ko": "지식, 아는 것",
+"example_en": "She has a deep **knowledge** of local history and loves sharing it.",
+"example_ko": "그 사람은 지역 역사에 대해 아는 게 깊고, 알려 주는 것도 좋아해.",
+"nuance_ko": "knowledge는 머릿속에 쌓인 '아는 내용' 전체를 가리키는 말이에요. 셀 수 없는 명사라서 a knowledge, knowledges처럼 쓰면 어색하고, a knowledge of ~ 정도만 예외적으로 쓰여요. 자주 붙는 짝꿍은 knowledge of ~(~에 대한 지식), to my knowledge(내가 아는 한), common knowledge(상식)예요. to my knowledge는 '내가 알기로는 그래'라고 단정을 살짝 낮추는 말이라 구어에서도 많이 써요. information이 날것의 정보라면 knowledge는 그 정보를 이해하고 내 것으로 만든 상태라는 차이가 있어요.",
+"also": [
+{
+"w": "knowledgeable",
+"pos": "adj",
+"ko": "아는 것이 많은, 박식한",
+"en": "He is very **knowledgeable** about wine."
+}
+]
+},
+{
+"w": "laboratory",
+"pos": "n",
+"meaning_ko": "실험실, 연구실",
+"example_en": "The samples were sent to a **laboratory** for testing.",
+"example_ko": "시료는 검사를 위해 실험실로 보내졌어.",
+"nuance_ko": "laboratory는 과학 실험이나 검사를 하는 공간이에요. 일상 대화에서는 거의 lab이라고 줄여 말하고, laboratory는 글이나 공식적인 자리에서 더 자주 보여요. 발음이 길어서 한국 학습자들이 강세를 헷갈리는데, 미국 영어는 LAB-ruh-tor-ee처럼 첫 음절에 강세가 와요. in the laboratory(실험실에서), laboratory tests(임상 검사), a research laboratory 같은 표현으로 자주 써요. 뉴스에서 '혈액 검사 결과'를 말할 때도 laboratory results라고 해요.",
+"also": [
+{
+"w": "lab",
+"pos": "n",
+"ko": "실험실(줄임말)",
+"en": "I have to be in the **lab** by nine tomorrow."
+}
+]
+},
+{
+"w": "labour",
+"pos": "n",
+"meaning_ko": "노동, 노동력",
+"example_en": "The cost of **labour** has gone up a lot this year.",
+"example_ko": "올해는 인건비가 많이 올랐어.",
+"nuance_ko": "labour는 영국식 철자이고, 미국식은 labor예요. 몸이나 힘을 쓰는 '노동' 그 자체, 또는 일하는 사람들 전체(노동력)를 가리켜요. cheap labour(값싼 노동력), manual labour(육체노동), labour costs(인건비)처럼 자주 써요. work보다 훨씬 딱딱하고 경제나 사회 문맥에서 많이 등장해요. 또 the Labour Party는 영국의 정당 이름이고, 출산에서 'in labour'는 '진통 중'이라는 뜻이에요.",
+"also": [
+{
+"w": "labourer",
+"pos": "n",
+"ko": "노동자, 인부",
+"en": "My grandfather worked as a **labourer** on the farm."
+},
+{
+"w": "labor",
+"pos": "n",
+"ko": "노동(미국식 철자)",
+"en": "Child **labor** is illegal in most countries."
+}
+]
+},
+{
+"w": "lack",
+"pos": "n",
+"meaning_ko": "부족, 결핍",
+"example_en": "The project failed because of a **lack** of funding.",
+"example_ko": "그 프로젝트는 자금이 부족해서 실패했어.",
+"nuance_ko": "lack은 있어야 할 게 없거나 모자란 상태를 말해요. 명사로는 a lack of ~(~의 부족)이 거의 고정 표현이고, 동사로는 타동사라서 lack ~ 뒤에 전치사 없이 바로 목적어가 와요. 그래서 'lack of'를 동사처럼 써서 We lack of money라고 하면 틀려요. We lack money가 맞아요. shortage는 양이 모자란 경우, lack은 아예 없거나 질적으로 결핍된 경우에 더 자연스러워요. lack of sleep, lack of experience, lack of interest 같은 짝꿍이 흔하고 뉴스와 비즈니스에서 두루 써요.",
+"also": [
+{
+"w": "lacking",
+"pos": "adj",
+"ko": "부족한, 결여된",
+"en": "The team was **lacking** confidence in the final game."
+}
+]
+},
+{
+"w": "lamb",
+"pos": "n",
+"meaning_ko": "새끼 양, 양고기",
+"example_en": "We had roast **lamb** with potatoes for Sunday dinner.",
+"example_ko": "일요일 저녁으로 양고기 구이랑 감자를 먹었어.",
+"nuance_ko": "lamb은 새끼 양이고, 요리 재료로는 양고기를 뜻해요. 고기를 말할 때는 셀 수 없는 명사라서 a lamb 대신 lamb이라고 해요. 소고기가 beef, 돼지고기가 pork인 것처럼 어른 양고기는 mutton이라고 구분하지만, 요즘은 보통 lamb만 써요. 비유로 'a lamb'은 순하고 순진한 사람을 가리키고, like a lamb to the slaughter는 아무것도 모르고 위험한 곳으로 가는 모습을 말해요. lamb chop, rack of lamb 같은 메뉴 이름으로도 자주 보여요.",
+"also": []
+},
+{
+"w": "lamp",
+"pos": "n",
+"meaning_ko": "램프, 등, 스탠드",
+"example_en": "Could you turn on the **lamp** next to the sofa?",
+"example_ko": "소파 옆에 있는 스탠드 좀 켜 줄래?",
+"nuance_ko": "lamp는 탁상이나 바닥에 놓고 쓰는 조명 기구를 말해요. 천장에 붙은 조명은 보통 light나 ceiling light라고 하고, lamp는 이동하고 코드를 꽂는 이미지가 강해요. desk lamp(책상 스탠드), floor lamp(플로어 스탠드), table lamp 같은 짝꿍이 흔해요. 한국어의 '램프'는 자동차 후미등 같은 느낌도 있지만, 영어로 자동차 등은 보통 headlight, taillight라고 해요. street lamp(가로등)처럼 야외에서도 쓰이니 알아 두세요.",
+"also": []
+},
+{
+"w": "lane",
+"pos": "n",
+"meaning_ko": "차선, 좁은 길",
+"example_en": "He moved into the left **lane** to pass the truck.",
+"example_ko": "그는 트럭을 추월하려고 왼쪽 차선으로 옮겼어.",
+"nuance_ko": "lane은 도로를 나눈 '차선'이나 시골의 좁은 길을 뜻해요. 수영장의 레인, 볼링 레인, 자전거 전용 차선(bike lane)에도 똑같이 써요. 고속도로 차선은 the fast lane, the slow lane, the left lane처럼 말해요. in the fast lane은 비유로 '바쁘고 자극적으로 사는'이라는 뜻이에요. road나 street보다 폭이 좁고 작은 길이라는 느낌이 있고, 영국에서는 주소에 Lane이 들어가는 작은 길이 많아요.",
+"also": []
+},
+{
+"w": "language",
+"pos": "n",
+"meaning_ko": "언어, 말",
+"example_en": "Learning a second **language** takes patience and daily practice.",
+"example_ko": "제2외국어를 배우는 건 인내심이랑 매일 하는 연습이 필요해.",
+"nuance_ko": "language는 사람들이 쓰는 언어 체계 전체를 말해요. 셀 수 있는 명사로 쓰면 English is a language처럼 개별 언어를 가리키고, 셀 수 없는 명사로 쓰면 '말, 언어 능력'이라는 일반 개념이에요. 말투나 표현 방식도 가리켜서 bad language는 욕설, body language는 몸짓 언어예요. tongue는 시적이거나 옛스러운 느낌, dialect는 지역 방언이라는 차이가 있어요. 한국 학습자는 '언어를 말하다'를 speak a language라고 하면 돼요. 프로그래밍 언어도 programming language라고 해요.",
+"also": []
+},
+{
+"w": "lasted",
+"pos": "v",
+"meaning_ko": "지속되었다, 계속되었다",
+"example_en": "The meeting **lasted** almost three hours, which was too long.",
+"example_ko": "회의가 거의 세 시간이나 계속됐는데, 너무 길었어.",
+"nuance_ko": "입력 표제어는 lasted지만 뿌리는 동사 last예요. last는 '시간이 얼마나 이어지는지'를 말하는 동사로, 뒤에 기간이 와요(last two hours). 또 물건이나 효과가 오래 버티는 것도 last로 표현해서 This battery lasts all day처럼 써요. last를 '마지막'이라는 형용사로만 알고 있다가 동사 용법을 놓치는 경우가 많아요. 시간이 걸린다는 뜻의 take와 달리 last는 어떤 상태나 일이 지속된 길이에 초점을 둬요. 형용사 lasting은 '오래가는'이라는 뜻으로 lasting friendship처럼 써요.",
+"also": [
+{
+"w": "lasting",
+"pos": "adj",
+"ko": "오래가는, 지속적인",
+"en": "The trip left a **lasting** impression on her."
+},
+{
+"w": "everlasting",
+"pos": "adj",
+"ko": "영원한, 끝없는",
+"en": "They promised each other **everlasting** love."
+}
+]
+},
+{
+"w": "lawn",
+"pos": "n",
+"meaning_ko": "잔디밭",
+"example_en": "I need to mow the **lawn** before the neighbors come over.",
+"example_ko": "이웃이 오기 전에 잔디를 깎아야 해.",
+"nuance_ko": "lawn은 집 앞뒤나 공원에서 짧게 관리된 잔디밭을 말해요. 야생에서 자라는 풀은 grass, 사람이 가꾸는 잔디 공간은 lawn이라고 보면 쉬워요. mow the lawn(잔디를 깎다), water the lawn, front lawn 같은 표현으로 자주 써요. 미국 드라마에서 주말에 잔디 깎는 장면이 많이 나오는 만큼 구어에서도 흔한 단어예요. lawn mower는 잔디깎이 기계이고, lawn party는 정원에서 하는 야외 파티를 가리켜요.",
+"also": []
+},
+{
+"w": "lawyer",
+"pos": "n",
+"meaning_ko": "변호사",
+"example_en": "You should talk to a **lawyer** before signing that contract.",
+"example_ko": "그 계약서에 서명하기 전에 변호사랑 먼저 얘기해 봐.",
+"nuance_ko": "lawyer는 법률 일을 하는 사람을 폭넓게 가리키는 일반적인 말이에요. attorney는 미국에서 의뢰인을 대리하는 변호사를 뜻하고 lawyer와 거의 같게 쓰여요. 영국에서는 solicitor가 상담과 서류 중심의 변호사, barrister가 법정에서 변론하는 변호사라서 구분하기도 해요. 한국어의 '변호사'는 판사나 검사와 달리 의뢰인 편에서 일하는 사람이라는 느낌이에요. hire a lawyer(변호사를 선임하다), criminal lawyer, a good lawyer처럼 짝꿍을 기억해 두세요.",
+"also": []
+},
+{
+"w": "league",
+"pos": "n",
+"meaning_ko": "리그, 연맹",
+"example_en": "Our team finished at the top of the **league** this season.",
+"example_ko": "우리 팀이 이번 시즌에 리그 1위로 끝냈어.",
+"nuance_ko": "league는 스포츠 팀들이 정기적으로 경기하는 '리그', 또는 공통 목적으로 모인 '연맹'을 뜻해요. the Premier League, Major League Baseball처럼 이름에 자주 들어가요. 비유적으로 in a different league는 '급이 다른'이라는 말이고, out of one's league는 '내가 넘볼 수 없는 수준'이라는 구어 표현이에요. 연애에서 She's out of my league라고 하면 '내가 감히 어울릴 수준이 아니야'라는 뜻이죠. 거리 단위 league는 옛날 표현이라 일상에서는 거의 쓰지 않아요.",
+"also": []
+},
+{
+"w": "lean",
+"pos": "v",
+"meaning_ko": "기대다, 기울다",
+"example_en": "He **leaned** against the wall and waited for the bus.",
+"example_ko": "그는 벽에 기대서 버스를 기다렸어.",
+"nuance_ko": "lean은 몸이나 물체가 한쪽으로 기울거나 어딘가에 기대는 동작이에요. lean on(~에 기대다), lean against, lean forward(몸을 앞으로 숙이다)처럼 전치사와 함께 써요. 비유로 lean on someone은 '도움을 청해 의지하다'이고, lean toward는 '~쪽으로 마음이 기울다'예요. 과거형은 미국식 leaned, 영국식 leant가 둘 다 있어요. 형용사로 lean은 '군살 없는, 살코기의'라는 뜻이라서 lean meat는 기름기 없는 고기예요.",
+"also": [
+{
+"w": "leaning",
+"pos": "n",
+"ko": "성향, 기울기",
+"en": "She has strong political **leanings** toward the left."
+}
+]
+},
+{
+"w": "leap",
+"pos": "v",
+"meaning_ko": "껑충 뛰다, 급증하다",
+"example_en": "The cat **leaped** onto the counter and knocked over a glass.",
+"example_ko": "고양이가 조리대에 훌쩍 뛰어올라서 컵을 쓰러뜨렸어.",
+"nuance_ko": "leap은 jump보다 크고 힘차게, 멀리 뛰어오르는 느낌의 동사예요. 높이나 거리를 넘는 도약이라서 leap over a fence처럼 뭔가를 건너뛰는 장면에 잘 맞아요. 비유로는 갑작스럽고 큰 변화에 써서 Prices leapt 20%처럼 뉴스에서 자주 나와요. a leap of faith는 '근거 없이 믿고 뛰어드는 결단', look before you leap은 '뛰기 전에 살펴라'는 속담이에요. 과거형은 leaped와 leapt 모두 쓰이고, leap year는 '윤년'이에요.",
+"also": [
+{
+"w": "leaping",
+"pos": "adj",
+"ko": "뛰어오르는",
+"en": "A **leaping** salmon flashed in the stream."
+}
+]
+},
+{
+"w": "legal",
+"pos": "adj",
+"meaning_ko": "합법적인, 법적인",
+"example_en": "Is it **legal** to park here overnight?",
+"example_ko": "여기에 밤새 주차해도 합법이야?",
+"nuance_ko": "legal은 '법에 맞는, 법과 관련된' 두 가지 뜻이 있어요. legal advice, legal action, legal fees는 '법률 관련'이고, It's legal은 '불법이 아니다'예요. lawful과 비슷하지만 legal이 훨씬 일반적이고, lawful은 도덕이나 격식이 섞인 느낌이에요. 반대말은 illegal이고, 일상에서는 '불법'이라고 말할 때 이게 가장 흔해요. take legal action(법적 조치를 취하다)이라는 표현은 뉴스와 비즈니스에서 자주 들려요.",
+"also": [
+{
+"w": "illegal",
+"pos": "adj",
+"ko": "불법의",
+"en": "It is **illegal** to drive without a license."
+},
+{
+"w": "legally",
+"pos": "adv",
+"ko": "법적으로",
+"en": "You are **legally** required to wear a seatbelt."
+},
+{
+"w": "legality",
+"pos": "n",
+"ko": "합법성",
+"en": "They questioned the **legality** of the new rule."
+}
+]
+},
+{
+"w": "lend",
+"pos": "v",
+"meaning_ko": "빌려주다",
+"example_en": "Could you **lend** me your charger for a minute?",
+"example_ko": "충전기 잠깐만 빌려줄 수 있어?",
+"nuance_ko": "lend는 내 것을 남에게 '빌려주는' 쪽이고, borrow는 남의 것을 '빌려 오는' 쪽이에요. 한국어는 둘 다 '빌리다'라서 많이 헷갈려요. lend me your pen은 '내게 펜을 빌려줘', I borrowed his pen은 '나는 그의 펜을 빌렸다'예요. 활용은 lend-lent-lent로 불규칙이고, lend a hand는 '도와주다', lend an ear는 '귀 기울여 들어주다'라는 관용구예요. 돈을 빌려주는 건 은행에서도 lend를 쓰고 명사로는 lender(대출 기관)가 있어요.",
+"also": [
+{
+"w": "lender",
+"pos": "n",
+"ko": "대출해 주는 사람, 대출 기관",
+"en": "The **lender** asked for proof of income."
+},
+{
+"w": "lending",
+"pos": "n",
+"ko": "대출, 빌려주기",
+"en": "Banks have tightened their **lending** rules."
+}
+]
+},
+{
+"w": "length",
+"pos": "n",
+"meaning_ko": "길이, 기간",
+"example_en": "What is the **length** of the new bridge?",
+"example_ko": "새 다리 길이가 얼마나 돼?",
+"nuance_ko": "length는 long의 명사형으로, 물리적 길이뿐 아니라 시간의 길이도 가리켜요. the length of the movie(영화 상영 시간)처럼 써요. 어떤 정도까지 간다는 비유로 go to great lengths는 '온갖 노력을 다하다'이고, at length는 '길게, 자세히'예요. 세로 길이를 가리킬 때 length, 가로 폭은 width, 높이는 height로 구분해요. 발음은 /leŋθ/이고 'g' 소리와 'th' 소리를 둘 다 살리기 어려워서 많이들 실수해요.",
+"also": [
+{
+"w": "lengthy",
+"pos": "adj",
+"ko": "장황한, 긴",
+"en": "The report was **lengthy** and hard to follow."
+},
+{
+"w": "lengthen",
+"pos": "v",
+"ko": "늘이다, 길어지다",
+"en": "They plan to **lengthen** the runway next year."
+}
+]
+},
+{
+"w": "lesson",
+"pos": "n",
+"meaning_ko": "수업, 교훈",
+"example_en": "I take a piano **lesson** every Thursday after work.",
+"example_ko": "나는 매주 목요일 퇴근 후에 피아노 수업을 들어.",
+"nuance_ko": "lesson은 한 번의 수업 시간이나 수업 단위를 뜻하고, 또 경험에서 얻는 '교훈'이라는 뜻도 있어요. take lessons는 개인 레슨을 받는 것이고, learn a lesson은 '교훈을 얻다'예요. class는 학생들이 모이는 수업 자체를 말하고, lesson은 거기서 배우는 내용 한 단위에 가까워요. Let that be a lesson to you는 '이걸 교훈 삼아라'라는 말이라 다소 훈계조예요. 영국에서는 학교 수업을 lesson이라고 자주 부르고, 미국에서는 class를 더 많이 써요.",
+"also": []
+},
+{
+"w": "library",
+"pos": "n",
+"meaning_ko": "도서관",
+"example_en": "I usually study at the **library** because it's quiet there.",
+"example_ko": "난 보통 조용해서 도서관에서 공부해.",
+"nuance_ko": "library는 책을 빌리고 읽는 도서관이에요. 발음이 /ˈlaɪbreri/로 'b' 다음에 r 소리가 있는데, 한국 학습자들이 라이브러리를 '라이버리'로 줄여 발음하는 경우가 많아요. 철자도 libary로 틀리기 쉬워서 주의해야 해요. 책을 빌리는 건 borrow a book from the library, 반납은 return이에요. 컴퓨터에서는 code library처럼 '코드 모음'을 가리킬 때도 쓰고, bookstore는 책을 사는 서점이라 library와 달라요.",
+"also": [
+{
+"w": "librarian",
+"pos": "n",
+"ko": "사서",
+"en": "The **librarian** helped me find that old atlas."
+}
+]
+},
+{
+"w": "licence",
+"pos": "n",
+"meaning_ko": "면허, 허가증",
+"example_en": "You need a **licence** to run a restaurant here.",
+"example_ko": "여기서 식당을 하려면 허가증이 있어야 해.",
+"nuance_ko": "licence는 영국식 명사 철자이고, 미국에서는 명사도 license로 써요. 영국에서도 동사는 license로 쓰니 철자 구분이 까다로워요. driving licence(운전면허), fishing licence처럼 '무엇을 할 수 있다는 공식 허가'를 가리켜요. permit이 일회성 허가증이라면 licence는 일정 기간 유효한 면허에 가까워요. 소프트웨어에서는 license agreement(사용 허가 계약)로 많이 보이고, 비즈니스와 법률 문서에서 자주 등장해요.",
+"also": [
+{
+"w": "license",
+"pos": "v",
+"ko": "허가하다, 면허를 주다",
+"en": "The city will **license** new food trucks this spring."
+},
+{
+"w": "licensed",
+"pos": "adj",
+"ko": "면허를 가진, 공인된",
+"en": "She is a **licensed** nurse in two states."
+}
+]
+},
+{
+"w": "lid",
+"pos": "n",
+"meaning_ko": "뚜껑, 눈꺼풀",
+"example_en": "Put the **lid** back on the jar so it stays fresh.",
+"example_ko": "신선하게 유지되도록 병에 뚜껑을 다시 닫아 놔.",
+"nuance_ko": "lid는 냄비, 병, 상자 같은 용기의 뚜껑이에요. cap은 병목에 끼우거나 돌려 닫는 작은 마개, lid는 위에 얹거나 덮는 넓은 뚜껑이라는 느낌 차이가 있어요. 눈꺼풀은 eyelid라고 해서 lid가 짧게 쓰이기도 해요. 비유로 keep a lid on ~은 '비밀이나 감정을 억누르다', blow the lid off는 '비밀을 폭로하다'예요. take the lid off a pot(냄비 뚜껑을 열다)처럼 일상에서 자주 써요.",
+"also": []
+},
+{
+"w": "lightly",
+"pos": "adv",
+"meaning_ko": "가볍게, 살짝",
+"example_en": "She tapped him **lightly** on the shoulder.",
+"example_ko": "그녀는 그의 어깨를 가볍게 톡 쳤어.",
+"nuance_ko": "lightly는 light의 부사형으로, 힘이나 정도가 약하다는 뜻이에요. 무게가 아니라 '세기'가 약한 걸 말하는 경우가 많아서 touch lightly, season lightly(간을 약하게 하다)처럼 써요. not to be taken lightly는 '가볍게 여기면 안 되는'이라는 뜻으로 뉴스와 공식 문서에서 자주 보여요. 한국 학습자가 '가볍게 먹다'를 eat lightly라고 하면 '적게 먹다'로 통해요. 또 get off lightly는 '가벼운 처벌만 받고 넘어가다'라는 관용 표현이에요.",
+"also": [
+{
+"w": "lighten",
+"pos": "v",
+"ko": "가볍게 하다, 밝게 하다",
+"en": "A joke helped **lighten** the mood."
+},
+{
+"w": "lightness",
+"pos": "n",
+"ko": "가벼움, 밝음",
+"en": "I loved the **lightness** of the fabric."
+}
+]
+},
+{
+"w": "likely",
+"pos": "adj",
+"meaning_ko": "~할 것 같은, 가능성 높은",
+"example_en": "It's **likely** to rain this afternoon, so take an umbrella.",
+"example_ko": "오늘 오후에 비가 올 것 같으니까 우산 챙겨.",
+"nuance_ko": "likely는 어떤 일이 일어날 확률이 높다는 뜻의 형용사예요. be likely to + 동사원형 구조가 가장 흔하고, It is likely that ~ 형태도 써요. probably는 부사, likely는 형용사라서 문장 구조가 달라요. likely 자체를 부사로 쓰려면 most likely, very likely처럼 앞에 수식어를 붙여요. 한국 학습자가 I'm likely to go처럼 사람 주어로 말해도 되지만 I likely go는 어색해요. 반대는 unlikely이고 It's unlikely that ~도 많이 써요.",
+"also": [
+{
+"w": "unlikely",
+"pos": "adj",
+"ko": "있을 것 같지 않은",
+"en": "It's **unlikely** that he will change his mind."
+},
+{
+"w": "likelihood",
+"pos": "n",
+"ko": "가능성",
+"en": "The **likelihood** of delay is quite high."
+}
+]
+},
+{
+"w": "limit",
+"pos": "n",
+"meaning_ko": "한계, 제한",
+"example_en": "There's a speed **limit** of 50 on this road.",
+"example_ko": "이 도로는 제한 속도가 50이야.",
+"nuance_ko": "limit은 넘어서는 안 되는 한계선을 뜻해요. speed limit, time limit, age limit처럼 규칙으로 정해진 한계에도 쓰고, 능력의 한계에도 써요. 동사로는 '제한하다'이고 limit A to B 구조로 말해요. off limits는 '출입 금지'이고, push someone to the limit은 '한계까지 몰아붙이다'예요. boundary나 border는 경계선, limit은 수치나 정도의 상한이라는 차이가 있어요. 신용카드 한도도 credit limit이라고 해요.",
+"also": [
+{
+"w": "limited",
+"pos": "adj",
+"ko": "제한된, 한정된",
+"en": "We have **limited** seats left for tonight."
+},
+{
+"w": "limitation",
+"pos": "n",
+"ko": "한계, 제약",
+"en": "Every method has its **limitations**."
+},
+{
+"w": "unlimited",
+"pos": "adj",
+"ko": "무제한의",
+"en": "The plan includes **unlimited** data."
+}
+]
+},
+{
+"w": "lion",
+"pos": "n",
+"meaning_ko": "사자",
+"example_en": "The **lion** lay in the shade and watched the zebras.",
+"example_ko": "사자는 그늘에 누워서 얼룩말들을 지켜보고 있었어.",
+"nuance_ko": "lion은 아프리카에 사는 사자이고, 수컷은 갈기가 있어서 lion, 암컷은 lioness라고 해요. 용맹과 힘의 상징이라 the lion's share는 '가장 큰 몫'이라는 관용 표현이에요. 이솝 우화에서 비롯돼서 '큰 몫을 독차지한다'는 부정적 뉘앙스가 약간 있어요. a lion-hearted person은 '용감한 사람'을 말하고, throw someone to the lions는 '위험한 곳에 내몰다'예요. 스포츠팀 이름에 Lions가 많이 쓰이는 것도 이런 강한 이미지 때문이에요.",
+"also": [
+{
+"w": "lioness",
+"pos": "n",
+"ko": "암사자",
+"en": "The **lioness** led the hunt at dawn."
+}
+]
+},
+{
+"w": "loan",
+"pos": "n",
+"meaning_ko": "대출, 빌려준 것",
+"example_en": "They took out a **loan** to buy their first house.",
+"example_ko": "그들은 첫 집을 사려고 대출을 받았어.",
+"nuance_ko": "loan은 돈이나 물건을 일정 기간 빌려주는 일 또는 그렇게 빌린 돈이에요. take out a loan(대출을 받다), pay off a loan(대출을 갚다), student loan(학자금 대출) 같은 짝꿍이 흔해요. 돈을 빌려주는 은행 입장에서는 give a loan, 빌리는 사람 입장에서는 get a loan으로 말해요. on loan은 '임시로 빌려서'라는 뜻이라 박물관에서 작품이 on loan이라고 하면 다른 곳에서 대여해 온 것이에요. 동사 loan은 미국에서 lend 대신 쓰기도 해요.",
+"also": [
+{
+"w": "loaned",
+"pos": "v",
+"ko": "빌려주었다",
+"en": "She **loaned** me her car for the weekend."
+}
+]
+},
+{
+"w": "locate",
+"pos": "v",
+"meaning_ko": "위치를 찾아내다, 두다",
+"example_en": "Police are trying to **locate** the missing driver.",
+"example_ko": "경찰은 실종된 운전자의 위치를 찾으려 하고 있어.",
+"nuance_ko": "locate는 '어디에 있는지 찾아내다'는 뜻과 '어떤 장소에 설치하다'는 뜻이 있어요. 뉴스에서 locate a suspect(용의자의 소재를 파악하다)처럼 자주 보여요. 수동형 be located in/at은 '~에 위치해 있다'는 뜻으로 설명문에서 흔해요. find와 비슷하지만 locate는 정확한 위치를 특정한다는 느낌이 더 강하고 격식 있는 말이에요. 일상 대화에서는 find가 훨씬 많이 쓰이고, 지도 앱에서는 location(위치)이라는 명사를 자주 만나요.",
+"also": [
+{
+"w": "location",
+"pos": "n",
+"ko": "위치, 장소",
+"en": "The restaurant has a great **location** by the river."
+},
+{
+"w": "relocate",
+"pos": "v",
+"ko": "이전하다, 옮기다",
+"en": "The company decided to **relocate** to Austin."
+}
+]
+},
+{
+"w": "log",
+"pos": "n",
+"meaning_ko": "통나무, 기록",
+"example_en": "He kept a **log** of every call he made that week.",
+"example_ko": "그는 그 주에 건 전화를 전부 기록해 뒀어.",
+"nuance_ko": "log는 원래 통나무인데, 배의 항해 일지를 통나무로 속도를 쟀던 데서 '기록'이라는 뜻이 나왔다고 해요. 그래서 컴퓨터에서 log는 시스템 기록이고, log in/log out은 '접속하다/나가다'를 뜻해요. 동사로 log는 '기록하다'라서 log your hours(근무 시간을 기록해라)처럼 써요. sleep like a log는 '통나무처럼 푹 자다'라는 관용구예요. 수학에서는 로그(logarithm)의 줄임말로도 쓰이니 문맥으로 구분해요.",
+"also": [
+{
+"w": "logging",
+"pos": "n",
+"ko": "벌목, 기록",
+"en": "**Logging** has damaged much of the forest."
+},
+{
+"w": "logged",
+"pos": "v",
+"ko": "기록했다, 접속했다",
+"en": "I **logged** into my account to check the balance."
+}
+]
+},
+{
+"w": "lone",
+"pos": "adj",
+"meaning_ko": "홀로 있는, 외톨이의",
+"example_en": "A **lone** tree stood in the middle of the field.",
+"example_ko": "들판 한가운데 나무 한 그루가 홀로 서 있었어.",
+"nuance_ko": "lone은 '혼자뿐인, 단 하나의'라는 뜻이고 명사 앞에서만 써요. a lone figure(외로이 서 있는 사람), lone wolf(혼자 행동하는 사람)처럼 쓰는데 주로 글이나 묘사에서 보여요. lonely와 달라서 lone은 단순히 하나뿐이라는 사실을, lonely는 외로운 감정을 나타내요. alone은 서술적으로 She is alone처럼 쓰고 lone은 She is lone처럼 쓰지 않아요. a lone parent는 '한부모'로 영국 영어에서 자주 보이는 표현이에요.",
+"also": [
+{
+"w": "lonely",
+"pos": "adj",
+"ko": "외로운",
+"en": "She felt **lonely** in the new city."
+},
+{
+"w": "loneliness",
+"pos": "n",
+"ko": "외로움",
+"en": "**Loneliness** can affect your health."
+},
+{
+"w": "loner",
+"pos": "n",
+"ko": "혼자 지내는 사람",
+"en": "He was a **loner** who rarely went to parties."
+}
+]
+},
+{
+"w": "loose",
+"pos": "adj",
+"meaning_ko": "느슨한, 헐렁한",
+"example_en": "This screw is **loose**, so the shelf keeps wobbling.",
+"example_ko": "이 나사가 풀려서 선반이 계속 흔들려.",
+"nuance_ko": "loose는 꽉 조여 있지 않고 헐거운 상태를 말해요. 옷이 헐렁할 때도, 이가 흔들릴 때도, 동물이 풀려 있을 때도 써요. 발음이 /luːs/이고 lose(/luːz/, 잃다)와 철자·발음이 비슷해서 많이 헷갈려요. 반대는 tight이고, loose change는 '잔돈', at a loose end는 '할 일 없이 한가한'이라는 관용 표현이에요. 비유로 loose talk는 '가볍고 부주의한 말'이라서 조심성 없다는 뉘앙스가 있어요.",
+"also": [
+{
+"w": "loosely",
+"pos": "adv",
+"ko": "느슨하게, 대략적으로",
+"en": "The story is **loosely** based on real events."
+},
+{
+"w": "loosen",
+"pos": "v",
+"ko": "느슨하게 하다, 풀다",
+"en": "He **loosened** his tie after the long meeting."
+}
+]
+},
+{
+"w": "loss",
+"pos": "n",
+"meaning_ko": "손실, 상실",
+"example_en": "The company reported a big **loss** this quarter.",
+"example_ko": "그 회사는 이번 분기에 큰 손실을 발표했어.",
+"nuance_ko": "loss는 lose의 명사형으로, 돈의 손실뿐 아니라 사람이나 능력, 기회를 잃는 상황에도 써요. profit and loss(손익), weight loss(체중 감소), hair loss(탈모) 같은 짝꿍이 자주 나와요. at a loss는 '어쩔 줄 모르는'이라는 관용 표현으로 I was at a loss for words(할 말을 잃었어)처럼 써요. 사랑하는 사람의 죽음을 말할 때 loss를 쓰는 것도 흔해서 I'm sorry for your loss는 조의를 표하는 정형 표현이에요. 발음은 /lɔːs/ 또는 /lɒs/로 lose와 달라요.",
+"also": []
+},
+{
+"w": "lower",
+"pos": "adj",
+"meaning_ko": "더 낮은, 아래쪽의",
+"example_en": "Prices are **lower** at the market than at the supermarket.",
+"example_ko": "시장이 슈퍼마켓보다 가격이 더 낮아.",
+"nuance_ko": "lower는 low의 비교급이면서 동사로도 쓰여요. 형용사로는 '더 낮은', 또 상대적으로 아래쪽에 있는 것을 가리킬 때도 써서 the lower floor는 '아래층'이에요. 동사로 lower는 '낮추다, 내리다'라서 lower the price, lower your voice처럼 써요. reduce와 비슷하지만 lower는 높이·수준을 아래로 끌어내리는 이미지가 있어요. 격식 있는 문맥에서는 the lower house(하원)처럼 정치·제도 용어에도 나와요.",
+"also": [
+{
+"w": "lowered",
+"pos": "v",
+"ko": "낮추었다",
+"en": "She **lowered** her voice so no one could hear."
+}
+]
+},
+{
+"w": "lump",
+"pos": "n",
+"meaning_ko": "덩어리, 혹",
+"example_en": "There was a **lump** of butter melting in the pan.",
+"example_ko": "팬에서 버터 덩어리가 녹고 있었어.",
+"nuance_ko": "lump는 모양이 일정하지 않은 덩어리를 말해요. a lump of sugar(각설탕 하나), a lump in the throat(목이 메는 느낌)처럼 쓰고, 몸에 생긴 혹이나 멍울도 lump라고 해요. 의학적으로 lump를 발견했다고 하면 걱정스러운 뉘앙스가 있어요. 동사 lump together는 '뭉뚱그리다'라는 뜻이에요. 구어의 lump it은 '싫어도 참아라'라는 뜻으로, like it or lump it이 대표 표현이에요.",
+"also": [
+{
+"w": "lumpy",
+"pos": "adj",
+"ko": "덩어리진, 울퉁불퉁한",
+"en": "The sauce turned out **lumpy** because I didn't stir it."
+}
+]
+},
+{
+"w": "magazine",
+"pos": "n",
+"meaning_ko": "잡지",
+"example_en": "I flipped through a **magazine** while waiting at the dentist.",
+"example_ko": "치과에서 기다리는 동안 잡지를 훑어봤어.",
+"nuance_ko": "magazine은 정기적으로 발행되는 잡지예요. 신문(newspaper)이 매일의 뉴스를 다룬다면 magazine은 주간·월간으로 나오는 두꺼운 읽을거리라는 느낌이에요. a fashion magazine, a monthly magazine처럼 써요. 총기의 탄창도 magazine이라서 문맥으로 구분해야 해요. 발음은 /ˌmæɡəˈziːn/으로 마지막 음절에 강세가 와요. 줄여서 mag라고 하지만 구어에서도 흔히 쓰진 않아요.",
+"also": []
+},
+{
+"w": "magic",
+"pos": "n",
+"meaning_ko": "마법, 마술",
+"example_en": "The kids were amazed by the **magic** trick at the party.",
+"example_ko": "아이들은 파티에서 본 마술에 깜짝 놀랐어.",
+"nuance_ko": "magic은 마법 같은 초자연적 힘이나 마술쇼의 기술을 말해요. do magic tricks(마술을 하다), black magic(흑마술)처럼 써요. 비유로 '마법 같은 느낌'을 줄 때도 쓰여서 The place had a magic about it처럼 말해요. magic word는 'please'처럼 요청을 부드럽게 만드는 말을 가리키기도 해요. 형용사 magical은 '마법 같은, 환상적인'이라 감탄할 때 자주 써요.",
+"also": [
+{
+"w": "magical",
+"pos": "adj",
+"ko": "마법 같은, 환상적인",
+"en": "It was a **magical** evening by the lake."
+},
+{
+"w": "magician",
+"pos": "n",
+"ko": "마술사",
+"en": "The **magician** pulled a coin from my ear."
+}
+]
+},
+{
+"w": "mail",
+"pos": "n",
+"meaning_ko": "우편, 우편물",
+"example_en": "I haven't checked the **mail** since Monday.",
+"example_ko": "월요일 이후로 우편함을 안 확인했어.",
+"nuance_ko": "mail은 우편으로 오는 편지와 소포를 통틀어 말하는 셀 수 없는 명사예요. 영국에서는 post라고도 하지만, 미국에서는 mail이 기본이에요. email의 줄임말로도 쓰여서 'send me a mail'이라고 하면 이메일일 수도 있어요. 동사로는 mail a letter(편지를 부치다)처럼 써요. junk mail은 광고 우편, voice mail은 음성 메시지예요. mailbox는 우편함이고 mailman은 우편배달부를 가리켜요.",
+"also": [
+{
+"w": "mailing",
+"pos": "n",
+"ko": "우편 발송",
+"en": "We're preparing a **mailing** to all customers."
+}
+]
+},
+{
+"w": "maintain",
+"pos": "v",
+"meaning_ko": "유지하다, 주장하다",
+"example_en": "It's hard to **maintain** a healthy routine when you travel.",
+"example_ko": "여행 중에는 건강한 생활 습관을 유지하기 어려워.",
+"nuance_ko": "maintain은 이미 있는 상태나 수준을 계속 유지한다는 뜻이에요. maintain a good relationship, maintain a speed, maintain a car(정비하다)처럼 폭넓게 써요. '주장하다'라는 뜻도 있어서 He maintains that he is innocent는 '그는 결백하다고 주장한다'예요. keep과 비슷하지만 maintain은 노력과 관리를 해서 유지한다는 느낌이 있고 더 격식 있어요. 명사 maintenance는 '유지, 정비'로 car maintenance, system maintenance처럼 일상과 IT에서 흔해요.",
+"also": [
+{
+"w": "maintenance",
+"pos": "n",
+"ko": "유지, 보수",
+"en": "The elevator is closed for **maintenance** today."
+},
+{
+"w": "maintained",
+"pos": "adj",
+"ko": "관리된",
+"en": "The park is well **maintained** all year."
+}
+]
+},
+{
+"w": "male",
+"pos": "adj",
+"meaning_ko": "남성의, 수컷의",
+"example_en": "The study included both **male** and female participants.",
+"example_ko": "그 연구에는 남성과 여성 참가자가 모두 포함됐어.",
+"nuance_ko": "male은 생물학적 성별로 '수컷의, 남성의'를 가리키는 형용사이자 명사예요. 서류, 설문, 통계처럼 성별을 객관적으로 표기할 때 male/female을 써요. man이나 boy가 사람을 직접 가리키는 말이라면 male은 분류 용어라서 일상 대화에서 사람을 male이라고 부르면 사무적이고 차갑게 들려요. 동물에도 쓰여서 a male lion은 '수사자'예요. 반대말은 female이고, male-dominated는 '남성이 다수인'이라는 뜻이에요.",
+"also": []
+},
+{
+"w": "mama",
+"pos": "n",
+"meaning_ko": "엄마",
+"example_en": "The baby cried until **mama** picked him up.",
+"example_ko": "아기는 엄마가 안아 줄 때까지 울었어.",
+"nuance_ko": "mama는 어린아이가 엄마를 부르는 말로, mom, mommy와 비슷하지만 더 아기 같고 애정이 담긴 느낌이에요. 미국 일부 지역과 노래 가사에서 자주 들려요. 영국 영어에서는 mum이 일반적이고, mama는 외래어 느낌이 있을 때도 있어요. 성인이 엄마를 mama라고 부르면 지역·문화에 따라 정겹기도 하고 아이 같다고 느껴지기도 해요. mama's boy는 '엄마 말을 지나치게 듣는 남자'를 놀리는 표현이에요.",
+"also": [
+{
+"w": "momma",
+"pos": "n",
+"ko": "엄마(구어)",
+"en": "My **momma** makes the best apple pie."
+}
+]
+},
+{
+"w": "manner",
+"pos": "n",
+"meaning_ko": "방식, 태도",
+"example_en": "She spoke in a calm **manner** that put everyone at ease.",
+"example_ko": "그녀는 차분한 태도로 말해서 모두를 편안하게 해 줬어.",
+"nuance_ko": "manner는 단수로 '방식, 태도'를 뜻하고, 복수 manners는 '예의범절'을 뜻해서 뜻이 달라져요. in a friendly manner(친근한 태도로), in a professional manner처럼 way보다 격식 있는 말이에요. Where are your manners?는 '예의가 없구나'라는 꾸짖음이고, bad manners는 '무례'예요. all manner of ~는 '온갖 종류의 ~'라는 뜻의 문어체 표현이에요. 한국 학습자는 '매너가 좋다'를 He has good manners라고 복수로 써야 한다는 점을 많이 놓쳐요.",
+"also": [
+{
+"w": "manners",
+"pos": "n",
+"ko": "예의, 예절",
+"en": "Kids should learn good **manners** early."
+}
+]
+},
+{
+"w": "map",
+"pos": "n",
+"meaning_ko": "지도",
+"example_en": "Can you check the **map** to see where we are?",
+"example_ko": "지도 보고 우리가 지금 어디 있는지 확인해 줄래?",
+"nuance_ko": "map은 길이나 지역을 나타낸 지도이고, 동사로는 '지도로 그리다, 대응시키다'라는 뜻이에요. 앱에서 Google Maps처럼 쓰이고, on the map은 '지도에 나올 만큼 유명한'이라는 비유로 put the town on the map(그 마을을 유명하게 만들다)처럼 써요. 컴퓨터에서 map은 '대응시키다'라서 map a key to a function처럼 개발자들이 쓰기도 해요. chart는 해도나 도표, atlas는 지도책이에요. off the map은 '아주 외딴'이라는 뜻이에요.",
+"also": [
+{
+"w": "mapping",
+"pos": "n",
+"ko": "대응, 지도 작성",
+"en": "The team finished the **mapping** of the area."
+}
+]
+},
+{
+"w": "march",
+"pos": "v",
+"meaning_ko": "행진하다, 시위 행진을 하다",
+"example_en": "Thousands of people **marched** through the city center.",
+"example_ko": "수천 명이 도심을 행진했어.",
+"nuance_ko": "march는 군인처럼 일정한 걸음으로 걷거나 많은 사람이 행진하는 동작이에요. 대문자 March는 '3월'이라서 문장 첫머리가 아니라도 대문자로 쓰면 달 이름이에요. 시위나 항의로 행진하는 것도 march이고 명사로 a protest march처럼 써요. march on은 '계속 진행되다'라는 뜻이라 시간이 흘러가는 걸 표현할 때도 쓰여요. Time marches on(시간은 계속 흐른다)이 대표적이에요. 군대 용어와 뉴스에서 자주 보이는 단어예요.",
+"also": []
+},
+{
+"w": "marvel",
+"pos": "v",
+"meaning_ko": "경탄하다, 놀라워하다",
+"example_en": "We **marvelled** at how quickly the kids learned to swim.",
+"example_ko": "애들이 수영을 얼마나 빨리 배우는지 우리는 감탄했어.",
+"nuance_ko": "marvel은 놀라운 것을 보고 감탄한다는 동사이고, marvel at ~ 구조로 써요. 명사로는 '경이로운 것'이라서 a marvel of engineering(공학의 경이)처럼 써요. 형용사 marvelous는 '굉장한, 놀라운'이고 영국식 철자는 marvellous예요. wonder와 비슷하지만 marvel은 대상이 훌륭해서 감탄하는 느낌이 더 강해요. Marvel이 만화 회사 이름이기도 해서 대문자로 쓰면 그 브랜드를 가리켜요.",
+"also": [
+{
+"w": "marvelous",
+"pos": "adj",
+"ko": "놀라운, 훌륭한",
+"en": "The view from the top was absolutely **marvelous**."
+}
+]
+},
+{
+"w": "mask",
+"pos": "n",
+"meaning_ko": "마스크, 가면",
+"example_en": "Please wear a **mask** when you enter the clinic.",
+"example_ko": "진료소에 들어올 때는 마스크를 써 주세요.",
+"nuance_ko": "mask는 얼굴을 가리거나 보호하는 물건으로, 가면과 방역용 마스크를 다 가리켜요. 한국어 '마스크'는 얼굴 팩도 포함하지만, 영어로 face mask는 팩일 수도 있고 방역 마스크일 수도 있어서 문맥이 필요해요. 동사로는 '가리다, 숨기다'라서 mask one's feelings(감정을 숨기다)처럼 써요. Halloween mask, gas mask, surgical mask처럼 종류가 다양해요. 비유로 behind a mask는 '진짜 모습을 숨기고'라는 말이에요.",
+"also": [
+{
+"w": "masked",
+"pos": "adj",
+"ko": "가면을 쓴",
+"en": "A **masked** man ran out of the bank."
+},
+{
+"w": "unmask",
+"pos": "v",
+"ko": "정체를 밝히다",
+"en": "The article helped **unmask** the real author."
+}
+]
+},
+{
+"w": "mass",
+"pos": "n",
+"meaning_ko": "덩어리, 대량, 대중",
+"example_en": "A huge **mass** of snow slid off the roof.",
+"example_ko": "엄청난 눈덩이가 지붕에서 미끄러져 내렸어.",
+"nuance_ko": "mass는 형태가 불분명한 큰 덩어리, 많은 양, 또는 물리학에서의 질량을 뜻해요. the masses는 '일반 대중'이라는 뜻이고, mass media(대중 매체), mass production(대량 생산)처럼 합성어로 많이 쓰여요. 대문자 Mass는 가톨릭 '미사'라는 전혀 다른 뜻이에요. 동사 mass는 '모이다, 집결시키다'라서 군대나 구름이 모이는 모습을 표현해요. 형용사 massive는 '거대한'이라서 mass와 구분해서 알아 두세요.",
+"also": []
+},
+{
+"w": "massive",
+"pos": "adj",
+"meaning_ko": "거대한, 엄청난",
+"example_en": "There was a **massive** traffic jam on the highway.",
+"example_ko": "고속도로에 엄청난 교통 체증이 있었어.",
+"nuance_ko": "massive는 크기나 규모, 영향이 압도적으로 크다는 형용사예요. 물리적 크기뿐 아니라 a massive success, massive damage처럼 정도에 대해서도 써요. huge와 비슷하지만 massive는 무겁고 묵직한 덩어리의 느낌이 있어요. 구어에서는 '대박' 같은 강조로 It was massive!라고 말하기도 해요. 뉴스에서는 massive layoffs(대규모 해고), massive protest 같은 표현이 자주 나와요.",
+"also": [
+{
+"w": "massively",
+"pos": "adv",
+"ko": "엄청나게, 대규모로",
+"en": "Sales have grown **massively** since last year."
+}
+]
+},
+{
+"w": "match",
+"pos": "n",
+"meaning_ko": "경기, 성냥, 어울리는 것",
+"example_en": "Our team won the **match** by two goals.",
+"example_ko": "우리 팀이 두 골 차로 경기를 이겼어.",
+"nuance_ko": "match는 뜻이 여러 개라서 문맥이 중요해요. 스포츠에서는 '경기'(영국에서 특히 흔함), 일상에서는 '성냥', 그리고 '잘 어울리는 사람이나 물건'이에요. 동사로는 '어울리다, 일치하다'라서 The shirt matches your shoes처럼 써요. 미국에서는 경기를 game, 영국에서는 match를 더 많이 말해요. meet one's match는 '호적수를 만나다'이고, a perfect match는 '완벽한 짝'이에요. 데이팅 앱에서 'match'는 서로 호감이 맞았다는 뜻이에요.",
+"also": [
+{
+"w": "matching",
+"pos": "adj",
+"ko": "어울리는, 짝이 맞는",
+"en": "They wore **matching** jackets to the party."
+},
+{
+"w": "mismatch",
+"pos": "n",
+"ko": "불일치, 부조화",
+"en": "There was a **mismatch** between the two files."
+}
+]
+},
+{
+"w": "mate",
+"pos": "n",
+"meaning_ko": "친구, 동료, 짝",
+"example_en": "He's my **mate** from school, and we still meet up.",
+"example_ko": "학교 때 친구인데 지금도 만나.",
+"nuance_ko": "mate는 영국·호주 영어에서 '친구'를 뜻하는 아주 흔한 구어예요. 호칭으로도 써서 Cheers, mate!처럼 편하게 불러요. roommate(룸메이트), classmate(반 친구), teammate처럼 합성어로도 많이 쓰여요. 동물에게는 '짝'이라는 뜻이고 동사로는 '짝짓기하다'라는 뜻이에요. 미국에서는 mate보다 buddy나 dude를 더 많이 말해서 영국식 느낌이 나요. 체스의 checkmate에서도 mate가 들어가요.",
+"also": []
+},
+{
+"w": "material",
+"pos": "n",
+"meaning_ko": "재료, 자료",
+"example_en": "What **material** is this jacket made of?",
+"example_ko": "이 재킷은 무슨 소재로 만든 거야?",
+"nuance_ko": "material은 물건을 만드는 '재료, 소재'이면서 '자료, 정보'라는 뜻도 있어요. building material(건축 자재), teaching materials(교재)처럼 써요. 셀 수 없는 명사로 쓰면 재료 전반을, 복수 materials는 여러 종류의 재료나 자료를 나타내요. 형용사로 material은 '물질적인, 중요한'이라는 뜻이라 material evidence는 '중요한 증거'예요. fabric은 천 종류를 말하고, material은 더 넓게 쓸 수 있어요.",
+"also": [
+{
+"w": "materials",
+"pos": "n",
+"ko": "자재, 자료",
+"en": "Please bring your own writing **materials**."
+},
+{
+"w": "materialistic",
+"pos": "adj",
+"ko": "물질주의적인",
+"en": "He's too **materialistic** for my taste."
+}
+]
+},
+{
+"w": "mathematics",
+"pos": "n",
+"meaning_ko": "수학",
+"example_en": "She studied **mathematics** at university before becoming a teacher.",
+"example_ko": "그녀는 대학에서 수학을 공부한 뒤에 교사가 됐어.",
+"nuance_ko": "mathematics는 -s로 끝나지만 단수 취급하는 학문 이름이에요. Mathematics is hard라고 말하고 are를 쓰지 않아요. 일상 대화에서는 미국은 math, 영국은 maths로 줄여 말해요. 형용사는 mathematical이고 mathematical formula(수학 공식)처럼 써요. 학문 이름이 -ics로 끝나는 physics, economics, statistics도 같은 원리라서 한국 학습자들이 단수로 받는 걸 놓치기 쉬워요.",
+"also": [
+{
+"w": "mathematical",
+"pos": "adj",
+"ko": "수학의, 수학적인",
+"en": "It's a **mathematical** puzzle with only one solution."
+},
+{
+"w": "mathematician",
+"pos": "n",
+"ko": "수학자",
+"en": "The **mathematician** proved the theorem in 1994."
+}
+]
+},
+{
+"w": "maximum",
+"pos": "n",
+"meaning_ko": "최대, 최고치",
+"example_en": "The elevator has a **maximum** capacity of ten people.",
+"example_ko": "그 엘리베이터는 최대 정원이 열 명이야.",
+"nuance_ko": "maximum은 '가능한 최대치'를 뜻하고 명사와 형용사로 모두 써요. maximum speed(최고 속도), the maximum number of ~(최대 ~개수)처럼 공식 규정이나 표지판에서 자주 보여요. 반대말은 minimum이고, at the maximum은 '최대로 잡아도'라는 말이에요. 구어에서는 max로 줄여 써서 Ten people max(최대 열 명)처럼 말해요. 복수형은 maximums 또는 maxima로 다양해요.",
+"also": [
+{
+"w": "max",
+"pos": "n",
+"ko": "최대(구어)",
+"en": "You can borrow five books, **max**."
+}
+]
+},
+{
+"w": "measure",
+"pos": "v",
+"meaning_ko": "재다, 측정하다",
+"example_en": "Let me **measure** the window before we buy the curtains.",
+"example_ko": "커튼 사기 전에 창문 치수부터 잴게.",
+"nuance_ko": "measure는 길이, 양, 정도를 재는 동사이고, 명사로는 '조치, 척도'라는 뜻이에요. take measures는 '조치를 취하다'로 뉴스에서 흔하고 safety measures는 '안전 조치'예요. 동사로 쓸 때는 measure A in B(A를 B 단위로 재다) 구조가 자주 나와요. weigh는 무게를 재는 데 한정되고 measure는 길이·부피 등을 두루 재요. 자동사로 쓰면 '치수가 ~이다'라서 It measures 3 meters long처럼 말해요.",
+"also": [
+{
+"w": "measurement",
+"pos": "n",
+"ko": "측정, 치수",
+"en": "I need your waist **measurement** for the order."
+},
+{
+"w": "measurable",
+"pos": "adj",
+"ko": "측정 가능한",
+"en": "We need **measurable** goals for the project."
+}
+]
+},
+{
+"w": "meat",
+"pos": "n",
+"meaning_ko": "고기",
+"example_en": "I don't eat much **meat**, mostly vegetables and fish.",
+"example_ko": "나는 고기를 많이 안 먹고 채소랑 생선을 주로 먹어.",
+"nuance_ko": "meat는 먹는 동물의 살코기를 통틀어 말하는 셀 수 없는 명사예요. red meat(소·양고기), white meat(닭고기 등), raw meat(날고기)처럼 구분해서 써요. 생선은 보통 fish로 따로 불러서 meat에 포함하지 않는 경우가 많아요. 비유로 the meat of the story는 '이야기의 핵심 내용'이에요. meat와 meet은 발음이 같아서 받아쓰기에서 헷갈리기 쉬워요.",
+"also": [
+{
+"w": "meaty",
+"pos": "adj",
+"ko": "고기가 많은, 내용이 풍부한",
+"en": "This stew is rich and **meaty**."
+}
+]
+},
+{
+"w": "medical",
+"pos": "adj",
+"meaning_ko": "의료의, 의학의",
+"example_en": "You should get a **medical** check-up once a year.",
+"example_ko": "일 년에 한 번은 건강 검진을 받는 게 좋아.",
+"nuance_ko": "medical은 의학이나 병원, 치료와 관련된 것을 가리키는 형용사예요. medical care(의료), medical history(병력), medical school(의대)처럼 쓰여요. medicine(약, 의학)과 달리 형용사라서 뒤에 명사가 와요. 영국에서는 a medical이 명사로 '건강 검진'을 뜻하기도 해요. 환자나 의료 종사자에게 쓰는 격식 있는 어휘라 일상 대화보다 뉴스, 서류에서 더 자주 보여요.",
+"also": [
+{
+"w": "medically",
+"pos": "adv",
+"ko": "의학적으로",
+"en": "The test is **medically** safe for everyone."
+}
+]
+},
+{
+"w": "medicine",
+"pos": "n",
+"meaning_ko": "약, 의학",
+"example_en": "Take this **medicine** twice a day after meals.",
+"example_ko": "이 약을 하루 두 번 식후에 드세요.",
+"nuance_ko": "medicine은 먹는 약, 또는 학문·직업으로서의 의학을 뜻해요. 미국에서는 약 이름이 정해진 것은 drug, 일반적인 약은 medicine, 처방된 약은 prescription이라고 구분해서 말해요. 약을 먹다는 take medicine이고 eat medicine이라고 하지 않아요. 발음은 /ˈmedsn/ 정도로 두 음절처럼 들려서 철자 그대로 읽지 않는다는 점이 한국 학습자의 함정이에요. a dose of one's own medicine은 '자기가 한 대로 당하다'라는 관용구예요.",
+"also": [
+{
+"w": "medicinal",
+"pos": "adj",
+"ko": "약효가 있는",
+"en": "The plant has **medicinal** properties."
+}
+]
+},
+{
+"w": "melt",
+"pos": "v",
+"meaning_ko": "녹다, 녹이다",
+"example_en": "The ice cream will **melt** if you leave it in the sun.",
+"example_ko": "아이스크림을 햇볕에 두면 녹을 거야.",
+"nuance_ko": "melt는 고체가 열 때문에 액체로 변하는 것을 말하고 자동사·타동사로 모두 써요. 눈이나 얼음은 melt, 가루나 설탕이 물에 녹는 건 dissolve라고 해서 둘이 달라요. 비유로는 마음이 풀릴 때 쓰여서 My heart melted(마음이 녹았다)처럼 말해요. melt away는 '서서히 사라지다', melt in your mouth는 '입에서 사르르 녹다'예요. meltdown은 원자로 노심 용융이면서 구어로는 '멘붕, 폭발적인 감정 붕괴'를 뜻해요.",
+"also": [
+{
+"w": "melting",
+"pos": "adj",
+"ko": "녹는",
+"en": "The **melting** snow flooded the road."
+},
+{
+"w": "meltdown",
+"pos": "n",
+"ko": "붕괴, 멘붕",
+"en": "The toddler had a **meltdown** in the store."
+}
+]
+},
+{
+"w": "memory",
+"pos": "n",
+"meaning_ko": "기억, 추억",
+"example_en": "That song brings back a lot of **memories**.",
+"example_ko": "그 노래를 들으면 옛 기억이 많이 떠올라.",
+"nuance_ko": "memory는 기억하는 능력과 기억 속 내용을 둘 다 가리켜요. 능력일 때는 셀 수 없는 명사(good memory), 구체적인 추억일 때는 셀 수 있는 명사(a childhood memory)예요. from memory는 '외워서'이고 in memory of ~는 '~를 기리며'예요. 컴퓨터에서는 RAM 같은 메모리를 뜻해서 out of memory는 '메모리 부족'이에요. remember는 동사, memory는 명사라서 'I have a good remember'는 틀린 표현이에요.",
+"also": [
+{
+"w": "memorial",
+"pos": "n",
+"ko": "기념비, 추모",
+"en": "They visited the war **memorial** in the park."
+},
+{
+"w": "memorize",
+"pos": "v",
+"ko": "외우다",
+"en": "I have to **memorize** these words by Friday."
+}
+]
+},
+{
+"w": "mental",
+"pos": "adj",
+"meaning_ko": "정신의, 마음의",
+"example_en": "Taking a walk really helps my **mental** health.",
+"example_ko": "산책이 내 정신 건강에 정말 도움이 돼.",
+"nuance_ko": "mental은 마음과 정신, 머릿속에서 일어나는 일에 관련된 형용사예요. mental health(정신 건강), mental state(정신 상태), mental note(마음속 메모)처럼 써요. make a mental note는 '기억해 두다'라는 표현이라 일상에서 자주 나와요. 구어에서 mental은 영국에서 '미친'이라는 속어로도 쓰이지만 놀림 섞인 표현이라 조심해야 해요. 반대로 physical은 신체의 것이라 mental and physical처럼 쌍으로 자주 써요.",
+"also": [
+{
+"w": "mentally",
+"pos": "adv",
+"ko": "정신적으로",
+"en": "She was **mentally** prepared for the exam."
+},
+{
+"w": "mentality",
+"pos": "n",
+"ko": "사고방식",
+"en": "I don't get his all-or-nothing **mentality**."
+}
+]
+},
+{
+"w": "merry",
+"pos": "adj",
+"meaning_ko": "즐거운, 명랑한",
+"example_en": "We wished everyone a **merry** Christmas and a happy new year.",
+"example_ko": "우리는 모두에게 즐거운 크리스마스와 행복한 새해를 빌었어.",
+"nuance_ko": "merry는 유쾌하고 흥겨운 분위기를 나타내는 형용사로 Merry Christmas에서 가장 많이 접해요. happy보다 약간 고풍스럽고 축제 같은 느낌이 있어서 일상 대화에서 단독으로는 잘 안 써요. Merry는 사람 감정이 아니라 분위기나 행사에 쓰는 경우가 많아요. 영국에서는 술에 살짝 취해 기분 좋은 상태를 merry라고도 해요. make merry는 '흥겹게 놀다'라는 옛스러운 표현이고 merry-go-round는 '회전목마'예요.",
+"also": [
+{
+"w": "merrily",
+"pos": "adv",
+"ko": "즐겁게",
+"en": "The children sang **merrily** all the way home."
+}
+]
+},
+{
+"w": "message",
+"pos": "n",
+"meaning_ko": "메시지, 전갈",
+"example_en": "I left you a **message**, but you didn't call back.",
+"example_ko": "메시지 남겼는데 전화 안 하더라.",
+"nuance_ko": "message는 사람에게 전하는 말이나 글로, 문자·음성·메모 모두에 써요. leave a message, send a message, text message처럼 짝꿍이 다양해요. 글이나 영화가 전하려는 '핵심 의도'도 message라서 The movie has a strong message처럼 쓰여요. Can I take a message?는 전화받을 때 '메시지 남기실래요?'라는 정중한 표현이에요. get the message는 '눈치채다'라는 뜻의 관용구예요.",
+"also": [
+{
+"w": "messaging",
+"pos": "n",
+"ko": "메시지 주고받기",
+"en": "Instant **messaging** has replaced most emails for us."
+}
+]
+},
+{
+"w": "metal",
+"pos": "n",
+"meaning_ko": "금속",
+"example_en": "The gate is made of **metal**, so it feels cold.",
+"example_ko": "그 문은 금속으로 만들어서 차갑게 느껴져.",
+"nuance_ko": "metal은 철이나 구리 같은 금속을 가리켜요. 재료를 말할 때는 셀 수 없는 명사로 made of metal이라고 하고, 종류를 말할 때는 셀 수 있어서 precious metals(귀금속)라고 해요. heavy metal은 음악 장르(헤비메탈)라는 뜻도 있고, 중금속(heavy metals)이라는 뜻도 있어요. 형용사 metallic은 '금속 같은'이라서 metallic taste(쇠맛)처럼 써요. mettle(기개, 용기)과 발음이 같아서 헷갈릴 수 있어요.",
+"also": [
+{
+"w": "metallic",
+"pos": "adj",
+"ko": "금속성의",
+"en": "The water had a faint **metallic** taste."
+}
+]
+},
+{
+"w": "metre",
+"pos": "n",
+"meaning_ko": "미터",
+"example_en": "The pool is fifty **metres** long and two **metres** deep.",
+"example_ko": "그 수영장은 길이가 50미터, 깊이는 2미터야.",
+"nuance_ko": "metre는 영국식 철자이고 미국식은 meter예요. 길이 단위 미터를 나타내고, 100 metres(100m 달리기)처럼 경기에서도 써요. meter는 '계량기'를 뜻하기도 해서 미국에서는 parking meter, gas meter처럼 구분이 필요해요. 영국식 metre와 meter(계량기)를 구분해서 쓰는 것이 철자 규칙의 포인트예요. 형용사 metric은 '미터법의'라서 the metric system(미터법)으로 자주 써요.",
+"also": [
+{
+"w": "metric",
+"pos": "adj",
+"ko": "미터법의",
+"en": "Most countries use the **metric** system."
+},
+{
+"w": "meter",
+"pos": "n",
+"ko": "계량기, 미터(미국식)",
+"en": "The taxi **meter** started at zero."
+}
+]
+},
+{
+"w": "microwave",
+"pos": "n",
+"meaning_ko": "전자레인지",
+"example_en": "Just put the soup in the **microwave** for two minutes.",
+"example_ko": "수프를 전자레인지에 2분만 돌리면 돼.",
+"nuance_ko": "microwave는 전자레인지, 또는 그 안에서 쓰는 마이크로파를 뜻해요. 한국어에서는 '전자레인지'라고 하지만 영어에서는 microwave oven을 줄여 microwave라고 해요. 동사로도 써서 microwave the leftovers(남은 음식을 데우다)처럼 말해요. 미국에서는 heat up in the microwave나 nuke it이라는 구어도 흔해요. 한국 학습자는 '렌지'라고 줄이지만 영어로 range는 가스레인지를 가리키니 구분해야 해요.",
+"also": [
+{
+"w": "microwaved",
+"pos": "adj",
+"ko": "전자레인지로 데운",
+"en": "I don't like **microwaved** rice, it gets dry."
+}
+]
+},
+{
+"w": "military",
+"pos": "adj",
+"meaning_ko": "군사의, 군의",
+"example_en": "He served in the **military** for six years after high school.",
+"example_ko": "그는 고등학교를 졸업하고 6년간 군 복무를 했어.",
+"nuance_ko": "military는 군대나 군사 활동에 관련된 말로 형용사와 명사 모두 쓰여요. the military라고 하면 '군대, 군'을 통틀어 가리키는 명사예요. military service(병역), military base(군사 기지)처럼 자주 쓰고, army는 육군, navy는 해군이라서 military가 더 넓은 개념이에요. 뉴스와 정치 기사에서 매우 자주 나와요. 반대로 civilian은 '민간인의'라는 뜻이라 함께 대비해서 기억하면 좋아요.",
+"also": [
+{
+"w": "militarily",
+"pos": "adv",
+"ko": "군사적으로",
+"en": "The country is **militarily** much stronger now."
+}
+]
+},
+{
+"w": "mill",
+"pos": "n",
+"meaning_ko": "제분소, 공장",
+"example_en": "The old **mill** by the river is now a restaurant.",
+"example_ko": "강가에 있던 오래된 방앗간이 지금은 식당이 됐어.",
+"nuance_ko": "mill은 곡식을 가루로 빻는 방앗간이나 물건을 가공하는 공장(steel mill, paper mill)을 뜻해요. 후추 가는 도구도 pepper mill이라고 해요. 동사로 mill은 '갈다'이지만 mill around는 '목적 없이 어슬렁거리다'라는 구어 표현이에요. run-of-the-mill은 '평범한, 흔한'이라는 뜻의 관용구예요. factory가 일반적인 공장이라면 mill은 곡물·섬유·종이 같은 특정 분야에 쓰는 말이에요.",
+"also": [
+{
+"w": "miller",
+"pos": "n",
+"ko": "방앗간 주인",
+"en": "The **miller** ground wheat into flour every morning."
+}
+]
+},
+{
+"w": "minister",
+"pos": "n",
+"meaning_ko": "장관, 목사",
+"example_en": "The **minister** announced a new plan for public transport.",
+"example_ko": "장관은 대중교통에 대한 새 계획을 발표했어.",
+"nuance_ko": "minister는 영국과 많은 나라에서 정부 부처의 '장관'을 뜻하고, 개신교의 '목사'를 뜻하기도 해요. 미국에서는 장관을 보통 secretary라고 부르고 minister는 목사 쪽으로 많이 써요. Prime Minister는 '총리'이고, Minister of Finance처럼 부처명 앞에 붙여요. 뉴스 영어에서 자주 보이는 정치 용어예요. 동사 minister to ~는 '돌보다, 시중들다'라는 격식 있는 표현이에요.",
+"also": [
+{
+"w": "ministerial",
+"pos": "adj",
+"ko": "장관의, 부처의",
+"en": "A **ministerial** meeting will be held on Friday."
+}
+]
+},
+{
+"w": "minor",
+"pos": "adj",
+"meaning_ko": "사소한, 작은",
+"example_en": "It was just a **minor** mistake, so don't worry about it.",
+"example_ko": "사소한 실수일 뿐이니까 걱정하지 마.",
+"nuance_ko": "minor는 중요도나 크기가 작은 것을 나타내는 형용사예요. a minor injury(경상), minor changes(작은 변경)처럼 써요. 반대는 major이고, 음악에서는 '단조'를 뜻해서 a minor key로 쓰기도 해요. 명사로는 '미성년자'라는 뜻도 있고, 대학에서는 부전공(minor)이라는 뜻이에요. 한국 학습자가 헷갈리는 포인트는 minor가 '작은 문제'를 말할 때 말투가 가볍지만, 미성년자를 뜻할 때는 법률 용어라는 점이에요.",
+"also": [
+{
+"w": "minority",
+"pos": "n",
+"ko": "소수, 소수 집단",
+"en": "Only a small **minority** voted against it."
+}
+]
+},
+{
+"w": "minus",
+"pos": "prep",
+"meaning_ko": "~을 뺀, 영하의",
+"example_en": "Ten **minus** three is seven.",
+"example_ko": "10 빼기 3은 7이야.",
+"nuance_ko": "minus는 뺄셈 기호나 '영하'를 말할 때 써요. 날씨에서 It's minus five outside는 '밖은 영하 5도야'예요. 구어에서는 without 대신 쓰기도 해서 He came minus his wife는 '아내 없이 왔다'예요. 명사로 '단점, 불리한 점'을 뜻해서 pluses and minuses(장단점)처럼 써요. 반대말은 plus예요. 미국에서는 영하를 below zero라고도 하고 영국은 minus를 자주 말해요.",
+"also": []
+},
+{
+"w": "mirror",
+"pos": "n",
+"meaning_ko": "거울",
+"example_en": "She checked her hair in the **mirror** before leaving.",
+"example_ko": "그녀는 나가기 전에 거울로 머리를 확인했어.",
+"nuance_ko": "mirror는 얼굴이나 모습을 비추는 거울이에요. 차의 거울은 rearview mirror나 side mirror처럼 부르고, 동사로 mirror는 '그대로 반영하다'라는 뜻이에요. The report mirrors what we saw처럼 비유로도 써요. look in the mirror는 '거울을 보다'이고 look at the mirror가 아니라 in을 쓰는 게 자연스러워요. 신문 이름(The Daily Mirror)에도 나와서 영국 신문 이야기에서 만날 수 있어요.",
+"also": [
+{
+"w": "mirrored",
+"pos": "adj",
+"ko": "거울 같은, 반사하는",
+"en": "The building has a **mirrored** glass front."
+}
+]
+},
+{
+"w": "mission",
+"pos": "n",
+"meaning_ko": "임무, 사명",
+"example_en": "The team's **mission** is to deliver food to remote villages.",
+"example_ko": "그 팀의 임무는 외진 마을에 식량을 전달하는 거야.",
+"nuance_ko": "mission은 맡겨진 중요한 임무나 목적을 말해요. 우주 탐사(space mission), 군사 작전, 회사의 mission statement(사명 선언문)처럼 쓰여요. 선교 활동이라는 뜻도 있어서 missionary가 '선교사'예요. on a mission은 '어떤 목표를 갖고 열심히 움직이는'이라는 구어 표현이에요. task보다 무게가 크고 사명감이나 목적의식이 담겨 있어요. Mission accomplished는 임무 완수를 알릴 때 쓰는 유명한 문구예요.",
+"also": [
+{
+"w": "missionary",
+"pos": "n",
+"ko": "선교사",
+"en": "Her uncle worked as a **missionary** in Africa."
+}
+]
+},
+{
+"w": "mix",
+"pos": "v",
+"meaning_ko": "섞다, 어울리다",
+"example_en": "**Mix** the flour and eggs until the batter is smooth.",
+"example_ko": "반죽이 매끄러워질 때까지 밀가루랑 계란을 섞어.",
+"nuance_ko": "mix는 서로 다른 것을 섞는 동사이고 mix A with B 또는 mix A and B 구조로 써요. 사람들이 어울리는 것도 mix라서 She mixes well with strangers처럼 말할 수 있어요. 명사로는 '혼합물'이어서 a trail mix, a cake mix처럼 쓰여요. mix up은 '혼동하다'라는 뜻이라 I mixed up the dates(날짜를 헷갈렸어)처럼 구어에서 자주 말해요. blend는 부드럽게 섞여 하나가 되는 느낌, stir는 휘젓는 동작이라는 차이가 있어요.",
+"also": [
+{
+"w": "mixed",
+"pos": "adj",
+"ko": "뒤섞인, 복합적인",
+"en": "I have **mixed** feelings about moving abroad."
+},
+{
+"w": "mixer",
+"pos": "n",
+"ko": "믹서, 섞는 도구",
+"en": "Use a **mixer** to whip the cream."
+}
+]
+},
+{
+"w": "model",
+"pos": "n",
+"meaning_ko": "모형, 모델, 모범",
+"example_en": "This **model** of laptop is lighter than the older one.",
+"example_ko": "이 모델 노트북은 예전 것보다 가벼워.",
+"nuance_ko": "model은 뜻이 다양해요. 제품의 '기종, 모델', 패션모델, 축소 모형, 본보기, 이론적 틀이 모두 model이에요. a role model은 '롤모델'이고 business model은 '사업 모델'이에요. 동사로는 '본떠서 만들다, 모델로 서다'라서 model oneself on ~(~를 본받다)로 써요. 한국어의 '모델'과 비슷하게 쓰지만 영어에서는 제품 종류를 말할 때 type보다 model이 더 자연스러워요. 철자는 영국식 modelling, 미국식 modeling이에요.",
+"also": [
+{
+"w": "modeling",
+"pos": "n",
+"ko": "모델링, 모델 일",
+"en": "She started **modeling** at the age of sixteen."
+}
+]
+},
+{
+"w": "modern",
+"pos": "adj",
+"meaning_ko": "현대의, 최신의",
+"example_en": "The hotel has a very **modern** design with lots of glass.",
+"example_ko": "그 호텔은 유리를 많이 쓴 아주 현대적인 디자인이야.",
+"nuance_ko": "modern은 현재와 가까운 시대 또는 최신 방식을 가리키는 형용사예요. modern art(현대 미술), modern life(현대 생활)처럼 써요. contemporary는 '지금 같은 시대의', modern은 '고전이나 과거와 대비되는'이라는 뉘앙스 차이가 있어요. modern English는 중세 영어 이후의 영어를 뜻하기도 해요. 건축, 디자인, 기술 이야기에서 자주 나오고 modern times는 근대나 현대를 가리켜요.",
+"also": [
+{
+"w": "modernization",
+"pos": "n",
+"ko": "현대화",
+"en": "The **modernization** of the port took ten years."
+},
+{
+"w": "modernity",
+"pos": "n",
+"ko": "현대성",
+"en": "The film explores the problems of **modernity**."
+}
+]
+},
+{
+"w": "monkey",
+"pos": "n",
+"meaning_ko": "원숭이",
+"example_en": "The **monkey** grabbed a banana from the tourist's bag.",
+"example_ko": "원숭이가 관광객 가방에서 바나나를 낚아챘어.",
+"nuance_ko": "monkey는 꼬리가 있는 원숭이를 말하고, 꼬리가 없는 큰 원숭이류(ape, gorilla)와 구분해요. 장난기 많은 아이를 애정 있게 little monkey라고 부르기도 해요. monkey business는 '수상한 짓, 장난'이라서 No monkey business!는 '장난치지 마!'예요. monkey around는 '빈둥거리며 장난치다'라는 구어예요. 동물 이야기와 관용구에서 자주 쓰이고 사람을 monkey라 부르는 것은 맥락에 따라 불쾌할 수도 있어요.",
+"also": []
+},
+{
+"w": "mood",
+"pos": "n",
+"meaning_ko": "기분, 분위기",
+"example_en": "She's in a good **mood** today because it's Friday.",
+"example_ko": "오늘은 금요일이라서 기분이 좋아 보여.",
+"nuance_ko": "mood는 일시적인 기분이나 분위기를 말해요. in a good mood(기분이 좋은), in a bad mood(기분이 나쁜), mood swings(기분 변화) 같은 짝꿍이 자주 나와요. in the mood for ~는 '~하고 싶은 기분'이라서 I'm not in the mood for pizza처럼 구어에서 흔해요. feeling이 감정 자체를 말한다면 mood는 비교적 오래 가는 마음 상태를 가리켜요. 영화나 장소의 분위기도 mood로 표현할 수 있어요.",
+"also": [
+{
+"w": "moody",
+"pos": "adj",
+"ko": "변덕스러운, 침울한",
+"en": "He gets **moody** when he's tired."
+}
+]
+},
+{
+"w": "moon",
+"pos": "n",
+"meaning_ko": "달",
+"example_en": "The **moon** was so bright that we didn't need a flashlight.",
+"example_ko": "달이 너무 밝아서 손전등이 필요 없었어.",
+"nuance_ko": "moon은 지구의 위성인 달이고, 특정한 달을 가리킬 때는 the moon이라고 관사를 붙여요. full moon(보름달), new moon(그믐달), half moon(반달) 같은 표현이 있어요. 행성의 위성도 moon이라서 Jupiter has many moons라고 해요. over the moon은 '아주 기뻐서 들뜬'이라는 영국식 관용구예요. once in a blue moon은 '아주 드물게'라는 표현이라 구어에서 자주 쓰여요.",
+"also": []
+},
+{
+"w": "motor",
+"pos": "n",
+"meaning_ko": "모터, 전동기",
+"example_en": "The fan stopped because the **motor** burned out.",
+"example_ko": "모터가 타 버려서 선풍기가 멈췄어.",
+"nuance_ko": "motor는 전기나 연료로 기계를 움직이게 하는 모터(전동기)예요. engine은 연료를 태워 힘을 만드는 엔진, motor는 전기 모터를 가리키는 경향이 있어요. 영국에서는 motor가 자동차와 관련된 말로도 쓰여서 motor insurance는 자동차 보험이에요. motorcycle(오토바이), motorway(영국의 고속도로), motorboat 같은 합성어에 자주 나와요. 형용사 motor는 '운동 신경의'라는 뜻이라서 motor skills는 신체 운동 능력이에요.",
+"also": [
+{
+"w": "motorist",
+"pos": "n",
+"ko": "운전자",
+"en": "**Motorists** are advised to avoid the bridge."
+}
+]
+},
+{
+"w": "mount",
+"pos": "v",
+"meaning_ko": "오르다, 설치하다, 증가하다",
+"example_en": "Pressure is **mounting** on the company to explain the delay.",
+"example_ko": "회사에 지연 이유를 설명하라는 압박이 커지고 있어.",
+"nuance_ko": "mount는 뜻이 세 가지로 갈려요. 말이나 자전거에 올라타거나 계단을 오르는 동작, 벽 등에 고정하는 설치, 그리고 점점 커지는 증가예요. 뉴스에서 mounting pressure, mounting costs(점점 늘어나는 압박, 비용)가 아주 자주 나와요. Mount Everest처럼 산 이름 앞에서는 Mt.로 줄여 쓰는 명사 mount예요. mount an attack은 '공격을 개시하다'로 격식 있는 말이에요.",
+"also": [
+{
+"w": "mounting",
+"pos": "adj",
+"ko": "점점 커지는",
+"en": "There is **mounting** evidence against him."
+},
+{
+"w": "mounted",
+"pos": "adj",
+"ko": "설치된, 말을 탄",
+"en": "A **mounted** police officer patrolled the park."
+}
+]
+},
+{
+"w": "mouse",
+"pos": "n",
+"meaning_ko": "쥐, 마우스",
+"example_en": "There's a **mouse** in the kitchen, and the cat is chasing it.",
+"example_ko": "부엌에 쥐가 있는데 고양이가 쫓고 있어.",
+"nuance_ko": "mouse는 작은 쥐이고 컴퓨터의 마우스도 같은 말이에요. 복수형은 mice라서 mouses가 아니에요. rat은 mouse보다 훨씬 큰 쥐를 가리켜서 두 단어를 구분해야 해요. a quiet as a mouse는 '아주 조용한'이라는 관용 표현이에요. 컴퓨터 마우스의 복수는 mice 또는 mouses 둘 다 쓰이지만 보통 mice가 더 자연스러워요. 겁 많은 사람을 놀릴 때 mouse라고도 불러요.",
+"also": [
+{
+"w": "mice",
+"pos": "n",
+"ko": "쥐들(복수)",
+"en": "We set a trap because of the **mice** in the attic."
+}
+]
+},
+{
+"w": "mud",
+"pos": "n",
+"meaning_ko": "진흙",
+"example_en": "His boots were covered in **mud** after the hike.",
+"example_ko": "하이킹을 하고 나니 그의 부츠가 진흙투성이였어.",
+"nuance_ko": "mud는 물에 젖은 흙, 진흙이에요. 셀 수 없는 명사라서 a mud가 아니라 some mud라고 말해요. dirt는 마른 흙먼지, mud는 젖은 흙이라는 차이가 있어요. 비유로 drag someone's name through the mud는 '이름을 더럽히다'라는 관용구예요. mud pie, mud bath(진흙 목욕)처럼 합성어에도 나오고 as clear as mud는 '전혀 이해가 안 되는'이라는 반어적인 표현이에요.",
+"also": [
+{
+"w": "muddy",
+"pos": "adj",
+"ko": "진흙투성이의",
+"en": "Take off your **muddy** shoes at the door."
+}
+]
+},
+{
+"w": "murder",
+"pos": "n",
+"meaning_ko": "살인, 살해",
+"example_en": "The police are investigating a **murder** in the old part of town.",
+"example_ko": "경찰이 구시가지에서 일어난 살인 사건을 수사하고 있어.",
+"nuance_ko": "murder는 계획적인 불법 살인을 뜻하는 단어예요. kill은 어떤 이유로든 죽이는 일반 동사이고, murder는 법적으로 범죄인 경우에만 써요. 사고로 죽인 경우는 manslaughter(과실치사)로 구분해요. get away with murder는 '나쁜 짓을 하고도 처벌받지 않다'라는 관용구로 구어에서 가볍게 써요. murder mystery(추리극), murder case처럼 뉴스와 소설에서 자주 만나는 단어예요.",
+"also": [
+{
+"w": "murderer",
+"pos": "n",
+"ko": "살인자",
+"en": "The **murderer** was caught a week later."
+}
+]
+},
+{
+"w": "muscle",
+"pos": "n",
+"meaning_ko": "근육",
+"example_en": "I pulled a **muscle** in my back while lifting the box.",
+"example_ko": "상자를 들다가 등 근육이 뭉쳤어.",
+"nuance_ko": "muscle은 몸의 근육이에요. 발음에서 c가 묵음이라 /ˈmʌsl/로 읽는다는 점이 한국 학습자의 함정이에요. pull a muscle은 '근육을 다치다', build muscle은 '근육을 키우다'예요. 비유로는 힘이나 영향력을 가리켜서 financial muscle(재력), muscle in은 '억지로 끼어들다'예요. strength가 힘의 크기라면 muscle은 그 힘을 내는 신체 조직이라는 차이가 있어요.",
+"also": []
+},
+{
+"w": "mystery",
+"pos": "n",
+"meaning_ko": "수수께끼, 미스터리",
+"example_en": "Why she left so suddenly is still a **mystery** to us.",
+"example_ko": "그녀가 왜 그렇게 갑자기 떠났는지는 우리에게 아직도 수수께끼야.",
+"nuance_ko": "mystery는 설명되지 않는 일이나 알 수 없는 것을 뜻해요. It's a mystery to me는 '나는 도저히 모르겠어'라는 구어 표현이에요. 소설이나 드라마의 추리·미스터리 장르도 mystery이고 murder mystery가 대표적이에요. puzzle은 풀 수 있는 문제 느낌, mystery는 풀리지 않거나 신비로운 느낌이 강해요. 형용사 mysterious는 '신비로운, 수상한'이라서 mysterious disappearance처럼 써요.",
+"also": [
+{
+"w": "mysterious",
+"pos": "adj",
+"ko": "신비로운, 수상한",
+"en": "A **mysterious** package arrived at my door."
+}
+]
+},
+{
+"w": "nail",
+"pos": "n",
+"meaning_ko": "못, 손톱",
+"example_en": "I hit a **nail** into the wall to hang the picture.",
+"example_ko": "그림을 걸려고 벽에 못을 박았어.",
+"nuance_ko": "nail은 뜻이 두 가지로, 건축용 '못'과 손발의 '손톱·발톱'이에요. fingernail과 toenail로 구분하기도 해요. 동사 nail은 '못을 박다'이고, 구어에서는 nail it이 '해냈다, 완벽하게 성공했다'라는 뜻이에요. hit the nail on the head는 '정곡을 찌르다'라는 관용구예요. bite one's nails는 '손톱을 물어뜯다'로 초조함을 나타내요. 못과 손톱 모두 철자·발음이 같아 문맥으로 판단해요.",
+"also": [
+{
+"w": "nailed",
+"pos": "v",
+"ko": "성공시켰다, 못 박았다",
+"en": "She **nailed** the interview and got the job."
+}
+]
+},
+{
+"w": "nanny",
+"pos": "n",
+"meaning_ko": "보모, 유모",
+"example_en": "They hired a **nanny** to look after the kids while they work.",
+"example_ko": "그들은 일하는 동안 아이들을 돌봐 줄 보모를 고용했어.",
+"nuance_ko": "nanny는 집에서 아이를 돌보는 직업적인 보모를 가리켜요. babysitter는 부모가 잠깐 외출할 때 아이를 봐 주는 사람이고, nanny는 정기적으로 고용된 사람이라는 차이가 있어요. 영국에서는 nan, nana가 할머니를 부르는 애칭이기도 해요. 같은 nanny라도 nanny state(과잉 보호 국가)는 정부가 지나치게 개입한다고 비판할 때 쓰는 표현이에요. 한국어 '유모'보다는 '돌봄 선생님' 정도의 현대적인 느낌이에요.",
+"also": [
+{
+"w": "nan",
+"pos": "n",
+"ko": "할머니(영국 구어)",
+"en": "I'm going to visit my **nan** this weekend."
+}
+]
+},
+{
+"w": "narrow",
+"pos": "adj",
+"meaning_ko": "좁은, 아슬아슬한",
+"example_en": "The street was so **narrow** that two cars couldn't pass.",
+"example_ko": "길이 너무 좁아서 차 두 대가 지나갈 수 없었어.",
+"nuance_ko": "narrow는 폭이 좁다는 형용사이고 반대는 wide예요. narrow escape(간신히 모면함), narrow victory(신승)처럼 '아슬아슬한'이라는 뜻으로도 써요. 동사 narrow는 '좁히다, 좁아지다'라서 narrow down the options(선택지를 좁히다)가 구어에서 아주 흔해요. narrow-minded는 '편협한'이라는 부정적인 말이에요. 길이 좁다고 할 때 small을 쓰면 어색하고 narrow를 써야 해요.",
+"also": [
+{
+"w": "narrowly",
+"pos": "adv",
+"ko": "가까스로",
+"en": "The team **narrowly** avoided relegation."
+}
+]
+},
+{
+"w": "nasty",
+"pos": "adj",
+"meaning_ko": "끔찍한, 못된",
+"example_en": "That was a **nasty** surprise when I opened the bill.",
+"example_ko": "청구서를 열어 봤을 때 정말 끔찍한 충격이었어.",
+"nuance_ko": "nasty는 불쾌하고 기분 나쁜 것을 두루 가리키는 형용사예요. a nasty smell(고약한 냄새), a nasty cold(심한 감기), nasty weather(험한 날씨), 못된 사람의 nasty comment처럼 폭넓게 써요. 사람에게 쓰면 의도적으로 못되게 구는 느낌이라 mean보다 센 어감이에요. a nasty piece of work는 '질 나쁜 인간'이라는 구어 표현이에요. 영국식 구어에서는 가볍게 쓰는 일도 많아서 문맥을 보고 강도를 판단해요.",
+"also": [
+{
+"w": "nastier",
+"pos": "adj",
+"ko": "더 못된, 더 심한",
+"en": "The weather got **nastier** as the night went on."
+}
+]
+},
+{
+"w": "native",
+"pos": "adj",
+"meaning_ko": "태어난 곳의, 원주민의",
+"example_en": "English is not my **native** language, but I use it every day.",
+"example_ko": "영어는 내 모국어가 아니지만 매일 써.",
+"nuance_ko": "native는 태어나거나 자란 곳에 속한다는 형용사예요. native speaker(원어민), native language(모국어), native plant(자생 식물)처럼 써요. 명사로 a native of Seoul은 '서울 출신'이라는 뜻이에요. 다만 과거 식민주의 맥락에서 원주민을 the natives라고 부르는 건 무례하게 들릴 수 있어서 Native American처럼 쓰는 게 적절해요. IT에서는 '고유의, 기본 내장된'이라는 뜻으로 native app을 말하기도 해요.",
+"also": [
+{
+"w": "native",
+"pos": "n",
+"ko": "토박이, 원주민",
+"en": "She is a **native** of Busan."
+}
+]
+},
+{
+"w": "navy",
+"pos": "n",
+"meaning_ko": "해군, 감색",
+"example_en": "He joined the **navy** right after finishing school.",
+"example_ko": "그는 학교를 마치자마자 해군에 입대했어.",
+"nuance_ko": "navy는 국가의 해군이고, 같은 단어가 짙은 파란색 감색도 가리켜요. navy blue는 짙은 감청색이에요. 해군의 제복 색깔에서 색 이름이 나왔어요. 해군 병사는 sailor, 해군에 관련된 형용사는 naval이라서 a naval base(해군 기지)처럼 써요. the Navy라고 쓰면 특정 국가의 해군을 말하고, 한국에서는 해군을 the Navy라고 번역해요.",
+"also": [
+{
+"w": "naval",
+"pos": "adj",
+"ko": "해군의",
+"en": "The ships returned to the **naval** base."
+}
+]
+},
+{
+"w": "neither",
+"pos": "det",
+"meaning_ko": "어느 쪽도 ~않다",
+"example_en": "**Neither** of us had ever been to Japan before.",
+"example_ko": "우리 둘 다 일본에 가 본 적이 없었어.",
+"nuance_ko": "neither는 두 가지 중 어느 쪽도 아니라는 부정 표현이에요. neither of + 복수 명사 뒤에 단수 동사를 쓰는 게 격식 있는 문법이지만, 구어에서는 복수 동사도 흔해요. neither A nor B는 'A도 B도 아니다'라서 He speaks neither French nor German처럼 써요. 이미 부정문이 있으면 neither를 또 쓰지 않아서 I don't like neither는 틀려요. 맞장구로 'Neither do I'는 '나도 안 그래'라는 뜻으로 구어에서 자주 말해요. either는 '둘 중 하나'로 neither와 짝을 이뤄요.",
+"also": []
+},
+{
+"w": "nerve",
+"pos": "n",
+"meaning_ko": "신경, 용기, 뻔뻔함",
+"example_en": "It took a lot of **nerve** to speak up in that meeting.",
+"example_ko": "그 회의에서 목소리를 내는 건 용기가 많이 필요했어.",
+"nuance_ko": "nerve는 몸의 신경이면서 '용기, 대담함'이라는 뜻이에요. lose one's nerve는 '겁먹다', have a lot of nerve는 '뻔뻔하다'라는 뜻으로 맥락에 따라 칭찬도 비난도 돼요. What a nerve!나 You've got some nerve!는 '뻔뻔하네!'라는 구어 표현이에요. 복수 nerves는 '긴장, 불안'이라서 I have nerves before a speech는 '발표 전에 긴장돼'예요. get on one's nerves는 '신경을 건드리다, 짜증나게 하다'예요.",
+"also": [
+{
+"w": "nerves",
+"pos": "n",
+"ko": "긴장, 신경",
+"en": "I always get **nerves** before a big presentation."
+}
+]
+},
+{
+"w": "nervous",
+"pos": "adj",
+"meaning_ko": "긴장한, 불안한",
+"example_en": "I always feel **nervous** before a job interview.",
+"example_ko": "난 면접 전에는 항상 긴장돼.",
+"nuance_ko": "nervous는 걱정되거나 긴장돼서 마음이 편치 않은 상태를 말해요. 시험이나 발표 전의 떨림 같은 일시적 긴장에 잘 맞아요. anxious는 걱정이 길게 이어지는 불안, nervous는 눈앞의 일에 대한 긴장이라는 차이가 있어요. be nervous about ~은 '~이 걱정되다'이고 nervous wreck는 '극도로 긴장한 사람'이라는 구어예요. nervous system은 '신경계'라는 의학 용어이기도 해요.",
+"also": [
+{
+"w": "nervously",
+"pos": "adv",
+"ko": "초조하게",
+"en": "He tapped his foot **nervously** while waiting."
+}
+]
+},
+{
+"w": "nest",
+"pos": "n",
+"meaning_ko": "둥지, 보금자리",
+"example_en": "A bird built a **nest** in the tree outside my window.",
+"example_ko": "새가 내 창문 밖 나무에 둥지를 틀었어.",
+"nuance_ko": "nest는 새나 곤충이 알을 낳고 새끼를 키우는 둥지예요. 비유로 집을 가리키는 보금자리를 뜻해서 love nest는 연인의 보금자리예요. empty nest는 '자식들이 다 독립해서 비어 버린 집'을 뜻하는 표현으로 empty nest syndrome이 있어요. 동사 nest는 '둥지를 틀다'이고 프로그래밍에서는 '중첩시키다'라는 뜻이라서 nested loops(중첩 루프)처럼 써요. feather one's nest는 '재산을 불리다'라는 관용구예요.",
+"also": [
+{
+"w": "nested",
+"pos": "adj",
+"ko": "중첩된, 포개진",
+"en": "The code contains several **nested** loops."
+}
+]
+},
+{
+"w": "newspaper",
+"pos": "n",
+"meaning_ko": "신문",
+"example_en": "My dad reads the **newspaper** with his coffee every morning.",
+"example_ko": "우리 아빠는 매일 아침 커피랑 신문을 읽으셔.",
+"nuance_ko": "newspaper는 매일 또는 매주 소식을 전하는 신문이에요. 종이 한 부를 말할 때도, 신문사를 말할 때도 써요. read the newspaper, a daily newspaper, local newspaper처럼 짝꿍이 자주 나와요. 줄여서 paper라고도 하는데 구어에서는 훨씬 흔해요. 단, paper는 '종이, 논문'이라는 뜻도 있으니 문맥으로 구분해요. 신문 기사는 article, 기사를 쓰는 사람은 journalist 또는 reporter라고 해요.",
+"also": []
+},
+{
+"w": "nor",
+"pos": "conj",
+"meaning_ko": "~도 아니다",
+"example_en": "He didn't call, **nor** did he send a message.",
+"example_ko": "그는 전화도 안 했고 문자도 보내지 않았어.",
+"nuance_ko": "nor는 앞의 부정문에 이어서 '~도 또한 아니다'를 덧붙이는 접속사예요. 가장 흔한 형태는 neither A nor B예요. nor 뒤에는 보통 도치가 일어나서 nor did he send처럼 조동사가 주어 앞으로 와요. 한국 학습자가 or 대신 nor를 쓰는 실수를 자주 하는데, nor는 앞이 부정일 때만 써요. 구어보다는 글이나 격식 있는 말투에 어울려서, 일상 대화에서는 either나 'and I didn't either'로 바꿔 말하는 일이 많아요.",
+"also": []
+},
+{
+"w": "northern",
+"pos": "adj",
+"meaning_ko": "북쪽의, 북부의",
+"example_en": "She grew up in a small town in **northern** Italy.",
+"example_ko": "그녀는 이탈리아 북부의 작은 마을에서 자랐어.",
+"nuance_ko": "northern은 북쪽에 있거나 북쪽으로부터 오는 것을 가리키는 형용사예요. northern Italy(이탈리아 북부)처럼 지역의 위치를 말하거나 Northern Lights(오로라)처럼 고유한 이름에 쓰여요. north는 방향·명사, northern은 그 방향에 있는 것을 설명하는 형용사라는 차이가 있어요. 미국에서는 Northern 하면 남북전쟁 당시의 북부를 떠올리기도 해요. 반대는 southern이고 the Northern Hemisphere는 '북반구'예요.",
+"also": [
+{
+"w": "northerner",
+"pos": "n",
+"ko": "북부 사람",
+"en": "As a **northerner**, he found the heat unbearable."
+}
+]
+},
+{
+"w": "november",
+"pos": "n",
+"meaning_ko": "11월",
+"example_en": "We usually get the first snow in late **November**.",
+"example_ko": "보통 11월 말에 첫눈이 와.",
+"nuance_ko": "November는 11월이고 항상 대문자로 시작해요. 달 이름 앞에는 in을, 날짜가 붙으면 on을 써서 in November, on November 5th처럼 말해요. 미국에서는 11월 넷째 목요일이 추수감사절(Thanksgiving)이라서 November 하면 그 이미지가 강해요. 줄임말은 Nov.이고, 달력이나 서류에서 자주 보여요. 한국 학습자는 월 이름 철자 실수가 잦아서 November를 Novembre로 쓰는 경우가 있으니 주의해요.",
+"also": []
+},
+{
+"w": "nut",
+"pos": "n",
+"meaning_ko": "견과, 너트",
+"example_en": "I'm allergic to **nuts**, so I always check the label.",
+"example_ko": "나는 견과류 알레르기가 있어서 항상 라벨을 확인해.",
+"nuance_ko": "nut는 딱딱한 껍질에 싸인 견과류예요. 땅콩, 호두, 아몬드 등을 통틀어 nuts라고 해요. 볼트에 끼우는 '너트'도 nut이고, 구어에서는 '괴짜, 광적인 팬'을 뜻하기도 해서 a fitness nut처럼 말해요. go nuts는 '미치다, 흥분하다', be nuts about ~는 '~에 푹 빠지다'라는 구어 표현이에요. 사람에게 You're nuts!라고 하면 친한 사이에서 쓰는 가벼운 놀림이에요.",
+"also": []
+},
+{
+"w": "oak",
+"pos": "n",
+"meaning_ko": "참나무, 오크",
+"example_en": "We sat under a huge **oak** and ate our lunch.",
+"example_ko": "우리는 커다란 참나무 아래에 앉아 점심을 먹었어.",
+"nuance_ko": "oak는 단단하고 오래 사는 참나무예요. 목재로 쓰면 가구나 마루, 와인 통(oak barrel)에 쓰여요. 와인 설명에서 oaky는 '오크통 향이 나는'이라는 뜻이에요. 영국 문화에서 oak는 힘과 오래감의 상징이라서 Royal Oak 같은 이름이 많아요. 도토리는 acorn이라고 부르며 oak에서 자란다는 속담 'Mighty oaks from little acorns grow'가 유명해요.",
+"also": []
+},
+{
+"w": "object",
+"pos": "n",
+"meaning_ko": "물건, 대상, 목적",
+"example_en": "There was a strange **object** floating in the water.",
+"example_ko": "물에 이상한 물체가 떠 있었어.",
+"nuance_ko": "object는 명사로 /ˈɑːbdʒekt/, 동사로 /əbˈdʒekt/라서 강세 위치가 달라요. 명사는 '물건, 대상, 목적'이라서 object of desire(욕망의 대상)처럼 쓰고, 동사 object는 '반대하다'라서 object to ~ 구조로 말해요. 이때 to 뒤에는 명사나 -ing가 와서 I object to being treated like that처럼 말해요. 문법에서 object는 '목적어'를 뜻하고 프로그래밍에서는 '객체'를 뜻해요. thing보다 형식적이고 구체적인 대상 느낌이 강해요.",
+"also": []
+}
+]

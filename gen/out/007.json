@@ -1,0 +1,1778 @@
+[
+ {
+  "w": "road",
+  "pos": "n",
+  "meaning_ko": "길, 도로",
+  "example_en": "The **road** to the beach was closed because of the heavy snow.",
+  "example_ko": "폭설 때문에 해변으로 가는 길이 막혔어.",
+  "nuance_ko": "road는 차가 다니는 일반적인 '도로'를 말해요. street는 건물이 양옆에 늘어선 도시의 거리, road는 도시 간을 잇는 길이나 포장된 차도에 더 가까워요. 'on the road'는 '여행 중, 이동 중'이라는 뜻이고 'hit the road'는 '출발하다'라는 구어 표현이에요. road trip(자동차 여행), road rage(운전 중 분노), roadblock(도로 차단)처럼 합성어도 많아요. 주소에는 Rd.로 줄여 쓰고 비유적으로 'the road to success'(성공으로 가는 길)처럼도 써요.",
+  "also": []
+ },
+ {
+  "w": "rock",
+  "pos": "n",
+  "meaning_ko": "바위, 돌, 록 음악",
+  "example_en": "We sat on a big **rock** by the stream and ate our sandwiches.",
+  "example_ko": "우리는 개울가 큰 바위에 앉아서 샌드위치를 먹었어.",
+  "nuance_ko": "rock은 크고 단단한 바위나 암석이고, 작은 돌멩이는 stone이나 pebble이에요. 미국 영어에서는 rock을 손에 쥘 만한 돌에도 쓰기도 해요. 음악 장르인 rock music도 같은 단어예요. 동사 rock은 '흔들다, 흔들리다'(rock the boat, 분란을 일으키다)이고 'You rock!'은 '너 최고야!'라는 구어 칭찬이에요. 'between a rock and a hard place'는 진퇴양난이라는 관용구이고 'on the rocks'는 얼음을 넣은 술이나 위기에 빠진 관계를 나타내요.",
+  "also": [
+   {
+    "w": "rocky",
+    "pos": "adj",
+    "ko": "바위투성이의, 불안정한",
+    "en": "The path up the mountain was steep and **rocky**."
+   }
+  ]
+ },
+ {
+  "w": "roll",
+  "pos": "v",
+  "meaning_ko": "구르다, 굴리다, 말다",
+  "example_en": "The ball started to **roll** down the hill and we ran after it.",
+  "example_ko": "공이 언덕 아래로 굴러가기 시작해서 우리가 뒤쫓아 뛰었어.",
+  "nuance_ko": "roll은 둥글게 굴러가거나 말아서 감는 동작을 나타내요. 공이 구르다(roll down), 반죽을 밀다(roll the dough), 눈을 굴리다(roll your eyes, 어이없다는 반응)처럼 쓰여요. 명사로는 둥글게 만 것(a roll of paper)과 빵의 롤(a dinner roll), 출석부(roll call)가 있어요. 'Let's roll!'은 '출발하자!'라는 구어이고 'on a roll'은 일이 잘 풀려 연승 중이라는 뜻이에요. 변화형은 규칙적으로 rolled예요.",
+  "also": [
+   {
+    "w": "rolling",
+    "pos": "adj",
+    "ko": "구르는, 완만하게 이어진",
+    "en": "We drove through **rolling** hills."
+   },
+   {
+    "w": "roller",
+    "pos": "n",
+    "ko": "롤러, 굴림대",
+    "en": "She used a paint **roller** on the wall."
+   }
+  ]
+ },
+ {
+  "w": "room",
+  "pos": "n",
+  "meaning_ko": "방, 공간",
+  "example_en": "There isn't enough **room** in the car for all of our luggage.",
+  "example_ko": "차에 우리 짐을 다 실을 만한 공간이 없어.",
+  "nuance_ko": "room은 건물 안의 '방'이면서 셀 수 없는 '공간, 여유'라는 두 가지 뜻이 있어요. 방일 때는 셀 수 있어서 a bedroom, three rooms로 말하고 공간일 때는 셀 수 없어서 'make room for ~'(자리를 마련하다), 'no room for error'(실수 여지가 없다)로 써요. 호텔에서는 'a double room'처럼 객실을 가리키고, 'room and board'는 숙식 제공이에요. space는 더 추상적이고 넓은 공간을 말하고 room은 어떤 목적에 필요한 여유를 강조해요.",
+  "also": [
+   {
+    "w": "roomy",
+    "pos": "adj",
+    "ko": "널찍한",
+    "en": "The back seat is surprisingly **roomy**."
+   }
+  ]
+ },
+ {
+  "w": "rough",
+  "pos": "adj",
+  "meaning_ko": "거친, 대략적인, 힘든",
+  "example_en": "Can you give me a **rough** idea of how much the repair will cost?",
+  "example_ko": "수리비가 대략 얼마나 들지 감이라도 알려줄 수 있어?",
+  "nuance_ko": "rough는 표면이 거칠다(rough skin)는 기본 뜻에서 '난폭한, 힘든, 대략적인'으로 확장돼요. a rough day(힘든 하루), a rough estimate(대략적 추정), rough weather(거친 날씨)처럼 쓰고 반대는 smooth예요. 'rough' 뒤에 draft를 붙인 'rough draft'는 초안이고 'a rough guess'는 어림짐작이에요. 'have a rough time'은 힘든 시간을 보내다예요. 몸이 안 좋을 때 'I feel rough'라고 하는 영국 구어도 있어요. 소리는 /rʌf/로 gh가 f로 발음돼요.",
+  "also": [
+   {
+    "w": "roughly",
+    "pos": "adv",
+    "ko": "대략, 거칠게",
+    "en": "It takes **roughly** two hours to get there."
+   }
+  ]
+ },
+ {
+  "w": "round",
+  "pos": "adj",
+  "meaning_ko": "둥근, 한 바퀴, 한 판",
+  "example_en": "We'll meet **round** the corner from the old bookstore.",
+  "example_ko": "오래된 서점 모퉁이를 돌아서 만나자.",
+  "nuance_ko": "round는 형용사 '둥근', 명사 '한 판, 한 바퀴', 전치사·부사 '~을 돌아서, 주위에'(영국식 around)로 쓰여요. a round table(원탁), a round of drinks(한 순배의 술), the first round(1라운드)처럼 쓰임이 다양해요. 'round the clock'은 '24시간 내내', 'round trip'은 왕복 여행이에요. 영국 영어에서는 around 대신 round를 자주 쓰고 미국에서는 around가 더 일반적이에요. 숫자를 'round up/down'으로 올림·내림하는 것도 알아두세요.",
+  "also": [
+   {
+    "w": "rounded",
+    "pos": "adj",
+    "ko": "둥글게 된",
+    "en": "The table has **rounded** corners."
+   }
+  ]
+ },
+ {
+  "w": "rubbish",
+  "pos": "n",
+  "meaning_ko": "쓰레기, 말도 안 되는 소리",
+  "example_en": "Don't talk **rubbish**. You know that's not true at all.",
+  "example_ko": "헛소리 하지 마. 그게 전혀 사실이 아니란 거 알잖아.",
+  "nuance_ko": "rubbish는 영국식 영어로 '쓰레기'와 '허튼소리, 형편없는 것'을 뜻해요. 미국에서는 쓰레기를 trash나 garbage라고 해요. 영국에서는 쓰레기통이 dustbin, rubbish bin이고 'put out the rubbish'는 쓰레기를 내놓다예요. 'What rubbish!'나 'That's rubbish'는 상대 의견이 말도 안 된다고 할 때 쓰는 영국식 표현이에요. 형용사처럼 '형편없는'(I'm rubbish at cooking)이라고 말하기도 해요.",
+  "also": []
+ },
+ {
+  "w": "rule",
+  "pos": "n",
+  "meaning_ko": "규칙, 지배하다",
+  "example_en": "The first **rule** of this office is to always lock your computer.",
+  "example_ko": "이 사무실의 첫 번째 규칙은 항상 컴퓨터를 잠그는 거야.",
+  "nuance_ko": "rule은 지켜야 할 규칙이고 동사로는 '통치하다, 판결하다'예요. follow the rules(규칙을 따르다), break the rules(어기다), as a rule(대체로)처럼 많이 써요. 'rule of thumb'은 경험칙, 대략의 지침이라는 관용구이고 'rule out'은 '배제하다'(가능성을 제외하다)예요. 법원에서 'The judge ruled in favor of ~'라고 하면 판결을 내렸다는 뜻이에요. regulation은 공식적인 규정이고 rule은 더 일반적이에요.",
+  "also": [
+   {
+    "w": "ruling",
+    "pos": "n",
+    "ko": "판결, 결정",
+    "en": "The court's **ruling** surprised everyone."
+   },
+   {
+    "w": "ruler",
+    "pos": "n",
+    "ko": "통치자, 자",
+    "en": "The **ruler** governed the country for decades."
+   }
+  ]
+ },
+ {
+  "w": "run",
+  "pos": "v",
+  "meaning_ko": "달리다, 운영하다, 작동하다",
+  "example_en": "I **run** three miles every morning before work.",
+  "example_ko": "난 매일 아침 출근 전에 3마일씩 달려.",
+  "nuance_ko": "run은 달리다가 기본 뜻이지만 운영하다(run a business), 작동하다(The program is running), 흐르다(water runs), 출마하다(run for office)까지 의미가 아주 많아요. 변화형은 run-ran-run이에요. 구동사로 run out of(~이 바닥나다), run into(우연히 마주치다), run over(차로 치다/넘치다)가 흔해요. 명사로 'in the long run'(장기적으로), 'a run of bad luck'(불운의 연속)도 써요. 컴퓨터에서는 프로그램을 실행하다라는 뜻이라 IT 영어에서도 필수예요.",
+  "also": [
+   {
+    "w": "running",
+    "pos": "n",
+    "ko": "달리기, 운영",
+    "en": "**Running** helps me clear my head."
+   },
+   {
+    "w": "runner",
+    "pos": "n",
+    "ko": "달리는 사람",
+    "en": "She is a fast **runner**."
+   }
+  ]
+ },
+ {
+  "w": "sad",
+  "pos": "adj",
+  "meaning_ko": "슬픈",
+  "example_en": "It's **sad** to see the old cafe close after thirty years.",
+  "example_ko": "30년 된 그 카페가 문을 닫는 걸 보니 슬퍼.",
+  "nuance_ko": "sad는 슬픈 감정을 나타내는 가장 기본적인 형용사예요. 소식이나 상황이 슬프다(a sad story)와 사람이 슬프다(I feel sad)에 모두 쓸 수 있어요. 구어에서 'That's sad'는 안타깝다는 반응이고, 가끔 'You're so sad'는 한심하다는 비꼬는 뜻으로도 써요(영국). unhappy는 불행하고 불만스러운 상태이고 sad는 일시적인 슬픔도 포함해요. 'sad to say'는 '안타깝지만 말하자면'이라는 문장 부사구예요.",
+  "also": [
+   {
+    "w": "sadly",
+    "pos": "adv",
+    "ko": "슬프게도, 유감스럽게도",
+    "en": "**Sadly**, the show was canceled."
+   },
+   {
+    "w": "sadness",
+    "pos": "n",
+    "ko": "슬픔",
+    "en": "She felt deep **sadness** after the loss."
+   }
+  ]
+ },
+ {
+  "w": "safe",
+  "pos": "adj",
+  "meaning_ko": "안전한",
+  "example_en": "Is it **safe** to walk home alone this late at night?",
+  "example_ko": "이렇게 늦은 밤에 혼자 걸어서 집에 가도 안전할까?",
+  "nuance_ko": "safe는 위험이 없는 '안전한'을 뜻하고 사람, 장소, 행동 모두에 써요. be safe는 '무사하다'로 'Stay safe!'는 몸조심하라는 인사예요. 'safe and sound'는 무사히, 'play it safe'는 신중하게 행동하다예요. 명사로는 금고(a safe)라는 뜻도 있어요. secure는 보안이 잘 갖춰진 안정적인 상태이고 safe는 위험으로부터 안전한 상태라는 점이 달라요. 'better safe than sorry'는 조심하는 게 낫다는 속담이에요.",
+  "also": [
+   {
+    "w": "safety",
+    "pos": "n",
+    "ko": "안전",
+    "en": "Safety comes first on the job site."
+   },
+   {
+    "w": "safely",
+    "pos": "adv",
+    "ko": "안전하게",
+    "en": "We arrived **safely** at the hotel."
+   }
+  ]
+ },
+ {
+  "w": "sail",
+  "pos": "v",
+  "meaning_ko": "항해하다, 돛",
+  "example_en": "They plan to **sail** around the island next summer.",
+  "example_ko": "그들은 내년 여름에 섬 주위를 배로 일주할 계획이야.",
+  "nuance_ko": "sail은 돛을 이용해 배를 타고 가는 것, 또는 배로 이동하는 것 전반을 가리켜요. sail across the ocean처럼 쓰이고 명사로는 돛이에요. 비유적으로 'sail through ~'는 시험 등을 쉽게 통과하다예요. set sail은 출항하다라는 관용 표현이에요. 엔진 배를 운전하는 것은 drive a boat 또는 go by boat이고 sail은 바람으로 가는 느낌이 있어요. 'smooth sailing'은 순조로운 진행을 뜻하는 비유로도 써요.",
+  "also": [
+   {
+    "w": "sailing",
+    "pos": "n",
+    "ko": "요트 타기, 항해",
+    "en": "We went **sailing** on the lake."
+   },
+   {
+    "w": "sailor",
+    "pos": "n",
+    "ko": "선원, 뱃사람",
+    "en": "The **sailor** told stories about the sea."
+   }
+  ]
+ },
+ {
+  "w": "same",
+  "pos": "adj",
+  "meaning_ko": "같은, 동일한",
+  "example_en": "We went to the **same** high school but never met.",
+  "example_ko": "우리는 같은 고등학교를 나왔지만 만난 적은 없어.",
+  "nuance_ko": "same은 항상 the same으로 the를 붙여 쓰는 점이 가장 중요해요. 'the same as ~'는 '~와 같은', 'the same + 명사 + that/as'로 쓰고 'the same day'처럼 한정사 역할도 해요. 한국인은 'same with you'를 'Same here'나 'You too'처럼 쓰는데, 'Same here.'(나도 그래)는 자연스러운 구어 표현이에요. 'at the same time'은 동시에, 'all the same'은 그래도라는 뜻이에요. different의 반대말이지만 동일함이라서 equal과 구별해요.",
+  "also": []
+ },
+ {
+  "w": "saturday",
+  "pos": "n",
+  "meaning_ko": "토요일",
+  "example_en": "Let's go hiking this **Saturday** if the weather is nice.",
+  "example_ko": "날씨만 좋으면 이번 토요일에 등산 가자.",
+  "nuance_ko": "Saturday는 토요일이고 요일 이름이라서 항상 대문자로 써요. on Saturday(토요일에), on Saturdays(매주 토요일마다), last Saturday(지난 토요일), this Saturday(이번 토요일)처럼 써요. 'Saturday night'는 금요일과 더불어 외출·파티의 밤으로 인식되어 'Saturday night fever' 같은 대중문화에도 등장해요. 요일 앞에 전치사가 필요 없는 건 this/next/last가 붙을 때예요. 약어는 Sat.이에요.",
+  "also": []
+ },
+ {
+  "w": "save",
+  "pos": "v",
+  "meaning_ko": "구하다, 저축하다, 절약하다",
+  "example_en": "I'm trying to **save** money for a trip to Europe next year.",
+  "example_ko": "내년 유럽 여행을 가려고 돈을 모으고 있어.",
+  "nuance_ko": "save의 핵심 그림은 '잃거나 해를 입지 않게 지켜두는 것'이에요. 생명을 구하다(save a life), 돈을 모으다(save money), 시간을 아끼다(save time), 파일을 저장하다(save a file), 자리를 맡아두다(save a seat) 모두 같은 그림이에요. 'save A from B'는 A를 B에서 구하다이고 'Save me a seat'는 내 자리 좀 맡아줘라는 일상 표현이에요. 'save your breath'는 말해봐야 소용없다는 관용구예요. 전치사로 'save for'는 '~을 제외하고'로 격식 있게 써요.",
+  "also": [
+   {
+    "w": "saving",
+    "pos": "n",
+    "ko": "절약",
+    "en": "The new system means big **savings**."
+   },
+   {
+    "w": "saved",
+    "pos": "adj",
+    "ko": "저장된, 구해진",
+    "en": "All your **saved** files are in this folder."
+   }
+  ]
+ },
+ {
+  "w": "say",
+  "pos": "v",
+  "meaning_ko": "말하다",
+  "example_en": "What did she **say** when you told her the news?",
+  "example_ko": "네가 그 소식을 전했을 때 그녀가 뭐라고 했어?",
+  "nuance_ko": "say는 '말의 내용'에 초점을 두는 동사이고 tell은 '누구에게 알린다', speak은 '말하는 능력·행위', talk는 '대화'에 초점을 둬요. 그래서 say hello, say a word처럼 내용을 목적어로 받고 tell the truth, tell me처럼 사람을 목적어로 받아요. 변화형은 say-said-said예요. 'I'd say ~'는 '내 생각엔 ~'라는 완곡한 의견, 'Say, ~'는 말을 꺼낼 때 쓰는 구어, 'It goes without saying'은 말할 필요도 없다는 뜻이에요. 'Say cheese!'는 사진 찍을 때 하는 말이에요.",
+  "also": [
+   {
+    "w": "saying",
+    "pos": "n",
+    "ko": "속담, 말",
+    "en": "There's an old **saying** about patience."
+   },
+   {
+    "w": "said",
+    "pos": "adj",
+    "ko": "앞서 말한",
+    "en": "The **said** document must be signed."
+   }
+  ]
+ },
+ {
+  "w": "scare",
+  "pos": "v",
+  "meaning_ko": "겁주다, 놀라게 하다",
+  "example_en": "Don't **scare** me like that! I almost dropped my coffee.",
+  "example_ko": "그렇게 놀라게 하지 마! 커피 떨어뜨릴 뻔했잖아.",
+  "nuance_ko": "scare는 갑자기 사람을 놀라게 하거나 무섭게 만드는 타동사예요. 사람이 느끼는 감정은 scared(겁먹은)로, 대상을 묘사할 때는 scary(무서운)로 말해요. 'I'm scared of spiders'처럼 be scared of ~로 두려움을 나타내요. 'scare away'는 겁줘서 쫓아내다, 'scare the life out of ~'는 간 떨어지게 놀라게 하다예요. 명사 scare는 '공포, 소동'(a health scare)으로도 써요.",
+  "also": [
+   {
+    "w": "scared",
+    "pos": "adj",
+    "ko": "겁먹은",
+    "en": "I was too **scared** to look."
+   },
+   {
+    "w": "scary",
+    "pos": "adj",
+    "ko": "무서운",
+    "en": "That movie was really **scary**."
+   }
+  ]
+ },
+ {
+  "w": "school",
+  "pos": "n",
+  "meaning_ko": "학교",
+  "example_en": "My kids walk to **school** together every morning.",
+  "example_ko": "우리 애들은 매일 아침 같이 걸어서 학교에 가.",
+  "nuance_ko": "school은 학교라는 기관이고 학교 건물이 아닌 학교생활 개념일 때는 관사를 생략해요. go to school(공부하러 가다), at school(학교에서)은 the 없이 쓰고, 건물을 특정할 때는 the school이에요. elementary school, middle school, high school, graduate school로 학제를 구분하고 대학은 미국에서 college나 university를 써요. 'school' 자체가 대학을 뜻하기도 해서 'law school', 'medical school'처럼 전문 대학원에도 써요. 동사로 '가르치다, 단련시키다'로 쓰이는 일도 있어요.",
+  "also": [
+   {
+    "w": "schooling",
+    "pos": "n",
+    "ko": "학교 교육",
+    "en": "He had little formal **schooling**."
+   },
+   {
+    "w": "preschool",
+    "pos": "n",
+    "ko": "유치원",
+    "en": "She works at a **preschool**."
+   }
+  ]
+ },
+ {
+  "w": "science",
+  "pos": "n",
+  "meaning_ko": "과학",
+  "example_en": "My favorite subject in high school was **science**, especially chemistry.",
+  "example_ko": "고등학교 때 제일 좋아한 과목은 과학, 특히 화학이었어.",
+  "nuance_ko": "science는 자연 현상을 연구하는 학문 전반으로 물리, 화학, 생물 등을 포함해요. 과목으로 말할 때는 관사 없이 쓰고 'a science'라고 하면 하나의 학문 분야를 가리켜요. social science(사회과학), computer science(컴퓨터 공학), science fiction(공상 과학)처럼 합성어가 많아요. 'science and technology'는 짝꿍 표현이고 과학자는 scientist예요. 비유적으로 'It's not rocket science'는 어렵지 않다는 구어 표현이에요.",
+  "also": [
+   {
+    "w": "scientific",
+    "pos": "adj",
+    "ko": "과학적인",
+    "en": "There is no **scientific** proof for that."
+   },
+   {
+    "w": "scientist",
+    "pos": "n",
+    "ko": "과학자",
+    "en": "The **scientist** presented new findings."
+   }
+  ]
+ },
+ {
+  "w": "sea",
+  "pos": "n",
+  "meaning_ko": "바다",
+  "example_en": "We spent the whole afternoon swimming in the warm **sea**.",
+  "example_ko": "우리는 따뜻한 바다에서 수영하며 오후를 다 보냈어.",
+  "nuance_ko": "sea는 바다이고 ocean(대양)보다 작고 육지에 가까운 바다를 가리켜요. 고유 이름에서는 the Mediterranean Sea, the Red Sea처럼 쓰고 한국의 동해는 the East Sea예요. 'by the sea'(바닷가에서), 'at sea'(항해 중, 혼란스러운), 'sea level'(해수면)처럼 쓰여요. 'a sea of ~'는 바다처럼 많은 것(a sea of faces)을 뜻하는 비유예요. 'seaside'는 바닷가 휴양지 느낌이고 영국에서 휴가지로 자주 써요.",
+  "also": []
+ },
+ {
+  "w": "seat",
+  "pos": "n",
+  "meaning_ko": "좌석, 자리",
+  "example_en": "Excuse me, is this **seat** taken or can I sit here?",
+  "example_ko": "실례지만 이 자리 주인 있나요, 제가 여기 앉아도 될까요?",
+  "nuance_ko": "seat는 앉는 자리로 의자뿐 아니라 극장·비행기·차의 좌석을 말해요. 'Have a seat'는 앉으세요라는 가장 일상적인 권유이고 'Is this seat taken?'은 빈자리인지 묻는 질문이에요. 'take a seat'도 비슷하게 쓰고 sit down보다 정중해요. 동사로는 '앉히다, 수용하다'(The hall seats 500)예요. 의석이라는 정치 용어(a seat in parliament)와 'in the driver's seat'(주도권을 쥔)라는 비유도 있어요. 'seat belt'는 안전벨트예요.",
+  "also": [
+   {
+    "w": "seated",
+    "pos": "adj",
+    "ko": "앉아 있는",
+    "en": "Please remain **seated** until the plane stops."
+   }
+  ]
+ },
+ {
+  "w": "second",
+  "pos": "adj",
+  "meaning_ko": "두 번째의, 초",
+  "example_en": "Please wait a **second** while I find the right page.",
+  "example_ko": "맞는 페이지를 찾을 때까지 잠깐만 기다려 줘.",
+  "nuance_ko": "second는 서수 '두 번째'이면서 시간 단위 '초', 그리고 '잠깐'(just a second)이라는 구어 표현으로 많이 써요. second language(제2외국어), second floor, second thought처럼 한정사 역할도 해요. 'second to none'은 '누구에게도 뒤지지 않는', 'second nature'는 '몸에 밴 습관'이라는 관용 표현이에요. 동사 second는 '(제안을) 지지하다'(I second that)로 회의에서 쓰여요. 'Just a second'는 'Just a moment'와 같은 의미로 가볍게 말해요.",
+  "also": [
+   {
+    "w": "secondary",
+    "pos": "adj",
+    "ko": "부차적인, 중등의",
+    "en": "Price is a **secondary** concern."
+   },
+   {
+    "w": "secondly",
+    "pos": "adv",
+    "ko": "두 번째로",
+    "en": "**Secondly**, we need more time."
+   }
+  ]
+ },
+ {
+  "w": "secure",
+  "pos": "adj",
+  "meaning_ko": "안전한, 확보하다",
+  "example_en": "Make sure the door is **secure** before you leave the house.",
+  "example_ko": "집을 나서기 전에 문이 확실히 잠겼는지 확인해.",
+  "nuance_ko": "secure는 형용사로 '안전한, 안정적인', 동사로 '확보하다, 단단히 고정하다'를 뜻해요. a secure job(안정적인 직장), a secure password(안전한 비밀번호), secure a loan(대출을 확보하다)처럼 쓰여요. safe가 위험에서 벗어난 상태라면 secure는 방어와 보안이 잘 되어 불안이 없는 상태를 강조해요. 심리적으로도 'feel secure'(안심하다)라고 하고 반대는 insecure(불안한, 자신 없는)예요. IT에서 secure connection(보안 연결)도 자주 나와요.",
+  "also": [
+   {
+    "w": "security",
+    "pos": "n",
+    "ko": "보안, 안전",
+    "en": "Airport **security** was very strict."
+   },
+   {
+    "w": "insecure",
+    "pos": "adj",
+    "ko": "불안한, 자신 없는",
+    "en": "He felt **insecure** about his looks."
+   }
+  ]
+ },
+ {
+  "w": "see",
+  "pos": "v",
+  "meaning_ko": "보다, 만나다, 이해하다",
+  "example_en": "I'll **see** you at the station at seven, okay?",
+  "example_ko": "7시에 역에서 보자, 알았지?",
+  "nuance_ko": "see는 의도하지 않아도 눈에 들어오는 '보이다'이고 look은 의식적으로 바라보는 것, watch는 움직임을 지켜보는 것이에요. 변화형은 see-saw-seen이고, '만나다'(see a doctor), '이해하다'(I see), '확인하다'(Let me see)로 의미가 확장돼요. 'See you!'는 헤어질 때 인사이고 'You see'는 설명을 시작할 때 쓰는 담화 표지예요. 'see to it that ~'은 ~하도록 챙기다라는 표현이에요. 진행형 seeing은 사귀다(I'm seeing someone)라는 뜻이 돼요.",
+  "also": [
+   {
+    "w": "seen",
+    "pos": "v",
+    "ko": "보았다(과거분사)",
+    "en": "Have you **seen** my keys anywhere?"
+   },
+   {
+    "w": "unseen",
+    "pos": "adj",
+    "ko": "보이지 않는",
+    "en": "The danger was **unseen** until it was too late."
+   }
+  ]
+ },
+ {
+  "w": "seem",
+  "pos": "v",
+  "meaning_ko": "~처럼 보이다, ~인 것 같다",
+  "example_en": "You **seem** tired today. Did you sleep well last night?",
+  "example_ko": "오늘 피곤해 보여. 어젯밤에 잘 잤어?",
+  "nuance_ko": "seem은 겉으로 보기에 그렇게 느껴지는 인상을 말해요. seem + 형용사(seems happy), seem to + 동사(seems to work), It seems that ~ 구문으로 쓰여요. look은 시각적 외모, sound는 청각적 인상인 반면 seem은 전반적인 인상이나 판단에 쓰여서 더 폭넓어요. seem은 상태 동사라서 진행형으로 거의 쓰지 않아요. 'It seems like ~'는 구어에서 흔하고 'can't seem to ~'(아무리 해도 ~못 하는 것 같다)도 자주 써요.",
+  "also": [
+   {
+    "w": "seemingly",
+    "pos": "adv",
+    "ko": "겉보기에는",
+    "en": "The task was **seemingly** impossible."
+   }
+  ]
+ },
+ {
+  "w": "self",
+  "pos": "n",
+  "meaning_ko": "자기 자신, 자아",
+  "example_en": "Just be your true **self** and the interview will go fine.",
+  "example_ko": "그냥 진짜 네 모습 그대로 있으면 면접은 잘 될 거야.",
+  "nuance_ko": "self는 자기 자신, 자아를 뜻하는 명사로 복수형은 selves예요. 'be yourself'(있는 그대로의 너 자신이 돼라)와 'your true self'(진짜 자아) 같은 표현에서 만나요. self-로 시작하는 합성어가 정말 많아서 self-esteem(자존감), self-confidence(자신감), self-study(독학), self-service(셀프 서비스)처럼 하이픈으로 연결돼요. '-self'는 재귀대명사(myself, yourself)의 구성 요소이기도 해요.",
+  "also": [
+   {
+    "w": "selfish",
+    "pos": "adj",
+    "ko": "이기적인",
+    "en": "Don't be so **selfish** with your toys."
+   },
+   {
+    "w": "selves",
+    "pos": "n",
+    "ko": "자아들",
+    "en": "We all have different **selves** at work and home."
+   }
+  ]
+ },
+ {
+  "w": "sell",
+  "pos": "v",
+  "meaning_ko": "팔다",
+  "example_en": "They plan to **sell** their house and move to the countryside.",
+  "example_ko": "그들은 집을 팔고 시골로 이사할 계획이야.",
+  "nuance_ko": "sell은 물건을 팔다이고 반대는 buy예요. 변화형은 sell-sold-sold이고 '팔리다'는 수동태가 아니라 sell을 자동사로 써서 'This book sells well'(이 책은 잘 팔려)이라고 해요. 'sell out'은 매진되다(The tickets sold out), 'be sold out'은 매진된 상태, 'sell off'는 처분하다예요. 'sell yourself'는 자신을 어필하다라는 뜻으로 면접에서 자주 써요. 'It's a hard sell'은 설득하기 어렵다는 구어 표현이에요.",
+  "also": [
+   {
+    "w": "seller",
+    "pos": "n",
+    "ko": "판매자",
+    "en": "The **seller** lowered the price."
+   },
+   {
+    "w": "sold",
+    "pos": "v",
+    "ko": "팔았다",
+    "en": "She **sold** her old car last week."
+   }
+  ]
+ },
+ {
+  "w": "send",
+  "pos": "v",
+  "meaning_ko": "보내다",
+  "example_en": "Could you **send** me the report by the end of the day?",
+  "example_ko": "오늘 중으로 그 보고서를 나한테 보내줄 수 있어?",
+  "nuance_ko": "send는 사람이나 물건을 어디로 보내는 동사로 send-sent-sent로 변해요. send A B 또는 send B to A 구조를 쓰고 이메일, 편지, 택배, 사람 모두에 쓸 수 있어요. 'send for ~'는 ~를 불러오게 하다, 'send off'는 배웅하다, 'send out'은 발송하다예요. 한국어로 '보내다'는 시간을 보내는 의미도 있는데 영어에서 시간은 spend예요. 비즈니스 이메일의 'I'll send it over'는 '그걸 보내 드릴게요'라는 자연스러운 표현이에요.",
+  "also": [
+   {
+    "w": "sender",
+    "pos": "n",
+    "ko": "보낸 사람",
+    "en": "I don't know the **sender** of this email."
+   },
+   {
+    "w": "sent",
+    "pos": "v",
+    "ko": "보냈다",
+    "en": "I **sent** you the file this morning."
+   }
+  ]
+ },
+ {
+  "w": "sense",
+  "pos": "n",
+  "meaning_ko": "감각, 의미, 분별력",
+  "example_en": "It doesn't make any **sense** to drive when the train is faster.",
+  "example_ko": "기차가 더 빠른데 운전해서 가는 건 말이 안 돼.",
+  "nuance_ko": "sense는 오감(sense of smell), 직관적 느낌(a sense of relief), 분별력(common sense), 의미(in a sense)를 두루 가리켜요. 'make sense'는 말이 되다, 앞뒤가 맞다라는 뜻이고 대화에서 'Does that make sense?'(이해됐어?)가 매우 자주 쓰여요. 'sense of humor'(유머 감각), 'sense of direction'(방향 감각)처럼 감각의 짝꿍이 많아요. 동사로는 '감지하다, 느끼다'(I sensed danger)예요. sensible(분별 있는)과 sensitive(민감한)를 헷갈리지 마세요.",
+  "also": [
+   {
+    "w": "senseless",
+    "pos": "adj",
+    "ko": "무의미한, 의식 없는",
+    "en": "It was a **senseless** act of violence."
+   }
+  ]
+ },
+ {
+  "w": "serious",
+  "pos": "adj",
+  "meaning_ko": "진지한, 심각한",
+  "example_en": "I'm **serious**, I really am going to quit my job next month.",
+  "example_ko": "진심이야, 나 정말 다음 달에 일 그만둘 거야.",
+  "nuance_ko": "serious는 '진지한'(a serious person)과 '심각한'(a serious injury) 두 방향으로 쓰여요. 상황이 심각할 때는 serious problem, 사람의 태도가 진지할 때는 'Are you serious?'(진심이야?)로 쓰이고 이 질문은 놀라움이나 의심을 표현해요. 'get serious'는 진지해지다, 'serious about ~'은 ~에 진심이다예요. 구어에서는 부사처럼 'seriously good'(진짜 괜찮은)로 강조해서도 써요. 반대는 casual이나 light 정도예요.",
+  "also": [
+   {
+    "w": "seriously",
+    "pos": "adv",
+    "ko": "진지하게, 심각하게",
+    "en": "Please take this matter **seriously**."
+   }
+  ]
+ },
+ {
+  "w": "serve",
+  "pos": "v",
+  "meaning_ko": "제공하다, 근무하다, 기여하다",
+  "example_en": "The restaurant **serves** breakfast until eleven o'clock every day.",
+  "example_ko": "그 식당은 매일 11시까지 아침 식사를 제공해.",
+  "nuance_ko": "serve는 음식을 내놓다, 손님을 응대하다, 어떤 역할로 근무하다, 쓸모가 있다 등 폭넓게 쓰여요. serve breakfast(아침을 제공하다), serve customers(고객을 응대하다), serve in the army(군복무하다)처럼요. 테니스 서브(serve)도 같은 단어예요. 'It serves you right'는 '꼴좋다, 자업자득이다'라는 관용구이고 'serve a purpose'는 목적에 부합한다는 뜻이에요. 'first come, first served'는 선착순이라는 표현이에요.",
+  "also": [
+   {
+    "w": "server",
+    "pos": "n",
+    "ko": "종업원, 서버",
+    "en": "Our **server** brought the menu."
+   },
+   {
+    "w": "servant",
+    "pos": "n",
+    "ko": "하인, 공무원",
+    "en": "He is a public **servant**."
+   }
+  ]
+ },
+ {
+  "w": "service",
+  "pos": "n",
+  "meaning_ko": "서비스, 봉사, 정비",
+  "example_en": "The **service** at that hotel was excellent from the moment we arrived.",
+  "example_ko": "그 호텔은 도착하는 순간부터 서비스가 훌륭했어.",
+  "nuance_ko": "service는 서비스, 공공 서비스, 점검·정비, 예배, 군 복무 등 의미가 넓어요. customer service(고객 서비스), public service(공공 서비스), room service(룸서비스), service station(주유소)처럼 쓰여요. 한국어 '서비스'가 무료 덤을 뜻하는 것과 달리 영어 service는 제공되는 업무 자체이고 무료 증정은 on the house나 complimentary라고 해요. 자동차 점검을 'get the car serviced'라고 하는 점도 알아두세요.",
+  "also": [
+   {
+    "w": "services",
+    "pos": "n",
+    "ko": "서비스업, 용역",
+    "en": "The company offers financial **services**."
+   }
+  ]
+ },
+ {
+  "w": "set",
+  "pos": "v",
+  "meaning_ko": "놓다, 설정하다, 한 세트",
+  "example_en": "Let's **set** a date for the next team dinner before everyone forgets.",
+  "example_ko": "다들 잊어버리기 전에 다음 팀 회식 날짜를 정하자.",
+  "nuance_ko": "set는 영어에서 가장 의미가 많은 단어 중 하나로 동사로는 '놓다, 설정하다, 정하다, (해가) 지다'이고 명사로는 '세트, 한 벌', 형용사로는 '정해진, 준비된'이에요. 변화형이 set-set-set로 모두 같아요. set an alarm(알람을 맞추다), set the table(상을 차리다), set a goal(목표를 세우다), set up(설치하다/설립하다), set off(출발하다/촉발하다) 등 구동사도 많아요. 'be all set'은 준비가 다 되었다, 'set in stone'은 변경할 수 없는 상태라는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "setting",
+    "pos": "n",
+    "ko": "배경, 설정",
+    "en": "The story has a beautiful **setting**."
+   }
+  ]
+ },
+ {
+  "w": "settle",
+  "pos": "v",
+  "meaning_ko": "정착하다, 해결하다, 진정되다",
+  "example_en": "They decided to **settle** in a small town near the coast.",
+  "example_ko": "그들은 해안 근처의 작은 마을에 정착하기로 했어.",
+  "nuance_ko": "settle의 핵심은 '흔들리다가 안정된 자리에 자리 잡는 것'이에요. 사는 곳에 정착하다(settle in), 분쟁을 해결하다(settle a dispute), 계산을 치르다(settle the bill), 마음이 진정되다(settle down)가 모두 같은 그림이에요. 'settle for ~'는 ~로 만족하고 타협하다, 'settle on ~'은 ~로 결정하다예요. 'settle down'은 안정된 생활을 시작하다라는 뜻으로 결혼 이야기에서도 많이 써요. 새 직장에 적응한 상태는 'I've settled in'이라고 해요.",
+  "also": [
+   {
+    "w": "settled",
+    "pos": "adj",
+    "ko": "자리 잡은",
+    "en": "She finally feels **settled** in her new home."
+   },
+   {
+    "w": "settlement",
+    "pos": "n",
+    "ko": "합의, 정착지",
+    "en": "The two sides reached a **settlement**."
+   }
+  ]
+ },
+ {
+  "w": "seven",
+  "pos": "num",
+  "meaning_ko": "일곱, 7",
+  "example_en": "I usually wake up at **seven** and have a quick breakfast.",
+  "example_ko": "난 보통 7시에 일어나서 간단히 아침을 먹어.",
+  "nuance_ko": "seven은 숫자 7이고 행운의 숫자로 여겨져서 'lucky seven'이라는 표현이 있어요. seventeen(17)과 seventy(70)는 강세 위치가 달라서 듣기에서 혼동하기 쉬워요. 'seven days a week'는 연중무휴이고 'the seven seas'는 전 세계 바다를 뜻하는 상징적 표현이에요. 'seventh heaven'은 극도의 행복 상태이고 서수 seventh는 th 발음에 주의하세요. 시간 표현에서는 seven o'clock으로 말해요.",
+  "also": [
+   {
+    "w": "seventy",
+    "pos": "num",
+    "ko": "일흔, 70",
+    "en": "My grandfather just turned **seventy**."
+   },
+   {
+    "w": "seventh",
+    "pos": "num",
+    "ko": "일곱 번째",
+    "en": "We live on the **seventh** floor."
+   }
+  ]
+ },
+ {
+  "w": "several",
+  "pos": "det",
+  "meaning_ko": "몇몇의, 여러",
+  "example_en": "I've tried calling her **several** times, but she never picks up.",
+  "example_ko": "그녀에게 여러 번 전화했는데 한 번도 안 받아.",
+  "nuance_ko": "several은 셋 이상이지만 아주 많지는 않은 '몇몇'을 뜻해요. 약 3~7개 정도의 감각이고 few보다는 많고 many보다는 적은 느낌이에요. 복수 가산명사 앞에 쓰고(several people) 'several of the ~'처럼 of 구문도 가능해요. 부정문에서는 잘 쓰지 않고 not many를 쓰는 편이에요. 격식 있는 글에서는 'several months'처럼 막연한 수량을 나타낼 때 자주 등장하고, 구어에서도 a few와 비슷하게 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "sex",
+  "pos": "n",
+  "meaning_ko": "성별, 성",
+  "example_en": "Please write your age and **sex** in the form below.",
+  "example_ko": "아래 양식에 나이와 성별을 적어 주세요.",
+  "nuance_ko": "sex는 생물학적 성별(male/female)을 가리키는 중립적 용어로 서류나 의학 문맥에서 주로 만나요. 같은 단어가 성관계를 뜻하기도 해서 일상 대화에서 쓸 때는 맥락과 어조를 신경 써야 해요. gender는 사회문화적 성 정체성을 나타내서 요즘 양식에서는 sex 대신 gender를 쓰는 경우도 많아요. 'same-sex', 'sex education'(성교육), 'opposite sex'(이성) 같은 합성 표현이 있어요. 서류에서는 Sex: M / F로 간단히 표기해요.",
+  "also": [
+   {
+    "w": "sexual",
+    "pos": "adj",
+    "ko": "성적인",
+    "en": "The school offers **sexual** health education."
+   }
+  ]
+ },
+ {
+  "w": "shake",
+  "pos": "v",
+  "meaning_ko": "흔들다, 떨다",
+  "example_en": "My hands began to **shake** just before I went on stage.",
+  "example_ko": "무대에 오르기 직전에 손이 떨리기 시작했어.",
+  "nuance_ko": "shake는 빠르게 앞뒤로 흔드는 동작이에요. 사물을 흔들거나(shake a bottle), 사람이 떨거나(shake with fear), 충격을 주다(shaken by the news)로 쓰여요. 변화형은 shake-shook-shaken이에요. 'shake hands'(악수하다)에서는 hands가 복수라는 점이 한국 학습자가 자주 틀리는 포인트예요. 'shake your head'는 고개를 가로젓다(거절/부정), 'shake off'는 떨쳐버리다예요. 명사 shake는 밀크셰이크처럼 흔들어 만든 음료도 가리켜요.",
+  "also": [
+   {
+    "w": "shaken",
+    "pos": "adj",
+    "ko": "충격받은",
+    "en": "She looked **shaken** after the accident."
+   },
+   {
+    "w": "shaky",
+    "pos": "adj",
+    "ko": "떨리는, 불안정한",
+    "en": "His voice sounded **shaky** on the phone."
+   }
+  ]
+ },
+ {
+  "w": "shall",
+  "pos": "v",
+  "meaning_ko": "~할까요, ~할 것이다",
+  "example_en": "**Shall** we take a short break before we continue?",
+  "example_ko": "계속하기 전에 잠깐 쉴까요?",
+  "nuance_ko": "shall은 현대 영어에서 주로 제안이나 권유('Shall we ~?', 'Shall I ~?')에 쓰는 조동사예요. Shall I open the window?(제가 창문을 열까요?)는 정중한 제안이고 미국에서는 격식 있게 들려서 Should I ~? 또는 Do you want me to ~?를 더 많이 써요. 계약서나 법률 문서에서는 의무를 나타내서 'The tenant shall pay rent'처럼 쓰이는데 이때는 must에 가까워요. 1인칭 미래의 will 대용으로 I shall는 영국식으로 격식 있는 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "shape",
+  "pos": "n",
+  "meaning_ko": "모양, 형태, 컨디션",
+  "example_en": "I'm trying to get back in **shape** after months of sitting at a desk.",
+  "example_ko": "몇 달간 책상에만 앉아 있다가 몸 상태를 다시 끌어올리려고 노력 중이야.",
+  "nuance_ko": "shape는 사물의 외형 또는 컨디션을 뜻해요. 'in good shape'는 상태가 좋은, 'out of shape'는 몸이 안 만들어진, 'take shape'는 구체적인 모습을 갖추다예요. 모양을 말할 때 'in the shape of a heart'처럼 전치사 in을 써요. 동사 shape는 '형성하다, 모양을 만들다'로, 'shape the future'처럼 영향을 줄 때도 써요. 'get into shape'는 운동으로 몸을 만드는 것을 뜻해요.",
+  "also": [
+   {
+    "w": "shaped",
+    "pos": "adj",
+    "ko": "~모양의",
+    "en": "The cookie is **shaped** like a star."
+   }
+  ]
+ },
+ {
+  "w": "share",
+  "pos": "v",
+  "meaning_ko": "나누다, 공유하다",
+  "example_en": "Can I **share** your umbrella? I forgot mine at home.",
+  "example_ko": "네 우산 같이 써도 될까? 내 건 집에 두고 왔어.",
+  "nuance_ko": "share는 하나를 여럿이 나눠 쓰거나, 정보와 감정을 함께 나누는 동사예요. share a room(방을 함께 쓰다), share a meal(식사를 나누다), share an opinion(의견을 공유하다)처럼 써요. 소셜미디어에서는 게시물을 공유하다라는 뜻으로 자주 쓰이고, 명사로는 '몫, 지분, 주식'(my share of the bill, shares of stock)을 뜻해요. 'Let me share something with you'는 속내를 털어놓을 때 하는 표현이에요. 'share A with B' 구문에서 with를 빠뜨리지 마세요.",
+  "also": [
+   {
+    "w": "shares",
+    "pos": "n",
+    "ko": "주식, 몫",
+    "en": "He owns **shares** in the company."
+   },
+   {
+    "w": "shared",
+    "pos": "adj",
+    "ko": "공유하는",
+    "en": "We have a **shared** apartment."
+   }
+  ]
+ },
+ {
+  "w": "she",
+  "pos": "pron",
+  "meaning_ko": "그녀는",
+  "example_en": "**She** told me she would arrive a little late tonight.",
+  "example_ko": "그녀가 오늘 밤 조금 늦게 도착할 거라고 내게 말했어.",
+  "nuance_ko": "she는 3인칭 단수 여성 주어 대명사예요. 목적격은 her, 소유격은 her, 소유대명사는 hers, 재귀대명사는 herself로 변해요. 한국어는 성별 구분 없이 '그'라고 하지만 영어는 he/she를 꼭 구분해야 해서 대화에서 자주 틀려요. 이름을 모르는 사람을 가리킬 때도 she를 쓰기 때문에 상황에서 성별을 알 때만 써야 해요. 배, 자동차, 나라를 she로 부르는 옛 용법도 있어요. 성 중립 상황에서는 요즘 singular they를 쓰는 경우가 많아요.",
+  "also": [
+   {
+    "w": "herself",
+    "pos": "pron",
+    "ko": "그녀 자신",
+    "en": "She taught **herself** how to play piano."
+   }
+  ]
+ },
+ {
+  "w": "ship",
+  "pos": "n",
+  "meaning_ko": "배, 선박, 발송하다",
+  "example_en": "The **ship** left the harbor at dawn and sailed north.",
+  "example_ko": "그 배는 새벽에 항구를 떠나 북쪽으로 향했어.",
+  "nuance_ko": "ship은 대형 선박을 가리키고 boat는 작은 배를 말해요. 크루즈선이나 화물선은 ship이고 보트와 요트는 boat예요. 동사로는 '배로 실어 보내다'에서 '발송하다, 배송하다'(We ship worldwide)로 의미가 넓어져서 택배·쇼핑에서 흔히 써요. 'shipping'은 배송, 'shipping fee'는 배송료예요. 'tight ship'은 규율이 엄격한 조직을 뜻하는 관용구이고 '-ship'은 접미사로 friendship, leadership처럼 상태를 나타내요.",
+  "also": [
+   {
+    "w": "shipping",
+    "pos": "n",
+    "ko": "배송, 해운",
+    "en": "Free **shipping** is available on orders over $50."
+   },
+   {
+    "w": "shipment",
+    "pos": "n",
+    "ko": "선적물, 배송품",
+    "en": "The **shipment** arrived two days late."
+   }
+  ]
+ },
+ {
+  "w": "shirt",
+  "pos": "n",
+  "meaning_ko": "셔츠",
+  "example_en": "I spilled coffee on my white **shirt** right before the meeting.",
+  "example_ko": "회의 직전에 흰 셔츠에 커피를 쏟았어.",
+  "nuance_ko": "shirt는 칼라가 있고 단추로 여미는 셔츠를 가리키는 것이 기본이에요. 티셔츠는 T-shirt라고 하고, 영국에서는 shirt가 정장 셔츠, 미국에서는 폭넓게 상의를 가리키기도 해요. 상의 전반은 top이라고 하죠. 'dress shirt'는 정장 셔츠, 'polo shirt'는 폴로 셔츠예요. 'lose your shirt'는 도박이나 투자로 전 재산을 잃다, 'keep your shirt on'은 진정하라는 구어 표현이에요. 셔츠를 입다는 wear a shirt, 갈아입다는 change your shirt예요.",
+  "also": []
+ },
+ {
+  "w": "shoe",
+  "pos": "n",
+  "meaning_ko": "신발",
+  "example_en": "These **shoes** are too tight, so my feet hurt after a short walk.",
+  "example_ko": "이 신발이 너무 꽉 껴서 조금만 걸어도 발이 아파.",
+  "nuance_ko": "shoe는 신발이고 짝이 있는 물건이라서 보통 shoes로 복수형을 써요. 한 켤레는 a pair of shoes이고 한 짝은 one shoe예요. 신발을 신다는 put on shoes, 벗다는 take off shoes이고 상태는 wear shoes예요. 'in someone's shoes'는 '남의 입장에서'(Put yourself in my shoes), 'the shoe is on the other foot'은 입장이 뒤바뀌었다는 관용 표현이에요. 운동화는 sneakers(미국)나 trainers(영국)라고 부르기도 해요.",
+  "also": []
+ },
+ {
+  "w": "shoot",
+  "pos": "v",
+  "meaning_ko": "쏘다, 촬영하다",
+  "example_en": "They're going to **shoot** a new commercial in the park tomorrow.",
+  "example_ko": "그들은 내일 공원에서 새 광고를 촬영할 거야.",
+  "nuance_ko": "shoot는 총이나 화살을 쏘는 것에서 시작해 영화·사진을 촬영하는 것, 농구에서 슛하는 것으로 확장돼요. 변화형은 shoot-shot-shot이에요. 'shoot a movie'(영화를 찍다), 'shoot a photo'(사진을 찍다), 'shoot hoops'(농구하다)처럼 쓰여요. 'shoot for ~'는 목표로 삼다, 'shoot down'은 격추하다 또는 제안을 거절하다예요. 'Shoot!'은 약한 욕처럼 쓰는 감탄사이고 'shoot me an email'은 이메일을 보내줘라는 구어예요.",
+  "also": [
+   {
+    "w": "shot",
+    "pos": "n",
+    "ko": "발사, 한 방, 사진",
+    "en": "He took a great **shot** of the sunset."
+   },
+   {
+    "w": "shooting",
+    "pos": "n",
+    "ko": "총격, 촬영",
+    "en": "The **shooting** of the film took three months."
+   }
+  ]
+ },
+ {
+  "w": "shop",
+  "pos": "n",
+  "meaning_ko": "가게, 쇼핑하다",
+  "example_en": "There's a small **shop** on the corner that sells fresh bread.",
+  "example_ko": "모퉁이에 갓 구운 빵을 파는 작은 가게가 있어.",
+  "nuance_ko": "shop은 작은 상점을 가리키는 명사이고 미국에서는 store가 더 일반적이에요. 영국에서는 shop을 더 많이 써요. 동사로는 '쇼핑하다'(shop for shoes, shop online)예요. 'go shopping'은 쇼핑하러 가다로, go shop은 틀려요. 'talk shop'은 직장 얘기를 하다, 'set up shop'은 가게를 차리다는 관용 표현이에요. 'coffee shop', 'bookshop', 'barbershop'처럼 업종 앞에 붙은 합성어도 많아요.",
+  "also": [
+   {
+    "w": "shopping",
+    "pos": "n",
+    "ko": "쇼핑",
+    "en": "I do my **shopping** online these days."
+   },
+   {
+    "w": "shopper",
+    "pos": "n",
+    "ko": "쇼핑객",
+    "en": "The mall was full of **shoppers**."
+   }
+  ]
+ },
+ {
+  "w": "short",
+  "pos": "adj",
+  "meaning_ko": "짧은, 키가 작은, 부족한",
+  "example_en": "Could you keep the presentation **short**? We only have ten minutes.",
+  "example_ko": "발표를 짧게 해줄 수 있을까요? 10분밖에 없어요.",
+  "nuance_ko": "short는 길이·시간이 짧거나 키가 작은 것, 그리고 '부족한'(short of money)을 뜻해요. 'in short'는 한마디로, 'for short'는 줄여서 부르면, 'short of ~'는 ~이 부족한이에요. 'run short of ~'는 ~이 모자라게 되다예요. 영어에서 사람의 키가 작다고 하면 약간 직설적이어서 petite(아담한) 등 완곡어를 쓰기도 해요. 반대말은 long, tall이고 명사로는 반바지(shorts)와 단편 영화(a short)가 있어요.",
+  "also": [
+   {
+    "w": "shortage",
+    "pos": "n",
+    "ko": "부족",
+    "en": "There is a **shortage** of nurses."
+   },
+   {
+    "w": "shorten",
+    "pos": "v",
+    "ko": "줄이다",
+    "en": "Let's **shorten** the meeting to 30 minutes."
+   }
+  ]
+ },
+ {
+  "w": "should",
+  "pos": "v",
+  "meaning_ko": "~해야 한다, ~하는 게 좋겠다",
+  "example_en": "You **should** really see a doctor about that cough.",
+  "example_ko": "그 기침은 정말 병원에 가봐야 해.",
+  "nuance_ko": "should는 조언·권유·기대를 나타내는 조동사예요. must보다 약한 의무이고 '~하는 게 좋겠다'는 부드러운 충고에 가까워요. 'You should try this!'는 추천할 때 정말 자주 쓰고, 'It should be ready by Friday'는 예상('~일 거야')이에요. should have p.p.는 '~했어야 했는데'라는 후회예요. 가정법의 'If you should need help'는 만일의 경우를 말하는 격식체예요. 부정은 shouldn't이고 3인칭 s는 붙이지 않아요.",
+  "also": []
+ },
+ {
+  "w": "shoulder",
+  "pos": "n",
+  "meaning_ko": "어깨",
+  "example_en": "She leaned her head on my **shoulder** and fell asleep on the train.",
+  "example_ko": "그녀는 기차에서 내 어깨에 머리를 기대고 잠들었어.",
+  "nuance_ko": "shoulder는 어깨 부위이고 'shrug your shoulders'는 어깨를 으쓱하다예요. 'a shoulder to cry on'은 의지할 수 있는 사람을 뜻하고 'shoulder the responsibility'는 동사로 책임을 짊어지다예요. 'cold shoulder'는 냉대하다, 'shoulder-to-shoulder'는 서로 힘을 합쳐라는 뜻이에요. 도로의 갓길도 shoulder라고 해서 'the hard shoulder'(영국 고속도로 갓길)로 쓰여요.",
+  "also": [
+   {
+    "w": "shoulders",
+    "pos": "n",
+    "ko": "어깨(양쪽)",
+    "en": "He carries a heavy bag on his **shoulders**."
+   }
+  ]
+ },
+ {
+  "w": "shout",
+  "pos": "v",
+  "meaning_ko": "소리치다, 외치다",
+  "example_en": "There's no need to **shout**. I can hear you perfectly fine.",
+  "example_ko": "소리 지를 필요 없어. 잘 들려.",
+  "nuance_ko": "shout는 크게 소리치는 동작이고 분노·흥분·거리가 먼 상대를 부르는 상황에서 쓰여요. shout at ~는 화가 나서 고함치다이고 shout to ~는 멀리 있는 사람에게 소리쳐 알리다예요. 이 전치사 차이는 중요한 포인트예요. yell과 거의 같은 의미이고 scream은 공포나 고통의 비명을 뜻해요. 명사로 'give a shout'는 소리쳐 부르다 또는 영국 구어로 '연락 주다'예요. 'shout-out'은 감사 인사나 응원을 공개적으로 표현하는 것이에요.",
+  "also": [
+   {
+    "w": "shouted",
+    "pos": "v",
+    "ko": "소리쳤다",
+    "en": "He **shouted** across the street to me."
+   }
+  ]
+ },
+ {
+  "w": "show",
+  "pos": "v",
+  "meaning_ko": "보여주다, 쇼",
+  "example_en": "Can you **show** me how to use this new app?",
+  "example_ko": "이 새 앱 사용법을 보여줄 수 있어?",
+  "nuance_ko": "show는 눈에 보이게 하거나 증명하는 동작이에요. show + 사람 + 물건(show me the map), show + 대상 + to + 사람, 설명하다(show me how)로 써요. 변화형은 show-showed-shown이고 과거분사 shown이 흔하지만 shown 대신 showed도 쓰여요. 명사로는 방송 프로그램, 공연, 전시를 뜻해서 'TV show', 'a talk show'처럼 쓰여요. 'show up'은 나타나다, 'show off'는 자랑하다예요. 'for show'는 겉치레로, 'steal the show'는 주목을 독차지하다예요.",
+  "also": [
+   {
+    "w": "shown",
+    "pos": "v",
+    "ko": "보여졌다",
+    "en": "The results are **shown** in the table."
+   },
+   {
+    "w": "showing",
+    "pos": "n",
+    "ko": "상영, 보여주기",
+    "en": "The late **showing** starts at nine."
+   }
+  ]
+ },
+ {
+  "w": "shut",
+  "pos": "v",
+  "meaning_ko": "닫다, 닫히다",
+  "example_en": "Please **shut** the door quietly; the baby is asleep.",
+  "example_ko": "문 좀 조용히 닫아줘, 아기가 자고 있어.",
+  "nuance_ko": "shut은 문, 창문, 입 등을 닫는 동사로 close와 거의 같은 뜻이지만 shut이 조금 더 단호하고 구어적이에요. 변화형이 shut-shut-shut이에요. 'Shut up!'은 입 닫으라는 매우 무례한 명령이라 친구 사이 농담이 아니면 피하세요. shut down은 기계·공장·가게를 영구적으로 닫거나 종료하는 것이고 shut off는 전원이나 수도를 끄다예요. 형용사 shut은 서술적으로 'The door is shut'처럼 상태를 나타내요. 'shut-eye'는 잠이라는 구어예요.",
+  "also": [
+   {
+    "w": "shutting",
+    "pos": "v",
+    "ko": "닫는 중",
+    "en": "He was **shutting** the window when it rained."
+   }
+  ]
+ },
+ {
+  "w": "shy",
+  "pos": "adj",
+  "meaning_ko": "수줍은, 부끄러워하는",
+  "example_en": "He's a bit **shy** around new people, but he warms up quickly.",
+  "example_ko": "그는 처음 보는 사람 앞에선 좀 수줍어하지만 금방 편해져.",
+  "nuance_ko": "shy는 낯선 사람이나 사회적 상황에서 소극적이고 부끄러워하는 성격을 나타내요. 'a shy smile'(수줍은 미소), 'don't be shy'(부끄러워하지 마, 편하게 말해)처럼 일상에서 자주 써요. embarrassed는 어떤 사건으로 민망한 일시적 감정이고 shy는 성향에 가까워요. 'shy away from ~'은 ~을 피하다, 'camera-shy'는 사진 찍히는 걸 싫어하는 사람이에요. 'shy of ~'는 ~에 약간 모자라는(just shy of 100)이라는 숫자 표현에도 쓰여요.",
+  "also": [
+   {
+    "w": "shyness",
+    "pos": "n",
+    "ko": "수줍음",
+    "en": "She overcame her **shyness** to speak."
+   }
+  ]
+ },
+ {
+  "w": "sick",
+  "pos": "adj",
+  "meaning_ko": "아픈, 질린",
+  "example_en": "I'm feeling **sick** today, so I'll stay home and rest.",
+  "example_ko": "오늘 몸이 안 좋아서 집에서 쉴 거야.",
+  "nuance_ko": "sick은 몸이 아픈 상태를 말하는 형용사예요. 미국에서는 ill보다 sick이 일상적이고, 영국에서는 sick이 '토할 것 같은'이라는 뜻일 때가 많아요(I feel sick). call in sick은 병가를 내다이고 sick leave는 병가예요. 'be sick of ~'는 ~에 질리다(I'm sick of this), 'sick and tired of ~'는 지긋지긋하다예요. 슬랭으로 'That's sick!'은 '대박이다'라는 칭찬 의미일 수 있어서 맥락에 주의하세요.",
+  "also": [
+   {
+    "w": "sickness",
+    "pos": "n",
+    "ko": "병, 아픔",
+    "en": "Motion **sickness** ruined the trip."
+   }
+  ]
+ },
+ {
+  "w": "side",
+  "pos": "n",
+  "meaning_ko": "쪽, 측면, 편",
+  "example_en": "Which **side** of the bed do you usually sleep on?",
+  "example_ko": "보통 침대 어느 쪽에서 자?",
+  "nuance_ko": "side는 물체의 한쪽 면, 방향, 입장·편을 두루 가리켜요. 'on the left side', 'the other side of the story', 'take sides'(편을 들다)처럼 쓰여요. 'side by side'는 나란히, 'on the side'는 부업으로나 별도로, 'side effect'는 부작용, 'side dish'는 곁들임 요리예요. 'look on the bright side'는 긍정적인 면을 보라는 조언이에요. 형용사나 접두어로 쓰일 때 sideways는 옆으로, side job은 부업을 뜻해요.",
+  "also": [
+   {
+    "w": "sideways",
+    "pos": "adv",
+    "ko": "옆으로",
+    "en": "The crab walked **sideways** along the beach."
+   }
+  ]
+ },
+ {
+  "w": "sight",
+  "pos": "n",
+  "meaning_ko": "시력, 광경, 명소",
+  "example_en": "The mountain view was an amazing **sight** at sunrise.",
+  "example_ko": "일출 때 산의 경치는 정말 굉장한 광경이었어.",
+  "nuance_ko": "sight는 보는 능력(시력), 눈에 들어오는 광경, 관광 명소(sights)를 뜻해요. 'at first sight'는 첫눈에, 'out of sight, out of mind'는 눈에서 멀어지면 마음에서도 멀어진다는 속담이에요. 'in sight'는 보이는 범위에 있는, 'lose sight of ~'는 ~을 놓치다 또는 잊다예요. 'a sight for sore eyes'는 반가운 사람이나 풍경을 가리키는 관용구예요. 동사로 'sight land'(육지를 발견하다)처럼 쓰는 건 격식적이에요. 'sightseeing'은 관광이에요.",
+  "also": [
+   {
+    "w": "sights",
+    "pos": "n",
+    "ko": "명소, 볼거리",
+    "en": "We saw all the **sights** in Rome."
+   }
+  ]
+ },
+ {
+  "w": "sign",
+  "pos": "n",
+  "meaning_ko": "표지판, 징후, 서명하다",
+  "example_en": "Please **sign** here at the bottom of the page.",
+  "example_ko": "여기 페이지 맨 아래에 서명해 주세요.",
+  "nuance_ko": "sign은 명사로 표지판·징조·신호, 동사로 서명하다·수화하다를 뜻해요. 'a stop sign'(정지 표지판), 'a sign of spring'(봄의 징조), 'sign a contract'(계약서에 서명하다)처럼 쓰여요. 'sign up for ~'는 가입하다·등록하다, 'sign in/out'은 로그인·로그아웃이나 출입 기록이에요. 'sign off'는 마무리 인사를 하다 또는 승인하다예요. signature는 서명 자체이고 sign은 서명하는 행위이므로 sign my signature는 중복이에요.",
+  "also": [
+   {
+    "w": "signed",
+    "pos": "adj",
+    "ko": "서명된",
+    "en": "I need a **signed** copy of the contract."
+   },
+   {
+    "w": "signing",
+    "pos": "n",
+    "ko": "서명, 계약",
+    "en": "The **signing** ceremony begins at noon."
+   }
+  ]
+ },
+ {
+  "w": "silly",
+  "pos": "adj",
+  "meaning_ko": "어리석은, 바보 같은",
+  "example_en": "I made a **silly** mistake and sent the email to the wrong person.",
+  "example_ko": "바보 같은 실수를 해서 이메일을 엉뚱한 사람에게 보냈어.",
+  "nuance_ko": "silly는 가볍고 귀엽게 어리석다는 느낌의 형용사예요. stupid처럼 강하게 비난하지 않고 장난스러운 말투에 가까워서 친구나 아이에게 쓰기 좋아요. a silly question, a silly joke, don't be silly(바보같이 굴지 마)처럼 쓰여요. 'silly me'는 자신의 실수를 가볍게 인정하는 표현이에요. 'silly season'은 영국에서 뉴스가 한가한 여름철에 시시한 기사가 나오는 시기를 가리켜요. 놀리는 용도로 쓸 땐 친한 사이에서만 쓰세요.",
+  "also": [
+   {
+    "w": "sillier",
+    "pos": "adj",
+    "ko": "더 어리석은",
+    "en": "His jokes get **sillier** every day."
+   }
+  ]
+ },
+ {
+  "w": "simple",
+  "pos": "adj",
+  "meaning_ko": "간단한, 단순한",
+  "example_en": "The instructions are **simple**, so anyone can follow them.",
+  "example_ko": "설명서가 간단해서 누구든 따라 할 수 있어.",
+  "nuance_ko": "simple은 복잡하지 않고 이해하거나 하기 쉬운 것을 말해요. a simple solution, a simple life(소박한 삶)처럼 쓰이고 easy와 비슷하지만 simple은 구조가 단순하다는 점, easy는 노력이 적게 든다는 점이 달라요. 'It's as simple as that'은 그게 전부라는 구어이고 'Keep it simple'은 단순하게 하라는 조언이에요. 문법 용어로 simple past(단순 과거)가 있고 비꼴 때 'simple-minded'는 단순한 생각을 가진이라는 부정적 뉘앙스예요.",
+  "also": [
+   {
+    "w": "simply",
+    "pos": "adv",
+    "ko": "단순히, 정말로",
+    "en": "It's **simply** the best pizza I've had."
+   },
+   {
+    "w": "simplify",
+    "pos": "v",
+    "ko": "단순화하다",
+    "en": "We need to **simplify** the process."
+   }
+  ]
+ },
+ {
+  "w": "since",
+  "pos": "prep",
+  "meaning_ko": "~이래로, ~때문에",
+  "example_en": "I've lived in this city **since** I was a child.",
+  "example_ko": "난 어렸을 때부터 이 도시에서 살아왔어.",
+  "nuance_ko": "since는 쓰임이 두 가지예요. 시간을 나타내서 '~이래로'(since 2020, since I moved here)와, 이유를 나타내서 '~이므로'(Since it's raining, let's stay in)예요. 시간의 since는 현재완료와 함께 써서 'I've known her since 2015'처럼 시작점을 말해요. for(기간)와 구별하세요. since 뒤에는 시점이, for 뒤에는 기간이 와요. 이유의 since는 because보다 이미 상대가 아는 이유를 가볍게 언급할 때 자연스러워요. 문장 끝에서 'ever since'는 그때부터 쭉이라는 강조 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "sing",
+  "pos": "v",
+  "meaning_ko": "노래하다",
+  "example_en": "She loves to **sing** in the shower every morning.",
+  "example_ko": "그녀는 매일 아침 샤워하면서 노래 부르는 걸 좋아해.",
+  "nuance_ko": "sing은 노래하는 동작이고 변화형은 sing-sang-sung이에요. sing a song처럼 곡을 목적어로 하고 sing to ~는 ~에게 노래해 주다예요. 새가 지저귀는 것도 sing이라고 해서 'Birds sing in the morning'이 가능해요. 'sing along'은 따라 부르다, 'sing someone's praises'는 누구를 크게 칭찬하다라는 관용구예요. 'sing like a canary'는 비밀을 술술 불다라는 속어이니 문자 그대로 이해하면 안 돼요.",
+  "also": [
+   {
+    "w": "singer",
+    "pos": "n",
+    "ko": "가수",
+    "en": "She wants to become a **singer**."
+   },
+   {
+    "w": "singing",
+    "pos": "n",
+    "ko": "노래, 가창",
+    "en": "I took **singing** lessons last year."
+   }
+  ]
+ },
+ {
+  "w": "single",
+  "pos": "adj",
+  "meaning_ko": "단 하나의, 독신의",
+  "example_en": "Not a **single** person showed up to the meeting this morning.",
+  "example_ko": "오늘 아침 회의에 단 한 사람도 나타나지 않았어.",
+  "nuance_ko": "single은 '하나뿐인'과 '독신의' 두 가지가 핵심이에요. 'every single day'(하루도 빠짐없이), 'not a single ~'(하나도 ~않다)처럼 강조 용법으로 많이 써요. 사람에게는 'Are you single?'(싱글이야?)처럼 연애 상태를 묻는 표현이에요. 호텔에서 single room은 1인실이고 'single bed'는 1인용 침대예요. 영국 영어에서 single ticket은 편도표, 미국에서는 one-way ticket이라고 해요. 'single out'은 특정한 한 사람·한 가지를 골라내다라는 뜻이에요.",
+  "also": [
+   {
+    "w": "singles",
+    "pos": "n",
+    "ko": "독신자들, 싱글 앨범",
+    "en": "The party was for **singles** only."
+   }
+  ]
+ },
+ {
+  "w": "sir",
+  "pos": "n",
+  "meaning_ko": "선생님, 손님(남성 경칭)",
+  "example_en": "Excuse me, **sir**, you dropped your ticket on the floor.",
+  "example_ko": "실례합니다, 선생님, 표를 바닥에 떨어뜨리셨어요.",
+  "nuance_ko": "sir는 모르는 남성이나 존경하는 남성에게 쓰는 정중한 호칭이에요. 서비스 업계에서는 'Can I help you, sir?'처럼 손님에게 쓰고, 군대나 학교에서는 윗사람에게 'Yes, sir!'로 대답해요. 여성에게는 ma'am이나 madam을 써요. 편지 서두의 'Dear Sir or Madam'은 받는 사람을 모를 때 쓰는 격식 표현이에요. 영국에서는 Sir가 기사 작위 앞의 칭호(Sir Isaac Newton)로도 쓰여요. 성을 모르는 일반 상대에게는 이름 대신 쓰는 안전한 호칭이에요.",
+  "also": []
+ },
+ {
+  "w": "sister",
+  "pos": "n",
+  "meaning_ko": "언니, 누나, 여동생",
+  "example_en": "My older **sister** lives in London and works as a nurse.",
+  "example_ko": "우리 언니는 런던에 살면서 간호사로 일해.",
+  "nuance_ko": "sister는 자매를 가리키는 말이고, 영어는 한국어처럼 언니·여동생을 구분하지 않아서 필요하면 older sister, little sister라고 덧붙여요. 'half-sister'는 부모 중 한쪽만 같은 자매예요. 종교에서 수녀를 Sister라고 부르고, 영국에서는 수간호사를 뜻하기도 해요. 'sister city'(자매 도시)나 'sister company'(자매 회사)처럼 비유적으로 같은 계열을 나타내기도 해요. 친구끼리 'sis'라고 줄여 부르기도 해요.",
+  "also": [
+   {
+    "w": "sisterhood",
+    "pos": "n",
+    "ko": "자매애, 여성 연대",
+    "en": "The club promotes a sense of **sisterhood**."
+   }
+  ]
+ },
+ {
+  "w": "sit",
+  "pos": "v",
+  "meaning_ko": "앉다",
+  "example_en": "Please **sit** down and make yourself comfortable.",
+  "example_ko": "앉아서 편하게 계세요.",
+  "nuance_ko": "sit은 앉는 동작과 앉아 있는 상태를 모두 나타내요. 변화형은 sit-sat-sat이고 sit down은 앉는 동작, be sitting은 앉아 있는 상태예요. 'Have a seat'와 같은 뜻으로 'Take a seat'가 있지만, 명령형 'Sit!'는 개한테 하는 말처럼 들릴 수 있어요. 'sit back'은 느긋하게 있다, 'sit still'은 가만히 있다, 'sit in on ~'는 참관하다예요. 'babysit'은 아이를 봐주다예요. 시험을 치르다라는 뜻으로 영국에서는 'sit an exam'이라고 해요. set(놓다)과 헷갈리지 마세요.",
+  "also": [
+   {
+    "w": "sitting",
+    "pos": "n",
+    "ko": "앉아 있기, 한 차례",
+    "en": "We finished the meeting in one **sitting**."
+   },
+   {
+    "w": "sitter",
+    "pos": "n",
+    "ko": "돌보미",
+    "en": "We hired a **sitter** for the evening."
+   }
+  ]
+ },
+ {
+  "w": "situation",
+  "pos": "n",
+  "meaning_ko": "상황, 처지",
+  "example_en": "I'm in a tough **situation** and I don't know who to ask for help.",
+  "example_ko": "난 지금 힘든 상황인데 누구한테 도움을 청해야 할지 모르겠어.",
+  "nuance_ko": "situation은 특정 시점에 놓인 상황이나 처지를 뜻해요. 'in a difficult situation', 'the current situation', 'a win-win situation'처럼 쓰여요. 사람의 입장에서는 'What's your situation?'이 형편·상태를 묻는 질문이에요. 'emergency situation'(비상 상황), 'sticky situation'(곤란한 상황)처럼 형용사와 짝을 이루어 써요. 한국어 '상황'과 비슷하지만 영어는 circumstance(여건)와 달리 한 시점의 전반적인 상태를 가리켜요. 비즈니스 이메일에서 '현재 상황'을 설명할 때 매우 자주 나와요.",
+  "also": [
+   {
+    "w": "situated",
+    "pos": "adj",
+    "ko": "위치한",
+    "en": "The hotel is **situated** near the beach."
+   }
+  ]
+ },
+ {
+  "w": "six",
+  "pos": "num",
+  "meaning_ko": "여섯, 6",
+  "example_en": "The train arrives at exactly **six** o'clock every evening.",
+  "example_ko": "그 기차는 매일 저녁 정확히 6시에 도착해.",
+  "nuance_ko": "six는 숫자 6이고 sixteen(16)과 sixty(60)는 강세 위치가 달라서 헷갈려요. 'six-pack'은 맥주 6개들이 팩이나 복근을 뜻하고 'six of one, half a dozen of the other'는 어느 쪽이나 매한가지라는 관용 표현이에요. 'at sixes and sevens'는 혼란스러운 상태(영국 구어)를 가리켜요. 'sixth sense'는 육감이라는 뜻이에요. 서수 sixth는 /sɪksθ/로 발음하기 까다로워 학습자가 자주 어려워해요.",
+  "also": [
+   {
+    "w": "sixty",
+    "pos": "num",
+    "ko": "예순, 60",
+    "en": "The store has been open for **sixty** years."
+   },
+   {
+    "w": "sixth",
+    "pos": "num",
+    "ko": "여섯 번째",
+    "en": "He finished in **sixth** place."
+   }
+  ]
+ },
+ {
+  "w": "size",
+  "pos": "n",
+  "meaning_ko": "크기, 사이즈",
+  "example_en": "Do you have this jacket in a larger **size**?",
+  "example_ko": "이 재킷 더 큰 사이즈 있어요?",
+  "nuance_ko": "size는 물건이나 사람의 크기를 말하고 옷·신발의 사이즈도 포함해요. 'What size do you wear?'는 옷 사이즈를 묻는 말이고 'one size fits all'은 프리 사이즈라는 뜻이에요. 크기 표현에서는 'the size of ~'(~만한 크기)와 'medium-sized'(중간 크기의)처럼 하이픈 합성어도 자주 써요. 동사로 'size up'은 평가하다, 상황을 판단하다예요. 한국어의 '사이즈'가 크기와 치수 모두에 쓰이는 것처럼 영어 size도 두루 쓰여요.",
+  "also": [
+   {
+    "w": "sizes",
+    "pos": "n",
+    "ko": "여러 사이즈",
+    "en": "The shoes come in many **sizes**."
+   },
+   {
+    "w": "sizable",
+    "pos": "adj",
+    "ko": "꽤 큰",
+    "en": "He earned a **sizable** profit."
+   }
+  ]
+ },
+ {
+  "w": "skin",
+  "pos": "n",
+  "meaning_ko": "피부, 껍질",
+  "example_en": "The sun was so strong that my **skin** started to burn.",
+  "example_ko": "햇볕이 너무 강해서 피부가 타기 시작했어.",
+  "nuance_ko": "skin은 사람이나 동물의 피부이면서 과일·채소의 껍질도 가리켜요. 피부 상태는 dry skin, sensitive skin, skin care처럼 표현해요. 'by the skin of your teeth'는 아슬아슬하게, 'thick skin'은 비난에 신경 쓰지 않는 둔감함, 'get under someone's skin'은 신경을 건드리다라는 관용 표현이에요. 동사로 '껍질을 벗기다'(skin an apple)나 '살갗을 긁히다'(skin your knee)로도 써요. 컴퓨터에서 skin은 화면 테마를 뜻해요.",
+  "also": [
+   {
+    "w": "skinned",
+    "pos": "v",
+    "ko": "껍질 벗긴",
+    "en": "She **skinned** her knee when she fell."
+   }
+  ]
+ },
+ {
+  "w": "sky",
+  "pos": "n",
+  "meaning_ko": "하늘",
+  "example_en": "The **sky** turned orange and pink as the sun went down.",
+  "example_ko": "해가 지면서 하늘이 주황색과 분홍색으로 물들었어.",
+  "nuance_ko": "sky는 지상에서 올려다보는 하늘이고 보통 the sky로 써요. 'a blue sky', 'a cloudy sky', 'in the sky'처럼 말해요. 무한함을 뜻해서 'The sky's the limit'(한계란 없다)는 관용 표현이에요. 복수형 skies는 어떤 지역의 하늘 상태를 말할 때(clear skies, 맑은 하늘) 써요. heaven은 종교적 천국이나 문학적 하늘을 뜻하는 점이 달라요. 'sky-high'는 하늘을 찌를 듯한(가격이 엄청 비싼)이고 'skyscraper'는 마천루예요.",
+  "also": [
+   {
+    "w": "skies",
+    "pos": "n",
+    "ko": "하늘(복수)",
+    "en": "We expect clear **skies** all weekend."
+   }
+  ]
+ },
+ {
+  "w": "sleep",
+  "pos": "v",
+  "meaning_ko": "자다, 잠",
+  "example_en": "I couldn't **sleep** last night because of the loud neighbors.",
+  "example_ko": "시끄러운 이웃들 때문에 어젯밤에 잠을 못 잤어.",
+  "nuance_ko": "sleep은 잠을 자다(동사)와 잠(명사) 모두 되고 변화형은 sleep-slept-slept예요. 'go to sleep'은 잠들러 가다, 'fall asleep'은 잠에 빠져들다, 'sleep in'은 늦잠을 자다예요. 'get some sleep'은 잠을 좀 자다, 'sleep on it'은 하룻밤 생각해 보다는 관용구예요. 영어에서는 '잠을 많이 잔다'를 'sleep a lot'이라고 하고 'sleep well'은 잘 잤다는 뜻이에요. 한국어 '자다'에 비해 영어는 bed(잠자리에 들다)와 asleep(잠든 상태) 구분이 분명해요.",
+  "also": [
+   {
+    "w": "sleepy",
+    "pos": "adj",
+    "ko": "졸린",
+    "en": "I always feel **sleepy** after lunch."
+   },
+   {
+    "w": "sleeping",
+    "pos": "adj",
+    "ko": "자고 있는",
+    "en": "Please don't wake the **sleeping** baby."
+   }
+  ]
+ },
+ {
+  "w": "slight",
+  "pos": "adj",
+  "meaning_ko": "약간의, 사소한",
+  "example_en": "There was a **slight** delay, but the flight left on time.",
+  "example_ko": "약간 지연되긴 했지만 비행기는 제시간에 출발했어.",
+  "nuance_ko": "slight는 정도가 작거나 눈에 띄지 않는 '약간의'를 뜻해요. a slight cold, a slight difference처럼 사소한 정도를 나타내고 small보다 조금 격식 있는 느낌이에요. 'not in the slightest'는 조금도 ~아니다라는 강조 표현이에요. 사람에게는 '호리호리한'(a slight build)이라는 뜻도 있어요. 동사·명사로는 '무시하다, 모욕'(feel slighted)이라는 다른 용법도 있어요. 대개 명사 앞에서 쓰는 한정적 형용사예요.",
+  "also": [
+   {
+    "w": "slightly",
+    "pos": "adv",
+    "ko": "약간",
+    "en": "The price is **slightly** higher than before."
+   }
+  ]
+ },
+ {
+  "w": "slip",
+  "pos": "v",
+  "meaning_ko": "미끄러지다, 슬쩍 넣다",
+  "example_en": "Be careful not to **slip** on the wet floor near the pool.",
+  "example_ko": "수영장 근처의 젖은 바닥에서 미끄러지지 않게 조심해.",
+  "nuance_ko": "slip은 미끄러져 균형을 잃는 동작이고 슬쩍 움직이거나 빠져나가는 느낌도 있어요. 'slip on the ice'(얼음에서 미끄러지다), 'slip into ~'(살짝 들어가다/입다), 'slip away'(조용히 사라지다)처럼 쓰여요. 'slip up'은 작은 실수를 하다, 'a slip of the tongue'은 말실수예요. 'Let it slip'은 무심코 비밀을 흘리다이고 'give someone the slip'은 따돌리다예요. 명사 slip은 얇은 종이쪽(a slip of paper)이나 속옷 슬립도 가리켜요.",
+  "also": [
+   {
+    "w": "slipped",
+    "pos": "v",
+    "ko": "미끄러졌다",
+    "en": "She **slipped** and dropped her coffee."
+   }
+  ]
+ },
+ {
+  "w": "slow",
+  "pos": "adj",
+  "meaning_ko": "느린, 천천히",
+  "example_en": "The internet is really **slow** today, and I can't load anything.",
+  "example_ko": "오늘 인터넷이 정말 느려서 아무것도 안 열려.",
+  "nuance_ko": "slow는 속도가 느린 형용사이고 동사로는 '느려지다, 늦추다'(slow down)예요. 반대는 fast이고 부사는 slowly지만 도로 표지판의 'Slow down' 'Drive slow'처럼 구어에서는 slow도 부사로 쓰여요. 'slow and steady wins the race'는 느려도 꾸준한 게 이긴다는 속담이에요. 'slow on the uptake'는 이해가 느린이라는 구어이고, 시계가 느릴 때는 'My watch is slow'라고 해요. 사업이 부진한 상황도 'Business is slow'라고 표현해요.",
+  "also": [
+   {
+    "w": "slowly",
+    "pos": "adv",
+    "ko": "천천히",
+    "en": "Please speak more **slowly**."
+   },
+   {
+    "w": "slower",
+    "pos": "adj",
+    "ko": "더 느린",
+    "en": "This route is **slower** but safer."
+   }
+  ]
+ },
+ {
+  "w": "small",
+  "pos": "adj",
+  "meaning_ko": "작은",
+  "example_en": "We live in a **small** apartment, but it's cozy and warm.",
+  "example_ko": "우린 작은 아파트에 살지만 아늑하고 따뜻해.",
+  "nuance_ko": "small은 크기·양·규모가 작은 가장 기본 형용사예요. 반대는 big/large이고 little은 귀엽거나 감정이 담긴 작음에 쓰여요(a little girl). small은 객관적인 크기를 나타내서 'small business', 'small talk'(잡담), 'small change'(잔돈)처럼 쓰여요. 'in the small hours'는 한밤중이나 새벽 시간을 뜻해요. 'small print'는 계약서의 깨알 같은 조항을 말해요. 가격이 낮다는 의미로 쓰지 않는 점도 알아두세요.",
+  "also": [
+   {
+    "w": "smaller",
+    "pos": "adj",
+    "ko": "더 작은",
+    "en": "I need a **smaller** size."
+   },
+   {
+    "w": "smallest",
+    "pos": "adj",
+    "ko": "가장 작은",
+    "en": "That's the **smallest** room in the house."
+   }
+  ]
+ },
+ {
+  "w": "smell",
+  "pos": "v",
+  "meaning_ko": "냄새가 나다, 냄새를 맡다",
+  "example_en": "Something in the kitchen **smells** amazing. What are you cooking?",
+  "example_ko": "부엌에서 뭔가 엄청 좋은 냄새가 나는데, 뭐 만들고 있어?",
+  "nuance_ko": "smell은 냄새를 맡다(타동사)와 냄새가 나다(자동사)로 모두 써요. 'smell + 형용사'는 그런 냄새가 나다이고(smells good), 'smell of ~'는 ~의 냄새가 나다예요(smells of garlic). 명사로는 냄새 자체이고 좋은 냄새는 scent, 나쁜 냄새는 stench, 은은한 향은 aroma 등으로 구분해요. 아무 수식 없이 'It smells'는 안 좋은 냄새가 난다는 뜻으로 해석돼요. 'smell a rat'은 수상하다는 낌새를 채다라는 관용구예요.",
+  "also": [
+   {
+    "w": "smelly",
+    "pos": "adj",
+    "ko": "냄새나는",
+    "en": "These **smelly** socks need washing."
+   },
+   {
+    "w": "smelled",
+    "pos": "v",
+    "ko": "냄새가 났다",
+    "en": "The room **smelled** like fresh paint."
+   }
+  ]
+ },
+ {
+  "w": "smile",
+  "pos": "v",
+  "meaning_ko": "미소 짓다, 미소",
+  "example_en": "She didn't say anything; she just **smiled** and nodded.",
+  "example_ko": "그녀는 아무 말도 하지 않고 그냥 미소 지으며 고개를 끄덕였어.",
+  "nuance_ko": "smile은 소리 없이 입꼬리를 올리는 미소를 말해요. laugh는 소리 내어 웃는 것이고 smile은 조용한 웃음이에요. 'smile at ~'로 상대를 향해 웃고, 'give a smile'처럼 명사로도 써요. 'Smile!'은 사진 찍을 때 하는 말이고 'keep smiling'은 힘내라는 응원이에요. 'wipe the smile off one's face'는 득의양양한 표정을 지우다라는 관용 표현이에요. 'smile'은 감정뿐 아니라 예의상 미소나 억지웃음 같은 사회적 표정에도 자주 써요.",
+  "also": [
+   {
+    "w": "smiling",
+    "pos": "adj",
+    "ko": "웃고 있는",
+    "en": "The **smiling** waiter greeted us."
+   }
+  ]
+ },
+ {
+  "w": "smoke",
+  "pos": "n",
+  "meaning_ko": "연기, 담배를 피우다",
+  "example_en": "Thick **smoke** filled the kitchen when I burned the toast.",
+  "example_ko": "토스트를 태웠더니 부엌에 짙은 연기가 가득 찼어.",
+  "nuance_ko": "smoke는 불에서 나오는 연기(명사)와 담배를 피우는 행위(동사)를 가리켜요. 'No smoking'은 금연 표지, 'smoke detector'는 화재 감지기예요. 담배를 피우는지 물을 때는 'Do you smoke?'라고 하고, 흡연자는 smoker예요. 'Where there's smoke, there's fire'는 아니 땐 굴뚝에 연기 나랴와 같은 속담이고 'go up in smoke'는 계획이 수포로 돌아가다예요. 'smoked salmon'처럼 훈제한 음식에도 smoke에서 나온 말이 쓰여요.",
+  "also": [
+   {
+    "w": "smoking",
+    "pos": "n",
+    "ko": "흡연",
+    "en": "**Smoking** is not allowed in this building."
+   },
+   {
+    "w": "smoker",
+    "pos": "n",
+    "ko": "흡연자",
+    "en": "He quit being a heavy **smoker**."
+   }
+  ]
+ },
+ {
+  "w": "snow",
+  "pos": "n",
+  "meaning_ko": "눈, 눈이 오다",
+  "example_en": "It's supposed to **snow** all night, so the roads will be icy.",
+  "example_ko": "밤새 눈이 올 거라니까 도로가 얼 거야.",
+  "nuance_ko": "snow는 내리는 눈 또는 쌓인 눈이고 셀 수 없는 명사예요. 동사로는 'It snows'처럼 비인칭 주어 it을 써요. 'heavy snow', 'a snowstorm'(눈보라), 'snowed in'(눈 때문에 갇힌)처럼 쓰여요. 'snow-white'는 새하얀이고 'snowed under'는 일이 눈처럼 쌓여 허덕이는 상태를 뜻하는 관용구예요. 어린이가 하는 'build a snowman'은 눈사람 만들기예요. 눈이 오는 날씨를 'It's snowing'이라고 해요.",
+  "also": [
+   {
+    "w": "snowy",
+    "pos": "adj",
+    "ko": "눈 오는",
+    "en": "It was a cold and **snowy** morning."
+   }
+  ]
+ },
+ {
+  "w": "so",
+  "pos": "adv",
+  "meaning_ko": "너무, 그래서",
+  "example_en": "I was **so** tired that I fell asleep on the sofa.",
+  "example_ko": "너무 피곤해서 소파에서 잠들어 버렸어.",
+  "nuance_ko": "so는 쓰임이 아주 많은 단어예요. 부사로는 '매우'(so tired), 접속사로는 '그래서'(It rained, so we stayed home)이고 so that은 '~하기 위해서'예요. 'so + 형용사 + that 절'은 너무 ~해서 ~하다 구문이에요. 대화에서는 화제를 이어가는 담화 표지(So, what's next?)로, 'I think so'(그렇게 생각해)처럼 앞 문장을 대신하는 대용어로도 써요. such는 명사를 꾸밀 때, so는 형용사·부사를 꾸밀 때 쓴다는 점이 중요해요.",
+  "also": []
+ },
+ {
+  "w": "soft",
+  "pos": "adj",
+  "meaning_ko": "부드러운, 연한",
+  "example_en": "This blanket is so **soft** that I never want to get out of bed.",
+  "example_ko": "이 담요가 너무 부드러워서 침대에서 나오고 싶지 않아.",
+  "nuance_ko": "soft는 손으로 만졌을 때 부드럽다는 촉감, 소리가 작다(a soft voice), 온화하다(a soft heart)는 의미로 쓰여요. hard의 반대이고, smooth(매끄러운)와는 달리 말랑하고 포근한 느낌에 가까워요. 'soft drink'는 탄산음료 같은 무알콜 음료, 'soft skills'는 의사소통 같은 대인 능력, 'soft spot'은 약한 애정을 가진 대상이에요. 'software'도 soft에서 나온 합성어로 하드웨어와 대비되는 개념이에요. 음악에서 'soft music'은 잔잔한 음악이에요.",
+  "also": [
+   {
+    "w": "softly",
+    "pos": "adv",
+    "ko": "부드럽게, 조용히",
+    "en": "She spoke **softly** so as not to wake him."
+   },
+   {
+    "w": "soften",
+    "pos": "v",
+    "ko": "부드럽게 하다",
+    "en": "Add butter to **soften** the dough."
+   }
+  ]
+ },
+ {
+  "w": "some",
+  "pos": "det",
+  "meaning_ko": "약간의, 몇몇의",
+  "example_en": "Would you like **some** more coffee before we start?",
+  "example_ko": "시작하기 전에 커피 좀 더 드실래요?",
+  "nuance_ko": "some은 긍정문에서 막연한 양이나 수를 나타내는 한정사예요. 의문문에서 권유나 부탁(Would you like some tea?)을 할 때도 some을 써서 상대가 수락할 것을 기대하는 어감을 줘요. 일반 의문문과 부정문에서는 any를 쓰는 것이 원칙이에요. 강하게 발음하면 '어떤'이라는 뜻이 되기도 해요(Some people like it). 'some of the ~'는 부분을, 'some time'은 한동안, sometimes는 가끔을 뜻하니 구별하세요. something, someone도 모두 some에서 파생돼요.",
+  "also": [
+   {
+    "w": "sometimes",
+    "pos": "adv",
+    "ko": "가끔",
+    "en": "**Sometimes** I walk to work."
+   },
+   {
+    "w": "somewhere",
+    "pos": "adv",
+    "ko": "어딘가에",
+    "en": "I left my keys **somewhere** in the house."
+   }
+  ]
+ },
+ {
+  "w": "son",
+  "pos": "n",
+  "meaning_ko": "아들",
+  "example_en": "Their **son** just started college in Boston this fall.",
+  "example_ko": "그 집 아들이 이번 가을에 보스턴에서 대학교를 막 시작했어.",
+  "nuance_ko": "son은 아들을 가리키는 기본 단어예요. 영어는 첫째·둘째 아들을 따로 구분하지 않아서 'my oldest son', 'my younger son'처럼 설명을 덧붙여요. 'son-in-law'는 사위, 'stepson'은 의붓아들이에요. 윗사람이 젊은 남성을 친근하게 'son'이라고 부르기도 하는데, 상황에 따라 어려보이게 대하는 느낌이 있어요. 같은 발음의 sun(해)과 철자가 달라 /sʌn/으로 소리가 같아서 듣기에서 문맥으로 구별해야 해요. 'like father, like son'은 부전자전이라는 속담이에요.",
+  "also": [
+   {
+    "w": "sonny",
+    "pos": "n",
+    "ko": "얘야(친근한 호칭)",
+    "en": "Listen, **sonny**, I've been doing this for years."
+   }
+  ]
+ },
+ {
+  "w": "song",
+  "pos": "n",
+  "meaning_ko": "노래",
+  "example_en": "This **song** always reminds me of our summer trip to Jeju.",
+  "example_ko": "이 노래를 들으면 항상 우리 제주 여름 여행이 떠올라.",
+  "nuance_ko": "song은 가사가 있는 노래를 말하고, 가사 없는 곡은 tune이나 piece예요. 'sing a song', 'write a song', 'a love song'처럼 쓰이고 'theme song'은 주제곡이에요. 새의 지저귐도 song이라고 해요. 'for a song'은 헐값에, 'make a song and dance about ~'은 별것 아닌 일로 호들갑을 떨다라는 관용 표현이에요. 'songwriter'는 작곡·작사가예요. 한국어 '곡'과 '노래'를 둘 다 song으로 쓰는 경우가 많아요.",
+  "also": []
+ },
+ {
+  "w": "soon",
+  "pos": "adv",
+  "meaning_ko": "곧, 머지않아",
+  "example_en": "Don't worry, I'll be there **soon**. Just give me ten minutes.",
+  "example_ko": "걱정 마, 곧 도착할게. 10분만 줘.",
+  "nuance_ko": "soon은 지금으로부터 멀지 않은 가까운 미래를 나타내요. 'See you soon'은 헤어질 때 인사, 'as soon as possible'(ASAP)은 가능한 빨리예요. 'as soon as'는 접속사처럼 ~하자마자(as soon as I arrive)로 쓰고 이때 미래 시제 대신 현재 시제를 써요. 'soon after'는 직후에, 'too soon'은 너무 이른, 'no sooner ~ than'은 ~하자마자라는 격식 있는 표현이에요. 'Sooner or later'는 조만간이라는 흔한 관용구예요.",
+  "also": [
+   {
+    "w": "sooner",
+    "pos": "adv",
+    "ko": "더 빨리",
+    "en": "The **sooner**, the better."
+   }
+  ]
+ },
+ {
+  "w": "sorry",
+  "pos": "adj",
+  "meaning_ko": "미안한, 안타까운",
+  "example_en": "I'm **sorry** I'm late; the train was delayed again.",
+  "example_ko": "늦어서 미안, 기차가 또 지연됐어.",
+  "nuance_ko": "sorry는 사과와 동정 두 가지로 쓰여요. 'I'm sorry I'm late'는 사과이고 'I'm sorry to hear that'은 안타까운 소식에 대한 위로예요. 사과에 쓰는 'sorry for + 명사/-ing'와 'sorry that + 절' 구문이 있어요. 대화에서 'Sorry?'는 못 알아들었을 때 되묻는 말이고 'Sorry about that'은 가벼운 사과예요. 'feel sorry for ~'는 ~가 안됐다고 생각하다이고 지나치면 동정하는 뉘앙스가 될 수 있어요. apologize보다 일상적이고 가볍게 쓸 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "sort",
+  "pos": "n",
+  "meaning_ko": "종류, 분류하다",
+  "example_en": "What **sort** of music do you usually listen to when you work?",
+  "example_ko": "일할 때 보통 어떤 종류의 음악을 들어?",
+  "nuance_ko": "sort는 명사로 '종류'(kind와 비슷), 동사로 '분류하다, 정리하다'를 뜻해요. 'What sort of ~?'는 어떤 종류의 ~인지 물을 때 쓰고 'a sort of ~'는 일종의 ~라는 애매한 표현이에요. 'sort of'를 구어에서 부사처럼 '약간, 좀'(It's sort of boring)으로 쓰기도 해요. 'sort out'은 문제를 해결하다/정리하다, 'sort through'는 물건을 하나씩 뒤져 정리하다예요. 컴퓨터에서 데이터를 정렬(sort)하는 것도 같은 뜻이에요.",
+  "also": [
+   {
+    "w": "sorts",
+    "pos": "n",
+    "ko": "종류들",
+    "en": "They sell all **sorts** of cheese."
+   }
+  ]
+ },
+ {
+  "w": "sound",
+  "pos": "n",
+  "meaning_ko": "소리, ~처럼 들리다",
+  "example_en": "That plan **sounds** great. Let's go ahead and book it.",
+  "example_ko": "그 계획 좋은데. 바로 예약하자.",
+  "nuance_ko": "sound는 명사 '소리'와 동사 '~처럼 들리다'로 많이 써요. 동사 sound + 형용사(sounds good, sounds interesting)는 상대의 제안이나 말에 반응하는 가장 흔한 구어 표현이에요. 'It sounds like ~' 뒤에는 명사나 절이 와요. 형용사 sound는 '건전한, 타당한'(sound advice, 합리적인 조언)이나 '깊은'(a sound sleep)이라는 전혀 다른 뜻이에요. 'safe and sound'(무사히)는 관용 표현이에요. noise는 불쾌한 소리, sound는 중립적인 소리라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "sounds",
+    "pos": "n",
+    "ko": "소리들",
+    "en": "I love the **sounds** of the forest."
+   }
+  ]
+ },
+ {
+  "w": "south",
+  "pos": "n",
+  "meaning_ko": "남쪽, 남",
+  "example_en": "We're driving **south** to avoid the snow in the mountains.",
+  "example_ko": "산악 지대 눈을 피하려고 남쪽으로 운전해 가는 중이야.",
+  "nuance_ko": "south는 방위 '남쪽'이고 명사(in the south), 형용사(the south coast), 부사(drive south)로 두루 쓰여요. 방향 부사로 쓸 때 전치사 to를 붙이지 않아요(go south). 한 나라의 남부는 the South라고 대문자로 쓰고, 미국에서는 남부 주들을 가리킬 때 많이 써요. 'South Korea'는 한국의 영어 이름이에요. 'head south'는 비유적으로 상황이 나빠지다 또는 하락하다는 구어 용법이에요. southern은 남쪽의 형용사이고 southerly는 남쪽에서 불어오는 바람을 가리켜요.",
+  "also": []
+ },
+ {
+  "w": "space",
+  "pos": "n",
+  "meaning_ko": "공간, 우주, 간격",
+  "example_en": "We need more storage **space** in our small apartment.",
+  "example_ko": "우리 작은 아파트에는 수납 공간이 더 필요해.",
+  "nuance_ko": "space는 비어 있는 공간, 우주, 글자 사이의 간격 등 여러 의미를 갖는 셀 수 없는 명사예요. 'parking space'(주차 공간), 'outer space'(우주), 'personal space'(개인 공간)처럼 쓰여요. room이 필요한 여유를 강조한다면 space는 더 넓고 일반적인 빈 공간을 가리켜요. 'watch this space'는 곧 소식이 있을 거라는 광고성 표현이고 'give someone space'는 혼자 있을 시간을 주다예요. 동사로는 'space out'이 멍하니 있다 또는 간격을 두다는 구어 표현이에요.",
+  "also": [
+   {
+    "w": "spacious",
+    "pos": "adj",
+    "ko": "널찍한",
+    "en": "The living room is bright and **spacious**."
+   },
+   {
+    "w": "spaces",
+    "pos": "n",
+    "ko": "공간들",
+    "en": "The mall has plenty of parking **spaces**."
+   }
+  ]
+ },
+ {
+  "w": "speak",
+  "pos": "v",
+  "meaning_ko": "말하다, 이야기하다",
+  "example_en": "Do you **speak** any other languages besides English and Korean?",
+  "example_ko": "영어랑 한국어 말고 다른 언어도 할 줄 알아?",
+  "nuance_ko": "speak는 말하는 능력이나 공식적·일방적인 말하기에 초점이 있어요. speak English(영어를 할 줄 알다), speak to/with ~(~와 이야기하다)처럼 써요. 전화에서 'Who's speaking?', 'Speaking.'(전데요)은 자주 나오는 표현이에요. 변화형은 speak-spoke-spoken이에요. talk가 대화, say가 내용, tell이 전달이라면 speak는 언어 능력과 발언 자체를 뜻해요. 'speak up'은 더 크게 말하다 또는 의견을 말하다, 'so to speak'는 말하자면이라는 삽입구예요.",
+  "also": [
+   {
+    "w": "speaker",
+    "pos": "n",
+    "ko": "화자, 연사, 스피커",
+    "en": "The guest **speaker** was very inspiring."
+   },
+   {
+    "w": "spoken",
+    "pos": "adj",
+    "ko": "구어의, 말로 하는",
+    "en": "I prefer **spoken** English practice."
+   }
+  ]
+ },
+ {
+  "w": "special",
+  "pos": "adj",
+  "meaning_ko": "특별한",
+  "example_en": "I want to do something **special** for her birthday this year.",
+  "example_ko": "올해 그녀 생일에는 뭔가 특별한 걸 해주고 싶어.",
+  "nuance_ko": "special은 평범하지 않고 의미 있는 '특별한'이라는 뜻이에요. something special, special occasion, special offer처럼 쓰고 anything special은 부정문·의문문에서 쓰는 형태예요. 명사로는 '특별 메뉴, 특선'(today's special)이나 TV 특집 방송을 가리켜요. special과 specific(구체적인)을 헷갈리지 마세요. 'nothing special'은 별것 아닌, 평범한이라는 뜻이라서 영화나 음식 평가에서 자주 나와요. 부사 especially(특히)는 형태가 약간 다르니 주의하세요.",
+  "also": [
+   {
+    "w": "specially",
+    "pos": "adv",
+    "ko": "특별히",
+    "en": "This cake was made **specially** for you."
+   },
+   {
+    "w": "specialist",
+    "pos": "n",
+    "ko": "전문가",
+    "en": "You should see a heart **specialist**."
+   }
+  ]
+ },
+ {
+  "w": "spend",
+  "pos": "v",
+  "meaning_ko": "쓰다, 보내다",
+  "example_en": "I like to **spend** my weekends hiking in the mountains.",
+  "example_ko": "난 주말을 산에서 하이킹하며 보내는 걸 좋아해.",
+  "nuance_ko": "spend는 돈을 쓰거나 시간을 보내는 두 가지 뜻이 있고 변화형은 spend-spent-spent예요. spend money on ~(~에 돈을 쓰다), spend time -ing(~하며 시간을 보내다)에서 on과 -ing 구조가 핵심이에요. 시간을 보낼 때는 'spend time with ~'(~와 시간을 보내다)가 자주 나와요. waste는 낭비하다이고 spend는 가치 중립적으로 쓰다예요. 'spend a fortune'은 큰돈을 쓰다, 'spend the night'는 하룻밤 묵다예요. 한국어 '시간을 보내다'를 send로 번역하는 실수를 하지 마세요.",
+  "also": [
+   {
+    "w": "spending",
+    "pos": "n",
+    "ko": "지출, 소비",
+    "en": "Government **spending** rose last year."
+   },
+   {
+    "w": "spent",
+    "pos": "v",
+    "ko": "썼다, 보냈다",
+    "en": "I **spent** two hours on the report."
+   }
+  ]
+ },
+ {
+  "w": "sport",
+  "pos": "n",
+  "meaning_ko": "스포츠, 운동",
+  "example_en": "Soccer is the most popular **sport** in the world.",
+  "example_ko": "축구는 세계에서 가장 인기 있는 스포츠야.",
+  "nuance_ko": "sport는 경기나 운동 종목을 가리키는 셀 수 있는 명사예요. 'What sport do you play?'(무슨 운동 해?)처럼 쓰고 총칭할 때는 영국 영어에서 'do sport'라고 하는 반면 미국에서는 복수 sports를 써요('I like sports'). 'be a good sport'는 지더라도 깔끔하게 인정하는 사람, 'sports car'는 스포츠카예요. 동사로는 '과시하듯 입다'(sport a new hairstyle)라는 격식 있는 용법도 있어요. exercise는 건강을 위한 운동이고 sport는 규칙이 있는 경기라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "sports",
+    "pos": "n",
+    "ko": "스포츠(총칭)",
+    "en": "I watch **sports** on TV every weekend."
+   },
+   {
+    "w": "sporty",
+    "pos": "adj",
+    "ko": "스포티한, 운동을 잘하는",
+    "en": "She has a **sporty** style."
+   }
+  ]
+ },
+ {
+  "w": "spot",
+  "pos": "n",
+  "meaning_ko": "장소, 점, 발견하다",
+  "example_en": "This is my favorite **spot** to watch the sunset in the city.",
+  "example_ko": "여기가 이 도시에서 노을 보기 제일 좋아하는 곳이야.",
+  "nuance_ko": "spot은 특정한 작은 장소, 점·얼룩, 그리고 동사로 '발견하다'를 뜻해요. 'a nice spot for a picnic'(소풍하기 좋은 곳), 'a spot on the shirt'(셔츠의 얼룩), 'spot a mistake'(실수를 찾아내다)처럼 쓰여요. 'on the spot'은 즉석에서, 현장에서, 'hit the spot'은 (음식이) 딱 먹고 싶던 것이어서 만족스럽다는 관용구예요. 'blind spot'은 사각지대이고 비유로 자신이 모르는 약점도 뜻해요. 'put someone on the spot'은 곤란한 질문으로 몰아붙이다예요.",
+  "also": [
+   {
+    "w": "spotted",
+    "pos": "v",
+    "ko": "발견했다",
+    "en": "I **spotted** an old friend in the crowd."
+   },
+   {
+    "w": "spotless",
+    "pos": "adj",
+    "ko": "티끌 하나 없는",
+    "en": "Her kitchen is always **spotless**."
+   }
+  ]
+ },
+ {
+  "w": "spring",
+  "pos": "n",
+  "meaning_ko": "봄, 용수철, 샘",
+  "example_en": "The cherry blossoms bloom everywhere in **spring**.",
+  "example_ko": "봄이 되면 벚꽃이 사방에서 피어나.",
+  "nuance_ko": "spring은 계절 봄이면서 용수철(a spring), 샘(a hot spring, 온천)이라는 다른 뜻도 가진 단어예요. 계절 앞에는 in spring 또는 in the spring을 쓰고 'last spring', 'next spring'은 전치사 없이 써요. 동사 spring은 '튀어 오르다, 갑자기 나타나다'(spring up)이고 변화형은 spring-sprang-sprung이에요. 'spring cleaning'은 봄맞이 대청소, 'spring break'는 미국 대학생의 봄방학이에요. 'spring to mind'는 문득 떠오르다라는 표현이에요.",
+  "also": [
+   {
+    "w": "springs",
+    "pos": "n",
+    "ko": "샘, 온천",
+    "en": "We visited the hot **springs** in winter."
+   }
+  ]
+ },
+ {
+  "w": "square",
+  "pos": "n",
+  "meaning_ko": "정사각형, 광장",
+  "example_en": "Let's meet in the town **square** next to the old clock tower.",
+  "example_ko": "오래된 시계탑 옆 마을 광장에서 만나자.",
+  "nuance_ko": "square는 정사각형(명사·형용사)이고 도시의 광장(Times Square), 제곱수(the square of 3)를 뜻하기도 해요. 'a square meal'은 푸짐한 한 끼, 'square one'은 출발점이라 'back to square one'은 처음부터 다시라는 뜻이에요. 'fair and square'는 정정당당하게, 'a square peg in a round hole'은 어울리지 않는 사람이라는 관용구예요. 동사로 'square up'은 정산하다 또는 맞서다예요. 면적 단위의 'square meters'는 평방미터를 말해요.",
+  "also": [
+   {
+    "w": "squares",
+    "pos": "n",
+    "ko": "정사각형들, 광장들",
+    "en": "The cloth has red and white **squares**."
+   },
+   {
+    "w": "squared",
+    "pos": "adj",
+    "ko": "제곱의",
+    "en": "Five **squared** is twenty-five."
+   }
+  ]
+ },
+ {
+  "w": "stage",
+  "pos": "n",
+  "meaning_ko": "무대, 단계",
+  "example_en": "The project is still in the early **stage**, so nothing is final.",
+  "example_ko": "프로젝트는 아직 초기 단계라서 확정된 건 아무것도 없어.",
+  "nuance_ko": "stage는 무대와 과정의 한 '단계'라는 두 가지 뜻이 중요해요. 'on stage'는 무대 위에서, 'stage fright'은 무대 공포증, 'at this stage'는 현 단계에서, 'in the early stages'는 초기 단계에서예요. 'set the stage for ~'는 ~의 무대를 마련하다, 즉 준비 조건을 만들다예요. 동사로 'stage a show'(공연을 올리다)나 'stage a protest'(시위를 벌이다)처럼 계획해서 실행하는 일에도 써요. step이 구체적인 행동이라면 stage는 진행 과정의 구분을 말해요.",
+  "also": [
+   {
+    "w": "staged",
+    "pos": "adj",
+    "ko": "연출된, 계획된",
+    "en": "The photo looked **staged** rather than natural."
+   }
+  ]
+ },
+ {
+  "w": "stand",
+  "pos": "v",
+  "meaning_ko": "서다, 참다",
+  "example_en": "I can't **stand** waiting in long lines at the airport.",
+  "example_ko": "공항에서 긴 줄 서서 기다리는 건 정말 못 참겠어.",
+  "nuance_ko": "stand의 기본은 '서 있다'이고 확장되어 '견디다, 참다'(can't stand ~, ~을 못 참다), '입장을 취하다'(stand for/against)로 쓰여요. 변화형은 stand-stood-stood이에요. 'stand up'(일어서다), 'stand by'(대기하다/지지하다), 'stand out'(눈에 띄다), 'stand for'(~을 상징하다)처럼 구동사가 많아요. 명사 stand는 판매대(a hot dog stand)나 입장(take a stand)을 뜻해요. 'can't stand'는 'don't like'보다 훨씬 강한 혐오 표현이에요.",
+  "also": [
+   {
+    "w": "standing",
+    "pos": "n",
+    "ko": "지위, 서 있음",
+    "en": "His **standing** in the company is high."
+   },
+   {
+    "w": "stood",
+    "pos": "v",
+    "ko": "섰다",
+    "en": "She **stood** by the window all night."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1282 @@
+[
+ {
+  "w": "molecule",
+  "pos": "n",
+  "meaning_ko": "분자",
+  "example_en": "Water is made of two hydrogen atoms and one oxygen atom in each **molecule**.",
+  "example_ko": "물은 분자 하나마다 수소 원자 두 개와 산소 원자 한 개로 이루어져 있어요.",
+  "nuance_ko": "molecule은 원자가 결합해서 이루어진 물질의 가장 작은 단위를 뜻해요. H2O처럼 두 종류 이상의 원자가 묶인 경우가 대표적이고, O2처럼 같은 원자끼리 묶인 것도 분자예요. atom(원자)은 그보다 더 작은 기본 단위라는 점이 차이예요. 과학 수업, 뉴스 속 신약 개발 기사에서 자주 나와요. 발음은 [마-리-큘]처럼 3음절이고 강세는 맨 앞에 있어요.",
+  "also": [
+   {
+    "w": "molecular",
+    "pos": "adj",
+    "ko": "분자의",
+    "en": "She studies **molecular** biology at the university."
+   }
+  ]
+ },
+ {
+  "w": "monitor",
+  "pos": "v",
+  "meaning_ko": "감시하다, 추적 관찰하다",
+  "example_en": "Nurses **monitor** her heart rate throughout the night.",
+  "example_ko": "간호사들이 밤새 그녀의 심박수를 계속 확인해요.",
+  "nuance_ko": "monitor는 어떤 상태를 일정 기간 계속 지켜보며 점검한다는 뜻의 동사예요. 환자의 상태, 서버 성능, 날씨 변화처럼 변하는 것을 주시할 때 써요. watch보다 목적이 있고 체계적이며 기록하는 느낌이에요. 명사로는 컴퓨터 모니터 화면이나 감시 장치도 가리켜요. 한국어 모니터링은 명사형 monitoring과 같고 monitor the situation 같은 짝꿍이 뉴스에 자주 나와요.",
+  "also": [
+   {
+    "w": "monitoring",
+    "pos": "n",
+    "ko": "모니터링, 감시",
+    "en": "Regular **monitoring** helps catch problems early."
+   }
+  ]
+ },
+ {
+  "w": "monster",
+  "pos": "n",
+  "meaning_ko": "괴물, 엄청나게 큰 것",
+  "example_en": "The kids were scared there was a **monster** under the bed.",
+  "example_ko": "아이들은 침대 밑에 괴물이 있을까 봐 무서워했어요.",
+  "nuance_ko": "monster는 상상 속의 무서운 괴물을 가리키지만 비유적 용법도 많아요. 잔인한 사람을 가리켜 '인간 같지 않은 괴물'이라고 할 때도 써요. 크기나 강도가 엄청나다는 의미로 a monster truck, a monster hit처럼 형용사적으로도 써요. 귀여운 맥락에서 아이를 장난스럽게 little monster라고 부르기도 해요. 문맥에 따라 무서움부터 친근함까지 폭이 넓어요.",
+  "also": [
+   {
+    "w": "monstrous",
+    "pos": "adj",
+    "ko": "괴물 같은, 끔찍한",
+    "en": "It was a **monstrous** crime that shocked the entire country."
+   }
+  ]
+ },
+ {
+  "w": "moral",
+  "pos": "adj",
+  "meaning_ko": "도덕적인, 윤리적인",
+  "example_en": "She felt a **moral** duty to tell the truth, even though it was hard.",
+  "example_ko": "그녀는 힘들더라도 진실을 말해야 한다는 도덕적 의무감을 느꼈어요.",
+  "nuance_ko": "moral은 옳고 그름에 대한 기준과 관련된 형용사예요. moral duty, moral support, moral values 같은 짝꿍이 흔해요. moral support는 법적·실질적 도움이 아니라 정서적으로 옆에서 응원해 주는 걸 뜻해요. 명사로는 이야기의 교훈(the moral of the story)이라는 뜻이에요. ethical은 전문 직업이나 원칙 맥락, moral은 개인의 양심과 가치관 맥락에서 더 자주 써요.",
+  "also": [
+   {
+    "w": "morality",
+    "pos": "n",
+    "ko": "도덕성",
+    "en": "People often debate the **morality** of using animals in tests."
+   },
+   {
+    "w": "morally",
+    "pos": "adv",
+    "ko": "도덕적으로",
+    "en": "It's **morally** wrong to lie to your friends."
+   }
+  ]
+ },
+ {
+  "w": "moreover",
+  "pos": "adv",
+  "meaning_ko": "게다가, 더욱이",
+  "example_en": "The apartment is cheap; **moreover**, it's close to the station.",
+  "example_ko": "그 아파트는 싼 데다가 역에서도 가까워요.",
+  "nuance_ko": "moreover는 앞 내용에 이어 더 중요하거나 강한 정보를 추가할 때 쓰는 접속부사예요. furthermore, in addition과 비슷하게 글에서 논리를 쌓아 가는 용도예요. 일상 회화에서는 거의 안 쓰고 에세이, 발표, 보고서에서 많이 나와요. 문장 맨 앞이나 세미콜론 뒤에서 Moreover,처럼 쉼표와 함께 써요. 한국 학습자들은 also와 같은 위치에 쓰는 실수를 하기도 해요.",
+  "also": []
+ },
+ {
+  "w": "mortal",
+  "pos": "adj",
+  "meaning_ko": "죽을 운명의, 치명적인",
+  "example_en": "We are all **mortal**, so we should enjoy every day we have.",
+  "example_ko": "우리는 모두 언젠가 죽으니까 하루하루를 즐겨야 해요.",
+  "nuance_ko": "mortal은 언젠가 죽는 존재라는 기본 뜻의 형용사예요. 반대말은 immortal(불멸의)이에요. mortal danger, mortal wound처럼 '치명적인'이란 뜻으로도 써요. 명사로 mortals는 신화에서 신에 대비되는 보통 사람들을 가리켜요. mere mortals는 '평범한 우리 같은 사람들'이라는 장난스러운 표현이에요. 문학적이고 무거운 느낌이 있어요.",
+  "also": [
+   {
+    "w": "mortality",
+    "pos": "n",
+    "ko": "사망률, 죽음",
+    "en": "The country has a very low infant **mortality** rate."
+   },
+   {
+    "w": "immortal",
+    "pos": "adj",
+    "ko": "불멸의",
+    "en": "The poet's words are **immortal**."
+   }
+  ]
+ },
+ {
+  "w": "mortgage",
+  "pos": "n",
+  "meaning_ko": "주택담보대출",
+  "example_en": "We still have fifteen years left to pay off our **mortgage**.",
+  "example_ko": "우리 주택담보대출은 아직 15년이나 더 갚아야 해요.",
+  "nuance_ko": "mortgage는 집을 담보로 은행에서 빌리는 대출이에요. take out a mortgage, pay off a mortgage, mortgage rate 같은 짝꿍이 자주 나와요. 발음에서 t는 소리 나지 않아 [모-기지]에 가까워요. loan은 일반 대출이고 mortgage는 부동산 담보라는 점이 핵심이에요. 미국과 영국 모두에서 일상 대화의 단골 주제이고 뉴스에서 금리와 함께 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "motion",
+  "pos": "n",
+  "meaning_ko": "움직임, 동작, 동의(안)",
+  "example_en": "The boat rocked gently, and the slow **motion** made me sleepy.",
+  "example_ko": "배가 잔잔하게 흔들렸고 그 느린 움직임에 졸음이 왔어요.",
+  "nuance_ko": "motion은 움직이는 상태나 동작을 가리켜요. in motion은 '움직이고 있는', set something in motion은 '일을 시작시키다'예요. slow motion은 느린 화면을 뜻해요. 회의에서는 안건을 정식으로 제안하는 motion이 있어서 I move to ~로 시작해요. 동사로는 손짓으로 신호를 보낸다는 뜻도 있어요. movement보다 물리적 움직임 자체에 초점이 있어요.",
+  "also": [
+   {
+    "w": "motionless",
+    "pos": "adj",
+    "ko": "움직이지 않는",
+    "en": "The deer stood **motionless** in the road."
+   }
+  ]
+ },
+ {
+  "w": "motive",
+  "pos": "n",
+  "meaning_ko": "동기, 이유",
+  "example_en": "The police still can't figure out the **motive** behind the robbery.",
+  "example_ko": "경찰은 아직 그 강도 사건의 동기를 파악하지 못했어요.",
+  "nuance_ko": "motive는 어떤 행동을 하게 만든 이유, 특히 숨은 의도나 목적을 가리켜요. 범죄 수사에서 motive and opportunity처럼 자주 나와요. motivation은 일을 하려는 의욕이나 의지 쪽이라 약간 다르게 쓰여요. 좋은 동기도 말하지만 ulterior motive(숨은 속셈)처럼 의심스러운 의도에 많이 써요. 가산명사라서 a motive, motives로 써요.",
+  "also": [
+   {
+    "w": "motivation",
+    "pos": "n",
+    "ko": "동기 부여, 의욕",
+    "en": "I'm struggling to find the **motivation** to exercise."
+   },
+   {
+    "w": "motivate",
+    "pos": "v",
+    "ko": "동기를 부여하다",
+    "en": "Good teachers know how to **motivate** their students."
+   }
+  ]
+ },
+ {
+  "w": "multiple",
+  "pos": "adj",
+  "meaning_ko": "다수의, 여러 개의",
+  "example_en": "I got **multiple** calls from the bank this morning.",
+  "example_ko": "오늘 아침에 은행에서 전화가 여러 통 왔어요.",
+  "nuance_ko": "multiple은 둘 이상으로 여러 개라는 뜻의 형용사로, many보다 격식 있고 수량이 정확히 정해지지 않았을 때 써요. multiple choice는 객관식, multiple times는 여러 번이에요. 명사로는 배수를 뜻해서 6 is a multiple of 3처럼 써요. several과 달리 정해진 숫자 이상으로 많다는 느낌이 있고 공식 문서에서 자주 보여요.",
+  "also": []
+ },
+ {
+  "w": "museum",
+  "pos": "n",
+  "meaning_ko": "박물관, 미술관",
+  "example_en": "We spent the whole afternoon at the science **museum**.",
+  "example_ko": "우리는 오후 내내 과학 박물관에서 보냈어요.",
+  "nuance_ko": "museum은 역사, 과학, 예술 등의 유물과 작품을 전시하는 박물관이에요. 미술 작품 중심이면 art museum이나 gallery라고도 불러요. 강세가 두 번째 음절 -se-에 있어서 [뮤지-엄]으로 발음해요. go to the museum, visit a museum처럼 정관사나 부정관사를 붙여요. 한국어 박물관·미술관·기념관이 모두 museum으로 번역되는 경우가 많아요.",
+  "also": []
+ },
+ {
+  "w": "mutual",
+  "pos": "adj",
+  "meaning_ko": "서로의, 공통의",
+  "example_en": "We have a **mutual** friend who introduced us.",
+  "example_ko": "우리를 소개해 준 공통의 친구가 있어요.",
+  "nuance_ko": "mutual은 둘 이상이 서로에게 같은 감정이나 행동을 주고받는 상호의 상태를 가리켜요. mutual respect, mutual understanding, mutual benefit이 대표 짝꿍이에요. a mutual friend는 둘 모두가 아는 친구라는 뜻으로 쓰여요. The feeling is mutual은 '나도 같은 마음이야'라는 대화체 표현이에요. 한국 학습자는 common friend와 혼동하는데 mutual friend가 더 자연스러워요.",
+  "also": [
+   {
+    "w": "mutually",
+    "pos": "adv",
+    "ko": "상호간에",
+    "en": "The two ideas are not **mutually** exclusive."
+   }
+  ]
+ },
+ {
+  "w": "myth",
+  "pos": "n",
+  "meaning_ko": "신화, 근거 없는 통념",
+  "example_en": "It's a **myth** that we only use ten percent of our brains.",
+  "example_ko": "우리가 뇌의 10퍼센트만 쓴다는 건 잘못된 통념이에요.",
+  "nuance_ko": "myth는 신들과 영웅에 관한 옛 이야기, 즉 신화를 뜻해요. 일상에서는 널리 퍼졌지만 사실이 아닌 믿음이라는 뜻으로 더 자주 써요. It's a myth that ~ 형태가 대표적이에요. 반대로 사실을 확인해 주는 myth-busting은 통념 깨기를 뜻해요. 신화라는 뜻과 오해라는 뜻을 모두 알고 있어야 문맥을 이해할 수 있어요.",
+  "also": [
+   {
+    "w": "mythical",
+    "pos": "adj",
+    "ko": "신화 속의, 가공의",
+    "en": "The dragon is a **mythical** creature."
+   }
+  ]
+ },
+ {
+  "w": "naked",
+  "pos": "adj",
+  "meaning_ko": "벌거벗은, 가려지지 않은",
+  "example_en": "The baby ran around **naked** after the bath.",
+  "example_ko": "아기는 목욕 뒤에 벌거벗은 채로 뛰어다녔어요.",
+  "nuance_ko": "naked는 옷을 입지 않은 알몸 상태를 가리켜요. nude는 예술이나 중립적인 맥락에서 쓰는 약간 다른 단어고 naked는 더 일반적이고 직접적이에요. 비유적으로 가려지지 않았다는 뜻으로 the naked eye(맨눈), naked truth(적나라한 진실)처럼 써요. 아기나 동물이 옷을 안 입은 모습을 중립적으로 묘사할 때도 써요. 격식 있는 대화에서는 조심해서 쓰는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "narrate",
+  "pos": "v",
+  "meaning_ko": "이야기를 들려주다, 내레이션하다",
+  "example_en": "A famous actor will **narrate** the documentary about the ocean.",
+  "example_ko": "유명 배우가 바다에 관한 다큐멘터리의 내레이션을 맡을 거예요.",
+  "nuance_ko": "narrate는 이야기나 사건을 순서대로 설명하며 들려준다는 뜻이에요. 다큐멘터리, 영화, 오디오북에서 내레이션을 맡는 상황에 많이 써요. tell a story보다 격식 있고 해설하는 느낌이 있어요. 이야기를 풀어내는 사람은 narrator, 이야기 자체는 narrative예요. 소설에서는 화자를 가리켜 first-person narrator처럼 말해요.",
+  "also": [
+   {
+    "w": "narrative",
+    "pos": "n",
+    "ko": "서사, 이야기",
+    "en": "The film has a powerful **narrative**."
+   },
+   {
+    "w": "narrator",
+    "pos": "n",
+    "ko": "화자, 내레이터",
+    "en": "The **narrator** of the novel is an old man."
+   }
+  ]
+ },
+ {
+  "w": "negative",
+  "pos": "adj",
+  "meaning_ko": "부정적인, 음성의",
+  "example_en": "Try not to focus on the **negative** side of things all the time.",
+  "example_ko": "모든 걸 항상 부정적인 면만 보려고 하지 마.",
+  "nuance_ko": "negative는 좋지 않거나 비관적인 것을 가리키는 형용사예요. negative feedback, negative effect, negative attitude 같은 짝꿍이 흔해요. 의학에서는 검사 결과가 음성이라는 뜻이고, 이때 test negative는 좋은 소식일 수 있어서 한국어 감각과 다르게 느껴질 수 있어요. 수학이나 과학에서는 음수·음극을 뜻해요. 반대말은 positive예요.",
+  "also": [
+   {
+    "w": "negatively",
+    "pos": "adv",
+    "ko": "부정적으로",
+    "en": "The news affected the market **negatively**."
+   }
+  ]
+ },
+ {
+  "w": "neglect",
+  "pos": "v",
+  "meaning_ko": "소홀히 하다, 방치하다",
+  "example_en": "He **neglected** his health while working long hours every day.",
+  "example_ko": "그는 매일 장시간 일하느라 건강을 돌보지 않았어요.",
+  "nuance_ko": "neglect는 해야 할 일이나 돌봐야 할 대상을 제대로 챙기지 않고 내버려 둔다는 뜻이에요. 건강, 아이, 의무, 정원 등이 목적어로 와요. neglect to do는 '깜빡하고 ~하지 않다'는 격식 있는 표현이에요. 명사로 child neglect는 아동 방치라는 법적 용어예요. ignore는 알면서 무시하는 것이고, neglect는 돌봄을 소홀히 한다는 점이 달라요.",
+  "also": [
+   {
+    "w": "neglected",
+    "pos": "adj",
+    "ko": "방치된",
+    "en": "The old park looks **neglected** and dirty."
+   }
+  ]
+ },
+ {
+  "w": "negotiate",
+  "pos": "v",
+  "meaning_ko": "협상하다, 교섭하다",
+  "example_en": "I'm going to **negotiate** a higher salary before I sign.",
+  "example_ko": "서명하기 전에 더 높은 연봉을 협상해 볼 거예요.",
+  "nuance_ko": "negotiate는 양쪽이 이야기를 나눠 서로 받아들일 수 있는 합의에 이르려는 과정을 가리켜요. 연봉, 계약, 가격, 평화 협정에 모두 써요. negotiate with 사람, negotiate for 목적, negotiate a deal 형태가 흔해요. bargain은 가격 흥정에 주로 쓰고 negotiate는 더 공식적이에요. 장애물을 협상하듯 헤쳐 나간다는 뜻의 negotiate a curve처럼 쓰는 용법도 있어요.",
+  "also": [
+   {
+    "w": "negotiation",
+    "pos": "n",
+    "ko": "협상",
+    "en": "The **negotiation** lasted for three weeks."
+   },
+   {
+    "w": "negotiator",
+    "pos": "n",
+    "ko": "협상가",
+    "en": "She's a skilled **negotiator** who rarely loses."
+   }
+  ]
+ },
+ {
+  "w": "net",
+  "pos": "n",
+  "meaning_ko": "그물, 네트, 순수익",
+  "example_en": "The fisherman pulled the heavy **net** onto the boat.",
+  "example_ko": "어부는 무거운 그물을 배 위로 끌어올렸어요.",
+  "nuance_ko": "net은 실이나 끈을 엮어 만든 그물이에요. 테니스나 배구의 네트도 net이고 인터넷을 가리키는 the Net도 같은 말에서 왔어요. 경제에서는 세금과 비용을 뺀 순수익을 뜻해서 net income, net profit처럼 써요. 반대는 gross예요. 형용사 net은 '순'이라는 의미로 뒤에 명사가 와요. 비유적으로 a safety net은 안전망을 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "nets",
+  "pos": "n",
+  "meaning_ko": "그물들, (골)네트, 순이익을 올리다",
+  "example_en": "The fishing boats spread their **nets** across the bay at dawn.",
+  "example_ko": "어선들이 새벽에 만 전체에 그물을 펼쳤어요.",
+  "nuance_ko": "nets는 net의 복수형이자 동사 net의 3인칭 단수형이에요. 명사일 때는 여러 개의 그물을, 동사일 때는 순이익을 올리거나 골을 넣는다는 뜻이에요. The deal nets the company five million dollars처럼 뉴스 문장에서 자주 봐요. 스포츠에서는 공을 골대 네트에 넣는 상황에서 nets a goal이라고 해요. 같은 모양이 품사에 따라 완전히 달라지니 주어와 목적어를 보며 구분하세요.",
+  "also": [
+   {
+    "w": "netting",
+    "pos": "n",
+    "ko": "그물망",
+    "en": "We put **netting** over the garden to keep birds away."
+   }
+  ]
+ },
+ {
+  "w": "network",
+  "pos": "n",
+  "meaning_ko": "네트워크, 연결망, 인맥",
+  "example_en": "Building a professional **network** can help you find new jobs.",
+  "example_ko": "업무 인맥을 쌓으면 새 일자리를 찾는 데 도움이 돼요.",
+  "nuance_ko": "network는 서로 연결된 체계를 가리켜요. 컴퓨터 네트워크, 방송 네트워크, 교통망, 인맥 모두 network예요. 동사로 network는 사람들과 어울려 인맥을 쌓는다는 뜻이고 networking event처럼 많이 써요. 한국어의 네트워크는 인터넷 연결 이미지가 강하지만 영어에서는 사람 사이의 관계망 의미도 매우 흔해요. a support network는 지원해 주는 사람들의 관계망이에요.",
+  "also": [
+   {
+    "w": "networking",
+    "pos": "n",
+    "ko": "인맥 쌓기, 네트워킹",
+    "en": "**Networking** is important in this industry."
+   }
+  ]
+ },
+ {
+  "w": "neutral",
+  "pos": "adj",
+  "meaning_ko": "중립적인, 중간 색의",
+  "example_en": "Please stay **neutral** and don't take sides in their argument.",
+  "example_ko": "그 사람들 싸움에서 어느 편도 들지 말고 중립을 지켜 줘.",
+  "nuance_ko": "neutral은 어느 쪽에도 치우치지 않은 중립적 상태를 말해요. 정치와 분쟁에서 중립국, 중립적 입장을 가리켜요. 색상에서는 베이지, 회색처럼 눈에 안 띄는 무채색 계열을 neutral colors라고 해요. 자동차 기어의 N(중립)도 neutral이고 화학에서는 중성을 말해요. 나쁘지도 좋지도 않은 neutral expression은 무표정에 가까워요.",
+  "also": [
+   {
+    "w": "neutrality",
+    "pos": "n",
+    "ko": "중립",
+    "en": "The country has maintained its **neutrality** for decades."
+   }
+  ]
+ },
+ {
+  "w": "nevertheless",
+  "pos": "adv",
+  "meaning_ko": "그럼에도 불구하고",
+  "example_en": "The test was difficult; **nevertheless**, most students passed it.",
+  "example_ko": "시험이 어려웠는데도 대부분의 학생이 통과했어요.",
+  "nuance_ko": "nevertheless는 앞에서 말한 내용과 반대되는 결과나 사실을 이어서 말할 때 쓰는 접속부사예요. however, nonetheless와 비슷하지만 더 격식 있는 글말이에요. 문장 앞, 중간, 끝에 모두 올 수 있고 쉼표로 구분해요. 앞에 어려움이 있었다는 인정 후에 결국 그렇게 됐다는 흐름을 만들어요. but을 쓸 만한 곳에 쓰면 너무 딱딱해질 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "nod",
+  "pos": "v",
+  "meaning_ko": "고개를 끄덕이다",
+  "example_en": "She **nodded** to show that she understood the instructions.",
+  "example_ko": "그녀는 지시를 이해했다는 표시로 고개를 끄덕였어요.",
+  "nuance_ko": "nod는 머리를 위아래로 가볍게 끄덕이는 동작이에요. 동의, 인사, 이해를 표시할 때 모두 써요. nod in agreement, nod off(꾸벅꾸벅 졸다)처럼 구동사로도 자주 나와요. 한국에서는 고개를 끄덕이면 동의이듯 영어권에서도 대부분 같지만 문화권에 따라 다를 수 있어요. 명사로 a nod는 끄덕임이나 승인, 인정을 뜻하기도 해서 a nod to the past처럼 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "nominate",
+  "pos": "v",
+  "meaning_ko": "지명하다, 후보로 추천하다",
+  "example_en": "The film was **nominated** for five awards this year.",
+  "example_ko": "그 영화는 올해 다섯 개 부문 후보에 올랐어요.",
+  "nuance_ko": "nominate는 어떤 자리나 상에 오를 후보로 공식 추천하거나 지명한다는 뜻이에요. 영화제, 선거, 임명 과정에서 자주 나와요. be nominated for ~ 형태가 가장 흔해요. 후보가 될 수 있다는 것 자체가 영예로 여겨져 수상하지 못해도 nominee라고 부르며 인정해 줘요. 명사 nomination은 지명, 후보 추천이에요. 미국에서는 대통령 후보 지명과 연결돼 정치 뉴스에 많이 나와요.",
+  "also": [
+   {
+    "w": "nomination",
+    "pos": "n",
+    "ko": "지명, 후보 추천",
+    "en": "He received a **nomination** for best actor."
+   }
+  ]
+ },
+ {
+  "w": "notion",
+  "pos": "n",
+  "meaning_ko": "개념, 생각, 관념",
+  "example_en": "The **notion** that money buys happiness isn't always true.",
+  "example_ko": "돈이 행복을 사 준다는 생각이 항상 맞는 건 아니에요.",
+  "nuance_ko": "notion은 확실히 체계화되지는 않았지만 막연히 머릿속에 있는 생각이나 믿음이에요. idea보다 약간 불분명하고 때로는 의심스럽다는 뉘앙스가 있어요. the notion that ~ 형태로 그 생각의 내용을 설명하는 구조가 자주 나와요. I have no notion of ~는 '전혀 모르겠다'는 구식 표현이에요. concept는 정리된 개념, notion은 막연한 생각이라 구분해요.",
+  "also": []
+ },
+ {
+  "w": "novel",
+  "pos": "n",
+  "meaning_ko": "소설, 장편 소설",
+  "example_en": "I'm reading a **novel** about a family in the 1920s.",
+  "example_ko": "나는 1920년대 한 가족을 다룬 소설을 읽고 있어요.",
+  "nuance_ko": "novel은 긴 허구의 이야기를 담은 책, 즉 장편 소설이에요. 짧은 단편은 short story라 구분해요. 형용사 novel은 '새롭고 신기한'이라는 뜻이라 a novel idea는 참신한 아이디어를 말해요. 두 품사가 철자가 같아서 문맥으로 구분해야 해요. 작가는 novelist이고 ebook으로 읽는 것도 novel이라고 해요. 한국어 노블은 소설과 연결 짓기 어려울 수 있으니 기억해 두세요.",
+  "also": [
+   {
+    "w": "novelist",
+    "pos": "n",
+    "ko": "소설가",
+    "en": "She became a famous **novelist** in her thirties."
+   }
+  ]
+ },
+ {
+  "w": "nuclear",
+  "pos": "adj",
+  "meaning_ko": "핵의, 원자력의",
+  "example_en": "The country decided to shut down its **nuclear** power plants.",
+  "example_ko": "그 나라는 원자력 발전소를 폐쇄하기로 결정했어요.",
+  "nuance_ko": "nuclear는 원자핵이나 핵에너지와 관련된 형용사예요. nuclear power, nuclear weapon, nuclear family처럼 쓰여요. nuclear family는 부모와 자녀로 이루어진 핵가족이고 에너지와 상관없는 쓰임이에요. 발음은 [누-클리-어]로 보통 세 음절이에요. 영어 모국어 화자 중에도 [누-큘-러]로 잘못 발음하는 경우가 있어서 사회적으로 자주 언급돼요.",
+  "also": []
+ },
+ {
+  "w": "numerous",
+  "pos": "adj",
+  "meaning_ko": "수많은, 다수의",
+  "example_en": "She has won **numerous** awards for her research over the years.",
+  "example_ko": "그녀는 지난 몇 년간 연구로 수많은 상을 받았어요.",
+  "nuance_ko": "numerous는 셀 수 있는 것이 아주 많다는 뜻의 형용사로, many보다 격식 있고 글에서 주로 쓰여요. numerous times, numerous examples, numerous studies 같은 짝꿍이 흔해요. 복수 가산명사 앞에서만 쓰고 불가산명사에는 쓸 수 없어요. 일상 대화에서는 a lot of나 many가 더 자연스럽고 numerous는 보고서, 기사, 논문에 적합해요.",
+  "also": []
+ },
+ {
+  "w": "objected",
+  "pos": "v",
+  "meaning_ko": "반대하다, 이의를 제기하다",
+  "example_en": "My parents **objected** to the idea of me moving abroad.",
+  "example_ko": "부모님은 내가 해외로 이사 가는 것에 반대하셨어요.",
+  "nuance_ko": "objected는 object(반대하다)의 과거형으로, object to ~ 형태로 '~에 반대하다'를 뜻해요. 전치사 to 뒤에는 명사나 동명사가 와요. 예를 들어 I object to being treated like this처럼 말해요. 법정에서는 Objection!이라고 외치며 이의를 제기해요. 명사 object(물건, 목적)와 발음이 다르게 동사는 뒤쪽 음절에 강세가 있어요. 격식 있는 반대 표현이라 일상에서는 don't like이나 mind를 더 써요.",
+  "also": [
+   {
+    "w": "objection",
+    "pos": "n",
+    "ko": "이의, 반대",
+    "en": "Does anyone have an **objection** to this plan?"
+   },
+   {
+    "w": "objectionable",
+    "pos": "adj",
+    "ko": "불쾌한, 반대할 만한",
+    "en": "Some people found the joke **objectionable**."
+   }
+  ]
+ },
+ {
+  "w": "objective",
+  "pos": "n",
+  "meaning_ko": "목표, 목적",
+  "example_en": "Our main **objective** this year is to improve customer service.",
+  "example_ko": "올해 우리의 주요 목표는 고객 서비스를 개선하는 거예요.",
+  "nuance_ko": "objective는 달성하려는 구체적인 목표를 뜻하는 명사예요. goal과 비슷하지만 더 공식적이고 측정 가능한 목표라는 느낌이 강해요. 비즈니스와 프로젝트 문서에서 objectives and key results(OKR)처럼 자주 보여요. 형용사 objective는 '객관적인'이라는 뜻이라 두 뜻을 구분해야 해요. 반대말은 subjective(주관적인)예요. 한국어에서는 목표와 객관적이 완전히 다른 말이라 한 단어가 두 뜻이라는 걸 기억하세요.",
+  "also": [
+   {
+    "w": "objectively",
+    "pos": "adv",
+    "ko": "객관적으로",
+    "en": "It's hard to judge your own work **objectively**."
+   }
+  ]
+ },
+ {
+  "w": "oblige",
+  "pos": "v",
+  "meaning_ko": "의무를 지우다, 호의를 베풀다",
+  "example_en": "The law **obliges** employers to provide a safe workplace.",
+  "example_ko": "법은 고용주가 안전한 근무 환경을 제공하도록 의무화하고 있어요.",
+  "nuance_ko": "oblige는 법이나 상황이 어떤 행동을 하도록 의무를 지운다는 뜻이에요. be obliged to do는 '어쩔 수 없이 ~해야 한다'는 느낌이에요. 또 다른 뜻은 호의를 베풀다로, I'd be much obliged if ~는 '~해 주시면 감사하겠습니다'라는 공손한 표현이에요. 명사 obligation은 의무를 뜻하고 have an obligation to do로 자주 써요. 격식 있는 글에서 주로 나오고 일상에서는 have to가 더 많아요.",
+  "also": [
+   {
+    "w": "obligation",
+    "pos": "n",
+    "ko": "의무, 책임",
+    "en": "You have no **obligation** to attend the meeting."
+   },
+   {
+    "w": "obligatory",
+    "pos": "adj",
+    "ko": "의무적인",
+    "en": "Safety training is **obligatory** for all new staff."
+   }
+  ]
+ },
+ {
+  "w": "obtain",
+  "pos": "v",
+  "meaning_ko": "얻다, 획득하다",
+  "example_en": "You need to **obtain** a permit before you build anything here.",
+  "example_ko": "여기서 뭘 짓기 전에 허가를 받아야 해요.",
+  "nuance_ko": "obtain은 노력이나 절차를 거쳐 원하는 것을 얻어 낸다는 뜻이에요. get보다 격식 있고 허가, 정보, 자격, 증거처럼 얻기 위해 단계를 거쳐야 하는 것에 잘 어울려요. obtain a visa, obtain approval, obtain consent가 대표적이에요. 가볍게 받는 상황에는 어울리지 않아요. 법률, 학술, 공식 문서에서 흔한 단어예요.",
+  "also": [
+   {
+    "w": "obtainable",
+    "pos": "adj",
+    "ko": "얻을 수 있는",
+    "en": "The ingredients are easily **obtainable** at any store."
+   }
+  ]
+ },
+ {
+  "w": "occupation",
+  "pos": "n",
+  "meaning_ko": "직업, 점령",
+  "example_en": "Please write your name and **occupation** on the form.",
+  "example_ko": "양식에 이름과 직업을 적어 주세요.",
+  "nuance_ko": "occupation은 서류나 공식 상황에서 묻는 직업을 가리켜요. job은 구어체이고 occupation은 공식 서식에서 자주 나와요. 군대가 다른 지역을 점령하는 것도 occupation이라고 해서 역사와 뉴스에서 만나요. 두 뜻 사이에 연결이 있는데 어떤 공간이나 시간을 차지한다는 occupy에서 왔어요. 형용사 occupational은 occupational hazard(직업상의 위험)처럼 써요.",
+  "also": [
+   {
+    "w": "occupational",
+    "pos": "adj",
+    "ko": "직업의",
+    "en": "Back pain is a common **occupational** problem for drivers."
+   }
+  ]
+ },
+ {
+  "w": "occupy",
+  "pos": "v",
+  "meaning_ko": "차지하다, 점령하다",
+  "example_en": "The meeting will **occupy** most of my morning.",
+  "example_ko": "그 회의가 내 오전 시간을 대부분 차지할 거예요.",
+  "nuance_ko": "occupy는 공간이나 시간을 차지한다는 기본 뜻이 있어요. 방, 자리, 시간, 마음을 점유하는 경우에 두루 쓰여요. 군대가 지역을 점령한다는 뜻도 있어요. 화장실 앞의 Occupied 표지판은 '사용 중'이라는 뜻이에요. keep someone occupied는 누군가를 바쁘게 만들어 딴짓 못하게 하는 표현이에요. 수동태 be occupied with ~는 '~에 몰두하다'예요.",
+  "also": [
+   {
+    "w": "occupied",
+    "pos": "adj",
+    "ko": "사용 중인, 바쁜",
+    "en": "All the seats on the bus were **occupied**."
+   }
+  ]
+ },
+ {
+  "w": "ocean",
+  "pos": "n",
+  "meaning_ko": "대양, 바다",
+  "example_en": "We watched the sun set over the **ocean** from the balcony.",
+  "example_ko": "우리는 발코니에서 바다 위로 해가 지는 걸 지켜봤어요.",
+  "nuance_ko": "ocean은 지구를 덮고 있는 아주 넓은 바다를 말해요. Pacific Ocean, Atlantic Ocean처럼 대양을 가리켜요. sea는 더 작고 육지로 둘러싸인 바다 또는 일상적인 바다를 뜻해서 구분이 필요해요. 미국에서는 해안가에서 일상적으로 the ocean이라고 해요. 비유적으로 an ocean of people처럼 엄청난 양을 표현하기도 해요.",
+  "also": []
+ },
+ {
+  "w": "offence",
+  "pos": "n",
+  "meaning_ko": "범죄, 위반, 기분 상함",
+  "example_en": "Driving without a license is a serious **offence** in this country.",
+  "example_ko": "이 나라에서는 무면허 운전이 중대한 범죄예요.",
+  "nuance_ko": "offence는 영국식 철자로, 미국식은 offense예요. 법을 어긴 위반이나 가벼운 범죄를 가리켜요. 또 다른 뜻은 상대의 기분을 상하게 하는 무례, 즉 No offence 같은 표현에서 보는 의미예요. take offence at ~는 '~에 기분이 상하다'예요. 스포츠에서는 공격을 가리켜서 offense와 defense를 대비해요. 문맥에 따라 법적인 의미와 감정적인 의미를 구분하세요.",
+  "also": [
+   {
+    "w": "offensive",
+    "pos": "adj",
+    "ko": "불쾌한, 공격적인",
+    "en": "Some people found the comment **offensive**."
+   }
+  ]
+ },
+ {
+  "w": "offend",
+  "pos": "v",
+  "meaning_ko": "기분 상하게 하다, 위반하다",
+  "example_en": "I didn't mean to **offend** you; I was just joking.",
+  "example_ko": "기분 상하게 할 생각은 없었어요. 그냥 농담이었어요.",
+  "nuance_ko": "offend는 상대방이 불쾌하거나 모욕당했다고 느끼게 만드는 것을 뜻해요. 수동태 be offended는 '기분이 상하다'로 훨씬 자주 써요. Don't be offended처럼 상대를 안심시킬 때 흔해요. 법을 어긴다는 뜻으로 offend against the law도 있고 이때는 offender가 범죄자예요. 한국 학습자는 I'm offended를 너무 강하게 말해서 자신이 정말 화났다는 뉘앙스가 될 수 있어요.",
+  "also": [
+   {
+    "w": "offender",
+    "pos": "n",
+    "ko": "범법자",
+    "en": "First-time **offenders** often get lighter sentences."
+   }
+  ]
+ },
+ {
+  "w": "opera",
+  "pos": "n",
+  "meaning_ko": "오페라, 가극",
+  "example_en": "We went to the **opera** last night and loved the singing.",
+  "example_ko": "어젯밤 오페라를 보러 갔는데 노래가 정말 좋았어요.",
+  "nuance_ko": "opera는 노래, 오케스트라, 연극이 합쳐진 종합 무대 예술이에요. go to the opera, an opera singer, an opera house처럼 써요. soap opera는 TV 연속극을 뜻하는 별개의 표현이에요. 이탈리아에서 시작되어 Italian opera 등 언어별로 구분해 불러요. 발음은 [아퍼러]로 앞음절에 강세가 있어요.",
+  "also": []
+ },
+ {
+  "w": "opponent",
+  "pos": "n",
+  "meaning_ko": "상대, 반대자",
+  "example_en": "He beat his **opponent** in straight sets to win the match.",
+  "example_ko": "그는 상대를 세트 스코어 연속으로 이기고 경기를 가져갔어요.",
+  "nuance_ko": "opponent는 경기, 선거, 논쟁에서 맞서는 상대방을 가리켜요. 적대감보다는 경쟁 구도에 초점이 있어요. enemy는 적대적인 적, rival은 경쟁자, opponent는 한 판에서 겨루는 상대라는 차이가 있어요. 정치에서는 어떤 정책에 반대하는 사람도 opponent라고 불러요. an opponent of ~ 형태로 반대자를 말해요.",
+  "also": []
+ },
+ {
+  "w": "oral",
+  "pos": "adj",
+  "meaning_ko": "구두의, 입의",
+  "example_en": "The final exam has a written part and an **oral** part.",
+  "example_ko": "기말시험은 필기 부분과 구술 부분으로 나뉘어요.",
+  "nuance_ko": "oral은 입으로 하는, 말로 하는 것을 뜻해요. oral exam은 구술시험, oral tradition은 구전 전통이에요. 의학에서는 입으로 복용하는 oral medicine, 구강 건강 oral health에 쓰여요. written(글로 쓴)과 대비해서 자주 쓰여요. 철자가 비슷한 aural(청각의)과 발음이 비슷해서 혼동하기 쉬워요.",
+  "also": [
+   {
+    "w": "orally",
+    "pos": "adv",
+    "ko": "구두로, 입으로",
+    "en": "The medicine should be taken **orally**."
+   }
+  ]
+ },
+ {
+  "w": "organ",
+  "pos": "n",
+  "meaning_ko": "장기, 기관, 오르간",
+  "example_en": "The liver is one of the most important **organs** in the body.",
+  "example_ko": "간은 몸에서 가장 중요한 장기 중 하나예요.",
+  "nuance_ko": "organ은 몸에서 특정 기능을 하는 장기를 가리켜요. 심장, 폐, 간, 신장이 모두 organ이에요. 장기 기증은 organ donation이라고 해요. 악기 오르간도 organ이라 문맥으로 구분하고, 정부나 조직의 한 부분을 가리키기도 해요. 예를 들어 an organ of the state는 국가 기관을 뜻해요. 몸의 기관은 organ, 사회 조직은 organization으로 구분해 쓰세요.",
+  "also": []
+ },
+ {
+  "w": "organic",
+  "pos": "adj",
+  "meaning_ko": "유기농의, 유기체의",
+  "example_en": "I try to buy **organic** vegetables whenever I can afford them.",
+  "example_ko": "여유가 될 때마다 유기농 채소를 사려고 해요.",
+  "nuance_ko": "organic은 화학 비료나 농약 없이 기른 유기농 식품을 말할 때 가장 많이 써요. 과학에서는 탄소를 기반으로 한 생물 유래의 물질을 뜻해요. 비유적으로 자연스럽게 서서히 성장하는 organic growth처럼 쓰기도 해요. 반대말은 inorganic으로 무기물을 뜻해요. 마트에서 organic 라벨이 붙으면 인증된 기준에 맞춘 제품이라는 의미예요.",
+  "also": [
+   {
+    "w": "organically",
+    "pos": "adv",
+    "ko": "유기적으로, 자연스럽게",
+    "en": "The company grew **organically** without outside funding."
+   }
+  ]
+ },
+ {
+  "w": "oriented",
+  "pos": "adj",
+  "meaning_ko": "~중심의, ~지향적인",
+  "example_en": "We are a customer-**oriented** company, so feedback matters a lot to us.",
+  "example_ko": "저희는 고객 중심 회사라서 피드백을 아주 중요하게 생각해요.",
+  "nuance_ko": "oriented는 단독으로 쓰기보다 앞에 명사를 붙여 '~ 지향적인, ~ 중심의'를 만드는 형태로 많이 써요. goal-oriented, family-oriented, detail-oriented처럼 사람이나 조직의 성향을 설명해요. 이력서에서 detail-oriented는 꼼꼼한 사람이라는 장점으로 쓰여요. 동사 orient는 방향을 잡아 주거나 적응시킨다는 뜻이고 orientation은 신입생·신입 사원 오리엔테이션을 뜻해요. 영국식 철자로는 orientated도 쓰이지만 oriented가 더 흔해요.",
+  "also": [
+   {
+    "w": "orientation",
+    "pos": "n",
+    "ko": "오리엔테이션, 성향",
+    "en": "New employees attend an **orientation** on their first day."
+   }
+  ]
+ },
+ {
+  "w": "origin",
+  "pos": "n",
+  "meaning_ko": "기원, 출신, 원인",
+  "example_en": "Nobody knows the exact **origin** of this old tradition.",
+  "example_ko": "이 오래된 전통의 정확한 기원은 아무도 몰라요.",
+  "nuance_ko": "origin은 어떤 것이 처음 시작된 곳이나 근원을 가리켜요. the origin of life처럼 기원을 말하거나 country of origin(원산지)처럼 출신지를 말해요. 사람의 출신 배경을 가리킬 때는 복수형 origins를 자주 써서 humble origins는 '미천한 출신'이에요. 동사 originate는 '유래하다', 형용사 original은 '원래의, 독창적인'이라는 가족 단어예요. 제품 라벨에서는 원산지 표기로도 자주 만나요.",
+  "also": []
+ },
+ {
+  "w": "outcome",
+  "pos": "n",
+  "meaning_ko": "결과, 성과",
+  "example_en": "We're all hoping for a positive **outcome** from the meeting.",
+  "example_ko": "우리는 모두 그 회의에서 좋은 결과가 나오길 바라고 있어요.",
+  "nuance_ko": "outcome은 어떤 과정이나 사건이 끝난 뒤에 나온 최종 결과를 뜻해요. result와 비슷하지만 여러 요소가 작용한 뒤에 정해진 결과라는 느낌이 강해요. positive outcome, desired outcome, the outcome of the election처럼 써요. 의료에서는 치료 결과를 outcome이라고 부르며 연구에서 자주 나와요. consequence는 결과 중에서도 보통 부정적인 후속 영향을 말해서 구분돼요.",
+  "also": []
+ },
+ {
+  "w": "outline",
+  "pos": "n",
+  "meaning_ko": "개요, 윤곽",
+  "example_en": "Send me a quick **outline** of your presentation by tomorrow.",
+  "example_ko": "내일까지 발표 개요를 간단히 보내 줘.",
+  "nuance_ko": "outline은 전체 내용을 요약한 뼈대나 개요를 뜻해요. 글쓰기에서 에세이를 쓰기 전에 구조를 짜는 것이 outline이에요. 사물의 겉 테두리, 윤곽선을 가리키기도 해요. 동사로는 핵심을 간략히 설명한다는 뜻이라 outline the plan은 계획의 큰 틀을 설명한다는 말이에요. summary가 이미 있는 내용을 압축한 거라면 outline은 앞으로 쓸 내용의 구조인 경우가 많아요.",
+  "also": []
+ },
+ {
+  "w": "output",
+  "pos": "n",
+  "meaning_ko": "생산량, 출력, 결과물",
+  "example_en": "The factory doubled its **output** within just one year.",
+  "example_ko": "그 공장은 단 1년 만에 생산량을 두 배로 늘렸어요.",
+  "nuance_ko": "output은 공장이 생산한 양이나 컴퓨터가 내보낸 출력 결과를 가리켜요. 반대말은 input이에요. 개인의 성과를 말할 때도 쓰여서 Her creative output is impressive처럼 쓸 수 있어요. 불가산명사로 취급하는 경우가 많고 an output of ~ 형태도 가능해요. 비즈니스, IT, 경제 기사에서 흔하고 일상 대화에서는 비교적 드물어요.",
+  "also": []
+ },
+ {
+  "w": "outrage",
+  "pos": "n",
+  "meaning_ko": "격분, 분노, 만행",
+  "example_en": "There was public **outrage** over the new tax on food.",
+  "example_ko": "식료품에 부과한 새 세금에 대해 대중이 격분했어요.",
+  "nuance_ko": "outrage는 부당하거나 충격적인 일에 대해 느끼는 강한 분노를 뜻해요. anger보다 도덕적으로 용납할 수 없다는 감정이 담겨 있어요. public outrage, cause outrage, express outrage 같은 짝꿍이 뉴스에 자주 나와요. 그런 분노를 일으키는 잔학한 행위 자체를 가리키기도 해요. 동사로는 격분하게 만든다는 뜻이고 수동태 be outraged가 흔해요.",
+  "also": [
+   {
+    "w": "outrageous",
+    "pos": "adj",
+    "ko": "터무니없는, 어이없는",
+    "en": "That price is absolutely **outrageous** for such a small room."
+   },
+   {
+    "w": "outraged",
+    "pos": "adj",
+    "ko": "격분한",
+    "en": "Fans were **outraged** by the referee's decision."
+   }
+  ]
+ },
+ {
+  "w": "overall",
+  "pos": "adj",
+  "meaning_ko": "전반적인, 전체의",
+  "example_en": "The **overall** quality of the food was good, but service was slow.",
+  "example_ko": "음식의 전반적인 질은 좋았는데 서비스가 느렸어요.",
+  "nuance_ko": "overall은 세부가 아니라 전체를 놓고 본다는 뜻의 형용사예요. overall performance, overall cost, overall impression처럼 써요. 부사로도 쓰여서 Overall, it was a great trip처럼 문장 앞에서 총평을 할 때 자주 써요. 복수형 overalls는 작업복 바지(멜빵바지)를 뜻하는 별개 의미예요. in general과 비슷하지만 전체를 종합한다는 느낌이 더 강해요.",
+  "also": []
+ },
+ {
+  "w": "overcome",
+  "pos": "v",
+  "meaning_ko": "극복하다, 이겨 내다",
+  "example_en": "She managed to **overcome** her fear of speaking in public.",
+  "example_ko": "그녀는 사람들 앞에서 말하는 두려움을 극복해 냈어요.",
+  "nuance_ko": "overcome은 어려움, 두려움, 장애물을 이겨 낸다는 뜻이에요. overcome a problem, overcome an obstacle, overcome difficulties가 대표적이에요. 수동태 be overcome by ~는 감정에 압도당해 휩싸인다는 뜻이에요. 과거형 overcame, 과거분사 overcome으로 변화해요. beat는 더 구어적이고 가볍고, overcome은 더 진지한 도전에 쓰는 어감이에요.",
+  "also": []
+ },
+ {
+  "w": "overlook",
+  "pos": "v",
+  "meaning_ko": "간과하다, 내려다보다",
+  "example_en": "It's easy to **overlook** small mistakes when you're tired.",
+  "example_ko": "피곤할 땐 사소한 실수를 놓치기 쉬워요.",
+  "nuance_ko": "overlook은 두 가지 뜻이 있어요. 첫째는 눈여겨보지 못하고 놓치는 것, 둘째는 높은 곳에서 내려다보는 것이에요. 놓친다는 뜻일 때는 실수나 가능성을 알아채지 못한 상황이고, 알고도 눈감아 주는 경우도 있어요. 그래서 문맥을 봐야 해요. The hotel overlooks the sea는 '바다가 내려다보이는'이라는 뜻으로 호텔 광고에서 흔해요. oversee(감독하다)와 혼동하지 마세요.",
+  "also": [
+   {
+    "w": "overlooked",
+    "pos": "adj",
+    "ko": "간과된",
+    "en": "This is an **overlooked** part of the problem."
+   }
+  ]
+ },
+ {
+  "w": "overseas",
+  "pos": "adv",
+  "meaning_ko": "해외로, 해외에서",
+  "example_en": "My brother has been working **overseas** for about three years.",
+  "example_ko": "우리 형은 약 3년째 해외에서 일하고 있어요.",
+  "nuance_ko": "overseas는 바다 건너 외국을 뜻하는 부사이자 형용사예요. go overseas, live overseas처럼 전치사 없이 부사로 쓰고, overseas students처럼 명사 앞에서 형용사로도 써요. abroad와 거의 같지만 abroad는 부사로만 쓰이고 overseas는 형용사로도 쓸 수 있어요. 한국어 '해외'에 해당하는 가장 자연스러운 영어 중 하나예요. to overseas라고 전치사를 붙이지 않는 점에 주의하세요.",
+  "also": []
+ },
+ {
+  "w": "overwhelm",
+  "pos": "v",
+  "meaning_ko": "압도하다, 감당 못 하게 하다",
+  "example_en": "The amount of work started to **overwhelm** me last week.",
+  "example_ko": "지난주부터 일의 양에 짓눌리기 시작했어요.",
+  "nuance_ko": "overwhelm은 감정이나 양이 너무 커서 감당하기 어려울 정도로 압도한다는 뜻이에요. 수동태 I'm overwhelmed는 '너무 벅차다, 정신이 없다'는 상황에서 일상적으로 써요. 부정적인 압박뿐 아니라 감동에 북받친다는 긍정적 뜻도 있어요. be overwhelmed with joy는 기쁨에 벅차다는 말이에요. overwhelming은 형용사로 압도적인 다수나 승리를 말할 때 흔해요.",
+  "also": [
+   {
+    "w": "overwhelming",
+    "pos": "adj",
+    "ko": "압도적인",
+    "en": "The team won by an **overwhelming** margin."
+   },
+   {
+    "w": "overwhelmed",
+    "pos": "adj",
+    "ko": "벅찬, 압도당한",
+    "en": "I felt **overwhelmed** by all the emails."
+   }
+  ]
+ },
+ {
+  "w": "pace",
+  "pos": "n",
+  "meaning_ko": "속도, 걸음",
+  "example_en": "Let's slow down our **pace** so everyone can keep up.",
+  "example_ko": "모두 따라올 수 있게 속도를 좀 늦추자.",
+  "nuance_ko": "pace는 걷기나 일의 진행에서 움직이는 속도를 가리켜요. speed가 물리적 빠르기를 말한다면 pace는 일정한 리듬과 진행 속도에 가까워요. at a steady pace, keep pace with, set the pace 같은 짝꿍이 흔해요. 달리기에서는 1km당 걸리는 시간을 pace로 표현해요. 동사로 pace는 서성이며 왔다 갔다 한다는 뜻이에요. 한 걸음을 가리키기도 해요.",
+  "also": []
+ },
+ {
+  "w": "pad",
+  "pos": "n",
+  "meaning_ko": "패드, 메모장, 완충재",
+  "example_en": "Grab a **pad** and a pen so we can take notes.",
+  "example_ko": "메모할 수 있게 메모장이랑 펜 좀 가져와.",
+  "nuance_ko": "pad는 푹신한 완충재, 또는 낱장을 묶어 놓은 메모장을 가리켜요. a note pad, a mouse pad, a knee pad처럼 용도에 따라 다양하게 쓰여요. 발사대를 launch pad라고도 부르고, 구어로는 pad가 사는 집이나 방을 뜻하기도 해요. 동사로는 안쪽에 덧대다, 분량을 부풀리다라는 뜻이에요. 한국어 패드는 태블릿을 먼저 떠올리게 하지만 영어에서는 의미가 훨씬 넓어요.",
+  "also": [
+   {
+    "w": "padding",
+    "pos": "n",
+    "ko": "충전재, 덧댐",
+    "en": "The chair has thick **padding** for comfort."
+   }
+  ]
+ },
+ {
+  "w": "palace",
+  "pos": "n",
+  "meaning_ko": "궁전, 궁궐",
+  "example_en": "We toured the royal **palace** and took lots of photos.",
+  "example_ko": "우리는 왕궁을 둘러보며 사진을 많이 찍었어요.",
+  "nuance_ko": "palace는 왕이나 대통령 등 최고 권력자가 사는 크고 화려한 궁전을 말해요. Buckingham Palace처럼 고유 이름에 붙이고, 한국의 경복궁도 Gyeongbokgung Palace라고 번역해요. castle은 방어를 위한 성이고 palace는 거주와 의례 중심의 궁이라는 차이가 있어요. 비유적으로 화려한 건물 이름에도 쓰여서 a movie palace는 큰 영화관을 뜻해요. 관광 안내에서 매우 자주 만나는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "pale",
+  "pos": "adj",
+  "meaning_ko": "창백한, 연한",
+  "example_en": "You look **pale**; are you feeling okay?",
+  "example_ko": "얼굴이 창백해 보여요. 괜찮으세요?",
+  "nuance_ko": "pale은 얼굴이 핏기 없이 창백하거나 색이 옅고 연하다는 뜻의 형용사예요. 건강이 안 좋거나 놀랐을 때 얼굴이 pale 해졌다고 말해요. pale blue, pale yellow처럼 색 앞에 붙여 연한 색을 나타내요. 동사로는 상대적으로 덜 중요해 보이게 된다는 의미로 pale in comparison with ~ 형태로 써요. 사람 피부색을 말할 땐 pale이 부정적이지 않고 단지 흰 편이라는 중립적 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "palm",
+  "pos": "n",
+  "meaning_ko": "손바닥, 야자수",
+  "example_en": "She held the tiny bird gently in the **palm** of her hand.",
+  "example_ko": "그녀는 작은 새를 손바닥 위에 조심스럽게 올려놓았어요.",
+  "nuance_ko": "palm은 손바닥을 가리키는 말이고 같은 철자로 야자수도 뜻해요. 손바닥은 the palm of your hand 형태로 자주 쓰고, 발음에서 l은 소리 나지 않아요. 야자수는 palm tree라고 해서 휴양지 이미지와 연결돼요. 동사 palm은 손바닥 안에 숨겨 몰래 가져가는 뜻도 있어요. 두 뜻이 전혀 달라 문맥으로 구분하는 게 중요해요.",
+  "also": []
+ },
+ {
+  "w": "panel",
+  "pos": "n",
+  "meaning_ko": "패널, 위원단, 판",
+  "example_en": "A **panel** of experts will answer questions after the talk.",
+  "example_ko": "강연이 끝나면 전문가 패널이 질문에 답해 줄 거예요.",
+  "nuance_ko": "panel은 토론이나 심사를 위해 모인 전문가 집단, 즉 패널을 뜻해요. 또 문이나 벽, 기계에 붙은 평평한 판이나 계기판도 panel이라고 해요. solar panel은 태양광 패널이고 control panel은 제어판이에요. 방송에서 패널로 출연한다고 할 때는 on a panel 형태로 써요. 한국어 패널과 같은 뜻이 있지만 물리적인 판으로 쓰이는 비중이 영어에서는 더 큽니다.",
+  "also": []
+ },
+ {
+  "w": "paragraph",
+  "pos": "n",
+  "meaning_ko": "문단, 단락",
+  "example_en": "Please rewrite the first **paragraph** so it's easier to follow.",
+  "example_ko": "첫 문단을 읽기 쉽게 다시 써 주세요.",
+  "nuance_ko": "paragraph는 하나의 주제를 다루는 문장들의 묶음인 문단이에요. 글쓰기에서는 보통 주제문으로 시작하고 뒷받침 문장으로 이어져요. 줄을 바꾸고 들여쓰기를 하면 새 paragraph가 시작돼요. section은 여러 문단이 모인 더 큰 단위이고 sentence는 그보다 작은 단위예요. 문서 편집에서 paragraph spacing, paragraph break 같은 용어로 자주 만나요.",
+  "also": []
+ },
+ {
+  "w": "parallel",
+  "pos": "adj",
+  "meaning_ko": "평행한, 유사한",
+  "example_en": "The two roads run **parallel** to each other for miles.",
+  "example_ko": "그 두 도로는 몇 마일에 걸쳐 나란히 달려요.",
+  "nuance_ko": "parallel은 선이나 길이 서로 일정한 간격을 두고 나란히 간다는 뜻이에요. run parallel to ~ 형태로 자주 써요. 비유적으로 두 상황이 닮았다는 뜻도 있어서 draw a parallel between A and B는 'A와 B의 유사점을 끌어내다'예요. 컴퓨팅에서는 여러 작업을 동시에 처리하는 parallel processing이 있어요. 명사와 동사로도 쓰여서 '필적하다, 대응하다'라는 뜻도 있어요.",
+  "also": [
+   {
+    "w": "parallels",
+    "pos": "n",
+    "ko": "유사점, 평행선",
+    "en": "There are strong **parallels** between the two cases."
+   },
+   {
+    "w": "unparalleled",
+    "pos": "adj",
+    "ko": "비할 데 없는",
+    "en": "The view from the top is **unparalleled**."
+   }
+  ]
+ },
+ {
+  "w": "parish",
+  "pos": "n",
+  "meaning_ko": "교구, 지방 행정 구역",
+  "example_en": "The **parish** church has stood in this village for centuries.",
+  "example_ko": "그 교구 교회는 수백 년 동안 이 마을에 서 있었어요.",
+  "nuance_ko": "parish는 한 사제가 담당하는 교회 구역, 즉 교구예요. 영국에서는 이를 기반으로 한 가장 작은 지방 행정 단위를 가리키기도 해요. 미국 루이지애나주는 county 대신 parish라는 명칭을 쓰는 독특한 곳이에요. 일상에서는 자주 쓰지 않고 종교나 지역 행정 문맥에서 나와요. parish priest, parish council 같은 짝꿍이 흔해요.",
+  "also": []
+ },
+ {
+  "w": "parliament",
+  "pos": "n",
+  "meaning_ko": "의회, 국회",
+  "example_en": "The **parliament** voted to pass the new education law.",
+  "example_ko": "의회는 새 교육법을 통과시키기로 표결했어요.",
+  "nuance_ko": "parliament는 법을 만들고 정부를 견제하는 의회를 뜻해요. 영국과 영연방 국가에서 주로 쓰고 미국 의회는 Congress라고 불러요. 한국 국회는 National Assembly라고 번역하는 게 일반적이에요. 의회 구성원은 member of parliament(MP)라고 해요. 영국 의회는 고유명사로 the Parliament이라고 써서 대문자로 시작해요. 정치 뉴스에서 흔한 단어예요.",
+  "also": [
+   {
+    "w": "parliamentary",
+    "pos": "adj",
+    "ko": "의회의",
+    "en": "The country has a **parliamentary** system of government."
+   }
+  ]
+ },
+ {
+  "w": "participant",
+  "pos": "n",
+  "meaning_ko": "참가자, 참여자",
+  "example_en": "Each **participant** will receive a certificate at the end of the workshop.",
+  "example_ko": "각 참가자는 워크숍이 끝나면 수료증을 받게 됩니다.",
+  "nuance_ko": "participant는 행사, 연구, 회의, 대회에 직접 참여하는 사람이에요. attendee는 참석만 하는 사람, participant는 적극적으로 활동한다는 뉘앙스가 있어요. 연구에서는 실험 대상자를 subject 대신 participant로 부르는 것이 요즘 윤리적 표준이에요. 동사 participate in ~과 짝으로 외우세요. 공식 안내문이나 워크숍 공지에서 자주 보여요.",
+  "also": []
+ },
+ {
+  "w": "participate",
+  "pos": "v",
+  "meaning_ko": "참여하다, 참가하다",
+  "example_en": "Everyone is welcome to **participate** in the discussion.",
+  "example_ko": "누구든 토론에 참여하실 수 있어요.",
+  "nuance_ko": "participate는 어떤 활동에 함께 참여한다는 뜻이에요. 반드시 participate in ~으로 쓰고 전치사 in을 빼먹지 않는 게 중요해요. join은 단순히 합류하는 느낌이고 participate는 실제로 활동에 기여하는 느낌이에요. attend는 참석하는 것까지만 뜻해요. 명사 participation은 참여, 형용사 participatory는 참여형의라는 의미예요. 학교, 회의, 대회에서 자주 써요.",
+  "also": [
+   {
+    "w": "participation",
+    "pos": "n",
+    "ko": "참여",
+    "en": "Class **participation** counts for twenty percent of your grade."
+   }
+  ]
+ },
+ {
+  "w": "passage",
+  "pos": "n",
+  "meaning_ko": "통로, 구절, 경과",
+  "example_en": "Read the **passage** below and answer the questions that follow.",
+  "example_ko": "아래 지문을 읽고 이어지는 질문에 답하세요.",
+  "nuance_ko": "passage는 문맥에 따라 뜻이 여러 가지예요. 책이나 글에서 짧게 뽑은 구절, 통로나 복도, 시간의 경과, 법안의 통과를 모두 뜻해요. 시험에서는 reading passage(독해 지문)로 가장 흔히 만나요. the passage of time은 시간의 흐름이고 the passage of a bill은 법안 통과예요. 물리적 통로를 말할 때 narrow passage 같은 표현도 써요.",
+  "also": []
+ },
+ {
+  "w": "passenger",
+  "pos": "n",
+  "meaning_ko": "승객",
+  "example_en": "All **passengers** must fasten their seat belts before takeoff.",
+  "example_ko": "모든 승객은 이륙 전에 안전벨트를 매야 합니다.",
+  "nuance_ko": "passenger는 비행기, 기차, 버스, 배, 자동차에 타고 이동하는 승객이에요. 운전하는 사람이 아니라 타기만 하는 사람이라는 점이 핵심이에요. 자동차에서는 앞자리에 앉으면 passenger seat 또는 front passenger라고 해요. customer는 서비스를 구매하는 고객, passenger는 이동 수단의 탑승객이라 구분돼요. 공지 방송에서 Attention, passengers로 시작하는 문장이 흔해요.",
+  "also": []
+ },
+ {
+  "w": "passion",
+  "pos": "n",
+  "meaning_ko": "열정, 격한 감정",
+  "example_en": "Cooking has always been my greatest **passion** in life.",
+  "example_ko": "요리는 늘 내 인생에서 가장 큰 열정이었어요.",
+  "nuance_ko": "passion은 무언가에 대한 강한 열정이나 격한 감정을 뜻해요. have a passion for ~는 '~에 열정을 가지고 있다'로 자기소개나 면접에서 자주 나와요. 사랑이나 분노 같은 강렬한 감정도 passion으로 표현해요. enthusiasm보다 더 깊고 오래가는 느낌이 있어요. 복수형 passions는 감정이 격해지는 상황을 말하기도 해요.",
+  "also": [
+   {
+    "w": "passionate",
+    "pos": "adj",
+    "ko": "열정적인",
+    "en": "She is **passionate** about protecting the environment."
+   }
+  ]
+ },
+ {
+  "w": "patients",
+  "pos": "n",
+  "meaning_ko": "환자들",
+  "example_en": "The doctor sees about thirty **patients** every single day.",
+  "example_ko": "그 의사는 매일 환자를 서른 명쯤 봐요.",
+  "nuance_ko": "patients는 patient(환자)의 복수형이에요. 형용사 patient(참을성 있는)와 철자가 같아서 문맥으로 구분해요. 병원에서 진료를 받는 사람이라는 뜻이라 outpatient(외래 환자), inpatient(입원 환자)처럼 확장돼요. 환자를 대하는 말투로는 일상에서 patients가 가장 중립적이에요. 발음은 [페이션츠]로 patience(인내)와도 비슷해서 철자를 주의해야 해요.",
+  "also": []
+ },
+ {
+  "w": "pave",
+  "pos": "v",
+  "meaning_ko": "포장하다, 길을 닦다",
+  "example_en": "The city will **pave** the old dirt road next summer.",
+  "example_ko": "시에서는 내년 여름에 그 오래된 비포장도로를 포장할 거예요.",
+  "nuance_ko": "pave는 도로나 바닥을 돌, 콘크리트, 아스팔트 등으로 덮어 포장한다는 뜻이에요. pave the way for ~는 '~의 길을 닦아 주다'라는 관용 표현으로 뉴스와 연설에서 흔해요. 반대말 형태로 unpaved road는 비포장도로예요. 영국 영어에서 pavement는 인도(보도)를 가리켜 미국의 sidewalk에 해당해요. 같은 단어가 영국과 미국에서 달라서 헷갈릴 수 있어요.",
+  "also": [
+   {
+    "w": "pavement",
+    "pos": "n",
+    "ko": "보도, 포장도로",
+    "en": "Please walk on the **pavement**, not in the road."
+   }
+  ]
+ },
+ {
+  "w": "peak",
+  "pos": "n",
+  "meaning_ko": "정상, 절정, 최고조",
+  "example_en": "Traffic reaches its **peak** around six o'clock in the evening.",
+  "example_ko": "교통량은 저녁 6시쯤 최고조에 달해요.",
+  "nuance_ko": "peak는 산의 뾰족한 정상을 뜻하고, 비유적으로 어떤 것이 가장 높거나 활발한 순간을 가리켜요. peak hour, peak season, at the peak of one's career가 대표적이에요. 동사로는 최고점에 이르다라는 뜻이라 prices peaked in March처럼 말해요. summit은 산의 최고 정상 또는 정상회담을 뜻하고 peak는 산뿐 아니라 그래프 위의 정점도 포함해요. 형용사로 peak time은 가장 붐비는 시간이에요.",
+  "also": []
+ },
+ {
+  "w": "peasant",
+  "pos": "n",
+  "meaning_ko": "소작농, 농민",
+  "example_en": "Most **peasants** in medieval Europe worked on land owned by nobles.",
+  "example_ko": "중세 유럽의 농민 대부분은 귀족 소유의 땅에서 일했어요.",
+  "nuance_ko": "peasant는 역사적으로 작은 땅에서 직접 농사를 짓던 신분이 낮은 농민을 가리켜요. 중세 유럽이나 전근대 사회를 설명할 때 주로 쓰여요. 오늘날 현대 농부에게 쓰면 모욕적으로 들릴 수 있어서 farmer를 써야 해요. 구어로 교양 없는 사람을 낮춰 부르는 말로도 쓰이니 주의가 필요해요. 한국어 '농민'과 달리 신분 낮음이라는 뉘앙스가 있어요.",
+  "also": []
+ },
+ {
+  "w": "peer",
+  "pos": "n",
+  "meaning_ko": "또래, 동료",
+  "example_en": "Teenagers are often strongly influenced by their **peers**.",
+  "example_ko": "십 대들은 또래 친구들의 영향을 크게 받는 경우가 많아요.",
+  "nuance_ko": "peer는 나이, 지위, 능력이 비슷한 또래나 동료를 가리켜요. peer pressure는 또래 압력, peer review는 같은 분야 전문가가 검토하는 동료 평가예요. 영국에서는 귀족 작위를 가진 사람도 peer라고 해요. 동사로 peer는 눈을 가늘게 뜨고 자세히 들여다본다는 뜻이라 peer through the window처럼 써요. 두 뜻이 완전히 달라 문맥을 봐야 해요.",
+  "also": []
+ },
+ {
+  "w": "penalty",
+  "pos": "n",
+  "meaning_ko": "처벌, 벌금, 페널티",
+  "example_en": "There's a heavy **penalty** for paying your taxes late.",
+  "example_ko": "세금을 늦게 내면 무거운 벌금이 있어요.",
+  "nuance_ko": "penalty는 규칙이나 법을 어겼을 때 받는 벌칙, 벌금, 불이익을 뜻해요. death penalty는 사형, penalty fee는 연체료예요. 스포츠에서는 반칙에 대한 페널티 킥, 페널티 샷 등을 가리켜요. 처벌 그 자체뿐 아니라 어떤 선택에 따르는 불이익도 가리켜서 the penalty of failure는 실패의 대가를 말해요. punishment는 더 일반적이고 감정적인 말이고, penalty는 규정에 따른 공식 처벌이라는 느낌이에요.",
+  "also": []
+ },
+ {
+  "w": "pepper",
+  "pos": "n",
+  "meaning_ko": "후추, 고추",
+  "example_en": "Could you pass me the salt and **pepper**, please?",
+  "example_ko": "소금이랑 후추 좀 건네줄래요?",
+  "nuance_ko": "pepper는 후추처럼 향신료로 쓰는 가루와, 피망·고추 같은 채소를 모두 가리켜요. black pepper는 후추이고 red pepper, green pepper는 고추나 파프리카를 말해요. 식탁에서 salt and pepper는 한 쌍으로 쓰이는 표현이에요. 한국 고추는 보통 chili pepper라고 구분해서 불러요. 동사 pepper는 곳곳에 뿌리듯 퍼붓는 뜻이라 pepper someone with questions는 질문을 쏟아붓는다는 말이에요.",
+  "also": []
+ },
+ {
+  "w": "perceive",
+  "pos": "v",
+  "meaning_ko": "인지하다, 인식하다",
+  "example_en": "Some customers **perceive** the new design as too plain.",
+  "example_ko": "일부 고객들은 새 디자인이 너무 밋밋하다고 받아들여요.",
+  "nuance_ko": "perceive는 감각이나 사고를 통해 어떤 것을 인식하고 받아들인다는 뜻이에요. 객관적인 사실이 아니라 개인의 인상이나 해석이 담긴 경우가 많아요. perceive A as B 형태로 'A를 B로 받아들이다'를 자주 말해요. see와 비슷하지만 더 격식 있고 해석의 의미가 강해요. perceived risk, perceived value처럼 형용사 형태 perceived가 비즈니스와 연구 글에서 많이 나와요.",
+  "also": [
+   {
+    "w": "perceived",
+    "pos": "adj",
+    "ko": "인식된, 느껴지는",
+    "en": "The **perceived** risk is higher than the real risk."
+   }
+  ]
+ },
+ {
+  "w": "perception",
+  "pos": "n",
+  "meaning_ko": "인식, 지각",
+  "example_en": "The ad changed the public's **perception** of the brand.",
+  "example_ko": "그 광고는 브랜드에 대한 대중의 인식을 바꿔 놓았어요.",
+  "nuance_ko": "perception은 사람들이 어떤 대상을 어떻게 받아들이고 이해하느냐를 가리켜요. 사실과 다를 수 있는 주관적 인상이라는 점이 중요해요. public perception, change perceptions, perception of risk 같은 짝꿍이 자주 쓰여요. 심리학에서는 감각 정보를 해석하는 지각 능력을 뜻해요. 동사 perceive와 짝이고 깊은 통찰을 가리키는 perceptive(통찰력 있는)와도 연결돼요.",
+  "also": []
+ },
+ {
+  "w": "permanent",
+  "pos": "adj",
+  "meaning_ko": "영구적인, 정규직의",
+  "example_en": "She finally got a **permanent** contract after two years of temp work.",
+  "example_ko": "그녀는 2년간 임시직으로 일한 끝에 마침내 정규직 계약을 얻었어요.",
+  "nuance_ko": "permanent는 오랫동안 또는 영구히 변하지 않는 상태를 뜻해요. permanent address, permanent job, permanent damage처럼 써요. 반대말은 temporary예요. permanent marker는 지워지지 않는 유성 마커를 말해요. 이민이나 거주에서는 permanent resident(영주권자)로 자주 나와요. 정규직 직원도 permanent staff라고 해서 취업 영어에서 아주 흔해요.",
+  "also": [
+   {
+    "w": "permanently",
+    "pos": "adv",
+    "ko": "영구적으로",
+    "en": "The store has **permanently** closed."
+   }
+  ]
+ },
+ {
+  "w": "permission",
+  "pos": "n",
+  "meaning_ko": "허락, 허가",
+  "example_en": "You need your parents' **permission** to join the school trip.",
+  "example_ko": "수학여행에 가려면 부모님의 허락이 필요해요.",
+  "nuance_ko": "permission은 어떤 일을 해도 좋다고 허락하는 승인을 뜻하는 불가산명사예요. ask for permission, give permission, with permission 같은 짝꿍으로 써요. 앱이나 시스템에서는 권한을 뜻하는 permissions로도 쓰이니 IT에서도 친숙해요. permit은 허가증 자체나 허락하다라는 동사고, permission은 허락하는 행위나 상태예요. without permission은 몰래 한다는 뉘앙스가 있어요.",
+  "also": []
+ },
+ {
+  "w": "permit",
+  "pos": "v",
+  "meaning_ko": "허용하다, 허가하다",
+  "example_en": "Smoking is not **permitted** inside the building.",
+  "example_ko": "건물 안에서는 흡연이 허용되지 않아요.",
+  "nuance_ko": "permit은 규칙이나 권한에 따라 어떤 일이 가능하도록 허락한다는 뜻의 격식 있는 동사예요. 수동태 be permitted to do가 안내문에서 가장 흔해요. weather permitting은 '날씨가 허락한다면'이라는 관용 표현이에요. 명사로는 [퍼-밋]으로 앞에 강세가 와서 허가증을 뜻하고 work permit, parking permit처럼 써요. 동사는 뒤 음절에 강세가 있다는 차이를 기억하세요.",
+  "also": []
+ },
+ {
+  "w": "persist",
+  "pos": "v",
+  "meaning_ko": "끈질기게 계속하다, 지속되다",
+  "example_en": "If the pain **persists**, please see a doctor.",
+  "example_ko": "통증이 계속되면 병원에 가 보세요.",
+  "nuance_ko": "persist는 어려움이나 반대에도 불구하고 계속 이어진다는 뜻이에요. 사람이 주어이면 끈기 있게 밀고 나간다는 긍정적 의미이고, 증상·문제가 주어이면 사라지지 않고 계속된다는 의미예요. persist in doing ~는 고집스럽게 계속한다는 약간 비판적인 어감이 있어요. 의학 안내문의 If symptoms persist는 대표적 표현이에요. 명사 persistence는 끈기이고 형용사 persistent는 끈질긴, 지속적인이에요.",
+  "also": [
+   {
+    "w": "persistent",
+    "pos": "adj",
+    "ko": "끈질긴, 지속적인",
+    "en": "He has a **persistent** cough that won't go away."
+   },
+   {
+    "w": "persistence",
+    "pos": "n",
+    "ko": "끈기, 지속",
+    "en": "Her **persistence** finally paid off."
+   }
+  ]
+ },
+ {
+  "w": "personality",
+  "pos": "n",
+  "meaning_ko": "성격, 개성",
+  "example_en": "She has a warm **personality** that makes everyone feel welcome.",
+  "example_ko": "그녀는 따뜻한 성격이라 누구나 편안하게 만들어요.",
+  "nuance_ko": "personality는 한 사람의 고유한 성격, 말투, 행동 방식을 아우르는 말이에요. a strong personality, a great personality, personality test 같은 짝꿍이 흔해요. character는 도덕적 품성에 더 가깝고 personality는 타고난 기질과 개성에 가까워요. 유명 인사를 가리켜 TV personality처럼 쓰기도 해요. 한국 학습자가 성격이 좋다고 말할 때 good personality라고 하는 건 자연스러운 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "personnel",
+  "pos": "n",
+  "meaning_ko": "직원, 인사 부서",
+  "example_en": "Only authorized **personnel** are allowed to enter this area.",
+  "example_ko": "허가받은 직원만 이 구역에 들어갈 수 있어요.",
+  "nuance_ko": "personnel은 한 조직에 속한 전체 직원이나 군 병력을 가리키는 집합명사예요. 보통 복수 취급을 해서 personnel are로 써요. 회사에서는 인사부서를 Personnel department라고 부르다가 요즘은 HR(Human Resources)을 더 많이 써요. 개별 직원을 가리킬 땐 a member of personnel이라고 해요. 안내문의 Authorized personnel only는 대표적 표현이에요. 철자가 많은 n과 l 때문에 자주 틀려요.",
+  "also": []
+ },
+ {
+  "w": "perspective",
+  "pos": "n",
+  "meaning_ko": "관점, 시각, 원근법",
+  "example_en": "Living abroad gave me a whole new **perspective** on my own country.",
+  "example_ko": "해외에서 살아 보니 내 나라를 보는 시각이 완전히 새로워졌어요.",
+  "nuance_ko": "perspective는 어떤 일을 바라보는 관점이나 시각을 뜻해요. from my perspective는 '내 입장에서 보면'이고 put things into perspective는 '상황을 객관적으로 바라보다'예요. gain a new perspective, different perspectives 같은 짝꿍이 흔해요. 미술에서는 원근법을 뜻하기도 해요. point of view와 거의 비슷하지만 perspective는 더 넓고 깊은 시야를 암시하는 편이에요.",
+  "also": []
+ },
+ {
+  "w": "persuade",
+  "pos": "v",
+  "meaning_ko": "설득하다",
+  "example_en": "I finally **persuaded** my brother to come with us.",
+  "example_ko": "결국 형을 설득해서 우리랑 같이 가게 했어요.",
+  "nuance_ko": "persuade는 이유를 대거나 말로 설득해서 상대가 행동하거나 믿게 만든다는 뜻이에요. persuade someone to do ~ 형태로 쓰고, 결과를 이뤘다는 의미를 포함해요. 그래서 시도만 했을 때는 try to persuade라고 해야 해요. convince는 믿게 만드는 쪽이고 persuade는 행동하게 만드는 쪽이라는 구분이 있어요. 명사는 persuasion, 형용사 persuasive는 설득력 있는이에요.",
+  "also": []
+ },
+ {
+  "w": "petrol",
+  "pos": "n",
+  "meaning_ko": "휘발유, 가솔린",
+  "example_en": "We stopped at a station to fill up with **petrol**.",
+  "example_ko": "우리는 주유소에 들러 휘발유를 가득 넣었어요.",
+  "nuance_ko": "petrol은 영국, 호주 등에서 쓰는 자동차 연료 휘발유예요. 미국에서는 gasoline 또는 줄여서 gas라고 불러서 같은 물건을 두 가지 이름으로 말해요. petrol station은 주유소이고 미국에서는 gas station이에요. 디젤 연료는 diesel이고 전기차는 electric vehicle이라 구분돼요. 해외 여행이나 영국 영어 학습에서 반드시 마주치는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "phase",
+  "pos": "n",
+  "meaning_ko": "단계, 시기",
+  "example_en": "The project is now entering its final **phase**.",
+  "example_ko": "프로젝트가 이제 마지막 단계에 접어들었어요.",
+  "nuance_ko": "phase는 변화나 발전 과정에서 구분되는 한 단계나 시기를 뜻해요. the first phase, a transitional phase, go through a phase처럼 써요. 아이가 일정 기간 보이는 행동 변화를 가리켜 It's just a phase라고도 해요. stage와 비슷하지만 phase는 서로 구별되는 성격을 가진 시기를 가리켜요. 달의 모양 변화를 moon phases라고 하는 것도 같은 어원이에요.",
+  "also": []
+ },
+ {
+  "w": "phenomenon",
+  "pos": "n",
+  "meaning_ko": "현상",
+  "example_en": "Northern lights are a natural **phenomenon** that attracts many tourists.",
+  "example_ko": "오로라는 많은 관광객을 끄는 자연 현상이에요.",
+  "nuance_ko": "phenomenon은 관찰할 수 있는 현상이나 사건을 뜻해요. 자연 현상뿐 아니라 사회 현상도 포함해요. 복수형이 phenomena로 불규칙해서 자주 틀리는 단어예요. a phenomenon는 단수, these phenomena는 복수라고 외우세요. 비유적으로 엄청난 인기를 끄는 사람이나 물건을 a global phenomenon이라고 불러요. 학술과 뉴스에서 흔한 격식 있는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "philosophy",
+  "pos": "n",
+  "meaning_ko": "철학, 인생관",
+  "example_en": "His **philosophy** of life is to keep things simple.",
+  "example_ko": "그의 인생철학은 모든 걸 단순하게 사는 거예요.",
+  "nuance_ko": "philosophy는 존재, 지식, 윤리 등을 탐구하는 학문인 철학을 뜻해요. 일상에서는 개인이나 조직이 믿고 따르는 기본 원칙이나 인생관을 가리켜요. my philosophy is ~, a management philosophy 같은 표현이 흔해요. 대학 전공으로는 study philosophy 또는 major in philosophy라고 해요. 철학자는 philosopher이고 형용사 philosophical은 '철학적인, 침착하게 받아들이는'이라는 뜻도 있어요.",
+  "also": [
+   {
+    "w": "philosopher",
+    "pos": "n",
+    "ko": "철학자",
+    "en": "Socrates was a famous Greek **philosopher**."
+   },
+   {
+    "w": "philosophical",
+    "pos": "adj",
+    "ko": "철학적인",
+    "en": "He is very **philosophical** about losing the game."
+   }
+  ]
+ },
+ {
+  "w": "phrase",
+  "pos": "n",
+  "meaning_ko": "구절, 표현",
+  "example_en": "Is there a better **phrase** for what I'm trying to say?",
+  "example_ko": "내가 하려는 말을 나타낼 더 좋은 표현이 있을까요?",
+  "nuance_ko": "phrase는 문법적으로 완전한 문장이 아닌 두 단어 이상의 묶음, 즉 구를 뜻해요. 일상에서는 자주 쓰는 표현이나 관용구를 가리켜요. a useful phrase, a common phrase처럼 쓰고 expression과 비슷하지만 phrase가 좀 더 단어 묶음에 초점이 있어요. 동사로 phrase는 특정 방식으로 표현한다는 뜻이라 How should I phrase this?는 '이걸 어떻게 말하면 좋을까?'예요. 영어 회화 책에서 phrasebook으로 자주 만나요.",
+  "also": [
+   {
+    "w": "rephrase",
+    "pos": "v",
+    "ko": "다르게 표현하다",
+    "en": "Could you **rephrase** the question? I didn't get it."
+   }
+  ]
+ },
+ {
+  "w": "pilot",
+  "pos": "n",
+  "meaning_ko": "조종사, 시범 사업",
+  "example_en": "The **pilot** announced that we'd land in about twenty minutes.",
+  "example_ko": "조종사가 약 20분 후에 착륙한다고 안내했어요.",
+  "nuance_ko": "pilot은 비행기를 조종하는 조종사이면서, 배를 안내하는 도선사도 뜻해요. 두 번째 중요한 뜻은 본격 시행 전에 시험적으로 해 보는 pilot program, pilot study예요. 방송에서는 연속극의 첫 시험 방영분인 파일럿 에피소드를 가리켜요. 동사로 pilot은 시범 운영한다는 뜻으로 쓰여요. 같은 단어가 항공과 시험 운영 양쪽에 다 쓰이니 문맥을 확인하세요.",
+  "also": []
+ },
+ {
+  "w": "pit",
+  "pos": "n",
+  "meaning_ko": "구덩이, (과일의) 씨",
+  "example_en": "They dug a deep **pit** in the garden to plant the tree.",
+  "example_ko": "그들은 나무를 심으려고 정원에 깊은 구덩이를 팠어요.",
+  "nuance_ko": "pit은 땅에 판 깊은 구덩이를 말해요. 광산을 coal pit이라고도 하고, 자동차 경주의 정비 구역은 pit stop이에요. 미국 영어에서는 복숭아나 체리 같은 과일의 큰 씨도 pit이라고 불러요. 비유적으로 the pit of my stomach는 걱정될 때 속이 불편한 느낌을 말해요. 동사로는 '맞서게 하다'라는 pit A against B 구문이 중요해요.",
+  "also": []
+ },
+ {
+  "w": "platform",
+  "pos": "n",
+  "meaning_ko": "승강장, 플랫폼, 연단",
+  "example_en": "The train to Busan leaves from **platform** nine in five minutes.",
+  "example_ko": "부산행 열차는 5분 뒤 9번 승강장에서 출발해요.",
+  "nuance_ko": "platform은 기차역에서 승객이 타고 내리는 승강장이 가장 일상적인 뜻이에요. 사람이 올라서서 연설하는 연단, 정치인의 정책 강령도 platform이라고 해요. 오늘날은 소프트웨어나 서비스가 올라가는 기반인 디지털 플랫폼을 가리키는 쓰임이 가장 많아요. social media platform, trading platform처럼 써요. 어떤 일을 하는 기회·발판이라는 비유로도 써서 provide a platform for ~라고 해요.",
+  "also": []
+ },
+ {
+  "w": "plot",
+  "pos": "n",
+  "meaning_ko": "줄거리, 음모, 작은 땅",
+  "example_en": "The movie had a great cast, but the **plot** was boring.",
+  "example_ko": "그 영화는 출연진은 좋았는데 줄거리가 지루했어요.",
+  "nuance_ko": "plot은 이야기의 줄거리와 사건의 흐름을 뜻해요. 또 다른 뜻은 나쁜 일을 꾸미는 음모로, a plot to overthrow the government처럼 써요. 작은 땅 한 구획도 plot이라서 a plot of land가 부동산이나 정원에서 나와요. lose the plot은 상황 파악을 못하고 정신 못 차린다는 구어 표현이에요. 동사로는 계획을 꾸미거나 그래프에 점을 찍는다는 뜻도 있어요.",
+  "also": []
+ },
+ {
+  "w": "poll",
+  "pos": "n",
+  "meaning_ko": "여론조사, 투표",
+  "example_en": "A recent **poll** shows that most people support the plan.",
+  "example_ko": "최근 여론조사에 따르면 대부분이 그 계획을 지지해요.",
+  "nuance_ko": "poll은 많은 사람에게 의견을 물어 집계하는 여론조사를 뜻해요. opinion poll, exit poll, poll results처럼 선거와 뉴스에서 자주 나와요. the polls는 투표 자체를 가리키기도 해서 go to the polls는 '투표하러 가다'예요. 소셜 미디어의 간단한 설문 기능도 poll이라고 불러요. survey는 더 길고 상세한 조사를 뜻해서 poll보다 깊이 있게 물을 때 써요.",
+  "also": []
+ },
+ {
+  "w": "portion",
+  "pos": "n",
+  "meaning_ko": "일부, 1인분, 몫",
+  "example_en": "The restaurant serves very large **portions**, so I took half home.",
+  "example_ko": "그 식당은 1인분 양이 엄청 많아서 절반은 싸 갔어요.",
+  "nuance_ko": "portion은 전체에서 나눈 한 부분이나 음식의 1인분을 뜻해요. a large portion of ~는 '상당 부분'이라는 뜻으로 보고서나 뉴스에서 자주 써요. 음식에서는 portion size라고 하면 1회 제공량을 말해요. part와 비슷하지만 portion은 분배·할당된 몫이라는 느낌이 더 있어요. 동사로 portion out은 나누어 주는 걸 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "portrait",
+  "pos": "n",
+  "meaning_ko": "초상화, 인물 사진, 세로 방향",
+  "example_en": "The museum has a famous **portrait** of the queen.",
+  "example_ko": "그 박물관에는 여왕의 유명한 초상화가 있어요.",
+  "nuance_ko": "portrait는 사람의 얼굴이나 모습을 담은 초상화나 인물 사진을 뜻해요. 글로 인물을 묘사한 것도 portrait라고 불러서 a portrait of a young artist처럼 제목에도 쓰여요. 사진이나 문서 설정에서는 세로 방향을 portrait, 가로 방향을 landscape라고 해요. 자화상은 self-portrait예요. 사진 앱의 인물 모드 이름이기도 해서 일상에서 자주 보여요.",
+  "also": []
+ },
+ {
+  "w": "pose",
+  "pos": "v",
+  "meaning_ko": "제기하다, 자세를 취하다",
+  "example_en": "The new law could **pose** a serious problem for small businesses.",
+  "example_ko": "새 법은 소규모 업체에 심각한 문제를 일으킬 수 있어요.",
+  "nuance_ko": "pose는 위험이나 문제를 제기한다는 뜻으로 pose a threat, pose a question, pose a problem 같은 표현이 아주 흔해요. 사진을 찍으려고 자세를 취하는 pose for a photo의 뜻도 있어요. 명사로는 자세, 포즈예요. 누군가인 척하는 pose as ~는 사기나 위장을 말하는 표현이에요. 한국어 포즈보다 문제를 제기하는 뜻이 영어에서는 훨씬 활발하게 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "potential",
+  "pos": "adj",
+  "meaning_ko": "잠재적인, 가능성이 있는",
+  "example_en": "The company is looking for **potential** investors for its new project.",
+  "example_ko": "회사는 새 프로젝트에 투자할 잠재적 투자자를 찾고 있어요.",
+  "nuance_ko": "potential은 아직 실현되지는 않았지만 앞으로 그렇게 될 수 있는 가능성을 가리키는 형용사예요. potential customers, potential risks, potential problems처럼 써요. 명사로는 잠재력이라는 뜻이라 reach your full potential은 '자신의 잠재력을 최대로 발휘하다'예요. possible보다 앞으로의 발전 가능성에 방점이 있고, 위험에 쓰면 아직 일어나지 않은 위험을 가리켜요. 비즈니스, 학교, 일상 모두에서 쓰여요.",
+  "also": [
+   {
+    "w": "potentially",
+    "pos": "adv",
+    "ko": "잠재적으로",
+    "en": "This could be **potentially** dangerous for kids."
+   }
+  ]
+ }
+]

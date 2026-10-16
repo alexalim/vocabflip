@@ -1,0 +1,1586 @@
+[
+ {
+  "w": "distant",
+  "pos": "adj",
+  "meaning_ko": "먼, 거리가 있는",
+  "example_en": "We could hear **distant** thunder as we packed up the picnic.",
+  "example_ko": "소풍 짐을 싸는데 멀리서 천둥소리가 들렸어.",
+  "nuance_ko": "distant는 공간이나 시간상으로 멀리 떨어져 있다는 뜻이에요. a distant star, in the distant past(먼 과거), a distant relative(먼 친척)처럼 써요. 사람의 태도가 차갑고 거리감 있을 때도 쓰여서 'He seemed distant lately'는 '요즘 걔가 좀 멀게 느껴져'라는 뜻이에요. far는 거리 자체를 말하고, distant는 형용사로 명사 앞에서 꾸미는 경우가 많아요. 'distant memory'는 흐릿하게 아득한 기억이에요. 명사 distance(거리)와 짝으로 기억해 두세요.",
+  "also": [
+   {
+    "w": "distantly",
+    "pos": "adv",
+    "ko": "멀리, 희미하게",
+    "en": "They are **distantly** related."
+   }
+  ]
+ },
+ {
+  "w": "distinct",
+  "pos": "adj",
+  "meaning_ko": "뚜렷한, 별개의",
+  "example_en": "The two languages are **distinct** despite their similar sounds.",
+  "example_ko": "그 두 언어는 소리가 비슷해도 서로 별개의 언어야.",
+  "nuance_ko": "distinct에는 두 가지 쓰임이 있어요. 하나는 '뚜렷한, 분명한'(a distinct smell, a distinct possibility)이고, 다른 하나는 '별개의, 구별되는'(two distinct groups)이에요. 'distinct from ~'은 '~와 구별되는'이에요. clear는 이해가 쉬울 만큼 분명한 것이고, distinct는 다른 것과 확실히 구분될 만큼 뚜렷하다는 느낌이에요. 반대는 indistinct(흐릿한)예요. 명사 distinction은 '구별, 차이, 탁월함'이라 'a distinction between A and B'처럼 써요.",
+  "also": [
+   {
+    "w": "distinction",
+    "pos": "n",
+    "ko": "구별, 차이",
+    "en": "There's a clear **distinction** between the two ideas."
+   },
+   {
+    "w": "distinctive",
+    "pos": "adj",
+    "ko": "독특한, 특유의",
+    "en": "She has a **distinctive** laugh."
+   },
+   {
+    "w": "distinctly",
+    "pos": "adv",
+    "ko": "뚜렷하게",
+    "en": "I **distinctly** remember locking the door."
+   }
+  ]
+ },
+ {
+  "w": "distinguish",
+  "pos": "v",
+  "meaning_ko": "구별하다, 식별하다",
+  "example_en": "It's hard to **distinguish** the twins from each other.",
+  "example_ko": "그 쌍둥이는 서로 구별하기가 어려워.",
+  "nuance_ko": "distinguish는 비슷해 보이는 것들 사이에서 차이를 알아보고 구별한다는 뜻이에요. distinguish A from B, distinguish between A and B 두 구문이 모두 쓰여요. tell the difference와 비슷하지만 distinguish가 더 격식 있어요. 또 '~을 특징짓다'(What distinguishes this brand?)라는 뜻도 있어요. 'distinguish yourself'는 눈에 띄게 뛰어난 성과를 내다라는 뜻이에요. 형용사 distinguished는 '저명한, 훌륭한'(a distinguished professor)이에요.",
+  "also": [
+   {
+    "w": "distinguished",
+    "pos": "adj",
+    "ko": "저명한, 훌륭한",
+    "en": "He is a **distinguished** professor of physics."
+   },
+   {
+    "w": "indistinguishable",
+    "pos": "adj",
+    "ko": "구별할 수 없는",
+    "en": "The copy is **indistinguishable** from the original."
+   }
+  ]
+ },
+ {
+  "w": "distribute",
+  "pos": "v",
+  "meaning_ko": "나눠 주다, 배포하다",
+  "example_en": "Volunteers **distributed** free meals to people in need.",
+  "example_ko": "자원봉사자들이 어려운 사람들에게 무료 식사를 나눠 줬어.",
+  "nuance_ko": "distribute는 여러 사람이나 장소에 골고루 나누어 주거나 유통시킨다는 뜻이에요. distribute food, distribute flyers(전단지를 배포하다), distribute profits처럼 써요. 상품을 소매점에 공급하는 유통(distribute products)도 뜻해요. give out은 구어체로 '나눠 주다'이고 distribute가 더 격식 있어요. 수동태 'be distributed evenly'는 고르게 분포한다는 뜻이에요. 명사 distribution은 '배포, 분배, 유통'이고, distributor는 '유통업자'예요.",
+  "also": [
+   {
+    "w": "distribution",
+    "pos": "n",
+    "ko": "분배, 유통",
+    "en": "The **distribution** of food was well organized."
+   },
+   {
+    "w": "distributor",
+    "pos": "n",
+    "ko": "유통업자",
+    "en": "The company works with a local **distributor**."
+   }
+  ]
+ },
+ {
+  "w": "diverse",
+  "pos": "adj",
+  "meaning_ko": "다양한",
+  "example_en": "The city has a very **diverse** population from all over the world.",
+  "example_ko": "그 도시에는 전 세계에서 온 매우 다양한 사람들이 살아.",
+  "nuance_ko": "diverse는 종류, 배경, 의견 등이 서로 다른 것이 다양하게 섞여 있다는 뜻이에요. a diverse group, a diverse range of ~, culturally diverse처럼 써요. various는 여러 가지라는 뜻이고, diverse는 서로 확연히 다른 것들이 모여 있다는 점이 강조돼요. 요즘 사회에서는 인종, 성별, 문화적 다양성을 말할 때 정말 자주 써요(diversity and inclusion). 명사 diversity는 '다양성'으로 불가산이고, 동사 diversify(다양화하다)는 비즈니스에서 자주 나와요.",
+  "also": [
+   {
+    "w": "diversity",
+    "pos": "n",
+    "ko": "다양성",
+    "en": "The school values cultural **diversity**."
+   }
+  ]
+ },
+ {
+  "w": "division",
+  "pos": "n",
+  "meaning_ko": "분열, 부서, 나눗셈",
+  "example_en": "She works in the sales **division** of a large company.",
+  "example_ko": "걔는 대기업의 영업 부서에서 일해.",
+  "nuance_ko": "division은 쪼개거나 나누는 행위, 그 결과 생긴 부분이에요. 회사에서는 '부서, 사업부'(the sales division), 수학에서는 '나눗셈', 사회에서는 '분열, 불화'(a division within the party)를 뜻해요. 스포츠에서는 리그의 등급(the first division)을 말해요. 동사 divide의 명사형이라서 'division of labor'(분업)처럼 나누는 방식을 가리키기도 해요. department는 조직 내 부서이고, division은 그보다 더 큰 사업 단위인 경우가 많아요.",
+  "also": []
+ },
+ {
+  "w": "doctrine",
+  "pos": "n",
+  "meaning_ko": "교리, 원칙",
+  "example_en": "The church's **doctrine** has changed little over centuries.",
+  "example_ko": "그 교회의 교리는 수 세기 동안 거의 바뀌지 않았어.",
+  "nuance_ko": "doctrine은 종교나 정치 집단이 공식적으로 가르치고 믿는 교리·원칙을 말해요. religious doctrine(종교 교리), military doctrine(군사 교리)처럼 써요. 미국 외교에서는 'the Monroe Doctrine'(먼로 독트린)처럼 대통령의 정책 원칙을 이름 붙이는 용법이 유명해요. belief보다 체계적으로 정리된 가르침이라는 느낌이에요. 법률에서는 판례에서 나온 법리를 doctrine이라 불러요. 형용사 doctrinal은 '교리상의'예요.",
+  "also": []
+ },
+ {
+  "w": "document",
+  "pos": "n",
+  "meaning_ko": "문서, 서류",
+  "example_en": "Please sign the **document** and send it back by Friday.",
+  "example_ko": "문서에 서명해서 금요일까지 다시 보내 주세요.",
+  "nuance_ko": "document는 공식 정보를 담은 문서나 서류, 컴퓨터의 파일 하나(Word document)를 말해요. legal document, official document, travel documents(여행 서류)처럼 써요. 동사로는 /ˈdɑːkjumənt/로 '기록하다, 문서로 남기다'라서 'document the process'는 과정을 기록하는 거예요. 영상이나 사진으로 증거를 남기는 것도 document라고 해요. paper는 일반적인 종이나 서류이고, document는 증빙 가치를 가진 문서라는 느낌이에요. 형용사 documented는 '기록된, 입증된'이에요.",
+  "also": [
+   {
+    "w": "documentation",
+    "pos": "n",
+    "ko": "문서화, 증빙 서류",
+    "en": "Make sure you have all the necessary **documentation**."
+   },
+   {
+    "w": "documented",
+    "pos": "adj",
+    "ko": "문서로 기록된",
+    "en": "The side effects are well **documented**."
+   }
+  ]
+ },
+ {
+  "w": "domestic",
+  "pos": "adj",
+  "meaning_ko": "국내의, 가정의",
+  "example_en": "The airline offers both **domestic** and international flights.",
+  "example_ko": "그 항공사는 국내선과 국제선을 모두 운항해.",
+  "nuance_ko": "domestic은 두 가지 영역에서 쓰여요. 나라 안의 일(domestic flights, domestic politics)을 말하거나, 가정 안의 일(domestic chores, domestic violence)을 말해요. 동물에 쓰면 '길들여진'(domestic animals)이라서 야생(wild)과 대비돼요. 반대는 국제적인 것을 가리키는 international, foreign이에요. GDP의 D가 바로 domestic(Gross Domestic Product)이에요. 'domestic market'은 국내 시장이에요. 명사로 domestics는 가사 도우미를 뜻하는 옛말이에요.",
+  "also": [
+   {
+    "w": "domestically",
+    "pos": "adv",
+    "ko": "국내에서",
+    "en": "The product is made **domestically**."
+   }
+  ]
+ },
+ {
+  "w": "dominant",
+  "pos": "adj",
+  "meaning_ko": "지배적인, 우세한",
+  "example_en": "English is the **dominant** language in international business.",
+  "example_ko": "영어는 국제 비즈니스에서 지배적인 언어야.",
+  "nuance_ko": "dominant는 다른 것들보다 힘이나 영향력이 훨씬 커서 지배적이라는 뜻이에요. the dominant player(주도적인 업체), a dominant position, dominant culture처럼 써요. 생물학에서는 '우성'(dominant gene)을 말하고, 반대는 recessive(열성)예요. 음악에서는 5도 음인 '딸림음'을 dominant라고 해요. main은 가장 중요하다는 의미이고, dominant는 다른 것을 압도하며 우위에 있다는 느낌이에요. 'dominant hand'는 주로 쓰는 손이에요.",
+  "also": []
+ },
+ {
+  "w": "dominate",
+  "pos": "v",
+  "meaning_ko": "지배하다, 압도하다",
+  "example_en": "One company **dominates** the entire online shopping market.",
+  "example_ko": "한 회사가 온라인 쇼핑 시장 전체를 지배하고 있어.",
+  "nuance_ko": "dominate는 힘이나 영향력으로 다른 것들을 압도하고 주도한다는 뜻이에요. dominate the market, dominate the conversation, dominate the headlines처럼 써요. 스포츠에서는 경기를 압도하는 것(dominate the game)이에요. 사람이 대화를 독점하는 것에도 쓰여서 'He dominates every meeting'은 걔가 회의를 독점한다는 뜻이에요. 부정적인 뉘앙스가 있을 수 있어요. 명사 domination은 '지배', 형용사 dominant는 '지배적인'이에요.",
+  "also": [
+   {
+    "w": "domination",
+    "pos": "n",
+    "ko": "지배",
+    "en": "The country fought against foreign **domination**."
+   }
+  ]
+ },
+ {
+  "w": "donate",
+  "pos": "v",
+  "meaning_ko": "기부하다, 기증하다",
+  "example_en": "She **donated** her old clothes to a local charity.",
+  "example_ko": "걔는 입던 옷을 지역 자선단체에 기부했어.",
+  "nuance_ko": "donate는 돈이나 물건, 혈액, 장기 등을 대가 없이 기부하거나 기증한다는 뜻이에요. donate to a charity, donate blood, donate money처럼 써요. 받는 대상에 to를 쓰는 점이 중요해요. give는 일반적으로 주는 것이고, donate는 공익이나 자선 목적의 기부에 쓰는 격식 있는 단어예요. 명사 donation은 '기부(금), 기증'이고 donor는 '기부자, 장기 기증자'예요. 'make a donation'은 기부하다라는 자연스러운 표현이에요.",
+  "also": [
+   {
+    "w": "donation",
+    "pos": "n",
+    "ko": "기부(금), 기증",
+    "en": "Thank you for your generous **donation**."
+   }
+  ]
+ },
+ {
+  "w": "dose",
+  "pos": "n",
+  "meaning_ko": "복용량, 1회분",
+  "example_en": "Don't take more than one **dose** of this medicine a day.",
+  "example_ko": "이 약은 하루에 한 번 이상 복용하지 마세요.",
+  "nuance_ko": "dose는 약이나 방사선을 한 번에 쓰는 정해진 양, 즉 1회 복용량이에요. a double dose, the recommended dose(권장 복용량), a lethal dose(치사량)처럼 써요. 비유적으로 'a dose of reality'(현실의 쓴맛), 'a dose of humor'처럼 어떤 요소를 조금 맛보는 표현도 있어요. 백신에서는 first dose, second dose로 접종 차수를 말해요. dosage는 약의 용량과 복용 방식을 가리키는 더 포괄적인 말이에요. 동사로 '약을 투여하다'(dose a patient)도 가능해요.",
+  "also": [
+   {
+    "w": "dosage",
+    "pos": "n",
+    "ko": "복용량",
+    "en": "Check the **dosage** on the label."
+   }
+  ]
+ },
+ {
+  "w": "draft",
+  "pos": "n",
+  "meaning_ko": "초안, 징병",
+  "example_en": "I've written a first **draft**, but it still needs work.",
+  "example_ko": "초안은 썼는데 아직 손볼 게 많아.",
+  "nuance_ko": "draft는 완성되지 않은 초안이나 밑그림이에요. first draft, final draft, a rough draft처럼 쓰고, 이메일에서는 임시 저장된 메일을 draft라고 불러요. 스포츠에서는 신인 선수를 뽑는 드래프트(the NBA draft)이고, 군대에서는 징병(the draft)을 뜻해요. 영국 영어에서는 draught와 같은 철자로 외풍(a cold draft)을 가리켜요. 동사로는 '초안을 쓰다, 선발하다'(draft a letter, be drafted)예요. 'Is there a draft in here?'는 '여기 바람이 들어와?'라는 뜻이에요.",
+  "also": [
+   {
+    "w": "drafted",
+    "pos": "adj",
+    "ko": "징집된, 선발된",
+    "en": "He was **drafted** by a pro basketball team."
+   }
+  ]
+ },
+ {
+  "w": "drain",
+  "pos": "n",
+  "meaning_ko": "배수구, 하수구",
+  "example_en": "The sink is blocked; I think something is stuck in the **drain**.",
+  "example_ko": "싱크대가 막혔어. 배수구에 뭔가 걸린 것 같아.",
+  "nuance_ko": "drain은 물이 빠져나가는 배수구나 하수관을 말해요. 막힌 배수구는 clogged drain이라고 하고, 'down the drain'은 '헛수고가 되어'라는 관용구로 돈이나 노력이 허사가 된다는 뜻이에요. 동사로는 '물을 빼다'(drain the pasta)와 '고갈시키다, 기운을 빼앗다'(feel drained)의 뜻이 있어요. 'drained'는 완전히 지쳤다는 뜻으로 일상에서 자주 써요. 명사로 'a drain on resources'는 자원을 소모시키는 부담이라는 뜻이에요. 'brain drain'은 인재 유출이에요.",
+  "also": [
+   {
+    "w": "drainage",
+    "pos": "n",
+    "ko": "배수",
+    "en": "The city improved its **drainage** system after the flood."
+   },
+   {
+    "w": "drained",
+    "pos": "adj",
+    "ko": "기진맥진한",
+    "en": "I feel completely **drained** after that meeting."
+   }
+  ]
+ },
+ {
+  "w": "drift",
+  "pos": "v",
+  "meaning_ko": "떠돌다, 표류하다",
+  "example_en": "The boat slowly **drifted** away from the shore.",
+  "example_ko": "배가 해안에서 천천히 떠내려갔어.",
+  "nuance_ko": "drift는 바람이나 물살에 실려 목적 없이 천천히 떠가는 그림이에요. 배가 표류하는 것, 눈이 흩날리는 것, 구름이 흘러가는 것에 써요. 비유적으로 'drift apart'는 친구 사이가 서서히 멀어지는 것, 'drift off to sleep'은 스르르 잠드는 것이에요. 'drift into ~'는 '~으로 무심코 빠지다'라는 뜻이에요. 명사 drift는 '표류, 눈더미, 대략의 취지'로 'catch my drift'는 '내 말뜻 알겠지?'라는 구어 표현이에요.",
+  "also": [
+   {
+    "w": "drifting",
+    "pos": "adj",
+    "ko": "떠다니는",
+    "en": "We watched the **drifting** clouds."
+   }
+  ]
+ },
+ {
+  "w": "drill",
+  "pos": "n",
+  "meaning_ko": "드릴, 반복 훈련",
+  "example_en": "We have a fire **drill** at school every month.",
+  "example_ko": "우리 학교는 매달 화재 대피 훈련을 해.",
+  "nuance_ko": "drill은 구멍을 뚫는 전동 드릴이고, 반복 연습이나 훈련을 뜻하기도 해요. fire drill(소방 훈련), emergency drill, grammar drills(문법 반복 연습)처럼 써요. 이 두 뜻이 '반복해서 파고들다'라는 공통 그림에서 나왔어요. 동사로는 '구멍을 뚫다'(drill a hole)와 '반복 훈련시키다'(drill students on vocabulary)가 있어요. 석유 시추(drill for oil)에도 써요. practice는 연습 일반이고, drill은 정해진 절차를 반복하는 훈련이라는 느낌이에요.",
+  "also": [
+   {
+    "w": "drilling",
+    "pos": "n",
+    "ko": "시추, 굴착",
+    "en": "Oil **drilling** began in the area last year."
+   }
+  ]
+ },
+ {
+  "w": "duke",
+  "pos": "n",
+  "meaning_ko": "공작",
+  "example_en": "The **Duke** of Cambridge visited the hospital yesterday.",
+  "example_ko": "케임브리지 공작이 어제 병원을 방문했어.",
+  "nuance_ko": "duke는 영국 귀족 계급 중 왕족 다음으로 높은 공작이에요. 순서는 duke(공작), marquess(후작), earl(백작), viscount(자작), baron(남작) 순이에요. 여성형은 duchess(공작 부인 또는 여공작)예요. 'the Duke of Edinburgh'처럼 칭호는 대문자로 쓰고 지명이 뒤에 붙어요. 미국 영어에서는 'Duke University'로 익숙한데 이건 사람 이름에서 온 거예요. 구어체 'put up your dukes'는 주먹을 쥐고 싸울 태세를 취한다는 뜻이에요.",
+  "also": [
+   {
+    "w": "archduke",
+    "pos": "n",
+    "ko": "대공",
+    "en": "The **archduke** was a member of the royal family."
+   }
+  ]
+ },
+ {
+  "w": "eager",
+  "pos": "adj",
+  "meaning_ko": "열망하는, 간절히 ~하고 싶은",
+  "example_en": "The kids were **eager** to open their presents.",
+  "example_ko": "아이들은 선물을 얼른 열어 보고 싶어서 안달이었어.",
+  "nuance_ko": "eager는 어떤 일을 몹시 하고 싶어서 마음이 들떠 있다는 뜻이에요. be eager to + 동사, be eager for + 명사 구문으로 써요. 'eager to please'(남을 기쁘게 하려 애쓰는), 'an eager student'(열의에 찬 학생)처럼 긍정적인 열정을 나타내요. excited가 들뜬 감정 자체라면 eager는 '하고 싶은 마음'과 기대가 앞서 있는 상태예요. anxious는 걱정되지만 eager는 즐거운 기대가 담겨 있어요. 한국 학습자는 eager to를 want to처럼만 이해하기 쉬운데 훨씬 강한 열의예요.",
+  "also": [
+   {
+    "w": "eagerly",
+    "pos": "adv",
+    "ko": "간절히, 열심히",
+    "en": "Fans **eagerly** waited for the new album."
+   }
+  ]
+ },
+ {
+  "w": "eastern",
+  "pos": "adj",
+  "meaning_ko": "동쪽의, 동부의",
+  "example_en": "They traveled across **eastern** Europe by train last summer.",
+  "example_ko": "그 사람들은 지난여름에 기차로 동유럽을 여행했어.",
+  "nuance_ko": "eastern은 방향과 위치로 '동쪽의, 동부의'를 뜻하는 형용사예요. eastern Europe(동유럽), the eastern coast(동쪽 해안)처럼 써요. 대문자 Eastern은 동양 문화나 지역을 가리켜서 Eastern philosophy, Eastern medicine이라고 해요. east는 명사나 부사로 쓰는 반면 eastern은 명사 앞에서 꾸미는 형용사예요. 'east Asia'와 'Eastern Asia' 둘 다 쓰이지만 방향 의미가 중심이면 eastern이 자연스러워요. 반대는 western(서쪽의)이에요.",
+  "also": [
+   {
+    "w": "easterner",
+    "pos": "n",
+    "ko": "동부 사람",
+    "en": "He is an **easterner** who moved west for work."
+   }
+  ]
+ },
+ {
+  "w": "echo",
+  "pos": "n",
+  "meaning_ko": "메아리, 울림",
+  "example_en": "We shouted into the cave and heard our **echo** come back.",
+  "example_ko": "동굴 안에 소리를 쳤더니 메아리가 되돌아왔어.",
+  "nuance_ko": "echo는 소리가 벽이나 산에 부딪혀 되돌아오는 메아리를 말해요. 동사로는 '울려 퍼지다, 반향하다'(The sound echoed through the hall)이고, 비유적으로 남의 말이나 생각을 그대로 따라 하는 것(echo someone's words)도 뜻해요. 'echo chamber'는 같은 의견만 되풀이되는 폐쇄적인 환경을 말하는 말로 SNS 비판에서 자주 나와요. reverberate는 소리가 길게 울리는 격식 있는 표현이에요. 그리스 신화의 요정 Echo에서 온 단어예요.",
+  "also": [
+   {
+    "w": "echoed",
+    "pos": "adj",
+    "ko": "메아리친",
+    "en": "Her **echoed** laughter filled the room."
+   }
+  ]
+ },
+ {
+  "w": "edition",
+  "pos": "n",
+  "meaning_ko": "판, 호",
+  "example_en": "This is the third **edition** of the textbook.",
+  "example_ko": "이건 그 교재의 3판이야.",
+  "nuance_ko": "edition은 책, 신문, 방송 프로그램이 발행된 한 판이나 한 회를 뜻해요. first edition(초판), limited edition(한정판), special edition(특별판), morning edition(조간)처럼 써요. 같은 책이 수정되어 다시 나오면 revised edition(개정판)이라고 해요. version은 소프트웨어나 번역본 등 변형본을 가리켜서 edition과 다를 수 있어요. 게임이나 제품의 에디션(Collector's Edition)도 흔히 써요. 철자가 비슷한 addition(추가)과 헷갈리지 마세요.",
+  "also": []
+ },
+ {
+  "w": "effective",
+  "pos": "adj",
+  "meaning_ko": "효과적인, 유효한",
+  "example_en": "Regular exercise is an **effective** way to reduce stress.",
+  "example_ko": "규칙적인 운동은 스트레스를 줄이는 효과적인 방법이야.",
+  "nuance_ko": "effective는 의도한 결과를 실제로 낳는다는 뜻의 '효과적인'이에요. effective treatment, effective communication, an effective strategy처럼 써요. 법이나 규칙이 시행되고 있다는 뜻도 있어서 'effective from January 1'은 1월 1일부터 시행된다는 말이에요. efficient는 시간과 자원을 낭비 없이 쓰는 '효율적인'이라서 effective와 구분해야 해요. effective는 결과, efficient는 과정에 초점을 둬요. 반대는 ineffective(효과 없는)예요.",
+  "also": [
+   {
+    "w": "effectively",
+    "pos": "adv",
+    "ko": "효과적으로, 사실상",
+    "en": "The two companies have **effectively** merged."
+   },
+   {
+    "w": "ineffective",
+    "pos": "adj",
+    "ko": "효과 없는",
+    "en": "The old method proved **ineffective**."
+   }
+  ]
+ },
+ {
+  "w": "efficient",
+  "pos": "adj",
+  "meaning_ko": "효율적인",
+  "example_en": "A bus is a more **efficient** way to travel than driving alone.",
+  "example_ko": "혼자 운전하는 것보다 버스가 더 효율적인 이동 방법이야.",
+  "nuance_ko": "efficient는 시간, 에너지, 비용을 낭비하지 않고 일을 잘 해낸다는 뜻이에요. an efficient system, energy-efficient(에너지 효율이 좋은), fuel-efficient car처럼 써요. 사람에게 쓰면 일을 빠르고 깔끔하게 처리하는 유능한 사람이에요. effective와 달리 결과보다 과정의 낭비 없음에 초점이 있어요. 예를 들어 어떤 방법이 효과는 있지만 시간이 많이 걸리면 effective but inefficient예요. 명사 efficiency는 '효율'이고, 반대는 inefficient예요.",
+  "also": [
+   {
+    "w": "efficiency",
+    "pos": "n",
+    "ko": "효율",
+    "en": "We improved the **efficiency** of the process."
+   },
+   {
+    "w": "efficiently",
+    "pos": "adv",
+    "ko": "효율적으로",
+    "en": "She works quickly and **efficiently**."
+   }
+  ]
+ },
+ {
+  "w": "elaborate",
+  "pos": "adj",
+  "meaning_ko": "정교한, 공들인",
+  "example_en": "They planned an **elaborate** surprise party for her birthday.",
+  "example_ko": "그 사람들은 걔 생일에 공들인 깜짝 파티를 계획했어.",
+  "nuance_ko": "elaborate는 형용사로 세부까지 신경 써서 복잡하고 정교하다는 뜻이에요. an elaborate plan, elaborate decorations처럼 써요. 약간 지나치게 공들여서 복잡하다는 느낌이 있을 수 있어요. 동사 elaborate는 /ɪˈlæbəreɪt/로 '상세히 설명하다'라서 'Could you elaborate on that?'(그 부분을 좀 더 자세히 설명해 주실래요?)이 회의에서 정말 자주 쓰여요. 형용사와 동사의 발음(어미 -ət / -eɪt)이 다르다는 점도 알아두세요. detailed는 세부 내용이 많다는 뜻이에요.",
+  "also": [
+   {
+    "w": "elaboration",
+    "pos": "n",
+    "ko": "상세한 설명, 정교화",
+    "en": "The report needs further **elaboration**."
+   },
+   {
+    "w": "elaborately",
+    "pos": "adv",
+    "ko": "정교하게",
+    "en": "The room was **elaborately** decorated."
+   }
+  ]
+ },
+ {
+  "w": "electronic",
+  "pos": "adj",
+  "meaning_ko": "전자의",
+  "example_en": "Please turn off all **electronic** devices during takeoff.",
+  "example_ko": "이륙할 때는 모든 전자기기를 꺼 주세요.",
+  "nuance_ko": "electronic은 전자 회로나 전자 기술로 작동하는 것을 꾸며주는 형용사예요. electronic device, electronic mail(e-mail), electronic payment처럼 써요. electric은 전기로 작동하는 것(electric car, electric guitar)이고 electronic은 반도체, 회로 등으로 정보를 처리하는 것이라 구분돼요. 명사 electronics는 '전자 제품, 전자공학'이라서 복수형처럼 보이지만 단수 취급하는 경우가 많아요('Electronics is a growing field'). 'electronic music'은 전자 음악이에요.",
+  "also": [
+   {
+    "w": "electronics",
+    "pos": "n",
+    "ko": "전자 제품, 전자공학",
+    "en": "He studied **electronics** at university."
+   },
+   {
+    "w": "electronically",
+    "pos": "adv",
+    "ko": "전자적으로",
+    "en": "You can submit the form **electronically**."
+   }
+  ]
+ },
+ {
+  "w": "element",
+  "pos": "n",
+  "meaning_ko": "요소, 원소",
+  "example_en": "Trust is an important **element** of any friendship.",
+  "example_ko": "신뢰는 모든 우정에서 중요한 요소야.",
+  "nuance_ko": "element는 전체를 구성하는 요소나 부분이에요. key element(핵심 요소), an element of surprise(의외성), a risk element처럼 써요. 화학에서는 원소(chemical element)이고, 'the elements'는 비·바람 같은 악천후를 가리켜 'brave the elements'(궂은 날씨에 맞서다)라고 해요. 'in one's element'는 '물 만난 고기처럼 제 실력을 발휘하는'이라는 관용구예요. component는 기계나 시스템의 구성 부품이고, element는 더 추상적인 요소까지 폭넓게 가리켜요.",
+  "also": []
+ },
+ {
+  "w": "eliminate",
+  "pos": "v",
+  "meaning_ko": "제거하다, 탈락시키다",
+  "example_en": "We need to **eliminate** waste to cut costs.",
+  "example_ko": "비용을 줄이려면 낭비를 없애야 해.",
+  "nuance_ko": "eliminate는 원하지 않는 것을 완전히 없애거나 선택지에서 탈락시킨다는 뜻이에요. eliminate errors, eliminate the possibility(가능성을 배제하다), eliminated from the tournament(대회에서 탈락하다)처럼 써요. remove보다 철저히 없앤다는 느낌이 강해요. 시험이나 퀴즈에서는 오답을 하나씩 지워가는 elimination method(소거법)로도 익숙해요. 'eliminate waste', 'eliminate the middleman'처럼 비즈니스에서도 자주 나와요. 완곡하게 사람을 제거한다는 의미로 쓰이기도 해서 뉴스에서 주의해서 봐야 해요.",
+  "also": [
+   {
+    "w": "elimination",
+    "pos": "n",
+    "ko": "제거, 탈락",
+    "en": "The **elimination** of poverty is a long-term goal."
+   }
+  ]
+ },
+ {
+  "w": "elite",
+  "pos": "n",
+  "meaning_ko": "엘리트, 상류층",
+  "example_en": "Only a small **elite** can afford to live in that neighborhood.",
+  "example_ko": "그 동네에 살 여유가 있는 건 소수의 상류층뿐이야.",
+  "nuance_ko": "elite는 사회나 집단에서 가장 뛰어나거나 권력·부를 가진 소수 집단이에요. 'the elite'로 쓰면 지배층·상류층을 가리키고, 비판적인 어조로 쓰이는 경우도 많아요(the political elite). 형용사로는 '정예의, 최고 수준의'(elite athletes, elite universities)라서 긍정적으로 쓰여요. 철자는 elite 또는 élite예요. 발음은 /eɪˈliːt/로 두 번째 음절에 강세가 와요. 형용사 elitist(엘리트주의의)는 거의 비판적 뉘앙스예요.",
+  "also": [
+   {
+    "w": "elitist",
+    "pos": "adj",
+    "ko": "엘리트주의의",
+    "en": "The club has an **elitist** reputation."
+   }
+  ]
+ },
+ {
+  "w": "embrace",
+  "pos": "v",
+  "meaning_ko": "포옹하다, 받아들이다",
+  "example_en": "The company decided to **embrace** new technology.",
+  "example_ko": "그 회사는 새로운 기술을 적극적으로 받아들이기로 했어.",
+  "nuance_ko": "embrace는 원래 '껴안다, 포옹하다'라는 뜻이지만, 비유적으로 새로운 생각·변화·기회를 기꺼이 받아들인다는 뜻으로 훨씬 더 자주 써요. embrace change, embrace a challenge, embrace diversity처럼 써요. accept보다 열렬하고 적극적으로 환영한다는 느낌이에요. hug는 가볍게 안는 구어체이고, embrace는 격식 있고 감정이 담긴 포옹을 말해요. 명사로도 'a warm embrace'(따뜻한 포옹)처럼 써요.",
+  "also": [
+   {
+    "w": "embraced",
+    "pos": "adj",
+    "ko": "받아들여진",
+    "en": "The idea was quickly **embraced** by the public."
+   }
+  ]
+ },
+ {
+  "w": "emerge",
+  "pos": "v",
+  "meaning_ko": "나타나다, 드러나다",
+  "example_en": "New evidence **emerged** during the investigation.",
+  "example_ko": "조사 과정에서 새로운 증거가 나타났어.",
+  "nuance_ko": "emerge는 가려져 있거나 숨어 있던 것이 모습을 드러내는 것을 말해요. 물속에서 수면 위로 올라오는 그림이에요. 'emerge from ~'(~에서 나오다), 'It emerged that ~'(~라는 사실이 드러났다)처럼 써요. appear는 단순히 보이게 되는 것이고, emerge는 어떤 상태나 곳에서 서서히 모습을 드러낸다는 뉘앙스가 있어요. 새로운 흐름이 나타나는 것(emerging markets, 신흥 시장)에도 써요. 명사 emergence는 '출현, 등장'이에요.",
+  "also": [
+   {
+    "w": "emerging",
+    "pos": "adj",
+    "ko": "신흥의, 떠오르는",
+    "en": "Many investors are looking at **emerging** markets."
+   },
+   {
+    "w": "emergence",
+    "pos": "n",
+    "ko": "출현, 등장",
+    "en": "The **emergence** of AI has changed many industries."
+   }
+  ]
+ },
+ {
+  "w": "emergency",
+  "pos": "n",
+  "meaning_ko": "비상 사태, 응급",
+  "example_en": "Call 911 in case of an **emergency**.",
+  "example_ko": "응급 상황이면 911에 전화하세요.",
+  "nuance_ko": "emergency는 즉각적인 조치가 필요한 갑작스럽고 위험한 상황이에요. in case of emergency, emergency exit(비상구), emergency room(응급실, ER), emergency services처럼 써요. crisis는 더 오래 이어지는 큰 위기이고, emergency는 당장 처리해야 하는 긴급 상황이에요. 'state of emergency'는 정부가 선포하는 비상사태예요. 'a family emergency'는 가족에게 급한 일이 생겼다는 뜻으로 휴가나 결근 사유로도 흔히 말해요. 형용사로 emergency 자체가 '비상용의'라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "emit",
+  "pos": "v",
+  "meaning_ko": "내뿜다, 방출하다",
+  "example_en": "The old factory continues to **emit** harmful gases.",
+  "example_ko": "그 오래된 공장은 계속 유해 가스를 내뿜고 있어.",
+  "nuance_ko": "emit은 빛, 열, 소리, 가스 같은 것을 밖으로 내보낸다는 뜻이에요. emit radiation, emit a signal, emit light처럼 쓰는 격식 있는 동사예요. 환경 뉴스에서 'emit carbon dioxide'(이산화탄소를 배출하다)가 정말 자주 나와요. 소리를 낼 때도 쓰여서 'emit a low hum'(낮은 윙윙 소리를 내다)처럼 말할 수 있어요. give off는 구어체로 같은 뜻이에요. 명사 emission은 '배출, 방출'로 보통 복수형 emissions로 'carbon emissions'(탄소 배출)처럼 써요.",
+  "also": [
+   {
+    "w": "emission",
+    "pos": "n",
+    "ko": "배출, 방출",
+    "en": "The government aims to cut carbon **emissions**."
+   }
+  ]
+ },
+ {
+  "w": "emphasis",
+  "pos": "n",
+  "meaning_ko": "강조, 중점",
+  "example_en": "The school puts great **emphasis** on reading and writing.",
+  "example_ko": "그 학교는 읽기와 쓰기에 큰 비중을 둬.",
+  "nuance_ko": "emphasis는 어떤 것을 특히 중요하게 두거나 강조하는 것이에요. place emphasis on ~, put the emphasis on ~, with emphasis(힘주어)처럼 써요. 말할 때 특정 단어를 세게 발음하는 것도 emphasis예요. 복수형은 emphases로 철자가 불규칙해요. focus는 초점을 맞추는 것이고, emphasis는 다른 것보다 더 크게 두드러지게 하는 느낌이에요. 동사 emphasize/emphasise는 '강조하다'이고 전치사 없이 목적어를 바로 받아요.",
+  "also": []
+ },
+ {
+  "w": "emphasise",
+  "pos": "v",
+  "meaning_ko": "강조하다",
+  "example_en": "The teacher **emphasised** the importance of practice.",
+  "example_ko": "선생님은 연습의 중요성을 강조하셨어.",
+  "nuance_ko": "emphasise는 영국식 철자이고 미국식은 emphasize예요. 어떤 점이 특히 중요하다고 두드러지게 말하거나 보여준다는 뜻이에요. emphasise the need for ~, emphasise that ~처럼 쓰고 타동사라서 전치사 on은 쓰지 않아요('emphasize on'은 흔한 오류). stress도 비슷하지만 emphasise가 더 격식 있고, highlight는 눈에 띄게 부각한다는 뜻이에요. 글에서는 밑줄이나 굵은 글씨로 강조하는 것도 emphasize라고 해요. 명사는 emphasis예요.",
+  "also": [
+   {
+    "w": "emphasized",
+    "pos": "adj",
+    "ko": "강조된",
+    "en": "The **emphasized** words appear in bold."
+   }
+  ]
+ },
+ {
+  "w": "enable",
+  "pos": "v",
+  "meaning_ko": "가능하게 하다, 활성화하다",
+  "example_en": "This software will **enable** you to work from anywhere.",
+  "example_ko": "이 소프트웨어를 쓰면 어디서나 일할 수 있어.",
+  "nuance_ko": "enable은 어떤 일이 가능해지도록 능력이나 수단을 준다는 뜻이에요. enable someone to + 동사 구문이 기본이고, 'This technology enables us to ~'처럼 기술·제도가 주어일 때 자주 써요. 컴퓨터에서는 기능을 켜는 것(enable notifications)으로 매일 보는 단어예요. 반대는 disable(비활성화하다)이에요. allow가 허락을 의미한다면 enable은 능력이나 환경을 마련해 줘서 실제로 할 수 있게 한다는 점이 달라요. 형용사로 -enabled가 붙은 'Wi-Fi-enabled devices'도 흔해요.",
+  "also": [
+   {
+    "w": "enabled",
+    "pos": "adj",
+    "ko": "활성화된",
+    "en": "Make sure Bluetooth is **enabled** on your phone."
+   }
+  ]
+ },
+ {
+  "w": "encounter",
+  "pos": "v",
+  "meaning_ko": "마주치다, 맞닥뜨리다",
+  "example_en": "We **encountered** several problems during the installation.",
+  "example_ko": "설치하는 동안 몇 가지 문제에 부딪쳤어.",
+  "nuance_ko": "encounter는 예상치 못하게 사람이나 어려움을 마주친다는 뜻이에요. encounter difficulties, encounter resistance, encounter a bear처럼 써요. meet은 약속하고 만나는 것도 포함하지만 encounter는 우연히 맞닥뜨리는 경우가 많아요. 문제나 장애물을 만난다는 의미로 특히 자주 나와요. 명사 encounter는 '만남, 조우'로 'a close encounter'(가까운 조우)나 'a brief encounter'(짧은 만남)처럼 써요. 격식 있는 말이라 일상에서는 run into가 더 흔해요.",
+  "also": [
+   {
+    "w": "encountered",
+    "pos": "adj",
+    "ko": "마주친",
+    "en": "The most common error **encountered** was a missing file."
+   }
+  ]
+ },
+ {
+  "w": "endorse",
+  "pos": "v",
+  "meaning_ko": "지지하다, 보증하다",
+  "example_en": "Several famous athletes **endorse** this brand of shoes.",
+  "example_ko": "여러 유명 운동선수가 이 신발 브랜드를 광고해 주고 있어.",
+  "nuance_ko": "endorse는 공개적으로 지지하거나 보증한다는 뜻이에요. 정치에서는 후보를 공개 지지하는 것(endorse a candidate), 광고에서는 유명인이 제품을 홍보하는 것(endorse a product)을 말해요. 수표 뒷면에 서명해 양도하는 것도 endorse라고 해요. support보다 공식적이고 영향력 있는 사람이 공개적으로 승인한다는 느낌이에요. 명사 endorsement는 '지지, 보증'이고, 'celebrity endorsement'(유명인 광고)가 마케팅에서 자주 나와요.",
+  "also": [
+   {
+    "w": "endorsement",
+    "pos": "n",
+    "ko": "지지, 보증",
+    "en": "The star's **endorsement** boosted sales."
+   }
+  ]
+ },
+ {
+  "w": "endure",
+  "pos": "v",
+  "meaning_ko": "견디다, 지속되다",
+  "example_en": "She had to **endure** months of pain after the surgery.",
+  "example_ko": "걔는 수술 후 몇 달간 통증을 견뎌야 했어.",
+  "nuance_ko": "endure는 고통이나 어려움을 오랫동안 참고 견딘다는 뜻이에요. endure hardship, endure pain처럼 쓰고, 'can't endure'(견딜 수 없다)는 부정문으로 자주 써요. 또 자동사로 '지속되다, 오래가다'라는 뜻도 있어서 'an enduring friendship'(오래가는 우정)처럼 쓰여요. bear나 stand는 구어체로 '참다'이고 endure는 격식 있고 긴 시간을 견딘다는 느낌이에요. 명사 endurance는 '인내력, 지구력'으로 marathon처럼 오래 버티는 운동에서 중요해요.",
+  "also": [
+   {
+    "w": "enduring",
+    "pos": "adj",
+    "ko": "오래가는",
+    "en": "They shared an **enduring** friendship."
+   },
+   {
+    "w": "endurance",
+    "pos": "n",
+    "ko": "인내력, 지구력",
+    "en": "Running a marathon takes great **endurance**."
+   }
+  ]
+ },
+ {
+  "w": "enforce",
+  "pos": "v",
+  "meaning_ko": "집행하다, 시행하다",
+  "example_en": "The police are not able to **enforce** the new parking rules.",
+  "example_ko": "경찰은 새 주차 규정을 단속하지 못하고 있어.",
+  "nuance_ko": "enforce는 법, 규칙, 계약을 실제로 지키게 만들거나 집행한다는 뜻이에요. enforce the law, enforce a rule, enforce a contract처럼 써요. 'law enforcement'(법 집행 기관)은 경찰·수사 기관을 통칭하는 표현이에요. 단순히 규정이 존재하는 것이 아니라 어기면 제재하는 실행 단계를 말해요. force는 억지로 하게 하는 것이고, enforce는 규정에 따라 지키게 하는 거예요. 형용사 enforceable은 '집행 가능한'으로 계약서에서 자주 나와요.",
+  "also": [
+   {
+    "w": "enforcement",
+    "pos": "n",
+    "ko": "집행, 단속",
+    "en": "Strict **enforcement** is needed to reduce speeding."
+   },
+   {
+    "w": "enforceable",
+    "pos": "adj",
+    "ko": "집행 가능한",
+    "en": "The contract is legally **enforceable**."
+   }
+  ]
+ },
+ {
+  "w": "enhance",
+  "pos": "v",
+  "meaning_ko": "높이다, 향상시키다",
+  "example_en": "Good lighting can **enhance** the look of any room.",
+  "example_ko": "좋은 조명은 어떤 방이든 더 멋지게 만들어 줘.",
+  "nuance_ko": "enhance는 이미 있는 가치, 품질, 능력을 더 좋게 끌어올린다는 뜻이에요. enhance performance, enhance the flavor, enhance security처럼 써요. improve는 나쁜 것을 개선하는 것이고, enhance는 이미 괜찮은 것을 더 돋보이게 하는 느낌이 있어요. 사진 앱의 '보정', 음식의 맛 '증진'에도 쓰여요. 명사 enhancement는 '향상, 개선'이고, 형용사 enhanced는 '강화된'(enhanced security)이에요. 약물 맥락에서는 performance-enhancing drugs(경기력 향상 약물)가 자주 나와요.",
+  "also": [
+   {
+    "w": "enhanced",
+    "pos": "adj",
+    "ko": "강화된, 향상된",
+    "en": "The new phone has **enhanced** security features."
+   },
+   {
+    "w": "enhancement",
+    "pos": "n",
+    "ko": "향상, 개선",
+    "en": "The update brings several performance **enhancements**."
+   }
+  ]
+ },
+ {
+  "w": "ensure",
+  "pos": "v",
+  "meaning_ko": "보장하다, 확실히 하다",
+  "example_en": "Please **ensure** that all the doors are locked before you leave.",
+  "example_ko": "나가기 전에 모든 문이 잠겼는지 꼭 확인해 줘.",
+  "nuance_ko": "ensure는 어떤 일이 반드시 일어나도록, 또는 일어나지 않도록 확실히 해 둔다는 뜻이에요. ensure that ~ 구문이 가장 흔하고, ensure safety, ensure quality처럼 명사를 받아도 돼요. 비즈니스 이메일에서 'Please ensure that ~'는 '~하도록 해 주세요'라는 부탁이에요. insure는 보험에 드는 것이고, assure는 사람에게 확신을 주는 것이라 철자가 비슷한 세 단어를 구분해야 해요. 'ensure'는 결과를 보장하는 것, 'assure'는 안심시키는 것이에요.",
+  "also": []
+ },
+ {
+  "w": "enterprise",
+  "pos": "n",
+  "meaning_ko": "기업, 사업",
+  "example_en": "She started a small **enterprise** selling handmade soap.",
+  "example_ko": "걔는 수제 비누를 파는 작은 사업을 시작했어.",
+  "nuance_ko": "enterprise는 사업체나 기업, 또는 위험을 무릅쓰고 새로 시작하는 사업 정신을 뜻해요. small enterprise(소기업), private enterprise(민간 기업), free enterprise(자유 기업 체제)처럼 써요. IT에서는 대기업 고객용 'enterprise software'(기업용 소프트웨어)가 자주 나와요. company보다 격식 있고 경영 활동 전반의 느낌이에요. 불가산으로 쓰면 '진취성, 모험심'(a spirit of enterprise)을 뜻해요. 영화 'Star Trek'의 우주선 이름 Enterprise도 같은 단어예요.",
+  "also": []
+ },
+ {
+  "w": "enthusiasm",
+  "pos": "n",
+  "meaning_ko": "열정, 열의",
+  "example_en": "Her **enthusiasm** for teaching is contagious.",
+  "example_ko": "가르치는 일에 대한 걔의 열정은 주변에 번져.",
+  "nuance_ko": "enthusiasm은 어떤 일에 대한 강한 흥미와 열의예요. show enthusiasm, with enthusiasm, lack of enthusiasm, enthusiasm for ~처럼 써요. 전치사는 for 또는 about을 써요. passion은 더 깊고 강렬한 열정이고, enthusiasm은 밝고 활기찬 열의를 나타내요. 면접에서 'show enthusiasm'은 의욕적인 태도를 보이라는 조언으로 자주 나와요. 불가산으로 쓰는 게 일반적이지만, 여러 가지 관심사를 말할 때는 복수형 enthusiasms도 가능해요.",
+  "also": []
+ },
+ {
+  "w": "enthusiastic",
+  "pos": "adj",
+  "meaning_ko": "열정적인, 열광하는",
+  "example_en": "The audience was very **enthusiastic** about the new show.",
+  "example_ko": "관객들은 그 새 공연에 대해 매우 열광적이었어.",
+  "nuance_ko": "enthusiastic은 어떤 일에 대해 열정과 흥미가 넘치는 모습이에요. be enthusiastic about ~ 구문으로 쓰고, 전치사는 about이나 over를 써요. an enthusiastic response(열렬한 반응), enthusiastic support(열렬한 지지)처럼 명사를 꾸며요. 사람을 가리켜 'an enthusiastic student'라고 하면 긍정적인 칭찬이에요. excited는 들뜬 감정이고, enthusiastic은 그 열정이 행동에서 드러난다는 점이 달라요. 명사 enthusiast는 '열렬한 애호가'(a car enthusiast)로, 발음과 철자에 주의해야 해요.",
+  "also": [
+   {
+    "w": "enthusiast",
+    "pos": "n",
+    "ko": "열렬한 애호가",
+    "en": "He's a big football **enthusiast**."
+   },
+   {
+    "w": "enthusiastically",
+    "pos": "adv",
+    "ko": "열정적으로",
+    "en": "The fans cheered **enthusiastically**."
+   }
+  ]
+ },
+ {
+  "w": "entitle",
+  "pos": "v",
+  "meaning_ko": "자격을 주다, 제목을 붙이다",
+  "example_en": "This ticket **entitles** you to a free drink.",
+  "example_ko": "이 티켓이 있으면 음료를 한 잔 무료로 받을 수 있어.",
+  "nuance_ko": "entitle은 '~할 권리나 자격을 주다'라는 뜻이에요. entitle someone to something 구문으로 써요. 수동태 'be entitled to ~'(~할 권리가 있다)가 훨씬 흔해서 'You are entitled to a refund.'처럼 써요. 책이나 작품에 제목을 붙인다는 뜻도 있어서 'a book entitled ~'(~라는 제목의 책)로 써요. 형용사 entitled는 '자격이 있는'과 함께 '특권 의식이 있는, 당연하다고 여기는'(an entitled attitude)이라는 부정적인 뜻으로도 많이 써요. 명사 entitlement는 '권리, 수급 자격'이에요.",
+  "also": [
+   {
+    "w": "entitled",
+    "pos": "adj",
+    "ko": "자격이 있는, 제목이 ~인",
+    "en": "Every employee is **entitled** to paid leave."
+   },
+   {
+    "w": "entitlement",
+    "pos": "n",
+    "ko": "수급 자격, 권리",
+    "en": "Check your **entitlement** to benefits."
+   }
+  ]
+ },
+ {
+  "w": "entrance",
+  "pos": "n",
+  "meaning_ko": "입구, 입장",
+  "example_en": "Let's meet at the main **entrance** at six.",
+  "example_ko": "여섯 시에 정문 입구에서 만나자.",
+  "nuance_ko": "entrance는 건물이나 장소로 들어가는 입구나 들어가는 행위, 입학이나 입회 자격을 뜻해요. main entrance, entrance fee(입장료), entrance exam(입학시험)처럼 써요. 극적으로 등장하는 것은 'make an entrance'라고 해요. 반대말은 exit이에요. entry는 들어가는 행위나 입장 허가, 기록 항목을 가리키는 경우가 많아서 'No entry'(출입 금지)가 되고 'No entrance'는 거의 쓰지 않아요. 동사 entrance는 /ɪnˈtræns/로 '황홀하게 하다'라는 전혀 다른 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "entry",
+  "pos": "n",
+  "meaning_ko": "입장, 항목, 출품작",
+  "example_en": "The sign said \"No **entry** without a pass.\"",
+  "example_ko": "표지판에는 '출입증 없이는 출입 금지'라고 쓰여 있었어.",
+  "nuance_ko": "entry는 들어가는 행위나 허가, 그리고 기록에 올린 항목, 대회에 낸 출품작을 모두 뜻해요. no entry(출입 금지), entry fee(참가비), a diary entry(일기 한 편), a dictionary entry(사전 표제어)처럼 써요. 데이터 입력도 data entry라고 해요. entrance는 입구나 입장하는 순간에 더 가깝고, entry는 들어갈 권리·허가·기록으로서의 입장에 초점이 있어요. 비자나 출입국에서는 'entry visa'(입국 비자)가 자주 나와요. 복수형은 entries예요.",
+  "also": []
+ },
+ {
+  "w": "episode",
+  "pos": "n",
+  "meaning_ko": "에피소드, 한 회, 사건",
+  "example_en": "I watched two **episodes** of that show last night.",
+  "example_ko": "어젯밤에 그 프로그램을 두 편 봤어.",
+  "nuance_ko": "episode는 드라마나 시리즈의 한 회차, 또는 이야기 속의 한 사건·일화를 뜻해요. the final episode, a new episode, in the next episode처럼 써요. 일상 대화에서는 'an embarrassing episode'(창피했던 일)처럼 한 번 있었던 사건을 가리켜요. 의학에서는 증상이 나타난 일회성 발작·발현(a depressive episode, 우울 삽화)을 뜻해요. scene은 극의 한 장면이고, episode는 한 회차 또는 에피소드 단위의 사건이에요. 형용사 episodic은 '삽화적인'이에요.",
+  "also": []
+ },
+ {
+  "w": "equation",
+  "pos": "n",
+  "meaning_ko": "방정식, 등식",
+  "example_en": "Can you solve this **equation** for x?",
+  "example_ko": "이 방정식을 x에 대해 풀 수 있어?",
+  "nuance_ko": "equation은 두 식이 같다는 걸 보여주는 등식, 즉 방정식이에요. solve an equation(방정식을 풀다), a quadratic equation(이차 방정식), chemical equation(화학 반응식)처럼 써요. 비유적으로 여러 요인이 얽힌 상황을 말할 때 'factor into the equation'(변수로 고려하다), 'take X out of the equation'(X를 제외하다)처럼 써요. formula는 공식이고 equation은 특정 값을 구하는 식이라는 점이 달라요. 동사 equate는 '동일시하다'(equate wealth with happiness)예요.",
+  "also": []
+ },
+ {
+  "w": "equivalent",
+  "pos": "adj",
+  "meaning_ko": "동등한, 상응하는",
+  "example_en": "One cup of rice is **equivalent** to about two cups cooked.",
+  "example_ko": "쌀 한 컵은 밥으로 지으면 대략 두 컵에 해당해.",
+  "nuance_ko": "equivalent는 가치, 양, 의미 등이 서로 같거나 맞먹는다는 뜻이에요. be equivalent to ~ 구문으로 써요. 단위 환산(the equivalent of 5 miles in kilometers), 학력 인정(equivalent degree), 외국어 대응어(the English equivalent of this word)에서 정말 자주 나와요. same은 완전히 같은 것이고, equivalent는 형태가 달라도 효과나 가치가 같은 거예요. 명사로 'an equivalent'는 '동등한 것'이라서 'There's no English equivalent for this word.'처럼 써요.",
+  "also": [
+   {
+    "w": "equivalents",
+    "pos": "n",
+    "ko": "대응어, 동등물",
+    "en": "The two terms are not exact **equivalents**."
+   }
+  ]
+ },
+ {
+  "w": "era",
+  "pos": "n",
+  "meaning_ko": "시대, 시기",
+  "example_en": "We are living in the **era** of artificial intelligence.",
+  "example_ko": "우린 인공지능의 시대에 살고 있어.",
+  "nuance_ko": "era는 뚜렷한 특징으로 구별되는 긴 시대나 시기예요. the digital era, the Victorian era, an era of change처럼 써요. period는 더 일반적인 시기이고, era는 한 시대를 대표할 만한 큰 역사적 단위에 쓰는 느낌이에요. 'the end of an era'는 한 시대의 끝을 알리는 표현으로, 유명 인물의 은퇴나 중요한 건물의 폐쇄 때 뉴스에서 자주 써요. 지질학에서는 지질 시대의 큰 구분(the Mesozoic Era)이에요. 복수형은 eras예요.",
+  "also": []
+ },
+ {
+  "w": "error",
+  "pos": "n",
+  "meaning_ko": "오류, 실수",
+  "example_en": "The system returned an **error** message when I tried to log in.",
+  "example_ko": "로그인하려고 했더니 시스템에서 오류 메시지가 떴어.",
+  "nuance_ko": "error는 틀린 것, 즉 잘못된 판단이나 계산, 입력으로 생긴 오류예요. human error(사람의 실수), a serious error, error message(오류 메시지)처럼 써요. 컴퓨터에서는 프로그램 오작동을 error로 표시해서 매일 보게 되는 단어예요. mistake는 일상적이고 가벼운 실수이고, error는 격식 있고 기술적인 오류라는 느낌이 있어요. 'trial and error'(시행착오)와 'in error'(실수로, 잘못되어)도 알아두면 좋아요. 'margin of error'는 통계의 오차 범위예요.",
+  "also": []
+ },
+ {
+  "w": "essay",
+  "pos": "n",
+  "meaning_ko": "에세이, 소논문",
+  "example_en": "I have to write a five-page **essay** by next Monday.",
+  "example_ko": "다음 주 월요일까지 5쪽짜리 에세이를 써야 해.",
+  "nuance_ko": "essay는 한 주제에 대해 자기 생각을 논리적으로 풀어 쓴 짧은 글이에요. 학교에서는 과제로 내는 소논문이나 작문을 뜻하고, 문학에서는 수필을 가리켜요. write an essay, a college application essay(대학 지원 에세이), a persuasive essay(설득문)처럼 써요. paper는 보다 학술적인 논문이고, composition은 작문 연습이라는 느낌이에요. 한국어 '에세이'가 가벼운 수필만 가리키는 것과 달리 영어 essay는 논증적인 글까지 포함해요. 쓰는 사람은 essayist예요.",
+  "also": [
+   {
+    "w": "essayist",
+    "pos": "n",
+    "ko": "수필가, 에세이 작가",
+    "en": "She is a well-known **essayist** and critic."
+   }
+  ]
+ },
+ {
+  "w": "essential",
+  "pos": "adj",
+  "meaning_ko": "필수적인, 본질적인",
+  "example_en": "Water is **essential** for all living things.",
+  "example_ko": "물은 모든 생물에게 필수야.",
+  "nuance_ko": "essential은 없으면 안 될 만큼 꼭 필요하거나 본질적인 성질을 뜻해요. essential for/to ~ 구문으로 쓰고 'It is essential that ~'에서 that절의 동사는 원형을 써요(It is essential that he be there). important보다 훨씬 강한 '필수'를 나타내고, necessary와 비슷하지만 essential이 더 본질적인 필요를 가리켜요. 명사 essentials는 '필수품, 기본 사항'(the bare essentials)이에요. essential oil(에센셜 오일), essential nutrients(필수 영양소)도 자주 봐요.",
+  "also": [
+   {
+    "w": "essentially",
+    "pos": "adv",
+    "ko": "본질적으로, 사실상",
+    "en": "The two plans are **essentially** the same."
+   },
+   {
+    "w": "essentials",
+    "pos": "n",
+    "ko": "필수품",
+    "en": "Pack the **essentials** and leave early."
+   }
+  ]
+ },
+ {
+  "w": "estimate",
+  "pos": "v",
+  "meaning_ko": "추정하다, 어림잡다",
+  "example_en": "Experts **estimate** that the project will take two years.",
+  "example_ko": "전문가들은 그 프로젝트가 2년 걸릴 것으로 추정해.",
+  "nuance_ko": "estimate는 정확한 수치를 모를 때 근거를 바탕으로 대략 헤아려 추정한다는 뜻이에요. estimate the cost, estimate that ~, it is estimated that ~ 구문이 흔해요. 명사 estimate는 /ˈestɪmət/로 '견적서, 추정치'라서 'a rough estimate'(대략적인 추정), 'get an estimate'(견적을 받다)처럼 써요. guess는 근거 없는 짐작이고 estimate는 어느 정도 계산에 기반한 추정이에요. 형용사 estimated는 '추정된'(estimated cost)이고, 'at a conservative estimate'(보수적으로 잡아도)는 숫자를 낮게 잡을 때 써요.",
+  "also": [
+   {
+    "w": "estimated",
+    "pos": "adj",
+    "ko": "추정된",
+    "en": "The **estimated** cost is about two thousand dollars."
+   },
+   {
+    "w": "estimation",
+    "pos": "n",
+    "ko": "판단, 추정",
+    "en": "In my **estimation**, the plan will work."
+   }
+  ]
+ },
+ {
+  "w": "etc",
+  "pos": "adv",
+  "meaning_ko": "등등",
+  "example_en": "We need paper, pens, folders, **etc.** for the new office.",
+  "example_ko": "새 사무실에 쓸 종이, 펜, 폴더 등등이 필요해.",
+  "nuance_ko": "etc.는 라틴어 et cetera(그 밖의 것들)의 줄임말로 '등등'이라는 뜻이에요. 항목을 나열한 끝에 'apples, oranges, etc.'처럼 붙여요. 이미 'such as'나 'for example'로 예시를 들었다면 etc.를 중복해 쓰지 않아요. 사람에게는 쓰지 않고 사물에 쓰는 것이 일반적이에요(사람은 'and so on'). 문장 끝에서는 마침표가 하나만 있어요. 'and etc.'는 and가 중복이라 틀린 표현이에요. 발음은 /et ˈsetərə/ 또는 '엣 세트라'예요.",
+  "also": []
+ },
+ {
+  "w": "ethnic",
+  "pos": "adj",
+  "meaning_ko": "민족의, 인종의",
+  "example_en": "The city is known for its **ethnic** restaurants from around the world.",
+  "example_ko": "그 도시는 전 세계 각국의 민족 음식점으로 유명해.",
+  "nuance_ko": "ethnic은 공통의 문화, 언어, 전통을 가진 민족 집단과 관련된 것을 말해요. ethnic group(민족 집단), ethnic minority(소수 민족), ethnic food(민족 음식)처럼 써요. race는 신체적 특징에 기반한 구분, ethnic은 문화적 정체성에 기반한 구분이에요. 'ethnic cleansing'(인종 청소)처럼 심각한 뉴스에서도 나와요. 명사 ethnicity는 '민족성, 민족적 배경'으로 설문지에서 'Ethnicity: ____'로 자주 보여요. 형용사 ethnic은 때로 '이국적인'이라는 의미로 막연히 쓰이지만 오해를 줄 수 있으니 주의해요.",
+  "also": [
+   {
+    "w": "ethnicity",
+    "pos": "n",
+    "ko": "민족성, 민족적 배경",
+    "en": "The form asks for your age, gender, and **ethnicity**."
+   }
+  ]
+ },
+ {
+  "w": "evaluate",
+  "pos": "v",
+  "meaning_ko": "평가하다",
+  "example_en": "The committee will **evaluate** each proposal carefully.",
+  "example_ko": "위원회는 각 제안서를 꼼꼼히 평가할 거야.",
+  "nuance_ko": "evaluate는 기준에 비추어 가치나 품질, 효과를 따져보고 판단한다는 뜻이에요. evaluate performance, evaluate options, evaluate a program처럼 써요. assess가 현재 상태를 파악하는 것이라면 evaluate는 가치 판단을 내리는 쪽이에요. 학교와 회사에서 성과 평가(performance evaluation)에 자주 쓰여요. judge는 구어체로 판단하는 것이고 evaluate는 체계적으로 따져 보는 느낌이에요. 명사 evaluation은 '평가', evaluator는 '평가자'예요.",
+  "also": [
+   {
+    "w": "evaluation",
+    "pos": "n",
+    "ko": "평가",
+    "en": "The employee received a positive **evaluation**."
+   }
+  ]
+ },
+ {
+  "w": "evident",
+  "pos": "adj",
+  "meaning_ko": "분명한, 명백한",
+  "example_en": "It was **evident** from her face that she was upset.",
+  "example_ko": "걔 표정만 봐도 속상했다는 게 분명했어.",
+  "nuance_ko": "evident는 따로 설명하지 않아도 눈에 보이거나 쉽게 알 수 있을 만큼 분명하다는 뜻이에요. 'It is evident that ~'(~는 분명하다), 'evident from ~'(~에서 분명한)처럼 써요. obvious와 비슷하지만 evident는 증거나 징후를 통해 드러난다는 느낌이 있어요. apparent는 겉으로 보이는 것이라는 점에서 약간 달라요. 부사 evidently는 '분명히, 보아하니'로 문두에서 판단을 표현할 때 써요. 명사 evidence(증거)와 같은 뿌리의 단어예요.",
+  "also": [
+   {
+    "w": "evidently",
+    "pos": "adv",
+    "ko": "분명히, 보아하니",
+    "en": "**Evidently**, nobody told him about the change."
+   }
+  ]
+ },
+ {
+  "w": "evolution",
+  "pos": "n",
+  "meaning_ko": "진화, 점진적 발전",
+  "example_en": "The **evolution** of smartphones has been remarkably fast.",
+  "example_ko": "스마트폰의 진화는 놀라울 만큼 빨랐어.",
+  "nuance_ko": "evolution은 생물이 오랜 시간에 걸쳐 변화·적응하는 진화, 그리고 어떤 것이 서서히 발전해 가는 과정을 뜻해요. the theory of evolution(진화론), the evolution of language처럼 써요. 일상에서는 '점진적인 발전'으로 쓰여서 'the evolution of technology'라고 하며, revolution(급격한 혁명)과 대조돼요. 서서히 변하는 것이 evolution, 급격히 뒤집히는 것이 revolution이에요. 형용사 evolutionary는 '진화의, 점진적인'이에요.",
+  "also": [
+   {
+    "w": "evolutionary",
+    "pos": "adj",
+    "ko": "진화의, 점진적인",
+    "en": "It's an **evolutionary** process that takes millions of years."
+   }
+  ]
+ },
+ {
+  "w": "evolve",
+  "pos": "v",
+  "meaning_ko": "진화하다, 발전하다",
+  "example_en": "The company has **evolved** from a small shop into a global brand.",
+  "example_ko": "그 회사는 작은 가게에서 세계적인 브랜드로 발전했어.",
+  "nuance_ko": "evolve는 생물이나 사물이 오랜 시간에 걸쳐 서서히 변하고 발전해 나간다는 뜻이에요. evolve from A into B, evolve over time처럼 써요. 생물의 진화 외에도 아이디어, 언어, 기술, 관계가 단계적으로 발전하는 것에 두루 써요. change가 일반적 변화라면 evolve는 단계를 거쳐 더 복잡하거나 나은 상태로 나아간다는 느낌이에요. 타동사로 '발전시키다'(evolve a strategy)도 가능하지만, 자동사 용법이 훨씬 흔해요. 진행형 'evolving'은 '진화하는, 변화하는'을 뜻해요.",
+  "also": [
+   {
+    "w": "evolving",
+    "pos": "adj",
+    "ko": "진화하는, 변화하는",
+    "en": "We live in a constantly **evolving** world."
+   }
+  ]
+ },
+ {
+  "w": "exceed",
+  "pos": "v",
+  "meaning_ko": "초과하다, 넘어서다",
+  "example_en": "The results **exceeded** all our expectations.",
+  "example_ko": "결과가 우리의 모든 기대를 뛰어넘었어.",
+  "nuance_ko": "exceed는 정해진 한도, 수치, 기대를 넘어선다는 뜻이에요. exceed the speed limit(제한 속도를 넘다), exceed expectations(기대를 뛰어넘다), exceed the budget처럼 써요. 타동사라서 목적어를 바로 받고 전치사를 쓰지 않아요. go over는 구어체이고 exceed는 격식 있어요. 좋은 의미로 '뛰어넘다'와 나쁜 의미로 '규정을 넘다' 모두에 쓸 수 있어요. 형용사 exceeding은 격식 있게 '대단한'이지만, 부사 exceedingly(exceedingly rare, 극도로 드문)로 더 자주 보여요.",
+  "also": [
+   {
+    "w": "exceedingly",
+    "pos": "adv",
+    "ko": "극도로, 대단히",
+    "en": "The weather was **exceedingly** hot that week."
+   }
+  ]
+ },
+ {
+  "w": "exception",
+  "pos": "n",
+  "meaning_ko": "예외",
+  "example_en": "Everyone has to follow the rules, with no **exceptions**.",
+  "example_ko": "예외 없이 모두가 규칙을 따라야 해.",
+  "nuance_ko": "exception은 일반 규칙에 들어맞지 않는 예외예요. make an exception(예외로 해 주다), with the exception of ~(~를 제외하고), an exception to the rule(규칙의 예외)처럼 써요. 'The exception proves the rule'은 예외가 오히려 규칙의 존재를 보여준다는 속담이에요. 'take exception to ~'는 '~에 불쾌감을 느끼다, 반대하다'라는 별개의 숙어이니 주의하세요. 형용사 exceptional은 '예외적인' 외에 '매우 뛰어난'이라는 긍정적인 뜻으로 더 자주 써요.",
+  "also": [
+   {
+    "w": "exceptional",
+    "pos": "adj",
+    "ko": "뛰어난, 예외적인",
+    "en": "She showed **exceptional** talent from a young age."
+   },
+   {
+    "w": "exceptionally",
+    "pos": "adv",
+    "ko": "유난히, 특별히",
+    "en": "The weather was **exceptionally** warm for March."
+   }
+  ]
+ },
+ {
+  "w": "excess",
+  "pos": "n",
+  "meaning_ko": "초과, 과잉",
+  "example_en": "Drivers caught driving in **excess** of the limit will be fined.",
+  "example_ko": "제한 속도를 초과해서 운전하다 적발되면 벌금을 물게 돼.",
+  "nuance_ko": "excess는 필요하거나 허용되는 양을 넘는 초과분이나 과잉이에요. in excess of ~(~를 초과하는), excess baggage(초과 수하물), excess weight처럼 써요. 형용사로도 쓰여서 'excess fat'은 불필요한 지방이에요. 'in excess'는 '지나치게'라는 뜻인데 'drinking in excess'는 과음이에요. extra는 더해진 여분이고 excess는 선을 넘은 초과라는 부정적인 느낌이 있어요. 형용사 excessive는 '과도한'(excessive force)이에요.",
+  "also": [
+   {
+    "w": "excessive",
+    "pos": "adj",
+    "ko": "지나친, 과도한",
+    "en": "Excessive screen time can hurt your eyes."
+   },
+   {
+    "w": "excessively",
+    "pos": "adv",
+    "ko": "지나치게",
+    "en": "He worries **excessively** about small things."
+   }
+  ]
+ },
+ {
+  "w": "exclude",
+  "pos": "v",
+  "meaning_ko": "제외하다, 배제하다",
+  "example_en": "The price **excludes** tax and shipping.",
+  "example_ko": "그 가격에는 세금과 배송비가 포함되어 있지 않아.",
+  "nuance_ko": "exclude는 어떤 범위나 목록에서 빼놓는다는 뜻이에요. exclude A from B 구문을 쓰고, 'excluding tax'(세금 제외)는 가격 표시에서 정말 자주 봐요. 사람을 모임에서 배제하는 것(feel excluded)에도 써요. 가능성을 배제하다는 뜻으로 'exclude the possibility'도 흔해요. 반대는 include(포함하다)예요. leave out은 구어체로 같은 뜻이고 exclude는 격식 있고 의도적인 제외의 느낌이에요. 명사 exclusion은 '제외, 배제'이고 'social exclusion'은 사회적 배제예요.",
+  "also": [
+   {
+    "w": "excluding",
+    "pos": "prep",
+    "ko": "~를 제외하고",
+    "en": "The fee is $50, **excluding** tax."
+   }
+  ]
+ },
+ {
+  "w": "exclusive",
+  "pos": "adj",
+  "meaning_ko": "독점적인, 배타적인",
+  "example_en": "The magazine published an **exclusive** interview with the actor.",
+  "example_ko": "그 잡지는 그 배우와의 독점 인터뷰를 실었어.",
+  "nuance_ko": "exclusive는 특정 사람이나 집단만 누릴 수 있는 독점적·배타적이라는 뜻이에요. an exclusive interview(단독 인터뷰), an exclusive club(회원제 고급 클럽), exclusive rights(독점권)처럼 써요. 고급스럽고 일반인에게 열려 있지 않다는 뉘앙스도 있어서 'an exclusive resort'는 아무나 못 가는 고급 리조트예요. 가격 표시에서 'exclusive of tax'는 세금을 포함하지 않는다는 뜻이에요. 반대는 inclusive(포괄적인)예요. 뉴스에서 Exclusive는 단독 보도를 의미해요.",
+  "also": [
+   {
+    "w": "exclusively",
+    "pos": "adv",
+    "ko": "오로지, 독점적으로",
+    "en": "The product is sold **exclusively** online."
+   }
+  ]
+ },
+ {
+  "w": "execute",
+  "pos": "v",
+  "meaning_ko": "실행하다, 처형하다",
+  "example_en": "The team failed to **execute** the plan properly.",
+  "example_ko": "그 팀은 계획을 제대로 실행하지 못했어.",
+  "nuance_ko": "execute에는 두 가지 큰 뜻이 있어요. 하나는 계획이나 명령을 실행하는 것(execute a plan, execute a command)이고, 다른 하나는 사형을 집행하는 것이에요. 컴퓨터에서 프로그램을 실행하는 것(execute a program)도 execute예요. carry out과 비슷하지만 execute가 더 격식 있고 기술적이에요. 비즈니스에서 'execution'은 전략을 실제 행동으로 옮기는 단계를 말하고, 'good ideas need good execution'이 흔한 말이에요. 법률에서는 서명해서 계약을 유효하게 만드는 것도 뜻해요.",
+  "also": [
+   {
+    "w": "execution",
+    "pos": "n",
+    "ko": "실행, 처형",
+    "en": "The **execution** of the plan was flawless."
+   },
+   {
+    "w": "executed",
+    "pos": "adj",
+    "ko": "실행된, 처형된",
+    "en": "The command was **executed** successfully."
+   }
+  ]
+ },
+ {
+  "w": "executive",
+  "pos": "n",
+  "meaning_ko": "임원, 경영진",
+  "example_en": "She was promoted to senior **executive** last year.",
+  "example_ko": "걔는 작년에 고위 임원으로 승진했어.",
+  "nuance_ko": "executive는 회사에서 경영 결정을 내리는 고위 임원이에요. chief executive officer(CEO), a senior executive, marketing executive처럼 써요. 형용사로는 '경영의, 집행의'로 executive decision(경영진의 결정), executive order(행정명령)처럼 써요. 정부에서는 법을 집행하는 행정부(the executive branch)를 뜻해요. 영국에서는 중간 관리직 이상의 사무직을 폭넓게 executive라고도 부르는 점이 달라요. 구어체로 줄여서 exec(임원)이라고도 해요.",
+  "also": [
+   {
+    "w": "executives",
+    "pos": "n",
+    "ko": "임원들",
+    "en": "Top **executives** met to discuss the merger."
+   }
+  ]
+ },
+ {
+  "w": "exhibit",
+  "pos": "v",
+  "meaning_ko": "전시하다, 보여주다",
+  "example_en": "The museum will **exhibit** her paintings next month.",
+  "example_ko": "박물관이 다음 달에 그녀의 그림들을 전시할 거야.",
+  "nuance_ko": "exhibit은 작품이나 물건을 공개적으로 전시하거나, 감정·특성을 겉으로 드러낸다는 뜻이에요. exhibit paintings, exhibit symptoms(증상을 보이다), exhibit signs of stress처럼 써요. 명사 exhibit는 전시품이고 법정에서는 증거물(Exhibit A)을 뜻해요. display와 비슷하지만 exhibit은 공식 전시회에 쓰는 격식 있는 단어예요. 명사 exhibition은 '전시회'(an art exhibition)이고, exhibitor는 '출품자'예요.",
+  "also": [
+   {
+    "w": "exhibition",
+    "pos": "n",
+    "ko": "전시회",
+    "en": "We visited an art **exhibition** downtown."
+   },
+   {
+    "w": "exhibited",
+    "pos": "adj",
+    "ko": "전시된",
+    "en": "The **exhibited** works include rare sculptures."
+   }
+  ]
+ },
+ {
+  "w": "expand",
+  "pos": "v",
+  "meaning_ko": "확장하다, 넓히다",
+  "example_en": "The company plans to **expand** into the Asian market.",
+  "example_ko": "그 회사는 아시아 시장으로 확장할 계획이야.",
+  "nuance_ko": "expand는 크기, 범위, 규모가 커지거나 키운다는 뜻이에요. 자동사('Metals expand when heated')와 타동사('expand the business') 모두 가능해요. 'expand on ~'은 '~을 더 자세히 설명하다'라는 숙어라서 회의에서 'Could you expand on that?'이 자주 나와요. 'expand into ~'는 새 분야·시장으로 진출한다는 뜻이에요. 반대는 contract(수축하다)나 shrink예요. 명사 expansion은 '확장, 팽창'이고, 형용사 expandable은 '확장 가능한'이에요.",
+  "also": [
+   {
+    "w": "expanding",
+    "pos": "adj",
+    "ko": "확장하는",
+    "en": "The city has a rapidly **expanding** population."
+   }
+  ]
+ },
+ {
+  "w": "expansion",
+  "pos": "n",
+  "meaning_ko": "확장, 팽창",
+  "example_en": "The company announced a major **expansion** of its factory.",
+  "example_ko": "그 회사는 공장을 대대적으로 확장한다고 발표했어.",
+  "nuance_ko": "expansion은 크기나 규모, 범위가 커지는 것을 말하는 명사예요. economic expansion(경기 팽창), business expansion(사업 확장), expansion plans처럼 써요. 반대는 contraction(수축)이에요. growth와 비슷하지만 expansion은 영역이나 규모를 넓히는 의도적 확장의 느낌이 강해요. 정치에서는 영토 확장을 expansionism(팽창주의)이라 부르고 부정적으로 쓰는 경우가 많아요. 게임에서는 expansion pack(확장팩)으로 익숙해요.",
+  "also": []
+ },
+ {
+  "w": "expenditure",
+  "pos": "n",
+  "meaning_ko": "지출, 비용",
+  "example_en": "Government **expenditure** on education has increased this year.",
+  "example_ko": "올해 교육에 대한 정부 지출이 늘었어.",
+  "nuance_ko": "expenditure는 돈이나 시간, 에너지를 쓰는 지출이나 소비예요. government expenditure(정부 지출), public expenditure(공공 지출), a large expenditure of energy처럼 써요. 경제 기사와 회계에서 income(수입)과 대비되는 격식 있는 단어예요. expense는 개별 비용 항목이고, expenditure는 총 지출액이나 지출 행위를 가리키는 경우가 많아요. 불가산과 가산으로 모두 쓰이고, 복수형은 expenditures예요. 일상적인 대화에서는 spending이 훨씬 흔해요.",
+  "also": []
+ },
+ {
+  "w": "experiment",
+  "pos": "n",
+  "meaning_ko": "실험",
+  "example_en": "The students did an **experiment** to test how plants grow in the dark.",
+  "example_ko": "학생들은 식물이 어둠 속에서 어떻게 자라는지 알아보는 실험을 했어.",
+  "nuance_ko": "experiment는 가설을 확인하려고 조건을 통제해서 해보는 실험이에요. conduct an experiment, a scientific experiment, a control group in an experiment처럼 써요. 비유적으로 '시험 삼아 해보는 시도'라는 뜻으로도 많이 쓰여서 'It was just an experiment'라고 해요. 동사로는 'experiment with ~'(~을 시도해 보다)가 흔해서 요리나 취미에서도 자연스러워요. experience(경험)와 철자가 비슷하니 구분하세요. 형용사 experimental은 '실험적인'(experimental music)이에요.",
+  "also": [
+   {
+    "w": "experimental",
+    "pos": "adj",
+    "ko": "실험적인",
+    "en": "The band is known for its **experimental** sound."
+   },
+   {
+    "w": "experimentation",
+    "pos": "n",
+    "ko": "실험, 시도",
+    "en": "Good cooking involves a lot of **experimentation**."
+   }
+  ]
+ },
+ {
+  "w": "expert",
+  "pos": "n",
+  "meaning_ko": "전문가",
+  "example_en": "She's an **expert** on ancient Roman history.",
+  "example_ko": "걔는 고대 로마사 전문가야.",
+  "nuance_ko": "expert는 특정 분야에서 깊은 지식과 오랜 경험을 가진 전문가예요. an expert on/in/at ~ 구문으로 써요. an expert in computers처럼 분야 앞에 in을 쓰고, 'an expert on Korea'처럼 주제 앞에는 on을 써요. 형용사로는 '전문적인, 숙련된'(expert advice, an expert witness 전문가 증인)이에요. specialist는 한 분야에 전문화된 직업인이고 expert는 깊이 아는 사람이라는 점이 약간 달라요. 반대로 초보자는 beginner 또는 novice예요.",
+  "also": [
+   {
+    "w": "expertly",
+    "pos": "adv",
+    "ko": "능숙하게",
+    "en": "He **expertly** fixed the engine in minutes."
+   }
+  ]
+ },
+ {
+  "w": "explicit",
+  "pos": "adj",
+  "meaning_ko": "명시적인, 노골적인",
+  "example_en": "The rules are **explicit**: no phones during the exam.",
+  "example_ko": "규칙은 분명해. 시험 중에는 휴대폰 금지야.",
+  "nuance_ko": "explicit은 돌려 말하지 않고 분명하고 상세하게 드러내는 것을 말해요. explicit instructions(명확한 지시), explicit permission(명시적 허락), be explicit about ~처럼 써요. 반대는 implicit(암묵적인)예요. 영상, 음악, 글에서 'explicit content'는 노골적인 성적·폭력적 내용이 담겼다는 경고 표시예요. clear보다 모호함이 전혀 없이 직접 말한다는 느낌이 강해요. 부사 explicitly는 'explicitly stated'(명시적으로 밝힌)처럼 자주 나와요.",
+  "also": [
+   {
+    "w": "explicitly",
+    "pos": "adv",
+    "ko": "명시적으로",
+    "en": "The contract **explicitly** forbids sharing the data."
+   }
+  ]
+ },
+ {
+  "w": "exploit",
+  "pos": "v",
+  "meaning_ko": "착취하다, 활용하다",
+  "example_en": "Some companies **exploit** cheap labor in poorer countries.",
+  "example_ko": "어떤 기업들은 가난한 나라의 값싼 노동력을 착취해.",
+  "nuance_ko": "exploit은 쓰임이 두 가지예요. 하나는 부당한 이득을 위해 남을 착취하거나 약점을 이용하는 부정적인 뜻(exploit workers)이고, 다른 하나는 자원이나 기회를 최대한 활용한다는 중립적·긍정적인 뜻(exploit natural resources, exploit an opportunity)이에요. 보안 분야에서는 시스템의 취약점을 노리는 공격을 exploit이라고 해요. 맥락을 보고 판단해야 해요. 명사 exploits는 '위업, 공훈'이라는 뜻도 있어요. 명사 exploitation은 '착취, 개발'이에요.",
+  "also": [
+   {
+    "w": "exploitation",
+    "pos": "n",
+    "ko": "착취, 개발",
+    "en": "The report exposed the **exploitation** of workers."
+   },
+   {
+    "w": "exploited",
+    "pos": "adj",
+    "ko": "착취당한",
+    "en": "Many **exploited** workers had no legal protection."
+   }
+  ]
+ },
+ {
+  "w": "explore",
+  "pos": "v",
+  "meaning_ko": "탐험하다, 탐구하다",
+  "example_en": "We spent the weekend **exploring** the old town.",
+  "example_ko": "우린 주말 내내 구시가지를 돌아다니며 구경했어.",
+  "nuance_ko": "explore는 낯선 장소를 돌아다니며 탐험하는 것, 그리고 아이디어나 가능성을 깊이 살펴보는 것에 모두 써요. explore a city, explore the possibilities, explore options처럼 써요. 비즈니스에서 'explore opportunities'는 기회를 타진한다는 말이에요. 여행에서는 구경하며 돌아다닌다는 가벼운 의미로 많이 써요. investigate는 사실을 파헤치는 조사이고 explore는 열린 마음으로 둘러보고 알아본다는 점이 달라요. 명사 explorer는 '탐험가', exploration은 '탐험, 탐구'예요.",
+  "also": [
+   {
+    "w": "exploration",
+    "pos": "n",
+    "ko": "탐험, 탐구",
+    "en": "Space **exploration** has made huge progress."
+   },
+   {
+    "w": "explorer",
+    "pos": "n",
+    "ko": "탐험가",
+    "en": "The **explorer** mapped the unknown coastline."
+   }
+  ]
+ },
+ {
+  "w": "explosion",
+  "pos": "n",
+  "meaning_ko": "폭발, 급증",
+  "example_en": "A loud **explosion** shook the entire neighborhood.",
+  "example_ko": "커다란 폭발음이 동네 전체를 뒤흔들었어.",
+  "nuance_ko": "explosion은 갑작스럽고 큰 폭발, 그리고 비유적으로 급격한 증가나 감정의 분출을 뜻해요. a gas explosion(가스 폭발), a population explosion(인구 폭발)처럼 써요. 'an explosion of color'는 색이 확 터지듯 화려하게 펼쳐지는 모습을 묘사해요. 동사 explode는 '폭발하다'이고 감정이 터질 때도 쓰여서 'explode with anger'라고 해요. 형용사 explosive는 '폭발성의, 폭발적인'이고 명사로는 '폭발물'(explosives)이에요. blast는 폭발할 때의 순간적인 바람과 충격 쪽이에요.",
+  "also": [
+   {
+    "w": "explosive",
+    "pos": "adj",
+    "ko": "폭발성의, 폭발적인",
+    "en": "The situation is **explosive** and could get worse."
+   },
+   {
+    "w": "explosives",
+    "pos": "n",
+    "ko": "폭발물",
+    "en": "Police found **explosives** in the abandoned building."
+   }
+  ]
+ },
+ {
+  "w": "export",
+  "pos": "n",
+  "meaning_ko": "수출, 수출품",
+  "example_en": "Cars and electronics are the country's main **exports**.",
+  "example_ko": "자동차와 전자제품이 그 나라의 주요 수출품이야.",
+  "nuance_ko": "export는 외국으로 상품을 내보내는 수출, 또는 수출품이에요. 명사는 /ˈekspɔːrt/로 앞에 강세, 동사는 /ɪkˈspɔːrt/로 뒤에 강세가 와요. 보통 복수 exports로 '수출품'을 뜻하고, 반대말은 import(수입)예요. 컴퓨터에서는 데이터를 다른 형식이나 프로그램으로 내보내는 것(export a file)을 말해요. 'export to ~'는 '~로 수출하다'예요. 경제 뉴스에서 'exports rose by 5 percent'(수출이 5퍼센트 증가했다)처럼 자주 나와요.",
+  "also": [
+   {
+    "w": "exporter",
+    "pos": "n",
+    "ko": "수출업자, 수출국",
+    "en": "Korea is a major **exporter** of semiconductors."
+   },
+   {
+    "w": "exported",
+    "pos": "adj",
+    "ko": "수출된",
+    "en": "Most of the **exported** goods go to Asia."
+   }
+  ]
+ },
+ {
+  "w": "extension",
+  "pos": "n",
+  "meaning_ko": "연장, 확장, 내선 번호",
+  "example_en": "I asked my teacher for an **extension** on the essay deadline.",
+  "example_ko": "선생님께 에세이 마감 연장을 부탁드렸어.",
+  "nuance_ko": "extension은 기간이나 범위, 건물 등을 늘리는 것을 가리키고, 쓰임이 아주 다양해요. 마감 연장(an extension on a deadline), 건물 증축(a house extension), 전화 내선 번호(extension 205), 전기 연장선(extension cord)이 모두 extension이에요. 파일 확장자(file extension, .pdf)와 브라우저의 확장 프로그램도 extension이라고 해요. 'apply for a visa extension'은 비자 연장 신청이에요. 줄여서 ext.로 쓰며 명함에 내선 번호를 적을 때 자주 봐요.",
+  "also": []
+ },
+ {
+  "w": "extensive",
+  "pos": "adj",
+  "meaning_ko": "광범위한, 대규모의",
+  "example_en": "The hurricane caused **extensive** damage along the coast.",
+  "example_ko": "허리케인이 해안을 따라 광범위한 피해를 입혔어.",
+  "nuance_ko": "extensive는 범위가 넓고 양이 많아서 규모가 크다는 뜻이에요. extensive research(광범위한 연구), extensive experience(폭넓은 경험), extensive damage처럼 써요. intensive(집중적인)와 철자가 비슷해서 헷갈리는데 extensive는 넓게, intensive는 깊고 집중해서라는 차이가 있어요. big이나 large보다 격식 있고 범위의 폭을 강조해요. 부사 extensively는 'He has traveled extensively'(그는 폭넓게 여행했다)처럼 자주 써요.",
+  "also": [
+   {
+    "w": "extensively",
+    "pos": "adv",
+    "ko": "광범위하게",
+    "en": "She has **extensively** researched the topic."
+   }
+  ]
+ },
+ {
+  "w": "extent",
+  "pos": "n",
+  "meaning_ko": "정도, 범위",
+  "example_en": "To some **extent**, I agree with what you said.",
+  "example_ko": "어느 정도는 네가 한 말에 동의해.",
+  "nuance_ko": "extent는 어떤 것의 크기나 범위, 또는 어느 정도까지인지를 말해요. to some extent(어느 정도는), to a large extent(상당 부분), to what extent(어느 정도까지)처럼 쓰는 게 거의 전부예요. the full extent of the damage(피해의 전체 규모)처럼 규모를 나타낼 때도 써요. degree와 비슷하지만 extent는 범위를 강조해요. 'to the extent that ~'는 '~하는 정도까지'라는 격식 있는 접속 표현이에요. 토론과 에세이에서 의견의 정도를 조절할 때 매우 유용해요.",
+  "also": []
+ },
+ {
+  "w": "external",
+  "pos": "adj",
+  "meaning_ko": "외부의, 대외적인",
+  "example_en": "The company hired an **external** consultant to review its finances.",
+  "example_ko": "그 회사는 재무 상태를 검토하려고 외부 컨설턴트를 고용했어.",
+  "nuance_ko": "external은 어떤 조직이나 물체의 바깥에 있거나 바깥에서 오는 것을 말해요. an external hard drive(외장 하드), external factors(외부 요인), an external audit(외부 감사)처럼 써요. 반대는 internal(내부의)예요. 'for external use only'는 약품 포장에 쓰여 '외용'이라는 뜻이에요. outer는 물리적인 바깥쪽 위치를 뜻하고 external은 조직·범위의 바깥이라는 점이 달라요. 부사 externally는 'externally funded'(외부 자금으로 운영되는)처럼 써요.",
+  "also": [
+   {
+    "w": "externally",
+    "pos": "adv",
+    "ko": "외부적으로",
+    "en": "The project was **externally** funded."
+   }
+  ]
+ },
+ {
+  "w": "extract",
+  "pos": "v",
+  "meaning_ko": "추출하다, 뽑아내다",
+  "example_en": "The dentist had to **extract** the tooth.",
+  "example_ko": "치과 의사가 그 이를 뽑아야 했어.",
+  "nuance_ko": "extract는 어떤 안에서 힘을 들여 뽑아내거나 필요한 부분만 가려낸다는 뜻이에요. extract a tooth(이를 뽑다), extract oil(석유를 추출하다), extract information(정보를 뽑아내다)처럼 써요. 동사는 /ɪkˈstrækt/로 뒤에 강세, 명사는 /ˈekstrækt/로 앞에 강세가 와서 '추출물, 발췌문'(vanilla extract, an extract from a novel)이 돼요. 데이터를 가공해서 가져오는 것(data extraction)도 흔해요. remove보다 더 힘들게 뽑아낸다는 느낌이에요.",
+  "also": [
+   {
+    "w": "extraction",
+    "pos": "n",
+    "ko": "추출, 발치",
+    "en": "Oil **extraction** can harm the local environment."
+   },
+   {
+    "w": "extracted",
+    "pos": "adj",
+    "ko": "추출된",
+    "en": "Vanilla is an **extracted** flavoring."
+   }
+  ]
+ },
+ {
+  "w": "extraordinary",
+  "pos": "adj",
+  "meaning_ko": "비범한, 놀라운",
+  "example_en": "She showed **extraordinary** courage during the rescue.",
+  "example_ko": "그녀는 구조 활동 중에 놀라운 용기를 보여줬어.",
+  "nuance_ko": "extraordinary는 평범한 수준을 훨씬 넘어서는 비범하거나 놀라운 것을 말해요. an extraordinary talent, extraordinary circumstances처럼 좋은 의미에서도 쓰고, '이례적인, 특별한'이라는 중립적 뜻으로도 써요. 발음은 /ɪkˈstrɔːrdəneri/(미국식)이고 철자를 extra+ordinary로 나눠 생각하면 '보통을 넘어선'이라는 뜻이 보여요. 'extraordinary meeting'은 정기 회의가 아닌 임시 회의예요. remarkable과 비슷하지만 더 강한 놀라움이 담겨요. 부사 extraordinarily는 '대단히'예요.",
+  "also": [
+   {
+    "w": "extraordinarily",
+    "pos": "adv",
+    "ko": "대단히, 비상하게",
+    "en": "The test was **extraordinarily** difficult."
+   }
+  ]
+ },
+ {
+  "w": "fabric",
+  "pos": "n",
+  "meaning_ko": "직물, 천",
+  "example_en": "This **fabric** feels soft and doesn't wrinkle easily.",
+  "example_ko": "이 천은 부드럽고 잘 안 구겨져.",
+  "nuance_ko": "fabric은 옷이나 커튼, 가구에 쓰이는 직물, 즉 천이에요. cotton fabric, soft fabric, a fabric store(원단 가게)처럼 써요. cloth는 천 전반을 가리키는 일상적인 말이고, fabric은 소재와 짜임새를 강조하는 말이라 의류·섬유 업계에서 많이 써요. 비유적으로 'the fabric of society'는 사회를 이루는 구조와 조직을 뜻해요. 건물의 구조 자체(fabric of a building)를 가리킬 때도 있어요. 복수형 fabrics는 여러 종류의 천을 말해요.",
+  "also": []
+ },
+ {
+  "w": "facilitate",
+  "pos": "v",
+  "meaning_ko": "촉진하다, 용이하게 하다",
+  "example_en": "The new software will **facilitate** communication between teams.",
+  "example_ko": "새 소프트웨어는 팀 간 소통을 원활하게 해 줄 거야.",
+  "nuance_ko": "facilitate는 어떤 일이 더 쉽게 일어나거나 진행되도록 돕는다는 뜻이에요. facilitate communication, facilitate learning, facilitate discussion처럼 써요. 직접 하는 게 아니라 환경과 수단을 마련해 줘서 수월하게 만드는 것이 핵심이에요. help보다 격식 있고 비즈니스·교육 맥락에서 자주 나와요. 회의를 진행하며 이끄는 사람은 facilitator라고 불러요. 사람이 주어가 되어 'facilitate a workshop'(워크숍을 진행하다)처럼도 써요.",
+  "also": [
+   {
+    "w": "facilitator",
+    "pos": "n",
+    "ko": "진행자, 촉진자",
+    "en": "The workshop **facilitator** kept the discussion on track."
+   }
+  ]
+ },
+ {
+  "w": "facility",
+  "pos": "n",
+  "meaning_ko": "시설, 설비",
+  "example_en": "The hotel has excellent sports **facilities**, including a pool.",
+  "example_ko": "그 호텔은 수영장을 포함해 훌륭한 스포츠 시설을 갖추고 있어.",
+  "nuance_ko": "facility는 특정 목적을 위해 마련된 시설이나 설비예요. 복수형 facilities가 훨씬 자주 쓰여서 sports facilities, medical facilities, parking facilities처럼 써요. 영국에서 'the facilities'는 화장실을 완곡하게 가리키는 말이기도 해요. 단수 facility는 연구소·공장 등 하나의 큰 시설(a research facility)이나, 어떤 일을 쉽게 하는 능력(a facility for languages, 언어에 대한 재능)을 뜻해요. building이 건물 자체라면 facility는 목적에 맞게 갖춘 시설이라는 점이 달라요.",
+  "also": []
+ },
+ {
+  "w": "factor",
+  "pos": "n",
+  "meaning_ko": "요인, 요소",
+  "example_en": "Price is a major **factor** when people choose a phone.",
+  "example_ko": "사람들이 폰을 고를 때 가격은 큰 요인이야.",
+  "nuance_ko": "factor는 결과에 영향을 주는 요인이나 요소를 말해요. a key factor, a deciding factor(결정적 요인), risk factor(위험 요인), factor in(고려하다)처럼 써요. 'a factor in ~'(~의 한 요인)이나 'a factor of safety'처럼 전치사가 쓰임에 따라 달라요. 수학에서는 인수(factor of 12)를 뜻해요. 구어체 동사 'factor in'은 계산이나 계획에 어떤 요소를 반영하는 것이에요. cause는 직접 원인이고 factor는 여러 요인 중 하나라는 뜻이에요.",
+  "also": [
+   {
+    "w": "factored",
+    "pos": "adj",
+    "ko": "고려된",
+    "en": "Make sure shipping costs are **factored** into the price."
+   }
+  ]
+ },
+ {
+  "w": "factory",
+  "pos": "n",
+  "meaning_ko": "공장",
+  "example_en": "My uncle has worked at a car **factory** for twenty years.",
+  "example_ko": "우리 삼촌은 자동차 공장에서 20년째 일하셔.",
+  "nuance_ko": "factory는 상품을 대량으로 만드는 공장이에요. factory worker(공장 노동자), a car factory, factory-made(공장에서 만든)처럼 써요. plant는 발전소·화학 공장 같은 대규모 산업 시설에 자주 쓰고, mill은 방직·제분 등 특정 가공 공장이에요. 공장의 발전은 industrial revolution(산업 혁명)과 연결돼요. 'factory outlet'은 공장 직영 할인점을 뜻하며 쇼핑 맥락에서 보이죠. 복수형은 factories예요.",
+  "also": []
+ },
+ {
+  "w": "faculty",
+  "pos": "n",
+  "meaning_ko": "교수진, 학부, 능력",
+  "example_en": "The university has a **faculty** of over two thousand professors.",
+  "example_ko": "그 대학에는 이천 명이 넘는 교수진이 있어.",
+  "nuance_ko": "faculty는 미국 영어에서 대학이나 학교의 교수진 전체를 가리키는 집합명사예요. faculty member(교수진의 한 사람), faculty meeting처럼 써요. 영국 영어와 유럽에서는 대학의 단과대학·학부(the Faculty of Law)를 뜻해요. 또 타고난 정신적·신체적 능력(mental faculties, 정신 능력)이라는 뜻도 있어요. 'in full possession of one's faculties'는 정신이 온전하다는 뜻이에요. staff는 교직원을 포함한 직원 전체고, faculty는 가르치는 사람들을 가리켜요.",
+  "also": []
+ },
+ {
+  "w": "fade",
+  "pos": "v",
+  "meaning_ko": "희미해지다, 시들다",
+  "example_en": "The colors on the old photograph have started to **fade**.",
+  "example_ko": "오래된 사진의 색이 바래기 시작했어.",
+  "nuance_ko": "fade는 색, 소리, 빛, 기억이 서서히 약해지고 희미해지는 것을 말해요. fade away, fade out, fade into the background(배경 속으로 사라지다)처럼 써요. 영화와 음악에서 화면이나 소리가 서서히 사라지는 fade-out 연출로도 익숙하죠. 사람의 기억이나 열정이 시들해질 때도 'The excitement faded.'처럼 써요. disappear는 완전히 사라지는 것이고 fade는 점차 흐려지는 과정을 강조해요. 청바지가 색이 바랜 'faded jeans'는 패션 용어로도 흔해요.",
+  "also": [
+   {
+    "w": "faded",
+    "pos": "adj",
+    "ko": "바랜, 시든",
+    "en": "She wore a pair of **faded** jeans."
+   },
+   {
+    "w": "fading",
+    "pos": "adj",
+    "ko": "희미해지는",
+    "en": "We watched the **fading** light of the evening."
+   }
+  ]
+ },
+ {
+  "w": "failure",
+  "pos": "n",
+  "meaning_ko": "실패, 고장",
+  "example_en": "He learned an important lesson from his **failure**.",
+  "example_ko": "그는 자신의 실패에서 중요한 교훈을 얻었어.",
+  "nuance_ko": "failure는 목표를 이루지 못한 실패, 기계나 장기의 고장·기능 정지, 그리고 실패한 사람이나 시도를 뜻해요. engine failure(엔진 고장), heart failure(심부전), a failure to communicate(소통 실패)처럼 써요. 'Failure is the mother of success'는 실패가 성공의 어머니라는 속담이에요. 'a failure to ~'는 '~하지 못함'이라는 뜻이라서 'failure to pay'(미납)처럼 법적 문서에도 나와요. 사람에게 'He is a failure'라고 하면 매우 가혹한 표현이니 조심하세요. 동사는 fail이에요.",
+  "also": []
+ },
+ {
+  "w": "fantasy",
+  "pos": "n",
+  "meaning_ko": "환상, 판타지",
+  "example_en": "She loves reading **fantasy** novels about dragons and magic.",
+  "example_ko": "걔는 용과 마법이 나오는 판타지 소설 읽는 걸 좋아해.",
+  "nuance_ko": "fantasy는 현실에서 일어나기 어려운 상상이나 몽상, 그리고 판타지 장르를 뜻해요. 장르로는 불가산이고 'fantasy novel', 'high fantasy'처럼 써요. 몽상의 의미로는 가산이라서 'a fantasy'(하나의 환상), 'live in a fantasy world'처럼 써요. dream은 꿈이나 이루고 싶은 소망을 포함하지만 fantasy는 현실과 동떨어진 공상이라는 느낌이에요. 스포츠에서는 'fantasy football'(가상 팀을 꾸리는 게임)이 유명해요. 동사 fantasize는 '공상하다'예요.",
+  "also": [
+   {
+    "w": "fantasize",
+    "pos": "v",
+    "ko": "공상하다",
+    "en": "He used to **fantasize** about winning the lottery."
+   }
+  ]
+ },
+ {
+  "w": "fate",
+  "pos": "n",
+  "meaning_ko": "운명, 숙명",
+  "example_en": "Some people believe that **fate** brought them together.",
+  "example_ko": "어떤 사람들은 운명이 자기들을 이어줬다고 믿어.",
+  "nuance_ko": "fate는 인간이 바꿀 수 없다고 여겨지는 정해진 운명이나, 사람·사물에게 결국 닥친 결말을 뜻해요. 'a twist of fate'(운명의 장난), 'seal someone's fate'(운명을 결정짓다), 'tempt fate'(운명을 시험하다)처럼 써요. destiny는 더 긍정적이고 큰 사명 같은 운명이라면 fate는 좋든 나쁘든 정해진 결과를 가리키는 느낌이에요. 'the fate of the company'(회사의 향방)처럼 단순히 결말을 말하는 뉴스 용법이 많아요. 형용사 fated는 '운명 지어진'이에요.",
+  "also": [
+   {
+    "w": "fated",
+    "pos": "adj",
+    "ko": "운명 지어진",
+    "en": "They felt **fated** to meet that day."
+   }
+  ]
+ },
+ {
+  "w": "federal",
+  "pos": "adj",
+  "meaning_ko": "연방의, 연방 정부의",
+  "example_en": "The **federal** government has set new rules for air travel.",
+  "example_ko": "연방 정부가 항공 여행에 관한 새 규정을 마련했어.",
+  "nuance_ko": "federal은 여러 주나 지방이 모여 하나의 국가를 이루는 연방제와 관련된 것을 가리켜요. 미국에서는 federal government(연방 정부), federal law(연방법), federal court(연방 법원)처럼 주 정부(state)와 구분할 때 정말 자주 나와요. 'the Federal Reserve'(연준)와 'FBI(Federal Bureau of Investigation)'도 같은 단어를 써요. 독일, 캐나다, 호주 등도 연방제 국가예요. 한국은 단일제 국가라서 federal 개념이 낯설 수 있어요. 명사 federalism은 '연방주의'예요.",
+  "also": [
+   {
+    "w": "federalism",
+    "pos": "n",
+    "ko": "연방주의",
+    "en": "**Federalism** divides power between national and state governments."
+   }
+  ]
+ },
+ {
+  "w": "fee",
+  "pos": "n",
+  "meaning_ko": "요금, 수수료",
+  "example_en": "There's a small **fee** for using the parking lot.",
+  "example_ko": "주차장을 이용하려면 소정의 요금이 있어.",
+  "nuance_ko": "fee는 서비스나 전문가의 업무, 입장·가입에 대해 내는 요금이나 수수료예요. an entrance fee(입장료), tuition fees(수업료), a membership fee(회비), lawyer's fees(변호사 수임료)처럼 써요. price는 상품의 값이고 fee는 서비스·자격에 대한 대가라는 점이 달라요. charge도 비슷하지만 'extra charge'처럼 부가 요금을 가리켜요. 'a flat fee'는 정액 요금이에요. 복수형 fees는 여러 종류의 수수료를 합쳐 말할 때 써요.",
+  "also": []
+ },
+ {
+  "w": "feminist",
+  "pos": "n",
+  "meaning_ko": "페미니스트, 여성주의자",
+  "example_en": "She considers herself a **feminist** and speaks up for equal pay.",
+  "example_ko": "그녀는 자신을 페미니스트라고 생각하고 동일 임금을 위해 목소리를 내.",
+  "nuance_ko": "feminist는 성평등과 여성의 권리를 옹호하는 사람, 또는 그런 관점의 형용사예요. 중립적이고 사전적인 정의로는 '성별에 따른 사회적·정치적·경제적 평등을 지지하는 사람'이에요. feminist movement, feminist theory처럼 사회 운동이나 학문 분야 이름에 붙어요. 영미권에서도 이 단어에 대한 시각이 다양하고 논쟁적인 맥락에서 쓰일 수 있어서 상대 의견을 조심스럽게 다루는 게 좋아요. 명사 feminism은 '여성주의, 페미니즘'이에요.",
+  "also": []
+ },
+ {
+  "w": "fertile",
+  "pos": "adj",
+  "meaning_ko": "비옥한, 번식력이 있는",
+  "example_en": "The river valley has very **fertile** soil for farming.",
+  "example_ko": "그 강 유역은 농사짓기에 아주 비옥한 땅이야.",
+  "nuance_ko": "fertile은 땅이 기름져서 작물이 잘 자라는 상태, 또는 생물이 번식·임신할 수 있는 능력이 있는 상태를 뜻해요. fertile soil, fertile land, fertile period(가임기)처럼 써요. 비유적으로 'a fertile imagination'은 아이디어가 샘솟는 풍부한 상상력이에요. 'fertile ground for ~'는 '~가 자라기 좋은 환경'이라는 비유 표현으로 뉴스에서도 보여요. 반대는 barren(불모의) 또는 infertile이에요. 명사 fertility는 '비옥함, 출산율'이고, fertilizer는 '비료'예요.",
+  "also": [
+   {
+    "w": "fertility",
+    "pos": "n",
+    "ko": "비옥함, 번식력",
+    "en": "The country has a very low **fertility** rate."
+   },
+   {
+    "w": "fertilizer",
+    "pos": "n",
+    "ko": "비료",
+    "en": "Farmers use **fertilizer** to grow more crops."
+   }
+  ]
+ }
+]

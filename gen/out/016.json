@@ -1,0 +1,1674 @@
+[
+{
+"w": "observe",
+"pos": "v",
+"meaning_ko": "관찰하다, 지키다, 말하다",
+"example_en": "Scientists **observe** the birds for months before drawing any conclusions.",
+"example_ko": "과학자들은 결론을 내리기 전에 몇 달 동안 새들을 관찰해.",
+"nuance_ko": "observe는 see나 look보다 의도를 갖고 주의 깊게 지켜본다는 느낌의 동사예요. 연구나 보고서에서 '관찰하다'로 많이 쓰이고, 법이나 규칙을 '지키다'라는 뜻도 있어서 observe the rules처럼 말해요. 또 격식 있게 '말하다, 언급하다'라는 뜻으로 He observed that ~도 써요. watch는 움직이는 걸 지켜보는 일상어, observe는 더 분석적이고 격식 있는 어감이에요. 명사는 observation(관찰, 소견)이고 사람은 observer(관찰자)예요.",
+"also": [
+{
+"w": "observation",
+"pos": "n",
+"ko": "관찰, 소견",
+"en": "Her **observation** about the data was spot on."
+},
+{
+"w": "observer",
+"pos": "n",
+"ko": "관찰자, 참관인",
+"en": "An **observer** from the UN attended the vote."
+}
+]
+},
+{
+"w": "occasion",
+"pos": "n",
+"meaning_ko": "때, 행사, 경우",
+"example_en": "We save this wine for a special **occasion**.",
+"example_ko": "이 와인은 특별한 날을 위해 아껴 두고 있어.",
+"nuance_ko": "occasion은 어떤 일이 일어나는 특정한 때나 행사를 뜻해요. on this occasion(이번에는), on occasion(가끔), a special occasion(특별한 날)처럼 자주 써요. 파티나 기념일 같은 행사에는 event보다 occasion이 조금 더 격식 있고 의미가 담긴 느낌이에요. on occasion은 '이따금'이라는 뜻으로 sometimes보다 약간 문어체예요. 철자가 c 두 개, s 한 개라서 occassion으로 틀리는 경우가 많아요.",
+"also": [
+{
+"w": "occasionally",
+"pos": "adv",
+"ko": "가끔, 때때로",
+"en": "I **occasionally** eat out on weekends."
+},
+{
+"w": "occasional",
+"pos": "adj",
+"ko": "가끔의",
+"en": "There will be **occasional** showers tomorrow."
+}
+]
+},
+{
+"w": "occur",
+"pos": "v",
+"meaning_ko": "일어나다, 생각나다",
+"example_en": "The accident **occurred** just after midnight on Friday.",
+"example_ko": "사고는 금요일 자정이 막 지난 때에 일어났어.",
+"nuance_ko": "occur는 사건이나 현상이 일어난다는 격식 있는 동사로 happen보다 문어체예요. 뉴스와 보고서에서 자주 쓰고, 수동태로 쓰지 않아서 be occurred는 틀려요. It occurred to me that ~은 '문득 ~라는 생각이 들었다'로 구어에서도 많이 써요. 과거형은 occurred처럼 r을 겹쳐 써야 하고 철자 실수가 잦아요. take place는 계획된 행사가 열리는 것, occur는 우연히 또는 자연스럽게 발생하는 것에 잘 어울려요.",
+"also": [
+{
+"w": "occurrence",
+"pos": "n",
+"ko": "발생, 사건",
+"en": "Power cuts are a daily **occurrence** here."
+}
+]
+},
+{
+"w": "october",
+"pos": "n",
+"meaning_ko": "10월",
+"example_en": "Our wedding is in **October**, when the leaves turn red.",
+"example_ko": "우리 결혼식은 단풍이 드는 10월이야.",
+"nuance_ko": "October는 10월이고 항상 대문자로 써요. 어원은 라틴어로 8을 뜻하는 octo에서 왔는데, 옛 로마 달력에서 여덟 번째 달이었기 때문이에요. 달 이름 앞에는 in을, 날짜가 붙으면 on을 써서 in October, on October 3rd처럼 말해요. 줄임말은 Oct.이에요. 미국에서는 10월 31일 Halloween으로 유명한 달이에요.",
+"also": []
+},
+{
+"w": "official",
+"pos": "adj",
+"meaning_ko": "공식적인, 공무원",
+"example_en": "The **official** announcement will be made tomorrow morning.",
+"example_ko": "공식 발표는 내일 아침에 있을 거야.",
+"nuance_ko": "official은 공식적으로 인정되거나 권한이 있는 것을 가리키는 형용사예요. official language(공용어), official website(공식 사이트), official statement(공식 성명)처럼 써요. 명사로는 '관리, 공무원'이라서 a government official은 정부 관리를 말해요. formal이 격식 차린 태도라면 official은 권한이나 공인을 받았다는 의미가 중심이에요. 그래서 It's official은 '확정됐어'라는 구어 표현이에요.",
+"also": [
+{
+"w": "officially",
+"pos": "adv",
+"ko": "공식적으로",
+"en": "The store will **officially** open on Monday."
+},
+{
+"w": "unofficial",
+"pos": "adj",
+"ko": "비공식의",
+"en": "It was an **unofficial** meeting among friends."
+},
+{
+"w": "officials",
+"pos": "n",
+"ko": "관리들, 당국자",
+"en": "City **officials** promised to fix the road."
+}
+]
+},
+{
+"w": "onion",
+"pos": "n",
+"meaning_ko": "양파",
+"example_en": "Chop the **onion** finely and fry it in a little oil.",
+"example_ko": "양파를 잘게 썰어서 기름 조금에 볶아.",
+"nuance_ko": "onion은 양파이고 요리의 기본 재료예요. 썰 때 눈물이 나서 Cutting onions makes me cry처럼 자주 말해요. 종류로는 red onion, green onion(대파·쪽파), spring onion(영국의 쪽파)이 있어요. 발음은 /ˈʌnjən/이라서 '어니언'에 가까워요. know one's onions는 영국 구어로 '자기 분야를 잘 안다'는 뜻이고, layers of an onion은 비유로 '겹겹이 쌓인 복잡함'을 말해요.",
+"also": []
+},
+{
+"w": "operate",
+"pos": "v",
+"meaning_ko": "작동하다, 운영하다, 수술하다",
+"example_en": "Do you know how to **operate** this machine?",
+"example_ko": "이 기계 어떻게 작동시키는지 알아?",
+"nuance_ko": "operate는 기계를 작동시키다, 사업을 운영하다, 수술하다까지 세 가지 뜻이 있어요. 기계는 operate a machine, 회사는 The company operates in 30 countries처럼 써요. 의사가 환자를 수술할 때는 operate on a patient라고 전치사 on을 써요. run은 구어적으로 사업을 운영하는 느낌, operate는 더 격식 있고 기계적인 느낌이 있어요. 명사 operation은 작동, 수술, 사업 활동 모두를 가리켜요.",
+"also": [
+{
+"w": "operation",
+"pos": "n",
+"ko": "작동, 수술, 작전",
+"en": "The **operation** took about three hours."
+},
+{
+"w": "operator",
+"pos": "n",
+"ko": "운영자, 조작자, 교환원",
+"en": "The **operator** put me through to the manager."
+}
+]
+},
+{
+"w": "opinion",
+"pos": "n",
+"meaning_ko": "의견, 견해",
+"example_en": "In my **opinion**, the second option is much better.",
+"example_ko": "내 생각에는 두 번째 안이 훨씬 나아.",
+"nuance_ko": "opinion은 개인의 생각이나 판단을 가리켜요. in my opinion(내 생각엔), give an opinion, a second opinion(다른 의사의 소견)처럼 써요. idea는 떠오른 생각, opinion은 어떤 문제에 대한 입장이라는 차이가 있어요. 영어로 의견을 물을 때 What's your opinion?도 자연스럽지만 What do you think?가 더 구어적이에요. 한국 학습자는 on my opinion이라고 잘못 쓰는 경우가 있어서 in을 써야 한다는 점에 주의해요.",
+"also": [
+{
+"w": "opinionated",
+"pos": "adj",
+"ko": "고집이 센, 자기 주장이 강한",
+"en": "He is **opinionated** and rarely listens to others."
+}
+]
+},
+{
+"w": "opportunity",
+"pos": "n",
+"meaning_ko": "기회",
+"example_en": "This job is a great **opportunity** to learn new skills.",
+"example_ko": "이 일은 새로운 기술을 배울 좋은 기회야.",
+"nuance_ko": "opportunity는 무언가를 할 수 있게 열린 유리한 기회를 말해요. a great opportunity, opportunity to + 동사원형, take the opportunity처럼 써요. chance는 구어에서 더 흔하고 우연이나 가능성의 느낌이 강하고, opportunity는 좋은 결과로 이어질 수 있는 좋은 때라는 어감이에요. 비즈니스와 자기소개서에서 많이 쓰는 격식 있는 어휘예요. 철자가 길어서 opportunity의 pp를 놓치지 않도록 주의해요.",
+"also": []
+},
+{
+"w": "oppose",
+"pos": "v",
+"meaning_ko": "반대하다, 맞서다",
+"example_en": "Many residents **oppose** the plan to build a new highway.",
+"example_ko": "많은 주민들이 새 고속도로 건설 계획에 반대해.",
+"nuance_ko": "oppose는 계획이나 의견에 적극적으로 반대한다는 타동사예요. 뒤에 to를 붙이지 않고 oppose the plan처럼 목적어를 바로 써요. 대신 형용사 opposed는 be opposed to ~ 형태로 쓰여서 I'm opposed to the idea가 맞아요. disagree는 의견이 다르다는 일반적인 말, oppose는 행동으로 반대한다는 느낌이에요. 뉴스와 정치 기사에서 자주 보이고, 명사는 opposition(반대, 야당)이에요.",
+"also": [
+{
+"w": "opposition",
+"pos": "n",
+"ko": "반대, 야당",
+"en": "There was strong **opposition** to the new tax."
+},
+{
+"w": "opposed",
+"pos": "adj",
+"ko": "반대하는",
+"en": "I'm firmly **opposed** to that proposal."
+}
+]
+},
+{
+"w": "opposite",
+"pos": "adj",
+"meaning_ko": "반대의, 맞은편의",
+"example_en": "The bank is on the **opposite** side of the street.",
+"example_ko": "은행은 길 건너편에 있어.",
+"nuance_ko": "opposite는 반대쪽에 있거나 정반대 성질인 것을 가리켜요. 형용사, 명사, 전치사로 모두 쓰여서 the opposite of ~(~의 반대)나 opposite the station(역 맞은편)처럼 말해요. 위치를 말할 때는 across from과 거의 같은 뜻이에요. 한국 학습자는 '반대말'을 opposite word라고 하는데, antonym도 쓰지만 대화에서는 What's the opposite of hot?이 자연스러워요. opposite sex는 '이성'을 가리키는 표현이에요.",
+"also": [
+{
+"w": "opposites",
+"pos": "n",
+"ko": "정반대인 것들",
+"en": "They're total **opposites**, but they get along."
+}
+]
+},
+{
+"w": "option",
+"pos": "n",
+"meaning_ko": "선택지, 선택권",
+"example_en": "We have two **options**: leave now or wait until morning.",
+"example_ko": "선택지가 두 개야. 지금 떠나거나 아침까지 기다리는 거야.",
+"nuance_ko": "option은 선택할 수 있는 여러 가지 중 하나를 말해요. have no option but to ~는 '~할 수밖에 없다'라는 뜻으로 격식 있는 표현이에요. choice가 고르는 행위 자체라면 option은 선택 가능한 항목에 초점이 있어요. 메뉴나 설정에서 option이 자주 나와서 options menu(설정 메뉴)처럼 써요. 형용사 optional은 '선택 사항인'이라서 optional extras는 추가 선택 사양이에요.",
+"also": [
+{
+"w": "optional",
+"pos": "adj",
+"ko": "선택적인",
+"en": "Attendance at the party is **optional**."
+}
+]
+},
+{
+"w": "ordinary",
+"pos": "adj",
+"meaning_ko": "평범한, 보통의",
+"example_en": "It was just an **ordinary** day until the phone rang.",
+"example_ko": "전화가 울리기 전까지는 그냥 평범한 하루였어.",
+"nuance_ko": "ordinary는 특별하지 않고 평범한 것을 가리켜요. ordinary people(보통 사람들), an ordinary day처럼 써요. 칭찬으로 쓰기엔 약간 밋밋한 말이라서 This food is ordinary라고 하면 '그냥 그렇다'는 뜻이에요. out of the ordinary는 '평범하지 않은, 특이한'이라는 관용 표현이에요. common이나 normal과 비슷하지만 ordinary에는 '특별한 점이 없다'는 느낌이 더 있어요.",
+"also": [
+{
+"w": "ordinarily",
+"pos": "adv",
+"ko": "보통은, 평소에는",
+"en": "**Ordinarily**, I wake up at six."
+}
+]
+},
+{
+"w": "organize",
+"pos": "v",
+"meaning_ko": "정리하다, 조직하다, 준비하다",
+"example_en": "I need to **organize** my files before the meeting.",
+"example_ko": "회의 전에 파일을 정리해야 해.",
+"nuance_ko": "organize는 흩어진 것을 체계적으로 정리하거나, 행사를 계획하고 준비한다는 뜻이에요. organize a party(파티를 준비하다), organize your desk(책상을 정리하다)처럼 써요. 영국식 철자는 organise이고 의미는 같아요. arrange는 순서·배치를 정하는 일, organize는 전체를 체계적으로 구성하는 일이라는 차이가 있어요. 명사 organization은 '조직, 단체'이면서 '정리'라는 뜻도 있어요.",
+"also": [
+{
+"w": "organization",
+"pos": "n",
+"ko": "조직, 단체",
+"en": "She works for a non-profit **organization**."
+},
+{
+"w": "organized",
+"pos": "adj",
+"ko": "체계적인, 정돈된",
+"en": "He's very **organized** and never misses a deadline."
+}
+]
+},
+{
+"w": "original",
+"pos": "adj",
+"meaning_ko": "원래의, 독창적인",
+"example_en": "I prefer the **original** version of the song.",
+"example_ko": "난 그 노래 원곡이 더 좋아.",
+"nuance_ko": "original은 가장 처음의 것, 또는 남의 것을 베끼지 않은 독창적인 것을 가리켜요. the original plan(원래 계획), an original idea(독창적인 아이디어)처럼 써요. 명사로 쓰면 '원본'이라서 Can I see the original?은 '원본 볼 수 있어요?'예요. 한국어 '오리지널'처럼 '정통'의 느낌도 있지만 영어에서는 first나 earliest의 의미가 핵심이에요. original sin(원죄)처럼 종교 용어에도 나와요.",
+"also": [
+{
+"w": "originally",
+"pos": "adv",
+"ko": "원래, 처음에는",
+"en": "The house was **originally** built in 1920."
+},
+{
+"w": "originality",
+"pos": "n",
+"ko": "독창성",
+"en": "Her design shows real **originality**."
+}
+]
+},
+{
+"w": "otherwise",
+"pos": "adv",
+"meaning_ko": "그렇지 않으면, 달리",
+"example_en": "Leave now, **otherwise** you'll miss the last train.",
+"example_ko": "지금 떠나, 안 그러면 막차를 놓칠 거야.",
+"nuance_ko": "otherwise는 앞 상황이 아니면 어떻게 되는지를 말하는 부사예요. 문장을 이어서 or else와 비슷한 뜻을 갖고, Take an umbrella; otherwise you'll get wet처럼 써요. 또 '그 외에는, 달리'라는 뜻으로 He's otherwise fine은 '그 외에는 괜찮다'예요. not otherwise는 '다르게 말하지 않는 한'이라는 법률 용어에 자주 나와요. otherwise는 문장 앞이나 쉼표 뒤에서 흔히 쓰이고 구어에서는 or else를 더 많이 써요.",
+"also": []
+},
+{
+"w": "oven",
+"pos": "n",
+"meaning_ko": "오븐",
+"example_en": "Bake the cake in the **oven** at 180 degrees for thirty minutes.",
+"example_ko": "케이크는 오븐에 180도로 30분 구워.",
+"nuance_ko": "oven은 음식을 굽거나 데우는 오븐이에요. 한국어로는 '오븐'이라 쓰지만 발음은 /ˈʌvn/이라서 '어븐'에 가까워요. microwave oven은 전자레인지이고, preheat the oven은 '오븐을 예열하다'예요. 레시피에서 자주 만나는 단어라서 oven-baked(오븐에 구운), oven mitt(오븐 장갑)도 함께 알아 두면 좋아요. in the oven은 비유로 '준비 중인'이라는 뜻으로도 쓰여요.",
+"also": []
+},
+{
+"w": "owe",
+"pos": "v",
+"meaning_ko": "빚지다, 신세지다",
+"example_en": "I still **owe** you for lunch from last week.",
+"example_ko": "지난주 점심값 아직 안 갚았네.",
+"nuance_ko": "owe는 돈을 갚아야 하거나 누군가에게 신세를 졌다는 뜻이에요. I owe you ten dollars처럼 'owe + 사람 + 금액' 구조로 써요. I owe you one은 '신세 한 번 졌다'는 구어 표현이고, owe it to ~는 '~ 덕분이다'라는 뜻이에요. 과거형 owed는 규칙 변화예요. debt는 빚 자체, owe는 빚진 상태를 말하는 동사예요. owing to ~는 '~ 때문에'라는 전치사구라서 뜻이 달라지니 구분해요.",
+"also": [
+{
+"w": "owing",
+"pos": "adj",
+"ko": "빚진, 갚아야 할",
+"en": "How much is still **owing** on the car?"
+}
+]
+},
+{
+"w": "pan",
+"pos": "n",
+"meaning_ko": "팬, 냄비",
+"example_en": "Heat some oil in a **pan** and add the garlic.",
+"example_ko": "팬에 기름을 데우고 마늘을 넣어.",
+"nuance_ko": "pan은 프라이팬이나 손잡이 달린 얕은 냄비를 말해요. frying pan(프라이팬), saucepan(손잡이 달린 냄비)처럼 쓰고, pot은 깊고 큰 냄비라는 차이가 있어요. 동사 pan은 '혹평하다'라는 뜻으로 The critics panned the film(비평가들이 영화를 혹평했다)처럼 써요. 카메라를 옆으로 돌려 찍는 것도 pan이에요. out of the frying pan into the fire는 '설상가상'이라는 속담이에요.",
+"also": []
+},
+{
+"w": "panic",
+"pos": "n",
+"meaning_ko": "공황, 극심한 공포",
+"example_en": "Don't **panic**, we still have plenty of time.",
+"example_ko": "당황하지 마, 아직 시간 많아.",
+"nuance_ko": "panic은 갑작스럽고 통제하기 어려운 공포나 당황이에요. 명사와 동사로 모두 쓰여서 There was panic in the streets, Don't panic처럼 말해요. 과거형은 panicked처럼 k가 붙는 것이 규칙이라 panicing으로 쓰면 틀려요. fear보다 갑작스럽고 이성을 잃는 정도가 강해서 panic buying(사재기)처럼 집단 행동에도 써요. panic attack은 '공황 발작'이라는 의학 용어예요.",
+"also": [
+{
+"w": "panicked",
+"pos": "v",
+"ko": "당황했다",
+"en": "He **panicked** when he lost his wallet."
+}
+]
+},
+{
+"w": "partner",
+"pos": "n",
+"meaning_ko": "파트너, 동료, 배우자",
+"example_en": "She started a business with her **partner** two years ago.",
+"example_ko": "그녀는 2년 전에 파트너와 함께 사업을 시작했어.",
+"nuance_ko": "partner는 함께 일하거나 활동하는 상대, 사업 동업자, 또 연인이나 배우자를 두루 가리켜요. 성별을 정하지 않아도 되어서 요즘 서류나 대화에서 husband, wife 대신 partner를 쓰는 일이 많아요. business partner, dance partner, partner in crime(공범, 단짝)처럼 쓰여요. 동사로는 '제휴하다'라서 partner with a company는 '회사와 제휴하다'예요. 문맥에 따라 연애 관계를 가리킬 수 있으니 사업 이야기인지 확인해요.",
+"also": [
+{
+"w": "partnership",
+"pos": "n",
+"ko": "제휴, 동업 관계",
+"en": "The two firms formed a **partnership** last year."
+}
+]
+},
+{
+"w": "patch",
+"pos": "n",
+"meaning_ko": "조각, 부분, 패치",
+"example_en": "There's a **patch** of ice on the road, so drive carefully.",
+"example_ko": "도로에 얼음 구간이 있으니까 조심해서 운전해.",
+"nuance_ko": "patch는 천이나 얼룩 같은 작은 조각 또는 일정 구역을 뜻해요. 옷의 헝겊 조각, 눈가리개(eye patch), 채소밭의 한 구획(vegetable patch)에도 써요. 소프트웨어에서는 오류를 고치는 '패치'라서 apply a patch는 '패치를 적용하다'예요. a rough patch는 '힘든 시기'라는 뜻이고 go through a bad patch처럼 써요. 동사 patch up은 '임시로 수리하다' 또는 '화해하다'라는 뜻이에요.",
+"also": [
+{
+"w": "patched",
+"pos": "adj",
+"ko": "기워진",
+"en": "He wore **patched** jeans to the concert."
+}
+]
+},
+{
+"w": "path",
+"pos": "n",
+"meaning_ko": "길, 진로",
+"example_en": "We followed the narrow **path** through the forest.",
+"example_ko": "우리는 숲을 가로지르는 좁은 길을 따라갔어.",
+"nuance_ko": "path는 사람이 걸어 다니는 좁은 길이나 진행 방향을 뜻해요. road나 street처럼 차가 다니는 길과 달리 걷는 길이라는 느낌이 강해요. 비유로는 인생의 진로를 뜻해서 career path, find your own path처럼 써요. 컴퓨터에서는 파일 경로(file path)를 가리켜요. cross paths with someone은 '우연히 마주치다'라는 관용 표현이에요.",
+"also": []
+},
+{
+"w": "patient",
+"pos": "n",
+"meaning_ko": "환자",
+"example_en": "The doctor spent an hour talking with each **patient**.",
+"example_ko": "의사는 환자 한 명 한 명과 한 시간씩 이야기를 나눴어.",
+"nuance_ko": "patient는 명사로 '환자', 형용사로 '인내심 있는'이라는 두 가지 뜻이 있어요. 철자와 발음이 같아서 문맥으로 구분해요. 병원에서는 outpatient(외래 환자), inpatient(입원 환자)처럼 쓰고, 형용사는 be patient with ~(~에게 참을성 있게 대하다)로 써요. 반대말은 impatient예요. 동사 endure보다 부드러운 말이고 Thank you for being patient는 '기다려 주셔서 감사합니다'라는 서비스 영어의 정형 표현이에요.",
+"also": [
+{
+"w": "patiently",
+"pos": "adv",
+"ko": "참을성 있게",
+"en": "She waited **patiently** for her turn."
+}
+]
+},
+{
+"w": "pattern",
+"pos": "n",
+"meaning_ko": "무늬, 패턴, 양식",
+"example_en": "The curtains have a blue and white **pattern**.",
+"example_ko": "커튼에 파랑과 하양 무늬가 있어.",
+"nuance_ko": "pattern은 반복되는 무늬나 일정하게 나타나는 규칙·경향을 말해요. 옷의 무늬는 pattern, 행동의 규칙성은 behavior pattern처럼 써요. 데이터 분석에서는 '패턴을 찾다'가 find a pattern이에요. 옷 만드는 '본'도 pattern이라 sewing pattern이라고 해요. 동사로는 '본떠서 만들다'라서 be patterned on ~으로 쓰여요. trend는 변화의 방향, pattern은 반복되는 모양이라는 차이가 있어요.",
+"also": []
+},
+{
+"w": "pause",
+"pos": "v",
+"meaning_ko": "잠시 멈추다, 일시 정지",
+"example_en": "He **paused** for a moment before answering the question.",
+"example_ko": "그는 질문에 답하기 전에 잠시 멈췄어.",
+"nuance_ko": "pause는 하던 일을 잠깐 멈추는 동사이고 명사로는 '멈춤'이에요. pause for thought(생각하려고 잠시 멈추다), a long pause 같은 짝꿍이 흔해요. stop은 완전히 멈춤, pause는 다시 이어질 것을 전제로 한 일시 정지라는 차이가 있어요. 영상이나 음악의 pause 버튼이 대표적이에요. give someone pause는 '망설이게 하다'라는 격식 있는 표현이에요.",
+"also": []
+},
+{
+"w": "peace",
+"pos": "n",
+"meaning_ko": "평화, 평온",
+"example_en": "I just want some **peace** and quiet this weekend.",
+"example_ko": "이번 주말엔 그냥 평화롭고 조용했으면 좋겠어.",
+"nuance_ko": "peace는 전쟁이나 갈등이 없는 상태, 또는 마음이 평온한 상태를 가리켜요. world peace, peace of mind(마음의 평화), peace and quiet(평화롭고 조용함)처럼 써요. piece(조각)와 발음이 같아서 받아쓰기에서 헷갈릴 수 있어요. make peace with ~는 '~와 화해하다'이고 rest in peace는 '편히 잠드소서'예요. 갈등이 끝난 상태는 peace, 조용함은 quiet이라는 차이가 있어요.",
+"also": [
+{
+"w": "peaceful",
+"pos": "adj",
+"ko": "평화로운",
+"en": "The lake is calm and **peaceful** in the evening."
+},
+{
+"w": "peacefully",
+"pos": "adv",
+"ko": "평화롭게",
+"en": "The grandfather died **peacefully** in his sleep."
+}
+]
+},
+{
+"w": "pen",
+"pos": "n",
+"meaning_ko": "펜",
+"example_en": "Could I borrow your **pen** to sign this form?",
+"example_ko": "이 서류에 서명하게 펜 좀 빌릴 수 있을까?",
+"nuance_ko": "pen은 잉크로 쓰는 필기구를 말해요. ballpoint pen은 볼펜, fountain pen은 만년필이에요. pencil(연필)과 구분하고, 사인할 때는 pen을 요청해요. 동물을 가두는 우리를 가리키기도 해서 pig pen, 또 pen name(필명)이라는 말도 있어요. 동사 pen은 '글을 쓰다'라는 격식 있는 말이라 She penned a letter to the editor처럼 써요. pen pal은 '펜팔 친구'예요.",
+"also": [
+{
+"w": "penned",
+"pos": "v",
+"ko": "썼다",
+"en": "He **penned** a short poem for her birthday."
+}
+]
+},
+{
+"w": "pension",
+"pos": "n",
+"meaning_ko": "연금",
+"example_en": "My grandmother lives on her **pension** and a small garden.",
+"example_ko": "우리 할머니는 연금과 작은 텃밭으로 생활하셔.",
+"nuance_ko": "pension은 은퇴 후 정기적으로 받는 연금이에요. state pension(공적 연금), private pension(개인 연금), pension fund(연금 기금)처럼 써요. 한국어의 '펜션'(숙박 시설)과 철자가 같아서 헷갈리는데, 영어 pension에는 '숙박 시설'이라는 뜻이 거의 없어요. 숙소는 guesthouse나 B&B라고 해요. 유럽 일부에서는 pension이 하숙 형태의 숙소를 가리키지만 영어권 일상에서는 연금으로 이해하는 것이 안전해요.",
+"also": [
+{
+"w": "pensioner",
+"pos": "n",
+"ko": "연금 수급자",
+"en": "The bus offers discounts for **pensioners**."
+}
+]
+},
+{
+"w": "per",
+"pos": "prep",
+"meaning_ko": "~당, ~마다",
+"example_en": "The tickets cost twenty dollars **per** person.",
+"example_ko": "표는 한 사람당 20달러야.",
+"nuance_ko": "per는 '~당, ~마다'라는 비율을 나타내는 전치사예요. per person(1인당), per hour(시간당), per day(하루에)처럼 단위 앞에 쓰고 관사를 붙이지 않아요. a person이 아니라 per person이라고 하는 점을 기억해요. 한국 학습자는 each나 for each와 혼동하는 경우가 있지만 per는 숫자와 함께 쓰는 규격화된 표현이에요. as per ~는 '~에 따라'라는 격식 있는 비즈니스 표현이고 per se는 '그 자체로'라는 뜻이에요.",
+"also": []
+},
+{
+"w": "percent",
+"pos": "n",
+"meaning_ko": "퍼센트",
+"example_en": "About fifty **percent** of the students passed the test.",
+"example_ko": "학생의 약 50퍼센트가 시험에 통과했어.",
+"nuance_ko": "percent는 백 분의 일을 나타내는 단위예요. 숫자 뒤에 붙어 50 percent처럼 쓰고 기호 %도 많이 써요. percent는 복수형 -s를 붙이지 않는 것이 보통이에요. 명사 percentage는 '비율, 백분율'이라서 a high percentage of ~(높은 비율의 ~)처럼 써요. 두 단어를 혼동해서 many percent라고 하면 틀리고 a large percentage가 맞아요. 영국에서는 per cent로 띄어 쓰기도 해요.",
+"also": [
+{
+"w": "percentage",
+"pos": "n",
+"ko": "백분율, 비율",
+"en": "What **percentage** of the cost do we cover?"
+}
+]
+},
+{
+"w": "perform",
+"pos": "v",
+"meaning_ko": "공연하다, 수행하다, 작동하다",
+"example_en": "The band will **perform** live at the festival on Saturday.",
+"example_ko": "그 밴드는 토요일에 페스티벌에서 라이브 공연을 해.",
+"nuance_ko": "perform은 공연하다, 일을 수행하다, 기계나 사람이 성과를 내다는 세 가지로 쓰여요. perform a song, perform an operation(수술하다), The car performs well in snow처럼 써요. do보다 격식 있고, 무언가를 잘 해내는 능력과 결과에 초점이 있어요. 명사 performance는 '공연, 성과, 성능'이고 직장에서 performance review는 '인사 평가'예요. 앞에 well, poorly 같은 부사가 자주 따라와요.",
+"also": [
+{
+"w": "performance",
+"pos": "n",
+"ko": "공연, 성과",
+"en": "Her **performance** in the play was outstanding."
+},
+{
+"w": "performer",
+"pos": "n",
+"ko": "공연자",
+"en": "The street **performer** drew a big crowd."
+}
+]
+},
+{
+"w": "period",
+"pos": "n",
+"meaning_ko": "기간, 시기, 마침표",
+"example_en": "The sale runs for a limited **period** only.",
+"example_ko": "세일은 한정된 기간 동안만 진행돼.",
+"nuance_ko": "period는 일정한 기간이나 시대를 가리켜요. a short period of time, the Victorian period, trial period(수습 기간)처럼 써요. 미국에서는 문장 끝의 마침표(.)도 period라고 하는데 영국에서는 full stop이라고 해요. 학교에서는 수업 한 시간도 period라서 the third period는 '3교시'예요. 생리 기간도 period라고 해서 문맥에 따라 뜻이 갈려요.",
+"also": [
+{
+"w": "periodic",
+"pos": "adj",
+"ko": "주기적인",
+"en": "The machine needs **periodic** maintenance."
+}
+]
+},
+{
+"w": "pet",
+"pos": "n",
+"meaning_ko": "반려동물",
+"example_en": "Do you have any **pets** at home?",
+"example_ko": "집에 반려동물 키워?",
+"nuance_ko": "pet은 집에서 기르며 사랑하는 동물이에요. dog, cat 같은 동물에 쓰고 pet food, pet shop, pet owner처럼 합성어가 많아요. 형용사로는 '아끼는'이라서 pet project는 '애착이 가는 개인 프로젝트', pet peeve는 '유독 싫어하는 것'이라는 뜻이에요. 동사로는 '쓰다듬다'라서 Don't pet the dog(개를 쓰다듬지 마)처럼 써요. 요즘은 pet 대신 companion animal이라고도 하지만 일상에서는 pet이 훨씬 흔해요.",
+"also": []
+},
+{
+"w": "physical",
+"pos": "adj",
+"meaning_ko": "신체의, 물리적인",
+"example_en": "Regular **physical** exercise keeps both your body and mind healthy.",
+"example_ko": "규칙적인 운동은 몸과 마음을 모두 건강하게 해 줘.",
+"nuance_ko": "physical은 몸에 관한 것, 또는 눈에 보이고 만질 수 있는 물리적인 것을 가리켜요. physical health(신체 건강), physical contact(신체 접촉), physical evidence(물증)처럼 써요. mental(정신적인)과 대비되는 경우가 많아요. 명사로는 '신체검사'라서 get a physical은 '건강 검진을 받다'예요. 물리학은 physics이고 physical은 형용사라서 철자가 비슷해도 품사가 달라요.",
+"also": [
+{
+"w": "physically",
+"pos": "adv",
+"ko": "신체적으로",
+"en": "The job is **physically** demanding."
+}
+]
+},
+{
+"w": "piano",
+"pos": "n",
+"meaning_ko": "피아노",
+"example_en": "She has played the **piano** since she was five.",
+"example_ko": "그녀는 다섯 살 때부터 피아노를 쳐 왔어.",
+"nuance_ko": "piano는 건반 악기 피아노예요. 악기를 연주한다고 할 때는 play the piano처럼 악기 앞에 the를 붙이는 게 보통이에요. 한국 학습자는 play piano로 쓰기도 하는데, 미국 구어에서는 the를 빼기도 하지만 문법적으로는 the를 붙이는 것이 안전해요. grand piano는 그랜드 피아노, upright piano는 업라이트 피아노예요. 이탈리아어 piano는 '부드럽게'라는 음악 용어에서 유래했어요.",
+"also": [
+{
+"w": "pianist",
+"pos": "n",
+"ko": "피아니스트",
+"en": "The **pianist** received a standing ovation."
+}
+]
+},
+{
+"w": "pie",
+"pos": "n",
+"meaning_ko": "파이",
+"example_en": "My grandma bakes the best apple **pie** in town.",
+"example_ko": "우리 할머니는 동네에서 제일 맛있는 사과 파이를 구워 주셔.",
+"nuance_ko": "pie는 반죽 속에 과일이나 고기를 넣고 구운 파이예요. 미국에서는 달콤한 과일 파이를, 영국에서는 고기 파이도 흔히 말해요. 비유로 a piece of the pie는 '몫'이고, easy as pie는 '식은 죽 먹기'라는 구어 표현이에요. pie in the sky는 '실현 불가능한 헛된 희망'이라는 관용구예요. 수학의 π와 발음이 같은 pi와 헷갈릴 수 있으니 철자에 주의해요.",
+"also": []
+},
+{
+"w": "pig",
+"pos": "n",
+"meaning_ko": "돼지",
+"example_en": "The farmer keeps a few **pigs** behind the barn.",
+"example_ko": "농부는 헛간 뒤에 돼지 몇 마리를 키워.",
+"nuance_ko": "pig는 동물 돼지이고, 고기는 pork라고 해서 구분해요. 사람에게 쓰면 욕설이 될 수 있어서 '지저분하거나 탐욕스러운 사람'을 가리키는 모욕적인 말이에요. 그래서 He's a pig는 심한 비난이에요. pig out은 '폭식하다', go the whole hog은 '철저히 하다'처럼 돼지와 관련된 구어도 많아요. 속담으로는 Pigs might fly(절대 불가능한 일)가 있어요.",
+"also": [
+{
+"w": "piglet",
+"pos": "n",
+"ko": "새끼 돼지",
+"en": "The **piglet** followed its mother everywhere."
+}
+]
+},
+{
+"w": "pile",
+"pos": "n",
+"meaning_ko": "더미, 많은 양",
+"example_en": "There's a huge **pile** of laundry waiting for me at home.",
+"example_ko": "집에 빨래가 산더미처럼 쌓여 있어.",
+"nuance_ko": "pile은 물건을 쌓아 올린 더미를 가리켜요. a pile of books, a pile of paperwork처럼 써요. 구어로 piles of ~는 '아주 많은 ~'라서 I have piles of work은 '할 일이 산더미야'예요. 동사 pile up은 '쌓이다'라는 뜻이고, 일이나 빚이 쌓일 때 비유로 많이 써요. heap은 무질서하게 쌓인 더미, pile은 비교적 정돈되어 쌓은 더미라는 차이가 있어요.",
+"also": [
+{
+"w": "piled",
+"pos": "adj",
+"ko": "쌓인",
+"en": "Boxes were **piled** high in the corner."
+}
+]
+},
+{
+"w": "pin",
+"pos": "n",
+"meaning_ko": "핀, 고정하는 바늘",
+"example_en": "She fixed the note to the board with a **pin**.",
+"example_ko": "그녀는 메모를 핀으로 게시판에 고정했어.",
+"nuance_ko": "pin은 작고 뾰족한 핀, 또는 무언가를 고정하는 도구예요. 동사로는 '핀으로 고정하다'와 '꼼짝 못 하게 누르다'라는 뜻이 있어요. 금융 카드 비밀번호 PIN은 Personal Identification Number의 약자라서 대문자로 써요. pins and needles는 발이 저린 느낌을 말하고, pin down은 '정확히 파악하다'라서 pin down the cause(원인을 특정하다)처럼 써요. 지도 앱에서 위치를 표시하는 '핀을 꽂다'도 drop a pin이라고 해요.",
+"also": [
+{
+"w": "pinned",
+"pos": "adj",
+"ko": "고정된, 꼼짝 못 하는",
+"en": "The driver was **pinned** under the car."
+}
+]
+},
+{
+"w": "pine",
+"pos": "n",
+"meaning_ko": "소나무",
+"example_en": "The cabin is surrounded by tall **pine** trees.",
+"example_ko": "그 오두막은 키 큰 소나무들에 둘러싸여 있어.",
+"nuance_ko": "pine은 침엽수인 소나무이고 목재로도 많이 써요. pine cone은 솔방울, pine needles는 솔잎이에요. 동사 pine은 '그리워하다'라는 전혀 다른 뜻이라서 pine for someone은 '~를 애타게 그리워하다'예요. 두 의미는 어원이 다르지만 철자는 같아요. pine tree는 크리스마스트리로도 쓰이고 pineapple(파인애플)에도 pine이 들어 있어요.",
+"also": []
+},
+{
+"w": "pink",
+"pos": "adj",
+"meaning_ko": "분홍색의",
+"example_en": "She wore a **pink** dress to the party.",
+"example_ko": "그녀는 파티에 분홍색 드레스를 입고 왔어.",
+"nuance_ko": "pink는 분홍색이고 형용사와 명사로 쓰여요. in the pink는 '건강한 상태인'이라는 오래된 관용구이고, tickled pink는 '아주 기뻐서'라는 구어 표현이에요. pink slip은 미국에서 '해고 통지서'를 가리켜요. 한국어처럼 pink가 귀여움의 상징이기도 하지만, 영어권에서는 pink collar job(여성이 많은 직종)처럼 성별 고정관념과 연결되는 표현도 있어요. 유럽에서는 pink가 분홍색 외에 연어 같은 색이나 석양의 느낌도 포함해요.",
+"also": [
+{
+"w": "pinkish",
+"pos": "adj",
+"ko": "분홍빛이 도는",
+"en": "The sky turned **pinkish** at sunset."
+}
+]
+},
+{
+"w": "pipe",
+"pos": "n",
+"meaning_ko": "관, 파이프",
+"example_en": "A water **pipe** burst in the basement last night.",
+"example_ko": "어젯밤에 지하실에서 수도관이 터졌어.",
+"nuance_ko": "pipe는 물, 가스를 나르는 관, 또는 담배 파이프를 뜻해요. 컴퓨터에서는 데이터가 흐르는 통로를 pipe라고 해서 pipeline(파이프라인)에도 쓰여요. 배관은 plumbing이라고 하고 pipe는 그 한 부품이에요. 동사 pipe는 '관으로 보내다'라서 pipe water to the house(집까지 물을 끌어오다)처럼 써요. pipe dream은 '실현 불가능한 꿈'이라는 뜻의 구어예요.",
+"also": [
+{
+"w": "piping",
+"pos": "n",
+"ko": "배관",
+"en": "The old **piping** in the house needs replacing."
+}
+]
+},
+{
+"w": "pitch",
+"pos": "n",
+"meaning_ko": "투구, 음높이, 설득용 발표",
+"example_en": "She gave a great **pitch** to the investors this morning.",
+"example_ko": "그녀는 오늘 아침 투자자들에게 아주 멋진 발표를 했어.",
+"nuance_ko": "pitch는 뜻이 많은 단어예요. 야구에서는 '투구', 음악에서는 '음의 높이', 영국에서는 축구 '경기장', 비즈니스에서는 '설득용 발표'를 가리켜요. 스타트업 문맥의 pitch는 투자자나 고객에게 아이디어를 짧게 소개하는 일이고, elevator pitch는 엘리베이터에서 말할 만큼 짧은 소개를 뜻해요. 동사 pitch는 '던지다, 천막을 치다, 제안하다'로 쓰여요. pitch in은 '거들다, 힘을 보태다'라는 구어 표현이에요.",
+"also": [
+{
+"w": "pitcher",
+"pos": "n",
+"ko": "투수, 물주전자",
+"en": "The **pitcher** threw a perfect game."
+}
+]
+},
+{
+"w": "pity",
+"pos": "n",
+"meaning_ko": "동정, 유감",
+"example_en": "It's a **pity** you can't come to the party tonight.",
+"example_ko": "오늘 밤 파티에 못 온다니 아쉽네.",
+"nuance_ko": "pity는 불쌍히 여기는 마음 또는 아쉬운 일을 가리켜요. It's a pity (that) ~은 '~라니 아쉽다'로 구어에서 흔히 써요. 동정의 의미로는 take pity on ~(~를 불쌍히 여기다)가 대표적이에요. 동정 어린 마음이 상대를 낮춰 본다는 느낌이 있어서 sympathy보다 우월한 입장에서 느끼는 감정일 수 있어요. What a pity!는 '그것참 안됐다!'라는 감탄 표현이에요.",
+"also": [
+{
+"w": "pitiful",
+"pos": "adj",
+"ko": "불쌍한, 한심한",
+"en": "The puppy looked **pitiful** in the rain."
+}
+]
+},
+{
+"w": "plain",
+"pos": "adj",
+"meaning_ko": "꾸밈없는, 분명한, 평평한",
+"example_en": "I like my coffee **plain**, with no sugar or milk.",
+"example_ko": "난 커피를 설탕이나 우유 없이 그냥 마셔.",
+"nuance_ko": "plain은 꾸밈이나 첨가물이 없는 단순한 상태를 나타내요. plain yogurt는 아무것도 섞지 않은 요거트, plain English는 쉽고 분명한 영어예요. 또 '분명한'이라는 뜻으로 It's plain that ~은 '~가 분명하다'예요. 명사 plain은 '평원'이라서 the Great Plains는 북미의 대평원이고 plane(비행기)과 발음이 같아 철자에 주의해요. plain-looking은 '평범하게 생긴'인데 약간 부정적일 수 있어요.",
+"also": [
+{
+"w": "plainly",
+"pos": "adv",
+"ko": "분명히, 소박하게",
+"en": "He **plainly** didn't want to talk about it."
+}
+]
+},
+{
+"w": "plane",
+"pos": "n",
+"meaning_ko": "비행기",
+"example_en": "Our **plane** was delayed for two hours because of fog.",
+"example_ko": "안개 때문에 우리 비행기가 두 시간 지연됐어.",
+"nuance_ko": "plane은 airplane의 줄임말로 일상 대화에서 '비행기'를 가장 많이 가리키는 단어예요. by plane(비행기로), catch a plane, miss a plane처럼 써요. 이때 by plane에서는 관사를 쓰지 않아요. 수학에서는 '평면', 목공에서는 '대패'를 뜻하기도 해요. plain(꾸밈없는)과 발음이 같아서 헷갈릴 수 있어요. airplane은 미국식, aeroplane은 영국식 표기예요.",
+"also": [
+{
+"w": "aeroplane",
+"pos": "n",
+"ko": "비행기(영국식)",
+"en": "The **aeroplane** landed safely despite the storm."
+}
+]
+},
+{
+"w": "planet",
+"pos": "n",
+"meaning_ko": "행성, 지구",
+"example_en": "Mars is the fourth **planet** from the sun.",
+"example_ko": "화성은 태양에서 네 번째 행성이야.",
+"nuance_ko": "planet은 태양 주위를 도는 행성을 말해요. 우리가 사는 지구를 가리킬 때는 the planet이나 our planet이라고 해서 환경 이야기에서 save the planet이 자주 나와요. star는 스스로 빛을 내는 별, planet은 빛을 반사하는 행성이라는 차이가 있어요. 구어에서 What planet are you on?은 '무슨 세상에 살고 있니?'라는 핀잔이에요. Planet Earth처럼 대문자로 쓰기도 해요.",
+"also": [
+{
+"w": "planetary",
+"pos": "adj",
+"ko": "행성의",
+"en": "Scientists study **planetary** motion."
+}
+]
+},
+{
+"w": "plastic",
+"pos": "n",
+"meaning_ko": "플라스틱",
+"example_en": "Try to use less **plastic** when you go shopping.",
+"example_ko": "장 볼 때 플라스틱을 좀 덜 쓰도록 해 봐.",
+"nuance_ko": "plastic은 합성수지 재료이고 셀 수 없는 명사로 쓰여요. plastic bag, plastic bottle, single-use plastic(일회용 플라스틱)처럼 환경 이야기에서 자주 나와요. 형용사로는 '플라스틱의' 외에 '모양을 바꿀 수 있는'이라는 뜻이고, 비유적으로 '가짜 같은'이라는 뜻으로도 쓰여요. 구어에서 plastic은 신용카드를 가리키기도 해서 Do you take plastic?은 '카드 받아요?'예요. plastic surgery는 '성형 수술'이에요.",
+"also": [
+{
+"w": "plastics",
+"pos": "n",
+"ko": "플라스틱 제품, 플라스틱 산업",
+"en": "The factory makes **plastics** for car parts."
+}
+]
+},
+{
+"w": "plate",
+"pos": "n",
+"meaning_ko": "접시, 판",
+"example_en": "Please pass me a clean **plate** for the salad.",
+"example_ko": "샐러드 담게 깨끗한 접시 좀 줘.",
+"nuance_ko": "plate는 음식을 담는 넓고 납작한 접시예요. dish는 음식을 담는 그릇이면서 요리 자체를 가리키기도 하고, plate는 그릇 중에서도 평평한 접시를 가리켜요. 자동차 번호판은 license plate, 야구의 홈 베이스는 home plate예요. have a lot on one's plate는 '해야 할 일이 많다'는 관용구로 구어에서 아주 자주 쓰여요. 지질학에서는 tectonic plate(지각판)처럼 '판'을 가리켜요.",
+"also": [
+{
+"w": "plated",
+"pos": "adj",
+"ko": "도금된, 접시에 담긴",
+"en": "The ring is **plated** with gold."
+}
+]
+},
+{
+"w": "pleasant",
+"pos": "adj",
+"meaning_ko": "즐거운, 쾌적한",
+"example_en": "We had a **pleasant** walk along the river this morning.",
+"example_ko": "오늘 아침에 강변을 즐겁게 산책했어.",
+"nuance_ko": "pleasant는 기분 좋고 편안한 것을 나타내는 형용사예요. a pleasant surprise, pleasant weather, a pleasant person처럼 두루 쓰여요. nice와 비슷하지만 pleasant는 약간 격식 있고 점잖은 느낌이에요. 사람에게 쓰면 '상냥하고 호감 가는'이라는 의미예요. 반대는 unpleasant이고 an unpleasant smell(불쾌한 냄새)처럼 써요. pleased(기쁜)와 혼동하기 쉬운데 pleasant는 대상의 성질, pleased는 사람의 기분을 말해요.",
+"also": [
+{
+"w": "unpleasant",
+"pos": "adj",
+"ko": "불쾌한",
+"en": "The meeting left an **unpleasant** feeling."
+},
+{
+"w": "pleasantly",
+"pos": "adv",
+"ko": "기분 좋게",
+"en": "I was **pleasantly** surprised by the price."
+}
+]
+},
+{
+"w": "pleasure",
+"pos": "n",
+"meaning_ko": "기쁨, 즐거움",
+"example_en": "It was a **pleasure** meeting you at the conference.",
+"example_ko": "컨퍼런스에서 만나 뵈어서 즐거웠어요.",
+"nuance_ko": "pleasure는 기쁘고 즐거운 느낌이에요. It's a pleasure(to meet you)는 첫 만남에서 쓰는 정중한 인사이고, My pleasure는 감사 인사에 대한 '천만에요'로 서비스 영어에 자주 나와요. with pleasure는 '기꺼이'라는 뜻이에요. business or pleasure는 '업무인지 여가인지'를 묻는 표현이에요. joy보다 일상적이고 편안한 즐거움이라는 느낌이에요.",
+"also": [
+{
+"w": "pleasures",
+"pos": "n",
+"ko": "즐거움, 낙",
+"en": "Simple **pleasures** matter most to me."
+}
+]
+},
+{
+"w": "plug",
+"pos": "n",
+"meaning_ko": "플러그, 마개",
+"example_en": "Don't forget to pull the **plug** before you clean the toaster.",
+"example_ko": "토스터 청소하기 전에 꼭 플러그를 뽑아.",
+"nuance_ko": "plug는 전기 기구를 콘센트에 꽂는 플러그를 뜻하고, 욕조나 싱크대의 마개도 plug라고 해요. 동사 plug in은 '꽂다', unplug는 '뽑다'로 구어에서 자주 말해요. 구어로 plug는 '홍보하다'라서 He plugged his new book on the show는 '그가 방송에서 새 책을 홍보했다'예요. pull the plug on ~는 '~를 중단시키다'라는 관용구예요. socket은 벽에 있는 콘센트, plug는 코드 끝의 꽂는 부분이에요.",
+"also": [
+{
+"w": "unplug",
+"pos": "v",
+"ko": "플러그를 뽑다",
+"en": "**Unplug** the heater before you leave."
+}
+]
+},
+{
+"w": "pocket",
+"pos": "n",
+"meaning_ko": "주머니",
+"example_en": "I put my keys in my **pocket** and walked out the door.",
+"example_ko": "열쇠를 주머니에 넣고 문 밖으로 나갔어.",
+"nuance_ko": "pocket은 옷이나 가방에 달린 주머니예요. in my pocket처럼 in을 쓰고, 소매치기는 pickpocket이에요. out of pocket은 '자기 돈으로 쓴'이라는 뜻이라 out-of-pocket expenses는 '자비 지출'이에요. 비유로 deep pockets는 '돈이 많은', pocket money는 용돈이에요. 동사 pocket은 '슬쩍 챙기다, 가로채다'라는 뜻이라서 He pocketed the change처럼 써요.",
+"also": [
+{
+"w": "pocketed",
+"pos": "v",
+"ko": "챙겼다, 주머니에 넣었다",
+"en": "She **pocketed** the receipt and left."
+}
+]
+},
+{
+"w": "poem",
+"pos": "n",
+"meaning_ko": "시",
+"example_en": "She wrote a short **poem** for her mother's birthday.",
+"example_ko": "그녀는 어머니 생신에 짧은 시를 썼어.",
+"nuance_ko": "poem은 한 편의 시를 가리키는 가산 명사예요. 시 전체 장르는 poetry라고 하는 불가산 명사이고, a poem과 poetry를 구분해서 써요. poet은 시인이고, 시를 쓰는 일은 write a poem, 암송하는 것은 recite a poem이에요. 발음은 /ˈpoʊəm/으로 두 음절로 말하는 경우가 많아요. verse는 시의 한 구절이나 운문 전체를 가리켜요.",
+"also": []
+},
+{
+"w": "poet",
+"pos": "n",
+"meaning_ko": "시인",
+"example_en": "The **poet** read her work aloud to a quiet audience.",
+"example_ko": "시인은 조용한 청중 앞에서 자신의 작품을 소리 내어 읽었어.",
+"nuance_ko": "poet은 시를 쓰는 사람이에요. 형용사는 poetic(시적인)이고, 명사 poetry는 시 전반을 가리켜요. 구어에서 Don't be such a poet은 없지만 poetic justice(인과응보)처럼 poetic이 비유로 많이 쓰여요. The poet laureate는 영국이나 미국에서 국가가 공식 임명하는 계관 시인이에요. 소설가는 novelist, 극작가는 playwright라서 글 쓰는 사람의 이름이 분야별로 달라요.",
+"also": [
+{
+"w": "poetry",
+"pos": "n",
+"ko": "시, 시가",
+"en": "She reads **poetry** before bed."
+},
+{
+"w": "poetic",
+"pos": "adj",
+"ko": "시적인",
+"en": "His speech was almost **poetic**."
+}
+]
+},
+{
+"w": "poison",
+"pos": "n",
+"meaning_ko": "독, 독약",
+"example_en": "The mushrooms contain a **poison** that can be fatal.",
+"example_ko": "그 버섯에는 치명적일 수 있는 독이 있어.",
+"nuance_ko": "poison은 생명체에 해를 주는 독이에요. 동사로는 '독살하다, 오염시키다'라서 poison the well은 '우물에 독을 타다', 비유로는 '미리 상대를 헐뜯다'는 뜻이에요. venom은 뱀 같은 동물이 물어서 주입하는 독, poison은 먹거나 닿아서 해를 입는 독이라는 차이가 있어요. 형용사 poisonous는 '독이 있는'이고 poisonous snake는 독사예요. 식중독은 food poisoning이라고 해서 일상 대화에서 많이 써요.",
+"also": [
+{
+"w": "poisonous",
+"pos": "adj",
+"ko": "독이 있는",
+"en": "Some wild berries are **poisonous**."
+},
+{
+"w": "poisoning",
+"pos": "n",
+"ko": "중독",
+"en": "He got food **poisoning** from the sushi."
+}
+]
+},
+{
+"w": "pole",
+"pos": "n",
+"meaning_ko": "막대기, 극",
+"example_en": "A flag hung from a tall **pole** in front of the school.",
+"example_ko": "학교 앞 높은 막대에 깃발이 걸려 있었어.",
+"nuance_ko": "pole은 길고 가는 막대를 가리켜요. flagpole(깃대), telephone pole(전봇대), fishing pole(낚싯대)처럼 합성어가 많아요. 지구의 북극과 남극도 pole이라서 the North Pole, the South Pole이라고 해요. 자석의 극도 pole이에요. poles apart는 '극과 극으로 다른'이라는 관용 표현이에요. 소설에서 Poland 사람은 Pole이라고 해서 철자가 같은 대문자 Pole은 폴란드인을 뜻해요.",
+"also": []
+},
+{
+"w": "policy",
+"pos": "n",
+"meaning_ko": "정책, 방침",
+"example_en": "The company has a strict **policy** on working from home.",
+"example_ko": "회사에는 재택근무에 관한 엄격한 방침이 있어.",
+"nuance_ko": "policy는 정부나 회사가 정한 정책, 방침을 말해요. company policy, foreign policy, privacy policy처럼 써요. 보험 증권도 policy라서 insurance policy는 보험 계약이에요. plan은 앞으로의 계획, policy는 지켜야 할 방침이라는 차이가 있어요. Honesty is the best policy는 '정직이 최선의 방책'이라는 속담이에요. It's against policy는 '규정상 안 돼요'라는 서비스 영어의 대표 표현이에요.",
+"also": []
+},
+{
+"w": "polish",
+"pos": "v",
+"meaning_ko": "닦다, 다듬다",
+"example_en": "He **polished** his shoes before the job interview.",
+"example_ko": "그는 면접 전에 구두를 닦았어.",
+"nuance_ko": "polish는 표면을 문질러 윤이 나게 하는 동사예요. polish the silver, shoe polish(구두약), nail polish(매니큐어)처럼 써요. 비유로는 글이나 기술을 다듬는다는 뜻이라 polish your presentation은 '발표를 다듬다'예요. polish off는 '재빨리 먹어 치우다'라는 구어 표현이에요. 대문자 Polish는 '폴란드의, 폴란드어'를 뜻해서 철자는 같고 발음(/ˈpoʊlɪʃ/)이 달라요.",
+"also": [
+{
+"w": "polished",
+"pos": "adj",
+"ko": "세련된, 윤이 나는",
+"en": "She gave a very **polished** performance."
+}
+]
+},
+{
+"w": "polite",
+"pos": "adj",
+"meaning_ko": "공손한, 예의 바른",
+"example_en": "It's **polite** to say thank you when someone helps you.",
+"example_ko": "누가 도와주면 고맙다고 말하는 게 예의야.",
+"nuance_ko": "polite는 말과 행동이 예의 바르고 공손하다는 뜻이에요. a polite request(정중한 요청), to be polite처럼 써요. kind가 마음씨라면 polite는 사회적 예의를 지키는 태도예요. 때로는 속마음과 달리 겉으로만 예의를 갖춘다는 뉘앙스도 있어서 polite smile은 '예의상 짓는 미소'예요. 반대는 impolite나 rude이고 rude가 더 직접적으로 무례하다는 말이에요. polite society는 '상류 사회'를 나타내는 약간 격식 있는 표현이에요.",
+"also": [
+{
+"w": "politely",
+"pos": "adv",
+"ko": "공손하게",
+"en": "He **politely** asked us to lower our voices."
+},
+{
+"w": "impolite",
+"pos": "adj",
+"ko": "무례한",
+"en": "It's **impolite** to talk with your mouth full."
+}
+]
+},
+{
+"w": "politics",
+"pos": "n",
+"meaning_ko": "정치",
+"example_en": "We try not to talk about **politics** at family dinners.",
+"example_ko": "가족 저녁 식사 때는 정치 이야기를 안 하려고 해.",
+"nuance_ko": "politics는 -s로 끝나지만 보통 단수 취급하는 명사로, 정치 활동이나 학문을 가리켜요. 때로는 정치적 견해나 사내 권력 다툼을 뜻해서 office politics는 '사내 정치'예요. 정치 얘기를 하는 것은 talk politics 또는 talk about politics로 쓰고, 정치인은 politician이에요. policy가 구체적인 정책이라면 politics는 그것을 둘러싼 권력과 활동 전반이에요. 형용사 political은 '정치적인'이라서 political party는 '정당'이에요.",
+"also": [
+{
+"w": "political",
+"pos": "adj",
+"ko": "정치적인",
+"en": "The debate turned into a **political** argument."
+},
+{
+"w": "politician",
+"pos": "n",
+"ko": "정치인",
+"en": "Many people don't trust **politicians** anymore."
+}
+]
+},
+{
+"w": "pollute",
+"pos": "v",
+"meaning_ko": "오염시키다",
+"example_en": "Factories that **pollute** the river should pay a fine.",
+"example_ko": "강을 오염시키는 공장은 벌금을 내야 해.",
+"nuance_ko": "pollute는 공기, 물, 땅을 해로운 물질로 오염시키는 동사예요. 환경 뉴스에서 아주 자주 나오고 명사는 pollution(오염)이에요. contaminate는 유해한 물질이 섞여 못 쓰게 되는 일, pollute는 환경 전반을 더럽히는 일에 쓴다는 차이가 있어요. air pollution, noise pollution(소음 공해), light pollution처럼 짝꿍이 다양해요. 사람 마음이나 문화에 나쁜 영향을 주는 것도 비유로 pollute라고 해요.",
+"also": [
+{
+"w": "pollution",
+"pos": "n",
+"ko": "오염",
+"en": "Air **pollution** is a serious problem in big cities."
+},
+{
+"w": "polluted",
+"pos": "adj",
+"ko": "오염된",
+"en": "The river is badly **polluted**."
+}
+]
+},
+{
+"w": "pool",
+"pos": "n",
+"meaning_ko": "수영장, 웅덩이",
+"example_en": "The kids spent the whole afternoon in the **pool**.",
+"example_ko": "애들은 오후 내내 수영장에서 놀았어.",
+"nuance_ko": "pool은 수영장이나 작은 웅덩이를 가리켜요. swimming pool을 줄인 말로 일상 대화에서 흔해요. 또 '공동으로 모은 것'이라는 뜻도 있어서 a pool of talent(인재 풀), car pool(카풀)처럼 써요. 당구도 pool이라 play pool은 '포켓볼을 치다'예요. 동사로는 '합치다'라서 pool resources는 '자원을 모으다'예요. a pool of blood는 '피웅덩이'처럼 액체가 고인 것을 말해요.",
+"also": [
+{
+"w": "pooled",
+"pos": "adj",
+"ko": "모아 둔",
+"en": "They used **pooled** funds to buy the equipment."
+}
+]
+},
+{
+"w": "popular",
+"pos": "adj",
+"meaning_ko": "인기 있는, 대중적인",
+"example_en": "This restaurant is really **popular** with students.",
+"example_ko": "이 식당은 학생들에게 인기가 정말 많아.",
+"nuance_ko": "popular는 많은 사람에게 사랑받는다는 형용사예요. be popular with/among ~(~에게 인기 있다) 구조로 써요. 사람에게 쓰면 '친구가 많고 인기 있는'이고, 정치에서는 '대중적인'이라서 popular opinion은 '여론'이에요. well-known은 알려져 있다는 사실, popular는 좋아한다는 평가라는 차이가 있어요. 명사는 popularity, 반대는 unpopular(인기 없는)예요.",
+"also": [
+{
+"w": "popularity",
+"pos": "n",
+"ko": "인기",
+"en": "The band's **popularity** has grown quickly."
+},
+{
+"w": "unpopular",
+"pos": "adj",
+"ko": "인기 없는",
+"en": "It was an **unpopular** decision."
+}
+]
+},
+{
+"w": "population",
+"pos": "n",
+"meaning_ko": "인구",
+"example_en": "The city's **population** has doubled in the last twenty years.",
+"example_ko": "그 도시의 인구는 최근 20년 사이에 두 배가 됐어.",
+"nuance_ko": "population은 한 지역에 사는 사람 수 또는 인구 전체를 가리켜요. 인구가 많다, 적다는 large population, small population처럼 말하고 many population이라고 하지 않아요. 한국 학습자들이 흔히 틀리는 포인트예요. 인구의 수는 The population is 10 million처럼 단수 동사로 받아요. 동물 개체수에도 쓰여서 the wolf population은 늑대의 개체수예요. 통계에서는 '모집단'이라는 뜻이기도 해요.",
+"also": [
+{
+"w": "populate",
+"pos": "v",
+"ko": "거주하다, 채우다",
+"en": "Several small islands are **populated** by seabirds."
+}
+]
+},
+{
+"w": "port",
+"pos": "n",
+"meaning_ko": "항구, 포트",
+"example_en": "The ship arrived at the **port** early in the morning.",
+"example_ko": "배는 아침 일찍 항구에 도착했어.",
+"nuance_ko": "port는 배가 드나드는 항구를 말해요. harbor는 배가 피할 수 있는 안전한 만, port는 화물이나 승객을 처리하는 시설이 있는 항구예요. 컴퓨터에서는 USB port처럼 연결 단자를 가리키고, 네트워크 port 번호도 있어요. 배의 왼쪽을 port라고 부르는 항해 용어도 있고, 포도주 중 하나인 port wine도 있어요. 여러 뜻이 있어서 문맥으로 구분해요.",
+"also": [
+{
+"w": "ports",
+"pos": "n",
+"ko": "항구들, 단자들",
+"en": "The laptop has two USB **ports**."
+}
+]
+},
+{
+"w": "positive",
+"pos": "adj",
+"meaning_ko": "긍정적인, 확신하는",
+"example_en": "Try to stay **positive**, even when things get tough.",
+"example_ko": "일이 힘들어져도 긍정적인 마음을 유지해 봐.",
+"nuance_ko": "positive는 긍정적이고 낙관적인 태도를 나타내요. a positive attitude, positive feedback, positive thinking처럼 써요. 검사에서 positive는 '양성'이라서 test positive for ~는 '~ 양성 판정을 받다'예요. 이때는 좋은 뜻이 아니라는 점에 주의해요. I'm positive는 '확신해'라는 뜻이고 positive about ~(~에 대해 확신하는)처럼 써요. 반대는 negative이고 숫자의 양수도 positive number예요.",
+"also": [
+{
+"w": "positively",
+"pos": "adv",
+"ko": "긍정적으로, 확실히",
+"en": "The audience responded **positively** to the talk."
+}
+]
+},
+{
+"w": "possess",
+"pos": "v",
+"meaning_ko": "소유하다, 갖추다",
+"example_en": "She seems to **possess** a natural talent for music.",
+"example_ko": "그녀는 음악에 타고난 재능을 갖고 있는 것 같아.",
+"nuance_ko": "possess는 물건을 소유하거나 자질·능력을 갖고 있다는 격식 있는 동사예요. 일상 대화에서는 have나 own을 더 많이 쓰고, possess는 글이나 법률 문서에서 자주 보여요. possess skills, possess a license처럼 쓰고, 수동태 be possessed by ~는 '~에 홀리다, 사로잡히다'라서 공포 영화에서 'possessed by a demon'처럼 나와요. 명사 possession은 '소유물'이라서 personal possessions는 개인 소지품이에요.",
+"also": [
+{
+"w": "possession",
+"pos": "n",
+"ko": "소유, 소유물",
+"en": "Please keep your **possessions** with you at all times."
+},
+{
+"w": "possessive",
+"pos": "adj",
+"ko": "소유욕이 강한",
+"en": "He gets **possessive** when she talks to other guys."
+}
+]
+},
+{
+"w": "potato",
+"pos": "n",
+"meaning_ko": "감자",
+"example_en": "Would you like mashed **potato** or fries with that?",
+"example_ko": "같이 으깬 감자 드릴까요, 감자튀김 드릴까요?",
+"nuance_ko": "potato는 감자이고 복수는 potatoes처럼 -es를 붙여요. 요리에 따라 mashed potato, baked potato, boiled potato 등으로 쓰고 해시 같은 요리는 불가산처럼 쓰이기도 해요. 고구마는 sweet potato라서 감자와는 다른 식물이에요. couch potato는 '소파에 앉아 TV만 보는 사람'이라는 구어 표현이에요. hot potato는 '다루기 곤란한 문제'라는 뜻의 관용구예요.",
+"also": []
+},
+{
+"w": "pour",
+"pos": "v",
+"meaning_ko": "붓다, 쏟아지다",
+"example_en": "Could you **pour** me a glass of water, please?",
+"example_ko": "물 한 잔만 따라 줄래?",
+"nuance_ko": "pour는 액체를 따르거나 붓는 동사예요. pour tea, pour a drink처럼 쓰고 비가 쏟아질 때는 It's pouring이라고 해요. 속담처럼 It never rains but it pours는 '나쁜 일은 겹쳐서 온다'는 뜻이에요. pour out은 '쏟아내다'라서 pour out one's feelings(속마음을 털어놓다)처럼 써요. 사람들이 몰려들 때도 pour in이라고 해서 비유로 쓰기도 해요.",
+"also": [
+{
+"w": "pouring",
+"pos": "adj",
+"ko": "쏟아지는",
+"en": "It was **pouring** rain when we arrived."
+}
+]
+},
+{
+"w": "practical",
+"pos": "adj",
+"meaning_ko": "실용적인, 현실적인",
+"example_en": "Let's find a more **practical** solution to this problem.",
+"example_ko": "이 문제에 대해 좀 더 현실적인 해결책을 찾아보자.",
+"nuance_ko": "practical은 이론이 아니라 실제로 쓸모 있고 현실적이라는 뜻이에요. practical advice, practical experience처럼 써요. 사람에게 쓰면 감정보다 현실적인 판단을 중시하는 성격이라는 뜻이에요. 반대는 impractical이고 theoretical은 이론적인 것이에요. practical joke는 '짓궂은 장난'이라는 별개의 표현이에요. practically는 '사실상, 거의'라는 뜻의 부사로 구어에서 자주 써요.",
+"also": [
+{
+"w": "practically",
+"pos": "adv",
+"ko": "사실상, 거의",
+"en": "The store is **practically** empty today."
+},
+{
+"w": "impractical",
+"pos": "adj",
+"ko": "비현실적인",
+"en": "High heels are **impractical** for hiking."
+}
+]
+},
+{
+"w": "practise",
+"pos": "v",
+"meaning_ko": "연습하다, 실천하다",
+"example_en": "You need to **practise** every day if you want to improve.",
+"example_ko": "실력을 늘리고 싶으면 매일 연습해야 해.",
+"nuance_ko": "practise는 영국식 동사 철자이고, 미국에서는 동사도 practice로 써요. 영국식에서 명사는 practice, 동사는 practise로 구분해요. 연습하다는 practise the piano, 의사나 변호사가 '개업하다'는 practise medicine/law처럼 써요. 습관이나 신념을 '실천하다'도 가능해서 practise what you preach는 '말한 대로 실천하라'예요. 명사 practice는 '연습, 관행, 병원·사무소'라서 in practice는 '실제로는'이에요.",
+"also": [
+{
+"w": "practice",
+"pos": "n",
+"ko": "연습, 관행",
+"en": "It takes a lot of **practice** to play well."
+},
+{
+"w": "practiced",
+"pos": "adj",
+"ko": "숙련된",
+"en": "She is a **practiced** speaker."
+}
+]
+},
+{
+"w": "pray",
+"pos": "v",
+"meaning_ko": "기도하다, 간절히 바라다",
+"example_en": "They **pray** together every Sunday morning.",
+"example_ko": "그들은 일요일 아침마다 함께 기도해.",
+"nuance_ko": "pray는 신에게 기도한다는 동사로 pray to God, pray for ~(~를 위해 기도하다) 구조로 써요. 종교가 없더라도 I'm praying that it doesn't rain은 '비가 오지 않기를 간절히 바란다'는 구어 표현이에요. 명사 prayer는 '기도, 기도문'이고 발음이 /prer/라서 사람을 가리키는 pray-er와 다르게 읽어요. say a prayer는 '기도를 올리다'예요. pray와 prey(먹이)는 발음이 같아서 받아쓰기에서 주의해요.",
+"also": [
+{
+"w": "prayer",
+"pos": "n",
+"ko": "기도",
+"en": "She said a quiet **prayer** before the exam."
+}
+]
+},
+{
+"w": "prefer",
+"pos": "v",
+"meaning_ko": "더 좋아하다, 선호하다",
+"example_en": "I **prefer** tea to coffee, especially in the evening.",
+"example_ko": "나는 특히 저녁에는 커피보다 차가 더 좋아.",
+"nuance_ko": "prefer는 둘 중에서 더 좋아한다는 동사로, prefer A to B 구조에서 than이 아니라 to를 써요. 동사 뒤에 to + 동사원형이나 -ing가 올 수 있어서 I prefer to walk, I prefer walking 둘 다 가능해요. would prefer to ~는 정중하게 선호를 말하는 표현이에요. like better와 같은 뜻이지만 prefer가 더 격식 있어요. 과거형은 preferred처럼 r을 겹쳐서 써요.",
+"also": [
+{
+"w": "preference",
+"pos": "n",
+"ko": "선호",
+"en": "Do you have a **preference** for window or aisle?"
+},
+{
+"w": "preferably",
+"pos": "adv",
+"ko": "가능하면",
+"en": "Call me back, **preferably** before noon."
+}
+]
+},
+{
+"w": "pregnant",
+"pos": "adj",
+"meaning_ko": "임신한",
+"example_en": "She is five months **pregnant** and feeling much better now.",
+"example_ko": "그녀는 임신 5개월인데 이제 훨씬 컨디션이 좋아졌어.",
+"nuance_ko": "pregnant는 임신한 상태를 나타내는 형용사예요. be pregnant, get pregnant, five months pregnant처럼 쓰고 expecting은 '출산을 앞둔'이라는 더 부드러운 표현이에요. 동물에게도 쓰지만 사람에게 직접적으로 말하는 것은 조심스러울 수 있어요. 비유로 a pregnant pause(의미심장한 침묵)처럼 '의미를 품은'이라는 뜻도 있어요. 철자 pregnant의 g를 빼먹지 않도록 주의해요.",
+"also": [
+{
+"w": "pregnancy",
+"pos": "n",
+"ko": "임신",
+"en": "Doctors advised her to rest during **pregnancy**."
+}
+]
+},
+{
+"w": "president",
+"pos": "n",
+"meaning_ko": "대통령, 회장",
+"example_en": "The **president** will give a speech tonight at eight.",
+"example_ko": "대통령이 오늘 밤 8시에 연설을 해.",
+"nuance_ko": "president는 국가의 대통령, 또는 회사·대학·단체의 장(회장, 총장)을 뜻해요. 대통령일 때 President Biden처럼 이름 앞에 대문자로 쓰고, 일반 명사로는 소문자로 써요. 회사에서 CEO와 president는 나라마다 직책 체계가 달라 같지 않을 수 있어요. 한국어 '회장', '사장', '총장'이 모두 president로 번역될 수 있으니 문맥을 봐요. 형용사 presidential은 '대통령의'라서 presidential election은 '대통령 선거'예요.",
+"also": [
+{
+"w": "presidential",
+"pos": "adj",
+"ko": "대통령의",
+"en": "The **presidential** debate starts at nine."
+}
+]
+},
+{
+"w": "pressure",
+"pos": "n",
+"meaning_ko": "압력, 압박",
+"example_en": "I work better under **pressure** when a deadline is close.",
+"example_ko": "마감이 가까워서 압박이 있을 때 일이 더 잘돼.",
+"nuance_ko": "pressure는 누르는 힘 또는 심리적인 압박감이에요. blood pressure(혈압), under pressure(압박을 받는), peer pressure(또래 압력)처럼 써요. 동사로는 '압박하다'이고 pressure someone into ~ing는 '~하도록 강요하다'예요. stress가 압박으로 생긴 정신적 긴장 상태라면 pressure는 압박을 주는 원인에 가까워요. 날씨 뉴스에서는 high pressure, low pressure처럼 기압을 말하기도 해요.",
+"also": [
+{
+"w": "pressured",
+"pos": "adj",
+"ko": "압박을 느끼는",
+"en": "He felt **pressured** to accept the offer."
+}
+]
+},
+{
+"w": "presume",
+"pos": "v",
+"meaning_ko": "추정하다, 짐작하다",
+"example_en": "I **presume** you've already read the report.",
+"example_ko": "보고서는 이미 읽으셨을 걸로 생각합니다.",
+"nuance_ko": "presume은 확실한 증거는 없지만 그럴 것이라고 짐작해서 받아들이는 동사예요. assume과 비슷하지만 presume은 근거가 어느 정도 있는 추정이라는 느낌이 있어요. I presume that ~, Dr. Livingstone, I presume?(리빙스턴 박사님이시죠?) 같은 문장이 유명해요. 법에서는 innocent until proven guilty처럼 '무죄 추정'을 presumption of innocence라고 해요. 또 'presume to ~'는 '주제넘게 ~하다'라는 뜻으로 격식 있는 말이에요.",
+"also": [
+{
+"w": "presumably",
+"pos": "adv",
+"ko": "아마도, 짐작컨대",
+"en": "**Presumably**, he forgot about the meeting."
+}
+]
+},
+{
+"w": "pretend",
+"pos": "v",
+"meaning_ko": "~인 척하다",
+"example_en": "The kids like to **pretend** they are pirates.",
+"example_ko": "애들은 해적인 척하며 노는 걸 좋아해.",
+"nuance_ko": "pretend는 사실이 아닌 것을 사실인 것처럼 꾸미거나, 놀이로 흉내 낸다는 동사예요. pretend to + 동사원형이나 pretend (that) 문장 구조를 써요. 일부러 거짓말하는 느낌일 수도 있고 아이들의 역할극 같은 순수한 놀이일 수도 있어요. fake는 가짜로 만들어 속이는 것이라 더 노골적이에요. 형용사 pretend는 '가짜의'라서 pretend food(장난감 음식)처럼 아이 문맥에서 써요.",
+"also": [
+{
+"w": "pretender",
+"pos": "n",
+"ko": "허세 부리는 사람, 왕위 요구자",
+"en": "He was a **pretender** with no real talent."
+}
+]
+},
+{
+"w": "prevent",
+"pos": "v",
+"meaning_ko": "막다, 예방하다",
+"example_en": "Washing your hands can **prevent** the spread of germs.",
+"example_ko": "손을 씻으면 세균이 퍼지는 걸 막을 수 있어.",
+"nuance_ko": "prevent는 어떤 일이 일어나지 않도록 미리 막는 동사예요. prevent A from -ing 구조로 쓰여서 prevent him from leaving은 '그가 떠나지 못하게 막다'예요. stop과 비슷하지만 prevent는 일이 벌어지기 전에 예방하는 느낌이 강해요. prevention은 '예방'이라서 crime prevention(범죄 예방)처럼 써요. 형용사 preventive는 '예방의'인데 preventative로도 써요. 속담 Prevention is better than cure(예방이 치료보다 낫다)가 유명해요.",
+"also": [
+{
+"w": "prevention",
+"pos": "n",
+"ko": "예방",
+"en": "**Prevention** is better than cure."
+},
+{
+"w": "preventable",
+"pos": "adj",
+"ko": "예방 가능한",
+"en": "Many accidents are easily **preventable**."
+}
+]
+},
+{
+"w": "previous",
+"pos": "adj",
+"meaning_ko": "이전의, 앞의",
+"example_en": "I had a **previous** appointment, so I couldn't join you.",
+"example_ko": "선약이 있어서 같이 못 갔어.",
+"nuance_ko": "previous는 시간이나 순서상 바로 앞에 있는 것을 가리켜요. the previous page, previous experience, previous owner처럼 명사 앞에서 써요. 구어에서 '지난번'을 말할 때는 last를, 더 격식 있게 말하려면 previous를 써요. previous to ~는 '~ 이전에'라는 문어체 표현이에요. 부사 previously는 '이전에'라서 Previously, we worked together처럼 이야기 배경을 설명할 때 써요.",
+"also": [
+{
+"w": "previously",
+"pos": "adv",
+"ko": "이전에",
+"en": "She had **previously** worked as a nurse."
+}
+]
+},
+{
+"w": "pride",
+"pos": "n",
+"meaning_ko": "자부심, 자존심",
+"example_en": "He takes great **pride** in his work as a chef.",
+"example_ko": "그는 요리사로서 자기 일에 큰 자부심을 갖고 있어.",
+"nuance_ko": "pride는 자부심이면서 때로는 지나친 자존심을 가리키는 두 얼굴을 가진 단어예요. take pride in ~(~를 자랑스러워하다)는 긍정적이고, Pride goes before a fall(교만은 패망의 선봉)은 부정적이에요. swallow one's pride는 '자존심을 접고 받아들이다'라는 관용 표현이에요. 동사로 pride oneself on ~은 '~를 자랑스럽게 여기다'예요. Pride는 성소수자 자긍심을 기리는 행사를 뜻하기도 해요.",
+"also": [
+{
+"w": "prided",
+"pos": "v",
+"ko": "자랑스러워했다",
+"en": "She **prided** herself on being on time."
+}
+]
+},
+{
+"w": "prime",
+"pos": "adj",
+"meaning_ko": "주요한, 최상의",
+"example_en": "This is a **prime** example of good teamwork.",
+"example_ko": "이건 좋은 팀워크의 대표적인 사례야.",
+"nuance_ko": "prime은 가장 중요하거나 최고 상태인 것을 가리키는 형용사예요. prime minister(총리), prime time(황금 시간대), prime example(대표적인 예)처럼 써요. in one's prime은 '전성기에 있는'이라는 뜻이에요. 수학에서는 prime number가 '소수'를 가리켜요. 동사 prime은 '준비시키다'라서 prime the pump는 '시동을 걸다'라는 비유예요. 쇠고기 등급의 prime(최상급)처럼 품질 표시에도 쓰여요.",
+"also": [
+{
+"w": "primed",
+"pos": "adj",
+"ko": "준비된",
+"en": "The team was **primed** for the final match."
+}
+]
+},
+{
+"w": "print",
+"pos": "v",
+"meaning_ko": "인쇄하다, 출력하다",
+"example_en": "Could you **print** two copies of this document for me?",
+"example_ko": "이 문서 두 부만 출력해 줄래?",
+"nuance_ko": "print는 종이에 글이나 이미지를 찍어 내는 동사예요. print a document, print out a ticket처럼 쓰고 print out은 '출력하다'로 구어에서 자주 말해요. 출판계에서 in print는 '출판되어 판매 중인', out of print는 '절판된'이라는 뜻이에요. 또 대문자나 정자체로 쓰는 것도 print라서 Please print your name은 '이름을 정자로 써 주세요'예요. 발자국은 footprint, 지문은 fingerprint라서 합성어도 많아요.",
+"also": [
+{
+"w": "printer",
+"pos": "n",
+"ko": "프린터",
+"en": "The **printer** is out of ink again."
+},
+{
+"w": "printed",
+"pos": "adj",
+"ko": "인쇄된",
+"en": "I prefer reading a **printed** book."
+}
+]
+},
+{
+"w": "privacy",
+"pos": "n",
+"meaning_ko": "사생활, 개인 정보 보호",
+"example_en": "I need some **privacy** to make this phone call.",
+"example_ko": "이 전화를 하려면 좀 조용히 혼자 있을 곳이 필요해.",
+"nuance_ko": "privacy는 다른 사람에게 방해받거나 간섭받지 않을 사적인 영역이에요. 셀 수 없는 명사로 쓰고 invasion of privacy(사생활 침해), privacy policy(개인정보 처리방침)가 자주 나와요. 한국어로 옮기면 '프라이버시'지만 영어에서는 개인 정보 보호의 뜻도 강해요. 발음은 영국식 /ˈprɪvəsi/, 미국식 /ˈpraɪvəsi/로 갈려요. respect someone's privacy는 '사생활을 존중하다'예요.",
+"also": []
+},
+{
+"w": "private",
+"pos": "adj",
+"meaning_ko": "사적인, 개인의",
+"example_en": "This is a **private** conversation, so please give us a minute.",
+"example_ko": "사적인 대화니까 잠깐만 자리를 비켜 줘.",
+"nuance_ko": "private은 일반에 공개되지 않고 개인에게 속한 것을 가리켜요. private property(사유지), private school(사립 학교), private life(사생활)처럼 써요. 반대는 public이에요. in private은 '비공개로, 단둘이'라서 We should talk in private는 '따로 이야기하자'예요. 명사로는 군대의 '이등병'이라는 뜻도 있어요. 개인정보와 관련해서는 private information이라고 하는데, secret과 달리 단지 공개되지 않은 것이라는 중립적 의미예요.",
+"also": [
+{
+"w": "privately",
+"pos": "adv",
+"ko": "비공개로, 개인적으로",
+"en": "She spoke **privately** with the manager."
+}
+]
+},
+{
+"w": "process",
+"pos": "n",
+"meaning_ko": "과정, 절차",
+"example_en": "Getting a visa is a long and slow **process**.",
+"example_ko": "비자를 받는 건 길고 느린 과정이야.",
+"nuance_ko": "process는 어떤 결과를 이루는 일련의 단계나 과정을 가리켜요. in the process of ~ing는 '~하는 중이다'라는 뜻이고 the process of learning처럼 써요. 동사로는 '처리하다, 가공하다'라서 process an order(주문을 처리하다), processed food(가공식품)처럼 써요. 컴퓨터에서는 processor(처리 장치)로 자주 보여요. procedure가 정해진 절차라면 process는 자연스럽게 진행되는 과정에 가까워요. 동사일 때 강세가 앞이라 /ˈprɑːses/로 읽어요.",
+"also": [
+{
+"w": "processing",
+"pos": "n",
+"ko": "처리, 가공",
+"en": "**Processing** your refund may take a week."
+},
+{
+"w": "processor",
+"pos": "n",
+"ko": "처리 장치, 가공업자",
+"en": "The laptop has a fast **processor**."
+}
+]
+},
+{
+"w": "produce",
+"pos": "v",
+"meaning_ko": "생산하다, 만들어 내다",
+"example_en": "This factory can **produce** five thousand cars a month.",
+"example_ko": "이 공장은 한 달에 자동차 5천 대를 생산할 수 있어.",
+"nuance_ko": "produce는 물건을 만들어 내거나, 결과·효과·작품을 낳는다는 동사예요. produce food, produce results, produce a movie(영화를 제작하다)처럼 폭넓게 써요. 명사 produce는 /ˈproʊduːs/로 강세가 앞이고 '농산물'이라는 뜻이라서 fresh produce는 신선한 채소와 과일이에요. 동사는 강세가 뒤라서 /prəˈduːs/예요. make가 일반적이고 produce는 대량·체계적으로 만든다는 느낌이에요. producer는 제작자나 생산자예요.",
+"also": [
+{
+"w": "producer",
+"pos": "n",
+"ko": "생산자, 제작자",
+"en": "He works as a TV **producer** in Seoul."
+}
+]
+},
+{
+"w": "product",
+"pos": "n",
+"meaning_ko": "제품, 상품",
+"example_en": "The company is launching a new **product** next month.",
+"example_ko": "그 회사는 다음 달에 신제품을 출시해.",
+"nuance_ko": "product는 판매하려고 만든 제품 또는 어떤 과정의 결과물을 가리켜요. a new product, dairy products(유제품), by-product(부산물)처럼 써요. goods는 상품 일반을 가리키는 복수 명사이고, product는 하나하나의 제품에 초점이 있어요. 수학에서 product는 곱셈의 결과 '곱'이에요. 형용사 productive는 '생산적인'이고 명사 production은 '생산, 제작'이에요.",
+"also": [
+{
+"w": "production",
+"pos": "n",
+"ko": "생산, 제작",
+"en": "**Production** was delayed by the storm."
+},
+{
+"w": "productive",
+"pos": "adj",
+"ko": "생산적인",
+"en": "It was a very **productive** meeting."
+}
+]
+},
+{
+"w": "profession",
+"pos": "n",
+"meaning_ko": "직업, 전문직",
+"example_en": "Teaching is a demanding **profession**, but it's rewarding.",
+"example_ko": "교사는 힘든 직업이지만 보람이 있어.",
+"nuance_ko": "profession은 전문 지식과 훈련이 필요한 직업을 가리켜요. 의사, 변호사, 교사 같은 전문직이 대표적이고 일반 직업은 job이나 occupation이라고 해요. by profession은 '직업상'이라서 He's a lawyer by profession(직업은 변호사야)처럼 써요. 형용사 professional은 '전문적인'이고 명사로는 '전문가'예요. the oldest profession 같은 완곡한 표현도 있지만 일상에서는 직접 쓰지 않아요.",
+"also": [
+{
+"w": "professional",
+"pos": "adj",
+"ko": "전문적인",
+"en": "She gave a very **professional** presentation."
+},
+{
+"w": "professionally",
+"pos": "adv",
+"ko": "전문적으로",
+"en": "He plays tennis **professionally**."
+}
+]
+},
+{
+"w": "progress",
+"pos": "n",
+"meaning_ko": "진전, 진행",
+"example_en": "We're making good **progress** on the new website.",
+"example_ko": "새 웹사이트 작업이 잘 진행되고 있어.",
+"nuance_ko": "progress는 목표를 향해 나아가는 진전을 뜻하고 셀 수 없는 명사예요. a progress라고 하거나 progresses라고 쓰면 틀리고 make progress, in progress(진행 중인)처럼 써요. 동사 progress는 강세가 뒤라서 /prəˈɡres/로 읽고, 명사는 /ˈprɑːɡres/로 앞에 강세가 와요. improvement가 상태가 좋아지는 것이라면 progress는 단계적인 진행에 가까워요. progress report는 '경과 보고서'예요.",
+"also": [
+{
+"w": "progressive",
+"pos": "adj",
+"ko": "진보적인, 점진적인",
+"en": "She has **progressive** ideas about education."
+},
+{
+"w": "progression",
+"pos": "n",
+"ko": "진행, 연속",
+"en": "The **progression** of the disease is slow."
+}
+]
+},
+{
+"w": "project",
+"pos": "n",
+"meaning_ko": "프로젝트, 과제",
+"example_en": "We're working on a new **project** at the office.",
+"example_ko": "우리는 사무실에서 새 프로젝트를 하고 있어.",
+"nuance_ko": "project는 목표와 기한이 있는 계획된 작업을 가리켜요. a research project, a group project처럼 쓰고 학교의 조별 과제도 project예요. 동사 project는 /prəˈdʒekt/로 강세가 뒤에 와서 '예상하다, 투영하다'라는 뜻이에요. project sales to double은 '매출이 두 배가 될 것으로 예상하다'예요. 비유로 project confidence는 '자신감 있어 보이게 하다'라는 표현이에요. 영화를 스크린에 비추는 것도 project라서 projector는 '프로젝터'예요.",
+"also": [
+{
+"w": "projected",
+"pos": "adj",
+"ko": "예상된",
+"en": "The **projected** cost is much higher than before."
+},
+{
+"w": "projection",
+"pos": "n",
+"ko": "예측, 투영",
+"en": "Sales **projections** look strong this year."
+}
+]
+},
+{
+"w": "pronounce",
+"pos": "v",
+"meaning_ko": "발음하다, 선언하다",
+"example_en": "How do you **pronounce** this word? I can never get it right.",
+"example_ko": "이 단어 어떻게 발음해? 항상 틀려.",
+"nuance_ko": "pronounce는 소리 내어 발음한다는 동사로 How do you pronounce ~? 형태로 아주 자주 쓰여요. 명사 pronunciation은 '발음'인데 pronounce의 o가 사라지고 pronunciation이 되는 철자 함정이 있어요. 격식 있는 자리에서는 '선언하다'라는 뜻이라서 I now pronounce you husband and wife(두 사람이 부부임을 선언합니다)처럼 써요. 형용사 pronounced는 '뚜렷한'이라서 a pronounced accent는 '뚜렷한 억양'이에요.",
+"also": [
+{
+"w": "pronunciation",
+"pos": "n",
+"ko": "발음",
+"en": "Her English **pronunciation** is very clear."
+},
+{
+"w": "pronounced",
+"pos": "adj",
+"ko": "뚜렷한",
+"en": "He walks with a **pronounced** limp."
+}
+]
+},
+{
+"w": "property",
+"pos": "n",
+"meaning_ko": "재산, 부동산, 속성",
+"example_en": "The family owns a lot of **property** near the coast.",
+"example_ko": "그 가족은 해안 근처에 부동산을 많이 갖고 있어.",
+"nuance_ko": "property는 소유한 재산, 특히 부동산(건물과 땅)을 가리켜요. private property(사유 재산), property tax(재산세), property market(부동산 시장)처럼 써요. 불가산 명사로는 재산 전체, 가산 명사 properties는 '속성, 특성'이라서 chemical properties는 '화학적 성질'이에요. 영국에서는 집이나 아파트를 property라고 부르는 일이 흔해요. 개인 소지품을 말하는 belongings보다 법적·경제적인 느낌이 강해요.",
+"also": [
+{
+"w": "properties",
+"pos": "n",
+"ko": "속성, 부동산들",
+"en": "The oil has healing **properties**."
+}
+]
+},
+{
+"w": "propose",
+"pos": "v",
+"meaning_ko": "제안하다, 청혼하다",
+"example_en": "I'd like to **propose** a new way of organizing the team.",
+"example_ko": "팀을 짜는 새로운 방식을 제안하고 싶어요.",
+"nuance_ko": "propose는 계획이나 의견을 정식으로 제안하는 동사이고 청혼하다라는 뜻도 있어요. propose a plan, propose a toast(건배를 제안하다)처럼 써요. 청혼은 propose to someone이라서 He proposed to her on the beach(그는 해변에서 그녀에게 청혼했다)예요. suggest보다 propose가 더 공식적이고 구체적인 안을 낸다는 느낌이에요. 명사는 proposal(제안, 청혼)이고 business proposal(사업 제안서)이 자주 쓰여요.",
+"also": [
+{
+"w": "proposal",
+"pos": "n",
+"ko": "제안, 청혼",
+"en": "The board approved the **proposal** yesterday."
+},
+{
+"w": "proposed",
+"pos": "adj",
+"ko": "제안된",
+"en": "The **proposed** budget is too high."
+}
+]
+},
+{
+"w": "protest",
+"pos": "n",
+"meaning_ko": "항의, 시위",
+"example_en": "Hundreds of people joined the **protest** outside city hall.",
+"example_ko": "수백 명이 시청 앞 시위에 참여했어.",
+"nuance_ko": "protest는 반대 의견을 공개적으로 나타내는 항의나 시위예요. 명사는 /ˈproʊtest/로 앞에 강세가 오고 동사는 /prəˈtest/로 뒤에 강세가 와요. a peaceful protest, protest against ~(~에 반대해 항의하다), under protest(마지못해)처럼 써요. 미국 영어에서는 protest 뒤에 전치사 없이 바로 목적어를 쓰기도 해서 protest the decision이 가능해요. 시위하는 사람은 protester라서 뉴스에서 자주 나와요.",
+"also": [
+{
+"w": "protester",
+"pos": "n",
+"ko": "시위자",
+"en": "A **protester** held up a sign outside the building."
+},
+{
+"w": "protested",
+"pos": "v",
+"ko": "항의했다",
+"en": "Residents **protested** against the new tax."
+}
+]
+},
+{
+"w": "proud",
+"pos": "adj",
+"meaning_ko": "자랑스러운, 자존심 센",
+"example_en": "I'm so **proud** of you for finishing the marathon.",
+"example_ko": "마라톤 완주한 게 정말 자랑스러워.",
+"nuance_ko": "proud는 어떤 성취나 사람에 대해 자랑스러워하는 감정을 나타내요. be proud of ~(~가 자랑스럽다)로 써서 전치사 of를 꼭 붙여요. proud to ~는 '~하게 되어 자랑스럽다'예요. 부정적인 뜻으로는 '거만한'이라서 too proud to ask for help는 '자존심 때문에 도움을 청하지 못하는'이에요. 명사는 pride이고 부사는 proudly예요. 한국 학습자는 자랑스럽다고 할 때 proud about을 쓰기도 하는데 proud of가 맞아요.",
+"also": [
+{
+"w": "proudly",
+"pos": "adv",
+"ko": "자랑스럽게",
+"en": "She **proudly** showed us her new house."
+}
+]
+},
+{
+"w": "prove",
+"pos": "v",
+"meaning_ko": "증명하다, 판명되다",
+"example_en": "The test results **proved** that the medicine really works.",
+"example_ko": "검사 결과로 그 약이 정말 효과가 있음이 입증됐어.",
+"nuance_ko": "prove는 증거로 사실임을 보여 주는 동사예요. prove a point, prove someone wrong처럼 쓰고, 과거분사는 proved와 proven 둘 다 가능해요. '결국 ~로 드러나다'라는 뜻으로 prove to be ~도 써서 The plan proved to be a mistake라고 해요. show보다 증거를 갖고 확실히 입증한다는 느낌이 강해요. 명사 proof는 '증거', 형용사 proven은 '입증된'이라서 a proven method는 '검증된 방법'이에요.",
+"also": [
+{
+"w": "proven",
+"pos": "adj",
+"ko": "입증된",
+"en": "It's a **proven** way to save money."
+},
+{
+"w": "unproven",
+"pos": "adj",
+"ko": "입증되지 않은",
+"en": "The treatment is still **unproven**."
+}
+]
+},
+{
+"w": "provide",
+"pos": "v",
+"meaning_ko": "제공하다, 공급하다",
+"example_en": "The hotel will **provide** breakfast for all guests.",
+"example_ko": "호텔에서 모든 투숙객에게 조식을 제공해 줄 거야.",
+"nuance_ko": "provide는 필요한 것을 제공한다는 동사로 provide A for B 또는 provide B with A 구조를 써요. 가장 흔한 실수는 provide를 give처럼 이중 목적어 구조로 쓰는 것이에요. 예를 들어 provide him a book은 어색하고 provide him with a book이라고 해야 해요. supply는 계속 공급하는 느낌, provide는 필요한 것을 마련해 주는 느낌이에요. provided (that)은 '~라는 조건이라면'이라는 접속사로 쓰여 if와 비슷해요.",
+"also": [
+{
+"w": "provider",
+"pos": "n",
+"ko": "제공자, 공급 업체",
+"en": "My internet **provider** is having problems today."
+},
+{
+"w": "provided",
+"pos": "conj",
+"ko": "~라는 조건으로",
+"en": "You can go **provided** you finish your homework."
+}
+]
+}
+]

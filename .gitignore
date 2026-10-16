@@ -1,0 +1,6 @@
+raw/
+gen/pilot/
+gen/tmp/
+dist/
+__pycache__/
+.pytest_cache/

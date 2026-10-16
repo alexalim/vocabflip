@@ -1,0 +1,1526 @@
+[
+ {
+  "w": "accent",
+  "pos": "n",
+  "meaning_ko": "억양, 말씨, 강세",
+  "example_en": "I love your **accent**. Where in Scotland are you from?",
+  "example_ko": "너 말투 진짜 좋다. 스코틀랜드 어디 출신이야?",
+  "nuance_ko": "accent는 어떤 사람이 말할 때 드러나는 지역이나 모국어의 흔적을 말해요. have a strong accent, a British accent, speak with an accent처럼 써요. 한국어의 '악센트'와 달리 영어에서는 '사투리 같은 발음 특징'이 가장 흔한 뜻이에요. dialect는 단어와 문법까지 다른 방언이고, accent는 발음만 가리켜요. 단어 안에서 세게 읽는 부분(강세)이나 é 같은 부호를 뜻하기도 해요.",
+  "also": []
+ },
+ {
+  "w": "access",
+  "pos": "n",
+  "meaning_ko": "접근, 이용 권한, 접속하다",
+  "example_en": "Do you have **access** to the shared drive from home?",
+  "example_ko": "집에서도 공유 드라이브에 접속할 수 있어?",
+  "nuance_ko": "access는 어떤 장소나 정보에 들어갈 수 있는 길이나 권한을 뜻해요. have access to, gain access to, deny access to가 대표 짝꿍이에요. 전치사는 보통 to를 쓰고 of나 for는 어색해요. 동사로도 쓰여서 access a file(파일에 접근하다)처럼 컴퓨터 맥락에서 자주 나와요. 개인적인 접근이 아니라 '들어갈 수 있는 자격이나 수단'이 핵심이라서 approach(다가가는 방식)와는 달라요.",
+  "also": [
+   {
+    "w": "accessible",
+    "pos": "adj",
+    "ko": "접근하기 쉬운, 이해하기 쉬운",
+    "en": "The museum is **accessible** by wheelchair."
+   },
+   {
+    "w": "inaccessible",
+    "pos": "adj",
+    "ko": "접근할 수 없는",
+    "en": "The village is **inaccessible** during winter."
+   }
+  ]
+ },
+ {
+  "w": "accident",
+  "pos": "n",
+  "meaning_ko": "사고, 우연",
+  "example_en": "There was a bad **accident** on the highway this morning.",
+  "example_ko": "오늘 아침 고속도로에서 큰 사고가 났어.",
+  "nuance_ko": "accident는 의도하지 않은 사고나 실수를 뜻해요. 교통사고는 car accident, a traffic accident라고 해요. by accident는 '우연히, 실수로'라는 표현이고 on purpose의 반대예요. by chance는 단순한 우연이고, by accident는 일어나지 말았어야 할 일에 더 어울려요. accident는 사건 자체를 말하고, incident는 좀 더 격식 있는 '사건'이라는 느낌이에요. an accident happened보다 have an accident가 자연스러운 경우가 많아요.",
+  "also": [
+   {
+    "w": "accidental",
+    "pos": "adj",
+    "ko": "우연한, 의도하지 않은",
+    "en": "It was an **accidental** discovery."
+   },
+   {
+    "w": "accidentally",
+    "pos": "adv",
+    "ko": "실수로, 우연히",
+    "en": "I **accidentally** deleted the whole folder."
+   }
+  ]
+ },
+ {
+  "w": "according",
+  "pos": "adj",
+  "meaning_ko": "~에 따르면 (according to)",
+  "example_en": "**According** to the forecast, it will rain all weekend.",
+  "example_ko": "일기예보에 따르면 주말 내내 비가 온대.",
+  "nuance_ko": "according은 거의 항상 according to 형태로 써요. 뒤에는 정보의 출처가 오고, 내 의견에는 쓰지 않아요. 그래서 according to me는 어색하고 in my opinion이나 I think가 맞아요. according to plan(계획대로)처럼 '기준에 맞춰'라는 뜻도 있어요. 뉴스와 보고서에서 출처를 밝힐 때 정말 자주 나와요. 뒤에 사람 이름이 오면 그 사람이 말한 내용이라는 뜻이고, 사실이라고 보증하지는 않는 거리감이 있어요.",
+  "also": [
+   {
+    "w": "accordingly",
+    "pos": "adv",
+    "ko": "그에 맞게, 따라서",
+    "en": "The rules changed, so we adjusted our plans **accordingly**."
+   }
+  ]
+ },
+ {
+  "w": "account",
+  "pos": "n",
+  "meaning_ko": "계좌, 계정, 설명",
+  "example_en": "I need to set up a new bank **account** next week.",
+  "example_ko": "다음 주에 새 은행 계좌를 만들어야 해.",
+  "nuance_ko": "account는 은행 계좌, 웹사이트 계정, 사건에 대한 설명, 거래 고객 등 뜻이 넓어요. open an account, log into your account, give an account of what happened가 자주 쓰여요. account for는 '~을 설명하다' 또는 '~의 비율을 차지하다'라는 구문이에요. take into account는 '고려하다'라는 뜻이라서 consider보다 더 격식 있게 들려요. on account of는 '~때문에'라는 약간 딱딱한 표현이에요. 한국어 '어카운트'는 계정 위주지만 영어는 설명이라는 뜻도 꼭 알아두세요.",
+  "also": [
+   {
+    "w": "accounting",
+    "pos": "n",
+    "ko": "회계",
+    "en": "She studied **accounting** in college."
+   }
+  ]
+ },
+ {
+  "w": "accuse",
+  "pos": "v",
+  "meaning_ko": "비난하다, 고발하다",
+  "example_en": "Are you **accusing** me of lying to you?",
+  "example_ko": "지금 내가 너한테 거짓말했다고 몰아붙이는 거야?",
+  "nuance_ko": "accuse는 어떤 사람이 잘못을 했다고 주장하는 말이에요. accuse A of B 구문을 쓰고 of를 꼭 붙여요. 증거가 확정되지 않은 상태에서 하는 주장이라는 점이 중요해요. blame은 책임을 돌리는 느낌이고, accuse는 구체적인 잘못을 지목하는 느낌이에요. 법적으로는 '기소하다'에 가까운 뜻이고, 일상에서는 가볍게 누굴 탓할 때도 써요. charge는 공식적으로 기소할 때 써서 accuse보다 법적이에요.",
+  "also": [
+   {
+    "w": "accusation",
+    "pos": "n",
+    "ko": "비난, 혐의 제기",
+    "en": "That is a serious **accusation**."
+   },
+   {
+    "w": "accuser",
+    "pos": "n",
+    "ko": "고발인, 비난하는 사람",
+    "en": "He demanded to face his **accuser** in court."
+   }
+  ]
+ },
+ {
+  "w": "ace",
+  "pos": "n",
+  "meaning_ko": "에이스, 일류, 서브 에이스",
+  "example_en": "She is an **ace** pilot with over ten thousand flight hours.",
+  "example_ko": "그녀는 비행시간이 만 시간이 넘는 에이스 조종사야.",
+  "nuance_ko": "ace는 카드의 A에서 출발해 '최고 실력자'라는 뜻으로 퍼졌어요. an ace pilot, an ace reporter처럼 형용사처럼 앞에 붙기도 해요. 테니스에서는 상대가 건드리지 못한 서브를 뜻해서 serve an ace라고 해요. 동사로는 '시험 같은 걸 완벽하게 해내다'라는 뜻이라서 I aced the test 하면 만점 가까이 받았다는 느낌이에요. 구어체에서 자주 쓰고, 한국어 '에이스'처럼 팀의 핵심 선수라는 뜻도 있어요. 카드 A는 게임에 따라 가장 높을 수도 낮을 수도 있어요.",
+  "also": []
+ },
+ {
+  "w": "active",
+  "pos": "adj",
+  "meaning_ko": "활동적인, 활발한, 적극적인",
+  "example_en": "My grandfather is still very **active** for his age.",
+  "example_ko": "우리 할아버지는 연세에 비해 아직도 정말 활동적이세요.",
+  "nuance_ko": "active는 몸이나 마음이 가만히 있지 않고 움직이는 상태를 말해요. an active lifestyle, an active role, remain active처럼 써요. 반대말은 passive 또는 inactive예요. 문법에서 active voice(능동태)라는 말도 여기서 나와요. 계정이나 장치가 '켜져 있고 사용 중'이라는 뜻으로도 많이 써서 active account, active volcano가 자연스러워요. lively는 분위기가 활기찬 느낌이고, active는 실제로 활동하는 상태에 초점이 있어요.",
+  "also": [
+   {
+    "w": "activity",
+    "pos": "n",
+    "ko": "활동",
+    "en": "The kids have many after-school **activities**."
+   },
+   {
+    "w": "actively",
+    "pos": "adv",
+    "ko": "적극적으로",
+    "en": "We are **actively** looking for a new designer."
+   },
+   {
+    "w": "activist",
+    "pos": "n",
+    "ko": "운동가, 활동가",
+    "en": "She is a well-known climate **activist**."
+   }
+  ]
+ },
+ {
+  "w": "adapt",
+  "pos": "v",
+  "meaning_ko": "적응하다, 맞추다, 각색하다",
+  "example_en": "It took me a few weeks to **adapt** to the new schedule.",
+  "example_ko": "새 일정에 적응하는 데 몇 주 걸렸어.",
+  "nuance_ko": "adapt는 환경이나 상황에 맞게 자신이나 대상을 바꾼다는 뜻이에요. adapt to + 상황은 '적응하다', adapt A for B는 'A를 B에 맞게 바꾸다'로 써요. 소설을 영화로 각색할 때도 adapt를 써서 a novel adapted for the screen이라고 해요. adopt(채택하다, 입양하다)와 철자가 비슷해서 헷갈리기 쉬워요. adjust는 조금 조정하는 느낌이고, adapt는 더 근본적으로 바뀌어 맞추는 느낌이 있어요. 뉴스, 비즈니스, 생물학 설명 어디서나 쓰여요.",
+  "also": [
+   {
+    "w": "adaptation",
+    "pos": "n",
+    "ko": "적응, 각색",
+    "en": "The film is an **adaptation** of a famous novel."
+   },
+   {
+    "w": "adaptable",
+    "pos": "adj",
+    "ko": "적응력 있는",
+    "en": "Good managers are **adaptable** to change."
+   },
+   {
+    "w": "adaptive",
+    "pos": "adj",
+    "ko": "적응의, 적응성 있는",
+    "en": "The software uses **adaptive** learning."
+   }
+  ]
+ },
+ {
+  "w": "admire",
+  "pos": "v",
+  "meaning_ko": "존경하다, 감탄하며 바라보다",
+  "example_en": "I really **admire** how calm she stays under pressure.",
+  "example_ko": "그 사람이 압박 속에서도 침착한 게 정말 대단해 보여.",
+  "nuance_ko": "admire는 어떤 사람의 능력이나 태도에 감탄하고 높이 평가하는 마음이에요. admire someone for something 구문으로 이유를 붙여요. respect는 존중이고, admire는 거기에 감탄이 더해진 느낌이에요. 눈으로 멋진 것을 감상하는 뜻도 있어서 admire the view라고 해요. like와 달리 상대가 갖춘 장점이 있어야 어울려요. 한국어 '존경'보다 훨씬 가볍게 쓰는 일상 단어라서 부담 없이 쓰셔도 돼요.",
+  "also": [
+   {
+    "w": "admiration",
+    "pos": "n",
+    "ko": "감탄, 존경",
+    "en": "He looked at her with **admiration**."
+   },
+   {
+    "w": "admirable",
+    "pos": "adj",
+    "ko": "훌륭한, 감탄스러운",
+    "en": "It was an **admirable** effort."
+   },
+   {
+    "w": "admirer",
+    "pos": "n",
+    "ko": "팬, 숭배자",
+    "en": "She has many **admirers** online."
+   }
+  ]
+ },
+ {
+  "w": "adult",
+  "pos": "n",
+  "meaning_ko": "성인, 어른",
+  "example_en": "Tickets cost ten dollars for an **adult** and five for a child.",
+  "example_ko": "표는 어른 10달러, 어린이 5달러야.",
+  "nuance_ko": "adult는 법적·사회적으로 성인이 된 사람을 말해요. 티켓 가격표에서 adult와 child를 짝으로 자주 봐요. grown-up은 아이들 말투에 가까운 구어체이고, adult는 중립적이고 일반적이에요. 형용사로는 '성숙한' 또는 '성인용의'라는 뜻이 있어서 adult content는 성인물을 뜻해요. 발음은 미국식에서 보통 a-DULT(강세 두 번째)지만 영국식에서는 AD-ult도 써요. 한국어 '어덜트'를 그대로 쓰면 가끔 오해를 줄 수 있으니 맥락에 주의하세요.",
+  "also": [
+   {
+    "w": "adulthood",
+    "pos": "n",
+    "ko": "성인기",
+    "en": "Many people reach **adulthood** without learning to cook."
+   }
+  ]
+ },
+ {
+  "w": "advance",
+  "pos": "v",
+  "meaning_ko": "나아가다, 진전시키다, 진보",
+  "example_en": "Science has **advanced** a lot in the last fifty years.",
+  "example_ko": "과학은 지난 50년 사이에 엄청나게 발전했어.",
+  "nuance_ko": "advance는 앞으로 나아가거나 한 단계 발전한다는 뜻의 동사이자 명사예요. 군대가 전진할 때도, 기술이 발전할 때도 써요. in advance는 '미리'라는 표현이라서 book in advance(미리 예약하다)처럼 자주 써요. advance notice는 사전 통보이고, an advance on salary는 급여 가불이에요. 형용사 advanced는 '고급의, 선진의'라서 advanced course처럼 써요. 비슷한 progress는 과정이 이어지는 느낌이고, advance는 한 걸음 나아가는 느낌이에요.",
+  "also": [
+   {
+    "w": "advanced",
+    "pos": "adj",
+    "ko": "고급의, 선진의",
+    "en": "She is taking an **advanced** math class."
+   },
+   {
+    "w": "advancement",
+    "pos": "n",
+    "ko": "발전, 승진",
+    "en": "There are good chances for **advancement** here."
+   }
+  ]
+ },
+ {
+  "w": "advantage",
+  "pos": "n",
+  "meaning_ko": "이점, 유리한 점",
+  "example_en": "Being tall gives him a big **advantage** in basketball.",
+  "example_ko": "키가 큰 게 그 친구한테 농구에서 큰 강점이야.",
+  "nuance_ko": "advantage는 남보다 유리한 위치나 장점을 뜻해요. have an advantage over someone(~보다 유리하다), the advantage of -ing 구문을 써요. take advantage of는 좋게는 '기회를 활용하다'이고, 사람에게 쓰면 '이용해먹다'라는 부정적 뜻이 돼요. benefit은 얻는 좋은 결과이고, advantage는 비교해서 앞서는 점이라는 차이가 있어요. 반대말은 disadvantage예요. 테니스 점수에서 deuce 이후에도 advantage라고 해요.",
+  "also": [
+   {
+    "w": "advantageous",
+    "pos": "adj",
+    "ko": "유리한",
+    "en": "A lower price is **advantageous** for buyers."
+   }
+  ]
+ },
+ {
+  "w": "adventure",
+  "pos": "n",
+  "meaning_ko": "모험, 뜻밖의 경험",
+  "example_en": "Our road trip turned into a real **adventure**.",
+  "example_ko": "우리 로드트립은 진짜 모험이 되어버렸어.",
+  "nuance_ko": "adventure는 새롭고 흥미진진하거나 약간 위험한 경험을 뜻해요. go on an adventure, an adventure story, adventure sports처럼 써요. 꼭 위험할 필요는 없고 일상에서 낯선 곳에 가는 것도 adventure라고 해요. 형용사 adventurous는 '모험을 즐기는'이라서 성격을 묘사해요. trip이나 journey는 이동 자체를 말하고, adventure는 거기서 겪는 사건에 초점이 있어요. 아이들 책이나 게임 장르 이름으로도 자주 나와요.",
+  "also": [
+   {
+    "w": "adventurous",
+    "pos": "adj",
+    "ko": "모험심 강한",
+    "en": "I'm not very **adventurous** when it comes to food."
+   },
+   {
+    "w": "adventurer",
+    "pos": "n",
+    "ko": "모험가",
+    "en": "He was a famous **adventurer** in his youth."
+   }
+  ]
+ },
+ {
+  "w": "advice",
+  "pos": "n",
+  "meaning_ko": "조언, 충고",
+  "example_en": "Can I ask for your **advice** about something?",
+  "example_ko": "뭐 좀 조언을 구해도 될까?",
+  "nuance_ko": "advice는 셀 수 없는 명사라서 an advice나 advices라고 쓰면 틀려요. a piece of advice, some advice, a lot of advice로 세요. 한국 학습자가 가장 자주 틀리는 부분이에요. 동사 advise와 철자와 발음이 달라서 advice는 [어드바이스], advise는 [어드바이즈]예요. give advice, take someone's advice, ask for advice가 짝꿍이에요. suggestion은 하나의 제안이고, advice는 경험에 기반한 조언이라는 느낌이 더 강해요.",
+  "also": []
+ },
+ {
+  "w": "advise",
+  "pos": "v",
+  "meaning_ko": "조언하다, 권고하다",
+  "example_en": "The doctor **advised** me to get more sleep.",
+  "example_ko": "의사가 잠을 더 자라고 권했어.",
+  "nuance_ko": "advise는 전문적인 입장에서 어떻게 하라고 권하는 동사예요. advise someone to do, advise doing 구문을 써요. advise someone of something은 '~를 알려 주다'로 격식 있는 뜻이에요. 명사 advice와 철자가 다르니 s와 c를 구분하세요. 의사, 변호사, 정부 공지에서 자주 보여요. recommend와 비슷하지만 advise는 듣는 사람이 따르길 기대하는 경우가 많아서 약간 더 무게가 있어요.",
+  "also": [
+   {
+    "w": "adviser",
+    "pos": "n",
+    "ko": "고문, 조언자",
+    "en": "She works as a financial **adviser**."
+   },
+   {
+    "w": "advisory",
+    "pos": "n",
+    "ko": "주의보, 권고문",
+    "en": "The city issued a travel **advisory**."
+   },
+   {
+    "w": "advisable",
+    "pos": "adj",
+    "ko": "바람직한",
+    "en": "It is **advisable** to book early."
+   }
+  ]
+ },
+ {
+  "w": "affair",
+  "pos": "n",
+  "meaning_ko": "일, 사건, 불륜",
+  "example_en": "The wedding was a quiet family **affair**.",
+  "example_ko": "결혼식은 조촐한 가족 행사였어.",
+  "nuance_ko": "affair는 하나의 일이나 사건을 가리키는데, 복수형 affairs는 공적·사적 용무를 통틀어 말해요. current affairs(시사), foreign affairs(외교), business affairs처럼 굳어진 표현이 많아요. have an affair는 문맥상 '불륜 관계를 갖다'라는 뜻이라서 단독으로 쓸 때는 조심해야 해요. matter와 비슷하지만 affair에는 사건이나 행사의 느낌이 있어요. mind your own affairs는 '네 일이나 신경 써'라는 약간 거친 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "affect",
+  "pos": "v",
+  "meaning_ko": "영향을 미치다, 감동시키다",
+  "example_en": "The noise from the street **affects** my sleep.",
+  "example_ko": "길거리 소음 때문에 잠을 설쳐.",
+  "nuance_ko": "affect는 동사로서 '~에 영향을 미치다'라는 뜻이에요. 목적어를 바로 받아서 affect on이라고 쓰면 틀려요. 명사 effect와 가장 많이 혼동하는데, 쉽게는 affect는 동사, effect는 명사(have an effect on)로 기억하면 돼요. be affected by는 '~의 영향을 받다'이고 질병이나 감정에도 써요. influence는 방향을 이끄는 느낌이고, affect는 부정적일 때가 많은 일반적인 영향이에요. 격식 없는 대화부터 뉴스까지 두루 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "agent",
+  "pos": "n",
+  "meaning_ko": "대리인, 중개인, 요원",
+  "example_en": "Our travel **agent** found us a great hotel deal.",
+  "example_ko": "여행사 직원이 호텔을 아주 싸게 구해줬어.",
+  "nuance_ko": "agent는 다른 사람이나 회사를 대신해 일을 처리하는 사람을 뜻해요. a travel agent, a real estate agent, a secret agent(첩보원)처럼 분야가 다양해요. 컴퓨터에서는 사용자를 대신해 동작하는 프로그램(AI agent)을 가리켜서 요즘 자주 보여요. 화학에서는 cleaning agent처럼 '작용제'라는 뜻이에요. broker는 거래를 중개하는 쪽이고, agent는 대리해서 일하는 쪽이라는 차이가 있어요. 한국어 '에이전트'는 연예 기획사의 매니저 이미지가 강한데 영어에서는 훨씬 넓어요.",
+  "also": []
+ },
+ {
+  "w": "aid",
+  "pos": "n",
+  "meaning_ko": "도움, 원조, 보조 기구",
+  "example_en": "The country sent food and medical **aid** after the flood.",
+  "example_ko": "홍수 뒤에 그 나라는 식량과 의료 지원을 보냈어.",
+  "nuance_ko": "aid는 도움이라는 뜻이지만 help보다 격식 있고 제도적인 느낌이에요. 국제 원조는 foreign aid, 응급처치는 first aid, 청력 보조 기구는 hearing aid라고 해요. come to someone's aid는 '~를 도우러 오다'라는 표현이에요. 동사로도 쓰이지만 help가 훨씬 일반적이에요. in aid of는 '~를 돕기 위해'라는 뜻이라서 기부 행사에서 자주 나와요. 셀 수 없는 명사로 쓸 때가 많지만 보조 수단을 가리킬 때는 an aid도 가능해요.",
+  "also": []
+ },
+ {
+  "w": "alarm",
+  "pos": "n",
+  "meaning_ko": "경보, 알람, 불안",
+  "example_en": "I set my **alarm** for six, but I overslept anyway.",
+  "example_ko": "알람을 6시로 맞췄는데도 늦잠 잤어.",
+  "nuance_ko": "alarm은 경보 장치와 갑자기 느끼는 불안, 두 가지 뜻이 있어요. 한국어 '알람'은 주로 기상용인데, 영어에서는 fire alarm, burglar alarm처럼 경보기도 포함해요. set an alarm, an alarm goes off은 필수 짝꿍이에요. 감정으로는 '놀람과 걱정'이라서 cause alarm, in alarm으로 쓰여요. 동사로 alarm someone은 '놀라게 하다'이고, 보통 be alarmed 형태로 써요. alert는 주의를 환기하는 신호이고, alarm은 위험을 알리는 신호예요.",
+  "also": [
+   {
+    "w": "alarming",
+    "pos": "adj",
+    "ko": "걱정스러운",
+    "en": "The speed of the change is **alarming**."
+   },
+   {
+    "w": "alarmed",
+    "pos": "adj",
+    "ko": "불안해하는, 놀란",
+    "en": "She was **alarmed** by the strange noise."
+   }
+  ]
+ },
+ {
+  "w": "alcohol",
+  "pos": "n",
+  "meaning_ko": "술, 알코올",
+  "example_en": "He stopped drinking **alcohol** a year ago.",
+  "example_ko": "그는 1년 전에 술을 끊었어.",
+  "nuance_ko": "alcohol은 맥주, 와인, 독주를 통틀어 '술'이나 그 안의 알코올 성분을 뜻해요. 셀 수 없는 명사로 쓰고 drink alcohol, alcohol-free(무알코올)가 자주 나와요. 일상에서 술 한 잔은 a drink라고 하는 편이 자연스러워요. 소독용 알코올은 rubbing alcohol이라고 해요. liquor는 증류주를 가리켜서 alcohol보다 범위가 좁아요. 발음은 [알코홀]이고 끝을 약하게 읽어요.",
+  "also": [
+   {
+    "w": "alcoholic",
+    "pos": "adj",
+    "ko": "알코올의, 알코올 중독자",
+    "en": "They sell non-**alcoholic** drinks too."
+   }
+  ]
+ },
+ {
+  "w": "alive",
+  "pos": "adj",
+  "meaning_ko": "살아 있는, 활기찬",
+  "example_en": "Is your grandmother still **alive**?",
+  "example_ko": "할머니 아직 살아 계셔?",
+  "nuance_ko": "alive는 서술 위치(be alive, stay alive)에서 쓰는 형용사예요. 명사 앞에는 living이나 live를 써서 a living creature, a live animal처럼 말해요. 한국 학습자는 an alive animal이라고 잘못 쓰는 일이 많아요. 비유적으로는 '활기가 넘치는'이라서 feel alive, come alive처럼 쓰여요. keep something alive는 전통이나 희망을 이어간다는 뜻이에요. dead가 반대말이고, 약하게 쓰고 싶다면 survive를 쓸 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "alter",
+  "pos": "v",
+  "meaning_ko": "바꾸다, 변경하다",
+  "example_en": "Could you **alter** these pants so they fit better?",
+  "example_ko": "이 바지 좀 더 잘 맞게 수선해 주실 수 있어요?",
+  "nuance_ko": "alter는 전체를 갈아엎기보다 일부를 바꾼다는 뜻이에요. 옷을 수선할 때 alter가 가장 흔하게 쓰여요. change와 비슷하지만 alter는 약간 격식이 있고, 계획이나 문서를 부분 수정할 때도 어울려요. alter your plans, alter the course처럼 써요. 완전히 다른 것으로 바꾸는 건 change나 replace가 더 잘 맞아요. 한국어 '얼터'를 연상시키는 alternative와 뿌리는 같아요.",
+  "also": [
+   {
+    "w": "alteration",
+    "pos": "n",
+    "ko": "변경, 수선",
+    "en": "The tailor made a few **alterations** to the suit."
+   },
+   {
+    "w": "unaltered",
+    "pos": "adj",
+    "ko": "바뀌지 않은",
+    "en": "The photo was left **unaltered**."
+   }
+  ]
+ },
+ {
+  "w": "altogether",
+  "pos": "adv",
+  "meaning_ko": "완전히, 전부 합쳐서",
+  "example_en": "**Altogether**, the trip cost us about two thousand dollars.",
+  "example_ko": "다 합쳐서 그 여행에 2천 달러쯤 들었어.",
+  "nuance_ko": "altogether는 '전적으로'라는 강조와 '합계로'라는 요약, 두 가지로 쓰여요. not altogether happy처럼 부정문에서는 '완전히는 아니다'라는 부드러운 부정이 돼요. all together(모두 함께)와 철자가 비슷하지만 뜻이 달라서 We sang all together는 '다 같이 불렀다'예요. in total, in all과 바꿔 쓸 수 있고 altogether가 좀 더 구어적이에요. 영국식 영어에서 특히 자주 들려요. stop altogether는 완전히 멈춘다는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "amaze",
+  "pos": "v",
+  "meaning_ko": "깜짝 놀라게 하다, 감탄시키다",
+  "example_en": "It still **amazes** me how fast kids learn languages.",
+  "example_ko": "애들이 언어를 얼마나 빨리 배우는지 아직도 놀라워.",
+  "nuance_ko": "amaze는 믿기 어려울 만큼 놀랍고 감탄스러운 일이 있을 때 써요. 보통 be amazed at/by처럼 수동형으로 느낌을 말해요. 사람이 느끼는 감정은 amazed, 사람을 놀라게 하는 대상은 amazing이에요. 이 구분은 한국 학습자가 자주 헷갈려서 I am amazing이라고 하면 '나는 대단해'가 돼요. surprise는 예상 밖이라는 뜻이고, amaze는 거기에 감탄이 더해진 말이에요. 일상에서는 형용사 amazing이 압도적으로 많이 쓰여요.",
+  "also": [
+   {
+    "w": "amazing",
+    "pos": "adj",
+    "ko": "놀라운, 굉장한",
+    "en": "The view from the top was **amazing**."
+   },
+   {
+    "w": "amazed",
+    "pos": "adj",
+    "ko": "놀란",
+    "en": "I was **amazed** by how kind everyone was."
+   },
+   {
+    "w": "amazement",
+    "pos": "n",
+    "ko": "경탄, 놀라움",
+    "en": "She stared in **amazement**."
+   }
+  ]
+ },
+ {
+  "w": "amuse",
+  "pos": "v",
+  "meaning_ko": "즐겁게 하다, 웃게 하다",
+  "example_en": "The little boy **amused** everyone with his silly dance.",
+  "example_ko": "그 꼬마가 우스꽝스러운 춤으로 다들 웃게 했어.",
+  "nuance_ko": "amuse는 상대를 가볍게 즐겁게 하거나 웃음 짓게 한다는 뜻이에요. 큰 웃음보다는 미소를 짓게 하는 정도의 재미예요. be amused는 '재미있어하다'이고, be amused by/at을 써요. 영어권에서 amused는 약간 우월한 시선에서 재밌어한다는 느낌이 들 수도 있어요. funny는 웃긴 대상을 말하고, amusing은 은근히 재미있는 것을 말해요. amuse oneself는 '혼자 시간을 보내다'로 쓰이기도 해요.",
+  "also": [
+   {
+    "w": "amusing",
+    "pos": "adj",
+    "ko": "재미있는",
+    "en": "He told an **amusing** story about his dog."
+   },
+   {
+    "w": "amusement",
+    "pos": "n",
+    "ko": "즐거움, 오락",
+    "en": "We went to an **amusement** park."
+   },
+   {
+    "w": "amused",
+    "pos": "adj",
+    "ko": "즐거워하는",
+    "en": "She looked **amused** by the whole thing."
+   }
+  ]
+ },
+ {
+  "w": "angel",
+  "pos": "n",
+  "meaning_ko": "천사, 아주 착한 사람",
+  "example_en": "You're an **angel** for picking up the kids today!",
+  "example_ko": "오늘 애들 데리러 가 주다니, 넌 천사야!",
+  "nuance_ko": "angel은 종교 이야기에서는 천사이고, 일상에서는 매우 친절한 사람을 부르는 말이에요. You're an angel!은 도움받고 고마울 때 쓰는 구어 표현이에요. 사랑하는 사람을 부를 때 쓰기도 해요. an angel investor는 초기 스타트업에 돈을 대는 개인 투자자라서 비즈니스 뉴스에 자주 나와요. 반대 이미지는 devil이에요. 발음은 [에인젤]이고 angle(각도, [앵글])과 헷갈리지 마세요.",
+  "also": [
+   {
+    "w": "angelic",
+    "pos": "adj",
+    "ko": "천사 같은",
+    "en": "The baby has an **angelic** smile."
+   }
+  ]
+ },
+ {
+  "w": "anger",
+  "pos": "n",
+  "meaning_ko": "분노, 화",
+  "example_en": "He couldn't hide his **anger** when he heard the news.",
+  "example_ko": "그는 그 소식을 듣고 화를 숨기지 못했어.",
+  "nuance_ko": "anger는 화가 난 감정 자체를 가리키는 명사예요. 셀 수 없는 명사이고 in anger, with anger, express anger로 써요. 동사로도 쓰이지만 make someone angry가 더 일반적이에요. angry는 형용사라서 '내가 화났다'를 I am anger라고 하면 틀려요. rage는 anger보다 훨씬 격렬한 분노이고, annoyance는 가벼운 짜증이에요. anger management는 분노 조절 교육을 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "announce",
+  "pos": "v",
+  "meaning_ko": "발표하다, 알리다",
+  "example_en": "The company will **announce** the new phone next week.",
+  "example_ko": "회사가 다음 주에 새 휴대폰을 발표할 거야.",
+  "nuance_ko": "announce는 사람들 앞에서 공식적으로 알린다는 뜻이에요. 뉴스, 기업 보도자료, 공항 방송에서 자주 써요. announce that절 또는 announce + 명사 구문이고 announce to + 사람은 가능하지만 announce someone 형태는 흔하지 않아요. tell과 달리 대상이 한 명이 아니라 여러 사람이라는 느낌이에요. 가벼운 대화에서 결혼 소식을 알릴 때는 announce가 약간 과하게 들릴 수 있어요. 사실은 이미 결정되었다는 전제가 있어요.",
+  "also": [
+   {
+    "w": "announcement",
+    "pos": "n",
+    "ko": "발표, 공지",
+    "en": "I have a big **announcement** to make."
+   },
+   {
+    "w": "announcer",
+    "pos": "n",
+    "ko": "아나운서, 방송 진행자",
+    "en": "The radio **announcer** read the news."
+   }
+  ]
+ },
+ {
+  "w": "annoy",
+  "pos": "v",
+  "meaning_ko": "짜증나게 하다, 귀찮게 하다",
+  "example_en": "It really **annoys** me when people chew loudly.",
+  "example_ko": "사람들이 시끄럽게 씹으면 진짜 짜증나.",
+  "nuance_ko": "annoy는 가볍지만 반복되어 거슬리는 짜증을 일으킨다는 뜻이에요. 감정을 느끼는 사람은 annoyed, 짜증을 일으키는 대상은 annoying이에요. I'm annoying이라고 하면 '내가 짜증나는 사람'이 되니 조심하세요. be annoyed at/with/by를 써서 원인을 말해요. irritate와 비슷하지만 annoy가 일상 대화에서 훨씬 많이 쓰여요. anger보다 약하고 bother보다는 조금 강해요.",
+  "also": [
+   {
+    "w": "annoying",
+    "pos": "adj",
+    "ko": "짜증나게 하는",
+    "en": "That ringtone is so **annoying**."
+   },
+   {
+    "w": "annoyed",
+    "pos": "adj",
+    "ko": "짜증난",
+    "en": "She was **annoyed** that I was late again."
+   },
+   {
+    "w": "annoyance",
+    "pos": "n",
+    "ko": "짜증, 골칫거리",
+    "en": "The delay was a minor **annoyance**."
+   }
+  ]
+ },
+ {
+  "w": "anxious",
+  "pos": "adj",
+  "meaning_ko": "불안한, 걱정하는, 간절히 바라는",
+  "example_en": "I always feel **anxious** before a big presentation.",
+  "example_ko": "중요한 발표 전에는 항상 불안해.",
+  "nuance_ko": "anxious는 앞으로 일어날 일에 대해 걱정되고 초조한 마음을 말해요. be anxious about + 걱정거리 형태로 써요. 또 하나의 뜻은 '~하길 간절히 바라는'이라서 be anxious to do가 가능해요. worried는 일반적인 걱정이고, anxious는 신체적으로 긴장될 만큼 불안한 느낌이에요. 심리학에서 anxiety는 불안증이라는 의학 용어이기도 해요. nervous는 순간적인 긴장이고 anxious는 좀 더 오래 가는 불안이에요.",
+  "also": [
+   {
+    "w": "anxiously",
+    "pos": "adv",
+    "ko": "불안하게, 초조하게",
+    "en": "They waited **anxiously** for the test results."
+   }
+  ]
+ },
+ {
+  "w": "apartment",
+  "pos": "n",
+  "meaning_ko": "아파트, 공동주택의 한 세대",
+  "example_en": "We just moved into a small **apartment** near the station.",
+  "example_ko": "우리 역 근처 작은 아파트로 막 이사했어.",
+  "nuance_ko": "apartment는 건물 한 층 또는 한 칸에 속한 한 세대의 집을 뜻해요. 한국의 '아파트'처럼 대규모 단지를 뜻하지 않아서 a building with apartments라고 해요. 영국식에서는 flat이라고 해요. rent an apartment, an apartment building, apartment complex가 자주 나와요. 분양받아 소유하는 경우는 condo(condominium)라고도 불러요. 한국인이 apart와 혼동하는 경우가 있는데 apartment는 철자 그대로 두 번째 음절에 강세가 있어요.",
+  "also": []
+ },
+ {
+  "w": "appeal",
+  "pos": "n",
+  "meaning_ko": "매력, 호소, 항소",
+  "example_en": "The movie has a lot of **appeal** for young audiences.",
+  "example_ko": "그 영화는 젊은 관객한테 어필하는 게 많아.",
+  "nuance_ko": "appeal은 '마음을 끄는 매력'과 '간곡한 호소, 법적 항소' 등 여러 뜻이 있어요. have appeal, sex appeal, broad appeal에서는 매력이에요. appeal to someone은 '~의 마음에 들다'이고 appeal for help는 도움을 호소하는 뜻이에요. 법정에서는 file an appeal(항소하다)이라고 해요. attraction은 끌림 자체이고, appeal은 상대의 취향에 호소한다는 뉘앙스가 있어요. 한국어 '어필하다'는 영어에서 자동사 appeal to로 쓰는 점이 달라요.",
+  "also": [
+   {
+    "w": "appealing",
+    "pos": "adj",
+    "ko": "매력적인",
+    "en": "The idea sounds very **appealing**."
+   }
+  ]
+ },
+ {
+  "w": "apple",
+  "pos": "n",
+  "meaning_ko": "사과",
+  "example_en": "I eat an **apple** every morning before work.",
+  "example_ko": "난 출근 전에 매일 아침 사과를 하나 먹어.",
+  "nuance_ko": "apple은 과일 사과이면서 회사 Apple이기도 해요. an apple a day keeps the doctor away라는 속담이 있어서 사과가 건강에 좋다는 이미지가 있어요. the apple of one's eye는 '아주 소중한 사람'이라는 뜻이에요. apple of discord는 불화의 씨앗이라는 비유예요. bad apple은 집단을 망치는 한 사람을 가리켜요. 한국어에서 사과는 'sorry'와 동음이지만 영어 apple에는 그런 뜻이 없어요.",
+  "also": []
+ },
+ {
+  "w": "apply",
+  "pos": "v",
+  "meaning_ko": "지원하다, 적용하다, 바르다",
+  "example_en": "I'm going to **apply** for that job in marketing.",
+  "example_ko": "마케팅 쪽 그 일자리에 지원해 보려고.",
+  "nuance_ko": "apply는 문맥에 따라 뜻이 갈려요. apply for는 '지원하다, 신청하다', apply to는 '적용되다' 또는 '~에게 해당되다', apply A to B는 'A를 B에 바르다, 적용하다'예요. 전치사를 틀리기 쉬워서 apply for a visa, the rule applies to everyone처럼 외우세요. 연고를 바를 때도 apply cream이라고 해요. 명사는 application이에요. 이력서 맥락에서는 submit an application이 일반적이에요.",
+  "also": [
+   {
+    "w": "application",
+    "pos": "n",
+    "ko": "신청, 적용, 앱",
+    "en": "Please fill out the **application** form."
+   },
+   {
+    "w": "applied",
+    "pos": "adj",
+    "ko": "응용의",
+    "en": "He studies **applied** physics."
+   }
+  ]
+ },
+ {
+  "w": "appoint",
+  "pos": "v",
+  "meaning_ko": "임명하다, 지명하다",
+  "example_en": "The board **appointed** her as the new director.",
+  "example_ko": "이사회가 그녀를 새 이사로 임명했어.",
+  "nuance_ko": "appoint는 어떤 직책에 사람을 공식적으로 앉힌다는 뜻이에요. appoint someone (as) something 구문이고, 임명받는 쪽은 be appointed예요. 선거로 뽑는 elect와 달리 윗사람이 지명하는 방식이에요. 회의나 약속 시간을 정한다는 옛 뜻도 있어서 appointment(약속)와 연결돼요. 뉴스나 회사 공지에서 자주 나오는 격식 있는 단어예요. well-appointed는 '설비가 잘 갖춰진'이라는 뜻의 표현이에요.",
+  "also": [
+   {
+    "w": "appointment",
+    "pos": "n",
+    "ko": "약속, 예약, 임명",
+    "en": "I have a dentist **appointment** at three."
+   },
+   {
+    "w": "appointed",
+    "pos": "adj",
+    "ko": "임명된, 정해진",
+    "en": "They met at the **appointed** time."
+   }
+  ]
+ },
+ {
+  "w": "appreciate",
+  "pos": "v",
+  "meaning_ko": "고마워하다, 진가를 알아보다",
+  "example_en": "I really **appreciate** your help with the move.",
+  "example_ko": "이사 도와줘서 정말 고마워.",
+  "nuance_ko": "appreciate는 상대의 도움이나 노력에 감사하는 마음이 들 때 써요. thank you보다 구체적인 행동을 인정하는 느낌이라서 I appreciate it, I appreciate your help가 자주 쓰여요. 사람 자체가 아니라 행동이나 도움이 목적어로 와요. 즉 I appreciate you도 가능하지만 의미가 달라지고 I appreciate your help가 자연스러워요. 가치를 알아본다는 뜻도 있어서 appreciate art라고 해요. 자산이 값이 오른다는 경제 용어로도 써요.",
+  "also": [
+   {
+    "w": "appreciation",
+    "pos": "n",
+    "ko": "감사, 감상, 가치 상승",
+    "en": "We gave her a gift to show our **appreciation**."
+   },
+   {
+    "w": "appreciative",
+    "pos": "adj",
+    "ko": "고마워하는",
+    "en": "The audience was very **appreciative**."
+   }
+  ]
+ },
+ {
+  "w": "approach",
+  "pos": "v",
+  "meaning_ko": "다가가다, 접근하다, 접근법",
+  "example_en": "A man **approached** me and asked for directions.",
+  "example_ko": "어떤 남자가 다가와서 길을 물었어.",
+  "nuance_ko": "approach는 공간적으로 다가가는 것과 문제에 접근하는 방식, 두 가지로 쓰여요. 동사로 쓰면 approach to라고 하지 않고 바로 목적어를 받아요. 명사로는 an approach to + 문제 형태예요. approach someone about something은 '~에 관해 말을 걸다'라는 뜻이에요. 기간이 가까워질 때도 써서 winter is approaching이라고 해요. method는 정해진 방법이고, approach는 문제를 바라보는 관점에 가까워요.",
+  "also": [
+   {
+    "w": "approachable",
+    "pos": "adj",
+    "ko": "다가가기 쉬운",
+    "en": "Our manager is very **approachable**."
+   }
+  ]
+ },
+ {
+  "w": "april",
+  "pos": "n",
+  "meaning_ko": "4월",
+  "example_en": "My birthday is in **April**, right after spring starts.",
+  "example_ko": "내 생일은 봄이 막 시작하는 4월이야.",
+  "nuance_ko": "April은 4월이고 항상 대문자로 시작해요. 날짜 앞에는 on, 달 앞에는 in을 써서 in April, on April 5th라고 해요. April Fools' Day는 4월 1일 만우절이에요. April showers bring May flowers라는 속담은 4월 비가 5월 꽃을 피운다는 뜻이에요. 약어는 Apr.이고 달력에서 자주 보여요. 미국식 날짜는 April 5 또는 4/5, 영국식은 5 April 또는 5/4로 써서 순서가 달라요.",
+  "also": []
+ },
+ {
+  "w": "argue",
+  "pos": "v",
+  "meaning_ko": "다투다, 주장하다",
+  "example_en": "My brother and I **argued** about the remote all night.",
+  "example_ko": "형이랑 리모컨 때문에 밤새 싸웠어.",
+  "nuance_ko": "argue는 말로 다투거나, 논리를 들어 주장한다는 뜻이에요. argue with someone about something은 '~와 ~에 대해 다투다'이고, argue that은 '~라고 주장하다'예요. 두 번째 뜻은 논문이나 토론에서 자주 쓰이는 격식 있는 표현이에요. fight는 몸싸움이 포함될 수 있지만 argue는 말다툼이에요. quarrel은 감정적인 싸움이고 argue는 더 일반적이에요. arguably는 '논란의 여지는 있지만 ~라 할 수 있다'라는 신중한 표현이에요.",
+  "also": [
+   {
+    "w": "argument",
+    "pos": "n",
+    "ko": "논쟁, 주장",
+    "en": "They had a heated **argument** about money."
+   },
+   {
+    "w": "arguably",
+    "pos": "adv",
+    "ko": "거의 틀림없이",
+    "en": "He is **arguably** the best player in the league."
+   }
+  ]
+ },
+ {
+  "w": "army",
+  "pos": "n",
+  "meaning_ko": "군대, 육군, 대규모 무리",
+  "example_en": "My father served in the **army** for twenty years.",
+  "example_ko": "우리 아버지는 20년간 육군에서 복무하셨어.",
+  "nuance_ko": "army는 좁게는 육군, 넓게는 국가의 군대를 뜻해요. join the army, be in the army가 흔한 표현이에요. 해군은 navy, 공군은 air force라서 army와 구분해서 써요. 비유적으로는 '많은 사람의 무리'라서 an army of volunteers처럼 말할 수 있어요. the military는 군 전체를 가리키는 말이고, army는 육군에 초점을 둬요. 한국의 군 복무를 말할 때 do military service가 자연스럽지만 join the army도 많이 써요.",
+  "also": []
+ },
+ {
+  "w": "arrest",
+  "pos": "v",
+  "meaning_ko": "체포하다, 멈추게 하다",
+  "example_en": "The police **arrested** two men outside the bank.",
+  "example_ko": "경찰이 은행 밖에서 남자 두 명을 체포했어.",
+  "nuance_ko": "arrest는 경찰이 법에 따라 사람을 붙잡아 가둔다는 동사이면서 명사이기도 해요. be arrested for + 혐의 형태로 쓰이고, 체포된 상태는 under arrest예요. 구속 이후의 기소는 charge, 재판은 trial이라서 단계가 달라요. 뉴스에서 정말 자주 쓰이는 단어예요. 비유적으로는 진행을 '멈추게 하다'라는 뜻도 있어서 arrest the spread of disease라고 해요. heart arrest는 심장 정지를 말해요.",
+  "also": []
+ },
+ {
+  "w": "article",
+  "pos": "n",
+  "meaning_ko": "기사, 글, 물품, 관사",
+  "example_en": "I read an interesting **article** about sleep yesterday.",
+  "example_ko": "어제 수면에 대한 재미있는 기사를 읽었어.",
+  "nuance_ko": "article은 신문이나 잡지, 웹의 글 한 편을 가리켜요. 문법에서 a, an, the를 부르는 이름도 article(관사)이에요. 물품을 뜻하기도 해서 an article of clothing(의류 한 점)처럼 쓰여요. 법에서는 헌법 조항이나 계약 조항을 article이라고 해요. essay는 개인의 생각을 담은 글이고, article은 정보나 보도에 가까워요. 한국어 '아티클'처럼 콘텐츠 마케팅에서 쓰는 글이라는 뜻도 있어요.",
+  "also": []
+ },
+ {
+  "w": "aside",
+  "pos": "adv",
+  "meaning_ko": "옆으로, 따로, 제쳐두고",
+  "example_en": "Let's put our differences **aside** and finish the project.",
+  "example_ko": "서로 이견은 접어두고 프로젝트부터 끝내자.",
+  "nuance_ko": "aside는 어떤 것을 한쪽으로 치워 두는 모습이에요. put aside, set aside, step aside, move aside처럼 동사와 붙어 자주 쓰여요. aside from은 '~을 제외하고'라는 뜻이라서 apart from과 바꿔 쓸 수 있어요. joking aside는 '농담은 그만하고'라는 흔한 표현이에요. 연극에서 aside는 관객에게만 들리게 하는 방백이라는 뜻의 명사예요. 돈이나 시간을 따로 모아두는 의미로 set aside money를 자주 써요.",
+  "also": []
+ },
+ {
+  "w": "asleep",
+  "pos": "adj",
+  "meaning_ko": "잠든",
+  "example_en": "The baby finally fell **asleep** around ten o'clock.",
+  "example_ko": "아기가 열 시쯤 마침내 잠들었어.",
+  "nuance_ko": "asleep은 '자고 있는 상태'를 나타내는 형용사로 보통 be asleep, fall asleep, stay asleep처럼 서술적으로만 써요. a asleep baby처럼 명사 앞에는 못 쓰고 a sleeping baby라고 해요. fall asleep은 잠들기 시작하는 순간이고, sleep은 자는 행위 전체를 말해요. 몸의 일부가 저릴 때도 My foot is asleep이라고 해요. 반대말은 awake예요. fast asleep은 '깊이 잠든'이라는 강조 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "assist",
+  "pos": "v",
+  "meaning_ko": "돕다, 보조하다",
+  "example_en": "A nurse will **assist** you during the procedure.",
+  "example_ko": "시술 중에는 간호사가 도와드릴 거예요.",
+  "nuance_ko": "assist는 주된 일을 하는 사람 옆에서 보조한다는 뜻의 격식 있는 동사예요. assist someone with something, assist in doing something 구문을 써요. 일상 대화에서는 help가 훨씬 흔하고, assist는 서비스나 공식 문서에서 자주 나와요. How may I assist you?는 점원이나 상담원의 정중한 인사말이에요. 스포츠에서는 득점을 돕는 패스를 assist라고 해요. 명사 assistant는 보조자나 직원을 가리켜요.",
+  "also": [
+   {
+    "w": "assistance",
+    "pos": "n",
+    "ko": "도움, 지원",
+    "en": "Please call us if you need **assistance**."
+   },
+   {
+    "w": "assistant",
+    "pos": "n",
+    "ko": "조수, 보조 직원",
+    "en": "She works as a teaching **assistant**."
+   }
+  ]
+ },
+ {
+  "w": "associate",
+  "pos": "v",
+  "meaning_ko": "연관 짓다, 어울리다",
+  "example_en": "Most people **associate** this smell with summer.",
+  "example_ko": "대부분 사람들은 이 냄새를 여름이랑 연결 지어 생각해.",
+  "nuance_ko": "associate는 두 가지를 머릿속에서 연결 짓는다는 동사예요. associate A with B 구문을 쓰고 be associated with는 '~와 관련되다'예요. 사람과 어울린다는 뜻으로 associate with도 쓰는데, 약간 부정적인 어감일 수 있어요. 명사로는 '동료, 준회원'이고 an associate professor는 부교수예요. 발음은 동사 [어소시에이트], 명사는 [어소시잇]으로 끝 소리가 달라요. link는 일반적인 연결이고 associate는 마음속 연상이나 소속을 뜻해요.",
+  "also": [
+   {
+    "w": "association",
+    "pos": "n",
+    "ko": "협회, 연관",
+    "en": "She joined the local sports **association**."
+   },
+   {
+    "w": "associated",
+    "pos": "adj",
+    "ko": "관련된",
+    "en": "The risks **associated** with smoking are well known."
+   }
+  ]
+ },
+ {
+  "w": "assume",
+  "pos": "v",
+  "meaning_ko": "가정하다, 추정하다, 맡다",
+  "example_en": "I **assumed** you already knew about the meeting.",
+  "example_ko": "네가 이미 회의 얘기를 알고 있는 줄 알았어.",
+  "nuance_ko": "assume은 확인하지 않은 채 사실이라고 믿거나 가정한다는 뜻이에요. 실제로는 틀릴 수도 있다는 뉘앙스가 있어서 Don't assume!은 지레짐작하지 말라는 경고예요. assume that절 형태를 가장 많이 써요. 책임이나 직책을 맡는다는 뜻도 있어서 assume responsibility, assume power처럼 격식 있는 문맥에 나와요. suppose와 비슷하지만 assume은 근거 없이 당연하게 여기는 느낌이 강해요. 수학이나 논문에서 '~라고 가정하자'라는 의미로도 쓰여요.",
+  "also": [
+   {
+    "w": "assumed",
+    "pos": "adj",
+    "ko": "가정된, 가짜의",
+    "en": "He traveled under an **assumed** name."
+   }
+  ]
+ },
+ {
+  "w": "assure",
+  "pos": "v",
+  "meaning_ko": "확신시키다, 보장하다",
+  "example_en": "I can **assure** you that everything is under control.",
+  "example_ko": "모든 게 통제되고 있다고 장담할게요.",
+  "nuance_ko": "assure는 상대가 걱정하지 않도록 단언하고 안심시킨다는 뜻이에요. assure someone that절 또는 assure someone of something 구문이에요. ensure(확실히 하다)와 insure(보험을 들다)와 철자가 비슷해서 헷갈리기 쉬워요. assure는 사람을 안심시키고, ensure는 일이 되도록 확실히 만드는 거예요. I assure you는 격식 있는 강조 표현이라서 서비스 직원이 자주 써요. rest assured는 '안심하세요'라는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "assurance",
+    "pos": "n",
+    "ko": "보장, 확신",
+    "en": "He gave us his **assurance** that it was safe."
+   },
+   {
+    "w": "reassure",
+    "pos": "v",
+    "ko": "안심시키다",
+    "en": "The doctor **reassured** the family."
+   },
+   {
+    "w": "assured",
+    "pos": "adj",
+    "ko": "확실한, 자신감 있는",
+    "en": "Her success is **assured**."
+   }
+  ]
+ },
+ {
+  "w": "atmosphere",
+  "pos": "n",
+  "meaning_ko": "분위기, 대기",
+  "example_en": "The café has such a warm and relaxed **atmosphere**.",
+  "example_ko": "그 카페는 분위기가 아주 따뜻하고 여유로워.",
+  "nuance_ko": "atmosphere는 지구를 둘러싼 대기라는 과학적 뜻과, 장소나 상황이 주는 분위기라는 뜻이 있어요. 일상에서는 후자가 훨씬 자주 나와서 a friendly atmosphere, a tense atmosphere처럼 써요. 식당 리뷰에서는 food, service와 함께 atmosphere를 평가해요. mood는 사람의 기분이고, atmosphere는 공간 전체의 느낌이에요. 철자가 길어서 sphere 앞의 mos를 빼먹는 실수를 자주 해요. 비슷한 단어 ambience는 더 세련된 느낌이에요.",
+  "also": [
+   {
+    "w": "atmospheric",
+    "pos": "adj",
+    "ko": "대기의, 분위기 있는",
+    "en": "The film has a dark, **atmospheric** style."
+   }
+  ]
+ },
+ {
+  "w": "attach",
+  "pos": "v",
+  "meaning_ko": "붙이다, 첨부하다",
+  "example_en": "I've **attached** the report to this email.",
+  "example_ko": "이 이메일에 보고서를 첨부했어요.",
+  "nuance_ko": "attach는 한 물건을 다른 것에 붙이거나 연결한다는 뜻이에요. 이메일에서 첨부파일을 붙일 때 가장 자주 써요. attach A to B 구문이고 with를 쓰지 않아요. be attached to someone은 '~에게 정이 들다'라는 감정적인 뜻으로도 써요. 반대말은 detach예요. stick은 접착제로 붙이는 느낌이고, attach는 고정하거나 연결한다는 느낌이에요.",
+  "also": [
+   {
+    "w": "attachment",
+    "pos": "n",
+    "ko": "첨부파일, 애착",
+    "en": "Please open the **attachment** I sent."
+   },
+   {
+    "w": "attached",
+    "pos": "adj",
+    "ko": "애착을 가진, 첨부된",
+    "en": "He is very **attached** to his old car."
+   }
+  ]
+ },
+ {
+  "w": "attack",
+  "pos": "v",
+  "meaning_ko": "공격하다, 공격",
+  "example_en": "The dog suddenly **attacked** the mailman.",
+  "example_ko": "개가 갑자기 집배원을 덮쳤어.",
+  "nuance_ko": "attack은 물리적 공격뿐 아니라 말로 비난하거나 질병이 발작할 때도 써요. a heart attack(심장마비), an attack on the policy(정책 비난)처럼 폭넓게 쓰여요. 스포츠에서 공격 진영도 attack이라고 해요. 전치사는 attack on이 흔하고 under attack은 '공격받는 중'이에요. 반대말은 defend예요. assault는 폭행이라는 법적 느낌이 강해요.",
+  "also": [
+   {
+    "w": "attacker",
+    "pos": "n",
+    "ko": "공격자",
+    "en": "The police are looking for the **attacker**."
+   }
+  ]
+ },
+ {
+  "w": "attempt",
+  "pos": "v",
+  "meaning_ko": "시도하다, 시도",
+  "example_en": "She **attempted** to climb the wall but slipped.",
+  "example_ko": "그녀는 벽을 오르려 했지만 미끄러졌어.",
+  "nuance_ko": "attempt는 어려운 일을 해 보려는 시도를 뜻해요. attempt to do 또는 make an attempt to do로 써요. try보다 격식 있고, 결과가 실패일 수 있다는 암시가 있어요. an attempt on someone's life는 암살 시도처럼 심각한 맥락에서 써요. in an attempt to는 '~하려는 목적으로'라는 뜻이에요. 뉴스나 보고서에서 자주 나오는 단어예요.",
+  "also": [
+   {
+    "w": "attempted",
+    "pos": "adj",
+    "ko": "미수의, 시도된",
+    "en": "He was charged with **attempted** robbery."
+   }
+  ]
+ },
+ {
+  "w": "attend",
+  "pos": "v",
+  "meaning_ko": "참석하다, 다니다, 돌보다",
+  "example_en": "Over two hundred people **attended** the opening ceremony.",
+  "example_ko": "2백 명 넘는 사람들이 개막식에 참석했어.",
+  "nuance_ko": "attend는 행사나 학교에 참석하거나 다닌다는 뜻의 타동사예요. attend to the meeting이라고 쓰면 틀리고 attend the meeting이라고 해요. attend to는 별개로 '~를 처리하다, 돌보다'라는 뜻이에요. 한국어에서는 참석한다고 하지만 영어는 go to가 더 구어체이고 attend는 격식 있어요. 병원에서 attending physician은 담당 의사예요. 명사형 attendance는 출석을 뜻해요.",
+  "also": [
+   {
+    "w": "attendance",
+    "pos": "n",
+    "ko": "출석, 참석자 수",
+    "en": "**Attendance** at the lecture was low."
+   },
+   {
+    "w": "attendant",
+    "pos": "n",
+    "ko": "안내원, 승무원",
+    "en": "A flight **attendant** brought us water."
+   }
+  ]
+ },
+ {
+  "w": "attention",
+  "pos": "n",
+  "meaning_ko": "주의, 관심",
+  "example_en": "Can I have your **attention** for a moment, please?",
+  "example_ko": "잠깐 주목해 주시겠어요?",
+  "nuance_ko": "attention은 무언가에 기울이는 주의와 관심을 뜻하는 셀 수 없는 명사예요. pay attention to(~에 주의를 기울이다), get someone's attention, attract attention이 대표 짝꿍이에요. 전치사는 to이고 pay attention on은 틀려요. Attention please!는 공공장소 방송의 첫마디예요. interest는 흥미이고 attention은 집중해서 쓰는 마음이에요. draw attention to는 '~로 시선을 끌다'라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "attitude",
+  "pos": "n",
+  "meaning_ko": "태도, 자세",
+  "example_en": "I like his positive **attitude** toward work.",
+  "example_ko": "일에 대한 그 친구의 긍정적인 태도가 좋아.",
+  "nuance_ko": "attitude는 사람이나 일에 대해 갖는 생각과 마음가짐이 겉으로 드러난 태도를 말해요. a positive attitude, a bad attitude, attitude toward + 대상으로 써요. 구어체에서 have an attitude는 '건방진 태도를 보이다'라는 뜻이에요. 한국어 '태도'처럼 행동보다 마음가짐에 가까워요. manner는 행동 방식이고, attitude는 속마음에 가까워요. 직장 후기에서 자주 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "attract",
+  "pos": "v",
+  "meaning_ko": "끌어들이다, 마음을 끌다",
+  "example_en": "The festival **attracts** thousands of visitors every year.",
+  "example_ko": "그 축제는 해마다 수천 명의 방문객을 끌어모아.",
+  "nuance_ko": "attract는 사람이나 사물을 자기 쪽으로 끌어당긴다는 동사예요. attract attention, attract customers, be attracted to someone이 자주 쓰여요. 자석처럼 물리적으로 끌 때도 쓰고, 이성에게 매력을 느낄 때는 be attracted to를 써요. 반대말은 repel이에요. pull은 힘으로 끌어당기는 거고 attract는 매력으로 끄는 거예요. 형용사 attractive는 외모뿐 아니라 조건이 좋을 때도 써요.",
+  "also": [
+   {
+    "w": "attractive",
+    "pos": "adj",
+    "ko": "매력적인",
+    "en": "They made an **attractive** offer."
+   },
+   {
+    "w": "attraction",
+    "pos": "n",
+    "ko": "명소, 끌림",
+    "en": "The tower is a major tourist **attraction**."
+   }
+  ]
+ },
+ {
+  "w": "august",
+  "pos": "n",
+  "meaning_ko": "8월",
+  "example_en": "We always take our summer vacation in **August**.",
+  "example_ko": "우리는 늘 8월에 여름휴가를 가.",
+  "nuance_ko": "August는 8월이고 항상 대문자로 써요. in August, on August 15th처럼 전치사를 구분하세요. 소문자 august [어거스트]는 '위엄 있는, 존엄한'이라는 드문 형용사예요. 월 이름은 로마 황제 아우구스투스에서 왔어요. 약어는 Aug.이에요. 북반구에서는 한여름이라서 holidays 시즌으로 말해요.",
+  "also": []
+ },
+ {
+  "w": "automatic",
+  "pos": "adj",
+  "meaning_ko": "자동의, 무의식적인",
+  "example_en": "My car has an **automatic** transmission.",
+  "example_ko": "내 차는 자동변속기야.",
+  "nuance_ko": "automatic은 사람이 직접 조작하지 않아도 저절로 작동한다는 뜻이에요. an automatic door, automatic payment처럼 기계나 시스템에 써요. 반사적으로 나오는 행동에도 써서 an automatic reaction이라고 해요. 자동차에서는 automatic이 자동변속기 차를 가리키고, 반대말은 manual이에요. 권한이 자동으로 주어질 때도 automatic right라고 해요. 부사형 automatically는 '자동으로, 저절로'예요.",
+  "also": [
+   {
+    "w": "automatically",
+    "pos": "adv",
+    "ko": "자동으로",
+    "en": "The lights turn on **automatically** at night."
+   }
+  ]
+ },
+ {
+  "w": "available",
+  "pos": "adj",
+  "meaning_ko": "이용할 수 있는, 시간이 되는",
+  "example_en": "Is the doctor **available** this afternoon?",
+  "example_ko": "의사 선생님 오늘 오후에 시간 되세요?",
+  "nuance_ko": "available은 사물이면 구할 수 있거나 사용할 수 있는 상태, 사람이면 시간이 비어 있는 상태를 말해요. be available for, available online, available from처럼 써요. 제품 설명에서 available in three colors는 '세 가지 색으로 나와 있다'는 뜻이에요. free는 비용이 없거나 한가하다는 의미이고, available은 이용 가능이라는 점이 더 정확해요. 연애 맥락에서 available은 '솔로이다'라는 뜻이기도 해요. 반대말 unavailable은 구할 수 없거나 자리를 비운 상태예요.",
+  "also": [
+   {
+    "w": "availability",
+    "pos": "n",
+    "ko": "이용 가능성",
+    "en": "Please check the room **availability** first."
+   },
+   {
+    "w": "unavailable",
+    "pos": "adj",
+    "ko": "이용할 수 없는",
+    "en": "That item is currently **unavailable**."
+   }
+  ]
+ },
+ {
+  "w": "average",
+  "pos": "n",
+  "meaning_ko": "평균, 보통의",
+  "example_en": "On **average**, I read about two books a month.",
+  "example_ko": "평균적으로 한 달에 책을 두 권쯤 읽어.",
+  "nuance_ko": "average는 평균 수치와 '평범한'이라는 뜻을 같이 가져요. on average, above average, an average person이 대표 표현이에요. 사람에게 average라고 하면 평범하다는 말이라서 약간 아쉬운 평가로 들릴 수 있어요. mean은 수학적 평균, average는 일상에서 통칭하는 평균이에요. 동사로도 써서 It averages 20 dollars는 '평균 20달러이다'라는 뜻이에요. 한국어 '애버리지'는 야구 타율 때도 쓰죠.",
+  "also": []
+ },
+ {
+  "w": "avoid",
+  "pos": "v",
+  "meaning_ko": "피하다, 막다",
+  "example_en": "I try to **avoid** driving during rush hour.",
+  "example_ko": "난 출퇴근 시간에는 운전을 피하려고 해.",
+  "nuance_ko": "avoid는 어떤 일이나 사람을 일부러 피한다는 뜻이에요. 뒤에 동사가 올 때는 -ing를 써서 avoid doing이고 to do는 틀려요. avoid someone은 일부러 마주치지 않는다는 뜻이에요. escape는 위험에서 벗어나는 것이고, avoid는 미리 비켜가는 거예요. avoid the question은 대답을 회피하는 표현이에요. 건강 관련 조언에서 avoid sugar처럼 많이 보여요.",
+  "also": [
+   {
+    "w": "avoidance",
+    "pos": "n",
+    "ko": "회피",
+    "en": "Tax **avoidance** is legal but controversial."
+   },
+   {
+    "w": "unavoidable",
+    "pos": "adj",
+    "ko": "피할 수 없는",
+    "en": "The delay was **unavoidable**."
+   }
+  ]
+ },
+ {
+  "w": "awake",
+  "pos": "adj",
+  "meaning_ko": "깨어 있는, 깨다",
+  "example_en": "I was **awake** all night because of the noise.",
+  "example_ko": "소음 때문에 밤새 한숨도 못 잤어.",
+  "nuance_ko": "awake는 잠에서 깬 상태를 나타내는 형용사로 be awake, stay awake처럼 서술적으로 써요. 명사 앞에는 waking이나 wide-awake처럼 바꿔요. 동사로는 awake-awoke-awoken이지만 일상에서는 wake up이 훨씬 자연스러워요. wake up은 깨어나는 동작이고 awake는 깨어 있는 상태예요. 비유적으로 awaken은 어떤 감정이나 의식이 깨어난다는 문어체 표현이에요. 반대말은 asleep이에요.",
+  "also": [
+   {
+    "w": "awaken",
+    "pos": "v",
+    "ko": "깨우다, 일깨우다",
+    "en": "The story **awakened** old memories."
+   },
+   {
+    "w": "awakening",
+    "pos": "n",
+    "ko": "각성, 눈뜸",
+    "en": "The trip was a real **awakening** for her."
+   }
+  ]
+ },
+ {
+  "w": "awkward",
+  "pos": "adj",
+  "meaning_ko": "어색한, 불편한, 다루기 힘든",
+  "example_en": "It was an **awkward** silence after he told the joke.",
+  "example_ko": "그가 농담을 하고 나서 어색한 침묵이 흘렀어.",
+  "nuance_ko": "awkward는 사회적으로 어색하거나 불편한 상황, 또는 다루기 불편한 물건을 말해요. an awkward silence, feel awkward, an awkward question처럼 써요. 한국어 '어색하다'와 거의 같지만 '번거롭다, 불편한 위치'라는 뜻도 있어서 an awkward time은 시간이 곤란하다는 뜻이에요. embarrassed는 부끄러운 감정이고, awkward는 상황의 분위기를 묘사해요. 요즘 awkward!라고 감탄사처럼도 써요. 사람의 움직임이 서툴 때도 awkward라고 해요.",
+  "also": [
+   {
+    "w": "awkwardly",
+    "pos": "adv",
+    "ko": "어색하게",
+    "en": "He stood **awkwardly** at the door."
+   },
+   {
+    "w": "awkwardness",
+    "pos": "n",
+    "ko": "어색함",
+    "en": "I tried to hide my **awkwardness**."
+   }
+  ]
+ },
+ {
+  "w": "background",
+  "pos": "n",
+  "meaning_ko": "배경, 경력, 뒷배경",
+  "example_en": "She has a strong **background** in data analysis.",
+  "example_ko": "그녀는 데이터 분석 쪽에 탄탄한 경력이 있어.",
+  "nuance_ko": "background는 그림이나 사진의 배경, 사건의 배경, 개인의 학력·경력을 모두 가리켜요. 면접에서 Tell me about your background라고 하면 이력을 말해 달라는 뜻이에요. in the background는 눈에 띄지 않는 뒤쪽을 말해요. background noise는 배경 소음, background check는 신원 조회예요. 컴퓨터에서도 background app처럼 흔히 쓰여요. 반대는 foreground예요.",
+  "also": []
+ },
+ {
+  "w": "bacon",
+  "pos": "n",
+  "meaning_ko": "베이컨",
+  "example_en": "I'd like two eggs and some crispy **bacon**, please.",
+  "example_ko": "계란 두 개랑 바삭한 베이컨 주세요.",
+  "nuance_ko": "bacon은 돼지고기를 염장해서 만든 얇은 고기로 보통 셀 수 없는 명사예요. a piece of bacon, a strip of bacon으로 세요. 영국식 아침식사에 bacon and eggs가 빠지지 않아요. bring home the bacon은 '생계비를 벌어오다'라는 관용어예요. save someone's bacon은 위기에서 구해준다는 뜻이에요. 한국어 '베이컨'과 발음이 비슷하지만 [베이컨]처럼 첫 모음이 길어요.",
+  "also": []
+ },
+ {
+  "w": "bake",
+  "pos": "v",
+  "meaning_ko": "굽다",
+  "example_en": "I **baked** a chocolate cake for her birthday.",
+  "example_ko": "그녀 생일에 초콜릿 케이크를 구웠어.",
+  "nuance_ko": "bake는 오븐에서 빵, 케이크, 쿠키 같은 것을 굽는다는 뜻이에요. 고기를 오븐에 굽는 건 roast, 석쇠에 굽는 건 grill이라서 구분해야 해요. bake a cake처럼 목적어는 결과물이고, 재료를 직접 구울 때는 bake potatoes처럼 써요. 날씨가 몹시 덥다는 뜻으로 I'm baking이라고 하기도 해요. baking soda는 베이킹소다, baking powder는 베이킹파우더예요. 빵집은 bakery, 빵집 주인은 baker예요.",
+  "also": [
+   {
+    "w": "bakery",
+    "pos": "n",
+    "ko": "빵집",
+    "en": "The **bakery** opens at six every morning."
+   },
+   {
+    "w": "baker",
+    "pos": "n",
+    "ko": "제빵사",
+    "en": "My uncle is a **baker**."
+   }
+  ]
+ },
+ {
+  "w": "balance",
+  "pos": "n",
+  "meaning_ko": "균형, 잔액, 균형을 잡다",
+  "example_en": "It's hard to find a good **balance** between work and life.",
+  "example_ko": "일과 삶의 균형을 잡기가 쉽지 않아.",
+  "nuance_ko": "balance는 균형을 뜻하는 말이고 비유적으로도 자주 써요. work-life balance가 대표적이에요. 은행에서는 계좌 잔액을 뜻해서 check your balance라고 해요. lose one's balance는 '균형을 잃다'이고 keep one's balance는 '균형을 유지하다'예요. 동사로는 balance on one foot처럼 균형을 잡을 때 써요. on balance는 '모든 걸 고려할 때'라는 표현이에요.",
+  "also": [
+   {
+    "w": "balanced",
+    "pos": "adj",
+    "ko": "균형 잡힌",
+    "en": "She eats a **balanced** diet."
+   },
+   {
+    "w": "imbalance",
+    "pos": "n",
+    "ko": "불균형",
+    "en": "There is a gender **imbalance** in the team."
+   }
+  ]
+ },
+ {
+  "w": "banana",
+  "pos": "n",
+  "meaning_ko": "바나나",
+  "example_en": "I usually have a **banana** and coffee for breakfast.",
+  "example_ko": "난 보통 아침으로 바나나랑 커피를 먹어.",
+  "nuance_ko": "banana는 셀 수 있는 명사라서 a banana, two bananas로 써요. 한 송이는 a bunch of bananas예요. go bananas는 '미친 듯이 흥분하다, 화나다'라는 구어 표현이에요. top banana는 우두머리를 뜻하는 비격식 표현이에요. 껍질은 banana peel이고, 미끄러지는 건 슬랩스틱 코미디의 고전이에요. 발음은 [버내너]로 둘째 음절에 강세가 와요.",
+  "also": []
+ },
+ {
+  "w": "band",
+  "pos": "n",
+  "meaning_ko": "밴드, 띠, 무리",
+  "example_en": "My brother plays guitar in a local **band**.",
+  "example_ko": "우리 형은 동네 밴드에서 기타를 쳐.",
+  "nuance_ko": "band는 음악 밴드, 가는 띠, 사람들의 무리, 주파수 대역 같은 여러 뜻이 있어요. 음악에서는 join a band, form a band처럼 쓰여요. rubber band는 고무줄이고, wristband는 손목 밴드예요. 반창고는 Band-Aid라는 상표명에서 일반 명칭으로 쓰여요. 라디오 주파수 대역도 band라서 wide band처럼 말해요. group은 일반적인 집단이고 band는 음악 그룹이나 작은 무리라는 느낌이 강해요.",
+  "also": []
+ },
+ {
+  "w": "bang",
+  "pos": "n",
+  "meaning_ko": "쾅 하는 소리, 세게 치다",
+  "example_en": "I heard a loud **bang** from the kitchen.",
+  "example_ko": "부엌에서 쾅 하는 큰 소리가 났어.",
+  "nuance_ko": "bang은 문을 닫거나 부딪쳐서 나는 쾅 소리를 말해요. 동사로는 세게 치거나 부딪치다라는 뜻이라서 bang the door, bang my head on the shelf처럼 써요. with a bang은 '요란하게'라는 뜻이고, go out with a bang은 화려하게 끝낸다는 비유예요. bangs는 미국식 영어로 앞머리를 뜻해요. 영국식으로는 fringe예요. big bang theory의 bang도 같은 폭발음이에요.",
+  "also": [
+   {
+    "w": "banging",
+    "pos": "n",
+    "ko": "쾅쾅 치는 소리",
+    "en": "The constant **banging** woke me up."
+   }
+  ]
+ },
+ {
+  "w": "bare",
+  "pos": "adj",
+  "meaning_ko": "벌거벗은, 텅 빈, 최소한의",
+  "example_en": "The children ran around in **bare** feet.",
+  "example_ko": "아이들이 맨발로 뛰어다녔어.",
+  "nuance_ko": "bare는 덮개가 없는 상태, 즉 맨몸이나 빈 상태를 말해요. bare feet, bare hands, a bare room처럼 써요. the bare minimum은 '최소한의 것'이라서 do the bare minimum이면 겨우 할 일만 하는 거예요. bear(곰, 참다)와 발음이 같아서 철자를 주의해야 해요. 동사로는 bare one's teeth처럼 '드러내다'라는 뜻이에요. naked는 옷을 안 입은 몸을 말하고 bare는 일부 부위에도 쓸 수 있어요.",
+  "also": [
+   {
+    "w": "barely",
+    "pos": "adv",
+    "ko": "간신히, 거의 ~않다",
+    "en": "I could **barely** hear him over the music."
+   }
+  ]
+ },
+ {
+  "w": "bark",
+  "pos": "v",
+  "meaning_ko": "짖다, 나무껍질",
+  "example_en": "The neighbor's dog **barks** every time someone walks by.",
+  "example_ko": "이웃집 개는 누가 지나갈 때마다 짖어.",
+  "nuance_ko": "bark는 개가 짖는 소리나 그렇게 짖는 행동이에요. 사람이 날카롭게 명령하듯 말할 때도 bark orders라고 써요. 명사로는 나무껍질이라는 뜻도 있어서 tree bark라고 해요. His bark is worse than his bite는 '말은 험해도 실제론 순한 사람이야'라는 속담이에요. bark up the wrong tree는 엉뚱한 곳에서 찾는다는 관용 표현이에요. 고양이는 meow, 새는 chirp처럼 동물마다 동사가 달라요.",
+  "also": []
+ },
+ {
+  "w": "basis",
+  "pos": "n",
+  "meaning_ko": "기초, 근거, 방식",
+  "example_en": "We meet on a regular **basis** to review progress.",
+  "example_ko": "우린 진행 상황을 점검하려고 정기적으로 만나.",
+  "nuance_ko": "basis는 어떤 것의 토대나 근거, 또는 일이 진행되는 방식을 뜻해요. on a daily basis(매일), on a regular basis, on the basis of(~을 근거로)처럼 굳어진 표현이 많아요. 복수형은 bases [베이시즈]로 철자가 base와 같아서 헷갈려요. base는 물리적 기반이고 basis는 추상적 근거라는 차이가 있어요. no basis in fact는 '사실 근거가 없다'는 표현이에요. 비즈니스와 뉴스에서 아주 흔해요.",
+  "also": []
+ },
+ {
+  "w": "basket",
+  "pos": "n",
+  "meaning_ko": "바구니",
+  "example_en": "She carried a **basket** of fresh strawberries home.",
+  "example_ko": "그녀는 신선한 딸기 바구니를 들고 집에 왔어.",
+  "nuance_ko": "basket은 물건을 담는 바구니예요. a shopping basket, a picnic basket, a laundry basket처럼 용도가 앞에 붙어요. 온라인 쇼핑에서 장바구니는 영국식은 basket, 미국식은 cart로 달라요. 농구에서는 골대나 득점을 의미해서 make a basket이라고 해요. don't put all your eggs in one basket은 '한 곳에 모든 걸 걸지 마라'라는 유명한 속담이에요. 비슷한 bin은 쓰레기통 같은 통이에요.",
+  "also": []
+ },
+ {
+  "w": "bat",
+  "pos": "n",
+  "meaning_ko": "방망이, 박쥐",
+  "example_en": "He swung the **bat** and hit a home run.",
+  "example_ko": "그가 방망이를 휘둘러서 홈런을 쳤어.",
+  "nuance_ko": "bat는 야구나 크리켓의 방망이와 동물 박쥐라는 서로 다른 뜻이 있어요. 문맥을 보면 구분돼요. 동사로는 타자가 타석에 서다라는 뜻으로 bat first, bat third처럼 써요. blind as a bat은 눈이 매우 나쁘다는 관용어이고, off the bat는 즉시라는 뜻이에요. 야구 타자는 batter라고 하고, 배터리의 battery와는 다른 단어예요. 한국어 '배트'는 야구 방망이만 가리키지만 영어는 훨씬 넓어요.",
+  "also": []
+ },
+ {
+  "w": "battery",
+  "pos": "n",
+  "meaning_ko": "배터리, 건전지",
+  "example_en": "My phone **battery** dies after just three hours.",
+  "example_ko": "내 폰 배터리는 세 시간만 지나면 방전돼.",
+  "nuance_ko": "battery는 전기를 저장하는 전지를 말해요. a dead battery(방전), charge the battery, replace the batteries 같은 표현이 흔해요. 전지가 다 닳았을 때는 run out이나 die를 써요. 법률 용어로 battery는 폭행죄를 뜻하기도 하지만 일상에서는 드물어요. a battery of tests는 '일련의 많은 검사'를 뜻해요. 발음은 [배터리]처럼 두 번째 음절이 약해요.",
+  "also": []
+ },
+ {
+  "w": "battle",
+  "pos": "n",
+  "meaning_ko": "전투, 싸움, 투쟁",
+  "example_en": "She won her long **battle** with cancer last year.",
+  "example_ko": "그녀는 작년에 오랜 암 투병에서 이겼어.",
+  "nuance_ko": "battle은 전투뿐 아니라 어려운 상황과의 오랜 싸움을 비유할 때도 써요. fight a battle, win the battle, an uphill battle(힘겨운 싸움)이 자주 쓰여요. war는 전쟁 전체이고 battle은 그 안의 개별 전투예요. a battle of wits는 '두뇌 싸움'이라는 표현이에요. 동사로 battle against/with도 가능해요. 뉴스와 스포츠 중계에서 긴장감을 주려고 자주 사용해요.",
+  "also": []
+ },
+ {
+  "w": "bay",
+  "pos": "n",
+  "meaning_ko": "만, 구역",
+  "example_en": "We watched the boats sailing across the **bay**.",
+  "example_ko": "우리는 만을 가로질러 가는 배들을 지켜봤어.",
+  "nuance_ko": "bay는 바다가 육지로 들어온 만을 가리켜요. San Francisco Bay처럼 지명에도 많이 나와요. 건물 안의 구획을 뜻할 때도 써서 a loading bay(하역장), a parking bay(주차 칸)라고 해요. keep something at bay는 '위협이나 문제를 막아두다'라는 관용 표현이에요. 개가 짖는 소리나 월계수 잎(bay leaf)이라는 뜻도 있어요. gulf는 bay보다 훨씬 큰 만이에요.",
+  "also": []
+ },
+ {
+  "w": "bean",
+  "pos": "n",
+  "meaning_ko": "콩, 원두",
+  "example_en": "I like to add black **beans** to my salad.",
+  "example_ko": "난 샐러드에 검은콩을 넣어 먹는 게 좋아.",
+  "nuance_ko": "bean은 콩이고 coffee bean(원두), green beans(껍질콩), soybean(대두)처럼 종류가 많아요. spill the beans는 '비밀을 누설하다'라는 유명한 관용어예요. not worth a bean은 '가치가 전혀 없다'는 오래된 표현이에요. full of beans는 기운이 넘친다는 뜻이에요. Mr. Bean처럼 콩과 별개의 인물 이름으로도 쓰여요. 한국어 '빈'이 아니라 [빈-]처럼 길게 읽어요.",
+  "also": []
+ },
+ {
+  "w": "bee",
+  "pos": "n",
+  "meaning_ko": "벌, 꿀벌",
+  "example_en": "A **bee** landed on my sandwich at the picnic.",
+  "example_ko": "소풍에서 벌이 내 샌드위치에 앉았어.",
+  "nuance_ko": "bee는 꿀벌 같은 벌을 말하고 wasp(말벌)와 구분해요. as busy as a bee는 '매우 바쁘다'라는 비유예요. the bee's knees는 '최고'라는 오래된 속어예요. spelling bee는 철자 맞추기 대회로, 사람이 모여서 하는 모임을 bee라고 부르는 데서 왔어요. have a bee in one's bonnet은 한 가지에 집착한다는 표현이에요. 꿀벌 군집은 a hive라고 해요.",
+  "also": []
+ },
+ {
+  "w": "beef",
+  "pos": "n",
+  "meaning_ko": "소고기, 불만",
+  "example_en": "We had grilled **beef** and vegetables for dinner.",
+  "example_ko": "저녁으로 소고기 구이랑 채소를 먹었어.",
+  "nuance_ko": "beef는 소고기를 가리키는 셀 수 없는 명사예요. 동물 cow가 아니라 고기를 말할 때 beef를 써요. 같은 원리로 pork(돼지고기), mutton(양고기)도 동물 이름과 달라요. 구어체에서 have a beef with someone은 '~에게 불만이 있다'라는 뜻이에요. beef up은 '강화하다'라는 의미의 구동사예요. 소고기 요리는 steak, roast beef, ground beef 등으로 세분돼요.",
+  "also": []
+ },
+ {
+  "w": "beer",
+  "pos": "n",
+  "meaning_ko": "맥주",
+  "example_en": "Let's grab a **beer** after work on Friday.",
+  "example_ko": "금요일에 퇴근하고 맥주 한잔하자.",
+  "nuance_ko": "beer는 맥주이고 셀 수 없는 물질명사지만 주문할 때는 a beer, two beers처럼 셀 수 있게 말해요. draft beer는 생맥주, craft beer는 수제 맥주예요. on tap은 생맥주로 나온다는 뜻이에요. grab a beer는 가볍게 한잔하자는 구어체 표현이에요. 영국식에서는 ale이나 lager처럼 종류 이름으로 부르기도 해요. beer는 술자리 문화에서 쓰는 일상 단어라 격식 있는 자리에서는 drinks를 써요.",
+  "also": []
+ },
+ {
+  "w": "beg",
+  "pos": "v",
+  "meaning_ko": "간청하다, 구걸하다",
+  "example_en": "I **begged** him to give me one more chance.",
+  "example_ko": "나는 한 번만 더 기회를 달라고 그에게 애원했어.",
+  "nuance_ko": "beg는 절실하게 부탁하거나 구걸한다는 뜻이에요. beg someone to do, beg for help 구문을 써요. I beg your pardon은 정중하게 되묻거나 사과할 때 쓰는 격식 있는 표현이에요. beg the question은 원래 논점을 회피하는 오류를 뜻하는데 일상에서는 '~라는 의문이 생긴다'라고 쓰기도 해요. ask보다 훨씬 강한 간청이에요. 개가 앞발을 들고 먹이를 기다리는 모습에도 beg를 써요.",
+  "also": [
+   {
+    "w": "beggar",
+    "pos": "n",
+    "ko": "거지, 구걸하는 사람",
+    "en": "A **beggar** sat outside the station."
+   }
+  ]
+ },
+ {
+  "w": "bell",
+  "pos": "n",
+  "meaning_ko": "종, 벨",
+  "example_en": "The school **bell** rang and everyone ran outside.",
+  "example_ko": "학교 종이 울리자 모두 밖으로 뛰어나갔어.",
+  "nuance_ko": "bell은 종이나 초인종처럼 소리를 내는 물건이에요. ring the bell, a doorbell, the bell rings 같은 표현이 흔해요. That rings a bell은 '그거 어디서 들어본 것 같아'라는 관용어예요. saved by the bell은 '종이 울려서 간신히 위기를 넘기다'라는 뜻으로 권투에서 나왔어요. 자전거에도 bell이 있어요. 한국어 '벨'은 초인종이나 벨소리를 뜻하는데 영어는 물리적인 종 자체에 초점이 있어요.",
+  "also": []
+ },
+ {
+  "w": "belong",
+  "pos": "v",
+  "meaning_ko": "~의 것이다, 소속되다",
+  "example_en": "This jacket doesn't **belong** to me. Is it yours?",
+  "example_ko": "이 재킷 내 거 아니야. 네 거야?",
+  "nuance_ko": "belong은 소유나 소속, 어울림을 나타내는 동사예요. belong to + 사람/집단 구문이 기본이고, 진행형으로 쓰지 않아요. 그래서 is belonging은 틀려요. 어디가 어울리는 자리인지 말할 때는 belong in/on을 써요. 예를 들어 Those books belong on the shelf. I don't belong here는 '여긴 내 자리가 아니야'라는 소외감을 표현해요. own은 소유하는 쪽에서, belong to는 소유되는 쪽에서 말하는 차이가 있어요.",
+  "also": [
+   {
+    "w": "belongings",
+    "pos": "n",
+    "ko": "소지품",
+    "en": "Please keep your **belongings** with you."
+   }
+  ]
+ },
+ {
+  "w": "belt",
+  "pos": "n",
+  "meaning_ko": "벨트, 띠 모양 지대",
+  "example_en": "Please fasten your seat **belt** before takeoff.",
+  "example_ko": "이륙 전에 안전벨트를 매 주세요.",
+  "nuance_ko": "belt는 허리띠뿐 아니라 seat belt(안전벨트), conveyor belt(컨베이어 벨트), 지리적 띠 모양 지역(the Rust Belt)을 뜻해요. tighten one's belt는 '허리띠를 졸라매다'라는 절약 표현이에요. below the belt는 반칙처럼 비열한 짓을 가리켜요. 무술에서는 black belt가 최고 단계라서 전문가를 비유하기도 해요. 동사로 belt out은 노래를 크게 부르는 비격식 표현이에요. 한국어 '벨트'와 거의 같은 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "bend",
+  "pos": "v",
+  "meaning_ko": "구부리다, 휘다",
+  "example_en": "You need to **bend** your knees when you lift that box.",
+  "example_ko": "그 상자 들 때는 무릎을 구부려야 해.",
+  "nuance_ko": "bend는 곧은 것을 구부리거나 허리를 숙이는 동작이에요. 불규칙동사라서 bend-bent-bent예요. bend over backwards는 '온갖 노력을 다하다', bend the rules는 '규칙을 융통성 있게 적용하다'라는 관용 표현이에요. 명사로는 도로나 강의 굽은 곳을 뜻해서 a sharp bend라고 해요. break는 부러뜨리는 것이고 bend는 부러지지 않고 휘는 것이에요. 요가 같은 운동에서도 많이 나와요.",
+  "also": []
+ },
+ {
+  "w": "benefit",
+  "pos": "n",
+  "meaning_ko": "이익, 혜택, 수당",
+  "example_en": "Regular exercise has many health **benefits**.",
+  "example_ko": "규칙적인 운동은 건강에 좋은 점이 많아.",
+  "nuance_ko": "benefit은 어떤 일에서 얻는 이익이나 좋은 점을 말해요. 회사에서는 benefits가 복지 혜택을 뜻해서 health benefits, employee benefits처럼 써요. 사회복지 맥락에서는 정부 수당을 가리켜요. benefit from은 '~로 이득을 보다', for the benefit of는 '~를 위해서'예요. the benefit of the doubt는 '의심스럽지만 좋게 봐 주는 것'이라 give someone the benefit of the doubt라고 해요. advantage는 비교 우위이고 benefit은 얻는 이득이에요.",
+  "also": []
+ },
+ {
+  "w": "bike",
+  "pos": "n",
+  "meaning_ko": "자전거, 오토바이",
+  "example_en": "I ride my **bike** to work when the weather is nice.",
+  "example_ko": "날씨 좋을 땐 자전거 타고 출근해.",
+  "nuance_ko": "bike는 bicycle의 줄임말로 일상에서 거의 늘 bike를 써요. motorbike는 오토바이를 뜻하고, 맥락에 따라 bike만으로도 오토바이를 가리킬 수 있어요. ride a bike, go for a bike ride, bike lane이 자주 쓰여요. 동사로도 쓰여서 bike to work(자전거로 출근하다)라고 해요. cycle은 영국식에서 자주 쓰는 비슷한 동사예요. bike를 타는 건 ride, 들고 가는 건 carry예요.",
+  "also": []
+ },
+ {
+  "w": "bin",
+  "pos": "n",
+  "meaning_ko": "통, 쓰레기통",
+  "example_en": "Please put the empty bottles in the recycling **bin**.",
+  "example_ko": "빈 병은 재활용 통에 넣어 주세요.",
+  "nuance_ko": "bin은 뚜껑이 있거나 큰 용기를 가리켜요. 영국식에서는 쓰레기통이 bin이고 미국식에서는 trash can이나 garbage can이라고 해요. recycling bin, bread bin처럼 용도가 붙어요. 동사로 bin it은 영국식 구어에서 '버리다'라는 뜻이에요. 컴퓨터에서 Recycle Bin(휴지통) 아이콘도 이 단어예요. 데이터 분석에서는 구간을 나누는 단위(bin)로도 써요.",
+  "also": []
+ },
+ {
+  "w": "bind",
+  "pos": "v",
+  "meaning_ko": "묶다, 구속하다",
+  "example_en": "The contract will **bind** both sides for five years.",
+  "example_ko": "그 계약은 양쪽을 5년간 구속할 거야.",
+  "nuance_ko": "bind는 물리적으로 묶는다는 뜻과, 계약이나 법이 구속한다는 뜻으로 쓰여요. 불규칙동사라서 bind-bound-bound예요. legally binding은 '법적 구속력이 있는'이라는 흔한 표현이에요. tie보다 강하고 튼튼하게 묶는 느낌이에요. 책을 제본하다는 뜻도 있어서 binding은 제본이나 책표지를 가리켜요. in a bind는 곤경에 처했다는 구어 표현이에요.",
+  "also": [
+   {
+    "w": "binding",
+    "pos": "adj",
+    "ko": "구속력 있는",
+    "en": "The agreement is legally **binding**."
+   },
+   {
+    "w": "bound",
+    "pos": "adj",
+    "ko": "~할 수밖에 없는, ~행의",
+    "en": "We are **bound** to lose at this rate."
+   }
+  ]
+ },
+ {
+  "w": "biscuit",
+  "pos": "n",
+  "meaning_ko": "비스킷, 쿠키",
+  "example_en": "I had a cup of tea and a **biscuit** after lunch.",
+  "example_ko": "점심 먹고 차 한 잔이랑 비스킷을 먹었어.",
+  "nuance_ko": "biscuit은 영국식에서는 바삭하고 달콤한 과자, 즉 쿠키를 말해요. 미국식에서는 부드럽고 짭짤한 빵이라서 gravy와 함께 아침식사로 먹어요. 같은 단어인데 나라에 따라 완전히 다른 음식이라는 점이 재미있어요. 미국식에서 쿠키는 cookie예요. take the biscuit는 영국식으로 '최악이다, 압권이다'라는 뜻의 관용 표현이에요. dog biscuit은 개 간식을 가리켜요.",
+  "also": []
+ },
+ {
+  "w": "bite",
+  "pos": "v",
+  "meaning_ko": "물다, 한 입",
+  "example_en": "The dog **bit** him on the leg.",
+  "example_ko": "개가 그의 다리를 물었어.",
+  "nuance_ko": "bite는 이로 깨물다라는 뜻이고 bite-bit-bitten으로 변해요. 모기에 물릴 때도 bite를 써서 I got bitten by a mosquito라고 해요. 명사로는 한 입을 뜻해서 take a bite of the pizza처럼 써요. let's grab a bite는 '간단히 뭐 좀 먹자'라는 구어 표현이에요. bite the bullet은 '이를 악물고 견디다', bite off more than you can chew는 '능력 이상의 일을 맡다'라는 관용 표현이에요. 한국어 '바이트'는 컴퓨터 단위라 철자가 byte로 달라요.",
+  "also": []
+ },
+ {
+  "w": "bitter",
+  "pos": "adj",
+  "meaning_ko": "쓴, 쓰라린, 몹시 추운",
+  "example_en": "This coffee is too **bitter** for me without sugar.",
+  "example_ko": "이 커피는 설탕 없이는 나한테 너무 써.",
+  "nuance_ko": "bitter는 맛이 쓰다는 뜻과, 감정이 쓰라리다는 뜻이 있어요. 감정에서는 원한이나 분함이 남아 있는 상태라서 feel bitter about the divorce처럼 써요. bitter cold는 살을 에는 듯한 추위를 뜻해요. a bitter pill to swallow는 '받아들이기 힘든 쓴 현실'이라는 관용어예요. sour(신)와 구분하고, bitter는 커피나 약처럼 쌉쌀한 맛이에요. bitter와 sweet를 같이 쓴 bittersweet는 달콤씁쓸한 감정을 뜻해요.",
+  "also": [
+   {
+    "w": "bitterly",
+    "pos": "adv",
+    "ko": "몹시, 쓰라리게",
+    "en": "It was **bitterly** cold outside."
+   },
+   {
+    "w": "bitterness",
+    "pos": "n",
+    "ko": "쓴맛, 원한",
+    "en": "There was no **bitterness** in his voice."
+   }
+  ]
+ },
+ {
+  "w": "blame",
+  "pos": "v",
+  "meaning_ko": "탓하다, 책임",
+  "example_en": "Don't **blame** yourself. It wasn't your fault.",
+  "example_ko": "자책하지 마. 네 잘못이 아니야.",
+  "nuance_ko": "blame은 어떤 나쁜 일의 책임을 누군가에게 돌린다는 뜻이에요. blame A for B(B 때문에 A를 탓하다), blame B on A(B를 A 탓으로 돌리다) 두 구문이 있어요. 명사로는 책임이나 비난이라서 take the blame, shift the blame처럼 써요. accuse는 구체적인 잘못을 지목하는 거고 blame은 원인을 돌리는 거예요. I don't blame you는 '네 입장 이해해'라는 공감의 표현이에요. be to blame은 '책임이 있다'는 뜻이에요.",
+  "also": [
+   {
+    "w": "blameless",
+    "pos": "adj",
+    "ko": "책임이 없는",
+    "en": "He was **blameless** in the accident."
+   }
+  ]
+ },
+ {
+  "w": "blank",
+  "pos": "adj",
+  "meaning_ko": "빈, 백지의, 멍한",
+  "example_en": "I just stared at the **blank** page for an hour.",
+  "example_ko": "난 한 시간 동안 빈 종이만 쳐다봤어.",
+  "nuance_ko": "blank는 아무것도 적히지 않은 비어 있는 상태를 말해요. a blank page, a blank check, leave it blank처럼 써요. 표정이 멍하면 a blank look이라고 해요. my mind went blank는 머릿속이 하얘졌다는 뜻이에요. 명사로 fill in the blanks는 빈칸을 채우라는 뜻이에요. empty는 안에 든 게 없다는 의미이고 blank는 쓰거나 채워질 자리가 비어 있다는 느낌이에요.",
+  "also": [
+   {
+    "w": "blankly",
+    "pos": "adv",
+    "ko": "멍하니",
+    "en": "She stared **blankly** at the screen."
+   }
+  ]
+ },
+ {
+  "w": "blanket",
+  "pos": "n",
+  "meaning_ko": "담요",
+  "example_en": "Could I get another **blanket**? It's a bit cold.",
+  "example_ko": "담요 하나 더 받을 수 있을까요? 좀 추워서요.",
+  "nuance_ko": "blanket은 담요이고 셀 수 있는 명사예요. a warm blanket, wrap in a blanket처럼 써요. 형용사처럼 쓰면 '전면적인'이라는 뜻이어서 a blanket ban(전면 금지), blanket coverage라고 해요. 비유적으로 눈이 덮은 모습도 a blanket of snow라고 해요. wet blanket은 분위기를 깨는 사람을 가리키는 관용 표현이에요. 얇은 이불은 quilt, 두꺼운 이불은 comforter라고도 해요.",
+  "also": []
+ },
+ {
+  "w": "bleed",
+  "pos": "v",
+  "meaning_ko": "피를 흘리다, 출혈하다",
+  "example_en": "My finger started to **bleed** after I cut it.",
+  "example_ko": "손가락을 베었더니 피가 나기 시작했어.",
+  "nuance_ko": "bleed는 피가 나는 상태를 말하는 동사이고 불규칙으로 bleed-bled-bled가 돼요. 코피는 have a nosebleed, 잇몸에서 피가 나면 gums are bleeding이라고 해요. 색이 번질 때도 bleed를 써서 the color bled onto the shirt라고 해요. 비유적으로 bleed money는 돈이 계속 새어나가는 걸 말해요. my heart bleeds for you는 때로 빈정거리는 말로 쓰이니 조심하세요. 명사 blood와 철자 연결이 되어 기억하기 쉬워요.",
+  "also": [
+   {
+    "w": "bleeding",
+    "pos": "n",
+    "ko": "출혈",
+    "en": "The doctor stopped the **bleeding** quickly."
+   }
+  ]
+ }
+]

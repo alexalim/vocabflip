@@ -1,0 +1,1044 @@
+[
+ {
+  "w": "suspicion",
+  "lvl": "2k",
+  "forms": [
+   "suspicious",
+   "suspicions",
+   "suspiciously"
+  ]
+ },
+ {
+  "w": "swallow",
+  "lvl": "2k",
+  "forms": [
+   "swallowed",
+   "swallowing",
+   "swallows"
+  ]
+ },
+ {
+  "w": "swear",
+  "lvl": "2k",
+  "forms": [
+   "sworn",
+   "swore",
+   "swearing",
+   "swears"
+  ]
+ },
+ {
+  "w": "sweep",
+  "lvl": "2k",
+  "forms": [
+   "swept",
+   "sweeping",
+   "sweeps",
+   "sweeper",
+   "sweepers"
+  ]
+ },
+ {
+  "w": "swing",
+  "lvl": "2k",
+  "forms": [
+   "swung",
+   "swinging",
+   "swings",
+   "swinger",
+   "swingers"
+  ]
+ },
+ {
+  "w": "switch",
+  "lvl": "2k",
+  "forms": [
+   "switched",
+   "switching",
+   "switches",
+   "switchable"
+  ]
+ },
+ {
+  "w": "sword",
+  "lvl": "2k",
+  "forms": [
+   "swords"
+  ]
+ },
+ {
+  "w": "tale",
+  "lvl": "2k",
+  "forms": [
+   "tales"
+  ]
+ },
+ {
+  "w": "tank",
+  "lvl": "2k",
+  "forms": [
+   "tanks",
+   "tankful",
+   "antitank",
+   "tankless"
+  ]
+ },
+ {
+  "w": "tap",
+  "lvl": "2k",
+  "forms": [
+   "tapped",
+   "tapping",
+   "taps",
+   "untapped",
+   "tapper",
+   "tappers"
+  ]
+ },
+ {
+  "w": "taxi",
+  "lvl": "2k",
+  "forms": [
+   "taxis",
+   "taxied",
+   "taxiing"
+  ]
+ },
+ {
+  "w": "tease",
+  "lvl": "2k",
+  "forms": [
+   "teasing",
+   "teased",
+   "teasingly",
+   "teaser",
+   "teases",
+   "teasers"
+  ]
+ },
+ {
+  "w": "technology",
+  "lvl": "2k",
+  "forms": [
+   "technological",
+   "technologies",
+   "tech",
+   "technologically",
+   "technologists",
+   "technologist"
+  ]
+ },
+ {
+  "w": "teenage",
+  "lvl": "2k",
+  "forms": [
+   "teenagers",
+   "teenager",
+   "teenaged"
+  ]
+ },
+ {
+  "w": "tempt",
+  "lvl": "2k",
+  "forms": [
+   "tempted",
+   "temptation",
+   "tempting",
+   "temptations",
+   "tempts"
+  ]
+ },
+ {
+  "w": "tense",
+  "lvl": "2k",
+  "forms": [
+   "tension",
+   "tensions",
+   "tensed",
+   "tensing",
+   "tenses",
+   "tensely",
+   "tenseness",
+   "tenser"
+  ]
+ },
+ {
+  "w": "tent",
+  "lvl": "2k",
+  "forms": [
+   "tents",
+   "tented"
+  ]
+ },
+ {
+  "w": "th",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "theatre",
+  "lvl": "2k",
+  "forms": [
+   "theatrical",
+   "theatres",
+   "theatrically",
+   "theater",
+   "theatricality",
+   "theatrics",
+   "theatric",
+   "theaters"
+  ]
+ },
+ {
+  "w": "therefore",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "thief",
+  "lvl": "2k",
+  "forms": [
+   "thieves",
+   "thieving",
+   "thieved",
+   "thievery"
+  ]
+ },
+ {
+  "w": "thin",
+  "lvl": "2k",
+  "forms": [
+   "thinly",
+   "thinner",
+   "thinning",
+   "thinned",
+   "thinness",
+   "thinnest",
+   "thins"
+  ]
+ },
+ {
+  "w": "threat",
+  "lvl": "2k",
+  "forms": [
+   "threatened",
+   "threatening",
+   "threats",
+   "threaten",
+   "threatens",
+   "threateningly",
+   "unthreatening"
+  ]
+ },
+ {
+  "w": "thus",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "ticket",
+  "lvl": "2k",
+  "forms": [
+   "tickets",
+   "ticketless",
+   "ticketting",
+   "ticketted",
+   "ticketed"
+  ]
+ },
+ {
+  "w": "tide",
+  "lvl": "2k",
+  "forms": [
+   "tidal",
+   "tides",
+   "intertidal"
+  ]
+ },
+ {
+  "w": "tin",
+  "lvl": "2k",
+  "forms": [
+   "tins",
+   "tinned",
+   "tinny",
+   "tinful",
+   "tinfuls"
+  ]
+ },
+ {
+  "w": "tiny",
+  "lvl": "2k",
+  "forms": [
+   "tiniest",
+   "tinier",
+   "tininess"
+  ]
+ },
+ {
+  "w": "tip",
+  "lvl": "2k",
+  "forms": [
+   "tips",
+   "tipped",
+   "tipping",
+   "tipper",
+   "tippers"
+  ]
+ },
+ {
+  "w": "title",
+  "lvl": "2k",
+  "forms": [
+   "titles",
+   "titled",
+   "untitled",
+   "titling"
+  ]
+ },
+ {
+  "w": "toast",
+  "lvl": "2k",
+  "forms": [
+   "toasted",
+   "toaster",
+   "toasts",
+   "toasting",
+   "toasters",
+   "toasty",
+   "untoasted",
+   "toastier"
+  ]
+ },
+ {
+  "w": "toe",
+  "lvl": "2k",
+  "forms": [
+   "toes",
+   "toed",
+   "toeing"
+  ]
+ },
+ {
+  "w": "toilet",
+  "lvl": "2k",
+  "forms": [
+   "toilets",
+   "toileting",
+   "toileted"
+  ]
+ },
+ {
+  "w": "tomato",
+  "lvl": "2k",
+  "forms": [
+   "tomatoes"
+  ]
+ },
+ {
+  "w": "tone",
+  "lvl": "2k",
+  "forms": [
+   "tones",
+   "tonal",
+   "toned",
+   "toner",
+   "toning",
+   "tonality",
+   "tonelessly",
+   "toneless"
+  ]
+ },
+ {
+  "w": "tongue",
+  "lvl": "2k",
+  "forms": [
+   "tongues",
+   "tongued"
+  ]
+ },
+ {
+  "w": "tool",
+  "lvl": "2k",
+  "forms": [
+   "tools",
+   "tooling",
+   "tooled"
+  ]
+ },
+ {
+  "w": "topic",
+  "lvl": "2k",
+  "forms": [
+   "topics",
+   "topical",
+   "topically",
+   "topicality"
+  ]
+ },
+ {
+  "w": "tough",
+  "lvl": "2k",
+  "forms": [
+   "tougher",
+   "toughest",
+   "toughness",
+   "toughened",
+   "toughen",
+   "toughening",
+   "toughly",
+   "toughens"
+  ]
+ },
+ {
+  "w": "tour",
+  "lvl": "2k",
+  "forms": [
+   "tourist",
+   "tourism",
+   "tourists",
+   "tours",
+   "touring",
+   "toured",
+   "tourer",
+   "touristic"
+  ]
+ },
+ {
+  "w": "towel",
+  "lvl": "2k",
+  "forms": [
+   "towels",
+   "towelling",
+   "towelette",
+   "towelettes"
+  ]
+ },
+ {
+  "w": "tower",
+  "lvl": "2k",
+  "forms": [
+   "towers",
+   "towering",
+   "towered"
+  ]
+ },
+ {
+  "w": "toy",
+  "lvl": "2k",
+  "forms": [
+   "toys",
+   "toyed",
+   "toying"
+  ]
+ },
+ {
+  "w": "trace",
+  "lvl": "2k",
+  "forms": [
+   "traced",
+   "traces",
+   "tracing",
+   "traceable",
+   "untraceable"
+  ]
+ },
+ {
+  "w": "trade",
+  "lvl": "2k",
+  "forms": [
+   "trading",
+   "trades",
+   "traders",
+   "traded",
+   "trader"
+  ]
+ },
+ {
+  "w": "tradition",
+  "lvl": "2k",
+  "forms": [
+   "traditional",
+   "traditionally",
+   "traditions",
+   "traditionalists",
+   "traditionalist",
+   "trad",
+   "traditionalism"
+  ]
+ },
+ {
+  "w": "traffic",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "transfer",
+  "lvl": "2k",
+  "forms": [
+   "transferred",
+   "transfers",
+   "transferring",
+   "transferable",
+   "transferor",
+   "transferee",
+   "transference",
+   "transferability"
+  ]
+ },
+ {
+  "w": "trap",
+  "lvl": "2k",
+  "forms": [
+   "trapped",
+   "traps",
+   "trapping",
+   "trapper",
+   "trappers"
+  ]
+ },
+ {
+  "w": "tray",
+  "lvl": "2k",
+  "forms": [
+   "trays"
+  ]
+ },
+ {
+  "w": "trial",
+  "lvl": "2k",
+  "forms": [
+   "trials",
+   "retrial",
+   "retrials",
+   "trialed",
+   "trialing",
+   "trialings"
+  ]
+ },
+ {
+  "w": "trick",
+  "lvl": "2k",
+  "forms": [
+   "tricks",
+   "tricky",
+   "tricked",
+   "trickery",
+   "trickier",
+   "tricking",
+   "trickiest",
+   "trickily"
+  ]
+ },
+ {
+  "w": "truck",
+  "lvl": "2k",
+  "forms": [
+   "trucks",
+   "truckers",
+   "trucking",
+   "trucker",
+   "trucked"
+  ]
+ },
+ {
+  "w": "trunk",
+  "lvl": "2k",
+  "forms": [
+   "trunks"
+  ]
+ },
+ {
+  "w": "tune",
+  "lvl": "2k",
+  "forms": [
+   "tunes",
+   "tuned",
+   "tuning",
+   "tuner",
+   "tuneful",
+   "tuners",
+   "tuneless",
+   "tunelessly"
+  ]
+ },
+ {
+  "w": "twin",
+  "lvl": "2k",
+  "forms": [
+   "twins",
+   "twinning",
+   "twinned"
+  ]
+ },
+ {
+  "w": "twist",
+  "lvl": "2k",
+  "forms": [
+   "twisted",
+   "twisting",
+   "twists",
+   "twisty",
+   "twister",
+   "twisters",
+   "untwisted",
+   "twistings"
+  ]
+ },
+ {
+  "w": "typical",
+  "lvl": "2k",
+  "forms": [
+   "typically",
+   "untypical",
+   "untypically"
+  ]
+ },
+ {
+  "w": "union",
+  "lvl": "2k",
+  "forms": [
+   "unions",
+   "unionist",
+   "unionists",
+   "unionism",
+   "unionization",
+   "unionisation",
+   "unionisms"
+  ]
+ },
+ {
+  "w": "unit",
+  "lvl": "2k",
+  "forms": [
+   "units",
+   "subunit",
+   "subunits"
+  ]
+ },
+ {
+  "w": "unite",
+  "lvl": "2k",
+  "forms": [
+   "united",
+   "reunited",
+   "uniting",
+   "unites",
+   "reunite",
+   "reuniting",
+   "reunites"
+  ]
+ },
+ {
+  "w": "university",
+  "lvl": "2k",
+  "forms": [
+   "universities",
+   "univ",
+   "preuniversity"
+  ]
+ },
+ {
+  "w": "upper",
+  "lvl": "2k",
+  "forms": [
+   "uppermost"
+  ]
+ },
+ {
+  "w": "upset",
+  "lvl": "2k",
+  "forms": [
+   "upsetting",
+   "upsets"
+  ]
+ },
+ {
+  "w": "valley",
+  "lvl": "2k",
+  "forms": [
+   "valleys"
+  ]
+ },
+ {
+  "w": "value",
+  "lvl": "2k",
+  "forms": [
+   "values",
+   "valuable",
+   "valued",
+   "valuation",
+   "invaluable",
+   "valuations",
+   "valuables",
+   "valuing"
+  ]
+ },
+ {
+  "w": "various",
+  "lvl": "2k",
+  "forms": [
+   "variously"
+  ]
+ },
+ {
+  "w": "vary",
+  "lvl": "2k",
+  "forms": [
+   "variable",
+   "varied",
+   "variation",
+   "variations",
+   "variables",
+   "varying",
+   "invariably",
+   "varies"
+  ]
+ },
+ {
+  "w": "vegetable",
+  "lvl": "2k",
+  "forms": [
+   "vegetables",
+   "veg",
+   "veggies",
+   "veggie",
+   "vegs"
+  ]
+ },
+ {
+  "w": "vehicle",
+  "lvl": "2k",
+  "forms": [
+   "vehicles",
+   "vehicular"
+  ]
+ },
+ {
+  "w": "version",
+  "lvl": "2k",
+  "forms": [
+   "versions"
+  ]
+ },
+ {
+  "w": "victim",
+  "lvl": "2k",
+  "forms": [
+   "victims",
+   "victimisation",
+   "victimised",
+   "victimization",
+   "victimized",
+   "victimize",
+   "victimless",
+   "victimizing"
+  ]
+ },
+ {
+  "w": "village",
+  "lvl": "2k",
+  "forms": [
+   "villages",
+   "villagers",
+   "villager"
+  ]
+ },
+ {
+  "w": "violent",
+  "lvl": "2k",
+  "forms": [
+   "violently",
+   "nonviolent",
+   "nonviolently"
+  ]
+ },
+ {
+  "w": "vote",
+  "lvl": "2k",
+  "forms": [
+   "votes",
+   "voted",
+   "voting",
+   "voters",
+   "voter"
+  ]
+ },
+ {
+  "w": "wage",
+  "lvl": "2k",
+  "forms": [
+   "wages",
+   "waged",
+   "waging",
+   "unwaged"
+  ]
+ },
+ {
+  "w": "wander",
+  "lvl": "2k",
+  "forms": [
+   "wandered",
+   "wandering",
+   "wanderers",
+   "wanders",
+   "wanderings",
+   "wanderer"
+  ]
+ },
+ {
+  "w": "warn",
+  "lvl": "2k",
+  "forms": [
+   "warning",
+   "warned",
+   "warnings",
+   "warns",
+   "warningly"
+  ]
+ },
+ {
+  "w": "weak",
+  "lvl": "2k",
+  "forms": [
+   "weakness",
+   "weaknesses",
+   "weakened",
+   "weaker",
+   "weakening",
+   "weakly",
+   "weaken",
+   "weakest"
+  ]
+ },
+ {
+  "w": "weapon",
+  "lvl": "2k",
+  "forms": [
+   "weapons",
+   "weaponless"
+  ]
+ },
+ {
+  "w": "wed",
+  "lvl": "2k",
+  "forms": [
+   "wedding",
+   "weddings",
+   "wedded",
+   "weds",
+   "unwed",
+   "unwedded"
+  ]
+ },
+ {
+  "w": "weed",
+  "lvl": "2k",
+  "forms": [
+   "weeds",
+   "weeding",
+   "weedy",
+   "weeded",
+   "weeders",
+   "weedless",
+   "weedier",
+   "weediest"
+  ]
+ },
+ {
+  "w": "weird",
+  "lvl": "2k",
+  "forms": [
+   "weirdo",
+   "weirdly",
+   "weirdos",
+   "weirdness",
+   "weirder",
+   "weirdest"
+  ]
+ },
+ {
+  "w": "welcome",
+  "lvl": "2k",
+  "forms": [
+   "welcomed",
+   "welcoming",
+   "unwelcome",
+   "welcomes",
+   "unwelcoming",
+   "unwelcomed"
+  ]
+ },
+ {
+  "w": "western",
+  "lvl": "2k",
+  "forms": [
+   "westerners",
+   "westerns",
+   "westerner",
+   "westernised",
+   "westernized",
+   "midwestern",
+   "westernization",
+   "westernisation"
+  ]
+ },
+ {
+  "w": "whereas",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "whip",
+  "lvl": "2k",
+  "forms": [
+   "whipped",
+   "whips",
+   "whipping"
+  ]
+ },
+ {
+  "w": "whistle",
+  "lvl": "2k",
+  "forms": [
+   "whistling",
+   "whistled",
+   "whistles",
+   "whistler",
+   "whistlers"
+  ]
+ },
+ {
+  "w": "wicked",
+  "lvl": "2k",
+  "forms": [
+   "wickedness",
+   "wickedly",
+   "wickedest",
+   "wickeder"
+  ]
+ },
+ {
+  "w": "wing",
+  "lvl": "2k",
+  "forms": [
+   "wings",
+   "winged",
+   "winging",
+   "wingless"
+  ]
+ },
+ {
+  "w": "wipe",
+  "lvl": "2k",
+  "forms": [
+   "wiped",
+   "wiping",
+   "wipers",
+   "wipes",
+   "wiper",
+   "unwiped"
+  ]
+ },
+ {
+  "w": "wire",
+  "lvl": "2k",
+  "forms": [
+   "wires",
+   "wiring",
+   "wired",
+   "wirings"
+  ]
+ },
+ {
+  "w": "wise",
+  "lvl": "2k",
+  "forms": [
+   "wisdom",
+   "unwise",
+   "wisely",
+   "wiser",
+   "unwisely",
+   "wisest",
+   "wiseness"
+  ]
+ },
+ {
+  "w": "witness",
+  "lvl": "2k",
+  "forms": [
+   "witnesses",
+   "witnessed",
+   "witnessing",
+   "unwitnessed"
+  ]
+ },
+ {
+  "w": "wolf",
+  "lvl": "2k",
+  "forms": [
+   "wolves",
+   "wolfish",
+   "wolfishly"
+  ]
+ },
+ {
+  "w": "wool",
+  "lvl": "2k",
+  "forms": [
+   "woollen",
+   "woolly",
+   "wools",
+   "woollens",
+   "woollies",
+   "woolies",
+   "woolen",
+   "wooly"
+  ]
+ },
+ {
+  "w": "worm",
+  "lvl": "2k",
+  "forms": [
+   "worms",
+   "wormed",
+   "worming",
+   "wormy",
+   "wormier",
+   "wormiest"
+  ]
+ },
+ {
+  "w": "wound",
+  "lvl": "2k",
+  "forms": [
+   "wounded",
+   "wounds",
+   "wounding",
+   "unwounded"
+  ]
+ },
+ {
+  "w": "wrap",
+  "lvl": "2k",
+  "forms": [
+   "wrapped",
+   "wrapping",
+   "wraps",
+   "wrappers",
+   "unwrapped",
+   "wrapper",
+   "wrappings",
+   "unwrap"
+  ]
+ },
+ {
+  "w": "yell",
+  "lvl": "2k",
+  "forms": [
+   "yelled",
+   "yelling",
+   "yells"
+  ]
+ }
+]

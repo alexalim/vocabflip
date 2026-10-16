@@ -1,0 +1,1729 @@
+[
+{
+"w": "suspicion",
+"pos": "n",
+"meaning_ko": "의심, 혐의",
+"example_en": "I have a **suspicion** that he already knows the truth.",
+"example_ko": "그 사람이 이미 진실을 알고 있는 것 같다는 의심이 들어.",
+"nuance_ko": "suspicion은 증거는 없지만 뭔가 이상하다고 느끼는 의심이나 혐의를 가리켜요. have a suspicion that ~(~라는 의심이 들다), under suspicion(혐의를 받고 있는), arouse suspicion(의심을 불러일으키다)처럼 써요. doubt는 '사실이 아닐 거라는 의심'이고 suspicion은 '나쁜 일이 있을 거라는 의심'이라서 방향이 달라요. I have my suspicions는 '짚이는 데가 있어'라는 구어 표현이에요. 경찰이나 뉴스에서 on suspicion of ~(~의 혐의로)가 자주 나와요.",
+"also": [
+{
+"w": "suspicious",
+"pos": "adj",
+"ko": "의심스러운",
+"en": "A **suspicious** package was left at the station."
+},
+{
+"w": "suspiciously",
+"pos": "adv",
+"ko": "수상쩍게",
+"en": "He looked at me **suspiciously**."
+}
+]
+},
+{
+"w": "swallow",
+"pos": "v",
+"meaning_ko": "삼키다, 꿀꺽하다",
+"example_en": "It hurts to **swallow** when I have a sore throat.",
+"example_ko": "목이 아프면 삼킬 때 아파.",
+"nuance_ko": "swallow는 음식이나 침을 입에서 목구멍으로 넘기는 동사예요. swallow a pill(알약을 삼키다), swallow hard(꿀꺽 삼키다, 긴장하다)처럼 써요. 비유로 '꾹 참다, 곧이곧대로 믿다'라서 swallow one's pride는 '자존심을 누르고 참다', swallow a story는 '이야기를 그대로 믿다'예요. 명사 swallow는 '제비'라는 새를 가리키기도 해서 One swallow doesn't make a summer는 '제비 한 마리가 왔다고 여름이 온 게 아니다', 즉 '성급히 판단하지 마라'는 속담이에요.",
+"also": [
+{
+"w": "swallowed",
+"pos": "v",
+"ko": "삼켰다",
+"en": "She **swallowed** her fear and walked on stage."
+}
+]
+},
+{
+"w": "swear",
+"pos": "v",
+"meaning_ko": "맹세하다, 욕하다",
+"example_en": "I **swear** I locked the door before leaving.",
+"example_ko": "나가기 전에 문 잠근 거 맹세해.",
+"nuance_ko": "swear는 맹세하다와 욕하다라는 두 가지 뜻이 있어요. I swear (that) ~은 '정말로 ~야, 맹세해'라는 구어 강조이고 swear on my life는 '목숨을 걸고 맹세하다'예요. 법정에서는 swear an oath(선서하다)로 쓰여요. 욕할 때는 swear at someone(~에게 욕하다), swear word(욕설)처럼 써요. 활용은 swear-swore-sworn이에요. swear by ~는 '~를 신뢰하다'라서 I swear by this cream은 '이 크림은 믿고 쓴다'는 뜻이에요.",
+"also": [
+{
+"w": "sworn",
+"pos": "adj",
+"ko": "선서한, 공공연한",
+"en": "They are **sworn** enemies."
+},
+{
+"w": "swearing",
+"pos": "n",
+"ko": "욕설",
+"en": "**Swearing** is not allowed in the classroom."
+}
+]
+},
+{
+"w": "sweep",
+"pos": "v",
+"meaning_ko": "쓸다, 휩쓸다",
+"example_en": "I need to **sweep** the kitchen floor before the guests arrive.",
+"example_ko": "손님이 오기 전에 부엌 바닥을 쓸어야 해.",
+"nuance_ko": "sweep은 빗자루로 쓸어 내는 동사로 sweep-swept-swept로 활용해요. sweep the floor(바닥을 쓸다), sweep the leaves(낙엽을 쓸다)처럼 써요. 비유로는 넓은 지역을 휩쓸다라서 The flu swept the country(독감이 전국을 휩쓸었다), sweep the awards(상을 휩쓸다)처럼 써요. sweep under the rug는 '문제를 덮어 버리다'라는 관용구이고 sweep someone off their feet은 '첫눈에 반하게 하다'예요. 스포츠에서 sweep은 '전승으로 이기다'예요.",
+"also": [
+{
+"w": "sweeping",
+"pos": "adj",
+"ko": "전면적인, 광범위한",
+"en": "The company announced **sweeping** changes."
+}
+]
+},
+{
+"w": "swing",
+"pos": "v",
+"meaning_ko": "흔들다, 그네 타다",
+"example_en": "The kids love to **swing** on the playground swings.",
+"example_ko": "애들은 놀이터 그네 타는 걸 좋아해.",
+"nuance_ko": "swing은 앞뒤나 좌우로 흔들리거나 흔드는 동사로 swing-swung-swung으로 활용해요. swing a bat(방망이를 휘두르다), swing open(활짝 열리다)처럼 써요. 명사 swing은 '그네'나 '흔들림'이라서 mood swing(기분 변화), swing vote(캐스팅 보트), in full swing(한창 진행 중인)처럼 써요. in full swing은 행사가 한창일 때 쓰는 구어 표현이에요. swing by는 '잠깐 들르다'라는 구어라서 I'll swing by your place는 '너희 집에 잠깐 들를게'예요.",
+"also": [
+{
+"w": "swinging",
+"pos": "adj",
+"ko": "흔들리는",
+"en": "The **swinging** door hit him in the face."
+}
+]
+},
+{
+"w": "switch",
+"pos": "n",
+"meaning_ko": "스위치, 전환",
+"example_en": "Where is the light **switch** in this room?",
+"example_ko": "이 방 전등 스위치가 어디 있어?",
+"nuance_ko": "switch는 전기 스위치 또는 갑작스러운 전환을 가리켜요. light switch(전등 스위치), a switch in plans(계획의 변경)처럼 써요. 동사 switch는 '바꾸다, 전환하다'라서 switch jobs(직장을 바꾸다), switch to ~(~로 바꾸다)처럼 써요. switch on은 '켜다', switch off는 '끄다'라서 영국에서 자주 쓰고 미국에서는 turn on/off를 더 많이 말해요. change보다 갑작스럽고 완전히 다른 쪽으로 옮기는 느낌이에요. switch places는 '자리를 바꾸다'예요.",
+"also": [
+{
+"w": "switched",
+"pos": "v",
+"ko": "바꿨다",
+"en": "I **switched** to a cheaper phone plan."
+}
+]
+},
+{
+"w": "sword",
+"pos": "n",
+"meaning_ko": "검, 칼",
+"example_en": "The knight drew his **sword** and stepped forward.",
+"example_ko": "기사는 검을 뽑고 앞으로 나섰어.",
+"nuance_ko": "sword는 길고 날카로운 날이 달린 무기, 검을 가리켜요. 발음에서 w가 묵음이라 /sɔːrd/로 읽는 점이 한국 학습자들의 함정이에요. draw a sword(검을 뽑다), cross swords with ~(~와 논쟁하다)처럼 써요. The pen is mightier than the sword는 '펜은 칼보다 강하다'는 유명한 속담이에요. sword of Damocles는 '언제 닥칠지 모르는 위험'을 뜻하는 문학적 표현이에요. 칼이라고 해도 knife는 주방용 칼이고 sword는 전투용 긴 칼이에요.",
+"also": []
+},
+{
+"w": "tale",
+"pos": "n",
+"meaning_ko": "이야기, 설화",
+"example_en": "My grandmother told us a **tale** about a clever fox.",
+"example_ko": "할머니가 우리에게 영리한 여우 이야기를 해 주셨어.",
+"nuance_ko": "tale은 꾸며낸 이야기나 전해 내려오는 설화를 가리켜요. fairy tale(동화), folk tale(민담), a tale of two cities(두 도시 이야기)처럼 써요. story보다 오래되고 문학적인 느낌이 있어요. 이야기를 하는 것도 tell a tale이라고 하고 tall tale은 '허풍 섞인 이야기'예요. old wives' tale은 '근거 없는 속설'이라는 뜻이고 tell tales는 '고자질하다'라는 영국식 표현이에요. tail(꼬리)과 발음이 같으니 받아쓰기에서 주의해요.",
+"also": [
+{
+"w": "tales",
+"pos": "n",
+"ko": "이야기들",
+"en": "He loves reading **tales** of adventure."
+}
+]
+},
+{
+"w": "tank",
+"pos": "n",
+"meaning_ko": "탱크, 물탱크",
+"example_en": "We need to fill up the gas **tank** before the trip.",
+"example_ko": "여행 전에 연료 탱크를 채워야 해.",
+"nuance_ko": "tank는 액체나 기체를 담는 큰 통, 탱크예요. water tank(물탱크), fish tank(어항), gas tank(연료 탱크), septic tank(정화조)처럼 써요. 군용 전차도 tank라서 문맥으로 구분해야 해요. tank top은 소매가 없는 민소매 상의예요. 동사 tank는 구어에서 '폭락하다, 망하다'라서 The stock market tanked는 '증시가 폭락했다'예요. think tank는 정책 연구 기관을 가리키는 말이에요.",
+"also": [
+{
+"w": "tanks",
+"pos": "n",
+"ko": "탱크들",
+"en": "The soldiers drove **tanks** across the field."
+}
+]
+},
+{
+"w": "tap",
+"pos": "n",
+"meaning_ko": "수도꼭지, 톡톡 두드림",
+"example_en": "Turn off the **tap** while you brush your teeth.",
+"example_ko": "양치할 때는 수도꼭지를 잠가.",
+"nuance_ko": "tap은 영국에서 수도꼭지, 미국에서는 faucet이 일반적이에요. tap water는 '수돗물'이라서 Is the tap water safe to drink?는 '수돗물 마셔도 돼요?'예요. 동사 tap은 '가볍게 두드리다'라서 tap on the door(문을 톡톡 두드리다), tap the screen(화면을 터치하다)처럼 써요. 비유로는 '이용하다'라서 tap into resources(자원을 활용하다)예요. on tap은 '생맥주로 나오는' 또는 '바로 쓸 수 있는'이라는 뜻이에요.",
+"also": [
+{
+"w": "tapped",
+"pos": "v",
+"ko": "두드렸다",
+"en": "She **tapped** me on the shoulder."
+}
+]
+},
+{
+"w": "taxi",
+"pos": "n",
+"meaning_ko": "택시",
+"example_en": "Let's take a **taxi** since it's raining so hard.",
+"example_ko": "비가 너무 많이 오니까 택시 타자.",
+"nuance_ko": "taxi는 요금을 받고 손님을 태우는 택시예요. take a taxi(택시를 타다), call a taxi(택시를 부르다), hail a taxi(택시를 잡다)처럼 써요. 미국에서는 cab이라고도 하고 영국에서는 taxi나 black cab(런던의 검은 택시)이라고 해요. 동사 taxi는 비행기가 활주로에서 천천히 이동하는 것을 가리켜서 The plane taxied to the gate는 '비행기가 게이트까지 이동했다'예요. 택시 기사는 taxi driver 또는 cabbie라고 해요.",
+"also": [
+{
+"w": "taxis",
+"pos": "n",
+"ko": "택시들",
+"en": "Several **taxis** were waiting outside the station."
+}
+]
+},
+{
+"w": "tease",
+"pos": "v",
+"meaning_ko": "놀리다, 괴롭히다",
+"example_en": "My brother always **teases** me about my accent.",
+"example_ko": "우리 오빠는 늘 내 억양을 가지고 놀려.",
+"nuance_ko": "tease는 장난스럽게 놀리거나 약 올리는 동사예요. tease someone about ~(~를 가지고 놀리다)처럼 쓰고 친근한 사이의 가벼운 놀림이라는 느낌이 있어요. 다만 지나치면 괴롭힘이 되기 때문에 Stop teasing him!은 '그만 놀려!'라는 뜻이에요. 상대의 호기심을 자극하며 애태우는 의미로도 써서 tease a movie trailer는 '예고편으로 궁금증을 자극하다'예요. 명사 teaser는 '예고편, 맛보기'이고 teasing은 '놀림'이에요. bully는 악의가 있는 괴롭힘이라서 tease와 구분돼요.",
+"also": [
+{
+"w": "teasing",
+"pos": "n",
+"ko": "놀림",
+"en": "Don't mind his **teasing**, he's only joking."
+},
+{
+"w": "teaser",
+"pos": "n",
+"ko": "예고편, 맛보기",
+"en": "The company released a short **teaser** for the new game."
+}
+]
+},
+{
+"w": "technology",
+"pos": "n",
+"meaning_ko": "기술, 과학 기술",
+"example_en": "New **technology** is changing the way we work.",
+"example_ko": "새로운 기술이 우리의 일하는 방식을 바꾸고 있어.",
+"nuance_ko": "technology는 과학 지식을 실제로 응용한 기술을 가리켜요. information technology(IT, 정보 기술), modern technology(현대 기술), a piece of technology(기술적 장치)처럼 써요. 불가산 명사로 쓰는 것이 기본이라서 a technology는 특정 기술 하나를 말할 때만 써요. 줄여서 tech라고 해서 tech company(기술 기업), tech support(기술 지원)처럼 구어에서 자주 말해요. skill은 사람의 기량이고 technology는 도구와 방법의 체계라는 차이가 있어요.",
+"also": [
+{
+"w": "technological",
+"pos": "adj",
+"ko": "기술적인",
+"en": "The country made rapid **technological** progress."
+},
+{
+"w": "tech",
+"pos": "n",
+"ko": "기술(구어)",
+"en": "She works at a big **tech** company in Seattle."
+}
+]
+},
+{
+"w": "teenage",
+"pos": "adj",
+"meaning_ko": "십대의",
+"example_en": "She has two **teenage** sons who play in a band.",
+"example_ko": "그녀에게는 밴드에서 연주하는 십대 아들이 둘 있어.",
+"nuance_ko": "teenage는 13세부터 19세까지, 즉 -teen으로 끝나는 나이대를 가리키는 형용사예요. teenage years(십대 시절), teenage girl(십대 소녀)처럼 명사 앞에서 써요. 명사 teenager는 '십대 청소년'이라서 She is a teenager처럼 써요. adolescent는 더 의학적이고 격식 있는 말이고 teenager는 일상적인 말이에요. youth는 청소년 일반을 가리키는 더 넓은 말이에요. 철자에서 teen-age처럼 붙임표를 쓰던 옛 표기도 있지만 지금은 teenage로 붙여 써요.",
+"also": [
+{
+"w": "teenager",
+"pos": "n",
+"ko": "십대",
+"en": "Every **teenager** needs some privacy."
+}
+]
+},
+{
+"w": "tempt",
+"pos": "v",
+"meaning_ko": "유혹하다, 솔깃하게 하다",
+"example_en": "The smell of fresh bread **tempted** me to go inside.",
+"example_ko": "갓 구운 빵 냄새에 끌려 안으로 들어가고 싶어졌어.",
+"nuance_ko": "tempt는 하면 안 되는 일이나 하고 싶은 일로 마음을 끄는 동사예요. be tempted to + 동사원형은 '~하고 싶은 유혹을 느끼다'라서 I was tempted to buy it은 '사고 싶은 마음이 들었어'예요. 유혹하는 쪽은 temptation(유혹)이고 형용사 tempting은 '솔깃한'이라서 a tempting offer는 '솔깃한 제안'이에요. 구어에서 I'm tempted는 '마음이 흔들려'라고 말할 때 자주 써요. Don't tempt me!는 '나 흔들리게 하지 마'라는 장난스러운 표현이에요.",
+"also": [
+{
+"w": "temptation",
+"pos": "n",
+"ko": "유혹",
+"en": "I couldn't resist the **temptation** to check my phone."
+},
+{
+"w": "tempting",
+"pos": "adj",
+"ko": "솔깃한",
+"en": "It was a **tempting** offer."
+}
+]
+},
+{
+"w": "tense",
+"pos": "adj",
+"meaning_ko": "긴장된, 팽팽한",
+"example_en": "The atmosphere in the room was **tense** after the argument.",
+"example_ko": "말다툼 뒤라서 방 안 분위기가 팽팽했어.",
+"nuance_ko": "tense는 긴장되거나 팽팽한 상태를 가리키는 형용사예요. a tense situation(긴장된 상황), tense muscles(뭉친 근육)처럼 써요. 명사로는 문법의 '시제'라서 past tense는 '과거 시제'예요. 동사 tense up은 '몸이 굳다'라서 Don't tense up!은 '긴장하지 마!'예요. nervous가 마음이 불안한 상태라면 tense는 몸과 분위기가 팽팽하게 당겨진 느낌이에요. 명사 tension은 '긴장, 갈등'이라서 racial tension(인종 갈등)처럼 뉴스에서 자주 나와요.",
+"also": [
+{
+"w": "tension",
+"pos": "n",
+"ko": "긴장, 갈등",
+"en": "There is growing **tension** between the two countries."
+}
+]
+},
+{
+"w": "tent",
+"pos": "n",
+"meaning_ko": "텐트, 천막",
+"example_en": "We set up our **tent** near the lake before dark.",
+"example_ko": "어두워지기 전에 호숫가 근처에 텐트를 쳤어.",
+"nuance_ko": "tent는 캠핑에서 쓰는 천막이에요. pitch a tent 또는 set up a tent는 '텐트를 치다', take down the tent는 '텐트를 걷다'예요. 행사용 큰 천막도 tent라서 a wedding tent는 '결혼식 천막'이에요. tent 안에서 자는 것은 sleep in a tent라고 해요. 서커스장의 big top도 큰 텐트를 가리켜요. 한국어 '텐트'와 같지만 영어에서는 pitch라는 동사를 쓰는 점이 달라요.",
+"also": [
+{
+"w": "tents",
+"pos": "n",
+"ko": "텐트들",
+"en": "Hundreds of **tents** covered the field."
+}
+]
+},
+{
+"w": "th",
+"pos": "num",
+"meaning_ko": "~번째(서수 접미사)",
+"example_en": "Our office is on the 4**th** floor of the building.",
+"example_ko": "우리 사무실은 건물 4층에 있어.",
+"nuance_ko": "th는 숫자 뒤에 붙어 '~번째'를 나타내는 서수 접미사예요. 4th(fourth), 5th(fifth), 12th(twelfth)처럼 1, 2, 3을 제외한 대부분의 숫자에 붙어요. 예외로 1st, 2nd, 3rd는 각각 st, nd, rd를 쓰고 11th, 12th, 13th는 th를 써요. 날짜를 쓸 때 July 4th처럼 쓰고 읽을 때는 July fourth라고 읽어요. 한국 학습자는 숫자만 읽고 th 소리를 빼는 경우가 있는데 서수는 fourth처럼 소리 내서 읽어야 해요. 건물 층수, 날짜, 순위 등을 말할 때 자주 쓰여요.",
+"also": []
+},
+{
+"w": "theatre",
+"pos": "n",
+"meaning_ko": "극장, 연극",
+"example_en": "We went to the **theatre** to see a new play last night.",
+"example_ko": "어젯밤에 새 연극을 보러 극장에 갔어.",
+"nuance_ko": "theatre는 영국식 철자이고 미국식은 theater예요. 연극이나 공연을 하는 극장 또는 연극 자체를 가리켜요. go to the theatre(공연 보러 가다), theatre company(극단)처럼 써요. 영화관은 미국에서 movie theater라고 하고 영국에서는 cinema라고 해요. 수술실은 영국에서 operating theatre라고 해요. 형용사 theatrical은 '연극의' 또는 '과장된'이라서 a theatrical gesture는 '연극 같은 과장된 몸짓'이에요.",
+"also": [
+{
+"w": "theatrical",
+"pos": "adj",
+"ko": "연극의, 과장된",
+"en": "His **theatrical** voice filled the hall."
+}
+]
+},
+{
+"w": "therefore",
+"pos": "adv",
+"meaning_ko": "그러므로, 따라서",
+"example_en": "The road was closed, and **therefore** we had to take a detour.",
+"example_ko": "도로가 막혀서 우리는 우회해야 했어.",
+"nuance_ko": "therefore는 앞 내용의 결과로 '그러므로'를 나타내는 접속 부사예요. so와 의미가 비슷하지만 therefore가 훨씬 격식 있어서 논문, 보고서, 비즈니스 글에서 자주 보여요. 문장 앞에 Therefore, ~ 형태로 쓰거나 문장 중간에 콤마 사이에 끼워 넣어요. 두 문장을 연결하려면 세미콜론이나 and와 함께 써야 해서 I was tired, therefore I left처럼 쉼표만으로 이으면 문법적으로 어색해요. thus와 hence도 비슷한 뜻이에요.",
+"also": []
+},
+{
+"w": "thief",
+"pos": "n",
+"meaning_ko": "도둑",
+"example_en": "A **thief** stole her bag while she was waiting for the bus.",
+"example_ko": "그녀가 버스를 기다리는 동안 도둑이 가방을 훔쳐 갔어.",
+"nuance_ko": "thief는 몰래 물건을 훔치는 도둑이에요. 복수는 thieves로 f가 v로 바뀌어요. robber는 폭력이나 위협으로 빼앗는 강도이고 burglar는 집이나 건물에 침입하는 도둑이라는 차이가 있어요. shoplifter는 가게에서 물건을 훔치는 사람, pickpocket은 소매치기예요. Stop, thief!는 '도둑이야!'라는 외침이고 as thick as thieves는 '아주 친한 사이'라는 영국식 관용구예요. 동사는 steal이고 명사 theft는 '절도'예요.",
+"also": [
+{
+"w": "thieves",
+"pos": "n",
+"ko": "도둑들",
+"en": "**Thieves** broke into the shop overnight."
+}
+]
+},
+{
+"w": "thin",
+"pos": "adj",
+"meaning_ko": "얇은, 마른",
+"example_en": "The walls in this apartment are so **thin** that I can hear everything.",
+"example_ko": "이 아파트는 벽이 너무 얇아서 다 들려.",
+"nuance_ko": "thin은 두께가 얇거나 몸이 마른 것을 가리키는 형용사예요. a thin slice(얇은 조각), a thin coat(얇은 코트), a thin man(마른 남자)처럼 써요. 사람에게 쓸 때 thin은 중립적이거나 약간 마른 느낌, skinny는 너무 말라서 부정적일 수 있고, slim은 날씬해서 긍정적이에요. 액체가 묽을 때도 thin이라서 thin soup은 '묽은 수프'예요. thin air는 '희박한 공기'이고 vanish into thin air는 '흔적도 없이 사라지다'예요. out of thin air는 '아무것도 없는 데서'예요.",
+"also": [
+{
+"w": "thinner",
+"pos": "adj",
+"ko": "더 얇은",
+"en": "This book is **thinner** than I expected."
+}
+]
+},
+{
+"w": "threat",
+"pos": "n",
+"meaning_ko": "위협, 위험",
+"example_en": "Climate change is a serious **threat** to the planet.",
+"example_ko": "기후 변화는 지구에 심각한 위협이야.",
+"nuance_ko": "threat는 해를 입히겠다는 협박이나 위험한 존재를 가리켜요. a threat to ~(~에 대한 위협), make a threat(협박하다), death threat(살해 협박), under threat(위협받고 있는)처럼 써요. 동사 threaten은 '위협하다'라서 철자가 threaten으로 e가 들어가요. danger가 위험한 상태 자체라면 threat는 그 위험을 일으키는 원인이나 협박이라는 차이가 있어요. empty threat는 '실행 의지 없는 협박'이에요. 형용사 threatening은 '위협적인'이에요.",
+"also": [
+{
+"w": "threaten",
+"pos": "v",
+"ko": "위협하다",
+"en": "The storm could **threaten** the whole coast."
+},
+{
+"w": "threatening",
+"pos": "adj",
+"ko": "위협적인",
+"en": "He sent a **threatening** message."
+}
+]
+},
+{
+"w": "thus",
+"pos": "adv",
+"meaning_ko": "따라서, 이렇게",
+"example_en": "The tests were successful, **thus** the product is ready to launch.",
+"example_ko": "테스트가 성공적이었으니 제품은 출시할 준비가 됐어.",
+"nuance_ko": "thus는 '따라서, 이런 이유로' 또는 '이런 식으로'를 뜻하는 격식 있는 부사예요. 논문과 공식 글에서 therefore와 비슷하게 쓰이고 일상 대화에서는 거의 쓰지 않아요. thus far는 '지금까지'라서 Thus far, we have had no problems는 '지금까지는 문제가 없었다'예요. thus는 앞 내용을 요약하거나 결과를 이끌 때 자연스러워요. 구어에서는 so, 글에서는 thus, therefore, hence를 구분해 쓰기도 하는데 hence는 더 짧고 격식 있어요.",
+"also": []
+},
+{
+"w": "ticket",
+"pos": "n",
+"meaning_ko": "표, 티켓, 딱지",
+"example_en": "I bought two **tickets** for the concert on Friday.",
+"example_ko": "금요일 콘서트 표를 두 장 샀어.",
+"nuance_ko": "ticket은 공연, 교통, 행사 등에 들어가거나 이용할 수 있는 표예요. buy a ticket, plane ticket, movie ticket, one-way ticket(편도 표)처럼 써요. 교통 위반 딱지도 ticket이라서 get a speeding ticket은 '과속 딱지를 떼이다'예요. 복권도 lottery ticket이라고 해요. 동사 ticket은 '딱지를 끊다'라서 The police ticketed him for parking illegally는 '경찰이 불법 주차로 딱지를 끊었다'예요. 구어에서 That's the ticket은 '바로 그거야'라는 표현이에요.",
+"also": [
+{
+"w": "ticketed",
+"pos": "adj",
+"ko": "표가 필요한",
+"en": "It's a **ticketed** event, so book early."
+}
+]
+},
+{
+"w": "tide",
+"pos": "n",
+"meaning_ko": "조수, 흐름",
+"example_en": "The **tide** was so high that the beach almost disappeared.",
+"example_ko": "밀물이 너무 높아서 해변이 거의 사라질 뻔했어.",
+"nuance_ko": "tide는 바닷물이 밀려오고 빠지는 조수예요. high tide(만조), low tide(간조), the tide is coming in(밀물이 들어온다)처럼 써요. 비유로는 큰 흐름이나 추세를 가리켜서 the tide of public opinion은 '여론의 흐름', turn the tide는 '형세를 뒤집다'예요. go with the tide는 '대세를 따르다'이고 Time and tide wait for no man은 '세월은 사람을 기다려 주지 않는다'는 속담이에요. 조수의 형용사는 tidal로 tidal wave는 해일이에요.",
+"also": [
+{
+"w": "tidal",
+"pos": "adj",
+"ko": "조수의",
+"en": "A **tidal** wave hit the coast."
+}
+]
+},
+{
+"w": "tin",
+"pos": "n",
+"meaning_ko": "주석, 양철통, 깡통",
+"example_en": "She kept the cookies in an old **tin** on the shelf.",
+"example_ko": "그녀는 선반 위의 낡은 양철통에 쿠키를 보관했어.",
+"nuance_ko": "tin은 금속 주석 또는 양철로 만든 통을 가리켜요. 영국에서는 통조림을 tin이라 하고 미국에서는 can이라고 해요. a tin of beans(콩 통조림), a cookie tin(쿠키 통)처럼 써요. 동사 tin은 영국에서 '통조림으로 만들다'라서 tinned food는 '통조림 식품'이에요. 비유로 tin ear는 '음악에 둔감한 귀', tin god은 '허세 부리는 사람'이에요. 금속으로서 tin은 주석이고 tin foil은 '알루미늄 포일'을 가리키는 구어예요.",
+"also": [
+{
+"w": "tinned",
+"pos": "adj",
+"ko": "통조림으로 된",
+"en": "We had **tinned** soup for lunch."
+}
+]
+},
+{
+"w": "tiny",
+"pos": "adj",
+"meaning_ko": "아주 작은",
+"example_en": "She lives in a **tiny** apartment in the city center.",
+"example_ko": "그녀는 도심의 아주 작은 아파트에 살아.",
+"nuance_ko": "tiny는 small보다 더 작은, 매우 작은 것을 가리키는 형용사예요. a tiny baby(아주 작은 아기), a tiny house(초소형 주택), a tiny amount(극소량)처럼 써요. 귀엽거나 놀랄 만큼 작다는 느낌이 있어서 little과도 비슷하지만 tiny는 크기만 강조해요. a tiny bit은 '아주 조금'이라서 구어에서 I'm a tiny bit nervous처럼 자주 써요. 반대는 huge나 enormous예요. 철자와 발음은 /ˈtaɪni/이고 tin과 헷갈릴 수 있으니 주의해요.",
+"also": []
+},
+{
+"w": "tip",
+"pos": "n",
+"meaning_ko": "팁, 조언, 끝",
+"example_en": "Here's a useful **tip**: always save your work before you close the file.",
+"example_ko": "유용한 팁 하나 줄게. 파일 닫기 전에 항상 저장해.",
+"nuance_ko": "tip은 뜻이 세 가지로 많이 쓰여요. 서비스 요금 외에 주는 팁, 유용한 조언, 물건의 뾰족한 끝이에요. leave a tip(팁을 남기다), a helpful tip(도움이 되는 조언), the tip of the iceberg(빙산의 일각)처럼 써요. 동사 tip은 '팁을 주다'와 '기울이다'라서 tip the waiter(웨이터에게 팁을 주다), tip over(뒤집히다)처럼 써요. on the tip of my tongue은 '혀끝에서 맴도는'이라는 표현이에요. 미국에서는 팁 문화가 강해서 15~20퍼센트를 주는 것이 일반적이에요.",
+"also": [
+{
+"w": "tips",
+"pos": "n",
+"ko": "팁들, 조언들",
+"en": "She shared some **tips** for learning English."
+}
+]
+},
+{
+"w": "title",
+"pos": "n",
+"meaning_ko": "제목, 직함",
+"example_en": "What's the **title** of that book you were reading?",
+"example_ko": "네가 읽던 그 책 제목이 뭐야?",
+"nuance_ko": "title은 책, 영화, 노래의 제목, 사람의 직함이나 칭호, 스포츠의 타이틀을 모두 가리켜요. job title(직함), the title of the movie(영화 제목), win the title(우승하다)처럼 써요. Mr., Dr., Ms. 같은 호칭도 title이라고 해요. 법률에서는 '소유권'이라서 title deed는 '권리 증서'예요. 동사 title은 '제목을 붙이다'라서 The song is titled Yesterday는 '그 노래 제목은 Yesterday야'예요. 형용사 untitled는 '제목 없는'이에요.",
+"also": [
+{
+"w": "titled",
+"pos": "adj",
+"ko": "제목이 붙은",
+"en": "She read a book **titled** The Silent Patient."
+}
+]
+},
+{
+"w": "toast",
+"pos": "n",
+"meaning_ko": "토스트, 건배",
+"example_en": "I have **toast** and coffee for breakfast every morning.",
+"example_ko": "난 매일 아침 토스트랑 커피를 먹어.",
+"nuance_ko": "toast는 구운 빵과 건배 제의라는 두 가지 뜻이 있어요. 아침 식사의 toast는 불가산 명사라서 a slice of toast 또는 two pieces of toast라고 세어요. 건배는 propose a toast(건배를 제안하다), raise a toast to ~(~를 위해 건배하다)처럼 써요. 동사 toast는 '빵을 굽다' 또는 '건배하다'예요. toast of the town은 '마을의 인기인'이라는 표현이고 You're toast!는 '넌 끝났어!'라는 구어 표현이에요. 한국어 '토스트'는 샌드위치 같은 요리를 가리키지만 영어 toast는 구운 빵 자체예요.",
+"also": [
+{
+"w": "toaster",
+"pos": "n",
+"ko": "토스터",
+"en": "Put the bread in the **toaster** for two minutes."
+}
+]
+},
+{
+"w": "toe",
+"pos": "n",
+"meaning_ko": "발가락",
+"example_en": "I stubbed my **toe** on the table leg and it really hurts.",
+"example_ko": "탁자 다리에 발가락을 찧었는데 정말 아파.",
+"nuance_ko": "toe는 발가락이에요. big toe(엄지발가락), toenail(발톱)처럼 써요. 손가락은 finger라서 구분돼요. 구어 관용구로 on one's toes는 '긴장하고 대비하는', step on someone's toes는 '남의 영역을 침범하다', toe the line은 '규칙을 따르다'예요. from head to toe는 '머리끝부터 발끝까지'라는 뜻이에요. tiptoe는 '발끝으로 걷다'라서 tiptoe past the room은 '발끝으로 살금살금 지나가다'예요. 동사 toe는 '발끝으로 건드리다'지만 거의 쓰지 않아요.",
+"also": [
+{
+"w": "toes",
+"pos": "n",
+"ko": "발가락들",
+"en": "My **toes** are freezing in these thin socks."
+}
+]
+},
+{
+"w": "toilet",
+"pos": "n",
+"meaning_ko": "변기, 화장실",
+"example_en": "Excuse me, where is the **toilet**?",
+"example_ko": "실례합니다, 화장실이 어디예요?",
+"nuance_ko": "toilet은 변기 또는 영국에서 화장실 전체를 가리켜요. 미국에서는 toilet이 변기 자체를 뜻하는 직접적인 말이라서 restroom, bathroom이 더 정중한 표현이에요. 영국에서는 Where is the toilet?이 자연스럽고 일상적이지만 미국에서 쓰면 약간 직설적으로 들려요. 공공장소에서는 the ladies, the gents(영국), the men's room(미국)이라고도 해요. toilet paper는 두루마리 휴지이고 flush the toilet은 '물을 내리다'예요.",
+"also": [
+{
+"w": "toilets",
+"pos": "n",
+"ko": "화장실들",
+"en": "The public **toilets** are near the entrance."
+}
+]
+},
+{
+"w": "tomato",
+"pos": "n",
+"meaning_ko": "토마토",
+"example_en": "Slice a **tomato** and add it to the salad.",
+"example_ko": "토마토를 썰어서 샐러드에 넣어.",
+"nuance_ko": "tomato는 토마토이고 복수는 tomatoes처럼 -es를 붙여요. 발음이 미국식 /təˈmeɪtoʊ/와 영국식 /təˈmɑːtoʊ/로 갈려서 유명한 노래 구절 You say tomato, I say tomahto로 두 발음의 차이를 보여 줘요. tomato sauce(토마토소스), tomato juice처럼 쓰여요. 미국에서 ketchup은 토마토소스로 만든 케첩이에요. 과일인지 채소인지 헷갈리는 식물인데 식물학적으로는 과일이고 요리에서는 채소로 취급해요. 영국에서 tomato sauce는 케첩을 가리키는 경우도 있어요.",
+"also": []
+},
+{
+"w": "tone",
+"pos": "n",
+"meaning_ko": "어조, 음색",
+"example_en": "I didn't like the **tone** of his voice when he answered.",
+"example_ko": "그가 대답할 때의 말투가 마음에 안 들었어.",
+"nuance_ko": "tone은 목소리의 높낮이나 분위기, 말투를 가리켜요. a friendly tone(친근한 어조), tone of voice(말투), set the tone(분위기를 정하다)처럼 써요. 글에서도 tone은 글의 분위기나 태도를 뜻해서 a formal tone(격식 있는 어조)이에요. 색의 톤도 tone이고 two-tone은 '투톤 색상'이에요. 동사 tone down은 '수위를 낮추다'라서 tone down your language는 '말을 순화해'예요. dial tone은 전화의 신호음이에요.",
+"also": [
+{
+"w": "tones",
+"pos": "n",
+"ko": "음색들, 색조들",
+"en": "The painting uses warm **tones** of red and orange."
+}
+]
+},
+{
+"w": "tongue",
+"pos": "n",
+"meaning_ko": "혀, 언어",
+"example_en": "I burned my **tongue** on the hot soup.",
+"example_ko": "뜨거운 수프에 혀를 데었어.",
+"nuance_ko": "tongue은 입 안의 혀 또는 말, 언어를 가리켜요. mother tongue(모국어), hold your tongue(말을 삼가다), bite your tongue(말을 참다), slip of the tongue(말실수)처럼 써요. on the tip of my tongue은 '혀끝에서 맴도는'이라는 표현이에요. tongue-in-cheek는 '농담조로, 진지하지 않게'라는 뜻이에요. tongue twister는 발음하기 어려운 문장을 가리키는 말이라 외국어 학습에서 자주 써요. 철자가 tongue으로 ue가 붙는 점이 틀리기 쉬워요.",
+"also": []
+},
+{
+"w": "tool",
+"pos": "n",
+"meaning_ko": "도구, 연장",
+"example_en": "A hammer is a basic **tool** every home should have.",
+"example_ko": "망치는 모든 집에 있어야 하는 기본 도구야.",
+"nuance_ko": "tool은 손으로 쓰는 연장이나 어떤 일에 쓰이는 수단을 가리켜요. a power tool(전동 공구), a useful tool(유용한 도구), toolbox(공구함)처럼 써요. 소프트웨어에서도 tool은 '기능, 도구'를 가리켜서 search tool(검색 도구)처럼 써요. instrument는 정밀하거나 전문적인 기구에 쓰고 tool은 일반적인 도구예요. 구어에서 He's a tool은 '멍청하거나 이용당하는 사람'을 조롱하는 속어라 쓰지 않는 게 좋아요. down tools는 영국식으로 '일을 중단하다'예요.",
+"also": [
+{
+"w": "tools",
+"pos": "n",
+"ko": "도구들",
+"en": "Please put the **tools** back in the shed."
+}
+]
+},
+{
+"w": "topic",
+"pos": "n",
+"meaning_ko": "주제, 화제",
+"example_en": "Let's change the **topic**, this is getting too serious.",
+"example_ko": "화제 좀 바꾸자, 너무 심각해지고 있어.",
+"nuance_ko": "topic은 이야기나 글, 토론의 주제나 화제를 가리켜요. a hot topic(뜨거운 화제), off topic(주제에서 벗어난), topic of conversation(대화 주제)처럼 써요. subject보다 더 구체적인 화제를 뜻하고 theme는 작품 속에 흐르는 중심 사상이라는 차이가 있어요. 발표나 에세이에서 choose a topic은 '주제를 정하다'예요. 형용사 topical은 '시사적인, 화제의'라서 a topical issue는 '현재 이슈'예요. 인터넷에서는 discussion topic(토론 주제)처럼 게시판 글의 주제도 topic이라고 해요.",
+"also": [
+{
+"w": "topical",
+"pos": "adj",
+"ko": "시사적인",
+"en": "The discussion was very **topical**."
+}
+]
+},
+{
+"w": "tough",
+"pos": "adj",
+"meaning_ko": "힘든, 질긴, 강인한",
+"example_en": "It was a **tough** decision, but I think it was the right one.",
+"example_ko": "힘든 결정이었지만 옳은 결정이었다고 생각해.",
+"nuance_ko": "tough는 어렵고 힘든 상황, 질긴 물건, 강인한 사람을 폭넓게 가리켜요. a tough day(힘든 하루), tough meat(질긴 고기), a tough guy(강인한 남자)처럼 써요. Tough luck!은 '운이 없네'라는 구어 표현으로 때로는 비꼬는 투가 있어요. Tough love는 '엄하게 대하는 사랑', get tough on ~는 '~에 강경하게 나가다'예요. 발음은 /tʌf/로 ough가 'f' 소리가 나는 대표적인 철자 함정이에요. hard와 비슷하지만 tough는 인내와 강인함이 필요한 느낌이에요.",
+"also": [
+{
+"w": "toughness",
+"pos": "n",
+"ko": "강인함",
+"en": "The team's **toughness** helped them win."
+}
+]
+},
+{
+"w": "tour",
+"pos": "n",
+"meaning_ko": "여행, 관광, 순회",
+"example_en": "We took a guided **tour** of the old castle.",
+"example_ko": "우리는 옛 성을 가이드 투어로 둘러봤어.",
+"nuance_ko": "tour는 여러 곳을 둘러보는 관광 여행이나 공연 순회를 가리켜요. a guided tour(가이드 안내 관광), world tour(월드 투어), go on tour(순회공연을 가다)처럼 써요. trip은 어디로 다녀오는 일반적인 여행, tour는 여러 곳을 돌아보는 구성 있는 여행이라는 차이가 있어요. 동사 tour는 '관광하다, 순회하다'라서 tour Europe는 '유럽을 여행하다'예요. 명사 tourist는 '관광객'이고 tourism은 '관광업'이에요. tour of duty는 군인의 복무 기간을 말해요.",
+"also": [
+{
+"w": "tourist",
+"pos": "n",
+"ko": "관광객",
+"en": "The city is crowded with **tourists** in summer."
+},
+{
+"w": "tourism",
+"pos": "n",
+"ko": "관광업",
+"en": "**Tourism** is the main industry of the island."
+}
+]
+},
+{
+"w": "towel",
+"pos": "n",
+"meaning_ko": "수건",
+"example_en": "Could I have another **towel**, please?",
+"example_ko": "수건 하나만 더 주시겠어요?",
+"nuance_ko": "towel은 몸이나 물건의 물기를 닦는 수건이에요. bath towel(목욕 수건), beach towel(비치 타월), paper towel(키친타월)처럼 써요. 한국어의 '타월'과 같은 말이지만 영어에서는 hand towel(손수건 크기)과 bath towel(큰 수건)이 구분돼요. throw in the towel은 복싱에서 항복 신호로 수건을 던지는 데서 나온 '포기하다'라는 관용구예요. 영국식 동사 철자는 towelling이고 미국식은 toweling이에요.",
+"also": [
+{
+"w": "towels",
+"pos": "n",
+"ko": "수건들",
+"en": "The hotel provides fresh **towels** every day."
+}
+]
+},
+{
+"w": "tower",
+"pos": "n",
+"meaning_ko": "탑, 타워",
+"example_en": "We climbed to the top of the **tower** for a view of the city.",
+"example_ko": "우리는 도시 전망을 보려고 탑 꼭대기까지 올라갔어.",
+"nuance_ko": "tower는 높이 솟은 탑이나 건물을 가리켜요. clock tower(시계탑), water tower(급수탑), the Eiffel Tower, tower block(영국의 고층 아파트)처럼 써요. 동사 tower는 '우뚝 솟다'라서 The mountain towers above the village는 '산이 마을 위로 우뚝 솟아 있다'예요. 형용사 towering은 '우뚝 솟은, 엄청난'이라서 a towering figure는 '거인 같은 인물'이에요. tower of strength는 '든든한 의지가 되는 사람'이라는 표현이에요.",
+"also": [
+{
+"w": "towering",
+"pos": "adj",
+"ko": "우뚝 솟은",
+"en": "A **towering** oak stood at the edge of the field."
+}
+]
+},
+{
+"w": "toy",
+"pos": "n",
+"meaning_ko": "장난감",
+"example_en": "The kids left their **toys** all over the living room floor.",
+"example_ko": "애들이 거실 바닥 여기저기에 장난감을 널어놨어.",
+"nuance_ko": "toy는 아이들이 가지고 노는 장난감이에요. toy car(장난감 자동차), stuffed toy(봉제 인형), toy store(장난감 가게)처럼 써요. 크기가 작은 것을 나타내는 형용사로도 쓰여서 toy dog은 '아주 작은 품종의 개'예요. 동사 toy with ~는 '~를 만지작거리다, 가볍게 생각해 보다'라서 toy with the idea는 '그 생각을 슬쩍 해 보다'이고 He toyed with his food는 '그는 음식을 깨작거렸다'예요. 어른이 가지고 노는 물건을 가리킬 때도 쓰여서 expensive toys는 값비싼 기기를 가리켜요.",
+"also": [
+{
+"w": "toys",
+"pos": "n",
+"ko": "장난감들",
+"en": "He buys new **toys** for his dog every month."
+}
+]
+},
+{
+"w": "trace",
+"pos": "v",
+"meaning_ko": "추적하다, 따라 그리다",
+"example_en": "Police are trying to **trace** the source of the call.",
+"example_ko": "경찰은 그 전화의 발신지를 추적하려고 하고 있어.",
+"nuance_ko": "trace는 흔적을 따라 근원을 찾거나 윤곽을 따라 그리는 동사예요. trace a call(전화를 추적하다), trace back to ~(~까지 거슬러 올라가다), trace the outline(윤곽을 따라 그리다)처럼 써요. 명사 trace는 '흔적, 자취'라서 without a trace(흔적도 없이), no trace of ~(~의 흔적이 없는)처럼 써요. a trace of salt는 '소금 극소량'이라는 뜻이기도 해요. 컴퓨터에서는 오류를 추적하는 stack trace(스택 추적)가 있어요.",
+"also": [
+{
+"w": "traced",
+"pos": "v",
+"ko": "추적했다",
+"en": "Scientists **traced** the virus back to a single source."
+},
+{
+"w": "traces",
+"pos": "n",
+"ko": "흔적들",
+"en": "Police found **traces** of blood on the floor."
+}
+]
+},
+{
+"w": "trade",
+"pos": "n",
+"meaning_ko": "무역, 거래, 직업",
+"example_en": "The two countries signed a new **trade** agreement last week.",
+"example_ko": "두 나라는 지난주 새 무역 협정에 서명했어.",
+"nuance_ko": "trade는 물건을 사고파는 무역, 거래, 또는 손기술이 필요한 직업을 가리켜요. international trade(국제 무역), trade war(무역 전쟁), trade deficit(무역 적자), learn a trade(기술을 배우다)처럼 써요. 동사 trade는 '거래하다, 교환하다'라서 trade stocks(주식을 거래하다), trade places with ~(~와 자리를 바꾸다)처럼 써요. trick of the trade는 '업계의 비결', trade-off는 '맞교환, 절충'이에요. commerce가 더 넓은 상업 활동, trade는 구체적 거래라는 느낌이에요.",
+"also": [
+{
+"w": "trader",
+"pos": "n",
+"ko": "거래인, 상인",
+"en": "He works as a **trader** at a large bank."
+},
+{
+"w": "trading",
+"pos": "n",
+"ko": "거래",
+"en": "**Trading** on the stock exchange was heavy today."
+}
+]
+},
+{
+"w": "tradition",
+"pos": "n",
+"meaning_ko": "전통, 관습",
+"example_en": "It's a family **tradition** to cook together on holidays.",
+"example_ko": "명절에 함께 요리하는 건 우리 집 전통이야.",
+"nuance_ko": "tradition은 오랫동안 전해 내려오는 관습이나 풍습을 가리켜요. a family tradition(가족 전통), follow tradition(전통을 따르다), break with tradition(전통을 깨다)처럼 써요. by tradition은 '관례에 따라'라는 표현이에요. custom은 사회에서 일상적으로 행해지는 관습이고 tradition은 세대를 이어 전해진 의미 있는 풍습이라는 차이가 있어요. 형용사 traditional은 '전통적인'이라서 traditional Korean food는 '한식'이에요. 모든 전통이 좋은 건 아니라서 outdated tradition(시대에 뒤떨어진 전통)이라는 비판도 가능해요.",
+"also": [
+{
+"w": "traditional",
+"pos": "adj",
+"ko": "전통적인",
+"en": "We wore **traditional** clothes for the festival."
+},
+{
+"w": "traditionally",
+"pos": "adv",
+"ko": "전통적으로",
+"en": "**Traditionally**, the family eats together on Sundays."
+}
+]
+},
+{
+"w": "traffic",
+"pos": "n",
+"meaning_ko": "교통, 교통량",
+"example_en": "We were late because of heavy **traffic** on the highway.",
+"example_ko": "고속도로 교통 체증 때문에 늦었어.",
+"nuance_ko": "traffic은 도로 위의 차량 흐름 또는 교통량을 가리켜요. 불가산 명사라서 a traffic이라고 하지 않고 heavy traffic(심한 교통 체증), traffic jam(교통 체증), traffic light(신호등), traffic accident처럼 써요. 인터넷에서는 사이트 방문량도 traffic이라서 website traffic이에요. 불법 거래를 가리켜서 drug trafficking은 '마약 밀매'예요. 한국 학습자는 '교통 체증이 많다'를 many traffic이라고 하는 실수를 자주 하는데 heavy traffic 또는 a lot of traffic이라고 해야 해요.",
+"also": []
+},
+{
+"w": "transfer",
+"pos": "v",
+"meaning_ko": "옮기다, 이체하다, 전근하다",
+"example_en": "Could you **transfer** the money to my account by Friday?",
+"example_ko": "금요일까지 제 계좌로 돈을 이체해 주실 수 있나요?",
+"nuance_ko": "transfer는 한 곳에서 다른 곳으로 옮기는 동사예요. 돈을 이체하거나(transfer money), 파일을 옮기거나(transfer files), 직장을 옮기거나(transfer to another branch), 학교를 옮기는 것(transfer schools)에 모두 써요. 대중교통에서는 환승을 뜻해서 transfer to another train은 '다른 기차로 갈아타다'예요. 명사 transfer는 /ˈtrænsfɜːr/로 앞에 강세가 오고 동사는 /trænsˈfɜːr/로 뒤에 강세가 와요. bank transfer는 '계좌 이체'예요.",
+"also": [
+{
+"w": "transferred",
+"pos": "v",
+"ko": "옮겼다, 이체했다",
+"en": "She was **transferred** to the Tokyo office."
+},
+{
+"w": "transferable",
+"pos": "adj",
+"ko": "양도 가능한, 이전 가능한",
+"en": "These skills are **transferable** to other jobs."
+}
+]
+},
+{
+"w": "trap",
+"pos": "n",
+"meaning_ko": "덫, 함정",
+"example_en": "The farmer set a **trap** to catch the fox.",
+"example_ko": "농부는 여우를 잡으려고 덫을 놓았어.",
+"nuance_ko": "trap은 동물이나 사람을 잡으려고 놓는 덫, 또는 빠져나오기 힘든 함정이에요. set a trap(덫을 놓다), fall into a trap(함정에 빠지다), tourist trap(바가지 관광지)처럼 써요. 동사 trap은 '가두다'라서 be trapped in the elevator는 '엘리베이터에 갇히다'예요. Shut your trap!은 '입 닥쳐!'라는 거친 구어 표현이에요. 비유로 poverty trap은 '빈곤의 덫'이고 the trap of social media는 '소셜 미디어의 함정'이에요. snare는 올가미, trap은 더 넓은 의미의 덫이에요.",
+"also": [
+{
+"w": "trapped",
+"pos": "adj",
+"ko": "갇힌",
+"en": "Several workers were **trapped** in the tunnel."
+}
+]
+},
+{
+"w": "tray",
+"pos": "n",
+"meaning_ko": "쟁반, 트레이",
+"example_en": "The waiter carried a **tray** of drinks to the table.",
+"example_ko": "웨이터가 음료를 담은 쟁반을 테이블로 가져왔어.",
+"nuance_ko": "tray는 음식이나 물건을 담아 나르는 납작한 쟁반이에요. a serving tray(서빙 쟁반), a baking tray(오븐 팬), tray table(비행기의 접이식 테이블)처럼 써요. 사무실의 서류함도 in-tray, out-tray라고 부르고 ice cube tray는 '얼음 틀'이에요. 비행기에서 Please put your tray table up은 '테이블을 접어 주세요'라는 안내 방송이에요. 컴퓨터 화면 구석의 system tray(시스템 트레이)에도 같은 단어가 쓰여요.",
+"also": [
+{
+"w": "trays",
+"pos": "n",
+"ko": "쟁반들",
+"en": "The students put their **trays** on the shelf."
+}
+]
+},
+{
+"w": "trial",
+"pos": "n",
+"meaning_ko": "재판, 시험 사용",
+"example_en": "The company offers a free thirty-day **trial** of the software.",
+"example_ko": "그 회사는 소프트웨어를 30일간 무료로 체험해 볼 수 있게 해 줘.",
+"nuance_ko": "trial은 법정의 재판과 시험 삼아 써 보는 시험 사용이라는 두 가지 뜻이 있어요. stand trial(재판을 받다), a fair trial(공정한 재판), a free trial(무료 체험)처럼 써요. trial and error는 '시행착오'라서 learn by trial and error는 '시행착오를 겪으며 배우다'예요. 의학에서는 clinical trial(임상 시험)이 자주 나와요. on trial은 '재판을 받는' 또는 '시험 중인'이라서 문맥에 따라 달라요. 형용사로 trial run은 '시험 운행'이에요.",
+"also": [
+{
+"w": "trials",
+"pos": "n",
+"ko": "재판들, 시련",
+"en": "The **trials** of the past year made her stronger."
+}
+]
+},
+{
+"w": "trick",
+"pos": "n",
+"meaning_ko": "속임수, 요령",
+"example_en": "There's a simple **trick** to remember the spelling of this word.",
+"example_ko": "이 단어 철자를 외우는 간단한 요령이 있어.",
+"nuance_ko": "trick은 속임수, 장난, 요령이라는 뜻이 있어요. play a trick on someone(누구에게 장난을 치다), magic trick(마술), a trick of the light(빛의 착시)처럼 써요. 핼러윈의 trick or treat은 '과자 안 주면 장난칠 거야'라는 말이에요. 요령이라는 뜻일 때는 the trick is to ~(요령은 ~하는 거야)로 자주 써요. 동사 trick은 '속이다'라서 He tricked me into signing는 '그가 속여서 서명하게 했다'예요. 형용사 tricky는 '까다로운'이라서 a tricky situation은 '곤란한 상황'이에요.",
+"also": [
+{
+"w": "tricky",
+"pos": "adj",
+"ko": "까다로운",
+"en": "This is a **tricky** question to answer."
+},
+{
+"w": "tricked",
+"pos": "v",
+"ko": "속였다",
+"en": "They **tricked** him into paying twice."
+}
+]
+},
+{
+"w": "truck",
+"pos": "n",
+"meaning_ko": "트럭",
+"example_en": "A big **truck** blocked the road, so we had to wait.",
+"example_ko": "큰 트럭이 길을 막아서 우리는 기다려야 했어.",
+"nuance_ko": "truck은 짐을 싣는 트럭이고 미국에서는 pickup truck도 흔히 말해요. 영국에서는 lorry라고도 해요. delivery truck(배달 트럭), garbage truck(쓰레기 수거차), fire truck(소방차)처럼 써요. 동사 truck은 '트럭으로 나르다'라서 truck the goods는 '트럭으로 물건을 운반하다'예요. 구어에서 have no truck with ~는 '~와 거래하지 않다, 상종하지 않다'라는 뜻이에요. 트럭 운전사는 trucker라고 해요.",
+"also": [
+{
+"w": "trucker",
+"pos": "n",
+"ko": "트럭 운전사",
+"en": "The **trucker** drove all night to deliver the goods."
+}
+]
+},
+{
+"w": "trunk",
+"pos": "n",
+"meaning_ko": "나무줄기, 트렁크",
+"example_en": "Please put the suitcases in the **trunk** of the car.",
+"example_ko": "여행 가방은 차 트렁크에 넣어 줘.",
+"nuance_ko": "trunk는 나무줄기, 코끼리의 코, 큰 여행용 상자, 그리고 미국 자동차의 트렁크를 가리켜요. 영국에서는 자동차 트렁크를 boot라고 해요. the trunk of a tree(나무줄기), an elephant's trunk(코끼리 코), a steamer trunk(큰 여행 가방)처럼 써요. 복수 trunks는 '수영 팬츠'라서 swimming trunks는 남성용 수영복이에요. trunk road는 영국에서 '간선도로'라는 뜻이에요. 한국어 '트렁크'는 차 짐칸이지만 영어에서는 지역에 따라 다른 단어가 쓰인다는 점이 달라요.",
+"also": [
+{
+"w": "trunks",
+"pos": "n",
+"ko": "수영 팬츠",
+"en": "He packed his swimming **trunks** for the trip."
+}
+]
+},
+{
+"w": "tune",
+"pos": "n",
+"meaning_ko": "곡조, 선율",
+"example_en": "I can't get that **tune** out of my head.",
+"example_ko": "그 곡조가 머릿속에서 떠나질 않아.",
+"nuance_ko": "tune은 귀에 익은 선율, 곡조를 가리켜요. hum a tune(콧노래를 부르다), a catchy tune(귀에 쏙 들어오는 곡)처럼 써요. in tune은 '음이 맞는', out of tune은 '음이 틀린'이에요. 동사 tune은 '조율하다'라서 tune a guitar(기타를 조율하다)처럼 써요. 라디오를 맞출 때도 쓰여서 tune in to the radio는 '라디오에 주파수를 맞추다'예요. change one's tune은 '태도를 바꾸다', call the tune은 '결정권을 쥐다'라는 관용구예요.",
+"also": [
+{
+"w": "tuned",
+"pos": "v",
+"ko": "조율했다",
+"en": "He **tuned** the piano before the concert."
+},
+{
+"w": "tuning",
+"pos": "n",
+"ko": "조율",
+"en": "The guitar needs **tuning**."
+}
+]
+},
+{
+"w": "twin",
+"pos": "n",
+"meaning_ko": "쌍둥이",
+"example_en": "She has a **twin** sister who lives in Canada.",
+"example_ko": "그녀에게는 캐나다에 사는 쌍둥이 자매가 있어.",
+"nuance_ko": "twin은 쌍둥이 중 한 명 또는 쌍둥이를 가리켜요. identical twins(일란성 쌍둥이), fraternal twins(이란성 쌍둥이), twin brother(쌍둥이 형제)처럼 써요. 한 명씩 말할 때 She is a twin, 둘을 말하면 They are twins예요. 형용사 twin은 '두 개 한 쌍의'라서 twin beds(싱글 침대 두 개), twin towers(쌍둥이 빌딩)처럼 써요. 자매 도시를 twin town이라고 하는 영국식 표현도 있어요. 동사 twin은 '짝을 이루다'예요.",
+"also": [
+{
+"w": "twins",
+"pos": "n",
+"ko": "쌍둥이들",
+"en": "The **twins** look exactly alike."
+}
+]
+},
+{
+"w": "twist",
+"pos": "v",
+"meaning_ko": "비틀다, 꼬다",
+"example_en": "I **twisted** my ankle while running down the stairs.",
+"example_ko": "계단을 뛰어 내려오다가 발목을 삐었어.",
+"nuance_ko": "twist는 비틀거나 꼬는 동사예요. twist the cap off(뚜껑을 돌려 따다), twist one's ankle(발목을 삐다), twist the truth(사실을 왜곡하다)처럼 써요. 명사 twist는 '꼬임, 반전'이라서 a plot twist(줄거리의 반전), a twist of fate(운명의 장난), a twist of lemon(레몬 껍질 한 조각)처럼 써요. 춤 이름으로도 쓰여서 do the twist는 '트위스트를 추다'예요. twist someone's arm은 '강하게 설득하다'라는 관용구예요.",
+"also": [
+{
+"w": "twisted",
+"pos": "adj",
+"ko": "비틀린, 뒤틀린",
+"en": "The old tree had a **twisted** trunk."
+},
+{
+"w": "twisting",
+"pos": "adj",
+"ko": "구불구불한",
+"en": "We drove along a **twisting** mountain road."
+}
+]
+},
+{
+"w": "typical",
+"pos": "adj",
+"meaning_ko": "전형적인, 흔한",
+"example_en": "A **typical** day for me starts with coffee and email.",
+"example_ko": "내 평범한 하루는 커피와 이메일로 시작해.",
+"nuance_ko": "typical은 어떤 종류의 전형적인 특징을 가진, 흔히 볼 수 있는 것을 가리키는 형용사예요. a typical day(평범한 하루), typical symptoms(전형적인 증상)처럼 써요. That's typical of him은 '그 사람답네'라는 말로 보통 불평을 담아요. 반대는 atypical 또는 untypical이고 usual은 평소와 같은 것, typical은 대표적인 특성을 가진 것이라는 차이가 있어요. 구어 감탄 Typical!은 '역시나 그렇지 뭐'라는 투덜거림이에요.",
+"also": [
+{
+"w": "typically",
+"pos": "adv",
+"ko": "보통, 전형적으로",
+"en": "**Typically**, the shop opens at nine."
+}
+]
+},
+{
+"w": "union",
+"pos": "n",
+"meaning_ko": "노동조합, 연합",
+"example_en": "The workers joined the **union** to fight for better pay.",
+"example_ko": "노동자들은 더 나은 임금을 요구하려고 노조에 가입했어.",
+"nuance_ko": "union은 같은 목적을 위해 결합한 단체, 특히 노동조합(trade union, labor union)을 가리켜요. join a union(노조에 가입하다), union leader(노조 위원장)처럼 써요. 국가 연합도 union이라서 the European Union(EU)이나 the Soviet Union(소련)처럼 쓰여요. 결혼을 뜻하는 격식 있는 말로도 쓰여서 a happy union(행복한 결합)이에요. the State of the Union은 미국 대통령의 국정 연설이에요. 학교의 student union은 학생회를 가리켜요.",
+"also": [
+{
+"w": "unions",
+"pos": "n",
+"ko": "노조들",
+"en": "**Unions** negotiated a new contract."
+}
+]
+},
+{
+"w": "unit",
+"pos": "n",
+"meaning_ko": "단위, 부서, 한 개",
+"example_en": "This apartment **unit** has two bedrooms and a balcony.",
+"example_ko": "이 아파트 세대는 침실이 두 개고 발코니가 있어.",
+"nuance_ko": "unit은 전체를 구성하는 하나의 단위를 가리켜요. 측정 단위(unit of measurement), 아파트의 한 가구(apartment unit), 병원의 부서(intensive care unit), 군대의 부대(military unit)처럼 폭넓게 써요. 교재의 한 단원도 unit이라서 Unit 5는 '5단원'이에요. unit price는 '단가', unit cost는 '개당 원가'예요. 가족을 하나의 단위로 보면 family unit이라고 해요. 한국어 '유닛'은 게임 용어이기도 하지만 영어 unit은 훨씬 넓은 개념이에요.",
+"also": [
+{
+"w": "units",
+"pos": "n",
+"ko": "단위들, 세대들",
+"en": "The building has fifty rental **units**."
+}
+]
+},
+{
+"w": "unite",
+"pos": "v",
+"meaning_ko": "연합하다, 통합하다",
+"example_en": "The two parties decided to **unite** against the proposal.",
+"example_ko": "두 정당은 그 제안에 맞서기 위해 연합하기로 했어.",
+"nuance_ko": "unite는 여럿이 하나로 합치거나 힘을 모으는 동사예요. unite against a common enemy(공동의 적에 맞서 뭉치다), unite the country(나라를 통합하다)처럼 써요. 형용사 united는 '연합한, 하나가 된'이라서 the United States, the United Kingdom, United Nations 같은 고유 이름에 쓰여요. reunite는 '재결합시키다'라서 The family was reunited는 '가족이 다시 만났다'예요. 속담 United we stand, divided we fall은 '뭉치면 서고 흩어지면 쓰러진다'예요.",
+"also": [
+{
+"w": "united",
+"pos": "adj",
+"ko": "연합한, 단결한",
+"en": "The team stayed **united** through hard times."
+},
+{
+"w": "reunite",
+"pos": "v",
+"ko": "재결합시키다",
+"en": "The program helps to **reunite** lost pets with their owners."
+}
+]
+},
+{
+"w": "university",
+"pos": "n",
+"meaning_ko": "대학교",
+"example_en": "She went to **university** in Scotland and studied biology.",
+"example_ko": "그녀는 스코틀랜드에서 대학을 다니며 생물학을 공부했어.",
+"nuance_ko": "university는 학부와 대학원 과정이 있는 종합 대학이에요. college는 미국에서 학부 중심의 대학을 가리키지만 일상에서는 university와 구분 없이 쓰기도 해요. 영국에서는 go to university 또는 at university처럼 관사를 생략하고, 미국에서는 go to college라고 해요. 특정 학교를 말할 때는 the University of Oxford처럼 쓰고 관사가 붙어요. 발음에서 /juː/ 소리가 시작돼서 a university라고 쓰지 an university가 아니라는 점이 함정이에요. 줄여서 uni(영국 구어)라고 하기도 해요.",
+"also": [
+{
+"w": "universities",
+"pos": "n",
+"ko": "대학들",
+"en": "Many **universities** offer online courses."
+}
+]
+},
+{
+"w": "upper",
+"pos": "adj",
+"meaning_ko": "위쪽의, 상위의",
+"example_en": "The books are on the **upper** shelf, out of reach of the kids.",
+"example_ko": "책들은 아이들 손이 닿지 않는 위쪽 선반에 있어.",
+"nuance_ko": "upper는 위쪽에 있거나 높은 쪽의 것을 가리키는 형용사예요. upper floor(위층), upper body(상체), upper lip(윗입술), upper class(상류층)처럼 써요. 반대는 lower예요. get the upper hand는 '우위를 점하다'라는 관용구이고 keep a stiff upper lip은 영국식으로 '감정을 억누르고 의연하게 버티다'예요. 명사 upper는 신발의 윗부분을 가리켜요. higher는 비교급이지만 upper는 위치상 위쪽에 있는 것을 말해서 쓰임이 달라요.",
+"also": []
+},
+{
+"w": "upset",
+"pos": "adj",
+"meaning_ko": "속상한, 화난",
+"example_en": "She was really **upset** when she heard the bad news.",
+"example_ko": "그녀는 나쁜 소식을 듣고 정말 속상해했어.",
+"nuance_ko": "upset은 슬프거나 화나거나 속상한 감정 상태를 나타내는 형용사예요. be upset about ~(~에 대해 속상하다), upset stomach(배탈)처럼 써요. 동사 upset은 '속상하게 하다, 뒤집다'라서 Don't upset her(그녀를 속상하게 하지 마), upset the balance(균형을 깨뜨리다)처럼 써요. 형태가 현재, 과거, 과거분사 모두 upset으로 같아요. 스포츠에서 명사 upset은 '이변'이라서 a big upset은 '큰 이변'이에요. angry보다 마음이 흔들리는 느낌이 있어요.",
+"also": [
+{
+"w": "upsetting",
+"pos": "adj",
+"ko": "속상하게 하는",
+"en": "It was an **upsetting** experience for the whole family."
+}
+]
+},
+{
+"w": "valley",
+"pos": "n",
+"meaning_ko": "계곡, 골짜기",
+"example_en": "A small village lies at the bottom of the **valley**.",
+"example_ko": "작은 마을이 골짜기 아래쪽에 자리 잡고 있어.",
+"nuance_ko": "valley는 두 산 사이의 낮고 긴 지형, 계곡이나 골짜기를 가리켜요. river valley(강 유역), mountain valley, Silicon Valley(실리콘밸리)처럼 써요. 실리콘밸리는 IT 기업이 모여 있는 캘리포니아 지역을 가리켜요. 비유로 the valley of death는 '위기의 시기'를 뜻하고, 스타트업에서 valley of death는 초기 자금이 바닥나는 시기를 말해요. canyon은 깊고 가파른 협곡이고 valley는 완만하게 열린 낮은 땅이라는 차이가 있어요.",
+"also": [
+{
+"w": "valleys",
+"pos": "n",
+"ko": "계곡들",
+"en": "Fog filled the **valleys** in the early morning."
+}
+]
+},
+{
+"w": "value",
+"pos": "n",
+"meaning_ko": "가치, 가격",
+"example_en": "This old watch has great sentimental **value** to me.",
+"example_ko": "이 낡은 시계는 나에게 정서적으로 큰 가치가 있어.",
+"nuance_ko": "value는 어떤 것이 가진 중요성이나 금전적 가치를 가리켜요. value for money(가격 대비 가치), market value(시장 가치), sentimental value(정서적 가치)처럼 써요. 복수 values는 '가치관'이라서 family values(가정의 가치), core values(핵심 가치)처럼 써요. 동사 value는 '소중히 여기다, 평가하다'라서 I value your opinion은 '당신의 의견을 소중히 생각해요'예요. 형용사 valuable은 '값비싼, 귀중한'이고 invaluable은 '값을 매길 수 없을 만큼 귀중한'이라서 둘의 차이가 헷갈리니 조심해요.",
+"also": [
+{
+"w": "valuable",
+"pos": "adj",
+"ko": "귀중한, 값진",
+"en": "Keep your **valuable** items in the hotel safe."
+},
+{
+"w": "values",
+"pos": "n",
+"ko": "가치관",
+"en": "The company shares the same **values** as its customers."
+}
+]
+},
+{
+"w": "various",
+"pos": "adj",
+"meaning_ko": "다양한, 여러 가지의",
+"example_en": "We discussed **various** options before making a decision.",
+"example_ko": "결정을 내리기 전에 여러 가지 선택지를 논의했어.",
+"nuance_ko": "various는 종류가 서로 다른 여러 가지를 가리키는 형용사예요. various reasons(여러 가지 이유), at various times(여러 번), in various ways(다양한 방식으로)처럼 써요. 복수 명사 앞에 쓰고 단수 명사 앞에는 쓰지 않아요. many는 개수가 많다는 뜻이고 various는 종류가 다르다는 뜻이라는 차이가 있어요. different와 비슷하지만 various는 여러 종류가 섞여 있다는 느낌이에요. 부사 variously는 '여러 가지로'라서 격식 있는 글에서 가끔 쓰여요.",
+"also": []
+},
+{
+"w": "vary",
+"pos": "v",
+"meaning_ko": "다양하다, 달라지다",
+"example_en": "Prices **vary** depending on the season and the location.",
+"example_ko": "가격은 계절과 장소에 따라 달라.",
+"nuance_ko": "vary는 서로 다르거나 변화하는 동사예요. vary from A to B(A에서 B까지 다양하다), vary in size(크기가 다르다), vary depending on ~(~에 따라 달라지다)처럼 써요. 명사 variety는 '다양성'이고 variation은 '변형, 변화'이며 형용사 variable은 '변하기 쉬운'이에요. 일기예보에서 variable cloud는 '구름이 변하는'이라는 뜻이에요. Opinions vary는 '의견이 갈린다'는 격식 있는 표현이에요. 날씨나 가격처럼 일정하지 않은 것을 말할 때 자주 써요.",
+"also": [
+{
+"w": "variation",
+"pos": "n",
+"ko": "변화, 변형",
+"en": "There is a lot of **variation** in temperature here."
+},
+{
+"w": "varied",
+"pos": "adj",
+"ko": "다양한",
+"en": "She has a **varied** career in several fields."
+}
+]
+},
+{
+"w": "vegetable",
+"pos": "n",
+"meaning_ko": "채소",
+"example_en": "Try to eat more fresh **vegetables** every day.",
+"example_ko": "매일 신선한 채소를 더 많이 먹도록 해 봐.",
+"nuance_ko": "vegetable은 먹을 수 있는 식물의 부위, 채소를 가리켜요. 가산 명사라서 vegetables(복수)로 자주 쓰고, 종류를 말하기 위해 green vegetables(녹색 채소), root vegetables(뿌리채소)처럼 써요. 구어에서는 veggie라고 줄여 말해서 veggie burger(채식 버거), eat your veggies(채소 먹어라)처럼 가볍게 써요. 영국에서는 veg로도 줄여요. 과일은 fruit라서 fruit and vegetables(과일과 채소)처럼 쌍으로 자주 쓰여요. 사람에게 쓰면 '식물인간'을 뜻할 수 있어요.",
+"also": [
+{
+"w": "veggies",
+"pos": "n",
+"ko": "채소(구어)",
+"en": "Don't forget to eat your **veggies**."
+}
+]
+},
+{
+"w": "vehicle",
+"pos": "n",
+"meaning_ko": "차량, 탈것",
+"example_en": "All **vehicles** must stop at the red light.",
+"example_ko": "모든 차량은 빨간불에서 정지해야 해.",
+"nuance_ko": "vehicle은 자동차, 트럭, 버스 등 바퀴가 달려 사람이나 물건을 나르는 차량을 통틀어 가리켜요. motor vehicle(자동차), electric vehicle(전기차), commercial vehicle(상업용 차량)처럼 써요. car보다 포괄적이고 격식 있어서 법규, 보도자료, 안내문에서 자주 보여요. 비유로는 '수단, 매개체'라서 a vehicle for change는 '변화의 수단'이에요. 발음은 /ˈviːəkl/로 h가 묵음이라는 점이 한국 학습자들의 함정이에요. 영화에서 한 배우의 주연작을 star vehicle이라고 해요.",
+"also": [
+{
+"w": "vehicles",
+"pos": "n",
+"ko": "차량들",
+"en": "Electric **vehicles** are becoming more popular."
+}
+]
+},
+{
+"w": "version",
+"pos": "n",
+"meaning_ko": "버전, 판본, 해석",
+"example_en": "Make sure you're using the latest **version** of the software.",
+"example_ko": "소프트웨어 최신 버전을 쓰고 있는지 확인해.",
+"nuance_ko": "version은 같은 것의 서로 다른 형태, 판, 해석을 가리켜요. the latest version(최신 버전), a different version(다른 판), the English version(영어판)처럼 써요. 어떤 사건에 대한 한 사람의 설명도 version이라서 Tell me your version of the story는 '네가 아는 이야기를 말해 봐'예요. 영화의 영화판과 원작을 비교할 때 the film version(영화판)이라고 해요. edition은 책의 판, version은 소프트웨어나 일반적인 형태를 가리켜서 쓰임이 조금 달라요.",
+"also": [
+{
+"w": "versions",
+"pos": "n",
+"ko": "버전들",
+"en": "There are several **versions** of this old story."
+}
+]
+},
+{
+"w": "victim",
+"pos": "n",
+"meaning_ko": "피해자, 희생자",
+"example_en": "The police are trying to identify the **victim** of the crash.",
+"example_ko": "경찰은 충돌 사고 피해자의 신원을 확인하려고 하고 있어.",
+"nuance_ko": "victim은 범죄, 사고, 재난으로 피해를 입은 사람이에요. crime victim(범죄 피해자), victims of the flood(홍수 이재민), fall victim to ~(~의 희생양이 되다)처럼 써요. 동사 victimize는 '부당하게 괴롭히다, 희생시키다'라서 be victimized by bullies는 '괴롭힘의 피해자가 되다'예요. 사건 보도에서 victim 대신 survivor(생존자)를 쓰는 경우도 있어서 피해자의 존엄을 지키는 표현을 고르는 일이 중요해요. victim blaming은 '피해자 탓하기'라는 비판적 표현이에요.",
+"also": [
+{
+"w": "victims",
+"pos": "n",
+"ko": "피해자들",
+"en": "Aid was sent to the **victims** of the earthquake."
+},
+{
+"w": "victimize",
+"pos": "v",
+"ko": "희생시키다, 부당하게 괴롭히다",
+"en": "He claimed the company tried to **victimize** him."
+}
+]
+},
+{
+"w": "village",
+"pos": "n",
+"meaning_ko": "마을, 촌락",
+"example_en": "She grew up in a small **village** in the mountains.",
+"example_ko": "그녀는 산속의 작은 마을에서 자랐어.",
+"nuance_ko": "village는 town보다 작은 시골 마을을 가리켜요. a fishing village(어촌), village life(시골 생활), the village square(마을 광장)처럼 써요. 미국에서는 도시 안의 한 동네를 가리키기도 해서 Greenwich Village는 뉴욕의 유명한 지역 이름이에요. global village는 '지구촌'이라는 비유 표현이에요. 속담 It takes a village to raise a child는 '아이 하나를 키우려면 온 마을이 필요하다', 즉 '육아에는 공동체의 도움이 필요하다'는 뜻이에요.",
+"also": [
+{
+"w": "villagers",
+"pos": "n",
+"ko": "마을 사람들",
+"en": "The **villagers** gathered in the square for the festival."
+},
+{
+"w": "villager",
+"pos": "n",
+"ko": "마을 주민",
+"en": "A friendly **villager** showed us the way."
+}
+]
+},
+{
+"w": "violent",
+"pos": "adj",
+"meaning_ko": "폭력적인, 격렬한",
+"example_en": "The movie contains some **violent** scenes, so it isn't for kids.",
+"example_ko": "그 영화에는 폭력적인 장면이 있어서 아이들용이 아니야.",
+"nuance_ko": "violent는 폭력을 쓰거나 몹시 격렬한 것을 가리키는 형용사예요. a violent crime(강력 범죄), violent storm(맹렬한 폭풍), violent temper(불같은 성미)처럼 써요. 반대는 peaceful 또는 nonviolent예요. 명사 violence는 '폭력'이라서 domestic violence(가정 폭력), act of violence(폭력 행위)처럼 써요. aggressive가 공격적인 태도라면 violent는 실제로 힘이나 폭력을 쓰는 일이라는 차이가 있어요. 부사 violently는 '격렬하게'라서 shake violently(심하게 흔들다)처럼 써요.",
+"also": [
+{
+"w": "violently",
+"pos": "adv",
+"ko": "격렬하게",
+"en": "The ship rocked **violently** in the storm."
+},
+{
+"w": "nonviolent",
+"pos": "adj",
+"ko": "비폭력적인",
+"en": "They organized a **nonviolent** protest."
+}
+]
+},
+{
+"w": "vote",
+"pos": "n",
+"meaning_ko": "투표, 표",
+"example_en": "Every **vote** counts in a close election.",
+"example_ko": "박빙의 선거에서는 한 표 한 표가 중요해.",
+"nuance_ko": "vote는 선거나 결정에서 의견을 표시하는 투표나 한 표를 가리켜요. cast a vote(투표하다), the right to vote(투표권), a vote of confidence(신임 투표), majority vote(다수결)처럼 써요. 동사 vote는 '투표하다'라서 vote for/against ~(~에 찬성/반대 투표하다)처럼 전치사가 중요해요. 구어에서 Let's put it to a vote는 '표결에 부치자'예요. 투표하는 사람은 voter라고 해요. election이 투표를 거치는 선거 전체라면 vote는 한 표 또는 투표 행위를 말해요.",
+"also": [
+{
+"w": "voter",
+"pos": "n",
+"ko": "투표자, 유권자",
+"en": "The **voters** will go to the polls on Tuesday."
+},
+{
+"w": "voting",
+"pos": "n",
+"ko": "투표",
+"en": "**Voting** starts at eight in the morning."
+}
+]
+},
+{
+"w": "wage",
+"pos": "n",
+"meaning_ko": "임금, 급료",
+"example_en": "The minimum **wage** has gone up again this year.",
+"example_ko": "올해도 최저임금이 또 올랐어.",
+"nuance_ko": "wage는 시간급이나 일당처럼 일한 만큼 받는 임금을 가리켜요. 월급은 salary라서 둘이 구분돼요. minimum wage(최저임금), hourly wage(시급), wage gap(임금 격차)처럼 써요. 주로 복수 wages로도 쓰여서 earn good wages는 '좋은 보수를 받다'예요. 동사 wage는 '전쟁이나 캠페인을 벌이다'라서 wage war(전쟁을 벌이다), wage a campaign(캠페인을 벌이다)처럼 쓰는 격식 있는 표현이에요. living wage는 '생활 임금'이에요.",
+"also": [
+{
+"w": "wages",
+"pos": "n",
+"ko": "임금",
+"en": "Many workers demand higher **wages**."
+}
+]
+},
+{
+"w": "wander",
+"pos": "v",
+"meaning_ko": "돌아다니다, 헤매다",
+"example_en": "We spent the afternoon **wandering** through the old town.",
+"example_ko": "우리는 오후 내내 구시가지를 어슬렁어슬렁 돌아다녔어.",
+"nuance_ko": "wander는 뚜렷한 목적지 없이 여유롭게 돌아다니는 동사예요. wander around the city(도시를 거닐다), wander off(길을 잃고 헤매다, 딴 데로 가다)처럼 써요. 생각이 딴 곳으로 흘러가는 것도 wander라서 My mind wandered는 '딴생각이 들었다'예요. walk는 걷는 일반적인 동작이고 wander는 목적 없이 이리저리 거니는 일이라는 차이가 있어요. 명사 wanderer는 '방랑자', wanderlust는 '여행에 대한 강한 열망'이에요.",
+"also": [
+{
+"w": "wandering",
+"pos": "adj",
+"ko": "떠도는",
+"en": "A **wandering** dog followed us home."
+},
+{
+"w": "wanderer",
+"pos": "n",
+"ko": "방랑자",
+"en": "He was a **wanderer** who never stayed in one place."
+}
+]
+},
+{
+"w": "warn",
+"pos": "v",
+"meaning_ko": "경고하다, 주의를 주다",
+"example_en": "I **warned** you not to leave the food out overnight.",
+"example_ko": "음식을 밤새 밖에 두지 말라고 내가 경고했잖아.",
+"nuance_ko": "warn은 위험이나 나쁜 일을 미리 알려서 조심하게 하는 동사예요. warn someone about/of ~(~에 대해 경고하다), warn someone to + 동사원형, warn someone not to ~의 구조로 써요. 일기예보에서 The forecast warns of storms는 '폭풍이 온다고 예보한다'예요. advise는 조언을 해 주는 것이고 warn은 위험을 알리는 것이라는 차이가 있어요. 명사 warning은 '경고'라서 give a warning(경고를 주다), warning sign(경고 표지)처럼 써요.",
+"also": [
+{
+"w": "warning",
+"pos": "n",
+"ko": "경고",
+"en": "The sign gave a clear **warning** about the danger."
+},
+{
+"w": "warned",
+"pos": "v",
+"ko": "경고했다",
+"en": "The doctor **warned** him about his diet."
+}
+]
+},
+{
+"w": "weak",
+"pos": "adj",
+"meaning_ko": "약한, 허약한",
+"example_en": "After the flu, I felt too **weak** to get out of bed.",
+"example_ko": "독감을 앓고 나서 기력이 없어서 침대에서 일어나기도 힘들었어.",
+"nuance_ko": "weak는 힘이 없거나 약한 상태, 능력이나 효과가 부족한 것을 가리키는 형용사예요. a weak team(약한 팀), weak coffee(연한 커피), weak evidence(빈약한 증거), a weak signal(약한 신호)처럼 써요. 반대는 strong이에요. weak point 또는 weakness는 '약점'이라서 strengths and weaknesses(강점과 약점)로 자주 쓰여요. weak spot for ~는 '~에 약한 마음'이라서 I have a weak spot for chocolate는 '초콜릿에는 약해'예요. week(주)와 발음이 같으니 주의해요.",
+"also": [
+{
+"w": "weakness",
+"pos": "n",
+"ko": "약점, 허약함",
+"en": "Impatience is my biggest **weakness**."
+},
+{
+"w": "weaken",
+"pos": "v",
+"ko": "약화시키다",
+"en": "Years of stress had **weakened** his health."
+}
+]
+},
+{
+"w": "weapon",
+"pos": "n",
+"meaning_ko": "무기",
+"example_en": "The police found a **weapon** hidden under the seat.",
+"example_ko": "경찰은 좌석 밑에 숨겨진 무기를 발견했어.",
+"nuance_ko": "weapon은 싸움이나 전쟁에서 쓰는 무기를 가리켜요. nuclear weapons(핵무기), a deadly weapon(치명적인 무기), weapon of choice(선호하는 수단)처럼 써요. 비유로는 상대를 이기는 수단이라서 Humor is her secret weapon은 '유머가 그녀의 비밀 무기야'예요. arms는 군사 무기류를 통틀어 이르는 격식 있는 말이고 weapon은 개별 무기예요. 발음은 /ˈwepən/으로 ea가 /e/라서 '웨펀'에 가까워요. 철자 weapon에서 ea 부분을 헷갈리지 않도록 주의해요.",
+"also": [
+{
+"w": "weapons",
+"pos": "n",
+"ko": "무기들",
+"en": "The treaty bans chemical **weapons**."
+}
+]
+},
+{
+"w": "wed",
+"pos": "v",
+"meaning_ko": "결혼하다",
+"example_en": "The couple will **wed** in a small ceremony in June.",
+"example_ko": "그 커플은 6월에 작은 식장에서 결혼할 거야.",
+"nuance_ko": "wed는 get married의 격식 있고 문어체적인 동사예요. 뉴스, 소설, 기념 글에서 The couple wed in 1990처럼 쓰여요. 일상 대화에서는 get married가 훨씬 자연스러워요. 과거분사 wed 또는 wedded를 쓰고, 명사 wedding은 '결혼식'이라서 wedding ring(결혼반지), wedding anniversary(결혼기념일)처럼 일상에서 아주 자주 쓰여요. 형용사 unwed는 '미혼의'라서 unwed mother는 '미혼모'예요. 비유로 wedded to an idea는 '어떤 생각에 집착하는'이에요.",
+"also": [
+{
+"w": "wedding",
+"pos": "n",
+"ko": "결혼식",
+"en": "We're invited to their **wedding** in May."
+},
+{
+"w": "wedded",
+"pos": "adj",
+"ko": "결혼한, 집착하는",
+"en": "He's **wedded** to his old methods."
+}
+]
+},
+{
+"w": "weed",
+"pos": "n",
+"meaning_ko": "잡초",
+"example_en": "I spent the whole morning pulling **weeds** from the garden.",
+"example_ko": "아침 내내 정원의 잡초를 뽑았어.",
+"nuance_ko": "weed는 정원이나 밭에서 원치 않는데 자라는 잡초를 가리켜요. pull weeds(잡초를 뽑다), weed killer(제초제)처럼 써요. 동사 weed는 '잡초를 뽑다'이고 weed out은 '골라서 제거하다'라는 뜻이어서 weed out weak candidates는 '부족한 지원자를 걸러내다'예요. 구어로 weed는 마리화나를 가리키기도 해서 문맥에 따라 뜻이 달라져요. 속담으로 Weeds never die는 '나쁜 것은 오래 산다'는 뜻이에요. 형용사 weedy는 '잡초가 무성한' 또는 '약골인'이에요.",
+"also": [
+{
+"w": "weeds",
+"pos": "n",
+"ko": "잡초들",
+"en": "The garden was full of **weeds**."
+}
+]
+},
+{
+"w": "weird",
+"pos": "adj",
+"meaning_ko": "이상한, 기이한",
+"example_en": "I had a really **weird** dream last night.",
+"example_ko": "어젯밤에 정말 이상한 꿈을 꿨어.",
+"nuance_ko": "weird는 평소와 달라서 이상하고 낯선 것을 가리키는 형용사예요. a weird noise(이상한 소리), a weird feeling(묘한 기분), It's weird that ~(~라니 이상해)처럼 구어에서 자주 써요. strange와 비슷하지만 weird는 더 기묘하고 약간 불편한 느낌이에요. 사람에게 쓸 때 weird는 때로 기분 나쁘게 들릴 수 있지만 친구끼리 농담으로 You're so weird라고 하기도 해요. 철자가 weird로 ie가 아니라 ei인 대표적인 예외 단어라서 많이 틀려요.",
+"also": [
+{
+"w": "weirdly",
+"pos": "adv",
+"ko": "이상하게",
+"en": "She was **weirdly** quiet at dinner."
+},
+{
+"w": "weirdo",
+"pos": "n",
+"ko": "괴짜(구어)",
+"en": "Don't call him a **weirdo**, he's just shy."
+}
+]
+},
+{
+"w": "welcome",
+"pos": "adj",
+"meaning_ko": "환영받는, 반가운",
+"example_en": "You're always **welcome** to stay at our place.",
+"example_ko": "언제든지 우리 집에서 지내도 돼.",
+"nuance_ko": "welcome은 환영한다는 뜻의 형용사, 동사, 감탄사, 명사로 모두 쓰여요. 형용사로는 You're welcome to ~(마음껏 ~해도 좋다)와 a welcome break(반가운 휴식)처럼 써요. 감사 인사에 대한 대답 You're welcome은 '천만에요'예요. 동사 welcome은 '환영하다'라서 welcome guests(손님을 맞이하다)처럼 써요. 명사 welcome은 '환영'이라서 a warm welcome(따뜻한 환영)이에요. 한국 학습자는 Welcome to Korea에 to를 쓰는 것을 기억하세요. 반대는 unwelcome이에요.",
+"also": [
+{
+"w": "welcoming",
+"pos": "adj",
+"ko": "환영하는",
+"en": "The locals were warm and **welcoming**."
+},
+{
+"w": "unwelcome",
+"pos": "adj",
+"ko": "달갑지 않은",
+"en": "I felt **unwelcome** at the meeting."
+}
+]
+},
+{
+"w": "western",
+"pos": "adj",
+"meaning_ko": "서쪽의, 서양의",
+"example_en": "She moved to **western** Canada for a new job.",
+"example_ko": "그녀는 새 직장 때문에 캐나다 서부로 이사했어.",
+"nuance_ko": "western은 서쪽에 있거나 서양과 관련된 것을 가리키는 형용사예요. western Canada(캐나다 서부), Western culture(서양 문화), the Western world(서구 세계)처럼 써요. 문화적 의미일 때는 대문자 Western으로 쓰기도 해요. 명사 western은 서부 개척 시대 배경의 영화나 소설인 '서부극'이라서 watch a western는 '서부 영화를 보다'예요. 서양 사람은 Westerner라고 하고 Westernize는 '서구화하다'예요. 반대는 eastern(동쪽의)이에요.",
+"also": [
+{
+"w": "westerners",
+"pos": "n",
+"ko": "서양인들",
+"en": "Many **westerners** enjoy Asian food."
+},
+{
+"w": "westerns",
+"pos": "n",
+"ko": "서부극들",
+"en": "He grew up watching old **westerns**."
+}
+]
+},
+{
+"w": "whereas",
+"pos": "conj",
+"meaning_ko": "반면에, ~인 데 비해",
+"example_en": "My brother loves sports, **whereas** I prefer reading.",
+"example_ko": "우리 형은 운동을 좋아하는 반면 나는 독서를 더 좋아해.",
+"nuance_ko": "whereas는 두 가지를 대비시킬 때 쓰는 접속사로 '~인 데 반해'라는 뜻이에요. while과 비슷하지만 whereas는 더 격식 있고 확실한 대비를 나타내요. 문장 앞에 쓰면 Whereas he is outgoing, she is shy처럼 쓰고 중간에 쓰면 쉼표를 앞에 둬요. but은 앞 내용과 반대되는 내용을 이을 때 쓰고 whereas는 두 사실을 나란히 놓고 차이를 보여 줄 때 쓰는 느낌이에요. 법률 문서에서는 Whereas로 시작하는 서문 조항이 있어서 '~이므로'의 뜻으로 쓰여요.",
+"also": []
+},
+{
+"w": "whip",
+"pos": "n",
+"meaning_ko": "채찍",
+"example_en": "The rider cracked the **whip** and the horse began to run.",
+"example_ko": "기수가 채찍을 휘두르자 말이 달리기 시작했어.",
+"nuance_ko": "whip은 동물이나 사람을 때리는 채찍 또는 그렇게 때리는 동작이에요. 동사 whip은 '채찍질하다'와 '휘젓다'라서 whip the cream(생크림을 휘핑하다)처럼 요리에서도 써요. 구어에서 whip up a meal은 '빠르게 음식을 만들다', whip into shape는 '제대로 갖추게 만들다'예요. 정치에서 whip은 의회에서 당원들의 표결 참여를 관리하는 원내 총무예요. whipped cream은 '휘핑크림'이에요. 미국 속어로 whip은 '자동차'를 가리키기도 해요.",
+"also": [
+{
+"w": "whipped",
+"pos": "adj",
+"ko": "휘저은, 채찍질한",
+"en": "She topped the cake with **whipped** cream."
+}
+]
+},
+{
+"w": "whistle",
+"pos": "n",
+"meaning_ko": "휘파람, 호루라기",
+"example_en": "The referee blew the **whistle** to stop the game.",
+"example_ko": "심판이 호루라기를 불어 경기를 멈췄어.",
+"nuance_ko": "whistle은 입술로 내는 휘파람 소리 또는 호루라기를 가리켜요. blow a whistle(호루라기를 불다), wolf whistle(지나가는 사람에게 부는 휘파람)처럼 써요. 동사 whistle은 '휘파람을 불다'라서 whistle a tune(곡조를 휘파람으로 불다)처럼 써요. blow the whistle on ~은 '~를 고발하다'라서 whistleblower는 '내부 고발자'예요. wet one's whistle은 '목을 축이다'라는 관용구이고 clean as a whistle은 '아주 깨끗한'이라는 표현이에요. 기차나 주전자의 삑 소리도 whistle이라고 해요.",
+"also": [
+{
+"w": "whistling",
+"pos": "n",
+"ko": "휘파람 소리",
+"en": "I heard someone **whistling** in the hallway."
+}
+]
+},
+{
+"w": "wicked",
+"pos": "adj",
+"meaning_ko": "사악한, 짓궂은",
+"example_en": "The **wicked** queen in the story tried to poison the princess.",
+"example_ko": "이야기 속 사악한 여왕은 공주를 독살하려고 했어.",
+"nuance_ko": "wicked는 도덕적으로 사악한 것을 가리키는 형용사로 동화에 나오는 wicked witch(사악한 마녀)가 대표적이에요. 구어에서는 의미가 변해서 '짓궂은' 또는 '굉장한'이라는 칭찬이 되기도 해요. 영국 청소년들은 That's wicked!를 '정말 멋지다!'라는 뜻으로 쓰고, 미국 보스턴 지역에서는 wicked good이 '엄청 좋은'이에요. 문맥을 보지 않으면 헷갈릴 수 있어요. a wicked sense of humor는 '짓궂지만 재치 있는 유머 감각'이에요. 명사는 wickedness(사악함)예요.",
+"also": [
+{
+"w": "wickedly",
+"pos": "adv",
+"ko": "사악하게, 짓궂게",
+"en": "She smiled **wickedly** at the joke."
+}
+]
+},
+{
+"w": "wing",
+"pos": "n",
+"meaning_ko": "날개, 건물의 동",
+"example_en": "The bird spread its **wings** and flew away.",
+"example_ko": "새는 날개를 펴고 날아갔어.",
+"nuance_ko": "wing은 새나 비행기의 날개를 가리켜요. 건물에서는 본관에서 뻗어 나온 부속 건물인 '동'이라서 the east wing(동쪽 동)처럼 써요. 정치에서는 left wing(좌익), right wing(우익)처럼 쓰고 스포츠에서는 축구의 윙어(winger)처럼 측면 선수를 말해요. take someone under one's wing은 '보호해 주다', wait in the wings는 '무대 옆에서 기다리다, 기회를 노리다'라는 관용구예요. on a wing and a prayer는 '불확실한 희망에 기대어'예요. 닭 날개 요리는 buffalo wings처럼 wings로 불러요.",
+"also": [
+{
+"w": "wings",
+"pos": "n",
+"ko": "날개들",
+"en": "We ordered a plate of chicken **wings**."
+}
+]
+},
+{
+"w": "wipe",
+"pos": "v",
+"meaning_ko": "닦다, 지우다",
+"example_en": "Please **wipe** the table before the guests sit down.",
+"example_ko": "손님들이 앉기 전에 식탁을 닦아 줘.",
+"nuance_ko": "wipe는 천이나 손으로 문질러서 닦아 내는 동사예요. wipe the table(식탁을 닦다), wipe one's feet(발을 닦다), wipe away tears(눈물을 닦다)처럼 써요. 데이터를 지우는 의미도 있어서 wipe a hard drive는 '하드 드라이브를 완전히 지우다'예요. wipe out은 '전멸시키다, 쓸어버리다'라서 The storm wiped out the village는 '폭풍이 마을을 쓸어버렸다'예요. 명사 wipe는 물티슈를 가리켜서 baby wipes는 아기용 물티슈예요. windshield wiper는 자동차의 와이퍼예요.",
+"also": [
+{
+"w": "wiped",
+"pos": "v",
+"ko": "닦았다",
+"en": "He **wiped** his hands on a towel."
+},
+{
+"w": "wiper",
+"pos": "n",
+"ko": "와이퍼",
+"en": "The **wipers** can't keep up with this heavy rain."
+}
+]
+},
+{
+"w": "wire",
+"pos": "n",
+"meaning_ko": "철사, 전선",
+"example_en": "Be careful with that **wire**, it's connected to the power.",
+"example_ko": "그 전선 조심해, 전원에 연결돼 있어.",
+"nuance_ko": "wire는 금속을 가늘게 뽑은 철사 또는 전기를 통하는 전선을 가리켜요. electrical wire(전선), barbed wire(가시철조망), wire fence(철망 울타리)처럼 써요. 동사 wire는 '전선을 연결하다'와 '송금하다'라서 wire money는 '전신 환으로 돈을 보내다'예요. 구어로 wire는 도청 장치를 뜻하기도 해서 wear a wire는 '도청 장치를 몸에 달다'예요. 형용사 wired는 '전선으로 연결된', 구어로는 '긴장돼 있는' 또는 '카페인으로 들뜬'이라는 뜻이에요. down to the wire는 '마지막 순간까지'라는 관용구예요.",
+"also": [
+{
+"w": "wires",
+"pos": "n",
+"ko": "전선들",
+"en": "Loose **wires** are dangerous."
+},
+{
+"w": "wired",
+"pos": "adj",
+"ko": "유선의, 들뜬",
+"en": "I'm too **wired** from the coffee to sleep."
+}
+]
+},
+{
+"w": "wise",
+"pos": "adj",
+"meaning_ko": "현명한, 지혜로운",
+"example_en": "It's **wise** to save some money for emergencies.",
+"example_ko": "비상시를 대비해 돈을 모아 두는 건 현명한 일이야.",
+"nuance_ko": "wise는 경험과 판단력으로 올바른 결정을 내리는 현명함을 가리키는 형용사예요. a wise decision(현명한 결정), wise words(지혜로운 말), It would be wise to ~(~하는 것이 현명할 것이다)처럼 써요. smart는 머리가 좋고 똑똑한 것이고 wise는 경험에서 오는 판단력이라는 차이가 있어요. 사람을 칭찬할 때 older and wiser(나이가 들어 더 현명해진)처럼 써요. 명사 wisdom은 '지혜'라서 words of wisdom(지혜의 말)이에요. wisdom tooth는 '사랑니'라는 뜻으로 영어에서는 지혜의 이로 불러요.",
+"also": [
+{
+"w": "wisdom",
+"pos": "n",
+"ko": "지혜",
+"en": "She is known for her **wisdom** and kindness."
+},
+{
+"w": "wisely",
+"pos": "adv",
+"ko": "현명하게",
+"en": "He **wisely** kept his opinion to himself."
+}
+]
+},
+{
+"w": "witness",
+"pos": "n",
+"meaning_ko": "목격자, 증인",
+"example_en": "A **witness** saw the car leave the scene at high speed.",
+"example_ko": "목격자가 그 차가 빠른 속도로 현장을 떠나는 걸 봤어.",
+"nuance_ko": "witness는 사건을 직접 본 목격자 또는 법정에서 증언하는 증인을 가리켜요. eyewitness(목격자), witness stand(증인석), expert witness(전문가 증인)처럼 써요. 동사 witness는 '목격하다'라서 witness an accident(사고를 목격하다)처럼 써요. 결혼식의 증인이나 서명 증인도 witness라고 해요. bear witness to ~는 '~를 증언하다, 입증하다'라는 격식 있는 표현이에요. 사건을 직접 본 사람이라는 점에서 observer와 비슷하지만 witness는 법적인 의미가 강해요.",
+"also": [
+{
+"w": "witnesses",
+"pos": "n",
+"ko": "목격자들",
+"en": "Police are looking for **witnesses** to the accident."
+},
+{
+"w": "witnessed",
+"pos": "v",
+"ko": "목격했다",
+"en": "She **witnessed** the whole event from her window."
+}
+]
+},
+{
+"w": "wolf",
+"pos": "n",
+"meaning_ko": "늑대",
+"example_en": "We heard a **wolf** howling somewhere in the forest.",
+"example_ko": "숲 어딘가에서 늑대가 울부짖는 소리를 들었어.",
+"nuance_ko": "wolf는 개과의 야생 동물 늑대이고 복수는 wolves로 f가 v로 바뀌어요. 이솝 우화의 cry wolf는 '거짓 경보를 울리다'라는 뜻이고 wolf in sheep's clothing은 '양의 탈을 쓴 늑대', 즉 '겉모습은 착해 보이나 속은 위험한 사람'이에요. lone wolf는 '혼자 행동하는 사람', keep the wolf from the door는 '굶주림을 면할 만큼 겨우 살아가다'예요. 동사 wolf down은 '게걸스럽게 먹어 치우다'라서 He wolfed down his lunch는 '그는 점심을 허겁지겁 먹었다'예요.",
+"also": [
+{
+"w": "wolves",
+"pos": "n",
+"ko": "늑대들",
+"en": "A pack of **wolves** lives in the national park."
+}
+]
+},
+{
+"w": "wool",
+"pos": "n",
+"meaning_ko": "양모, 털실",
+"example_en": "This sweater is made of pure **wool**, so it's very warm.",
+"example_ko": "이 스웨터는 순수 양모라서 아주 따뜻해.",
+"nuance_ko": "wool은 양의 털 또는 그것으로 만든 실이나 천이에요. pure wool(순모), wool coat(울 코트), a ball of wool(털실 뭉치)처럼 써요. 불가산 명사로 쓰며 cotton, silk와 같은 재질 이름이에요. 구어에서 pull the wool over someone's eyes는 '속이다'라는 관용구이고 wool-gathering은 '멍하니 딴생각하는'이라는 표현이에요. 형용사 woolly는 '털이 복슬복슬한' 또는 '애매모호한'이라서 woolly thinking은 '모호한 사고'예요. 미국식 철자는 woolen이고 영국식은 woollen이에요.",
+"also": [
+{
+"w": "woollen",
+"pos": "adj",
+"ko": "모직의(영국식)",
+"en": "She wore a **woollen** scarf in the cold."
+}
+]
+},
+{
+"w": "worm",
+"pos": "n",
+"meaning_ko": "벌레, 지렁이",
+"example_en": "The early bird catches the **worm**.",
+"example_ko": "일찍 일어나는 새가 벌레를 잡는 법이야.",
+"nuance_ko": "worm은 지렁이나 벌레처럼 길고 부드러운 몸을 가진 동물을 가리켜요. earthworm(지렁이), silkworm(누에), tapeworm(촌충)처럼 써요. 속담 The early bird catches the worm은 '일찍 일어나는 새가 벌레를 잡는다'로 부지런함을 강조해요. 컴퓨터에서는 스스로 퍼지는 악성 코드인 worm이 있어요. can of worms는 '골치 아픈 문제'라서 open a can of worms는 '벌집을 쑤시다'예요. 동사 worm one's way는 '꿈틀거리며 나아가다, 교묘하게 들어가다'예요.",
+"also": [
+{
+"w": "worms",
+"pos": "n",
+"ko": "벌레들",
+"en": "The kids dug up **worms** for fishing."
+}
+]
+},
+{
+"w": "wound",
+"pos": "n",
+"meaning_ko": "상처, 부상",
+"example_en": "The nurse cleaned the **wound** and put a bandage on it.",
+"example_ko": "간호사는 상처를 닦고 붕대를 감아 줬어.",
+"nuance_ko": "wound는 칼이나 총 등으로 입은 상처를 가리켜요. a gunshot wound(총상), open wound(열린 상처), heal a wound(상처가 낫다)처럼 써요. 발음은 /wuːnd/로 '운드'이고, 시계 태엽을 감다의 과거형 wound(/waʊnd/)와 발음이 달라서 동음이철자 함정이에요. 동사 wound는 '부상을 입히다'라서 be wounded in the war는 '전쟁에서 부상을 입다'예요. 마음의 상처도 wound라서 emotional wounds는 '정서적 상처'예요. cut이나 injury보다 더 심한 상처에 쓰는 경향이 있어요.",
+"also": [
+{
+"w": "wounded",
+"pos": "adj",
+"ko": "부상당한",
+"en": "The **wounded** soldier was taken to the hospital."
+},
+{
+"w": "wounds",
+"pos": "n",
+"ko": "상처들",
+"en": "The deep **wounds** took weeks to heal."
+}
+]
+},
+{
+"w": "wrap",
+"pos": "v",
+"meaning_ko": "싸다, 포장하다",
+"example_en": "Could you **wrap** this gift for me, please?",
+"example_ko": "이 선물 좀 포장해 주실 수 있나요?",
+"nuance_ko": "wrap은 종이나 천으로 싸는 동사예요. wrap a gift(선물을 포장하다), wrap up warm(따뜻하게 껴입다)처럼 써요. wrap up은 구어로 '마무리하다'라서 Let's wrap up the meeting은 '회의를 마무리하자'예요. 명사 wrap은 '포장지, 랩'이고 음식으로는 토르티야에 재료를 싼 '랩 샌드위치'예요. plastic wrap은 '식품용 랩'이에요. 영화 촬영이 끝났을 때 It's a wrap!이라고 외쳐요. be wrapped up in ~은 '~에 몰두하다'라는 뜻이에요.",
+"also": [
+{
+"w": "wrapping",
+"pos": "n",
+"ko": "포장",
+"en": "The gift came in beautiful **wrapping** paper."
+},
+{
+"w": "unwrap",
+"pos": "v",
+"ko": "포장을 풀다",
+"en": "The kids couldn't wait to **unwrap** their presents."
+}
+]
+},
+{
+"w": "yell",
+"pos": "v",
+"meaning_ko": "소리치다, 고함치다",
+"example_en": "Please don't **yell** at me, I'm only trying to help.",
+"example_ko": "소리 지르지 마, 난 도와주려는 것뿐이야.",
+"nuance_ko": "yell은 화가 나거나 흥분해서 크게 소리치는 동사예요. yell at someone(~에게 소리치다)은 화난 감정을 나타내고 yell for help(도와 달라고 외치다)처럼 급박한 상황에서도 써요. shout는 멀리 있는 사람에게 크게 말하는 일반적인 동사이고 yell은 감정이 섞인 외침이라는 차이가 있어요. scream은 고통이나 공포로 지르는 비명이에요. 명사 yell은 '외침, 응원 구호'라서 give a yell은 '소리를 치다'예요. 과거형은 yelled로 규칙 변화예요.",
+"also": [
+{
+"w": "yelling",
+"pos": "n",
+"ko": "고함",
+"en": "The **yelling** from next door woke me up."
+}
+]
+}
+]

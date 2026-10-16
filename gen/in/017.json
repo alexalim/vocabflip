@@ -1,0 +1,1138 @@
+[
+ {
+  "w": "pub",
+  "lvl": "2k",
+  "forms": [
+   "pubs"
+  ]
+ },
+ {
+  "w": "pudding",
+  "lvl": "2k",
+  "forms": [
+   "puddings",
+   "pud",
+   "puds"
+  ]
+ },
+ {
+  "w": "pump",
+  "lvl": "2k",
+  "forms": [
+   "pumps",
+   "pumping",
+   "pumped",
+   "pumpers",
+   "pumper"
+  ]
+ },
+ {
+  "w": "punch",
+  "lvl": "2k",
+  "forms": [
+   "punched",
+   "punching",
+   "punches",
+   "puncher",
+   "punchers"
+  ]
+ },
+ {
+  "w": "punish",
+  "lvl": "2k",
+  "forms": [
+   "punishment",
+   "punished",
+   "punishing",
+   "punishments",
+   "punishable",
+   "unpunished",
+   "punishers",
+   "punishes"
+  ]
+ },
+ {
+  "w": "pup",
+  "lvl": "2k",
+  "forms": [
+   "puppy",
+   "puppies",
+   "pups"
+  ]
+ },
+ {
+  "w": "purchase",
+  "lvl": "2k",
+  "forms": [
+   "purchaser",
+   "purchased",
+   "purchasing",
+   "purchases",
+   "purchasers",
+   "repurchase",
+   "repurchases",
+   "repurchased"
+  ]
+ },
+ {
+  "w": "pure",
+  "lvl": "2k",
+  "forms": [
+   "purely",
+   "purity",
+   "purest",
+   "purists",
+   "impurities",
+   "impurity",
+   "purist",
+   "impure"
+  ]
+ },
+ {
+  "w": "purple",
+  "lvl": "2k",
+  "forms": [
+   "purplish",
+   "purples"
+  ]
+ },
+ {
+  "w": "purpose",
+  "lvl": "2k",
+  "forms": [
+   "purposes",
+   "purposeful",
+   "purposefully",
+   "purposely",
+   "purposive",
+   "purposeless",
+   "purposefulness",
+   "purposelessness"
+  ]
+ },
+ {
+  "w": "qualify",
+  "lvl": "2k",
+  "forms": [
+   "qualified",
+   "qualifications",
+   "qualification",
+   "qualifying",
+   "unqualified",
+   "qualifier",
+   "qualifies",
+   "qualifiers"
+  ]
+ },
+ {
+  "w": "quality",
+  "lvl": "2k",
+  "forms": [
+   "qualities"
+  ]
+ },
+ {
+  "w": "quit",
+  "lvl": "2k",
+  "forms": [
+   "quitting",
+   "quits",
+   "quitted",
+   "quitter",
+   "quitters"
+  ]
+ },
+ {
+  "w": "quote",
+  "lvl": "2k",
+  "forms": [
+   "quoted",
+   "quotes",
+   "quotation",
+   "quoting",
+   "quotations",
+   "unquote",
+   "unquoted",
+   "misquoted"
+  ]
+ },
+ {
+  "w": "range",
+  "lvl": "2k",
+  "forms": [
+   "ranging",
+   "ranges",
+   "ranged",
+   "midrange"
+  ]
+ },
+ {
+  "w": "rapid",
+  "lvl": "2k",
+  "forms": [
+   "rapidly",
+   "rapidity",
+   "rapids"
+  ]
+ },
+ {
+  "w": "rare",
+  "lvl": "2k",
+  "forms": [
+   "rarely",
+   "rarity",
+   "rarer",
+   "rarest",
+   "rarities",
+   "rareness",
+   "rarified",
+   "rarifying"
+  ]
+ },
+ {
+  "w": "rat",
+  "lvl": "2k",
+  "forms": [
+   "rats",
+   "ratty",
+   "ratlike"
+  ]
+ },
+ {
+  "w": "react",
+  "lvl": "2k",
+  "forms": [
+   "reaction",
+   "reactions",
+   "reactor",
+   "reacted",
+   "reactors",
+   "reactive",
+   "reacting",
+   "reactionary"
+  ]
+ },
+ {
+  "w": "recall",
+  "lvl": "2k",
+  "forms": [
+   "recalled",
+   "recalls",
+   "recalling"
+  ]
+ },
+ {
+  "w": "receive",
+  "lvl": "2k",
+  "forms": [
+   "received",
+   "receiving",
+   "receives",
+   "receivable"
+  ]
+ },
+ {
+  "w": "recipe",
+  "lvl": "2k",
+  "forms": [
+   "recipes"
+  ]
+ },
+ {
+  "w": "reckon",
+  "lvl": "2k",
+  "forms": [
+   "reckoned",
+   "reckons",
+   "reckoning",
+   "reckonings"
+  ]
+ },
+ {
+  "w": "recognize",
+  "lvl": "2k",
+  "forms": [
+   "recognised",
+   "recognise",
+   "recognized",
+   "recognising",
+   "recognises",
+   "recognizing",
+   "recognisable",
+   "recognizes"
+  ]
+ },
+ {
+  "w": "recommend",
+  "lvl": "2k",
+  "forms": [
+   "recommended",
+   "recommendations",
+   "recommendation",
+   "recommends",
+   "recommending"
+  ]
+ },
+ {
+  "w": "recover",
+  "lvl": "2k",
+  "forms": [
+   "recovery",
+   "recovered",
+   "recovering",
+   "recoverable",
+   "recovers",
+   "recoveries",
+   "irrecoverable"
+  ]
+ },
+ {
+  "w": "reduce",
+  "lvl": "2k",
+  "forms": [
+   "reduced",
+   "reduction",
+   "reducing",
+   "reductions",
+   "reduces",
+   "reductionism",
+   "reductionist",
+   "reducible"
+  ]
+ },
+ {
+  "w": "refer",
+  "lvl": "2k",
+  "forms": [
+   "reference",
+   "referred",
+   "ref",
+   "references",
+   "refers",
+   "referring",
+   "referral",
+   "referrals"
+  ]
+ },
+ {
+  "w": "refrigerator",
+  "lvl": "2k",
+  "forms": [
+   "fridge",
+   "refrigeration",
+   "fridges",
+   "refrigerators",
+   "refrigerated",
+   "refrigerate",
+   "refrigerating",
+   "refrigerates"
+  ]
+ },
+ {
+  "w": "refuse",
+  "lvl": "2k",
+  "forms": [
+   "refused",
+   "refusal",
+   "refusing",
+   "refuses",
+   "refusals",
+   "refuser",
+   "refusers"
+  ]
+ },
+ {
+  "w": "regard",
+  "lvl": "2k",
+  "forms": [
+   "regarded",
+   "regarding",
+   "regardless",
+   "regards"
+  ]
+ },
+ {
+  "w": "region",
+  "lvl": "2k",
+  "forms": [
+   "regional",
+   "regions",
+   "regionally",
+   "regionalism",
+   "regionalist",
+   "regionalists"
+  ]
+ },
+ {
+  "w": "register",
+  "lvl": "2k",
+  "forms": [
+   "registered",
+   "registration",
+   "registers",
+   "registering",
+   "unregistered",
+   "registrations",
+   "preregistration",
+   "registrable"
+  ]
+ },
+ {
+  "w": "regular",
+  "lvl": "2k",
+  "forms": [
+   "regularly",
+   "irregular",
+   "regularity",
+   "irregularities",
+   "regulars",
+   "irregularly",
+   "irregularity",
+   "regularities"
+  ]
+ },
+ {
+  "w": "relax",
+  "lvl": "2k",
+  "forms": [
+   "relaxed",
+   "relaxation",
+   "relaxing",
+   "relaxations",
+   "relaxes",
+   "relaxer",
+   "relaxers"
+  ]
+ },
+ {
+  "w": "release",
+  "lvl": "2k",
+  "forms": [
+   "released",
+   "releases",
+   "releasing",
+   "unreleased",
+   "releaser",
+   "releasers",
+   "releasable"
+  ]
+ },
+ {
+  "w": "relief",
+  "lvl": "2k",
+  "forms": [
+   "reliefs"
+  ]
+ },
+ {
+  "w": "rely",
+  "lvl": "2k",
+  "forms": [
+   "reliable",
+   "relied",
+   "reliance",
+   "reliability",
+   "relying",
+   "relies",
+   "unreliable",
+   "reliably"
+  ]
+ },
+ {
+  "w": "remain",
+  "lvl": "2k",
+  "forms": [
+   "remains",
+   "remained",
+   "remaining"
+  ]
+ },
+ {
+  "w": "remark",
+  "lvl": "2k",
+  "forms": [
+   "remarkable",
+   "remarks",
+   "remarked",
+   "remarkably",
+   "unremarkable",
+   "remarking",
+   "unremarked",
+   "unremarkably"
+  ]
+ },
+ {
+  "w": "remind",
+  "lvl": "2k",
+  "forms": [
+   "reminded",
+   "reminder",
+   "reminds",
+   "reminding",
+   "reminders"
+  ]
+ },
+ {
+  "w": "remove",
+  "lvl": "2k",
+  "forms": [
+   "removed",
+   "removal",
+   "removing",
+   "removes",
+   "removable",
+   "remover",
+   "removals",
+   "removers"
+  ]
+ },
+ {
+  "w": "repair",
+  "lvl": "2k",
+  "forms": [
+   "repairs",
+   "repaired",
+   "repairing",
+   "repairer",
+   "repairers",
+   "unrepaired"
+  ]
+ },
+ {
+  "w": "repeat",
+  "lvl": "2k",
+  "forms": [
+   "repeated",
+   "repeatedly",
+   "repetition",
+   "repeating",
+   "repeats",
+   "repetitions",
+   "repeater",
+   "repeatable"
+  ]
+ },
+ {
+  "w": "replace",
+  "lvl": "2k",
+  "forms": [
+   "replaced",
+   "replacement",
+   "replacing",
+   "replaces",
+   "replacements",
+   "irreplaceable",
+   "replaceable",
+   "replacers"
+  ]
+ },
+ {
+  "w": "represent",
+  "lvl": "2k",
+  "forms": [
+   "represented",
+   "representatives",
+   "representative",
+   "representation",
+   "represents",
+   "representing",
+   "representations",
+   "rep"
+  ]
+ },
+ {
+  "w": "require",
+  "lvl": "2k",
+  "forms": [
+   "required",
+   "requirements",
+   "requires",
+   "requirement",
+   "requiring"
+  ]
+ },
+ {
+  "w": "research",
+  "lvl": "2k",
+  "forms": [
+   "researchers",
+   "researcher",
+   "researched",
+   "researching",
+   "researches"
+  ]
+ },
+ {
+  "w": "reserve",
+  "lvl": "2k",
+  "forms": [
+   "reserves",
+   "reserved",
+   "reservations",
+   "reservation",
+   "reserving",
+   "unreservedly",
+   "reservists",
+   "unreserved"
+  ]
+ },
+ {
+  "w": "resist",
+  "lvl": "2k",
+  "forms": [
+   "resistance",
+   "resisted",
+   "resistant",
+   "resisting",
+   "resistor",
+   "resists",
+   "resistances",
+   "resistors"
+  ]
+ },
+ {
+  "w": "respect",
+  "lvl": "2k",
+  "forms": [
+   "respects",
+   "respected",
+   "respectable",
+   "respectful",
+   "respecting",
+   "respectfully",
+   "respectably",
+   "respecter"
+  ]
+ },
+ {
+  "w": "restaurant",
+  "lvl": "2k",
+  "forms": [
+   "restaurants"
+  ]
+ },
+ {
+  "w": "result",
+  "lvl": "2k",
+  "forms": [
+   "results",
+   "resulting",
+   "resulted",
+   "resultant"
+  ]
+ },
+ {
+  "w": "retire",
+  "lvl": "2k",
+  "forms": [
+   "retirement",
+   "retired",
+   "retiring",
+   "retires",
+   "retd",
+   "retirements",
+   "ret",
+   "retiral"
+  ]
+ },
+ {
+  "w": "rice",
+  "lvl": "2k",
+  "forms": [
+   "rices"
+  ]
+ },
+ {
+  "w": "ridiculous",
+  "lvl": "2k",
+  "forms": [
+   "ridicule",
+   "ridiculously",
+   "ridiculed",
+   "ridiculing",
+   "ridicules"
+  ]
+ },
+ {
+  "w": "rip",
+  "lvl": "2k",
+  "forms": [
+   "ripped",
+   "ripping",
+   "rips"
+  ]
+ },
+ {
+  "w": "risk",
+  "lvl": "2k",
+  "forms": [
+   "risks",
+   "risky",
+   "risked",
+   "risking",
+   "riskless",
+   "riskier",
+   "riskiness",
+   "riskiest"
+  ]
+ },
+ {
+  "w": "roar",
+  "lvl": "2k",
+  "forms": [
+   "roared",
+   "roaring",
+   "roars",
+   "roarer",
+   "roarers"
+  ]
+ },
+ {
+  "w": "rob",
+  "lvl": "2k",
+  "forms": [
+   "robbery",
+   "robbed",
+   "robbers",
+   "robber",
+   "robbing",
+   "robberies",
+   "robs"
+  ]
+ },
+ {
+  "w": "role",
+  "lvl": "2k",
+  "forms": [
+   "roles"
+  ]
+ },
+ {
+  "w": "roof",
+  "lvl": "2k",
+  "forms": [
+   "roofs",
+   "roofing",
+   "roofed",
+   "roofless",
+   "rooves"
+  ]
+ },
+ {
+  "w": "root",
+  "lvl": "2k",
+  "forms": [
+   "roots",
+   "rooted",
+   "rooting",
+   "rootless",
+   "rootedness",
+   "rootlessness",
+   "rootlets",
+   "rootlet"
+  ]
+ },
+ {
+  "w": "rope",
+  "lvl": "2k",
+  "forms": [
+   "ropes",
+   "roped",
+   "roping"
+  ]
+ },
+ {
+  "w": "rot",
+  "lvl": "2k",
+  "forms": [
+   "rotten",
+   "rotting",
+   "rotted",
+   "rots",
+   "rottenness",
+   "rottenest",
+   "rottener",
+   "rottenly"
+  ]
+ },
+ {
+  "w": "row",
+  "lvl": "2k",
+  "forms": [
+   "rows"
+  ]
+ },
+ {
+  "w": "rowed",
+  "lvl": "2k",
+  "forms": [
+   "rowing",
+   "rower",
+   "rowers"
+  ]
+ },
+ {
+  "w": "royal",
+  "lvl": "2k",
+  "forms": [
+   "royalty",
+   "royalties",
+   "royals",
+   "royalist",
+   "royalists",
+   "royally",
+   "royalism"
+  ]
+ },
+ {
+  "w": "rub",
+  "lvl": "2k",
+  "forms": [
+   "rubbed",
+   "rubbing",
+   "rubs"
+  ]
+ },
+ {
+  "w": "rude",
+  "lvl": "2k",
+  "forms": [
+   "rudely",
+   "rudeness",
+   "ruder",
+   "rudest"
+  ]
+ },
+ {
+  "w": "ruin",
+  "lvl": "2k",
+  "forms": [
+   "ruined",
+   "ruins",
+   "ruining",
+   "ruinous",
+   "ruination",
+   "ruinously"
+  ]
+ },
+ {
+  "w": "rush",
+  "lvl": "2k",
+  "forms": [
+   "rushed",
+   "rushing",
+   "rushes",
+   "rushers",
+   "rusher"
+  ]
+ },
+ {
+  "w": "saint",
+  "lvl": "2k",
+  "forms": [
+   "saints",
+   "saintly",
+   "sainthood",
+   "saintliness",
+   "sainthoods"
+  ]
+ },
+ {
+  "w": "sake",
+  "lvl": "2k",
+  "forms": [
+   "sakes"
+  ]
+ },
+ {
+  "w": "salad",
+  "lvl": "2k",
+  "forms": [
+   "salads"
+  ]
+ },
+ {
+  "w": "salary",
+  "lvl": "2k",
+  "forms": [
+   "salaries",
+   "salaried",
+   "salarys"
+  ]
+ },
+ {
+  "w": "sale",
+  "lvl": "2k",
+  "forms": [
+   "sales",
+   "resale",
+   "saleable",
+   "unsaleable",
+   "resales"
+  ]
+ },
+ {
+  "w": "salt",
+  "lvl": "2k",
+  "forms": [
+   "salts",
+   "salted",
+   "salty",
+   "unsalted",
+   "salting",
+   "saltier",
+   "saltiest"
+  ]
+ },
+ {
+  "w": "sand",
+  "lvl": "2k",
+  "forms": [
+   "sandy",
+   "sands",
+   "sanders",
+   "sanding",
+   "sander",
+   "sanded"
+  ]
+ },
+ {
+  "w": "sandwich",
+  "lvl": "2k",
+  "forms": [
+   "sandwiches",
+   "sandwiched",
+   "sandwiching"
+  ]
+ },
+ {
+  "w": "satisfy",
+  "lvl": "2k",
+  "forms": [
+   "satisfied",
+   "satisfying",
+   "satisfies",
+   "unsatisfied",
+   "unsatisfying",
+   "satisfyingly"
+  ]
+ },
+ {
+  "w": "sauce",
+  "lvl": "2k",
+  "forms": [
+   "sauces"
+  ]
+ },
+ {
+  "w": "sausage",
+  "lvl": "2k",
+  "forms": [
+   "sausages"
+  ]
+ },
+ {
+  "w": "scale",
+  "lvl": "2k",
+  "forms": [
+   "scales",
+   "scaled",
+   "scaling",
+   "scalable",
+   "scalings"
+  ]
+ },
+ {
+  "w": "scene",
+  "lvl": "2k",
+  "forms": [
+   "scenes",
+   "scenery",
+   "scenic",
+   "scenically"
+  ]
+ },
+ {
+  "w": "schedule",
+  "lvl": "2k",
+  "forms": [
+   "scheduled",
+   "schedules",
+   "scheduling",
+   "rescheduling",
+   "sch",
+   "rescheduled",
+   "unscheduled",
+   "reschedule"
+  ]
+ },
+ {
+  "w": "score",
+  "lvl": "2k",
+  "forms": [
+   "scored",
+   "scores",
+   "scoring",
+   "scorer",
+   "scorers",
+   "scoreless"
+  ]
+ },
+ {
+  "w": "scratch",
+  "lvl": "2k",
+  "forms": [
+   "scratched",
+   "scratching",
+   "scratches",
+   "scratchy",
+   "scratchings",
+   "scratchiness",
+   "unscratched"
+  ]
+ },
+ {
+  "w": "scream",
+  "lvl": "2k",
+  "forms": [
+   "screaming",
+   "screamed",
+   "screams",
+   "screamer",
+   "screamers"
+  ]
+ },
+ {
+  "w": "screen",
+  "lvl": "2k",
+  "forms": [
+   "screening",
+   "screens",
+   "screened",
+   "screenings"
+  ]
+ },
+ {
+  "w": "screw",
+  "lvl": "2k",
+  "forms": [
+   "screwed",
+   "screws",
+   "screwing",
+   "unscrewed",
+   "unscrew",
+   "unscrewing",
+   "unscrews"
+  ]
+ },
+ {
+  "w": "seal",
+  "lvl": "2k",
+  "forms": [
+   "sealed",
+   "seals",
+   "sealing",
+   "sealant",
+   "sealer",
+   "sealants",
+   "unsealed",
+   "sealers"
+  ]
+ },
+ {
+  "w": "search",
+  "lvl": "2k",
+  "forms": [
+   "searching",
+   "searched",
+   "searches",
+   "searcher",
+   "searchers",
+   "searchingly"
+  ]
+ },
+ {
+  "w": "season",
+  "lvl": "2k",
+  "forms": [
+   "seasons",
+   "seasonal",
+   "seasonally",
+   "seasonality",
+   "unseasonal",
+   "unseasonably",
+   "unseasonable",
+   "nonseasonal"
+  ]
+ },
+ {
+  "w": "seconds",
+  "lvl": "2k",
+  "forms": [
+   "sec",
+   "secs"
+  ]
+ },
+ {
+  "w": "secret",
+  "lvl": "2k",
+  "forms": [
+   "secrets",
+   "secretly",
+   "secretive",
+   "secretiveness",
+   "secretively"
+  ]
+ },
+ {
+  "w": "section",
+  "lvl": "2k",
+  "forms": [
+   "sections",
+   "subsection",
+   "sectional",
+   "subsections",
+   "sectioned",
+   "sectioning"
+  ]
+ },
+ {
+  "w": "seed",
+  "lvl": "2k",
+  "forms": [
+   "seeds",
+   "seedlings",
+   "seeded",
+   "seeding",
+   "seedling",
+   "unseeded",
+   "seedless"
+  ]
+ },
+ {
+  "w": "seek",
+  "lvl": "2k",
+  "forms": [
+   "sought",
+   "seeking",
+   "seeks",
+   "seekers",
+   "seeker",
+   "unsought"
+  ]
+ },
+ {
+  "w": "select",
+  "lvl": "2k",
+  "forms": [
+   "selection",
+   "selected",
+   "selective",
+   "selecting",
+   "selectors",
+   "selects",
+   "selectively",
+   "selections"
+  ]
+ }
+]

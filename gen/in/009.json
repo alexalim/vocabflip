@@ -1,0 +1,1039 @@
+[
+ {
+  "w": "tree",
+  "lvl": "1k",
+  "forms": [
+   "trees",
+   "treeless"
+  ]
+ },
+ {
+  "w": "trip",
+  "lvl": "1k",
+  "forms": [
+   "trips",
+   "tripped",
+   "tripping"
+  ]
+ },
+ {
+  "w": "trouble",
+  "lvl": "1k",
+  "forms": [
+   "troubled",
+   "troubles",
+   "troublesome",
+   "troubling",
+   "untroubled",
+   "troublingly"
+  ]
+ },
+ {
+  "w": "True",
+  "lvl": "1k",
+  "forms": [
+   "true",
+   "truly",
+   "untrue",
+   "truer",
+   "truism",
+   "truest",
+   "truisms"
+  ]
+ },
+ {
+  "w": "trust",
+  "lvl": "1k",
+  "forms": [
+   "trusts",
+   "trusted",
+   "entrusted",
+   "trusting",
+   "trusty",
+   "antitrust",
+   "entrust",
+   "entrusting"
+  ]
+ },
+ {
+  "w": "truth",
+  "lvl": "1k",
+  "forms": [
+   "truths",
+   "truthful",
+   "truthfully",
+   "truthfulness",
+   "untruth",
+   "untruths",
+   "untruthfully",
+   "untruthful"
+  ]
+ },
+ {
+  "w": "try",
+  "lvl": "1k",
+  "forms": [
+   "trying",
+   "tried",
+   "tries",
+   "untried",
+   "tryin",
+   "triable"
+  ]
+ },
+ {
+  "w": "tuesday",
+  "lvl": "1k",
+  "forms": [
+   "tue",
+   "tuesdays",
+   "tues"
+  ]
+ },
+ {
+  "w": "turn",
+  "lvl": "1k",
+  "forms": [
+   "turned",
+   "turning",
+   "turns",
+   "turnings",
+   "unturned"
+  ]
+ },
+ {
+  "w": "twelve",
+  "lvl": "1k",
+  "forms": [
+   "twelfth",
+   "twelfths",
+   "twelves"
+  ]
+ },
+ {
+  "w": "twenty",
+  "lvl": "1k",
+  "forms": [
+   "twentieth",
+   "twenties",
+   "twentieths"
+  ]
+ },
+ {
+  "w": "two",
+  "lvl": "1k",
+  "forms": [
+   "twice",
+   "twos"
+  ]
+ },
+ {
+  "w": "type",
+  "lvl": "1k",
+  "forms": [
+   "types",
+   "subtype",
+   "subtypes"
+  ]
+ },
+ {
+  "w": "ugly",
+  "lvl": "1k",
+  "forms": [
+   "ugliness",
+   "ugliest",
+   "uglier"
+  ]
+ },
+ {
+  "w": "uncle",
+  "lvl": "1k",
+  "forms": [
+   "uncles"
+  ]
+ },
+ {
+  "w": "under",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "underneath",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "understand",
+  "lvl": "1k",
+  "forms": [
+   "understanding",
+   "understood",
+   "understandable",
+   "understands",
+   "misunderstanding",
+   "understandably",
+   "misunderstood",
+   "misunderstandings"
+  ]
+ },
+ {
+  "w": "unless",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "until",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "up",
+  "lvl": "1k",
+  "forms": [
+   "ups",
+   "upside",
+   "upped",
+   "upping",
+   "upmost"
+  ]
+ },
+ {
+  "w": "upon",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "use",
+  "lvl": "1k",
+  "forms": [
+   "used",
+   "using",
+   "useful",
+   "user",
+   "users",
+   "uses",
+   "useless",
+   "usefulness"
+  ]
+ },
+ {
+  "w": "usual",
+  "lvl": "1k",
+  "forms": [
+   "usually",
+   "unusual",
+   "unusually"
+  ]
+ },
+ {
+  "w": "van",
+  "lvl": "1k",
+  "forms": [
+   "vans"
+  ]
+ },
+ {
+  "w": "very",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "video",
+  "lvl": "1k",
+  "forms": [
+   "videos",
+   "videoed",
+   "videoing"
+  ]
+ },
+ {
+  "w": "view",
+  "lvl": "1k",
+  "forms": [
+   "views",
+   "viewed",
+   "viewing",
+   "viewers",
+   "viewer",
+   "viewable"
+  ]
+ },
+ {
+  "w": "visit",
+  "lvl": "1k",
+  "forms": [
+   "visitors",
+   "visited",
+   "visits",
+   "visiting",
+   "visitor",
+   "revisited",
+   "visitation",
+   "revisit"
+  ]
+ },
+ {
+  "w": "voice",
+  "lvl": "1k",
+  "forms": [
+   "voices",
+   "voiced",
+   "voicing",
+   "voiceless",
+   "unvoiced"
+  ]
+ },
+ {
+  "w": "wait",
+  "lvl": "1k",
+  "forms": [
+   "waiting",
+   "waited",
+   "waits",
+   "waitin"
+  ]
+ },
+ {
+  "w": "wake",
+  "lvl": "1k",
+  "forms": [
+   "woke",
+   "waking",
+   "woken",
+   "wakes",
+   "waken",
+   "wakefulness",
+   "wakened",
+   "wakey"
+  ]
+ },
+ {
+  "w": "walk",
+  "lvl": "1k",
+  "forms": [
+   "walked",
+   "walking",
+   "walker",
+   "walks",
+   "walkers",
+   "walkie",
+   "walkies",
+   "walkable"
+  ]
+ },
+ {
+  "w": "wall",
+  "lvl": "1k",
+  "forms": [
+   "walls",
+   "walled",
+   "walling"
+  ]
+ },
+ {
+  "w": "want",
+  "lvl": "1k",
+  "forms": [
+   "wanted",
+   "wants",
+   "wanna",
+   "wanting",
+   "unwanted",
+   "wanta"
+  ]
+ },
+ {
+  "w": "war",
+  "lvl": "1k",
+  "forms": [
+   "wars",
+   "postwar",
+   "warring",
+   "interwar",
+   "prewar",
+   "warred"
+  ]
+ },
+ {
+  "w": "warm",
+  "lvl": "1k",
+  "forms": [
+   "warmth",
+   "warming",
+   "warmer",
+   "warmly",
+   "warmed",
+   "warmest",
+   "warms",
+   "warmers"
+  ]
+ },
+ {
+  "w": "wash",
+  "lvl": "1k",
+  "forms": [
+   "washing",
+   "washed",
+   "washes",
+   "washer",
+   "unwashed",
+   "washable",
+   "washers",
+   "unwashable"
+  ]
+ },
+ {
+  "w": "waste",
+  "lvl": "1k",
+  "forms": [
+   "wasted",
+   "wasting",
+   "wastes",
+   "wasteful",
+   "wastage",
+   "waster",
+   "wasters",
+   "wastefully"
+  ]
+ },
+ {
+  "w": "watch",
+  "lvl": "1k",
+  "forms": [
+   "watching",
+   "watched",
+   "watches",
+   "watchful",
+   "watchers",
+   "watcher",
+   "watchfulness",
+   "watchfully"
+  ]
+ },
+ {
+  "w": "water",
+  "lvl": "1k",
+  "forms": [
+   "waters",
+   "watering",
+   "watery",
+   "watered",
+   "waterier",
+   "wateriest",
+   "wateriness"
+  ]
+ },
+ {
+  "w": "wave",
+  "lvl": "1k",
+  "forms": [
+   "waves",
+   "waved",
+   "waving"
+  ]
+ },
+ {
+  "w": "way",
+  "lvl": "1k",
+  "forms": [
+   "ways",
+   "midway"
+  ]
+ },
+ {
+  "w": "we",
+  "lvl": "1k",
+  "forms": [
+   "our",
+   "us",
+   "ourselves",
+   "ours",
+   "ourself"
+  ]
+ },
+ {
+  "w": "wear",
+  "lvl": "1k",
+  "forms": [
+   "wearing",
+   "wore",
+   "worn",
+   "wears",
+   "wearer",
+   "wearers",
+   "wearable",
+   "unworn"
+  ]
+ },
+ {
+  "w": "weather",
+  "lvl": "1k",
+  "forms": [
+   "weathering",
+   "weathered",
+   "weathers"
+  ]
+ },
+ {
+  "w": "web",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "wednesday",
+  "lvl": "1k",
+  "forms": [
+   "wednesdays"
+  ]
+ },
+ {
+  "w": "week",
+  "lvl": "1k",
+  "forms": [
+   "weeks",
+   "weekly",
+   "midweek",
+   "weeklies",
+   "midweekly"
+  ]
+ },
+ {
+  "w": "weight",
+  "lvl": "1k",
+  "forms": [
+   "weights",
+   "weighted",
+   "weighting",
+   "weightless",
+   "weightings",
+   "weightlessness",
+   "unweighted",
+   "weightlessly"
+  ]
+ },
+ {
+  "w": "well",
+  "lvl": "1k",
+  "forms": [
+   "unwell"
+  ]
+ },
+ {
+  "w": "west",
+  "lvl": "1k",
+  "forms": [
+   "westwards",
+   "westward",
+   "westerly",
+   "midwest",
+   "westerlies",
+   "wsw",
+   "wnw"
+  ]
+ },
+ {
+  "w": "wet",
+  "lvl": "1k",
+  "forms": [
+   "wetting",
+   "wetter",
+   "wetness",
+   "wets",
+   "wettest",
+   "wetted",
+   "wetly",
+   "wettable"
+  ]
+ },
+ {
+  "w": "what",
+  "lvl": "1k",
+  "forms": [
+   "whatever",
+   "wot",
+   "whats",
+   "whaddya",
+   "whatcha"
+  ]
+ },
+ {
+  "w": "wheel",
+  "lvl": "1k",
+  "forms": [
+   "wheels",
+   "wheeler",
+   "wheeled",
+   "wheeling",
+   "wheelers",
+   "wheelie",
+   "wheelies"
+  ]
+ },
+ {
+  "w": "when",
+  "lvl": "1k",
+  "forms": [
+   "whenever"
+  ]
+ },
+ {
+  "w": "where",
+  "lvl": "1k",
+  "forms": [
+   "wherever"
+  ]
+ },
+ {
+  "w": "whether",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "which",
+  "lvl": "1k",
+  "forms": [
+   "whichever"
+  ]
+ },
+ {
+  "w": "while",
+  "lvl": "1k",
+  "forms": [
+   "whilst"
+  ]
+ },
+ {
+  "w": "white",
+  "lvl": "1k",
+  "forms": [
+   "whites",
+   "whiteness",
+   "whiter",
+   "whitish",
+   "whitened",
+   "whitening",
+   "whiten",
+   "whitest"
+  ]
+ },
+ {
+  "w": "who",
+  "lvl": "1k",
+  "forms": [
+   "whose",
+   "whom",
+   "whoever",
+   "whomever"
+  ]
+ },
+ {
+  "w": "whole",
+  "lvl": "1k",
+  "forms": [
+   "wholly",
+   "wholeness",
+   "wholes",
+   "wholistic",
+   "wholistically"
+  ]
+ },
+ {
+  "w": "why",
+  "lvl": "1k",
+  "forms": [
+   "whys"
+  ]
+ },
+ {
+  "w": "wide",
+  "lvl": "1k",
+  "forms": [
+   "widely",
+   "wider",
+   "width",
+   "widened",
+   "widening",
+   "widen",
+   "widest",
+   "widths"
+  ]
+ },
+ {
+  "w": "wife",
+  "lvl": "1k",
+  "forms": [
+   "wives",
+   "wifely"
+  ]
+ },
+ {
+  "w": "wild",
+  "lvl": "1k",
+  "forms": [
+   "wildly",
+   "wilder",
+   "wildest",
+   "wilds",
+   "wildness"
+  ]
+ },
+ {
+  "w": "will",
+  "lvl": "1k",
+  "forms": [
+   "ll"
+  ]
+ },
+ {
+  "w": "willing",
+  "lvl": "1k",
+  "forms": [
+   "willingness",
+   "unwilling",
+   "willingly",
+   "unwillingness",
+   "willed",
+   "unwillingly"
+  ]
+ },
+ {
+  "w": "win",
+  "lvl": "1k",
+  "forms": [
+   "won",
+   "winning",
+   "winner",
+   "winners",
+   "wins",
+   "winnings"
+  ]
+ },
+ {
+  "w": "wind",
+  "lvl": "1k",
+  "forms": [
+   "winds",
+   "windy",
+   "winded",
+   "windward",
+   "windless",
+   "windwards",
+   "windiness"
+  ]
+ },
+ {
+  "w": "window",
+  "lvl": "1k",
+  "forms": [
+   "windows",
+   "windowless",
+   "windowed"
+  ]
+ },
+ {
+  "w": "wine",
+  "lvl": "1k",
+  "forms": [
+   "wines",
+   "wined",
+   "winery",
+   "wining",
+   "wineries"
+  ]
+ },
+ {
+  "w": "winter",
+  "lvl": "1k",
+  "forms": [
+   "winters",
+   "wintering",
+   "midwinter",
+   "wintry",
+   "wintered",
+   "wintery",
+   "winterized",
+   "winterise"
+  ]
+ },
+ {
+  "w": "wish",
+  "lvl": "1k",
+  "forms": [
+   "wished",
+   "wishes",
+   "wishing",
+   "wishers",
+   "wisher"
+  ]
+ },
+ {
+  "w": "with",
+  "lvl": "1k",
+  "forms": [
+   "wiv"
+  ]
+ },
+ {
+  "w": "within",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "without",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "woman",
+  "lvl": "1k",
+  "forms": [
+   "women",
+   "womanhood",
+   "womens",
+   "womanly",
+   "womaniser",
+   "womanising",
+   "womanizer",
+   "womanizing"
+  ]
+ },
+ {
+  "w": "wonder",
+  "lvl": "1k",
+  "forms": [
+   "wonderful",
+   "wondered",
+   "wondering",
+   "wonders",
+   "wonderfully",
+   "wondrous",
+   "wonderingly",
+   "wonderment"
+  ]
+ },
+ {
+  "w": "wood",
+  "lvl": "1k",
+  "forms": [
+   "wooden",
+   "woods",
+   "woody",
+   "woodenly",
+   "woodsy",
+   "woodenness"
+  ]
+ },
+ {
+  "w": "word",
+  "lvl": "1k",
+  "forms": [
+   "words",
+   "wording",
+   "worded",
+   "wordlessly",
+   "wordings",
+   "wordless",
+   "wordy",
+   "wordiness"
+  ]
+ },
+ {
+  "w": "work",
+  "lvl": "1k",
+  "forms": [
+   "working",
+   "workers",
+   "works",
+   "worked",
+   "worker",
+   "workings",
+   "workable",
+   "unworkable"
+  ]
+ },
+ {
+  "w": "world",
+  "lvl": "1k",
+  "forms": [
+   "worlds",
+   "worldly",
+   "unworldly",
+   "worldliness",
+   "unworldliness"
+  ]
+ },
+ {
+  "w": "worry",
+  "lvl": "1k",
+  "forms": [
+   "worried",
+   "worrying",
+   "worries",
+   "worryingly",
+   "worriedly",
+   "unworried",
+   "worrier",
+   "worriers"
+  ]
+ },
+ {
+  "w": "worse",
+  "lvl": "1k",
+  "forms": [
+   "worst",
+   "worsening",
+   "worsened",
+   "worsen",
+   "worsens"
+  ]
+ },
+ {
+  "w": "worth",
+  "lvl": "1k",
+  "forms": [
+   "worthy",
+   "worthless",
+   "unworthy",
+   "worthiness",
+   "worthies",
+   "worthlessness",
+   "unworthiness",
+   "worthily"
+  ]
+ },
+ {
+  "w": "would",
+  "lvl": "1k",
+  "forms": [
+   "wouldn"
+  ]
+ },
+ {
+  "w": "write",
+  "lvl": "1k",
+  "forms": [
+   "written",
+   "writing",
+   "wrote",
+   "writer",
+   "writers",
+   "writes",
+   "writings",
+   "rewrite"
+  ]
+ },
+ {
+  "w": "wrong",
+  "lvl": "1k",
+  "forms": [
+   "wrongly",
+   "wrongs",
+   "wrongful",
+   "wrongfully",
+   "wronged",
+   "wrongness",
+   "wrongfulness",
+   "wronging"
+  ]
+ },
+ {
+  "w": "yard",
+  "lvl": "1k",
+  "forms": [
+   "yd"
+  ]
+ },
+ {
+  "w": "yards",
+  "lvl": "1k",
+  "forms": [
+   "yds"
+  ]
+ },
+ {
+  "w": "year",
+  "lvl": "1k",
+  "forms": [
+   "years",
+   "yearly",
+   "yrs",
+   "yr",
+   "yearling",
+   "yearlings"
+  ]
+ },
+ {
+  "w": "yellow",
+  "lvl": "1k",
+  "forms": [
+   "yellowing",
+   "yellowish",
+   "yellows",
+   "yellowed",
+   "yellowy",
+   "yellower",
+   "yellowness",
+   "yeller"
+  ]
+ },
+ {
+  "w": "yes",
+  "lvl": "1k",
+  "forms": [
+   "yeah",
+   "ya",
+   "yep",
+   "yea",
+   "yeh",
+   "yah",
+   "yup",
+   "yeses"
+  ]
+ },
+ {
+  "w": "yesterday",
+  "lvl": "1k",
+  "forms": [
+   "yesterdays"
+  ]
+ },
+ {
+  "w": "yet",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "you",
+  "lvl": "1k",
+  "forms": [
+   "your",
+   "yourself",
+   "yours",
+   "ye",
+   "yer",
+   "yourselves",
+   "yous",
+   "yerself"
+  ]
+ },
+ {
+  "w": "young",
+  "lvl": "1k",
+  "forms": [
+   "younger",
+   "youngsters",
+   "youngest",
+   "youngster",
+   "youngish"
+  ]
+ },
+ {
+  "w": "zero",
+  "lvl": "1k",
+  "forms": [
+   "zeros",
+   "zeroed",
+   "zeroing"
+  ]
+ }
+]

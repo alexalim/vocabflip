@@ -1,0 +1,952 @@
+[
+ {
+  "w": "molecule",
+  "lvl": "3k",
+  "forms": [
+   "molecules",
+   "molecular"
+  ]
+ },
+ {
+  "w": "monitor",
+  "lvl": "3k",
+  "forms": [
+   "monitoring",
+   "monitored",
+   "monitors",
+   "unmonitored"
+  ]
+ },
+ {
+  "w": "monster",
+  "lvl": "3k",
+  "forms": [
+   "monsters",
+   "monstrous",
+   "monstrosity",
+   "monstrously",
+   "monstrosities"
+  ]
+ },
+ {
+  "w": "moral",
+  "lvl": "3k",
+  "forms": [
+   "morality",
+   "morally",
+   "morals",
+   "moralists",
+   "moralistic",
+   "moralist",
+   "moralizing",
+   "moralising"
+  ]
+ },
+ {
+  "w": "moreover",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "mortal",
+  "lvl": "3k",
+  "forms": [
+   "mortality",
+   "immortal",
+   "immortality",
+   "mortals",
+   "mortally",
+   "immortalised",
+   "immortalized",
+   "immortals"
+  ]
+ },
+ {
+  "w": "mortgage",
+  "lvl": "3k",
+  "forms": [
+   "mortgages",
+   "mortgagee",
+   "mortgaged",
+   "mortgagees",
+   "mortgagor",
+   "remortgage",
+   "mortgaging",
+   "remortgaging"
+  ]
+ },
+ {
+  "w": "motion",
+  "lvl": "3k",
+  "forms": [
+   "motions",
+   "motionless",
+   "motioned",
+   "motioning"
+  ]
+ },
+ {
+  "w": "motive",
+  "lvl": "3k",
+  "forms": [
+   "motivation",
+   "motivated",
+   "motives",
+   "motivate",
+   "motivating",
+   "motivations",
+   "motivational",
+   "motivates"
+  ]
+ },
+ {
+  "w": "multiple",
+  "lvl": "3k",
+  "forms": [
+   "multiples"
+  ]
+ },
+ {
+  "w": "museum",
+  "lvl": "3k",
+  "forms": [
+   "museums"
+  ]
+ },
+ {
+  "w": "mutual",
+  "lvl": "3k",
+  "forms": [
+   "mutually",
+   "mutuality"
+  ]
+ },
+ {
+  "w": "myth",
+  "lvl": "3k",
+  "forms": [
+   "myths",
+   "mythical",
+   "mythic",
+   "mythically"
+  ]
+ },
+ {
+  "w": "naked",
+  "lvl": "3k",
+  "forms": [
+   "nakedness",
+   "nakedly"
+  ]
+ },
+ {
+  "w": "narrate",
+  "lvl": "3k",
+  "forms": [
+   "narrative",
+   "narrator",
+   "narratives",
+   "narration",
+   "narrated",
+   "narrating",
+   "narrators",
+   "narrates"
+  ]
+ },
+ {
+  "w": "negative",
+  "lvl": "3k",
+  "forms": [
+   "negatively",
+   "negatives",
+   "negativity",
+   "negativism"
+  ]
+ },
+ {
+  "w": "neglect",
+  "lvl": "3k",
+  "forms": [
+   "neglected",
+   "neglecting",
+   "neglects",
+   "neglectful"
+  ]
+ },
+ {
+  "w": "negotiate",
+  "lvl": "3k",
+  "forms": [
+   "negotiations",
+   "negotiating",
+   "negotiated",
+   "negotiation",
+   "negotiators",
+   "negotiator",
+   "renegotiate",
+   "renegotiation"
+  ]
+ },
+ {
+  "w": "net",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "nets",
+  "lvl": "3k",
+  "forms": [
+   "netting",
+   "netted",
+   "netters",
+   "netter",
+   "nettings"
+  ]
+ },
+ {
+  "w": "network",
+  "lvl": "3k",
+  "forms": [
+   "networks",
+   "networking",
+   "networked",
+   "networker",
+   "networkers"
+  ]
+ },
+ {
+  "w": "neutral",
+  "lvl": "3k",
+  "forms": [
+   "neutrality",
+   "neutralisation",
+   "neutralise",
+   "neutralised",
+   "neutralize",
+   "neutralising",
+   "neutrally",
+   "neutralized"
+  ]
+ },
+ {
+  "w": "nevertheless",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "nod",
+  "lvl": "3k",
+  "forms": [
+   "nodded",
+   "nodding",
+   "nods"
+  ]
+ },
+ {
+  "w": "nominate",
+  "lvl": "3k",
+  "forms": [
+   "nominated",
+   "nomination",
+   "nominations",
+   "nominating",
+   "nominates"
+  ]
+ },
+ {
+  "w": "notion",
+  "lvl": "3k",
+  "forms": [
+   "notions"
+  ]
+ },
+ {
+  "w": "novel",
+  "lvl": "3k",
+  "forms": [
+   "novels",
+   "novelist",
+   "novelists",
+   "novelistic"
+  ]
+ },
+ {
+  "w": "nuclear",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "numerous",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "objected",
+  "lvl": "3k",
+  "forms": [
+   "objection",
+   "objections",
+   "objectors",
+   "objectionable",
+   "objecting",
+   "objector",
+   "unobjectionable",
+   "objectionably"
+  ]
+ },
+ {
+  "w": "objective",
+  "lvl": "3k",
+  "forms": [
+   "objectives",
+   "objectivity",
+   "objectively",
+   "objectivist",
+   "objectivism",
+   "objectivistic"
+  ]
+ },
+ {
+  "w": "oblige",
+  "lvl": "3k",
+  "forms": [
+   "obligation",
+   "obliged",
+   "obligations",
+   "obligatory",
+   "obliging",
+   "obligingly",
+   "obliges",
+   "obligated"
+  ]
+ },
+ {
+  "w": "obtain",
+  "lvl": "3k",
+  "forms": [
+   "obtained",
+   "obtaining",
+   "obtains",
+   "obtainable",
+   "unobtainable"
+  ]
+ },
+ {
+  "w": "occupation",
+  "lvl": "3k",
+  "forms": [
+   "occupational",
+   "occupations",
+   "occupationally"
+  ]
+ },
+ {
+  "w": "occupy",
+  "lvl": "3k",
+  "forms": [
+   "occupied",
+   "occupying",
+   "occupants",
+   "occupier",
+   "occupies",
+   "occupiers",
+   "occupancy",
+   "occupant"
+  ]
+ },
+ {
+  "w": "ocean",
+  "lvl": "3k",
+  "forms": [
+   "oceans",
+   "oceanic"
+  ]
+ },
+ {
+  "w": "offence",
+  "lvl": "3k",
+  "forms": [
+   "offences",
+   "offensive",
+   "inoffensive",
+   "offensives",
+   "offensively",
+   "offenses",
+   "offense",
+   "offensiveness"
+  ]
+ },
+ {
+  "w": "offend",
+  "lvl": "3k",
+  "forms": [
+   "offenders",
+   "offender",
+   "offending",
+   "offended",
+   "offends"
+  ]
+ },
+ {
+  "w": "opera",
+  "lvl": "3k",
+  "forms": [
+   "operas",
+   "operatic",
+   "opéra"
+  ]
+ },
+ {
+  "w": "opponent",
+  "lvl": "3k",
+  "forms": [
+   "opponents"
+  ]
+ },
+ {
+  "w": "oral",
+  "lvl": "3k",
+  "forms": [
+   "orally"
+  ]
+ },
+ {
+  "w": "organ",
+  "lvl": "3k",
+  "forms": [
+   "organs",
+   "organist",
+   "organists"
+  ]
+ },
+ {
+  "w": "organic",
+  "lvl": "3k",
+  "forms": [
+   "inorganic",
+   "organically",
+   "organics",
+   "inorganically"
+  ]
+ },
+ {
+  "w": "oriented",
+  "lvl": "3k",
+  "forms": [
+   "orientation",
+   "orientated",
+   "orientations",
+   "reorientation",
+   "orientate",
+   "orienteering",
+   "orienting",
+   "orientates"
+  ]
+ },
+ {
+  "w": "origin",
+  "lvl": "3k",
+  "forms": [
+   "origins"
+  ]
+ },
+ {
+  "w": "outcome",
+  "lvl": "3k",
+  "forms": [
+   "outcomes"
+  ]
+ },
+ {
+  "w": "outline",
+  "lvl": "3k",
+  "forms": [
+   "outlined",
+   "outlines",
+   "outlining"
+  ]
+ },
+ {
+  "w": "output",
+  "lvl": "3k",
+  "forms": [
+   "outputs"
+  ]
+ },
+ {
+  "w": "outrage",
+  "lvl": "3k",
+  "forms": [
+   "outrageous",
+   "outraged",
+   "outrageously",
+   "outrages",
+   "outraging"
+  ]
+ },
+ {
+  "w": "overall",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "overcome",
+  "lvl": "3k",
+  "forms": [
+   "overcoming",
+   "overcame",
+   "overcomes"
+  ]
+ },
+ {
+  "w": "overlook",
+  "lvl": "3k",
+  "forms": [
+   "overlooked",
+   "overlooking",
+   "overlooks"
+  ]
+ },
+ {
+  "w": "overseas",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "overwhelm",
+  "lvl": "3k",
+  "forms": [
+   "overwhelming",
+   "overwhelmed",
+   "overwhelmingly",
+   "overwhelms"
+  ]
+ },
+ {
+  "w": "pace",
+  "lvl": "3k",
+  "forms": [
+   "paces",
+   "paced",
+   "pacing",
+   "pacer",
+   "pacers"
+  ]
+ },
+ {
+  "w": "pad",
+  "lvl": "3k",
+  "forms": [
+   "padded",
+   "pads",
+   "padding"
+  ]
+ },
+ {
+  "w": "palace",
+  "lvl": "3k",
+  "forms": [
+   "palaces"
+  ]
+ },
+ {
+  "w": "pale",
+  "lvl": "3k",
+  "forms": [
+   "paler",
+   "paled",
+   "pales",
+   "palest",
+   "paleness"
+  ]
+ },
+ {
+  "w": "palm",
+  "lvl": "3k",
+  "forms": [
+   "palms",
+   "palmed",
+   "palming"
+  ]
+ },
+ {
+  "w": "panel",
+  "lvl": "3k",
+  "forms": [
+   "panels",
+   "panelled",
+   "panelling",
+   "paneled",
+   "paneling"
+  ]
+ },
+ {
+  "w": "paragraph",
+  "lvl": "3k",
+  "forms": [
+   "para",
+   "paragraphs",
+   "paras",
+   "paragraphing",
+   "paragraphed"
+  ]
+ },
+ {
+  "w": "parallel",
+  "lvl": "3k",
+  "forms": [
+   "parallels",
+   "paralleled",
+   "unparalleled",
+   "parallelism",
+   "paralleling",
+   "parallelled",
+   "parallelling"
+  ]
+ },
+ {
+  "w": "parish",
+  "lvl": "3k",
+  "forms": [
+   "parishes"
+  ]
+ },
+ {
+  "w": "parliament",
+  "lvl": "3k",
+  "forms": [
+   "parliamentary",
+   "parliaments",
+   "parliamentarians",
+   "parliamentarian"
+  ]
+ },
+ {
+  "w": "participant",
+  "lvl": "3k",
+  "forms": [
+   "participants"
+  ]
+ },
+ {
+  "w": "participate",
+  "lvl": "3k",
+  "forms": [
+   "participation",
+   "participating",
+   "participated",
+   "participatory",
+   "participative",
+   "participates",
+   "participations"
+  ]
+ },
+ {
+  "w": "passage",
+  "lvl": "3k",
+  "forms": [
+   "passages"
+  ]
+ },
+ {
+  "w": "passenger",
+  "lvl": "3k",
+  "forms": [
+   "passengers"
+  ]
+ },
+ {
+  "w": "passion",
+  "lvl": "3k",
+  "forms": [
+   "passionate",
+   "passionately",
+   "passions",
+   "passionless"
+  ]
+ },
+ {
+  "w": "patients",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "pave",
+  "lvl": "3k",
+  "forms": [
+   "pavement",
+   "paving",
+   "pavements",
+   "paved",
+   "paves",
+   "unpaved",
+   "pavings"
+  ]
+ },
+ {
+  "w": "peak",
+  "lvl": "3k",
+  "forms": [
+   "peaks",
+   "peaked",
+   "peaking"
+  ]
+ },
+ {
+  "w": "peasant",
+  "lvl": "3k",
+  "forms": [
+   "peasants",
+   "peasantry",
+   "peasantries"
+  ]
+ },
+ {
+  "w": "peer",
+  "lvl": "3k",
+  "forms": [
+   "peers",
+   "peerage",
+   "peerages",
+   "peerless"
+  ]
+ },
+ {
+  "w": "penalty",
+  "lvl": "3k",
+  "forms": [
+   "penalties"
+  ]
+ },
+ {
+  "w": "pepper",
+  "lvl": "3k",
+  "forms": [
+   "peppers",
+   "peppered",
+   "peppery"
+  ]
+ },
+ {
+  "w": "perceive",
+  "lvl": "3k",
+  "forms": [
+   "perceived",
+   "perceiving",
+   "perceives"
+  ]
+ },
+ {
+  "w": "perception",
+  "lvl": "3k",
+  "forms": [
+   "perceptions",
+   "misperception",
+   "misperceptions"
+  ]
+ },
+ {
+  "w": "permanent",
+  "lvl": "3k",
+  "forms": [
+   "permanently",
+   "impermanent"
+  ]
+ },
+ {
+  "w": "permission",
+  "lvl": "3k",
+  "forms": [
+   "permissions"
+  ]
+ },
+ {
+  "w": "permit",
+  "lvl": "3k",
+  "forms": [
+   "permitted",
+   "permits",
+   "permitting"
+  ]
+ },
+ {
+  "w": "persist",
+  "lvl": "3k",
+  "forms": [
+   "persistent",
+   "persisted",
+   "persistence",
+   "persists",
+   "persistently",
+   "persisting",
+   "persistency"
+  ]
+ },
+ {
+  "w": "personality",
+  "lvl": "3k",
+  "forms": [
+   "personalities"
+  ]
+ },
+ {
+  "w": "personnel",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "perspective",
+  "lvl": "3k",
+  "forms": [
+   "perspectives",
+   "perspectival"
+  ]
+ },
+ {
+  "w": "persuade",
+  "lvl": "3k",
+  "forms": [
+   "persuaded",
+   "persuading",
+   "persuades",
+   "persuaders",
+   "persuader"
+  ]
+ },
+ {
+  "w": "petrol",
+  "lvl": "3k",
+  "forms": [
+   "petrological"
+  ]
+ },
+ {
+  "w": "phase",
+  "lvl": "3k",
+  "forms": [
+   "phases",
+   "phased",
+   "phasing"
+  ]
+ },
+ {
+  "w": "phenomenon",
+  "lvl": "3k",
+  "forms": [
+   "phenomena",
+   "phenomenons"
+  ]
+ },
+ {
+  "w": "philosophy",
+  "lvl": "3k",
+  "forms": [
+   "philosophical",
+   "philosophers",
+   "philosopher",
+   "philosophies",
+   "philosophically",
+   "philosophic",
+   "philosophising",
+   "philosophize"
+  ]
+ },
+ {
+  "w": "phrase",
+  "lvl": "3k",
+  "forms": [
+   "phrases",
+   "phrasing",
+   "phrased",
+   "rephrase",
+   "phrasal",
+   "rephrased",
+   "rephrasing",
+   "phrasings"
+  ]
+ },
+ {
+  "w": "pilot",
+  "lvl": "3k",
+  "forms": [
+   "pilots",
+   "piloted",
+   "piloting"
+  ]
+ },
+ {
+  "w": "pit",
+  "lvl": "3k",
+  "forms": [
+   "pits",
+   "pitted",
+   "pitting"
+  ]
+ },
+ {
+  "w": "platform",
+  "lvl": "3k",
+  "forms": [
+   "platforms"
+  ]
+ },
+ {
+  "w": "plot",
+  "lvl": "3k",
+  "forms": [
+   "plots",
+   "plotting",
+   "plotted",
+   "plotters",
+   "plotter"
+  ]
+ },
+ {
+  "w": "poll",
+  "lvl": "3k",
+  "forms": [
+   "polls",
+   "polling",
+   "polled",
+   "pollings"
+  ]
+ },
+ {
+  "w": "portion",
+  "lvl": "3k",
+  "forms": [
+   "portions",
+   "portioned",
+   "portioning"
+  ]
+ },
+ {
+  "w": "portrait",
+  "lvl": "3k",
+  "forms": [
+   "portraits",
+   "portraiture"
+  ]
+ },
+ {
+  "w": "pose",
+  "lvl": "3k",
+  "forms": [
+   "posed",
+   "poses",
+   "posing",
+   "poser",
+   "posers"
+  ]
+ },
+ {
+  "w": "potential",
+  "lvl": "3k",
+  "forms": [
+   "potentially",
+   "potentials",
+   "potentialities",
+   "potentiality"
+  ]
+ }
+]

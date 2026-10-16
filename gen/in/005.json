@@ -1,0 +1,1008 @@
+[
+ {
+  "w": "main",
+  "lvl": "1k",
+  "forms": [
+   "mainly",
+   "mains"
+  ]
+ },
+ {
+  "w": "major",
+  "lvl": "1k",
+  "forms": [
+   "majored",
+   "majoring"
+  ]
+ },
+ {
+  "w": "make",
+  "lvl": "1k",
+  "forms": [
+   "made",
+   "making",
+   "makes",
+   "makers",
+   "maker",
+   "remake",
+   "makings",
+   "unmade"
+  ]
+ },
+ {
+  "w": "man",
+  "lvl": "1k",
+  "forms": [
+   "men",
+   "manning",
+   "manned",
+   "manhood",
+   "mens",
+   "mans",
+   "manly",
+   "unmanned"
+  ]
+ },
+ {
+  "w": "manage",
+  "lvl": "1k",
+  "forms": [
+   "management",
+   "manager",
+   "managed",
+   "managers",
+   "managing",
+   "managerial",
+   "manages",
+   "manageable"
+  ]
+ },
+ {
+  "w": "many",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "mark",
+  "lvl": "1k",
+  "forms": [
+   "marked",
+   "marks",
+   "marking",
+   "marker",
+   "markedly",
+   "markers",
+   "markings",
+   "unmarked"
+  ]
+ },
+ {
+  "w": "market",
+  "lvl": "1k",
+  "forms": [
+   "markets",
+   "marketing",
+   "marketed",
+   "marketable",
+   "marketer",
+   "marketeers",
+   "marketers",
+   "marketability"
+  ]
+ },
+ {
+  "w": "marry",
+  "lvl": "1k",
+  "forms": [
+   "married",
+   "marriage",
+   "marriages",
+   "unmarried",
+   "marrying",
+   "marries",
+   "remarried",
+   "remarriage"
+  ]
+ },
+ {
+  "w": "master",
+  "lvl": "1k",
+  "forms": [
+   "masters",
+   "mastery",
+   "mastered",
+   "mastering",
+   "masterly",
+   "masterful"
+  ]
+ },
+ {
+  "w": "matter",
+  "lvl": "1k",
+  "forms": [
+   "matters",
+   "mattered",
+   "mattering"
+  ]
+ },
+ {
+  "w": "may",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "maybe",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "meal",
+  "lvl": "1k",
+  "forms": [
+   "meals"
+  ]
+ },
+ {
+  "w": "mean",
+  "lvl": "1k",
+  "forms": [
+   "means",
+   "meant",
+   "meaning",
+   "meanings",
+   "meaningful",
+   "meaningless",
+   "meaningfully",
+   "meaningfulness"
+  ]
+ },
+ {
+  "w": "meet",
+  "lvl": "1k",
+  "forms": [
+   "meeting",
+   "met",
+   "meetings",
+   "meets",
+   "unmet"
+  ]
+ },
+ {
+  "w": "member",
+  "lvl": "1k",
+  "forms": [
+   "members",
+   "membership",
+   "memberships"
+  ]
+ },
+ {
+  "w": "mention",
+  "lvl": "1k",
+  "forms": [
+   "mentioned",
+   "mentioning",
+   "mentions",
+   "unmentionable",
+   "unmentioned"
+  ]
+ },
+ {
+  "w": "mess",
+  "lvl": "1k",
+  "forms": [
+   "messy",
+   "messing",
+   "messed",
+   "messes",
+   "messier",
+   "messily",
+   "messiness",
+   "messiest"
+  ]
+ },
+ {
+  "w": "middle",
+  "lvl": "1k",
+  "forms": [
+   "middling",
+   "middles"
+  ]
+ },
+ {
+  "w": "might",
+  "lvl": "1k",
+  "forms": [
+   "mightn"
+  ]
+ },
+ {
+  "w": "mile",
+  "lvl": "1k",
+  "forms": [
+   "miles",
+   "mileage",
+   "mileages"
+  ]
+ },
+ {
+  "w": "milk",
+  "lvl": "1k",
+  "forms": [
+   "milky",
+   "milking",
+   "milked",
+   "milks"
+  ]
+ },
+ {
+  "w": "million",
+  "lvl": "1k",
+  "forms": [
+   "millions",
+   "millionth"
+  ]
+ },
+ {
+  "w": "mind",
+  "lvl": "1k",
+  "forms": [
+   "minds",
+   "minded",
+   "mindless",
+   "mindedness",
+   "mindful",
+   "minder",
+   "minding",
+   "minders"
+  ]
+ },
+ {
+  "w": "minute",
+  "lvl": "1k",
+  "forms": [
+   "minutes",
+   "min",
+   "mins"
+  ]
+ },
+ {
+  "w": "miss",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "missed",
+  "lvl": "1k",
+  "forms": [
+   "missing",
+   "misses",
+   "unmissed"
+  ]
+ },
+ {
+  "w": "mistake",
+  "lvl": "1k",
+  "forms": [
+   "mistakes",
+   "mistaken",
+   "unmistakable",
+   "mistakenly",
+   "unmistakably",
+   "mistaking",
+   "mistook",
+   "unmistakeable"
+  ]
+ },
+ {
+  "w": "mister",
+  "lvl": "1k",
+  "forms": [
+   "mr"
+  ]
+ },
+ {
+  "w": "moment",
+  "lvl": "1k",
+  "forms": [
+   "moments",
+   "momentarily",
+   "momentary"
+  ]
+ },
+ {
+  "w": "monday",
+  "lvl": "1k",
+  "forms": [
+   "mon",
+   "mondays"
+  ]
+ },
+ {
+  "w": "money",
+  "lvl": "1k",
+  "forms": [
+   "monies",
+   "moneys",
+   "moneyed",
+   "monied"
+  ]
+ },
+ {
+  "w": "month",
+  "lvl": "1k",
+  "forms": [
+   "months",
+   "monthly"
+  ]
+ },
+ {
+  "w": "more",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "morning",
+  "lvl": "1k",
+  "forms": [
+   "mornings",
+   "mornin",
+   "morn"
+  ]
+ },
+ {
+  "w": "most",
+  "lvl": "1k",
+  "forms": [
+   "mostly"
+  ]
+ },
+ {
+  "w": "mother",
+  "lvl": "1k",
+  "forms": [
+   "mothers",
+   "motherhood",
+   "mothering",
+   "motherly",
+   "motherless",
+   "mothered"
+  ]
+ },
+ {
+  "w": "mountain",
+  "lvl": "1k",
+  "forms": [
+   "mountains",
+   "mountaineering",
+   "mountainous",
+   "mountainside",
+   "mountaineer",
+   "mountaineers",
+   "mountainsides"
+  ]
+ },
+ {
+  "w": "mouth",
+  "lvl": "1k",
+  "forms": [
+   "mouths",
+   "mouthful",
+   "mouthed",
+   "mouthing",
+   "mouthfuls",
+   "mouthy",
+   "mouthings"
+  ]
+ },
+ {
+  "w": "move",
+  "lvl": "1k",
+  "forms": [
+   "moved",
+   "movement",
+   "moving",
+   "movements",
+   "moves",
+   "mover",
+   "unmoved",
+   "movable"
+  ]
+ },
+ {
+  "w": "movie",
+  "lvl": "1k",
+  "forms": [
+   "movies"
+  ]
+ },
+ {
+  "w": "mrs",
+  "lvl": "1k",
+  "forms": [
+   "missus",
+   "missis",
+   "miz",
+   "missuses"
+  ]
+ },
+ {
+  "w": "much",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "mum",
+  "lvl": "1k",
+  "forms": [
+   "mummy",
+   "mam",
+   "mums",
+   "mom",
+   "mammy",
+   "mommy",
+   "mams",
+   "moms"
+  ]
+ },
+ {
+  "w": "music",
+  "lvl": "1k",
+  "forms": [
+   "musical",
+   "musicians",
+   "musician",
+   "musically",
+   "musicals",
+   "musicianship",
+   "musics"
+  ]
+ },
+ {
+  "w": "must",
+  "lvl": "1k",
+  "forms": [
+   "mustn",
+   "musta"
+  ]
+ },
+ {
+  "w": "name",
+  "lvl": "1k",
+  "forms": [
+   "names",
+   "named",
+   "namely",
+   "naming",
+   "renamed",
+   "unnamed",
+   "nameless",
+   "renaming"
+  ]
+ },
+ {
+  "w": "nation",
+  "lvl": "1k",
+  "forms": [
+   "national",
+   "nations",
+   "nationalist",
+   "nationalism",
+   "nationally",
+   "nationwide",
+   "nationals",
+   "nationalists"
+  ]
+ },
+ {
+  "w": "nature",
+  "lvl": "1k",
+  "forms": [
+   "natural",
+   "naturally",
+   "unnatural",
+   "naturalist",
+   "natured",
+   "unnaturally",
+   "naturalistic",
+   "naturalists"
+  ]
+ },
+ {
+  "w": "naughty",
+  "lvl": "1k",
+  "forms": [
+   "naughtiness",
+   "naughtily",
+   "naughtier",
+   "naughtiest"
+  ]
+ },
+ {
+  "w": "near",
+  "lvl": "1k",
+  "forms": [
+   "nearly",
+   "nearby",
+   "nearest",
+   "nearer",
+   "nearing",
+   "neared",
+   "nearness",
+   "nearside"
+  ]
+ },
+ {
+  "w": "neat",
+  "lvl": "1k",
+  "forms": [
+   "neatly",
+   "neatness",
+   "neater",
+   "neatest"
+  ]
+ },
+ {
+  "w": "necessary",
+  "lvl": "1k",
+  "forms": [
+   "necessarily",
+   "unnecessary",
+   "unnecessarily",
+   "necessaries"
+  ]
+ },
+ {
+  "w": "neck",
+  "lvl": "1k",
+  "forms": [
+   "necks",
+   "necked",
+   "necking"
+  ]
+ },
+ {
+  "w": "need",
+  "lvl": "1k",
+  "forms": [
+   "needs",
+   "needed",
+   "needing",
+   "needless",
+   "needn",
+   "needlessly",
+   "needful",
+   "unneeded"
+  ]
+ },
+ {
+  "w": "neighbour",
+  "lvl": "1k",
+  "forms": [
+   "neighbours",
+   "neighbourhood",
+   "neighbouring",
+   "neighbourhoods",
+   "neighbourly",
+   "neighbourliness",
+   "neighborhood",
+   "neighbor"
+  ]
+ },
+ {
+  "w": "never",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "new",
+  "lvl": "1k",
+  "forms": [
+   "newly",
+   "renewed",
+   "renewal",
+   "renew",
+   "newer",
+   "renewable",
+   "newest",
+   "renewing"
+  ]
+ },
+ {
+  "w": "news",
+  "lvl": "1k",
+  "forms": [
+   "newsy"
+  ]
+ },
+ {
+  "w": "next",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "nice",
+  "lvl": "1k",
+  "forms": [
+   "nicely",
+   "nicer",
+   "nicest",
+   "niceness"
+  ]
+ },
+ {
+  "w": "night",
+  "lvl": "1k",
+  "forms": [
+   "nights",
+   "nightly",
+   "nts"
+  ]
+ },
+ {
+  "w": "nine",
+  "lvl": "1k",
+  "forms": [
+   "ninety",
+   "nineteen",
+   "nineteenth",
+   "ninth",
+   "nineties",
+   "nines",
+   "ninetieth",
+   "niner"
+  ]
+ },
+ {
+  "w": "no",
+  "lvl": "1k",
+  "forms": [
+   "nothing",
+   "nobody",
+   "nowhere",
+   "nowt",
+   "nothingness",
+   "nothin",
+   "nothings",
+   "noes"
+  ]
+ },
+ {
+  "w": "noise",
+  "lvl": "1k",
+  "forms": [
+   "noisy",
+   "noises",
+   "noisily",
+   "noiselessly",
+   "noisier",
+   "noisiest",
+   "noiseless"
+  ]
+ },
+ {
+  "w": "none",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "normal",
+  "lvl": "1k",
+  "forms": [
+   "normally",
+   "normality",
+   "normalization",
+   "normalisation",
+   "normalized",
+   "normalised",
+   "normalise",
+   "normalize"
+  ]
+ },
+ {
+  "w": "north",
+  "lvl": "1k",
+  "forms": [
+   "ne",
+   "northwards",
+   "northwest",
+   "northerly",
+   "northward",
+   "nw",
+   "northernmost",
+   "nnw"
+  ]
+ },
+ {
+  "w": "nose",
+  "lvl": "1k",
+  "forms": [
+   "noses",
+   "nosed",
+   "nosing",
+   "noseless"
+  ]
+ },
+ {
+  "w": "not",
+  "lvl": "1k",
+  "forms": [
+   "t",
+   "nt",
+   "nots"
+  ]
+ },
+ {
+  "w": "note",
+  "lvl": "1k",
+  "forms": [
+   "notes",
+   "noted",
+   "notably",
+   "notable",
+   "noting",
+   "notables"
+  ]
+ },
+ {
+  "w": "notice",
+  "lvl": "1k",
+  "forms": [
+   "noticed",
+   "noticeable",
+   "notices",
+   "noticing",
+   "unnoticed",
+   "noticeably",
+   "unnoticeable"
+  ]
+ },
+ {
+  "w": "now",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "number",
+  "lvl": "1k",
+  "forms": [
+   "numbers",
+   "numbered",
+   "nos",
+   "numbering",
+   "renumbered",
+   "numberless",
+   "unnumbered",
+   "renumber"
+  ]
+ },
+ {
+  "w": "nurse",
+  "lvl": "1k",
+  "forms": [
+   "nursing",
+   "nurses",
+   "nursed"
+  ]
+ },
+ {
+  "w": "obvious",
+  "lvl": "1k",
+  "forms": [
+   "obviously",
+   "obviousness"
+  ]
+ },
+ {
+  "w": "odd",
+  "lvl": "1k",
+  "forms": [
+   "odds",
+   "oddly",
+   "oddity",
+   "oddities",
+   "oddest",
+   "odder",
+   "oddness"
+  ]
+ },
+ {
+  "w": "of",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "off",
+  "lvl": "1k",
+  "forms": [
+   "offs",
+   "orf"
+  ]
+ },
+ {
+  "w": "offer",
+  "lvl": "1k",
+  "forms": [
+   "offered",
+   "offers",
+   "offering",
+   "offerings",
+   "offeror",
+   "offeree",
+   "offerors",
+   "offerer"
+  ]
+ },
+ {
+  "w": "office",
+  "lvl": "1k",
+  "forms": [
+   "offices"
+  ]
+ },
+ {
+  "w": "officer",
+  "lvl": "1k",
+  "forms": [
+   "officers"
+  ]
+ },
+ {
+  "w": "often",
+  "lvl": "1k",
+  "forms": [
+   "oft"
+  ]
+ },
+ {
+  "w": "oil",
+  "lvl": "1k",
+  "forms": [
+   "oils",
+   "oily",
+   "oiled",
+   "oiling",
+   "oilers",
+   "oiliness",
+   "oiler",
+   "unoiled"
+  ]
+ },
+ {
+  "w": "ok",
+  "lvl": "1k",
+  "forms": [
+   "okay",
+   "okey"
+  ]
+ },
+ {
+  "w": "old",
+  "lvl": "1k",
+  "forms": [
+   "older",
+   "oldest",
+   "oldies",
+   "olde",
+   "olden",
+   "oldie",
+   "oldish",
+   "oldy"
+  ]
+ },
+ {
+  "w": "on",
+  "lvl": "1k",
+  "forms": [
+   "onto"
+  ]
+ },
+ {
+  "w": "once",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "one",
+  "lvl": "1k",
+  "forms": [
+   "ones",
+   "oneself",
+   "oneness",
+   "noone"
+  ]
+ },
+ {
+  "w": "only",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "open",
+  "lvl": "1k",
+  "forms": [
+   "opened",
+   "opening",
+   "opens",
+   "openly",
+   "openness",
+   "openings",
+   "opener",
+   "reopened"
+  ]
+ },
+ {
+  "w": "or",
+  "lvl": "1k",
+  "forms": [
+   "ors"
+  ]
+ },
+ {
+  "w": "orange",
+  "lvl": "1k",
+  "forms": [
+   "oranges",
+   "orangey",
+   "orangy",
+   "orangeish",
+   "orangish"
+  ]
+ },
+ {
+  "w": "order",
+  "lvl": "1k",
+  "forms": [
+   "orders",
+   "ordered",
+   "ordering",
+   "orderly",
+   "reordering",
+   "orderliness",
+   "orderlies",
+   "reordered"
+  ]
+ },
+ {
+  "w": "other",
+  "lvl": "1k",
+  "forms": [
+   "others",
+   "otherness"
+  ]
+ },
+ {
+  "w": "ought",
+  "lvl": "1k",
+  "forms": [
+   "oughtn",
+   "oughta"
+  ]
+ },
+ {
+  "w": "out",
+  "lvl": "1k",
+  "forms": [
+   "outside",
+   "outer",
+   "outsiders",
+   "outs",
+   "outward",
+   "outsider",
+   "outwards",
+   "outwardly"
+  ]
+ },
+ {
+  "w": "over",
+  "lvl": "1k",
+  "forms": [
+   "overly"
+  ]
+ },
+ {
+  "w": "own",
+  "lvl": "1k",
+  "forms": []
+ }
+]

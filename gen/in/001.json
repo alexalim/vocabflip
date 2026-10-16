@@ -1,0 +1,1096 @@
+[
+ {
+  "w": "board",
+  "lvl": "1k",
+  "forms": [
+   "boards"
+  ]
+ },
+ {
+  "w": "boat",
+  "lvl": "1k",
+  "forms": [
+   "boats",
+   "boating",
+   "boated"
+  ]
+ },
+ {
+  "w": "body",
+  "lvl": "1k",
+  "forms": [
+   "bodies",
+   "bodily",
+   "bodied"
+  ]
+ },
+ {
+  "w": "bone",
+  "lvl": "1k",
+  "forms": [
+   "bones",
+   "bony",
+   "boned",
+   "boneless",
+   "boney",
+   "boning",
+   "boniness",
+   "bonier"
+  ]
+ },
+ {
+  "w": "book",
+  "lvl": "1k",
+  "forms": [
+   "books",
+   "booklet",
+   "booklets",
+   "bookish"
+  ]
+ },
+ {
+  "w": "boring",
+  "lvl": "1k",
+  "forms": [
+   "bored",
+   "boredom",
+   "bores",
+   "boringly"
+  ]
+ },
+ {
+  "w": "born",
+  "lvl": "1k",
+  "forms": [
+   "unborn",
+   "reborn"
+  ]
+ },
+ {
+  "w": "both",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "bother",
+  "lvl": "1k",
+  "forms": [
+   "bothered",
+   "bothering",
+   "bothers",
+   "bovver",
+   "bothersome"
+  ]
+ },
+ {
+  "w": "bottle",
+  "lvl": "1k",
+  "forms": [
+   "bottles",
+   "bottled",
+   "bottling",
+   "unbottled"
+  ]
+ },
+ {
+  "w": "bottom",
+  "lvl": "1k",
+  "forms": [
+   "bottoms",
+   "bottomed",
+   "bottomless",
+   "bottoming"
+  ]
+ },
+ {
+  "w": "box",
+  "lvl": "1k",
+  "forms": [
+   "boxes"
+  ]
+ },
+ {
+  "w": "boy",
+  "lvl": "1k",
+  "forms": [
+   "boys",
+   "boyish",
+   "boyhood",
+   "boyishly",
+   "boyishness"
+  ]
+ },
+ {
+  "w": "bread",
+  "lvl": "1k",
+  "forms": [
+   "breads"
+  ]
+ },
+ {
+  "w": "break",
+  "lvl": "1k",
+  "forms": [
+   "broken",
+   "broke",
+   "breaking",
+   "breaks",
+   "unbroken",
+   "breakage",
+   "breakers",
+   "breaker"
+  ]
+ },
+ {
+  "w": "breakfast",
+  "lvl": "1k",
+  "forms": [
+   "breakfasts",
+   "breakfasted",
+   "breakfasting"
+  ]
+ },
+ {
+  "w": "breath",
+  "lvl": "1k",
+  "forms": [
+   "breathless",
+   "breaths",
+   "breathlessly",
+   "breathlessness",
+   "breathy"
+  ]
+ },
+ {
+  "w": "bright",
+  "lvl": "1k",
+  "forms": [
+   "brightly",
+   "brighter",
+   "brightness",
+   "brightest",
+   "brighten",
+   "brightened",
+   "brightening",
+   "brightens"
+  ]
+ },
+ {
+  "w": "bring",
+  "lvl": "1k",
+  "forms": [
+   "brought",
+   "bringing",
+   "brings",
+   "bringer",
+   "bringers"
+  ]
+ },
+ {
+  "w": "brother",
+  "lvl": "1k",
+  "forms": [
+   "brothers",
+   "brotherhood",
+   "bros",
+   "brotherly",
+   "bro",
+   "brotherhoods"
+  ]
+ },
+ {
+  "w": "brown",
+  "lvl": "1k",
+  "forms": [
+   "browning",
+   "browns",
+   "browned",
+   "brownish",
+   "browner",
+   "browny",
+   "brownest"
+  ]
+ },
+ {
+  "w": "build",
+  "lvl": "1k",
+  "forms": [
+   "building",
+   "built",
+   "buildings",
+   "builders",
+   "builder",
+   "rebuilt",
+   "builds",
+   "rebuilding"
+  ]
+ },
+ {
+  "w": "burn",
+  "lvl": "1k",
+  "forms": [
+   "burning",
+   "burned",
+   "burnt",
+   "burns",
+   "burner",
+   "burners",
+   "burnings",
+   "burnable"
+  ]
+ },
+ {
+  "w": "bus",
+  "lvl": "1k",
+  "forms": [
+   "buses",
+   "bussed",
+   "bussing",
+   "busses",
+   "busing"
+  ]
+ },
+ {
+  "w": "business",
+  "lvl": "1k",
+  "forms": [
+   "businesses",
+   "businesslike",
+   "unbusinesslike"
+  ]
+ },
+ {
+  "w": "busy",
+  "lvl": "1k",
+  "forms": [
+   "busily",
+   "busiest",
+   "busied",
+   "busier",
+   "busying",
+   "busyness",
+   "busies"
+  ]
+ },
+ {
+  "w": "but",
+  "lvl": "1k",
+  "forms": [
+   "buts"
+  ]
+ },
+ {
+  "w": "buy",
+  "lvl": "1k",
+  "forms": [
+   "bought",
+   "buying",
+   "buyer",
+   "buyers",
+   "buys"
+  ]
+ },
+ {
+  "w": "by",
+  "lvl": "1k",
+  "forms": [
+   "bys"
+  ]
+ },
+ {
+  "w": "cake",
+  "lvl": "1k",
+  "forms": [
+   "cakes"
+  ]
+ },
+ {
+  "w": "call",
+  "lvl": "1k",
+  "forms": [
+   "called",
+   "calls",
+   "calling",
+   "caller",
+   "callers",
+   "uncalled",
+   "callin"
+  ]
+ },
+ {
+  "w": "camp",
+  "lvl": "1k",
+  "forms": [
+   "camps",
+   "camping",
+   "camped",
+   "campers",
+   "camper"
+  ]
+ },
+ {
+  "w": "can",
+  "lvl": "1k",
+  "forms": [
+   "cannot"
+  ]
+ },
+ {
+  "w": "car",
+  "lvl": "1k",
+  "forms": [
+   "cars"
+  ]
+ },
+ {
+  "w": "card",
+  "lvl": "1k",
+  "forms": [
+   "cards",
+   "carding"
+  ]
+ },
+ {
+  "w": "care",
+  "lvl": "1k",
+  "forms": [
+   "carefully",
+   "careful",
+   "caring",
+   "cared",
+   "carers",
+   "cares",
+   "careless",
+   "carer"
+  ]
+ },
+ {
+  "w": "carry",
+  "lvl": "1k",
+  "forms": [
+   "carried",
+   "carrying",
+   "carries",
+   "carrier",
+   "carriers"
+  ]
+ },
+ {
+  "w": "case",
+  "lvl": "1k",
+  "forms": [
+   "cases"
+  ]
+ },
+ {
+  "w": "cat",
+  "lvl": "1k",
+  "forms": [
+   "cats",
+   "catlike"
+  ]
+ },
+ {
+  "w": "catch",
+  "lvl": "1k",
+  "forms": [
+   "caught",
+   "catching",
+   "catches",
+   "catcher",
+   "catchy",
+   "catchers",
+   "uncaught"
+  ]
+ },
+ {
+  "w": "cause",
+  "lvl": "1k",
+  "forms": [
+   "caused",
+   "causes",
+   "causing",
+   "causation",
+   "causative"
+  ]
+ },
+ {
+  "w": "centre",
+  "lvl": "1k",
+  "forms": [
+   "central",
+   "centres",
+   "centred",
+   "centrally",
+   "center",
+   "centralised",
+   "centralized",
+   "centralisation"
+  ]
+ },
+ {
+  "w": "certain",
+  "lvl": "1k",
+  "forms": [
+   "certainly",
+   "uncertainty",
+   "uncertain",
+   "certainty",
+   "uncertainties",
+   "uncertainly",
+   "cert",
+   "certainties"
+  ]
+ },
+ {
+  "w": "chair",
+  "lvl": "1k",
+  "forms": [
+   "chairs"
+  ]
+ },
+ {
+  "w": "chance",
+  "lvl": "1k",
+  "forms": [
+   "chances",
+   "chanced",
+   "chancing",
+   "mischance"
+  ]
+ },
+ {
+  "w": "change",
+  "lvl": "1k",
+  "forms": [
+   "changes",
+   "changed",
+   "changing",
+   "unchanged",
+   "unchanging",
+   "changeable",
+   "changer",
+   "unchangeable"
+  ]
+ },
+ {
+  "w": "charge",
+  "lvl": "1k",
+  "forms": [
+   "charges",
+   "charged",
+   "charging",
+   "chargeable",
+   "charger",
+   "chargee",
+   "chargers",
+   "uncharged"
+  ]
+ },
+ {
+  "w": "cheap",
+  "lvl": "1k",
+  "forms": [
+   "cheaper",
+   "cheapest",
+   "cheaply",
+   "cheapness",
+   "cheapen",
+   "cheapening",
+   "cheapened",
+   "cheapens"
+  ]
+ },
+ {
+  "w": "check",
+  "lvl": "1k",
+  "forms": [
+   "checked",
+   "checking",
+   "checks",
+   "unchecked",
+   "checker",
+   "checkers"
+  ]
+ },
+ {
+  "w": "chicken",
+  "lvl": "1k",
+  "forms": [
+   "chickens",
+   "chicks",
+   "chick",
+   "chickened",
+   "chickening"
+  ]
+ },
+ {
+  "w": "child",
+  "lvl": "1k",
+  "forms": [
+   "children",
+   "childhood",
+   "childish",
+   "childless",
+   "childlike",
+   "childrens",
+   "childishly",
+   "childishness"
+  ]
+ },
+ {
+  "w": "chip",
+  "lvl": "1k",
+  "forms": [
+   "chips",
+   "chipped",
+   "chipping",
+   "chippings"
+  ]
+ },
+ {
+  "w": "choice",
+  "lvl": "1k",
+  "forms": [
+   "choices",
+   "choicest"
+  ]
+ },
+ {
+  "w": "choose",
+  "lvl": "1k",
+  "forms": [
+   "chosen",
+   "chose",
+   "choosing",
+   "chooses",
+   "choosy",
+   "unchosen"
+  ]
+ },
+ {
+  "w": "christmas",
+  "lvl": "1k",
+  "forms": [
+   "christmases",
+   "christmassy"
+  ]
+ },
+ {
+  "w": "church",
+  "lvl": "1k",
+  "forms": [
+   "churches"
+  ]
+ },
+ {
+  "w": "city",
+  "lvl": "1k",
+  "forms": [
+   "cities"
+  ]
+ },
+ {
+  "w": "class",
+  "lvl": "1k",
+  "forms": [
+   "classes",
+   "classed",
+   "classy",
+   "classless",
+   "subclass",
+   "subclasses",
+   "classlessness",
+   "classier"
+  ]
+ },
+ {
+  "w": "clean",
+  "lvl": "1k",
+  "forms": [
+   "cleaning",
+   "cleaned",
+   "cleaner",
+   "cleaners",
+   "cleanliness",
+   "unclean",
+   "cleanly",
+   "cleans"
+  ]
+ },
+ {
+  "w": "clear",
+  "lvl": "1k",
+  "forms": [
+   "clearly",
+   "cleared",
+   "clearing",
+   "unclear",
+   "clearer",
+   "clearance",
+   "clearest",
+   "clears"
+  ]
+ },
+ {
+  "w": "climb",
+  "lvl": "1k",
+  "forms": [
+   "climbed",
+   "climbing",
+   "climbers",
+   "climbs",
+   "climber",
+   "unclimbed"
+  ]
+ },
+ {
+  "w": "clock",
+  "lvl": "1k",
+  "forms": [
+   "clocks",
+   "clocked",
+   "clocking",
+   "clockers",
+   "clocker",
+   "oclock"
+  ]
+ },
+ {
+  "w": "close",
+  "lvl": "1k",
+  "forms": [
+   "closely",
+   "closer",
+   "closest",
+   "closeness"
+  ]
+ },
+ {
+  "w": "closed",
+  "lvl": "1k",
+  "forms": [
+   "closing",
+   "closes",
+   "unclosed"
+  ]
+ },
+ {
+  "w": "clothes",
+  "lvl": "1k",
+  "forms": [
+   "clothing",
+   "clothed",
+   "clothe",
+   "unclothed",
+   "unclothing"
+  ]
+ },
+ {
+  "w": "club",
+  "lvl": "1k",
+  "forms": [
+   "clubs",
+   "clubbed",
+   "clubbing",
+   "clubbers",
+   "clubber"
+  ]
+ },
+ {
+  "w": "coat",
+  "lvl": "1k",
+  "forms": [
+   "coats",
+   "coated",
+   "coating",
+   "coatings"
+  ]
+ },
+ {
+  "w": "coffee",
+  "lvl": "1k",
+  "forms": [
+   "coffees"
+  ]
+ },
+ {
+  "w": "cold",
+  "lvl": "1k",
+  "forms": [
+   "coldly",
+   "colder",
+   "coldness",
+   "colds",
+   "coldest",
+   "coldish"
+  ]
+ },
+ {
+  "w": "collect",
+  "lvl": "1k",
+  "forms": [
+   "collection",
+   "collected",
+   "collective",
+   "collections",
+   "collecting",
+   "collector",
+   "collectors",
+   "collectively"
+  ]
+ },
+ {
+  "w": "college",
+  "lvl": "1k",
+  "forms": [
+   "colleges",
+   "collegians",
+   "collegian"
+  ]
+ },
+ {
+  "w": "colour",
+  "lvl": "1k",
+  "forms": [
+   "colours",
+   "coloured",
+   "colourful",
+   "colouring",
+   "colourless",
+   "coloration",
+   "color",
+   "colourings"
+  ]
+ },
+ {
+  "w": "come",
+  "lvl": "1k",
+  "forms": [
+   "came",
+   "coming",
+   "comes",
+   "comer",
+   "comers",
+   "comin",
+   "comings",
+   "cometh"
+  ]
+ },
+ {
+  "w": "comfort",
+  "lvl": "1k",
+  "forms": [
+   "comfortable",
+   "uncomfortable",
+   "comfortably",
+   "comforting",
+   "uncomfortably",
+   "comforted",
+   "comforts",
+   "comfortingly"
+  ]
+ },
+ {
+  "w": "company",
+  "lvl": "1k",
+  "forms": [
+   "companies",
+   "co"
+  ]
+ },
+ {
+  "w": "complete",
+  "lvl": "1k",
+  "forms": [
+   "completely",
+   "completed",
+   "completion",
+   "completing",
+   "incomplete",
+   "completes",
+   "completeness",
+   "completions"
+  ]
+ },
+ {
+  "w": "computer",
+  "lvl": "1k",
+  "forms": [
+   "computers",
+   "computing",
+   "computerised",
+   "computational",
+   "computed",
+   "computation",
+   "computerized",
+   "compute"
+  ]
+ },
+ {
+  "w": "concern",
+  "lvl": "1k",
+  "forms": [
+   "concerned",
+   "concerns",
+   "concerning",
+   "unconcerned",
+   "unconcern",
+   "unconcernedly"
+  ]
+ },
+ {
+  "w": "consider",
+  "lvl": "1k",
+  "forms": [
+   "considered",
+   "consideration",
+   "considering",
+   "considerations",
+   "considers",
+   "reconsider",
+   "reconsidered",
+   "reconsideration"
+  ]
+ },
+ {
+  "w": "continue",
+  "lvl": "1k",
+  "forms": [
+   "continued",
+   "continuing",
+   "continues",
+   "continuous",
+   "continually",
+   "continuity",
+   "continuously",
+   "continuation"
+  ]
+ },
+ {
+  "w": "control",
+  "lvl": "1k",
+  "forms": [
+   "controlled",
+   "controls",
+   "controlling",
+   "controller",
+   "controllers",
+   "uncontrolled",
+   "uncontrollable",
+   "uncontrollably"
+  ]
+ },
+ {
+  "w": "conversation",
+  "lvl": "1k",
+  "forms": [
+   "conversations",
+   "conversational",
+   "converse",
+   "conversant",
+   "conversationally",
+   "conversing",
+   "conversed",
+   "conversationalist"
+  ]
+ },
+ {
+  "w": "cook",
+  "lvl": "1k",
+  "forms": [
+   "cooking",
+   "cooked",
+   "cooker",
+   "cookery",
+   "cooks",
+   "cookers",
+   "uncooked",
+   "overcooked"
+  ]
+ },
+ {
+  "w": "cool",
+  "lvl": "1k",
+  "forms": [
+   "cooling",
+   "cooled",
+   "coolly",
+   "cooler",
+   "coolness",
+   "cools",
+   "coolant",
+   "coolest"
+  ]
+ },
+ {
+  "w": "corner",
+  "lvl": "1k",
+  "forms": [
+   "corners",
+   "cornered",
+   "cornering"
+  ]
+ },
+ {
+  "w": "cost",
+  "lvl": "1k",
+  "forms": [
+   "costs",
+   "costing",
+   "costly",
+   "costed",
+   "costings",
+   "costless",
+   "costliest",
+   "costlier"
+  ]
+ },
+ {
+  "w": "could",
+  "lvl": "1k",
+  "forms": [
+   "couldn",
+   "coulda"
+  ]
+ },
+ {
+  "w": "count",
+  "lvl": "1k",
+  "forms": [
+   "counts",
+   "counted",
+   "counting",
+   "countless",
+   "recounted",
+   "recounts",
+   "recount",
+   "recounting"
+  ]
+ },
+ {
+  "w": "country",
+  "lvl": "1k",
+  "forms": [
+   "countries",
+   "countrified",
+   "countrify"
+  ]
+ },
+ {
+  "w": "couple",
+  "lvl": "1k",
+  "forms": [
+   "couples",
+   "coupled",
+   "coupling",
+   "couplings",
+   "uncoupled"
+  ]
+ },
+ {
+  "w": "course",
+  "lvl": "1k",
+  "forms": [
+   "courses"
+  ]
+ },
+ {
+  "w": "court",
+  "lvl": "1k",
+  "forms": [
+   "courts",
+   "courting",
+   "courted"
+  ]
+ },
+ {
+  "w": "cover",
+  "lvl": "1k",
+  "forms": [
+   "covered",
+   "covering",
+   "covers",
+   "coverage",
+   "uncovered",
+   "uncover",
+   "uncovering",
+   "coverings"
+  ]
+ },
+ {
+  "w": "crazy",
+  "lvl": "1k",
+  "forms": [
+   "crazily",
+   "craziness",
+   "craziest",
+   "crazier",
+   "crazies"
+  ]
+ },
+ {
+  "w": "crime",
+  "lvl": "1k",
+  "forms": [
+   "crimes"
+  ]
+ },
+ {
+  "w": "cross",
+  "lvl": "1k",
+  "forms": [
+   "crossed",
+   "crossing",
+   "crosses",
+   "crossly",
+   "crossings",
+   "uncrossed",
+   "crossways",
+   "crosswise"
+  ]
+ },
+ {
+  "w": "cry",
+  "lvl": "1k",
+  "forms": [
+   "cried",
+   "crying",
+   "cries",
+   "crier",
+   "criers"
+  ]
+ },
+ {
+  "w": "cup",
+  "lvl": "1k",
+  "forms": [
+   "cups",
+   "cupped",
+   "cupping",
+   "cupful",
+   "cuplike"
+  ]
+ },
+ {
+  "w": "cut",
+  "lvl": "1k",
+  "forms": [
+   "cutting",
+   "cuts",
+   "cuttings",
+   "cutter",
+   "cutters",
+   "uncut"
+  ]
+ },
+ {
+  "w": "dad",
+  "lvl": "1k",
+  "forms": [
+   "daddy",
+   "dads",
+   "daddies"
+  ]
+ }
+]

@@ -1,0 +1,1090 @@
+[
+ {
+  "w": "hope",
+  "lvl": "1k",
+  "forms": [
+   "hoped",
+   "hopes",
+   "hoping",
+   "hopefully",
+   "hopeless",
+   "hopeful",
+   "hopelessly",
+   "hopelessness"
+  ]
+ },
+ {
+  "w": "horrible",
+  "lvl": "1k",
+  "forms": [
+   "horribly",
+   "orrible",
+   "horribleness"
+  ]
+ },
+ {
+  "w": "horse",
+  "lvl": "1k",
+  "forms": [
+   "horses",
+   "horsey",
+   "horsy",
+   "unhorsed"
+  ]
+ },
+ {
+  "w": "hospital",
+  "lvl": "1k",
+  "forms": [
+   "hospitals",
+   "hospitalised",
+   "hospitalized",
+   "hospitalisation",
+   "hospitalization",
+   "hospitalise",
+   "hospitalising",
+   "hospitalizes"
+  ]
+ },
+ {
+  "w": "hot",
+  "lvl": "1k",
+  "forms": [
+   "hotly",
+   "hotter",
+   "hottest",
+   "hotting",
+   "hots",
+   "hotness",
+   "hotted"
+  ]
+ },
+ {
+  "w": "hour",
+  "lvl": "1k",
+  "forms": [
+   "hours",
+   "hourly",
+   "hr",
+   "hrs"
+  ]
+ },
+ {
+  "w": "house",
+  "lvl": "1k",
+  "forms": [
+   "houses",
+   "housing",
+   "housed",
+   "rehoused",
+   "rehousing",
+   "rehouse",
+   "unhoused",
+   "rehouses"
+  ]
+ },
+ {
+  "w": "how",
+  "lvl": "1k",
+  "forms": [
+   "hows"
+  ]
+ },
+ {
+  "w": "however",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "huge",
+  "lvl": "1k",
+  "forms": [
+   "hugely",
+   "hugeness"
+  ]
+ },
+ {
+  "w": "human",
+  "lvl": "1k",
+  "forms": [
+   "humans",
+   "humanity",
+   "humanist",
+   "inhuman",
+   "humanism",
+   "humanistic",
+   "humanly",
+   "inhumanity"
+  ]
+ },
+ {
+  "w": "hundred",
+  "lvl": "1k",
+  "forms": [
+   "hundreds",
+   "hundredth",
+   "hundredths"
+  ]
+ },
+ {
+  "w": "hungry",
+  "lvl": "1k",
+  "forms": [
+   "hunger",
+   "hungrily",
+   "hungrier",
+   "hungers",
+   "hungered",
+   "hungering",
+   "hungriest"
+  ]
+ },
+ {
+  "w": "hunt",
+  "lvl": "1k",
+  "forms": [
+   "hunting",
+   "hunter",
+   "hunters",
+   "hunted",
+   "hunts",
+   "huntress"
+  ]
+ },
+ {
+  "w": "hurry",
+  "lvl": "1k",
+  "forms": [
+   "hurried",
+   "hurriedly",
+   "hurrying",
+   "unhurried",
+   "unhurriedly",
+   "hurries"
+  ]
+ },
+ {
+  "w": "hurt",
+  "lvl": "1k",
+  "forms": [
+   "hurts",
+   "hurting",
+   "hurtful",
+   "unhurt",
+   "hurter",
+   "hurtfully",
+   "hurtfulness",
+   "hurters"
+  ]
+ },
+ {
+  "w": "husband",
+  "lvl": "1k",
+  "forms": [
+   "husbands"
+  ]
+ },
+ {
+  "w": "i",
+  "lvl": "1k",
+  "forms": [
+   "my",
+   "me",
+   "myself",
+   "mine",
+   "meself"
+  ]
+ },
+ {
+  "w": "ice",
+  "lvl": "1k",
+  "forms": [
+   "icy",
+   "iced",
+   "icily",
+   "iciness"
+  ]
+ },
+ {
+  "w": "idea",
+  "lvl": "1k",
+  "forms": [
+   "ideas"
+  ]
+ },
+ {
+  "w": "if",
+  "lvl": "1k",
+  "forms": [
+   "ifs"
+  ]
+ },
+ {
+  "w": "imagine",
+  "lvl": "1k",
+  "forms": [
+   "imagination",
+   "imagined",
+   "imaginative",
+   "imaginary",
+   "imagining",
+   "imaginable",
+   "imagines",
+   "unimaginable"
+  ]
+ },
+ {
+  "w": "important",
+  "lvl": "1k",
+  "forms": [
+   "importantly",
+   "unimportant"
+  ]
+ },
+ {
+  "w": "in",
+  "lvl": "1k",
+  "forms": [
+   "inner",
+   "inward",
+   "ins",
+   "inwards",
+   "inwardly",
+   "innermost",
+   "inwardness"
+  ]
+ },
+ {
+  "w": "indeed",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "inform",
+  "lvl": "1k",
+  "forms": [
+   "information",
+   "informed",
+   "informing",
+   "informants",
+   "info",
+   "informs",
+   "informant",
+   "informer"
+  ]
+ },
+ {
+  "w": "inside",
+  "lvl": "1k",
+  "forms": [
+   "insider",
+   "insiders",
+   "insides"
+  ]
+ },
+ {
+  "w": "instead",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "insure",
+  "lvl": "1k",
+  "forms": [
+   "insurance",
+   "insured",
+   "insurers",
+   "insurer",
+   "reinsurance",
+   "insurances",
+   "insuring",
+   "uninsured"
+  ]
+ },
+ {
+  "w": "interest",
+  "lvl": "1k",
+  "forms": [
+   "interests",
+   "interesting",
+   "interested",
+   "interestingly",
+   "uninterested",
+   "uninteresting",
+   "interestedly"
+  ]
+ },
+ {
+  "w": "into",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "involve",
+  "lvl": "1k",
+  "forms": [
+   "involved",
+   "involving",
+   "involvement",
+   "involves",
+   "involvements",
+   "uninvolved"
+  ]
+ },
+ {
+  "w": "island",
+  "lvl": "1k",
+  "forms": [
+   "islands",
+   "islanders",
+   "islander"
+  ]
+ },
+ {
+  "w": "issue",
+  "lvl": "1k",
+  "forms": [
+   "issues",
+   "issued",
+   "issuing",
+   "issuer",
+   "issuance",
+   "issuers"
+  ]
+ },
+ {
+  "w": "it",
+  "lvl": "1k",
+  "forms": [
+   "its",
+   "itself"
+  ]
+ },
+ {
+  "w": "job",
+  "lvl": "1k",
+  "forms": [
+   "jobs",
+   "jobless",
+   "jobbers",
+   "joblessness",
+   "jobber",
+   "jobbery"
+  ]
+ },
+ {
+  "w": "join",
+  "lvl": "1k",
+  "forms": [
+   "joined",
+   "joining",
+   "joins",
+   "rejoined",
+   "rejoin",
+   "rejoining",
+   "rejoins"
+  ]
+ },
+ {
+  "w": "joke",
+  "lvl": "1k",
+  "forms": [
+   "jokes",
+   "joking",
+   "joked",
+   "joker",
+   "jokingly",
+   "jokers",
+   "jokey"
+  ]
+ },
+ {
+  "w": "judge",
+  "lvl": "1k",
+  "forms": [
+   "judgment",
+   "judges",
+   "judgement",
+   "judged",
+   "judging",
+   "judgements",
+   "judgments",
+   "misjudged"
+  ]
+ },
+ {
+  "w": "jump",
+  "lvl": "1k",
+  "forms": [
+   "jumped",
+   "jumping",
+   "jumper",
+   "jumps",
+   "jumpers",
+   "jumpy"
+  ]
+ },
+ {
+  "w": "just",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "keep",
+  "lvl": "1k",
+  "forms": [
+   "kept",
+   "keeping",
+   "keeps",
+   "keeper",
+   "keepers",
+   "keepin"
+  ]
+ },
+ {
+  "w": "key",
+  "lvl": "1k",
+  "forms": [
+   "keys",
+   "keyed",
+   "keying"
+  ]
+ },
+ {
+  "w": "kick",
+  "lvl": "1k",
+  "forms": [
+   "kicked",
+   "kicking",
+   "kicks",
+   "kicker",
+   "kickers"
+  ]
+ },
+ {
+  "w": "kid",
+  "lvl": "1k",
+  "forms": [
+   "kids",
+   "kiddies",
+   "kiddy",
+   "kiddie",
+   "kiddo"
+  ]
+ },
+ {
+  "w": "kill",
+  "lvl": "1k",
+  "forms": [
+   "killed",
+   "killing",
+   "killer",
+   "killings",
+   "kills",
+   "killers"
+  ]
+ },
+ {
+  "w": "kind",
+  "lvl": "1k",
+  "forms": [
+   "kinds",
+   "kinda"
+  ]
+ },
+ {
+  "w": "king",
+  "lvl": "1k",
+  "forms": [
+   "kingdom",
+   "kings",
+   "kingdoms",
+   "kingship",
+   "kingly",
+   "kingships"
+  ]
+ },
+ {
+  "w": "kiss",
+  "lvl": "1k",
+  "forms": [
+   "kissed",
+   "kissing",
+   "kisses",
+   "kisser",
+   "unkissed"
+  ]
+ },
+ {
+  "w": "kitchen",
+  "lvl": "1k",
+  "forms": [
+   "kitchens",
+   "kitchenette",
+   "kitchenettes"
+  ]
+ },
+ {
+  "w": "knock",
+  "lvl": "1k",
+  "forms": [
+   "knocked",
+   "knocking",
+   "knocks",
+   "knocker",
+   "knockers"
+  ]
+ },
+ {
+  "w": "know",
+  "lvl": "1k",
+  "forms": [
+   "known",
+   "knew",
+   "knows",
+   "knowing",
+   "unknown",
+   "dunno",
+   "knowingly",
+   "unknowns"
+  ]
+ },
+ {
+  "w": "lady",
+  "lvl": "1k",
+  "forms": [
+   "ladies",
+   "ladyship",
+   "ladylike",
+   "unladylike",
+   "ladyships"
+  ]
+ },
+ {
+  "w": "lake",
+  "lvl": "1k",
+  "forms": [
+   "lakes"
+  ]
+ },
+ {
+  "w": "land",
+  "lvl": "1k",
+  "forms": [
+   "landing",
+   "landed",
+   "lands",
+   "landings",
+   "landless",
+   "landward",
+   "landwards"
+  ]
+ },
+ {
+  "w": "large",
+  "lvl": "1k",
+  "forms": [
+   "larger",
+   "largely",
+   "largest",
+   "largish",
+   "largeness",
+   "largeish"
+  ]
+ },
+ {
+  "w": "last",
+  "lvl": "1k",
+  "forms": [
+   "lastly"
+  ]
+ },
+ {
+  "w": "late",
+  "lvl": "1k",
+  "forms": [
+   "later",
+   "latest",
+   "lately",
+   "lateness"
+  ]
+ },
+ {
+  "w": "laugh",
+  "lvl": "1k",
+  "forms": [
+   "laughed",
+   "laughing",
+   "laughs",
+   "laughable",
+   "laughingly",
+   "laughably"
+  ]
+ },
+ {
+  "w": "law",
+  "lvl": "1k",
+  "forms": [
+   "laws",
+   "unlawful",
+   "lawful",
+   "unlawfully",
+   "lawfully",
+   "lawless",
+   "lawlessness",
+   "lawfulness"
+  ]
+ },
+ {
+  "w": "lay",
+  "lvl": "1k",
+  "forms": [
+   "laid",
+   "laying",
+   "lays",
+   "lain"
+  ]
+ },
+ {
+  "w": "lazy",
+  "lvl": "1k",
+  "forms": [
+   "lazily",
+   "laziness",
+   "laziest",
+   "lazier"
+  ]
+ },
+ {
+  "w": "lead",
+  "lvl": "1k",
+  "forms": [
+   "led",
+   "leading",
+   "leader",
+   "leaders",
+   "leadership",
+   "leads",
+   "misleading",
+   "misled"
+  ]
+ },
+ {
+  "w": "learn",
+  "lvl": "1k",
+  "forms": [
+   "learning",
+   "learned",
+   "learnt",
+   "learners",
+   "learner",
+   "learns",
+   "relearn",
+   "unlearn"
+  ]
+ },
+ {
+  "w": "least",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "leave",
+  "lvl": "1k",
+  "forms": [
+   "leaving",
+   "leaves",
+   "leavers",
+   "leaver",
+   "leavings",
+   "leavin"
+  ]
+ },
+ {
+  "w": "left",
+  "lvl": "1k",
+  "forms": [
+   "leftist",
+   "leftists",
+   "leftwards",
+   "lefthand",
+   "leftward",
+   "lefts",
+   "leftmost",
+   "lefthander"
+  ]
+ },
+ {
+  "w": "leg",
+  "lvl": "1k",
+  "forms": [
+   "legs",
+   "legged",
+   "leggings",
+   "leggy",
+   "legless",
+   "legging"
+  ]
+ },
+ {
+  "w": "less",
+  "lvl": "1k",
+  "forms": [
+   "lesser",
+   "lessen",
+   "lessened",
+   "lessening",
+   "lessens"
+  ]
+ },
+ {
+  "w": "let",
+  "lvl": "1k",
+  "forms": [
+   "letting",
+   "lets",
+   "lemme"
+  ]
+ },
+ {
+  "w": "letter",
+  "lvl": "1k",
+  "forms": [
+   "letters",
+   "lettering",
+   "lettered",
+   "unlettered",
+   "letterings"
+  ]
+ },
+ {
+  "w": "level",
+  "lvl": "1k",
+  "forms": [
+   "levels",
+   "levelled",
+   "levelling",
+   "levellers",
+   "levelly",
+   "leveller",
+   "leveled",
+   "leveler"
+  ]
+ },
+ {
+  "w": "lie",
+  "lvl": "1k",
+  "forms": [
+   "lies",
+   "lying",
+   "lied",
+   "liar",
+   "liars"
+  ]
+ },
+ {
+  "w": "life",
+  "lvl": "1k",
+  "forms": [
+   "lifeless",
+   "lifes",
+   "midlife",
+   "lifelike",
+   "lifelessly"
+  ]
+ },
+ {
+  "w": "lift",
+  "lvl": "1k",
+  "forms": [
+   "lifted",
+   "lifting",
+   "lifts",
+   "lifter",
+   "lifters"
+  ]
+ },
+ {
+  "w": "light",
+  "lvl": "1k",
+  "forms": [
+   "lights",
+   "lit",
+   "lighting",
+   "lighted",
+   "unlit",
+   "lighters"
+  ]
+ },
+ {
+  "w": "like",
+  "lvl": "1k",
+  "forms": [
+   "unlike",
+   "likeness",
+   "likenesses"
+  ]
+ },
+ {
+  "w": "liked",
+  "lvl": "1k",
+  "forms": [
+   "likes",
+   "liking",
+   "likeable",
+   "likeably",
+   "likable"
+  ]
+ },
+ {
+  "w": "line",
+  "lvl": "1k",
+  "forms": [
+   "lines",
+   "lined",
+   "unlined"
+  ]
+ },
+ {
+  "w": "lip",
+  "lvl": "1k",
+  "forms": [
+   "lips",
+   "lipped"
+  ]
+ },
+ {
+  "w": "list",
+  "lvl": "1k",
+  "forms": [
+   "listed",
+   "lists",
+   "listing",
+   "listings",
+   "unlisted"
+  ]
+ },
+ {
+  "w": "listen",
+  "lvl": "1k",
+  "forms": [
+   "listening",
+   "listened",
+   "listeners",
+   "listener",
+   "listens",
+   "listenings"
+  ]
+ },
+ {
+  "w": "little",
+  "lvl": "1k",
+  "forms": [
+   "leetle",
+   "littler",
+   "littlest",
+   "littleness"
+  ]
+ },
+ {
+  "w": "live",
+  "lvl": "1k",
+  "forms": [
+   "living",
+   "lives",
+   "lived",
+   "livings",
+   "liveable",
+   "unliveable",
+   "livable"
+  ]
+ },
+ {
+  "w": "load",
+  "lvl": "1k",
+  "forms": [
+   "loads",
+   "loaded",
+   "loading",
+   "unloaded",
+   "unloading",
+   "unload",
+   "loader",
+   "loadings"
+  ]
+ },
+ {
+  "w": "local",
+  "lvl": "1k",
+  "forms": [
+   "locally",
+   "locals",
+   "localised",
+   "localized",
+   "localisation",
+   "localization",
+   "localism",
+   "localise"
+  ]
+ },
+ {
+  "w": "lock",
+  "lvl": "1k",
+  "forms": [
+   "locked",
+   "locks",
+   "locking",
+   "unlocked",
+   "unlock",
+   "unlocking",
+   "lockable",
+   "unlocks"
+  ]
+ },
+ {
+  "w": "long",
+  "lvl": "1k",
+  "forms": [
+   "longer",
+   "longest",
+   "longish"
+  ]
+ },
+ {
+  "w": "look",
+  "lvl": "1k",
+  "forms": [
+   "looked",
+   "looking",
+   "looks",
+   "lookin",
+   "looker",
+   "unlooked"
+  ]
+ },
+ {
+  "w": "lord",
+  "lvl": "1k",
+  "forms": [
+   "lords",
+   "lordship",
+   "lordships",
+   "lordly",
+   "lordy",
+   "lording",
+   "lorded"
+  ]
+ },
+ {
+  "w": "lose",
+  "lvl": "1k",
+  "forms": [
+   "lost",
+   "losing",
+   "loses",
+   "losers",
+   "loser"
+  ]
+ },
+ {
+  "w": "lot",
+  "lvl": "1k",
+  "forms": [
+   "lots"
+  ]
+ },
+ {
+  "w": "loud",
+  "lvl": "1k",
+  "forms": [
+   "loudly",
+   "louder",
+   "loudest",
+   "loudness"
+  ]
+ },
+ {
+  "w": "love",
+  "lvl": "1k",
+  "forms": [
+   "loved",
+   "lover",
+   "loving",
+   "loves",
+   "lovers",
+   "lovingly",
+   "lovable",
+   "luv"
+  ]
+ },
+ {
+  "w": "lovely",
+  "lvl": "1k",
+  "forms": [
+   "loveliest",
+   "loveliness",
+   "unlovely",
+   "lovelier"
+  ]
+ },
+ {
+  "w": "low",
+  "lvl": "1k",
+  "forms": [
+   "lowly",
+   "lows",
+   "lowish",
+   "lowliest",
+   "lowlier"
+  ]
+ },
+ {
+  "w": "luck",
+  "lvl": "1k",
+  "forms": [
+   "lucky",
+   "luckily",
+   "unlucky",
+   "luckless",
+   "luckier",
+   "unluckily",
+   "luckiest",
+   "unluckiest"
+  ]
+ },
+ {
+  "w": "lunch",
+  "lvl": "1k",
+  "forms": [
+   "lunches",
+   "lunched",
+   "lunching"
+  ]
+ },
+ {
+  "w": "machine",
+  "lvl": "1k",
+  "forms": [
+   "machines",
+   "machinery",
+   "machining",
+   "machinists",
+   "machined",
+   "machinist"
+  ]
+ },
+ {
+  "w": "mad",
+  "lvl": "1k",
+  "forms": [
+   "madness",
+   "madly",
+   "maddening",
+   "madder",
+   "madden",
+   "maddened",
+   "maddeningly",
+   "madding"
+  ]
+ }
+]

@@ -1,0 +1,1665 @@
+[
+ {
+  "w": "consult",
+  "pos": "v",
+  "meaning_ko": "상담하다, 참고하다",
+  "example_en": "You should **consult** a doctor before taking these pills.",
+  "example_ko": "이 약 먹기 전에 의사랑 상담해 봐야 해.",
+  "nuance_ko": "consult는 전문가에게 조언을 구하거나 자료를 찾아본다는 뜻이에요. consult a doctor, consult a lawyer, consult a dictionary처럼 목적어를 바로 써요. 'consult with someone'도 가능하지만 '의논하다'에 가까워요. ask보다 전문적인 의견을 구한다는 느낌이 강하고, 비즈니스에서는 consulting(컨설팅)이라는 직업군도 있어요. 'consult the manual'(설명서를 참고하다)처럼 문서를 확인할 때도 써요. 명사는 consultation(상담)과 consultant(상담가, 컨설턴트)예요.",
+  "also": [
+   {
+    "w": "consultant",
+    "pos": "n",
+    "ko": "컨설턴트, 상담역",
+    "en": "The company hired a management **consultant**."
+   },
+   {
+    "w": "consultation",
+    "pos": "n",
+    "ko": "상담, 협의",
+    "en": "The first **consultation** is free of charge."
+   }
+  ]
+ },
+ {
+  "w": "consume",
+  "pos": "v",
+  "meaning_ko": "소비하다, 먹어 치우다",
+  "example_en": "Cars **consume** a lot more fuel in heavy traffic.",
+  "example_ko": "차는 교통 체증이 심하면 연료를 훨씬 많이 먹어.",
+  "nuance_ko": "consume은 먹거나 마시거나 써서 없애는 소비를 뜻해요. 음식(consume alcohol), 에너지(consume electricity), 시간(consume hours)에 두루 써요. 수동태 'be consumed by ~'는 감정에 휩싸이는 비유로 'consumed by guilt'(죄책감에 사로잡힌)처럼 써요. eat보다 격식 있고 통계나 뉴스에서 자주 나와요. 화재가 건물을 삼키는 것도 'consumed by fire'라고 해요. 명사 consumer는 소비자이고, consumption은 소비(량)예요.",
+  "also": [
+   {
+    "w": "consumer",
+    "pos": "n",
+    "ko": "소비자",
+    "en": "**Consumers** are cutting back on spending."
+   },
+   {
+    "w": "consumed",
+    "pos": "adj",
+    "ko": "사로잡힌",
+    "en": "She was **consumed** with worry."
+   }
+  ]
+ },
+ {
+  "w": "consumption",
+  "pos": "n",
+  "meaning_ko": "소비, 소비량",
+  "example_en": "Our energy **consumption** has dropped since we switched to LED lights.",
+  "example_ko": "LED로 바꾼 뒤로 우리 에너지 소비량이 줄었어.",
+  "nuance_ko": "consumption은 consume의 명사형으로, 물건이나 자원을 소비하는 행위와 그 양을 말해요. energy consumption, alcohol consumption, fuel consumption처럼 앞에 대상을 붙여 써요. 통계와 경제 기사에서 '소비 지출'을 말할 때도 자주 나와요. 'not fit for human consumption'은 식품 포장이나 경고문에서 보이는 '사람이 먹기에 부적합한'이라는 관용 표현이에요. 옛날에는 결핵을 consumption이라고 부르기도 했어요. 불가산 명사라서 복수형을 쓰지 않아요.",
+  "also": []
+ },
+ {
+  "w": "contemporary",
+  "pos": "adj",
+  "meaning_ko": "현대의, 동시대의",
+  "example_en": "The museum has a great collection of **contemporary** art.",
+  "example_ko": "그 박물관에는 현대 미술 소장품이 훌륭해.",
+  "nuance_ko": "contemporary는 '지금 시대의'라는 뜻과 '같은 시대의'라는 뜻을 모두 가져요. contemporary art, contemporary music은 현재 활동하는 예술가의 작품을 말해요. 역사 맥락에서는 'contemporary accounts'(당대의 기록)처럼 특정 과거 시대와 같은 시기를 가리켜요. modern은 근대 이후 전반이고, contemporary는 지금 우리 시대를 가리키는 점이 달라요. 명사로는 '동시대 사람'이고, Shakespeare and his contemporaries처럼 써요.",
+  "also": [
+   {
+    "w": "contemporaries",
+    "pos": "n",
+    "ko": "동시대 사람들",
+    "en": "Mozart was admired by his **contemporaries**."
+   }
+  ]
+ },
+ {
+  "w": "contend",
+  "pos": "v",
+  "meaning_ko": "주장하다, 겨루다",
+  "example_en": "He **contends** that the new law is unfair to small businesses.",
+  "example_ko": "그는 새 법이 소규모 사업자에게 불공정하다고 주장해.",
+  "nuance_ko": "contend에는 두 가지 뜻이 있어요. 하나는 'contend that ~'으로 근거를 들어 주장하는 것이고, 다른 하나는 'contend with/for'로 어려움과 맞서거나 우승을 놓고 겨루는 것이에요. 'have to contend with ~'는 '~를 감당해야 하다'라는 구문으로 자주 나와요. claim과 비슷하지만 contend는 반대 의견에 맞서 논쟁적으로 주장한다는 느낌이에요. 명사 contender는 경쟁자, 유력 후보(a title contender)예요.",
+  "also": [
+   {
+    "w": "contender",
+    "pos": "n",
+    "ko": "경쟁자, 유력 후보",
+    "en": "She's a serious **contender** for the gold medal."
+   },
+   {
+    "w": "contention",
+    "pos": "n",
+    "ko": "주장, 논쟁",
+    "en": "It is my **contention** that the plan will fail."
+   }
+  ]
+ },
+ {
+  "w": "content",
+  "pos": "n",
+  "meaning_ko": "내용, 콘텐츠",
+  "example_en": "The video's **content** is not suitable for young children.",
+  "example_ko": "그 영상의 내용은 어린아이들에게는 적절하지 않아.",
+  "nuance_ko": "content는 글, 영상, 상품 등이 담고 있는 내용이에요. 인터넷에서 만들고 올리는 영상·글·이미지를 통틀어 content라고 해요(content creator). 복수형 contents는 용기나 책 안에 든 것, 목차를 뜻해요(table of contents). 형용사 content는 /kənˈtent/로 강세가 달라서 '만족하는'(be content with ~)이라는 전혀 다른 뜻이 있어요. 명사 content는 /ˈkɑːntent/예요. 'sugar content'는 설탕 함량이라는 뜻으로 성분표에 나와요.",
+  "also": []
+ },
+ {
+  "w": "contest",
+  "pos": "n",
+  "meaning_ko": "대회, 경쟁",
+  "example_en": "She won first prize in a national writing **contest**.",
+  "example_ko": "걔는 전국 글짓기 대회에서 1등을 했어.",
+  "nuance_ko": "contest는 승자를 가리는 대회나 경쟁이에요. beauty contest, singing contest, leadership contest(당 대표 경선)처럼 써요. competition과 비슷하지만 contest는 한정된 상대와 승부를 가리는 구체적인 대회 느낌이 강해요. 동사 contest는 /kənˈtest/로 '이의를 제기하다, 다투다'라는 뜻이어서 contest a will(유언에 이의를 제기하다), contest the election result처럼 써요. 명사는 앞, 동사는 뒤에 강세가 와요.",
+  "also": [
+   {
+    "w": "contestant",
+    "pos": "n",
+    "ko": "참가자",
+    "en": "Each **contestant** has one minute to answer."
+   },
+   {
+    "w": "contested",
+    "pos": "adj",
+    "ko": "논란이 된, 이의가 제기된",
+    "en": "It's a heavily **contested** election."
+   }
+  ]
+ },
+ {
+  "w": "context",
+  "pos": "n",
+  "meaning_ko": "맥락, 문맥",
+  "example_en": "You can't judge that sentence without knowing the **context**.",
+  "example_ko": "맥락을 모르면 그 문장을 판단할 수 없어.",
+  "nuance_ko": "context는 어떤 말이나 사건을 둘러싼 앞뒤 상황과 배경이에요. in this context(이 맥락에서), out of context(맥락에서 벗어난), take something out of context(말을 맥락에서 떼어내 오해하게 하다)가 자주 나와요. 영어 공부에서는 단어를 문장 속 context로 익히라는 조언이 흔해요. background는 배경 정보 자체이고, context는 그것이 의미를 어떻게 정하는지까지 포함해요. 'historical context'(역사적 맥락)는 글쓰기에서 단골이에요.",
+  "also": [
+   {
+    "w": "contextual",
+    "pos": "adj",
+    "ko": "맥락상의",
+    "en": "Some **contextual** information is missing."
+   }
+  ]
+ },
+ {
+  "w": "continent",
+  "pos": "n",
+  "meaning_ko": "대륙",
+  "example_en": "Africa is the second largest **continent** in the world.",
+  "example_ko": "아프리카는 세계에서 두 번째로 큰 대륙이야.",
+  "nuance_ko": "continent는 아시아, 아프리카, 유럽처럼 지구의 큰 땅덩어리인 대륙이에요. 보통 일곱 개로 나누어 센다고 배우지만 나라마다 구분하는 방식이 달라요. 영국에서 'the Continent'는 영국 섬을 제외한 유럽 본토를 가리키는 표현이에요. continental breakfast는 빵과 커피 정도의 간단한 유럽식 아침식사를 말해요. 형용사 continental은 '대륙의', intercontinental은 '대륙 간의'로 intercontinental flight(대륙 간 비행)처럼 써요.",
+  "also": [
+   {
+    "w": "continental",
+    "pos": "adj",
+    "ko": "대륙의",
+    "en": "The hotel serves a **continental** breakfast."
+   },
+   {
+    "w": "intercontinental",
+    "pos": "adj",
+    "ko": "대륙 간의",
+    "en": "It's an **intercontinental** flight."
+   }
+  ]
+ },
+ {
+  "w": "contradict",
+  "pos": "v",
+  "meaning_ko": "반박하다, 모순되다",
+  "example_en": "The new evidence seems to **contradict** his earlier story.",
+  "example_ko": "새 증거는 그의 이전 진술과 모순되는 것 같아.",
+  "nuance_ko": "contradict는 앞의 말이나 사실과 맞지 않아 모순되거나, 상대의 말에 정면으로 반박한다는 뜻이에요. 사람이 주어면 '반박하다'(Don't contradict your boss), 사물이 주어면 '모순되다'(The facts contradict his claim)로 이해하면 돼요. 'contradict oneself'는 '앞뒤가 안 맞는 말을 하다'예요. disagree는 의견이 다른 것이고, contradict는 서로 양립할 수 없는 사실을 말하는 거예요. 명사 contradiction은 '모순', 형용사 contradictory는 '모순되는'이에요.",
+  "also": [
+   {
+    "w": "contradiction",
+    "pos": "n",
+    "ko": "모순",
+    "en": "There's a clear **contradiction** in her argument."
+   },
+   {
+    "w": "contradictory",
+    "pos": "adj",
+    "ko": "모순되는",
+    "en": "The witnesses gave **contradictory** accounts."
+   }
+  ]
+ },
+ {
+  "w": "contrast",
+  "pos": "n",
+  "meaning_ko": "대조, 차이",
+  "example_en": "There's a sharp **contrast** between the rich and poor neighborhoods.",
+  "example_ko": "부자 동네와 가난한 동네는 극명하게 대조돼.",
+  "nuance_ko": "contrast는 서로 다른 점이 뚜렷하게 드러나는 대조예요. in contrast to ~, by contrast, a sharp contrast처럼 자주 써요. 사진과 화면에서는 명암 차이, 즉 contrast를 조절한다고 해요. 동사 contrast는 '대조하다, 대비를 이루다'이고 /kənˈtræst/로 강세가 뒤에 와요. compare가 비슷한 점과 다른 점을 모두 보는 거라면 contrast는 다른 점에 초점을 둬요. 'compare and contrast'는 에세이 유형의 이름이에요.",
+  "also": [
+   {
+    "w": "contrasting",
+    "pos": "adj",
+    "ko": "대조적인",
+    "en": "The two brothers have **contrasting** personalities."
+   }
+  ]
+ },
+ {
+  "w": "controversy",
+  "pos": "n",
+  "meaning_ko": "논란, 논쟁",
+  "example_en": "The decision caused a lot of **controversy** online.",
+  "example_ko": "그 결정은 온라인에서 많은 논란을 일으켰어.",
+  "nuance_ko": "controversy는 사람들 의견이 크게 갈려 공개적으로 벌어지는 논란이에요. cause controversy, spark controversy, a controversy over ~처럼 써요. 뉴스에서 자주 쓰는 단어로, 의견 대립이 길고 공공연한 논쟁을 말해요. argument는 두 사람 사이의 말다툼이고, controversy는 사회적으로 번진 논쟁이라는 차이가 있어요. 발음은 /ˈkɑːntrəvɜːrsi/로 첫 음절에 강세가 와요. 형용사 controversial(논란이 많은)은 훨씬 자주 보여요.",
+  "also": [
+   {
+    "w": "controversial",
+    "pos": "adj",
+    "ko": "논란이 많은",
+    "en": "It's a **controversial** topic that divides families."
+   }
+  ]
+ },
+ {
+  "w": "convention",
+  "pos": "n",
+  "meaning_ko": "관습, 대회, 협약",
+  "example_en": "It's a social **convention** to shake hands when you meet.",
+  "example_ko": "만나면 악수하는 건 사회적 관습이야.",
+  "nuance_ko": "convention은 세 가지 뜻이 있어요. 사회적으로 굳어진 관습, 정치나 업계의 대규모 대회(party convention, comic convention), 국가 간 협약(Geneva Convention)이에요. 관습 의미에서 'break with convention'은 전통을 깨는 것을 말해요. custom이 오래된 풍습이라면 convention은 사회가 암묵적으로 합의한 방식이라는 느낌이 있어요. 형용사 conventional은 '관습적인, 평범한'이고, unconventional은 '파격적인'이에요.",
+  "also": [
+   {
+    "w": "conventional",
+    "pos": "adj",
+    "ko": "관습적인, 재래식의",
+    "en": "She took a very **conventional** approach."
+   },
+   {
+    "w": "unconventional",
+    "pos": "adj",
+    "ko": "파격적인",
+    "en": "He had an **unconventional** childhood."
+   }
+  ]
+ },
+ {
+  "w": "convert",
+  "pos": "v",
+  "meaning_ko": "전환하다, 바꾸다",
+  "example_en": "You can **convert** this file to PDF with one click.",
+  "example_ko": "이 파일은 클릭 한 번으로 PDF로 변환할 수 있어.",
+  "nuance_ko": "convert는 형태, 용도, 단위, 종교 등을 다른 것으로 바꾸는 것을 말해요. convert A into/to B 구문으로 써요. 파일 변환(convert a file), 단위 환산(convert miles to kilometers), 개조(convert a garage into a room), 개종(convert to Islam)에 모두 써요. change보다 체계적으로 다른 형태로 옮기는 느낌이에요. 명사 convert는 /ˈkɑːnvɜːrt/로 '개종자'이고 동사와 강세가 달라요. converter는 '변환기'예요.",
+  "also": [
+   {
+    "w": "converter",
+    "pos": "n",
+    "ko": "변환기",
+    "en": "I bought a power **converter** for the trip."
+   },
+   {
+    "w": "convertible",
+    "pos": "n",
+    "ko": "오픈카",
+    "en": "They drove down the coast in a **convertible**."
+   }
+  ]
+ },
+ {
+  "w": "convey",
+  "pos": "v",
+  "meaning_ko": "전달하다, 나타내다",
+  "example_en": "It's hard to **convey** how happy I am right now.",
+  "example_ko": "지금 내가 얼마나 행복한지 전하기가 어려워.",
+  "nuance_ko": "convey는 생각, 감정, 의미를 상대에게 제대로 전달한다는 뜻이에요. convey a message, convey a feeling, convey thanks처럼 써요. 말뿐 아니라 표정과 목소리, 글로도 전달해요. 물건이나 사람을 실어 나른다는 원래 뜻도 있어서 conveyor belt(컨베이어 벨트)에서 볼 수 있어요. tell은 말해 주는 것이고, convey는 전하려는 뜻이 상대에게 도달하는 데 초점이 있어요. '전달해 달라'는 정중한 부탁으로 'Please convey my regards to ~'도 자주 써요.",
+  "also": [
+   {
+    "w": "conveyor",
+    "pos": "n",
+    "ko": "운반 장치, 컨베이어",
+    "en": "Bags came down the **conveyor** belt."
+   }
+  ]
+ },
+ {
+  "w": "convict",
+  "pos": "v",
+  "meaning_ko": "유죄를 선고하다",
+  "example_en": "The jury **convicted** him of fraud after a long trial.",
+  "example_ko": "긴 재판 끝에 배심원단이 그에게 사기 유죄 평결을 내렸어.",
+  "nuance_ko": "convict는 재판에서 누군가에게 유죄를 판결한다는 뜻이에요. convict someone of a crime, be convicted of theft처럼 of를 써요. 반대말은 acquit(무죄 선고하다)이에요. 명사 convict는 /ˈkɑːnvɪkt/로 '수감자, 죄수'를 뜻하고 동사와 강세가 달라요. 'a convicted criminal'(유죄 판결을 받은 범인)처럼 과거분사로도 많이 써요. 명사 conviction은 '유죄 판결'과 '확신, 신념'이라는 두 뜻이 있어요.",
+  "also": [
+   {
+    "w": "conviction",
+    "pos": "n",
+    "ko": "유죄 판결, 신념",
+    "en": "Her **conviction** was overturned on appeal."
+   },
+   {
+    "w": "convicted",
+    "pos": "adj",
+    "ko": "유죄 판결을 받은",
+    "en": "A **convicted** thief was released last week."
+   }
+  ]
+ },
+ {
+  "w": "cooperate",
+  "pos": "v",
+  "meaning_ko": "협력하다",
+  "example_en": "All the departments need to **cooperate** to finish on time.",
+  "example_ko": "기한 내에 끝내려면 모든 부서가 협력해야 해.",
+  "nuance_ko": "cooperate는 공동의 목표를 위해 서로 돕고 힘을 합친다는 뜻이에요. cooperate with someone on something 구문으로 써요. 'Please cooperate'처럼 요청에 순순히 응하라는 뜻으로도 많이 써요(경찰이나 안내문에서). collaborate는 함께 무언가를 만들어 내는 작업이고, cooperate는 서로 방해하지 않고 협조하는 쪽이에요. 철자는 co-operate로 쓰기도 해요. 반대는 uncooperative(비협조적인)예요.",
+  "also": [
+   {
+    "w": "cooperation",
+    "pos": "n",
+    "ko": "협력",
+    "en": "Thank you for your **cooperation**."
+   },
+   {
+    "w": "cooperative",
+    "pos": "adj",
+    "ko": "협조적인",
+    "en": "The witness was very **cooperative**."
+   }
+  ]
+ },
+ {
+  "w": "coordinate",
+  "pos": "v",
+  "meaning_ko": "조율하다, 조정하다",
+  "example_en": "Someone needs to **coordinate** the schedules of all the teams.",
+  "example_ko": "누군가 모든 팀의 일정을 조율해야 해.",
+  "nuance_ko": "coordinate는 여러 사람이나 활동이 순조롭게 맞물리도록 조율한다는 뜻이에요. coordinate efforts, coordinate a response, coordinate with someone처럼 써요. organize는 정리하고 준비하는 것이고, coordinate는 여러 주체가 엇박자 나지 않게 맞추는 데 초점이 있어요. 옷에서 색이나 스타일이 어울리는 것(coordinated outfit)도 coordinate예요. 동사는 /koʊˈɔːrdɪneɪt/이고, 명사 coordinates는 위치를 나타내는 '좌표'예요.",
+  "also": [
+   {
+    "w": "coordinator",
+    "pos": "n",
+    "ko": "조정자, 담당자",
+    "en": "The event **coordinator** booked the venue."
+   },
+   {
+    "w": "coordination",
+    "pos": "n",
+    "ko": "조율, 협응",
+    "en": "Good **coordination** between teams saves time."
+   }
+  ]
+ },
+ {
+  "w": "core",
+  "pos": "n",
+  "meaning_ko": "핵심, 중심부",
+  "example_en": "Trust is at the **core** of any good relationship.",
+  "example_ko": "신뢰는 모든 좋은 관계의 핵심이야.",
+  "nuance_ko": "core는 사과 속심처럼 물건의 가장 안쪽 중심부이자 어떤 것의 핵심 부분이에요. at the core of ~(~의 핵심에), core values(핵심 가치), core business(핵심 사업)처럼 써요. 지구의 핵(Earth's core), 핵심 근육(core muscles, 코어 운동)도 같은 단어예요. 형용사로는 '핵심의'라서 core issue, core curriculum(핵심 교과과정)이라고 해요. essence는 본질적 성질이고, core는 중심에 놓인 중요한 부분이라는 느낌이에요.",
+  "also": []
+ },
+ {
+  "w": "corporate",
+  "pos": "adj",
+  "meaning_ko": "기업의, 법인의",
+  "example_en": "She left her **corporate** job to start her own business.",
+  "example_ko": "걔는 대기업 직장을 그만두고 자기 사업을 시작했어.",
+  "nuance_ko": "corporate는 회사나 법인과 관련된 것을 꾸미는 형용사예요. corporate culture(기업 문화), corporate tax(법인세), corporate world(기업 세계)처럼 써요. company가 구체적인 회사 하나를 가리키는 것과 달리 corporate는 큰 조직의 속성을 말하는 느낌이 있어요. 'corporate ladder'는 회사 안의 승진 사다리를 뜻해요. 약간 딱딱하고 틀에 박혔다는 의미로 'so corporate'라고 비꼬기도 해요. 명사는 corporation(법인, 대기업)이에요.",
+  "also": [
+   {
+    "w": "corporation",
+    "pos": "n",
+    "ko": "법인, 대기업",
+    "en": "She works for a large multinational **corporation**."
+   }
+  ]
+ },
+ {
+  "w": "correlate",
+  "pos": "v",
+  "meaning_ko": "상관관계가 있다",
+  "example_en": "Hours of study **correlate** strongly with exam scores.",
+  "example_ko": "공부 시간은 시험 점수와 상관관계가 높아.",
+  "nuance_ko": "correlate는 두 가지가 서로 연관되어 함께 변한다는 뜻이에요. 통계와 연구에서 'A correlates with B'로 자주 쓰여요. 중요한 건 상관관계가 곧 인과관계는 아니라는 점이에요. 'Correlation does not imply causation'은 과학에서 유명한 문장이에요. relate는 단순히 관련 있다는 뜻이고, correlate는 수치상 함께 오르내리는 관계를 말해요. 명사 correlation은 'a strong correlation between A and B'로 써요.",
+  "also": [
+   {
+    "w": "correlation",
+    "pos": "n",
+    "ko": "상관관계",
+    "en": "There's a strong **correlation** between sleep and mood."
+   }
+  ]
+ },
+ {
+  "w": "correspond",
+  "pos": "v",
+  "meaning_ko": "일치하다, 편지를 주고받다",
+  "example_en": "Your story doesn't **correspond** with what the others told me.",
+  "example_ko": "네 얘기는 다른 사람들이 나한테 말한 것과 맞지 않아.",
+  "nuance_ko": "correspond에는 크게 두 가지 뜻이 있어요. 하나는 'correspond to/with ~'로 '~와 일치하다, 대응하다'이고, 다른 하나는 'correspond with someone'으로 '편지나 이메일을 주고받다'예요. 앞의 뜻은 숫자, 설명, 사실이 서로 맞아떨어질 때 써요. 명사 correspondence는 '서신, 일치'이고, correspondent는 '특파원, 서신 교환자'예요. 형용사 corresponding은 '대응하는'으로 'the corresponding figure'(해당 수치)처럼 써요.",
+  "also": [
+   {
+    "w": "correspondence",
+    "pos": "n",
+    "ko": "서신, 대응",
+    "en": "I've been in **correspondence** with the author."
+   },
+   {
+    "w": "corresponding",
+    "pos": "adj",
+    "ko": "대응하는",
+    "en": "Match each word with its **corresponding** picture."
+   }
+  ]
+ },
+ {
+  "w": "correspondent",
+  "pos": "n",
+  "meaning_ko": "특파원, 기자",
+  "example_en": "Our foreign **correspondent** reported live from Paris.",
+  "example_ko": "우리 해외 특파원이 파리에서 생방송으로 전했어.",
+  "nuance_ko": "correspondent는 방송사나 신문사를 대신해 특정 지역이나 분야를 취재하는 특파원, 전문 기자예요. foreign correspondent, war correspondent, White House correspondent처럼 지역·분야를 앞에 붙여요. 원래 '편지를 주고받는 사람'이라는 뜻도 있어서 'a regular correspondent'는 자주 서신을 주고받는 사람이에요. reporter가 기사를 쓰는 일반 기자라면 correspondent는 외국이나 특정 분야에 파견된 기자라는 점이 달라요.",
+  "also": []
+ },
+ {
+  "w": "corridor",
+  "pos": "n",
+  "meaning_ko": "복도, 통로",
+  "example_en": "Please don't run in the **corridor**.",
+  "example_ko": "복도에서 뛰지 마세요.",
+  "nuance_ko": "corridor는 건물 안에서 여러 방을 잇는 좁고 긴 복도예요. hallway와 거의 같고, 영국 영어에서 corridor를 조금 더 많이 써요. 열차 안의 통로나 지리적으로 길게 뻗은 지대(the economic corridor, the green corridor)도 가리켜요. 비유적으로 'corridors of power'는 권력의 중심부, 즉 정치계 내부를 뜻해요. aisle은 극장·비행기 좌석 사이의 통로예요.",
+  "also": []
+ },
+ {
+  "w": "corrupt",
+  "pos": "adj",
+  "meaning_ko": "부패한, 타락한",
+  "example_en": "The mayor was arrested for being **corrupt** and taking bribes.",
+  "example_ko": "그 시장은 부패해서 뇌물을 받은 혐의로 체포됐어.",
+  "nuance_ko": "corrupt는 권력을 가진 사람이 돈이나 이익을 위해 부정직하게 행동하는 부패한 상태를 말해요. corrupt officials, corrupt government처럼 써요. 컴퓨터에서는 파일이 손상돼서 열리지 않을 때 'a corrupt file'이라고 해요. 동사로는 '타락시키다, 오염시키다'(corrupt young minds)이고, 컴퓨터 데이터가 깨지는 것도 corrupt예요. 명사 corruption은 뉴스에서 'fight corruption'(부패 척결)으로 자주 보여요. 반대말은 honest, incorruptible 등이에요.",
+  "also": [
+   {
+    "w": "corruption",
+    "pos": "n",
+    "ko": "부패",
+    "en": "The campaign promised to end **corruption**."
+   },
+   {
+    "w": "corrupted",
+    "pos": "adj",
+    "ko": "손상된, 타락한",
+    "en": "The file was **corrupted** and wouldn't open."
+   }
+  ]
+ },
+ {
+  "w": "counsel",
+  "pos": "n",
+  "meaning_ko": "조언, 변호인",
+  "example_en": "She sought legal **counsel** before signing the contract.",
+  "example_ko": "걔는 계약서에 서명하기 전에 법률 자문을 구했어.",
+  "nuance_ko": "counsel은 전문적인 조언이나 상담을 뜻하는 격식 있는 명사예요. 법정에서는 '변호인'을 뜻해서 defense counsel(피고 측 변호인), legal counsel(법률 고문)처럼 써요. 동사로는 '조언하다, 상담하다'(counsel students)예요. advice는 일반적인 조언이고, counsel은 전문가의 신중한 조언이라는 느낌이 있어요. counselor(상담사, 미국식)와 counsellor(영국식)는 학교나 심리 상담에서 자주 만나는 직업명이에요. 'keep your own counsel'은 의견을 밝히지 않는다는 문어적 표현이에요.",
+  "also": [
+   {
+    "w": "counselor",
+    "pos": "n",
+    "ko": "상담사, 카운슬러",
+    "en": "The school **counselor** helped him choose a major."
+   },
+   {
+    "w": "counseling",
+    "pos": "n",
+    "ko": "상담",
+    "en": "She went to **counseling** after the accident."
+   }
+  ]
+ },
+ {
+  "w": "courage",
+  "pos": "n",
+  "meaning_ko": "용기",
+  "example_en": "It took a lot of **courage** to speak up in front of everyone.",
+  "example_ko": "모두 앞에서 목소리를 내는 데 엄청난 용기가 필요했어.",
+  "nuance_ko": "courage는 두렵지만 어려운 일에 맞서는 마음, 즉 용기예요. have the courage to ~, show courage, take courage처럼 써요. bravery도 비슷하지만 courage는 도덕적 용기와 정신적 강인함까지 포함해요. 'Dutch courage'는 술기운을 빌린 용기라는 영국식 표현이에요. 'pluck up the courage'(용기를 내다)도 구어체로 자주 나와요. 불가산 명사이고, 형용사는 courageous(용감한)예요.",
+  "also": [
+   {
+    "w": "courageous",
+    "pos": "adj",
+    "ko": "용감한",
+    "en": "It was a **courageous** decision to speak out."
+   }
+  ]
+ },
+ {
+  "w": "craft",
+  "pos": "n",
+  "meaning_ko": "공예, 기술",
+  "example_en": "She's been practicing the **craft** of pottery for years.",
+  "example_ko": "걔는 몇 년째 도자기 공예를 익히고 있어.",
+  "nuance_ko": "craft는 손으로 정성 들여 만드는 공예, 또는 오랜 연습으로 익힌 숙련된 기술을 말해요. arts and crafts(공예), handcrafted(수제의)처럼 써요. 글쓰기나 연기 등을 '기량, 솜씨'로 부르기도 해서 'the craft of writing'이라고 해요. 동사로는 '공들여 만들다'(carefully crafted)라는 뜻이에요. 또 선박·비행기를 가리킬 때도 쓰여서 aircraft, spacecraft의 -craft에 들어 있어요. art가 예술이라면 craft는 실용적이고 손재주가 필요한 제작이라는 느낌이에요.",
+  "also": [
+   {
+    "w": "crafted",
+    "pos": "adj",
+    "ko": "공들여 만든",
+    "en": "It's a beautifully **crafted** wooden chair."
+   }
+  ]
+ },
+ {
+  "w": "crew",
+  "pos": "n",
+  "meaning_ko": "승무원, 팀",
+  "example_en": "The flight **crew** welcomed us on board with a smile.",
+  "example_ko": "승무원들이 웃으며 우리를 탑승시켜 줬어.",
+  "nuance_ko": "crew는 배, 비행기, 우주선, 촬영 현장에서 함께 일하는 팀이에요. flight crew, film crew, ship's crew처럼 써요. 집합명사라서 단수로도 복수 취급도 가능해요(The crew are ready). 일반 팀(team)보다는 현장에서 직접 몸으로 일하는 작업 팀이라는 느낌이 있어요. 구어체로 친구 무리를 'my crew'라고도 해요. 한 사람은 a crew member라고 말해요. 'crew cut'은 짧게 친 머리 모양이에요.",
+  "also": []
+ },
+ {
+  "w": "crisis",
+  "pos": "n",
+  "meaning_ko": "위기",
+  "example_en": "The country is facing a serious economic **crisis**.",
+  "example_ko": "그 나라는 심각한 경제 위기에 직면해 있어.",
+  "nuance_ko": "crisis는 상황이 급격히 나빠져 신속한 대처가 필요한 위기예요. economic crisis, energy crisis, in crisis, crisis management(위기 관리)처럼 써요. 복수형이 crises(/ˈkraɪsiːz/)로 불규칙하다는 점에 주의하세요. 'midlife crisis'(중년의 위기)처럼 개인적인 위기도 가리켜요. emergency는 당장의 응급 상황이고, crisis는 진행 중인 큰 문제나 전환점이라는 느낌이에요. 'a crisis of confidence'는 신뢰의 위기를 의미해요.",
+  "also": []
+ },
+ {
+  "w": "criteria",
+  "pos": "n",
+  "meaning_ko": "기준, 판단 기준",
+  "example_en": "What **criteria** do you use to choose candidates?",
+  "example_ko": "후보를 고를 때 어떤 기준을 써?",
+  "nuance_ko": "criteria는 판단이나 선택의 근거가 되는 기준들이고, criterion의 복수형이에요. 일상에서는 복수 criteria를 훨씬 많이 봐요. 'selection criteria', 'meet the criteria'(기준을 충족하다)처럼 써요. 단수 하나의 기준을 말할 때는 'a criterion'이라고 하는데, 'a criteria'라고 쓰는 실수가 흔해요. standard는 도달해야 할 수준이고, criteria는 평가할 때 비교하는 항목이라는 차이가 있어요. 채용 공고와 평가서에서 정말 자주 나와요.",
+  "also": [
+   {
+    "w": "criterion",
+    "pos": "n",
+    "ko": "기준 (단수)",
+    "en": "Price is the main **criterion** for most buyers."
+   }
+  ]
+ },
+ {
+  "w": "critic",
+  "pos": "n",
+  "meaning_ko": "비평가, 비판자",
+  "example_en": "The film got great reviews from most **critics**.",
+  "example_ko": "그 영화는 대부분의 비평가에게서 좋은 평을 받았어.",
+  "nuance_ko": "critic은 영화, 음악, 책, 정책 등을 평가하고 비평하는 사람이에요. 영화 비평가(film critic)처럼 직업적인 평론가도 되고, 정부를 비판하는 사람(a critic of the government)도 돼요. 이름과 달리 critic이 항상 부정적인 건 아니고, 좋게 평가하는 평론가도 있어요. 형용사 critical은 '비판적인'과 '매우 중요한'이라는 두 뜻이 있어서 문맥이 중요해요. critical condition(위독한 상태)처럼 의학에서도 쓰여요.",
+  "also": [
+   {
+    "w": "critical",
+    "pos": "adj",
+    "ko": "비판적인, 중대한",
+    "en": "This is a **critical** moment for the company."
+   },
+   {
+    "w": "critically",
+    "pos": "adv",
+    "ko": "비판적으로, 심각하게",
+    "en": "The patient is **critically** ill."
+   }
+  ]
+ },
+ {
+  "w": "criticise",
+  "pos": "v",
+  "meaning_ko": "비판하다, 비난하다",
+  "example_en": "It's easy to **criticise** others without offering a better idea.",
+  "example_ko": "더 나은 생각을 내놓지 않고 남을 비판하는 건 쉬워.",
+  "nuance_ko": "criticise는 잘못이나 부족한 점을 지적하며 비판한다는 뜻이에요. 영국식 철자이고 미국식은 criticize예요. criticise someone for something 구문에서 for를 써요. 'Don't criticize me for being late'처럼요. 평가하고 분석하는 건설적 비평도 포함하지만 일상에서는 부정적인 지적이라는 느낌이 강해요. condemn만큼 강하진 않고, blame은 책임을 묻는 거라서 구분돼요. 명사는 criticism(비판)이에요.",
+  "also": [
+   {
+    "w": "criticized",
+    "pos": "adj",
+    "ko": "비판받은",
+    "en": "The plan was widely **criticized** by experts."
+   }
+  ]
+ },
+ {
+  "w": "criticism",
+  "pos": "n",
+  "meaning_ko": "비판, 비평",
+  "example_en": "She took the **criticism** well and kept improving.",
+  "example_ko": "걔는 비판을 잘 받아들이고 계속 나아졌어.",
+  "nuance_ko": "criticism은 잘못을 지적하는 비판, 혹은 작품에 대한 평론이에요. constructive criticism(건설적인 비판), come in for criticism(비난을 받다), literary criticism(문학 비평)처럼 써요. 불가산으로 쓰는 게 기본이라 'a criticism'은 구체적인 한 가지 지적을 말할 때만 써요. feedback은 중립적인 의견이고, criticism은 부정적 평가가 담겨 있는 경우가 많아요. 'beyond criticism'은 '비판의 여지가 없는'이란 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "crop",
+  "pos": "n",
+  "meaning_ko": "농작물, 수확량",
+  "example_en": "Heavy rain destroyed most of this year's **crop**.",
+  "example_ko": "폭우로 올해 농작물의 대부분이 망가졌어.",
+  "nuance_ko": "crop은 곡물, 채소, 과일처럼 재배해서 거두는 농작물과 수확량을 말해요. cash crop(환금 작물), crop rotation(윤작), a good crop처럼 써요. 동사로는 사진을 잘라내는 crop이 일상에서 익숙해요(crop the photo). 머리를 짧게 자르는 것(cropped hair)도 crop이고, 옷이 짧은 것(cropped top)도 같은 뜻에서 나왔어요. harvest는 수확하는 행위이고, crop은 수확되는 작물 자체라는 점이 달라요.",
+  "also": [
+   {
+    "w": "cropped",
+    "pos": "adj",
+    "ko": "짧게 자른",
+    "en": "She wore a **cropped** jacket."
+   }
+  ]
+ },
+ {
+  "w": "crucial",
+  "pos": "adj",
+  "meaning_ko": "결정적인, 매우 중요한",
+  "example_en": "Getting enough sleep is **crucial** for your health.",
+  "example_ko": "충분히 자는 건 건강에 정말 중요해.",
+  "nuance_ko": "crucial은 성패나 결과를 좌우할 만큼 결정적으로 중요하다는 뜻이에요. important보다 훨씬 강하고, 이게 없으면 일이 틀어진다는 느낌이에요. crucial to/for ~ 구문으로 쓰고, a crucial role, a crucial decision처럼 명사를 꾸며요. essential이 꼭 필요한 것이라면 crucial은 그중에서도 전환점이 되는 중요성이에요. 어원은 라틴어 '십자가(crux)'에서 나왔고, 갈림길의 이미지로 기억하면 편해요.",
+  "also": [
+   {
+    "w": "crucially",
+    "pos": "adv",
+    "ko": "결정적으로",
+    "en": "**Crucially**, we need everyone's support."
+   }
+  ]
+ },
+ {
+  "w": "cruise",
+  "pos": "n",
+  "meaning_ko": "크루즈 여행",
+  "example_en": "They went on a week-long **cruise** around the Mediterranean.",
+  "example_ko": "그 사람들은 지중해를 도는 일주일짜리 크루즈 여행을 갔어.",
+  "nuance_ko": "cruise는 유람선을 타고 여러 곳을 돌아보는 크루즈 여행이에요. go on a cruise, cruise ship, Caribbean cruise처럼 써요. 동사로는 배나 차, 비행기가 일정한 속도로 편하게 나아가는 것을 말해서 'cruising at 60 mph'처럼 써요. 일상 구어체에서 'cruise through the exam'은 시험을 수월하게 통과한다는 뜻이에요. 크루즈 컨트롤(cruise control)은 자동차의 정속 주행 장치예요. 거리를 슬슬 돌아다니는 것도 cruise라고 해요.",
+  "also": [
+   {
+    "w": "cruising",
+    "pos": "n",
+    "ko": "유람, 순항",
+    "en": "We spent a relaxing afternoon **cruising** down the river."
+   }
+  ]
+ },
+ {
+  "w": "crush",
+  "pos": "v",
+  "meaning_ko": "으깨다, 짓누르다",
+  "example_en": "Please don't **crush** the box; there's glass inside.",
+  "example_ko": "상자를 눌러 찌그러뜨리지 마세요. 안에 유리가 들었어요.",
+  "nuance_ko": "crush는 강한 힘으로 눌러서 부수거나 찌그러뜨린다는 뜻이에요. 마늘을 으깨는 것(crush garlic), 캔을 찌그러뜨리는 것에 써요. 비유적으로는 희망이나 반란을 꺾는 것(crush the rebellion), 경기에서 압승하는 것(crush the opponent)도 돼요. 명사 crush는 구어체에서 '짝사랑'이라서 'I have a crush on him'은 '걔를 좋아해'라는 뜻이에요. 사람이 붐비는 것도 'a crush of people'이라고 해요. 형용사 crushing은 '압도적인, 치명적인'(crushing defeat)이에요.",
+  "also": [
+   {
+    "w": "crushing",
+    "pos": "adj",
+    "ko": "압도적인, 참담한",
+    "en": "The team suffered a **crushing** defeat."
+   },
+   {
+    "w": "crushed",
+    "pos": "adj",
+    "ko": "짓눌린, 낙담한",
+    "en": "I was **crushed** when I didn't get the job."
+   }
+  ]
+ },
+ {
+  "w": "crystal",
+  "pos": "n",
+  "meaning_ko": "결정, 수정",
+  "example_en": "The chandelier was made of sparkling **crystal**.",
+  "example_ko": "그 샹들리에는 반짝이는 크리스털로 만들어졌어.",
+  "nuance_ko": "crystal은 원자가 규칙적으로 배열된 결정체이고, 일상에서는 투명하고 반짝이는 수정이나 고급 유리를 뜻해요. ice crystal(얼음 결정), salt crystals처럼 과학 맥락에도 쓰여요. 크리스털 유리잔과 샹들리에를 떠올리면 이해하기 쉬워요. 형용사로 'crystal clear'는 '아주 맑은, 명백한'이라는 관용 표현이에요. 'The instructions were crystal clear.'처럼 말해요. 동사 crystallize는 구체화되다, 결정화되다예요.",
+  "also": [
+   {
+    "w": "crystallize",
+    "pos": "v",
+    "ko": "구체화되다, 결정화되다",
+    "en": "His ideas began to **crystallize** into a plan."
+   }
+  ]
+ },
+ {
+  "w": "currency",
+  "pos": "n",
+  "meaning_ko": "통화, 화폐",
+  "example_en": "What's the local **currency** in Japan?",
+  "example_ko": "일본의 현지 통화가 뭐야?",
+  "nuance_ko": "currency는 한 나라에서 법적으로 통용되는 화폐 단위, 즉 통화예요. foreign currency(외화), exchange currency(환전하다), currency exchange rate(환율)처럼 써요. 암호화폐도 cryptocurrency라고 해요. money는 돈 일반이고, currency는 특정 국가의 화폐 단위를 가리키는 점이 달라요. 또 '유행, 통용'이라는 뜻이 있어서 'gain currency'는 널리 퍼지고 받아들여진다는 의미예요. 복수형은 currencies예요.",
+  "also": []
+ },
+ {
+  "w": "curriculum",
+  "pos": "n",
+  "meaning_ko": "교육과정, 커리큘럼",
+  "example_en": "The school is updating its **curriculum** to include coding.",
+  "example_ko": "학교는 코딩을 포함하도록 교육과정을 개편하고 있어.",
+  "nuance_ko": "curriculum은 학교나 과정에서 가르치는 내용 전체, 즉 교육과정이에요. national curriculum(국가 교육과정), school curriculum처럼 써요. syllabus는 개별 수업의 강의계획서이고, curriculum은 학교 전체 단위의 큰 틀이라는 점이 달라요. 복수형은 curricula 또는 curriculums로 둘 다 가능해요. 이력서를 뜻하는 curriculum vitae(CV)도 같은 라틴어에서 왔어요. extracurricular은 '정규 교과 외의'로 extracurricular activities(과외 활동)가 자주 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "curtain",
+  "pos": "n",
+  "meaning_ko": "커튼, 막",
+  "example_en": "Could you close the **curtains**? The sun is in my eyes.",
+  "example_ko": "커튼 좀 쳐 줄래? 햇빛이 눈에 들어와.",
+  "nuance_ko": "curtain은 창문을 가리는 커튼, 그리고 극장 무대의 막을 말해요. draw the curtains(커튼을 치다/걷다), curtain call(커튼콜), the curtain rises/falls처럼 써요. 비유적으로 'iron curtain'(철의 장막)이 냉전 시대를 상징하는 역사 용어예요. 영국에서는 보통 복수 curtains로, 미국에서는 drapes(무거운 커튼)와 구별해서 써요. blind는 말아 올리는 블라인드류예요. 'It's curtains for ~'는 '~은 끝장이다'라는 구어 관용구예요.",
+  "also": []
+ },
+ {
+  "w": "curve",
+  "pos": "n",
+  "meaning_ko": "곡선, 커브",
+  "example_en": "Slow down; there's a sharp **curve** ahead.",
+  "example_ko": "속도 줄여, 앞에 급커브가 있어.",
+  "nuance_ko": "curve는 직선이 아닌 부드럽게 휘어진 선이나 길이에요. a sharp curve(급커브), a curve in the road처럼 써요. 야구의 변화구(curveball), 그래프의 곡선(learning curve, 학습 곡선)도 curve예요. 'ahead of the curve'는 '남들보다 앞서 있는'이라는 비즈니스 표현이고, 'throw someone a curveball'은 예상 밖의 일로 당황시킨다는 구어 표현이에요. 동사 curve는 '구부러지다'로 도로나 공의 경로를 말해요.",
+  "also": [
+   {
+    "w": "curved",
+    "pos": "adj",
+    "ko": "휘어진, 곡선의",
+    "en": "The phone has a **curved** screen."
+   }
+  ]
+ },
+ {
+  "w": "custom",
+  "pos": "n",
+  "meaning_ko": "관습, 풍습",
+  "example_en": "It's a local **custom** to take off your shoes before entering.",
+  "example_ko": "들어가기 전에 신발을 벗는 건 이 지역의 관습이야.",
+  "nuance_ko": "custom은 오랫동안 이어져 온 사회의 풍습이나 개인의 습관이에요. local customs, an old custom, as is his custom(그의 습관대로)처럼 써요. 복수 customs가 되면 '세관'이라는 전혀 다른 뜻이어서 pass through customs(세관을 통과하다)처럼 공항에서 쓰여요. 형용사 custom은 '맞춤 제작의'(custom-made, custom furniture)예요. tradition이 대대로 전해진 큰 의식이라면 custom은 일상적인 풍습이에요. 형용사 customary는 '관례적인'이에요.",
+  "also": [
+   {
+    "w": "customary",
+    "pos": "adj",
+    "ko": "관례적인",
+    "en": "It's **customary** to tip in restaurants here."
+   },
+   {
+    "w": "customs",
+    "pos": "n",
+    "ko": "세관",
+    "en": "We had to go through **customs** at the airport."
+   }
+  ]
+ },
+ {
+  "w": "cycle",
+  "pos": "n",
+  "meaning_ko": "순환, 주기",
+  "example_en": "The moon goes through a **cycle** of about twenty-nine days.",
+  "example_ko": "달은 약 29일 주기로 변해.",
+  "nuance_ko": "cycle은 일정한 순서로 반복되는 순환이나 주기예요. life cycle(생애 주기), water cycle(물의 순환), economic cycle(경기 순환)처럼 자주 써요. 'a vicious cycle'(악순환)과 'a virtuous cycle'(선순환)은 함께 알아 두면 좋은 표현이에요. 세탁기의 '세탁 코스'도 cycle이라고 해요(wash cycle). 동사로는 자전거를 타는 것(cycle to work)을 의미해서 영국 영어에서 흔해요. 자전거를 타는 사람은 cyclist예요.",
+  "also": [
+   {
+    "w": "cycling",
+    "pos": "n",
+    "ko": "자전거 타기",
+    "en": "**Cycling** is a great way to stay fit."
+   },
+   {
+    "w": "cyclist",
+    "pos": "n",
+    "ko": "자전거 타는 사람",
+    "en": "A **cyclist** was hit by a car this morning."
+   }
+  ]
+ },
+ {
+  "w": "damn",
+  "pos": "int",
+  "meaning_ko": "젠장, 제기랄",
+  "example_en": "**Damn**, I forgot my keys again.",
+  "example_ko": "아, 젠장, 또 열쇠를 깜빡했네.",
+  "nuance_ko": "damn은 짜증이나 실망, 놀람을 드러내는 가벼운 욕설 감탄사예요. 'Damn!'은 '젠장!'이라는 뜻이고, 가까운 사이에서 쓰는 비격식 표현이에요. 공식적인 자리나 직장, 어른 앞에서는 피하는 게 좋아요. 'damn good'처럼 강조 부사로도 쓰여서 '엄청나게 좋은'이란 뜻이 돼요. 동사로는 '비난하다, 저주하다'이고 'damn with faint praise'(미적지근한 칭찬으로 깎아내리다)처럼 문학적으로도 써요. 형용사 damning은 '치명적인'이라 'damning evidence'는 결정적 증거를 뜻해요.",
+  "also": [
+   {
+    "w": "damning",
+    "pos": "adj",
+    "ko": "치명적인, 불리한",
+    "en": "The report contained **damning** evidence."
+   }
+  ]
+ },
+ {
+  "w": "damp",
+  "pos": "adj",
+  "meaning_ko": "축축한, 눅눅한",
+  "example_en": "The basement smells **damp** after all that rain.",
+  "example_ko": "비가 그렇게 와서 지하실에서 눅눅한 냄새가 나.",
+  "nuance_ko": "damp는 완전히 젖은 건 아니지만 불쾌할 만큼 축축한 상태예요. a damp towel, damp weather, a damp basement처럼 써요. wet은 물에 흠뻑 젖은 것이고, moist는 촉촉해서 기분 좋은 느낌(moist cake)이라 긍정적이에요. damp는 보통 달갑지 않은 습기를 말해요. 동사 dampen은 '적시다, 약화시키다'로 'dampen enthusiasm'(열의를 꺾다)처럼 써요. 'damp squib'는 영국식 관용구로 기대에 못 미친 싱거운 결과를 뜻해요.",
+  "also": [
+   {
+    "w": "dampen",
+    "pos": "v",
+    "ko": "적시다, 꺾다",
+    "en": "Bad news didn't **dampen** her spirits."
+   }
+  ]
+ },
+ {
+  "w": "data",
+  "pos": "n",
+  "meaning_ko": "자료, 데이터",
+  "example_en": "We need more **data** before we can draw any conclusions.",
+  "example_ko": "결론을 내리려면 데이터가 더 필요해.",
+  "nuance_ko": "data는 분석에 쓰는 수치나 정보의 모음이에요. 원래 datum의 복수형이지만 현대 영어에서는 불가산 명사로 쓰는 경우가 많아서 'The data is clear'라고도 해요. 학술 글에서는 'The data show ~'처럼 복수 취급을 하기도 해요. 'a lot of data', 'some data'처럼 말하고 'a data'나 'datas'는 쓰지 않아요. information이 의미가 있는 정보 전반이라면 data는 가공 전의 원자료에 가까워요. big data, data analysis, personal data처럼 IT 용어로도 매일 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "database",
+  "pos": "n",
+  "meaning_ko": "데이터베이스",
+  "example_en": "All customer records are stored in a central **database**.",
+  "example_ko": "모든 고객 기록은 중앙 데이터베이스에 저장돼.",
+  "nuance_ko": "database는 컴퓨터에 체계적으로 저장해 두고 검색하거나 수정할 수 있는 데이터 모음이에요. 가산 명사라서 a database, databases로 써요. query a database(데이터베이스를 조회하다), search the database처럼 쓰고, 줄여서 DB라고 해요. 엑셀 파일(spreadsheet)은 비슷하지만 대규모 데이터를 관리하는 시스템으로서의 database와는 구분돼요. 철자는 붙여 써서 database이고 data base라고 쓰지 않아요.",
+  "also": []
+ },
+ {
+  "w": "debate",
+  "pos": "n",
+  "meaning_ko": "토론, 논쟁",
+  "example_en": "There's a lot of **debate** about how to fix the housing crisis.",
+  "example_ko": "주택 위기를 어떻게 해결할지 논쟁이 많아.",
+  "nuance_ko": "debate는 서로 다른 입장이 의견을 나누며 벌이는 공식적이거나 활발한 토론이에요. a heated debate(격렬한 논쟁), a presidential debate(대선 토론), under debate(논의 중)처럼 써요. discussion은 서로 의견을 나누는 일반적인 대화이고, debate는 찬반이 갈려 맞서는 성격이 강해요. 동사로는 'debate whether to ~'(~할지 말지 고민하다)처럼 혼자 곰곰이 따져 보는 데도 써요. 'The matter is open to debate.'는 아직 결론이 안 났다는 뜻이에요.",
+  "also": [
+   {
+    "w": "debatable",
+    "pos": "adj",
+    "ko": "논란의 여지가 있는",
+    "en": "Whether it works is **debatable**."
+   }
+  ]
+ },
+ {
+  "w": "decade",
+  "pos": "n",
+  "meaning_ko": "10년",
+  "example_en": "The city has changed a lot in the past **decade**.",
+  "example_ko": "그 도시는 지난 10년 사이에 많이 변했어.",
+  "nuance_ko": "decade는 10년 단위의 기간이에요. 'in the past decade'(지난 10년간), 'for decades'(수십 년 동안), 'the 1990s'(1990년대)처럼 써요. 연대를 가리켜 'a decade ago'라고 하면 약 10년 전이에요. year(해), century(세기)와 함께 시간 단위를 나타내는 기본 단어예요. 복수형 decades는 단순히 '십수 년, 수십 년'을 뭉뚱그려 말할 때도 흔해요. 발음은 /ˈdekeɪd/로 첫 음절에 강세가 와요. 철자에서 decad-로 시작하는 deca-는 10을 뜻하는 접두사예요.",
+  "also": []
+ },
+ {
+  "w": "declare",
+  "pos": "v",
+  "meaning_ko": "선언하다, 공표하다",
+  "example_en": "The government **declared** a state of emergency last night.",
+  "example_ko": "정부가 어젯밤 비상사태를 선포했어.",
+  "nuance_ko": "declare는 공식적으로 분명히 선언하거나 신고한다는 뜻이에요. declare war(선전포고), declare independence(독립을 선언), declare a winner(우승자를 발표하다)처럼 써요. 공항 세관에서 'Do you have anything to declare?'(신고할 것이 있습니까?)도 정말 자주 들어요. announce보다 공식적이고 단호한 선언 느낌이에요. 수동태 'be declared dead'(사망 선고를 받다)나 'declare bankruptcy'(파산을 선언하다)처럼 법적 맥락에도 써요. 명사는 declaration이에요.",
+  "also": [
+   {
+    "w": "declaration",
+    "pos": "n",
+    "ko": "선언, 신고",
+    "en": "The **declaration** of independence was signed in 1776."
+   }
+  ]
+ },
+ {
+  "w": "decline",
+  "pos": "v",
+  "meaning_ko": "줄어들다, 정중히 거절하다",
+  "example_en": "Sales have **declined** steadily over the past year.",
+  "example_ko": "지난 1년 동안 매출이 꾸준히 줄었어.",
+  "nuance_ko": "decline에는 두 가지 주요 뜻이 있어요. 하나는 수나 양이 점차 줄어드는 것(sales declined)이고, 다른 하나는 초대나 제안을 정중히 거절하는 것(decline an invitation)이에요. 거절할 때는 refuse보다 부드럽고 예의 바른 표현이에요. 'I'm afraid I must decline.'은 공손한 거절이에요. 명사로는 'a decline in sales'처럼 '쇠퇴, 감소'를 뜻하고, 'in decline'은 '쇠퇴 중인'이에요. 'on the decline'도 같은 뜻으로 자주 써요.",
+  "also": [
+   {
+    "w": "declining",
+    "pos": "adj",
+    "ko": "감소하는",
+    "en": "The company faces **declining** profits."
+   }
+  ]
+ },
+ {
+  "w": "decrease",
+  "pos": "v",
+  "meaning_ko": "줄다, 감소시키다",
+  "example_en": "The number of visitors has **decreased** since the price went up.",
+  "example_ko": "가격이 오른 뒤로 방문객 수가 줄었어.",
+  "nuance_ko": "decrease는 수, 양, 정도가 줄어드는 것이고 반대말은 increase예요. 자동사와 타동사로 모두 쓰여요(The number decreased. / We decreased the price). 명사 decrease는 /ˈdiːkriːs/로 강세가 앞에 오고, 동사는 /dɪˈkriːs/로 뒤에 와요. 'a decrease in sales'처럼 변화를 말할 때 전치사 in을 써요. reduce는 의도적으로 줄이는 쪽이고, decrease는 저절로 줄어드는 경우도 포함해요. 통계나 보고서에서 자주 나와요.",
+  "also": [
+   {
+    "w": "decreasing",
+    "pos": "adj",
+    "ko": "감소하는",
+    "en": "We are seeing a **decreasing** number of applicants."
+   }
+  ]
+ },
+ {
+  "w": "dedicate",
+  "pos": "v",
+  "meaning_ko": "바치다, 헌신하다",
+  "example_en": "She **dedicated** her life to helping homeless children.",
+  "example_ko": "그분은 집 없는 아이들을 돕는 데 평생을 바쳤어.",
+  "nuance_ko": "dedicate는 시간, 노력, 삶을 어떤 목적에 쏟아붓는다는 뜻이에요. dedicate yourself to ~, dedicate time to ~처럼 전치사 to를 써요. 책이나 노래를 누구에게 바친다는 뜻도 있어서 'This book is dedicated to my parents.'라고 서문에 써요. 형용사 dedicated는 '헌신적인, 전용의'로 a dedicated team(헌신적인 팀), a dedicated server(전용 서버)처럼 써요. 명사 dedication은 '헌신'이에요. 이때 to 뒤에는 동명사가 와요(dedicated to helping).",
+  "also": [
+   {
+    "w": "dedicated",
+    "pos": "adj",
+    "ko": "헌신적인, 전용의",
+    "en": "He's a **dedicated** teacher who stays late every day."
+   },
+   {
+    "w": "dedication",
+    "pos": "n",
+    "ko": "헌신, 헌정",
+    "en": "Her **dedication** to the job impressed everyone."
+   }
+  ]
+ },
+ {
+  "w": "defeat",
+  "pos": "v",
+  "meaning_ko": "물리치다, 이기다",
+  "example_en": "Our team **defeated** last year's champions in the final.",
+  "example_ko": "우리 팀이 결승에서 작년 우승팀을 꺾었어.",
+  "nuance_ko": "defeat는 경기, 선거, 전투에서 상대를 이기는 것을 말해요. beat와 비슷하지만 defeat이 좀 더 격식 있고 뉴스 문체에 가까워요. 'defeat the purpose'는 '목적을 무색하게 만들다'라는 관용 표현으로 쓰여요. 명사 defeat는 '패배'로 suffer a defeat(패배를 당하다)처럼 써요. 반대는 victory예요. 문제나 병을 이겨내는 것도 defeat라고 해요(defeat cancer). 형용사 undefeated는 '무패의'예요.",
+  "also": [
+   {
+    "w": "undefeated",
+    "pos": "adj",
+    "ko": "무패의",
+    "en": "The team stayed **undefeated** all season."
+   }
+  ]
+ },
+ {
+  "w": "defend",
+  "pos": "v",
+  "meaning_ko": "방어하다, 옹호하다",
+  "example_en": "He **defended** his decision in front of the whole board.",
+  "example_ko": "그는 이사회 전체 앞에서 자신의 결정을 변호했어.",
+  "nuance_ko": "defend는 공격이나 비판으로부터 지키거나 옹호한다는 뜻이에요. defend a country(나라를 지키다), defend yourself(스스로를 변호하다), defend a decision(결정을 옹호하다)처럼 써요. 법정에서는 피고를 변호하는 것을 defend라고 해요. 스포츠에서는 수비하는 것을 말하죠(defend the goal). protect는 해를 입지 않게 막는 것이고, defend는 공격에 맞서 싸워 지키는 느낌이에요. defend against ~는 '~에 대비해 방어하다'예요.",
+  "also": [
+   {
+    "w": "defender",
+    "pos": "n",
+    "ko": "수비수, 옹호자",
+    "en": "The **defender** blocked the shot."
+   }
+  ]
+ },
+ {
+  "w": "defendant",
+  "pos": "n",
+  "meaning_ko": "피고인, 피고",
+  "example_en": "The **defendant** pleaded not guilty to all charges.",
+  "example_ko": "피고인은 모든 혐의에 대해 무죄를 주장했어.",
+  "nuance_ko": "defendant는 재판에서 소송을 당하거나 기소된 사람, 즉 피고예요. 민사에서는 '피고', 형사에서는 '피고인'으로 번역돼요. 반대는 plaintiff(원고)이고 형사에서는 prosecution(검찰)이 상대편이에요. 법정 영화에서 'the defendant'가 자주 나와서 익숙해요. defend(방어하다)의 명사형 -ant가 붙은 '방어하는 사람'에서 나온 말이라서 기억하기 쉬워요. suspect는 아직 기소 전의 용의자라는 점이 달라요.",
+  "also": []
+ },
+ {
+  "w": "deficit",
+  "pos": "n",
+  "meaning_ko": "적자, 부족",
+  "example_en": "The government is trying to reduce the budget **deficit**.",
+  "example_ko": "정부는 재정 적자를 줄이려고 하고 있어.",
+  "nuance_ko": "deficit은 수입보다 지출이 많은 적자, 또는 기준에 못 미치는 부족분을 말해요. budget deficit(재정 적자), trade deficit(무역 적자)처럼 경제 기사에서 정말 자주 나와요. 반대는 surplus(흑자, 잉여)예요. 의료·교육에서는 'attention deficit'(주의력 결핍)처럼 어떤 기능이 모자란 상태를 가리켜요. 스포츠에서는 'a 3-point deficit'은 3점 차로 뒤지고 있다는 뜻이에요. 복수형은 deficits예요.",
+  "also": []
+ },
+ {
+  "w": "define",
+  "pos": "v",
+  "meaning_ko": "정의하다, 규정하다",
+  "example_en": "How do you **define** success in your own life?",
+  "example_ko": "넌 네 삶에서 성공을 어떻게 정의해?",
+  "nuance_ko": "define은 단어나 개념의 의미를 정확히 밝히거나 범위·특성을 분명하게 규정한다는 뜻이에요. define a term, define a problem, well-defined goals(명확히 규정된 목표)처럼 써요. 'define yourself by ~'는 '~로 자신을 규정하다'로 정체성을 말할 때 자주 써요. 프로그래밍에서는 함수나 변수를 정의하는 것(define a function)이에요. 명사 definition은 '정의, 뜻풀이'이고 'by definition'(정의상, 본질적으로)이 자주 쓰여요.",
+  "also": [
+   {
+    "w": "definition",
+    "pos": "n",
+    "ko": "정의, 뜻풀이",
+    "en": "What's the **definition** of this word?"
+   },
+   {
+    "w": "defined",
+    "pos": "adj",
+    "ko": "뚜렷한, 정의된",
+    "en": "The project has **defined** goals."
+   }
+  ]
+ },
+ {
+  "w": "delay",
+  "pos": "n",
+  "meaning_ko": "지연, 연기",
+  "example_en": "There was a long **delay** at the airport because of the fog.",
+  "example_ko": "안개 때문에 공항에서 오래 지연됐어.",
+  "nuance_ko": "delay는 예정보다 늦어지는 지연이나 일부러 미루는 것을 말해요. flight delay(항공편 지연), without delay(지체 없이), long delays처럼 써요. 동사로는 '늦추다, 미루다'로 타동사('delay the meeting')와 수동태('The train was delayed')로 많이 쓰여요. postpone은 계획된 일을 나중으로 미루는 것이고, delay는 의도와 상관없이 늦어지는 경우도 포함해요. put off는 구어체로 '미루다'예요. 'delay to ~'와 'delay in ~'(~의 지연)에서 전치사가 다양해요.",
+  "also": [
+   {
+    "w": "delayed",
+    "pos": "adj",
+    "ko": "지연된",
+    "en": "My flight is **delayed** by two hours."
+   }
+  ]
+ },
+ {
+  "w": "delegate",
+  "pos": "n",
+  "meaning_ko": "대표, 위원",
+  "example_en": "Each country sent a **delegate** to the conference.",
+  "example_ko": "각 나라가 회의에 대표를 한 명씩 보냈어.",
+  "nuance_ko": "delegate는 단체나 조직을 대신해 회의에 참석하는 대표자예요. 명사는 /ˈdelɪɡət/, 동사는 /ˈdelɪɡeɪt/로 어미 발음이 달라요. 동사로는 '권한이나 업무를 위임하다'로, 'delegate tasks to others'가 관리자의 필수 역량으로 비즈니스에서 정말 자주 나와요. representative가 대표자 일반이라면 delegate는 특정 회의에 파견된 대표를 가리켜요. 명사 delegation은 '대표단'이에요. 미국 정치의 전당대회에서도 delegate가 대의원으로 쓰여요.",
+  "also": [
+   {
+    "w": "delegation",
+    "pos": "n",
+    "ko": "대표단",
+    "en": "A **delegation** from Korea visited the city."
+   }
+  ]
+ },
+ {
+  "w": "deliberate",
+  "pos": "adj",
+  "meaning_ko": "고의적인, 신중한",
+  "example_en": "It was a **deliberate** attempt to mislead the public.",
+  "example_ko": "그건 대중을 속이려는 고의적인 시도였어.",
+  "nuance_ko": "deliberate는 형용사로 '고의적인, 계획적인'이라는 뜻이에요. 우연이 아니라 일부러 한 일을 말하고, 반대말은 accidental이에요. 또 '신중하고 천천히 한'이란 뜻도 있어서 'deliberate steps'는 서두르지 않는 걸음이에요. 형용사는 /dɪˈlɪbərət/, 동사는 /dɪˈlɪbəreɪt/(숙고하다)로 발음이 달라요. 동사로는 'The jury deliberated for hours.'(배심원단이 몇 시간 숙의했다)처럼 써요. 부사 deliberately는 'on purpose'와 같은 뜻이에요.",
+  "also": [
+   {
+    "w": "deliberately",
+    "pos": "adv",
+    "ko": "고의로, 일부러",
+    "en": "He **deliberately** ignored my message."
+   }
+  ]
+ },
+ {
+  "w": "democracy",
+  "pos": "n",
+  "meaning_ko": "민주주의, 민주 국가",
+  "example_en": "A free press is essential to a healthy **democracy**.",
+  "example_ko": "언론의 자유는 건강한 민주주의에 꼭 필요해.",
+  "nuance_ko": "democracy는 국민이 권력을 갖고 선거 등으로 정치에 참여하는 민주주의 제도와 그런 국가를 말해요. 가산·불가산 모두 쓸 수 있어서 'a democracy'는 민주주의 국가 하나, 'democracy'는 제도 자체예요. direct democracy(직접 민주주의), representative democracy(대의 민주주의)처럼 종류를 붙여 써요. 어원은 그리스어 '민중(demos)의 지배(kratos)'예요. 형용사 democratic과 사람을 가리키는 democrat 모두 같은 뿌리예요.",
+  "also": []
+ },
+ {
+  "w": "democrat",
+  "pos": "n",
+  "meaning_ko": "민주주의자, 민주당원",
+  "example_en": "She has been a loyal **Democrat** all her life.",
+  "example_ko": "그분은 평생 충실한 민주당 지지자였어.",
+  "nuance_ko": "democrat은 소문자일 때 민주주의를 신봉하는 사람을 가리키고, 대문자 Democrat는 미국 민주당(Democratic Party) 소속이나 지지자를 말해요. 미국 정치 뉴스에서는 거의 대문자 Democrat로 보여요. 반대는 Republican(공화당원)이에요. 형용사는 democratic으로, 소문자는 '민주적인'이고 대문자 Democratic은 '민주당의'예요. 'democratic process'는 민주적 절차예요. 한국의 정당 이름과는 별개 개념이라는 점에 주의하세요.",
+  "also": [
+   {
+    "w": "democratic",
+    "pos": "adj",
+    "ko": "민주적인",
+    "en": "We held a **democratic** vote to decide."
+   },
+   {
+    "w": "undemocratic",
+    "pos": "adj",
+    "ko": "비민주적인",
+    "en": "The rule was widely seen as **undemocratic**."
+   }
+  ]
+ },
+ {
+  "w": "demonstrate",
+  "pos": "v",
+  "meaning_ko": "입증하다, 시연하다",
+  "example_en": "The experiment **demonstrates** how plants respond to light.",
+  "example_ko": "그 실험은 식물이 빛에 어떻게 반응하는지 보여줘.",
+  "nuance_ko": "demonstrate는 증거나 실례로 보여주어 입증한다는 뜻이에요. 또 제품이나 방법을 직접 시연해 보여주는 것(demonstrate how to use it)과 시위하는 것도 뜻해요. 시위 의미로는 demonstrate against ~(~에 반대해 시위하다)로 쓰고, 일상에서는 protest가 더 흔해요. show보다 격식 있고 설득력 있게 보여준다는 느낌이에요. 명사 demonstration은 '시연, 시위, 입증'이고, 줄여서 demo는 데모 영상이나 시연품을 말하는 구어체예요.",
+  "also": [
+   {
+    "w": "demonstration",
+    "pos": "n",
+    "ko": "시연, 시위",
+    "en": "The chef gave a cooking **demonstration**."
+   },
+   {
+    "w": "demo",
+    "pos": "n",
+    "ko": "시연, 시제품",
+    "en": "Can I see a quick **demo** of the app?"
+   }
+  ]
+ },
+ {
+  "w": "dense",
+  "pos": "adj",
+  "meaning_ko": "빽빽한, 밀집한",
+  "example_en": "A **dense** fog covered the entire valley this morning.",
+  "example_ko": "오늘 아침 짙은 안개가 계곡 전체를 덮었어.",
+  "nuance_ko": "dense는 물질이나 사람이 촘촘하게 들어차 있는 밀도 높은 상태예요. dense forest(빽빽한 숲), dense fog(짙은 안개), densely populated(인구 밀집된)처럼 써요. 글이 정보가 너무 빽빽해서 읽기 어려울 때도 'a dense text'라고 해요. 구어체에서 사람이 '둔한, 눈치 없는'이라는 뜻으로 쓰이기도 해서 'Are you always this dense?'는 무례할 수 있어요. 명사 density는 '밀도'로 population density(인구 밀도)처럼 과학과 통계에 자주 나와요.",
+  "also": [
+   {
+    "w": "density",
+    "pos": "n",
+    "ko": "밀도",
+    "en": "The city has a high population **density**."
+   },
+   {
+    "w": "densely",
+    "pos": "adv",
+    "ko": "빽빽하게",
+    "en": "The area is **densely** populated."
+   }
+  ]
+ },
+ {
+  "w": "depict",
+  "pos": "v",
+  "meaning_ko": "묘사하다, 그리다",
+  "example_en": "The painting **depicts** a village scene in winter.",
+  "example_ko": "그 그림은 겨울의 마을 풍경을 묘사하고 있어.",
+  "nuance_ko": "depict는 그림, 사진, 글로 어떤 대상이나 장면을 묘사해 보여준다는 뜻이에요. depict someone as ~는 '~로 그리다, 묘사하다'로 영화나 언론이 인물을 어떻게 그리는지 말할 때 자주 써요. 'The film depicts him as a hero.'처럼요. describe는 말이나 글로 설명하는 것이고, depict는 이미지나 서술로 눈에 보이듯 표현하는 느낌이 강해요. 명사 depiction은 '묘사'로 'an accurate depiction'(정확한 묘사)처럼 써요.",
+  "also": [
+   {
+    "w": "depiction",
+    "pos": "n",
+    "ko": "묘사",
+    "en": "The book's **depiction** of war is very realistic."
+   }
+  ]
+ },
+ {
+  "w": "deposit",
+  "pos": "n",
+  "meaning_ko": "보증금, 예금, 매장층",
+  "example_en": "I paid a $500 **deposit** to reserve the apartment.",
+  "example_ko": "아파트를 예약하려고 보증금 500달러를 냈어.",
+  "nuance_ko": "deposit은 쓰임이 다양해요. 계약 전에 먼저 내는 계약금·보증금, 은행에 넣는 예금, 땅속에 쌓인 매장층(mineral deposits)이 모두 deposit이에요. 'put down a deposit'은 보증금을 내다, 'make a deposit'은 입금하다예요. 동사로는 '맡기다, 예치하다, 내려놓다'로 'deposit money into an account'(계좌에 입금하다)처럼 써요. 반대는 withdrawal(출금)이에요. 월세에서 돌려받을 수 있는 건 security deposit이라고 해요.",
+  "also": [
+   {
+    "w": "deposited",
+    "pos": "adj",
+    "ko": "입금된",
+    "en": "The money was **deposited** into my account yesterday."
+   }
+  ]
+ },
+ {
+  "w": "deputy",
+  "pos": "n",
+  "meaning_ko": "부책임자, 대리인",
+  "example_en": "The **deputy** manager will run the meeting while I'm away.",
+  "example_ko": "내가 없는 동안 부매니저가 회의를 진행할 거야.",
+  "nuance_ko": "deputy는 상급자를 보좌하거나 대신하는 부책임자, 대리인이에요. deputy director(부국장), deputy mayor(부시장), deputy head(부교장)처럼 직함 앞에 붙여 써요. 미국에서는 경찰 보조관인 sheriff's deputy(보안관 보좌관)도 가리켜요. 'assistant'가 일을 도와주는 사람이라면 deputy는 상급자가 자리를 비웠을 때 권한을 대행한다는 점이 달라요. 동사 deputize는 '대리를 맡다'예요.",
+  "also": [
+   {
+    "w": "deputise",
+    "pos": "v",
+    "ko": "대리를 맡다",
+    "en": "She was asked to **deputise** for the director."
+   }
+  ]
+ },
+ {
+  "w": "derive",
+  "pos": "v",
+  "meaning_ko": "유래하다, 얻다",
+  "example_en": "Many English words **derive** from Latin.",
+  "example_ko": "영어 단어 중 많은 수가 라틴어에서 유래했어.",
+  "nuance_ko": "derive는 어떤 근원에서 나오거나 얻는다는 뜻이에요. 'derive from ~'은 '~에서 유래하다', 'derive A from B'는 'B에서 A를 얻다'예요. 'derive pleasure from reading'(독서에서 즐거움을 얻다)처럼 쓸 수 있어요. 어원을 설명할 때 거의 필수로 나오는 동사예요. 수학에서는 공식을 유도하는 것이고, 명사 derivative는 파생어, 또는 금융 파생상품(financial derivatives)이에요. 형용사 derived는 '파생된'(derived from)으로 쓰여요.",
+  "also": [
+   {
+    "w": "derived",
+    "pos": "adj",
+    "ko": "파생된",
+    "en": "The word is **derived** from Greek."
+   },
+   {
+    "w": "derivative",
+    "pos": "n",
+    "ko": "파생물, 파생상품",
+    "en": "The film is a **derivative** of an older novel."
+   }
+  ]
+ },
+ {
+  "w": "descend",
+  "pos": "v",
+  "meaning_ko": "내려가다, 유래하다",
+  "example_en": "We slowly **descended** the steep path to the beach.",
+  "example_ko": "우리는 가파른 길을 천천히 내려가 해변으로 갔어.",
+  "nuance_ko": "descend는 아래로 내려가는 것으로, go down보다 격식 있는 말이에요. 계단, 산, 비행기의 고도 하강 모두에 쓰고 반대는 ascend예요. 'be descended from ~'는 '~의 후손이다'라는 수동태 표현이에요. 비유적으로 'descend into chaos'는 '혼란에 빠지다'로 상황이 나쁜 쪽으로 가는 걸 뜻해요. 'descend on ~'은 사람들이 대거 몰려든다는 뜻이에요. 명사는 descendant(후손), descent(하강)예요.",
+  "also": [
+   {
+    "w": "descendant",
+    "pos": "n",
+    "ko": "후손",
+    "en": "She is a **descendant** of a famous king."
+   }
+  ]
+ },
+ {
+  "w": "description",
+  "pos": "n",
+  "meaning_ko": "묘사, 설명",
+  "example_en": "Can you give me a **description** of the man you saw?",
+  "example_ko": "네가 본 남자의 인상착의를 말해 줄 수 있어?",
+  "nuance_ko": "description은 어떤 사람, 사물, 사건이 어떠한지 말이나 글로 설명한 것이에요. give a description of ~, a detailed description, job description(직무 기술서)처럼 써요. 'beyond description'은 '말로 다 표현할 수 없는'이란 관용 표현이에요. 'fit the description'은 경찰이 말하는 '인상착의가 일치하다'예요. 동사는 describe이고 'describe + 목적어'에 전치사 to는 쓰지 않아요(describe to me는 가능하지만 'describe me'는 '나를 묘사하다'). 형용사는 descriptive(서술적인)예요.",
+  "also": [
+   {
+    "w": "descriptive",
+    "pos": "adj",
+    "ko": "묘사적인",
+    "en": "Her **descriptive** writing is vivid and moving."
+   }
+  ]
+ },
+ {
+  "w": "designate",
+  "pos": "v",
+  "meaning_ko": "지정하다, 임명하다",
+  "example_en": "The area was **designated** a national park in 1990.",
+  "example_ko": "그 지역은 1990년에 국립공원으로 지정됐어.",
+  "nuance_ko": "designate는 공식적으로 어떤 목적이나 지위로 지정하거나 사람을 임명한다는 뜻이에요. designate A as B 또는 designate A B 구문으로 써요. 'a designated driver'(지정 운전자)는 술자리에서 술을 안 마시고 운전하기로 정한 사람이에요. 'designated smoking area'(지정 흡연 구역)도 안내판에서 자주 봐요. choose보다 공식적이고 권한이 있는 기관이 정한다는 느낌이에요. 명사 designation은 '지정, 명칭'이에요.",
+  "also": [
+   {
+    "w": "designated",
+    "pos": "adj",
+    "ko": "지정된",
+    "en": "Please use the **designated** parking area."
+   },
+   {
+    "w": "designation",
+    "pos": "n",
+    "ko": "지정, 명칭",
+    "en": "The site received UNESCO **designation**."
+   }
+  ]
+ },
+ {
+  "w": "despite",
+  "pos": "prep",
+  "meaning_ko": "~에도 불구하고",
+  "example_en": "We went for a walk **despite** the cold weather.",
+  "example_ko": "추운 날씨에도 불구하고 우리는 산책하러 나갔어.",
+  "nuance_ko": "despite는 '~에도 불구하고'라는 전치사로, 뒤에 명사나 동명사가 와요. 'despite the rain', 'despite being tired'처럼 써요. in spite of와 뜻이 같지만 despite는 of 없이 쓰고, despite of라고 하는 건 틀린 표현이에요. although나 though는 접속사라서 뒤에 주어와 동사가 있는 절이 와요(Although it rained, ...). 한국 학습자가 despite 뒤에 절을 쓰는 실수를 자주 하니 주의하세요. 'despite the fact that ~'처럼 fact와 함께 쓰면 절도 이어갈 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "destruction",
+  "pos": "n",
+  "meaning_ko": "파괴, 파멸",
+  "example_en": "The storm left a trail of **destruction** across the coast.",
+  "example_ko": "폭풍이 해안을 따라 파괴의 흔적을 남겼어.",
+  "nuance_ko": "destruction은 건물, 환경, 삶 등이 크게 부서지거나 없어지는 파괴를 뜻해요. widespread destruction(광범위한 파괴), the destruction of forests(숲의 파괴)처럼 써요. 불가산 명사로 쓰는 게 기본이에요. damage는 피해 정도이고, destruction은 완전히 파괴되는 것이라는 점이 달라요. 동사는 destroy이고, 형용사 destructive는 '파괴적인'(destructive behavior)이에요. 반대는 construction(건설)이에요. 'weapons of mass destruction'(대량살상무기)은 뉴스에 자주 나오는 표현이에요.",
+  "also": [
+   {
+    "w": "destructive",
+    "pos": "adj",
+    "ko": "파괴적인",
+    "en": "Anger can be very **destructive**."
+   }
+  ]
+ },
+ {
+  "w": "devastate",
+  "pos": "v",
+  "meaning_ko": "황폐화시키다, 큰 충격을 주다",
+  "example_en": "The earthquake **devastated** several small villages.",
+  "example_ko": "지진이 작은 마을 여러 곳을 초토화시켰어.",
+  "nuance_ko": "devastate는 지역이나 삶을 완전히 폐허로 만들거나, 사람에게 엄청난 정신적 충격을 준다는 뜻이에요. 자연재해와 전쟁 뉴스에서 자주 보여요. 수동태 'I was devastated'는 '큰 충격을 받아 무너졌다'는 뜻으로 일상에서도 강한 슬픔을 표현해요. damage나 destroy보다 훨씬 강하고 광범위한 피해를 가리켜요. 형용사 devastating은 '참혹한, 파괴적인'(a devastating loss)이에요. 명사 devastation은 '황폐, 참상'이에요.",
+  "also": [
+   {
+    "w": "devastating",
+    "pos": "adj",
+    "ko": "참혹한, 치명적인",
+    "en": "The news was absolutely **devastating**."
+   },
+   {
+    "w": "devastated",
+    "pos": "adj",
+    "ko": "큰 충격을 받은",
+    "en": "She was **devastated** by his death."
+   }
+  ]
+ },
+ {
+  "w": "device",
+  "pos": "n",
+  "meaning_ko": "기기, 장치",
+  "example_en": "Please turn off all electronic **devices** before takeoff.",
+  "example_ko": "이륙 전에 모든 전자기기를 꺼 주세요.",
+  "nuance_ko": "device는 특정 기능을 하도록 만든 장치나 기기예요. electronic device, mobile device, safety device처럼 써요. machine보다 작고 단순한 기기를 가리키는 경우가 많고, 스마트폰·태블릿 같은 전자기기를 통칭할 때 매우 자주 써요. 문학에서는 수사법을 뜻하는 literary device(문학적 장치)로 나와요. 'leave someone to their own devices'는 '알아서 하도록 내버려 두다'라는 관용구예요. 명사 device는 /dɪˈvaɪs/, 동사 devise(고안하다)는 /dɪˈvaɪz/로 발음과 철자가 달라요.",
+  "also": []
+ },
+ {
+  "w": "devote",
+  "pos": "v",
+  "meaning_ko": "바치다, 쏟다",
+  "example_en": "She **devotes** every weekend to volunteering at the shelter.",
+  "example_ko": "그녀는 주말마다 보호소에서 봉사하는 데 시간을 쏟아.",
+  "nuance_ko": "devote는 시간, 에너지, 관심을 특정 대상에 쏟는다는 뜻이에요. devote A to B 구문으로 쓰고, B에는 명사나 동명사가 와요(devote time to studying). 'devote yourself to ~'는 '~에 몰두하다'예요. dedicate와 거의 같지만 devote가 일상적인 노력과 시간 투자를 말할 때 더 자주 써요. 형용사 devoted는 '헌신적인, 애정이 깊은'(a devoted fan)이에요. 명사 devotion은 '헌신, 신앙심'이고 devotee는 '열렬한 팬, 신자'예요.",
+  "also": [
+   {
+    "w": "devoted",
+    "pos": "adj",
+    "ko": "헌신적인, 애정 깊은",
+    "en": "He's a **devoted** father of three."
+   },
+   {
+    "w": "devotion",
+    "pos": "n",
+    "ko": "헌신, 신앙심",
+    "en": "Her **devotion** to her family was clear."
+   }
+  ]
+ },
+ {
+  "w": "dialogue",
+  "pos": "n",
+  "meaning_ko": "대화, 대사",
+  "example_en": "The movie has some really funny **dialogue**.",
+  "example_ko": "그 영화에는 정말 웃긴 대사가 있어.",
+  "nuance_ko": "dialogue는 두 사람 이상의 대화나 영화·소설의 대사를 말해요. 정치·외교에서는 서로 이해하고 해결책을 찾기 위한 대화(open a dialogue, peace dialogue)를 뜻해요. conversation이 일상적인 대화라면 dialogue는 의견을 주고받는 의도가 있는 격식 있는 대화예요. 미국식은 dialog로도 써요. 컴퓨터에서는 팝업 창을 dialog box라고 불러요. 영화에서 말하는 대사 부분은 불가산으로 쓰는 경우가 많아요.",
+  "also": [
+   {
+    "w": "dialog",
+    "pos": "n",
+    "ko": "대화 (미국식)",
+    "en": "A **dialog** box appeared on the screen."
+   }
+  ]
+ },
+ {
+  "w": "dictate",
+  "pos": "v",
+  "meaning_ko": "받아쓰게 하다, 좌우하다",
+  "example_en": "The weather will **dictate** whether we go hiking.",
+  "example_ko": "등산을 갈지는 날씨가 좌우할 거야.",
+  "nuance_ko": "dictate에는 두 가지 뜻이 있어요. 하나는 상대에게 말을 불러 주어 받아쓰게 하는 것(dictate a letter)이고, 다른 하나는 명령하거나 결정을 좌우하는 것이에요. 'dictate terms'는 '조건을 일방적으로 강요하다', 'circumstances dictate'는 '상황이 결정한다'는 뜻이에요. 명사 dictation은 받아쓰기(시험)이고, dictator는 독재자, dictatorship은 독재 정권을 뜻해요. 모두 '말로 명령한다'는 같은 뿌리에서 나왔어요.",
+  "also": [
+   {
+    "w": "dictator",
+    "pos": "n",
+    "ko": "독재자",
+    "en": "The **dictator** ruled the country for thirty years."
+   },
+   {
+    "w": "dictation",
+    "pos": "n",
+    "ko": "받아쓰기",
+    "en": "We had a **dictation** test in class today."
+   }
+  ]
+ },
+ {
+  "w": "differ",
+  "pos": "v",
+  "meaning_ko": "다르다, 의견이 다르다",
+  "example_en": "Opinions **differ** on whether the policy actually works.",
+  "example_ko": "그 정책이 실제로 효과가 있는지에 대해서는 의견이 갈려.",
+  "nuance_ko": "differ는 서로 다르다는 뜻의 자동사예요. differ from ~(~와 다르다), differ in ~(~면에서 다르다), differ on ~(~에 대해 의견이 다르다)로 전치사가 다 달라요. 'We beg to differ.'는 정중하게 반대 의견을 말하는 격식 있는 표현이에요. be different from이 훨씬 일상적이고, differ는 약간 격식 있는 글에서 자주 보여요. 'differ greatly'(크게 다르다)처럼 부사와 함께 쓰는 경우가 많아요. 진행형으로 쓰지 않아요.",
+  "also": [
+   {
+    "w": "differing",
+    "pos": "adj",
+    "ko": "서로 다른",
+    "en": "The two sides had **differing** views."
+   }
+  ]
+ },
+ {
+  "w": "digital",
+  "pos": "adj",
+  "meaning_ko": "디지털의",
+  "example_en": "I prefer reading **digital** books on my tablet.",
+  "example_ko": "나는 태블릿으로 전자책 읽는 게 좋아.",
+  "nuance_ko": "digital은 숫자(0과 1)로 정보를 처리하는 방식을 가리켜요. digital camera, digital clock, digital media, digital marketing처럼 써요. 반대는 analog/analogue예요. digital age(디지털 시대), digital transformation(디지털 전환)처럼 요즘 사회 변화를 설명하는 표현으로도 자주 나와요. 'digital detox'는 스마트폰이나 SNS를 잠시 끊고 쉬는 것을 말해요. 원래 어원은 라틴어 '손가락(digit)'으로, 손가락으로 수를 센 데서 나왔어요.",
+  "also": []
+ },
+ {
+  "w": "dimension",
+  "pos": "n",
+  "meaning_ko": "차원, 치수, 측면",
+  "example_en": "There's a moral **dimension** to this problem we can't ignore.",
+  "example_ko": "이 문제에는 우리가 무시할 수 없는 도덕적 측면이 있어.",
+  "nuance_ko": "dimension은 길이, 너비, 높이 같은 공간의 치수, 그리고 문제나 상황의 한 측면을 뜻해요. three-dimensional(3차원의), the dimensions of the room(방의 크기)처럼 구체적으로 쓰이고, 추상적으로는 'add a new dimension to ~'(새로운 차원을 더하다), 'a human dimension'처럼 써요. aspect와 비슷하지만 dimension은 더 깊이 있는 층위를 암시해요. SF에서는 평행 세계를 뜻해서 'another dimension'이 자주 나와요.",
+  "also": [
+   {
+    "w": "dimensional",
+    "pos": "adj",
+    "ko": "차원의",
+    "en": "A cube is a three-**dimensional** shape."
+   }
+  ]
+ },
+ {
+  "w": "diplomat",
+  "pos": "n",
+  "meaning_ko": "외교관",
+  "example_en": "The **diplomat** spent years working in embassies abroad.",
+  "example_ko": "그 외교관은 해외 대사관에서 수년간 근무했어.",
+  "nuance_ko": "diplomat은 나라를 대표해 다른 나라와 외교 업무를 하는 외교관이에요. ambassador(대사)는 그중 가장 높은 직급이라 모든 diplomat이 ambassador는 아니에요. 비유적으로 어떤 사람이 갈등을 능숙하게 조정할 때 'He's a real diplomat'라고 하며, 말이 부드럽고 요령 있다는 칭찬이에요. 형용사 diplomatic은 외교의 뜻 외에 '요령 있는, 완곡한'(a diplomatic answer)이라는 뜻이 있어요. 부사는 diplomatically예요.",
+  "also": [
+   {
+    "w": "diplomatic",
+    "pos": "adj",
+    "ko": "외교의, 요령 있는",
+    "en": "She gave a very **diplomatic** answer."
+   }
+  ]
+ },
+ {
+  "w": "disabled",
+  "pos": "adj",
+  "meaning_ko": "장애가 있는, 사용 불능의",
+  "example_en": "The building has a ramp for **disabled** visitors.",
+  "example_ko": "그 건물에는 장애인 방문객을 위한 경사로가 있어.",
+  "nuance_ko": "disabled는 신체적·정신적 장애가 있는 사람을 가리키는 형용사로, 복수 'the disabled'는 점점 'people with disabilities'(장애를 가진 사람들)로 표현해 사람을 먼저 두는 게 예의로 여겨져요. 기기나 기능이 꺼져 있다는 뜻도 있어서 'The feature is disabled'는 기능이 비활성화됐다는 말이에요. 컴퓨터 설정에서 enabled의 반대로 자주 봐요. 명사는 disability(장애)예요. handicapped는 구식이라 피하는 경향이 있어요. 'disabled parking'은 장애인 주차 구역이에요.",
+  "also": [
+   {
+    "w": "disability",
+    "pos": "n",
+    "ko": "장애",
+    "en": "The law protects people with a **disability**."
+   },
+   {
+    "w": "disable",
+    "pos": "v",
+    "ko": "비활성화하다, 무력화하다",
+    "en": "You can **disable** notifications in the settings."
+   }
+  ]
+ },
+ {
+  "w": "disagree",
+  "pos": "v",
+  "meaning_ko": "동의하지 않다, 의견이 다르다",
+  "example_en": "I **disagree** with you, but I understand your point.",
+  "example_ko": "난 네 의견에 동의하진 않지만 네 요점은 이해해.",
+  "nuance_ko": "disagree는 상대 의견에 동의하지 않는다는 뜻이에요. disagree with someone, disagree about/on something 구문으로 써요. 한국 학습자가 'I don't agree'와 'I disagree'의 강도 차이를 헷갈리는데, disagree가 조금 더 직접적이고 단호해요. 정중하게 말하려면 'I see your point, but I disagree.'나 'I'm afraid I disagree.'를 써요. 'agree to disagree'는 서로 의견이 다른 채로 넘어가자는 뜻의 관용구예요. 명사는 disagreement(의견 충돌)예요.",
+  "also": [
+   {
+    "w": "disagreement",
+    "pos": "n",
+    "ko": "의견 충돌",
+    "en": "They had a **disagreement** over money."
+   }
+  ]
+ },
+ {
+  "w": "disaster",
+  "pos": "n",
+  "meaning_ko": "재난, 참사",
+  "example_en": "The flood was the worst natural **disaster** in the region's history.",
+  "example_ko": "그 홍수는 이 지역 역사상 최악의 자연재해였어.",
+  "nuance_ko": "disaster는 큰 피해를 주는 재난이나 참사예요. natural disaster(자연재해), disaster relief(재난 구호), disaster area(재난 지역)처럼 써요. 일상 구어체에서는 일이 완전히 망한 상황을 과장해서 'The party was a disaster'(파티가 완전 엉망이었어)라고 해요. accident는 사고이고, disaster는 훨씬 큰 규모의 재난이에요. 형용사 disastrous는 '처참한'(a disastrous result)으로, 부사는 disastrously예요. 'recipe for disaster'(재앙의 지름길)는 관용구예요.",
+  "also": [
+   {
+    "w": "disastrous",
+    "pos": "adj",
+    "ko": "처참한, 재앙적인",
+    "en": "The decision had **disastrous** consequences."
+   }
+  ]
+ },
+ {
+  "w": "disc",
+  "pos": "n",
+  "meaning_ko": "원반, 디스크",
+  "example_en": "He slipped a **disc** in his back while lifting the box.",
+  "example_ko": "그는 상자를 들다가 허리 디스크가 탈출했어.",
+  "nuance_ko": "disc는 평평한 원반 모양의 물체예요. 영국식 철자는 disc, 미국식은 disk이며, 컴퓨터에서는 보통 disk를 써요(hard disk). CD나 DVD를 가리킬 때는 disc가 일반적이에요(compact disc). 의학에서는 척추 사이의 '디스크'(a slipped disc)이고, 스포츠에서는 원반던지기의 원반이에요(discus). frisbee도 flying disc라고 불러요. 철자 disc와 disk 중 문맥에 맞는 걸 고르는 게 중요해요.",
+  "also": [
+   {
+    "w": "disk",
+    "pos": "n",
+    "ko": "디스크 (컴퓨터)",
+    "en": "My hard **disk** is almost full."
+   }
+  ]
+ },
+ {
+  "w": "discharge",
+  "pos": "v",
+  "meaning_ko": "퇴원시키다, 방출하다",
+  "example_en": "The hospital will **discharge** him tomorrow morning.",
+  "example_ko": "병원에서 내일 아침에 그를 퇴원시킬 거야.",
+  "nuance_ko": "discharge는 어딘가에서 내보내거나 풀어준다는 뜻이에요. 환자를 퇴원시키고(be discharged from the hospital), 군인을 전역시키며(be discharged from the army), 의무를 이행하는 것(discharge your duties)에도 써요. 액체나 가스를 배출하는 것(discharge waste into the river)과 전기가 방전되는 것도 뜻해요. 명사 discharge는 /ˈdɪstʃɑːrdʒ/로 '퇴원, 제대, 배출물'이에요. 문맥에 따라 뜻이 크게 달라지는 다의어예요.",
+  "also": [
+   {
+    "w": "discharged",
+    "pos": "adj",
+    "ko": "퇴원한, 방출된",
+    "en": "She was **discharged** from the hospital yesterday."
+   }
+  ]
+ },
+ {
+  "w": "discount",
+  "pos": "n",
+  "meaning_ko": "할인",
+  "example_en": "Students get a ten percent **discount** at this shop.",
+  "example_ko": "이 가게는 학생에게 10퍼센트 할인을 해 줘.",
+  "nuance_ko": "discount는 정가에서 깎아 주는 할인이에요. get a discount, give a discount, at a discount, discount price처럼 써요. sale은 상점 전체나 일정 기간의 할인 판매 행사고, discount는 가격에서 빠지는 금액이나 비율이라는 점이 달라요. 동사 discount는 /dɪsˈkaʊnt/로 '무시하다, 대수롭지 않게 여기다'라는 뜻이 있어서 'You can't discount the possibility'(가능성을 배제할 수 없다)처럼 써요. '할인을 해 주다'는 offer a discount가 자연스러워요.",
+  "also": [
+   {
+    "w": "discounted",
+    "pos": "adj",
+    "ko": "할인된",
+    "en": "Tickets are available at **discounted** prices."
+   }
+  ]
+ },
+ {
+  "w": "discourse",
+  "pos": "n",
+  "meaning_ko": "담론, 담화",
+  "example_en": "Public **discourse** has become more divided in recent years.",
+  "example_ko": "최근 몇 년간 공론장의 담론이 더 양극화됐어.",
+  "nuance_ko": "discourse는 어떤 주제에 대해 사회나 집단에서 오가는 말과 글의 흐름, 즉 담론이에요. public discourse(공론), political discourse(정치 담론), academic discourse처럼 학술적·정치적 글에서 자주 나와요. 언어학에서는 문장보다 큰 단위의 말, 즉 담화를 뜻하고 discourse analysis(담화 분석)가 있어요. 동사로는 격식 있게 '장황하게 이야기하다'(discourse on a topic)라는 뜻이에요. 일상에서는 conversation이나 discussion이 훨씬 자연스러워요.",
+  "also": []
+ },
+ {
+  "w": "discreet",
+  "pos": "adj",
+  "meaning_ko": "신중한, 눈에 띄지 않는",
+  "example_en": "Please be **discreet** about what you heard in the meeting.",
+  "example_ko": "회의에서 들은 얘기는 신중하게 다뤄 줘.",
+  "nuance_ko": "discreet은 말이나 행동을 조심스럽게 해서 비밀을 지키거나 남의 눈에 띄지 않게 한다는 뜻이에요. a discreet inquiry(조용한 문의), discreet about ~(~에 대해 입이 무거운)처럼 써요. 칭찬하는 의미로 쓰이고 반대는 indiscreet(경솔한)예요. discrete(분리된, 별개의)와 철자와 발음이 같아서 매우 헷갈리는 단어쌍이에요. discreet는 'ee', discrete는 'te'로 끝난다는 점으로 구분해요. 명사 discretion은 '재량, 신중함'으로 'at your discretion'(당신 재량으로)이 계약서에 자주 나와요.",
+  "also": [
+   {
+    "w": "discreetly",
+    "pos": "adv",
+    "ko": "신중하게, 은밀하게",
+    "en": "She **discreetly** left the room."
+   },
+   {
+    "w": "discretion",
+    "pos": "n",
+    "ko": "재량, 신중함",
+    "en": "It's left to the manager's **discretion**."
+   }
+  ]
+ },
+ {
+  "w": "discriminate",
+  "pos": "v",
+  "meaning_ko": "차별하다, 구별하다",
+  "example_en": "It's illegal to **discriminate** against people because of their age.",
+  "example_ko": "나이를 이유로 사람을 차별하는 건 불법이야.",
+  "nuance_ko": "discriminate는 부정적으로는 인종, 성별, 나이 등을 이유로 사람을 부당하게 차별한다는 뜻이고, 'discriminate against ~'로 써요. 중립적으로는 '구별하다, 식별하다'(discriminate between right and wrong)라는 뜻도 있어서 'discriminate between A and B'로 써요. 뉴스에서는 거의 차별의 뜻으로 나와요. 명사 discrimination은 racial discrimination(인종 차별), age discrimination처럼 법적 이슈로 자주 보여요. 형용사 discriminating은 '안목 있는'(a discriminating buyer)이라는 칭찬이에요.",
+  "also": [
+   {
+    "w": "discrimination",
+    "pos": "n",
+    "ko": "차별",
+    "en": "The company faces a case of age **discrimination**."
+   },
+   {
+    "w": "discriminatory",
+    "pos": "adj",
+    "ko": "차별적인",
+    "en": "The policy was ruled **discriminatory**."
+   }
+  ]
+ },
+ {
+  "w": "dismiss",
+  "pos": "v",
+  "meaning_ko": "해고하다, 일축하다",
+  "example_en": "The judge **dismissed** the case due to lack of evidence.",
+  "example_ko": "판사는 증거가 부족해서 사건을 기각했어.",
+  "nuance_ko": "dismiss에는 여러 뜻이 있어요. 직원을 해고하는 것(be dismissed from a job), 의견이나 가능성을 일축하는 것(dismiss the idea), 법원이 사건을 기각하는 것(dismiss a case), 학생이나 회의 참석자를 해산시키는 것(Class dismissed)이에요. fire는 구어체 해고이고 dismiss는 공식적이고 격식 있는 표현이에요. 'dismiss it as ~'는 '~라며 무시하다'로 'dismiss the rumors as nonsense'처럼 써요. 명사 dismissal은 해고, 기각이에요.",
+  "also": [
+   {
+    "w": "dismissal",
+    "pos": "n",
+    "ko": "해고, 기각",
+    "en": "His **dismissal** came as a shock."
+   },
+   {
+    "w": "dismissive",
+    "pos": "adj",
+    "ko": "무시하는",
+    "en": "She was **dismissive** of my suggestion."
+   }
+  ]
+ },
+ {
+  "w": "disorder",
+  "pos": "n",
+  "meaning_ko": "장애, 무질서",
+  "example_en": "He was diagnosed with a sleep **disorder** last year.",
+  "example_ko": "그는 작년에 수면 장애 진단을 받았어.",
+  "nuance_ko": "disorder는 의학에서 몸이나 정신의 기능에 이상이 생긴 '장애'이고, 사회적으로는 질서가 무너진 '무질서, 소요'를 뜻해요. eating disorder(섭식 장애), anxiety disorder(불안 장애)처럼 병명에 자주 붙어요. 'civil disorder'는 시민 소요, 'in disorder'는 어질러진 상태예요. disease는 병원체로 인한 질병을 뜻하는 경우가 많고, disorder는 기능이 정상에서 벗어난 상태를 가리켜요. 형용사 disorderly는 '난동을 부리는'(disorderly conduct)이에요.",
+  "also": [
+   {
+    "w": "disorderly",
+    "pos": "adj",
+    "ko": "난동을 부리는",
+    "en": "He was arrested for **disorderly** conduct."
+   }
+  ]
+ },
+ {
+  "w": "display",
+  "pos": "v",
+  "meaning_ko": "진열하다, 보여주다",
+  "example_en": "The museum will **display** the painting for the first time.",
+  "example_ko": "박물관이 그 그림을 처음으로 전시할 거야.",
+  "nuance_ko": "display는 사람들이 볼 수 있게 내놓고 보여준다는 뜻이에요. 상품 진열(display goods), 작품 전시, 화면 표시(display the results), 감정이나 능력을 드러내는 것(display courage)에 모두 써요. 명사로는 '진열, 전시, 화면'이라서 'on display'(전시 중)와 'a display screen'이 자주 나와요. show보다 격식 있고 일부러 내보인다는 느낌이에요. 컴퓨터와 스마트폰에서는 모니터나 화면 자체를 display라고 부르기도 해요.",
+  "also": [
+   {
+    "w": "displayed",
+    "pos": "adj",
+    "ko": "진열된, 표시된",
+    "en": "The results are **displayed** on the screen."
+   }
+  ]
+ },
+ {
+  "w": "dispose",
+  "pos": "v",
+  "meaning_ko": "처분하다, 버리다",
+  "example_en": "Please **dispose** of the batteries properly at the recycling center.",
+  "example_ko": "건전지는 재활용 센터에서 올바르게 폐기해 주세요.",
+  "nuance_ko": "dispose는 'dispose of ~' 형태로 '~을 처분하다, 없애다'라는 뜻이 가장 흔해요. 쓰레기나 폐기물을 버리는 맥락(waste disposal, dispose of waste)에서 자주 나와요. 이때 전치사 of가 반드시 필요하다는 점이 중요해요. throw away보다 격식 있고 처리 방법까지 고려한 폐기라는 느낌이에요. 'be disposed to ~'는 '~할 마음이 있다'라는 격식 있는 표현이에요. 형용사 disposable은 '일회용의'(disposable cups)로 일상에서 많이 보여요.",
+  "also": [
+   {
+    "w": "disposal",
+    "pos": "n",
+    "ko": "처분, 폐기",
+    "en": "Proper waste **disposal** protects the environment."
+   },
+   {
+    "w": "disposable",
+    "pos": "adj",
+    "ko": "일회용의",
+    "en": "Many people are avoiding **disposable** plastic."
+   }
+  ]
+ },
+ {
+  "w": "dispute",
+  "pos": "n",
+  "meaning_ko": "분쟁, 논쟁",
+  "example_en": "The two countries are in a **dispute** over the border.",
+  "example_ko": "두 나라가 국경을 두고 분쟁 중이야.",
+  "nuance_ko": "dispute는 두 쪽이 의견이나 이해관계를 놓고 오래 다투는 분쟁이에요. a legal dispute(법적 분쟁), a labor dispute(노동 분쟁), in dispute(논쟁 중인)처럼 써요. 동사로는 '이의를 제기하다, 반박하다'(dispute the facts)이고 /dɪˈspjuːt/로 강세가 뒤에 와요. 명사는 /dɪˈspjuːt/ 또는 /ˈdɪspjuːt/로 둘 다 쓰여요. argument는 말다툼이고, dispute는 공식적이거나 쟁점이 분명한 분쟁이라는 차이가 있어요. 형용사 disputed는 '논란이 되는'(disputed territory)이에요.",
+  "also": [
+   {
+    "w": "disputed",
+    "pos": "adj",
+    "ko": "논란이 되는",
+    "en": "The **disputed** territory has been a source of conflict."
+   },
+   {
+    "w": "undisputed",
+    "pos": "adj",
+    "ko": "이론의 여지가 없는",
+    "en": "She is the **undisputed** champion."
+   }
+  ]
+ },
+ {
+  "w": "disrupt",
+  "pos": "v",
+  "meaning_ko": "방해하다, 혼란을 일으키다",
+  "example_en": "Heavy snow **disrupted** train services across the region.",
+  "example_ko": "폭설로 그 지역 전역의 열차 운행이 차질을 빚었어.",
+  "nuance_ko": "disrupt는 정상적인 흐름이나 진행을 방해해서 흐트러뜨린다는 뜻이에요. 수업·회의·교통·공급망의 흐름이 끊기는 상황에 두루 써요. 'disrupt the meeting', 'disrupt supply chains'처럼요. 스타트업·기술 업계에서는 기존 시장 질서를 뒤집는다는 긍정적 뉘앙스로 쓰여서 'disruptive innovation'(파괴적 혁신)이라고 해요. interrupt는 일시적으로 끼어들어 멈추게 하는 것이고, disrupt는 더 크게 질서를 어지럽히는 거예요. 명사는 disruption이에요.",
+  "also": [
+   {
+    "w": "disruption",
+    "pos": "n",
+    "ko": "혼란, 중단",
+    "en": "The strike caused major **disruption** to flights."
+   },
+   {
+    "w": "disruptive",
+    "pos": "adj",
+    "ko": "방해되는, 파괴적인",
+    "en": "One **disruptive** student can ruin a class."
+   }
+  ]
+ }
+]

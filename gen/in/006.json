@@ -1,0 +1,1146 @@
+[
+ {
+  "w": "owned",
+  "lvl": "1k",
+  "forms": [
+   "owner",
+   "owners",
+   "ownership",
+   "owns",
+   "owning"
+  ]
+ },
+ {
+  "w": "pack",
+  "lvl": "1k",
+  "forms": [
+   "package",
+   "packed",
+   "packages",
+   "packaging",
+   "packing",
+   "packs",
+   "packaged",
+   "unpacked"
+  ]
+ },
+ {
+  "w": "page",
+  "lvl": "1k",
+  "forms": [
+   "pp",
+   "pages"
+  ]
+ },
+ {
+  "w": "pain",
+  "lvl": "1k",
+  "forms": [
+   "painful",
+   "pains",
+   "painfully",
+   "pained",
+   "painless",
+   "painlessly",
+   "paining",
+   "painfulness"
+  ]
+ },
+ {
+  "w": "paint",
+  "lvl": "1k",
+  "forms": [
+   "painting",
+   "paintings",
+   "painted",
+   "painter",
+   "painters",
+   "paints",
+   "repainted",
+   "painterly"
+  ]
+ },
+ {
+  "w": "pair",
+  "lvl": "1k",
+  "forms": [
+   "pairs",
+   "paired",
+   "pairing",
+   "unpaired",
+   "pairings"
+  ]
+ },
+ {
+  "w": "paper",
+  "lvl": "1k",
+  "forms": [
+   "papers",
+   "papered",
+   "paperless",
+   "papering",
+   "papery"
+  ]
+ },
+ {
+  "w": "pardon",
+  "lvl": "1k",
+  "forms": [
+   "pardoned",
+   "pardons",
+   "unpardonable",
+   "pardoning",
+   "pardonable"
+  ]
+ },
+ {
+  "w": "parent",
+  "lvl": "1k",
+  "forms": [
+   "parents",
+   "parental",
+   "parenthood",
+   "parenting",
+   "parentage",
+   "parented",
+   "parentless"
+  ]
+ },
+ {
+  "w": "park",
+  "lvl": "1k",
+  "forms": [
+   "parking",
+   "parks",
+   "parked"
+  ]
+ },
+ {
+  "w": "part",
+  "lvl": "1k",
+  "forms": [
+   "parts",
+   "partly",
+   "partial",
+   "partially",
+   "parted",
+   "parting",
+   "pt",
+   "pts"
+  ]
+ },
+ {
+  "w": "particular",
+  "lvl": "1k",
+  "forms": [
+   "particularly",
+   "particulars",
+   "particularity",
+   "particularities",
+   "particularistic",
+   "particularism",
+   "particularization",
+   "particularised"
+  ]
+ },
+ {
+  "w": "party",
+  "lvl": "1k",
+  "forms": [
+   "parties",
+   "partying",
+   "partied"
+  ]
+ },
+ {
+  "w": "pass",
+  "lvl": "1k",
+  "forms": [
+   "passed",
+   "passing",
+   "passes",
+   "passers",
+   "passer",
+   "impassable",
+   "passable",
+   "passably"
+  ]
+ },
+ {
+  "w": "past",
+  "lvl": "1k",
+  "forms": [
+   "pasts"
+  ]
+ },
+ {
+  "w": "pay",
+  "lvl": "1k",
+  "forms": [
+   "paid",
+   "payment",
+   "paying",
+   "payments",
+   "payable",
+   "pays",
+   "unpaid",
+   "payers"
+  ]
+ },
+ {
+  "w": "penny",
+  "lvl": "1k",
+  "forms": [
+   "pence",
+   "pennies",
+   "penniless"
+  ]
+ },
+ {
+  "w": "people",
+  "lvl": "1k",
+  "forms": [
+   "peoples",
+   "peopled",
+   "peopling"
+  ]
+ },
+ {
+  "w": "perfect",
+  "lvl": "1k",
+  "forms": [
+   "perfectly",
+   "perfection",
+   "imperfect",
+   "perfected",
+   "imperfections",
+   "imperfectly",
+   "perfectionist",
+   "perfecting"
+  ]
+ },
+ {
+  "w": "perhaps",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "person",
+  "lvl": "1k",
+  "forms": [
+   "personal",
+   "persons",
+   "personally",
+   "interpersonal",
+   "personhood",
+   "personalism",
+   "personalistic"
+  ]
+ },
+ {
+  "w": "photograph",
+  "lvl": "1k",
+  "forms": [
+   "photographs",
+   "photo",
+   "photography",
+   "photographer",
+   "photographic",
+   "photos",
+   "photographers",
+   "photographed"
+  ]
+ },
+ {
+  "w": "pick",
+  "lvl": "1k",
+  "forms": [
+   "picked",
+   "picking",
+   "picks",
+   "pickings",
+   "pickers",
+   "picker",
+   "picky",
+   "unpick"
+  ]
+ },
+ {
+  "w": "picture",
+  "lvl": "1k",
+  "forms": [
+   "pictures",
+   "pictured",
+   "pic",
+   "picturing",
+   "pics"
+  ]
+ },
+ {
+  "w": "piece",
+  "lvl": "1k",
+  "forms": [
+   "pieces",
+   "piecing",
+   "pieced"
+  ]
+ },
+ {
+  "w": "place",
+  "lvl": "1k",
+  "forms": [
+   "places",
+   "placed",
+   "placing",
+   "placement",
+   "placements",
+   "placings",
+   "unplaced"
+  ]
+ },
+ {
+  "w": "plan",
+  "lvl": "1k",
+  "forms": [
+   "planning",
+   "plans",
+   "planned",
+   "planners",
+   "planner",
+   "unplanned"
+  ]
+ },
+ {
+  "w": "plant",
+  "lvl": "1k",
+  "forms": [
+   "plants",
+   "planted",
+   "planting",
+   "planters",
+   "planter",
+   "replanting",
+   "plantings",
+   "replanted"
+  ]
+ },
+ {
+  "w": "play",
+  "lvl": "1k",
+  "forms": [
+   "played",
+   "playing",
+   "players",
+   "player",
+   "plays",
+   "replay",
+   "playful",
+   "playfully"
+  ]
+ },
+ {
+  "w": "please",
+  "lvl": "1k",
+  "forms": [
+   "pleased",
+   "pleasing",
+   "pleases",
+   "pleasingly",
+   "unpleasing",
+   "unpleased"
+  ]
+ },
+ {
+  "w": "plenty",
+  "lvl": "1k",
+  "forms": [
+   "plentiful",
+   "plentifully"
+  ]
+ },
+ {
+  "w": "plus",
+  "lvl": "1k",
+  "forms": [
+   "pluses"
+  ]
+ },
+ {
+  "w": "point",
+  "lvl": "1k",
+  "forms": [
+   "points",
+   "pointed",
+   "pointing",
+   "pointless",
+   "pointer",
+   "pointers",
+   "pointedly",
+   "pointy"
+  ]
+ },
+ {
+  "w": "police",
+  "lvl": "1k",
+  "forms": [
+   "policing",
+   "policed",
+   "polices"
+  ]
+ },
+ {
+  "w": "poor",
+  "lvl": "1k",
+  "forms": [
+   "poorly",
+   "poorer",
+   "poorest",
+   "poorness"
+  ]
+ },
+ {
+  "w": "pop",
+  "lvl": "1k",
+  "forms": [
+   "popped",
+   "pops",
+   "popping"
+  ]
+ },
+ {
+  "w": "position",
+  "lvl": "1k",
+  "forms": [
+   "positions",
+   "positioned",
+   "positioning",
+   "positional",
+   "reposition",
+   "repositioned",
+   "repositioning",
+   "repositions"
+  ]
+ },
+ {
+  "w": "possible",
+  "lvl": "1k",
+  "forms": [
+   "possibly",
+   "possibility",
+   "impossible",
+   "possibilities",
+   "impossibility",
+   "impossibly",
+   "possibles"
+  ]
+ },
+ {
+  "w": "post",
+  "lvl": "1k",
+  "forms": [
+   "posts",
+   "postal",
+   "posted",
+   "postage",
+   "posting",
+   "postings",
+   "postages"
+  ]
+ },
+ {
+  "w": "pot",
+  "lvl": "1k",
+  "forms": [
+   "pots",
+   "pottery",
+   "potter",
+   "potted",
+   "potting",
+   "potters",
+   "potteries",
+   "potful"
+  ]
+ },
+ {
+  "w": "pound",
+  "lvl": "1k",
+  "forms": [
+   "pounds"
+  ]
+ },
+ {
+  "w": "power",
+  "lvl": "1k",
+  "forms": [
+   "powerful",
+   "powers",
+   "powered",
+   "powerless",
+   "powerfully",
+   "powerlessness",
+   "powering",
+   "powerlessly"
+  ]
+ },
+ {
+  "w": "prepare",
+  "lvl": "1k",
+  "forms": [
+   "prepared",
+   "preparation",
+   "preparing",
+   "preparations",
+   "preparatory",
+   "prepares",
+   "unprepared",
+   "prep"
+  ]
+ },
+ {
+  "w": "present",
+  "lvl": "1k",
+  "forms": [
+   "presently"
+  ]
+ },
+ {
+  "w": "presented",
+  "lvl": "1k",
+  "forms": [
+   "presentation",
+   "presents",
+   "presenting",
+   "presentations",
+   "presenter",
+   "presenters",
+   "presentable",
+   "presentational"
+  ]
+ },
+ {
+  "w": "press",
+  "lvl": "1k",
+  "forms": [
+   "pressed",
+   "pressing",
+   "presses",
+   "unpressed"
+  ]
+ },
+ {
+  "w": "pretty",
+  "lvl": "1k",
+  "forms": [
+   "prettiest",
+   "prettier",
+   "prettily",
+   "prettiness"
+  ]
+ },
+ {
+  "w": "price",
+  "lvl": "1k",
+  "forms": [
+   "prices",
+   "priced",
+   "pricing",
+   "priceless",
+   "pricey",
+   "unpriced"
+  ]
+ },
+ {
+  "w": "prince",
+  "lvl": "1k",
+  "forms": [
+   "princess",
+   "princes",
+   "princely",
+   "princesses",
+   "princelings",
+   "princeling",
+   "princedom",
+   "princedoms"
+  ]
+ },
+ {
+  "w": "prison",
+  "lvl": "1k",
+  "forms": [
+   "prisoners",
+   "prisoner",
+   "imprisonment",
+   "prisons",
+   "imprisoned",
+   "imprison",
+   "imprisoning",
+   "imprisons"
+  ]
+ },
+ {
+  "w": "probably",
+  "lvl": "1k",
+  "forms": [
+   "probability",
+   "probable",
+   "probabilities",
+   "improbable",
+   "probabilistic",
+   "improbably",
+   "improbability",
+   "probables"
+  ]
+ },
+ {
+  "w": "problem",
+  "lvl": "1k",
+  "forms": [
+   "problems",
+   "problematic",
+   "problematical",
+   "unproblematic",
+   "problematically"
+  ]
+ },
+ {
+  "w": "programme",
+  "lvl": "1k",
+  "forms": [
+   "programmes",
+   "program",
+   "programs",
+   "programming",
+   "programmed",
+   "programmer",
+   "programmers",
+   "programmable"
+  ]
+ },
+ {
+  "w": "promise",
+  "lvl": "1k",
+  "forms": [
+   "promised",
+   "promises",
+   "promising",
+   "unpromising"
+  ]
+ },
+ {
+  "w": "proper",
+  "lvl": "1k",
+  "forms": [
+   "properly",
+   "improper",
+   "improperly"
+  ]
+ },
+ {
+  "w": "protect",
+  "lvl": "1k",
+  "forms": [
+   "protection",
+   "protected",
+   "protective",
+   "protecting",
+   "protects",
+   "protector",
+   "protectionism",
+   "unprotected"
+  ]
+ },
+ {
+  "w": "public",
+  "lvl": "1k",
+  "forms": [
+   "publicly",
+   "publics",
+   "publically"
+  ]
+ },
+ {
+  "w": "pull",
+  "lvl": "1k",
+  "forms": [
+   "pulled",
+   "pulling",
+   "pulls"
+  ]
+ },
+ {
+  "w": "push",
+  "lvl": "1k",
+  "forms": [
+   "pushed",
+   "pushing",
+   "pushes",
+   "pushy",
+   "pushers",
+   "pusher"
+  ]
+ },
+ {
+  "w": "put",
+  "lvl": "1k",
+  "forms": [
+   "putting",
+   "puts"
+  ]
+ },
+ {
+  "w": "quarter",
+  "lvl": "1k",
+  "forms": [
+   "quarters",
+   "quarterly",
+   "quartered",
+   "quartering"
+  ]
+ },
+ {
+  "w": "queen",
+  "lvl": "1k",
+  "forms": [
+   "queens",
+   "queene",
+   "queenly"
+  ]
+ },
+ {
+  "w": "question",
+  "lvl": "1k",
+  "forms": [
+   "questions",
+   "questioned",
+   "questioning",
+   "questionable",
+   "unquestionably",
+   "unquestioned",
+   "questioner",
+   "questioningly"
+  ]
+ },
+ {
+  "w": "quick",
+  "lvl": "1k",
+  "forms": [
+   "quickly",
+   "quicker",
+   "quickest",
+   "quickened",
+   "quickening",
+   "quicken",
+   "quickie",
+   "quickness"
+  ]
+ },
+ {
+  "w": "quiet",
+  "lvl": "1k",
+  "forms": [
+   "quietly",
+   "quieter",
+   "quietness",
+   "quietened",
+   "quieten",
+   "quietest",
+   "quietening",
+   "quieted"
+  ]
+ },
+ {
+  "w": "quite",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "rabbit",
+  "lvl": "1k",
+  "forms": [
+   "rabbits",
+   "rabbitting",
+   "rabbitted",
+   "rabbitter",
+   "rabbitters",
+   "rabbiter",
+   "rabbiters"
+  ]
+ },
+ {
+  "w": "race",
+  "lvl": "1k",
+  "forms": [
+   "racing",
+   "races",
+   "raced",
+   "racer",
+   "racers"
+  ]
+ },
+ {
+  "w": "radio",
+  "lvl": "1k",
+  "forms": [
+   "radios",
+   "radioed",
+   "radioing"
+  ]
+ },
+ {
+  "w": "rain",
+  "lvl": "1k",
+  "forms": [
+   "raining",
+   "rains",
+   "rained",
+   "rainy",
+   "rainier",
+   "rainiest"
+  ]
+ },
+ {
+  "w": "raise",
+  "lvl": "1k",
+  "forms": [
+   "raised",
+   "raising",
+   "raises",
+   "raiser",
+   "raisers"
+  ]
+ },
+ {
+  "w": "rate",
+  "lvl": "1k",
+  "forms": [
+   "rates",
+   "rating",
+   "rated",
+   "ratings",
+   "rateable",
+   "rater",
+   "raters"
+  ]
+ },
+ {
+  "w": "rather",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "reach",
+  "lvl": "1k",
+  "forms": [
+   "reached",
+   "reaching",
+   "reaches"
+  ]
+ },
+ {
+  "w": "read",
+  "lvl": "1k",
+  "forms": [
+   "reading",
+   "readers",
+   "reader",
+   "reads",
+   "readings",
+   "readable",
+   "readability",
+   "unreadable"
+  ]
+ },
+ {
+  "w": "ready",
+  "lvl": "1k",
+  "forms": [
+   "readily",
+   "readiness",
+   "readies",
+   "readying",
+   "readied",
+   "readier",
+   "unready",
+   "readiest"
+  ]
+ },
+ {
+  "w": "real",
+  "lvl": "1k",
+  "forms": [
+   "reality",
+   "realistic",
+   "realism",
+   "realities",
+   "unrealistic",
+   "realist",
+   "realistically",
+   "unreal"
+  ]
+ },
+ {
+  "w": "realise",
+  "lvl": "1k",
+  "forms": [
+   "realised",
+   "realized",
+   "realize",
+   "realising",
+   "realisation",
+   "realization",
+   "realizing",
+   "realises"
+  ]
+ },
+ {
+  "w": "really",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "reason",
+  "lvl": "1k",
+  "forms": [
+   "reasons",
+   "reasonable",
+   "reasonably",
+   "reasoning",
+   "unreasonable",
+   "reasoned",
+   "reasonableness",
+   "unreasonably"
+  ]
+ },
+ {
+  "w": "recent",
+  "lvl": "1k",
+  "forms": [
+   "recently"
+  ]
+ },
+ {
+  "w": "record",
+  "lvl": "1k",
+  "forms": [
+   "records",
+   "recorded",
+   "recording",
+   "recordings",
+   "recorder",
+   "recorders",
+   "unrecorded",
+   "prerecorded"
+  ]
+ },
+ {
+  "w": "red",
+  "lvl": "1k",
+  "forms": [
+   "reds",
+   "reddish",
+   "reddened",
+   "redness",
+   "reddy",
+   "redder",
+   "reddening",
+   "redden"
+  ]
+ },
+ {
+  "w": "relate",
+  "lvl": "1k",
+  "forms": [
+   "relationship",
+   "relations",
+   "related",
+   "relation",
+   "relationships",
+   "relating",
+   "relates",
+   "relational"
+  ]
+ },
+ {
+  "w": "remember",
+  "lvl": "1k",
+  "forms": [
+   "remembered",
+   "remembering",
+   "remembers",
+   "remembrance",
+   "remembrances"
+  ]
+ },
+ {
+  "w": "rent",
+  "lvl": "1k",
+  "forms": [
+   "rented",
+   "rents",
+   "rental",
+   "renting",
+   "rentals",
+   "rentable",
+   "renter",
+   "renters"
+  ]
+ },
+ {
+  "w": "reply",
+  "lvl": "1k",
+  "forms": [
+   "replied",
+   "replies",
+   "replying"
+  ]
+ },
+ {
+  "w": "report",
+  "lvl": "1k",
+  "forms": [
+   "reported",
+   "reports",
+   "reporting",
+   "reportedly",
+   "reporter",
+   "reporters",
+   "unreported",
+   "reportage"
+  ]
+ },
+ {
+  "w": "responsible",
+  "lvl": "1k",
+  "forms": [
+   "responsibility",
+   "responsibilities",
+   "irresponsible",
+   "responsibly",
+   "irresponsibly"
+  ]
+ },
+ {
+  "w": "rest",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "rested",
+  "lvl": "1k",
+  "forms": [
+   "resting",
+   "rests",
+   "restless",
+   "restlessly",
+   "restlessness",
+   "restful",
+   "restfully",
+   "restfulness"
+  ]
+ },
+ {
+  "w": "return",
+  "lvl": "1k",
+  "forms": [
+   "returned",
+   "returning",
+   "returns",
+   "returners",
+   "returnable",
+   "returner",
+   "returnees",
+   "unreturned"
+  ]
+ },
+ {
+  "w": "rich",
+  "lvl": "1k",
+  "forms": [
+   "richer",
+   "richest",
+   "richly",
+   "richness",
+   "riches"
+  ]
+ },
+ {
+  "w": "rid",
+  "lvl": "1k",
+  "forms": [
+   "ridding",
+   "rids"
+  ]
+ },
+ {
+  "w": "ride",
+  "lvl": "1k",
+  "forms": [
+   "riding",
+   "rode",
+   "rider",
+   "riders",
+   "ridden",
+   "rides",
+   "rideable",
+   "ridership"
+  ]
+ },
+ {
+  "w": "right",
+  "lvl": "1k",
+  "forms": [
+   "rightist",
+   "rightists",
+   "righthand",
+   "rightmost",
+   "righthanded",
+   "righthander",
+   "righthanders"
+  ]
+ },
+ {
+  "w": "rights",
+  "lvl": "1k",
+  "forms": [
+   "rightly",
+   "rt",
+   "rightful",
+   "rightness",
+   "rightfully",
+   "righted",
+   "righting",
+   "righto"
+  ]
+ },
+ {
+  "w": "ring",
+  "lvl": "1k",
+  "forms": [
+   "rang",
+   "rings",
+   "ringing",
+   "rung",
+   "ringed"
+  ]
+ },
+ {
+  "w": "rise",
+  "lvl": "1k",
+  "forms": [
+   "rose",
+   "rising",
+   "rises",
+   "risen",
+   "risers",
+   "riser",
+   "risings"
+  ]
+ },
+ {
+  "w": "river",
+  "lvl": "1k",
+  "forms": [
+   "rivers"
+  ]
+ }
+]

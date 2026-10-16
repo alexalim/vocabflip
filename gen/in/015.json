@@ -1,0 +1,1021 @@
+[
+ {
+  "w": "knowledge",
+  "lvl": "2k",
+  "forms": [
+   "knowledgeable",
+   "knowledgeably",
+   "knowledges",
+   "knowledgable"
+  ]
+ },
+ {
+  "w": "laboratory",
+  "lvl": "2k",
+  "forms": [
+   "laboratories",
+   "lab",
+   "labs"
+  ]
+ },
+ {
+  "w": "labour",
+  "lvl": "2k",
+  "forms": [
+   "labourers",
+   "labouring",
+   "labourer",
+   "labours",
+   "laboured",
+   "labor",
+   "labourism",
+   "labored"
+  ]
+ },
+ {
+  "w": "lack",
+  "lvl": "2k",
+  "forms": [
+   "lacking",
+   "lacked",
+   "lacks"
+  ]
+ },
+ {
+  "w": "lamb",
+  "lvl": "2k",
+  "forms": [
+   "lambs",
+   "lambing",
+   "lambed"
+  ]
+ },
+ {
+  "w": "lamp",
+  "lvl": "2k",
+  "forms": [
+   "lamps"
+  ]
+ },
+ {
+  "w": "lane",
+  "lvl": "2k",
+  "forms": [
+   "lanes"
+  ]
+ },
+ {
+  "w": "language",
+  "lvl": "2k",
+  "forms": [
+   "languages"
+  ]
+ },
+ {
+  "w": "lasted",
+  "lvl": "2k",
+  "forms": [
+   "lasting",
+   "lasts",
+   "everlasting",
+   "longlasting"
+  ]
+ },
+ {
+  "w": "lawn",
+  "lvl": "2k",
+  "forms": [
+   "lawns"
+  ]
+ },
+ {
+  "w": "lawyer",
+  "lvl": "2k",
+  "forms": [
+   "lawyers"
+  ]
+ },
+ {
+  "w": "league",
+  "lvl": "2k",
+  "forms": [
+   "leagues",
+   "leaguers",
+   "leaguer"
+  ]
+ },
+ {
+  "w": "lean",
+  "lvl": "2k",
+  "forms": [
+   "leaned",
+   "leaning",
+   "leant",
+   "leans",
+   "leanings"
+  ]
+ },
+ {
+  "w": "leap",
+  "lvl": "2k",
+  "forms": [
+   "leapt",
+   "leaping",
+   "leaps",
+   "leaped",
+   "leaper",
+   "leapers"
+  ]
+ },
+ {
+  "w": "legal",
+  "lvl": "2k",
+  "forms": [
+   "illegal",
+   "legally",
+   "illegally",
+   "legality",
+   "illegality",
+   "legalized",
+   "legalised",
+   "legalization"
+  ]
+ },
+ {
+  "w": "lend",
+  "lvl": "2k",
+  "forms": [
+   "lending",
+   "lent",
+   "lenders",
+   "lender",
+   "lends"
+  ]
+ },
+ {
+  "w": "length",
+  "lvl": "2k",
+  "forms": [
+   "lengths",
+   "lengthy",
+   "lengthening",
+   "lengthened",
+   "lengthen",
+   "lengthways",
+   "lengthwise",
+   "lengthens"
+  ]
+ },
+ {
+  "w": "lesson",
+  "lvl": "2k",
+  "forms": [
+   "lessons"
+  ]
+ },
+ {
+  "w": "library",
+  "lvl": "2k",
+  "forms": [
+   "libraries",
+   "librarian",
+   "librarians",
+   "librarianship"
+  ]
+ },
+ {
+  "w": "licence",
+  "lvl": "2k",
+  "forms": [
+   "licensing",
+   "licensed",
+   "licences",
+   "license",
+   "licensee",
+   "licensees",
+   "licenses",
+   "unlicensed"
+  ]
+ },
+ {
+  "w": "lid",
+  "lvl": "2k",
+  "forms": [
+   "lids",
+   "lidded"
+  ]
+ },
+ {
+  "w": "lightly",
+  "lvl": "2k",
+  "forms": [
+   "lighter",
+   "lightness",
+   "lighten",
+   "lightened",
+   "lightest",
+   "lightening",
+   "lightens"
+  ]
+ },
+ {
+  "w": "likely",
+  "lvl": "2k",
+  "forms": [
+   "unlikely",
+   "likelihood",
+   "likeliest",
+   "unlikeliest",
+   "likelier",
+   "unlikelihood"
+  ]
+ },
+ {
+  "w": "limit",
+  "lvl": "2k",
+  "forms": [
+   "limited",
+   "ltd",
+   "limits",
+   "limitations",
+   "limitation",
+   "limiting",
+   "unlimited",
+   "limitless"
+  ]
+ },
+ {
+  "w": "lion",
+  "lvl": "2k",
+  "forms": [
+   "lions",
+   "lioness",
+   "lionesses"
+  ]
+ },
+ {
+  "w": "loan",
+  "lvl": "2k",
+  "forms": [
+   "loans",
+   "loaned",
+   "loaning"
+  ]
+ },
+ {
+  "w": "locate",
+  "lvl": "2k",
+  "forms": [
+   "location",
+   "located",
+   "locations",
+   "relocation",
+   "locating",
+   "relocated",
+   "relocate",
+   "locational"
+  ]
+ },
+ {
+  "w": "log",
+  "lvl": "2k",
+  "forms": [
+   "logging",
+   "logs",
+   "logged",
+   "loggers",
+   "logger",
+   "loggings"
+  ]
+ },
+ {
+  "w": "lone",
+  "lvl": "2k",
+  "forms": [
+   "lonely",
+   "loneliness",
+   "loner",
+   "lonesome",
+   "loneliest",
+   "loners",
+   "lonelier"
+  ]
+ },
+ {
+  "w": "loose",
+  "lvl": "2k",
+  "forms": [
+   "loosely",
+   "loosened",
+   "loosen",
+   "loosening",
+   "looser",
+   "loosed",
+   "loosing",
+   "looseness"
+  ]
+ },
+ {
+  "w": "loss",
+  "lvl": "2k",
+  "forms": [
+   "losses"
+  ]
+ },
+ {
+  "w": "lower",
+  "lvl": "2k",
+  "forms": [
+   "lowest",
+   "lowered",
+   "lowering",
+   "lowers"
+  ]
+ },
+ {
+  "w": "lump",
+  "lvl": "2k",
+  "forms": [
+   "lumps",
+   "lumpy",
+   "lumped",
+   "lumping",
+   "lumpily",
+   "lumpiness"
+  ]
+ },
+ {
+  "w": "magazine",
+  "lvl": "2k",
+  "forms": [
+   "magazines",
+   "mag",
+   "mags"
+  ]
+ },
+ {
+  "w": "magic",
+  "lvl": "2k",
+  "forms": [
+   "magical",
+   "magician",
+   "magically",
+   "magicians"
+  ]
+ },
+ {
+  "w": "mail",
+  "lvl": "2k",
+  "forms": [
+   "mailing",
+   "mailed",
+   "mailings",
+   "mails"
+  ]
+ },
+ {
+  "w": "maintain",
+  "lvl": "2k",
+  "forms": [
+   "maintained",
+   "maintenance",
+   "maintaining",
+   "maintains",
+   "maintainable",
+   "unmaintained",
+   "maintainability"
+  ]
+ },
+ {
+  "w": "male",
+  "lvl": "2k",
+  "forms": [
+   "males",
+   "maleness"
+  ]
+ },
+ {
+  "w": "mama",
+  "lvl": "2k",
+  "forms": [
+   "maman",
+   "mamma",
+   "momma",
+   "mamas",
+   "mammas",
+   "mommas"
+  ]
+ },
+ {
+  "w": "manner",
+  "lvl": "2k",
+  "forms": [
+   "manners",
+   "mannered"
+  ]
+ },
+ {
+  "w": "map",
+  "lvl": "2k",
+  "forms": [
+   "maps",
+   "mapping",
+   "mapped",
+   "mappings",
+   "mapper",
+   "unmapped",
+   "mappable",
+   "mappers"
+  ]
+ },
+ {
+  "w": "march",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "marvel",
+  "lvl": "2k",
+  "forms": [
+   "marvellous",
+   "marvellously",
+   "marvelled",
+   "marvels",
+   "marvelling",
+   "marvelous",
+   "marveled",
+   "marveling"
+  ]
+ },
+ {
+  "w": "mask",
+  "lvl": "2k",
+  "forms": [
+   "masks",
+   "masked",
+   "masking",
+   "unmasked",
+   "unmask",
+   "unmasking",
+   "unmasks"
+  ]
+ },
+ {
+  "w": "mass",
+  "lvl": "2k",
+  "forms": [
+   "masses",
+   "massed",
+   "massing"
+  ]
+ },
+ {
+  "w": "massive",
+  "lvl": "2k",
+  "forms": [
+   "massively"
+  ]
+ },
+ {
+  "w": "match",
+  "lvl": "2k",
+  "forms": [
+   "matches",
+   "matched",
+   "matching",
+   "mismatch",
+   "unmatched",
+   "matchless",
+   "rematch",
+   "mismatches"
+  ]
+ },
+ {
+  "w": "mate",
+  "lvl": "2k",
+  "forms": [
+   "mates",
+   "mating",
+   "matey",
+   "mated",
+   "matings",
+   "mateship"
+  ]
+ },
+ {
+  "w": "material",
+  "lvl": "2k",
+  "forms": [
+   "materials",
+   "materialism",
+   "materially",
+   "materialist",
+   "materialistic",
+   "materiality",
+   "materialists",
+   "materialistically"
+  ]
+ },
+ {
+  "w": "mathematics",
+  "lvl": "2k",
+  "forms": [
+   "mathematical",
+   "maths",
+   "mathematically",
+   "mathematician",
+   "mathematicians",
+   "math"
+  ]
+ },
+ {
+  "w": "maximum",
+  "lvl": "2k",
+  "forms": [
+   "max",
+   "maximums"
+  ]
+ },
+ {
+  "w": "measure",
+  "lvl": "2k",
+  "forms": [
+   "measures",
+   "measured",
+   "measurement",
+   "measuring",
+   "measurements",
+   "measurable",
+   "immeasurably",
+   "immeasurable"
+  ]
+ },
+ {
+  "w": "meat",
+  "lvl": "2k",
+  "forms": [
+   "meats",
+   "meaty"
+  ]
+ },
+ {
+  "w": "medical",
+  "lvl": "2k",
+  "forms": [
+   "medically",
+   "medicals",
+   "medicalization"
+  ]
+ },
+ {
+  "w": "medicine",
+  "lvl": "2k",
+  "forms": [
+   "medicines",
+   "medicinal",
+   "medicinally"
+  ]
+ },
+ {
+  "w": "melt",
+  "lvl": "2k",
+  "forms": [
+   "melting",
+   "melted",
+   "melts",
+   "meltdown"
+  ]
+ },
+ {
+  "w": "memory",
+  "lvl": "2k",
+  "forms": [
+   "memories",
+   "memorial",
+   "memorials",
+   "memorise",
+   "memorize",
+   "memorized",
+   "memorised",
+   "memorising"
+  ]
+ },
+ {
+  "w": "mental",
+  "lvl": "2k",
+  "forms": [
+   "mentally",
+   "mentality",
+   "mentalist"
+  ]
+ },
+ {
+  "w": "merry",
+  "lvl": "2k",
+  "forms": [
+   "merrily",
+   "merriment",
+   "merrier",
+   "merriest",
+   "merriness"
+  ]
+ },
+ {
+  "w": "message",
+  "lvl": "2k",
+  "forms": [
+   "messages",
+   "messaging"
+  ]
+ },
+ {
+  "w": "metal",
+  "lvl": "2k",
+  "forms": [
+   "metals",
+   "metallic",
+   "metalled",
+   "nonmetallic"
+  ]
+ },
+ {
+  "w": "metre",
+  "lvl": "2k",
+  "forms": [
+   "metres",
+   "meter",
+   "metric",
+   "meters",
+   "metering",
+   "metrical",
+   "metered",
+   "metrics"
+  ]
+ },
+ {
+  "w": "microwave",
+  "lvl": "2k",
+  "forms": [
+   "microwaves",
+   "microwaved",
+   "microwaving",
+   "microwavable",
+   "microwaveable"
+  ]
+ },
+ {
+  "w": "military",
+  "lvl": "2k",
+  "forms": [
+   "militarily",
+   "militarism",
+   "militaristic",
+   "militarist",
+   "militarists"
+  ]
+ },
+ {
+  "w": "mill",
+  "lvl": "2k",
+  "forms": [
+   "miller",
+   "mills",
+   "milling",
+   "millers",
+   "milled",
+   "millings",
+   "millage"
+  ]
+ },
+ {
+  "w": "minister",
+  "lvl": "2k",
+  "forms": [
+   "ministers",
+   "ministerial",
+   "ministering",
+   "ministered"
+  ]
+ },
+ {
+  "w": "minor",
+  "lvl": "2k",
+  "forms": [
+   "minority",
+   "minorities",
+   "minors"
+  ]
+ },
+ {
+  "w": "minus",
+  "lvl": "2k",
+  "forms": [
+   "minuses"
+  ]
+ },
+ {
+  "w": "mirror",
+  "lvl": "2k",
+  "forms": [
+   "mirrors",
+   "mirrored",
+   "mirroring"
+  ]
+ },
+ {
+  "w": "mission",
+  "lvl": "2k",
+  "forms": [
+   "missionary",
+   "missions",
+   "missionaries",
+   "missioner",
+   "missioners"
+  ]
+ },
+ {
+  "w": "mix",
+  "lvl": "2k",
+  "forms": [
+   "mixed",
+   "mixing",
+   "mixer",
+   "mixes",
+   "mixers",
+   "unmixed"
+  ]
+ },
+ {
+  "w": "model",
+  "lvl": "2k",
+  "forms": [
+   "models",
+   "modelling",
+   "modelled",
+   "modeller",
+   "modellers",
+   "modeling",
+   "modeled",
+   "modeler"
+  ]
+ },
+ {
+  "w": "modern",
+  "lvl": "2k",
+  "forms": [
+   "modernism",
+   "modernist",
+   "modernity",
+   "modernisation",
+   "modernization",
+   "postmodern",
+   "postmodernism",
+   "modernised"
+  ]
+ },
+ {
+  "w": "monkey",
+  "lvl": "2k",
+  "forms": [
+   "monkeys"
+  ]
+ },
+ {
+  "w": "mood",
+  "lvl": "2k",
+  "forms": [
+   "moods",
+   "moody",
+   "moodily",
+   "moodiness"
+  ]
+ },
+ {
+  "w": "moon",
+  "lvl": "2k",
+  "forms": [
+   "moons",
+   "moonless"
+  ]
+ },
+ {
+  "w": "motor",
+  "lvl": "2k",
+  "forms": [
+   "motorists",
+   "motors",
+   "motoring",
+   "motorist",
+   "motorised",
+   "motored",
+   "motorized",
+   "motorization"
+  ]
+ },
+ {
+  "w": "mount",
+  "lvl": "2k",
+  "forms": [
+   "mounted",
+   "mounting",
+   "mounts",
+   "mt",
+   "mountings"
+  ]
+ },
+ {
+  "w": "mouse",
+  "lvl": "2k",
+  "forms": [
+   "mice",
+   "mousy",
+   "mousey"
+  ]
+ },
+ {
+  "w": "mud",
+  "lvl": "2k",
+  "forms": [
+   "muddy",
+   "muds",
+   "muddied",
+   "muddiness"
+  ]
+ },
+ {
+  "w": "murder",
+  "lvl": "2k",
+  "forms": [
+   "murdered",
+   "murderer",
+   "murders",
+   "murdering",
+   "murderers",
+   "murderous",
+   "murderess",
+   "murderously"
+  ]
+ },
+ {
+  "w": "muscle",
+  "lvl": "2k",
+  "forms": [
+   "muscles",
+   "muscled",
+   "muscling"
+  ]
+ },
+ {
+  "w": "mystery",
+  "lvl": "2k",
+  "forms": [
+   "mysterious",
+   "mysteries",
+   "mysteriously"
+  ]
+ },
+ {
+  "w": "nail",
+  "lvl": "2k",
+  "forms": [
+   "nails",
+   "nailed",
+   "nailing"
+  ]
+ },
+ {
+  "w": "nanny",
+  "lvl": "2k",
+  "forms": [
+   "nan",
+   "nana",
+   "nannies",
+   "nannie",
+   "nanna",
+   "nanas",
+   "nans",
+   "nannas"
+  ]
+ },
+ {
+  "w": "narrow",
+  "lvl": "2k",
+  "forms": [
+   "narrowed",
+   "narrowly",
+   "narrower",
+   "narrowing",
+   "narrows",
+   "narrowness",
+   "narrowest"
+  ]
+ },
+ {
+  "w": "nasty",
+  "lvl": "2k",
+  "forms": [
+   "nasties",
+   "nastiness",
+   "nastier",
+   "nastily",
+   "nastiest"
+  ]
+ },
+ {
+  "w": "native",
+  "lvl": "2k",
+  "forms": [
+   "natives",
+   "nativelike",
+   "unnativelike"
+  ]
+ },
+ {
+  "w": "navy",
+  "lvl": "2k",
+  "forms": [
+   "naval",
+   "navies"
+  ]
+ },
+ {
+  "w": "neither",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "nerve",
+  "lvl": "2k",
+  "forms": [
+   "nerves",
+   "nerveless",
+   "nervily"
+  ]
+ },
+ {
+  "w": "nervous",
+  "lvl": "2k",
+  "forms": [
+   "nervously",
+   "nervousness"
+  ]
+ },
+ {
+  "w": "nest",
+  "lvl": "2k",
+  "forms": [
+   "nests",
+   "nesting",
+   "nested"
+  ]
+ },
+ {
+  "w": "newspaper",
+  "lvl": "2k",
+  "forms": [
+   "newspapers"
+  ]
+ },
+ {
+  "w": "nor",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "northern",
+  "lvl": "2k",
+  "forms": [
+   "northerners",
+   "northerner"
+  ]
+ },
+ {
+  "w": "november",
+  "lvl": "2k",
+  "forms": [
+   "nov"
+  ]
+ },
+ {
+  "w": "nut",
+  "lvl": "2k",
+  "forms": [
+   "nuts"
+  ]
+ },
+ {
+  "w": "oak",
+  "lvl": "2k",
+  "forms": [
+   "oaks",
+   "oaken"
+  ]
+ },
+ {
+  "w": "object",
+  "lvl": "2k",
+  "forms": [
+   "objects"
+  ]
+ }
+]

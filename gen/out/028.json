@@ -1,0 +1,1426 @@
+[
+ {
+  "w": "restrain",
+  "pos": "v",
+  "meaning_ko": "억제하다, 제지하다",
+  "example_en": "It took three people to **restrain** the angry crowd at the gate.",
+  "example_ko": "문 앞에서 화난 군중을 막는 데 세 사람이 필요했어요.",
+  "nuance_ko": "restrain은 사람이나 감정, 행동이 지나치게 나아가지 못하게 붙잡아 억제한다는 뜻이에요. 물리적으로 제압하는 상황과 감정을 꾹 누르는 상황에 모두 써요. restrain oneself from ~ing는 '~하고 싶은 걸 참다'예요. 안전벨트 같은 장치를 restraint system이라고도 불러요. 명사 restraint는 자제나 절제를 뜻하고 show restraint는 신중하게 자제한다는 격식 있는 표현이에요.",
+  "also": [
+   {
+    "w": "restraint",
+    "pos": "n",
+    "ko": "자제, 제한",
+    "en": "The police showed great **restraint** during the protest."
+   },
+   {
+    "w": "restrained",
+    "pos": "adj",
+    "ko": "절제된",
+    "en": "He gave a calm and **restrained** response."
+   }
+  ]
+ },
+ {
+  "w": "restrict",
+  "pos": "v",
+  "meaning_ko": "제한하다, 한정하다",
+  "example_en": "The city plans to **restrict** parking in the downtown area.",
+  "example_ko": "시에서는 도심 지역의 주차를 제한할 계획이에요.",
+  "nuance_ko": "restrict는 범위나 양, 자유를 일정한 한도 안으로 제한한다는 뜻이에요. limit와 비슷하지만 규칙이나 법 같은 외부의 힘으로 가둔다는 느낌이 더 강해요. restrict access, restrict the use of ~, be restricted to ~가 대표 표현이에요. 식이 제한은 restricted diet라고 해요. 명사 restriction은 규제, 제약이고 travel restrictions처럼 뉴스에서 자주 나와요.",
+  "also": [
+   {
+    "w": "restriction",
+    "pos": "n",
+    "ko": "제한, 규제",
+    "en": "There are strict **restrictions** on carrying liquids on planes."
+   },
+   {
+    "w": "restricted",
+    "pos": "adj",
+    "ko": "제한된",
+    "en": "This is a **restricted** area, so you can't go in."
+   }
+  ]
+ },
+ {
+  "w": "resume",
+  "pos": "v",
+  "meaning_ko": "재개하다, 다시 시작하다",
+  "example_en": "The game will **resume** as soon as the rain stops.",
+  "example_ko": "비가 그치는 대로 경기가 재개될 거예요.",
+  "nuance_ko": "resume은 중단됐던 일을 다시 이어서 시작한다는 뜻이에요. 발음 [리줌]처럼 두 번째 음절에 강세가 와요. 철자가 같은 résumé(이력서)는 [레저메이]로 읽고 완전히 다른 단어라 주의가 필요해요. 회의나 서비스, 대화가 잠시 끊겼다가 이어질 때 자주 써요. resume work, resume talks 같은 짝꿍이 흔해요. 명사 resumption은 재개를 뜻해요.",
+  "also": [
+   {
+    "w": "resumption",
+    "pos": "n",
+    "ko": "재개",
+    "en": "The **resumption** of flights was announced this morning."
+   }
+  ]
+ },
+ {
+  "w": "retail",
+  "pos": "n",
+  "meaning_ko": "소매업, 소매",
+  "example_en": "She works in **retail**, so weekends are always busy.",
+  "example_ko": "그녀는 소매업에서 일해서 주말에는 항상 바빠요.",
+  "nuance_ko": "retail은 물건을 소비자에게 직접 파는 소매를 가리켜요. retail price(소매가), retail store, retail sales처럼 써요. 반대는 wholesale(도매)로 대량으로 팔아넘기는 거래예요. 소매 일을 하는 사람이나 회사는 retailer라고 해요. 동사로 retail at ~는 '소매가가 ~이다'라는 뜻이라 It retails at $50처럼 말해요. 쇼핑몰, 경제 기사에서 흔한 단어예요.",
+  "also": [
+   {
+    "w": "retailer",
+    "pos": "n",
+    "ko": "소매업자",
+    "en": "The online **retailer** offers free shipping."
+   }
+  ]
+ },
+ {
+  "w": "retain",
+  "pos": "v",
+  "meaning_ko": "유지하다, 보유하다",
+  "example_en": "The company is trying to **retain** its best employees.",
+  "example_ko": "회사는 핵심 인재를 붙잡으려고 노력하고 있어요.",
+  "nuance_ko": "retain은 가지고 있던 것을 잃지 않고 계속 유지한다는 뜻이에요. retain information, retain employees, retain the title처럼 써요. keep보다 격식 있고 의도적으로 지킨다는 느낌이 있어요. 직원 이직을 막는 일을 retention이라고 부르며 retain과 함께 HR에서 자주 나와요. 변호사에게 사건을 의뢰하는 것도 retain a lawyer라고 해서 법률 문맥에서 만나요.",
+  "also": []
+ },
+ {
+  "w": "retreat",
+  "pos": "v",
+  "meaning_ko": "후퇴하다, 물러나다",
+  "example_en": "The army had to **retreat** when supplies ran out.",
+  "example_ko": "보급이 끊기자 군대는 후퇴해야 했어요.",
+  "nuance_ko": "retreat는 위험이나 불리한 상황에서 뒤로 물러난다는 뜻이에요. 군사적 후퇴뿐 아니라 사람이 조용한 곳으로 물러나는 상황에도 써요. 명사 retreat는 조용히 쉬거나 수련하는 휴양지·수련회를 가리켜서 a company retreat는 사내 워크숍이에요. 갈등 상황에서 입장을 뒤로 물리는 beat a retreat는 '꽁무니를 빼다'라는 관용구예요. 반대는 advance(전진)예요.",
+  "also": []
+ },
+ {
+  "w": "reveal",
+  "pos": "v",
+  "meaning_ko": "드러내다, 밝히다",
+  "example_en": "The test results **revealed** that she had a rare allergy.",
+  "example_ko": "검사 결과 그녀에게 드문 알레르기가 있다는 사실이 드러났어요.",
+  "nuance_ko": "reveal은 숨겨져 있던 사실이나 모습을 밝혀 보인다는 뜻이에요. 사람이 주어이면 비밀을 털어놓는 것이고 연구나 조사가 주어이면 결과가 보여 주는 것이에요. reveal a secret, reveal the truth, reveal the identity 같은 짝꿍이 흔해요. 아기 성별을 가족에게 알리는 gender reveal 파티도 일상적이에요. 명사 revelation은 놀라운 폭로나 깨달음을 뜻해요.",
+  "also": [
+   {
+    "w": "revelation",
+    "pos": "n",
+    "ko": "폭로, 놀라운 발견",
+    "en": "The **revelation** shocked the entire company."
+   }
+  ]
+ },
+ {
+  "w": "revenue",
+  "pos": "n",
+  "meaning_ko": "수익, 매출, 세수",
+  "example_en": "The company's **revenue** grew by twenty percent last year.",
+  "example_ko": "그 회사의 매출은 작년에 20퍼센트 늘었어요.",
+  "nuance_ko": "revenue는 기업이 영업 활동으로 벌어들인 총수입이나 정부의 세수를 가리켜요. 비용을 빼지 않은 총액이라는 점에서 profit과 달라요. annual revenue, tax revenue, revenue growth 같은 짝꿍이 경제 뉴스와 실적 발표에서 자주 나와요. income은 개인 소득에도 쓰이지만 revenue는 주로 조직의 수입을 말해요. 가산·불가산 모두 쓰이고 복수형 revenues도 자주 보여요.",
+  "also": []
+ },
+ {
+  "w": "reverse",
+  "pos": "v",
+  "meaning_ko": "뒤집다, 반대로 하다, 후진하다",
+  "example_en": "The court decided to **reverse** the earlier decision.",
+  "example_ko": "법원은 앞선 판결을 뒤집기로 결정했어요.",
+  "nuance_ko": "reverse는 방향, 순서, 결정을 정반대로 바꾼다는 뜻이에요. reverse a decision은 결정을 번복하는 것이고 reverse the order는 순서를 뒤집는 거예요. 자동차에서는 후진 기어를 reverse라고 하고 reverse into a parking space는 후진 주차를 뜻해요. 명사와 형용사로도 쓰여서 the reverse side는 뒷면이에요. 형용사 reversible은 뒤집어 쓸 수 있는, irreversible은 되돌릴 수 없는 뜻이에요.",
+  "also": [
+   {
+    "w": "reversal",
+    "pos": "n",
+    "ko": "반전, 뒤바뀜",
+    "en": "The result was a complete **reversal** of fortune."
+   },
+   {
+    "w": "irreversible",
+    "pos": "adj",
+    "ko": "되돌릴 수 없는",
+    "en": "The damage to the forest may be **irreversible**."
+   }
+  ]
+ },
+ {
+  "w": "review",
+  "pos": "n",
+  "meaning_ko": "검토, 후기, 복습",
+  "example_en": "I read a few **reviews** before booking the hotel.",
+  "example_ko": "호텔을 예약하기 전에 후기를 몇 개 읽어 봤어요.",
+  "nuance_ko": "review는 어떤 것을 다시 살펴보는 행위와, 그 평가를 적은 글을 모두 뜻해요. 영화·제품 후기, 학술 논문 심사, 성과 평가(performance review), 시험 전 복습까지 폭이 넓어요. 동사로는 '검토하다, 복습하다, 평을 쓰다'예요. 코드 리뷰나 peer review에서도 자주 보이는 단어예요. under review는 검토 중이라는 표현이에요. 한국어 리뷰가 후기만 가리키는 것과 달리 영어는 훨씬 넓게 써요.",
+  "also": [
+   {
+    "w": "reviewer",
+    "pos": "n",
+    "ko": "검토자, 평론가",
+    "en": "The **reviewer** gave the film four stars."
+   }
+  ]
+ },
+ {
+  "w": "revise",
+  "pos": "v",
+  "meaning_ko": "수정하다, 개정하다, 복습하다",
+  "example_en": "Please **revise** the report and send it back by Friday.",
+  "example_ko": "보고서를 수정해서 금요일까지 다시 보내 주세요.",
+  "nuance_ko": "revise는 내용을 다시 검토해서 고치거나 개정한다는 뜻이에요. 글, 계획, 법, 견해에 모두 쓰여요. revise a plan, a revised edition처럼 말해요. 영국 영어에서는 시험 전에 복습하다라는 뜻으로 많이 쓰여서 revise for an exam이 자연스러워요. 미국에서는 같은 뜻으로 review나 study를 주로 써서 지역별 차이가 있어요. 명사 revision은 수정, 개정, 복습을 뜻해요.",
+  "also": [
+   {
+    "w": "revision",
+    "pos": "n",
+    "ko": "수정, 개정",
+    "en": "The document went through several **revisions**."
+   },
+   {
+    "w": "revised",
+    "pos": "adj",
+    "ko": "수정된",
+    "en": "Here is the **revised** schedule for next week."
+   }
+  ]
+ },
+ {
+  "w": "revive",
+  "pos": "v",
+  "meaning_ko": "되살리다, 소생시키다",
+  "example_en": "Paramedics tried to **revive** the man after the accident.",
+  "example_ko": "구급대원들은 사고 후 그 남자를 소생시키려 애썼어요.",
+  "nuance_ko": "revive는 의식을 잃었거나 사라질 뻔한 것을 다시 살려 낸다는 뜻이에요. 사람을 소생시키는 의료 상황과, 오래된 전통·인기·산업을 되살리는 상황에 모두 써요. revive a tradition, revive the economy가 대표적이에요. 식물이 물을 먹고 다시 생기를 찾는 것도 revive로 표현해요. 명사 revival은 부활, 재유행을 뜻해서 연극의 재공연도 revival이라고 해요.",
+  "also": [
+   {
+    "w": "revival",
+    "pos": "n",
+    "ko": "부활, 재유행",
+    "en": "The film sparked a **revival** of interest in jazz."
+   }
+  ]
+ },
+ {
+  "w": "revolution",
+  "pos": "n",
+  "meaning_ko": "혁명, 대변혁",
+  "example_en": "The Industrial **Revolution** changed how people lived and worked.",
+  "example_ko": "산업혁명은 사람들이 살고 일하는 방식을 바꿔 놓았어요.",
+  "nuance_ko": "revolution은 정치 체제를 뒤엎는 혁명이나 사회·기술의 급격한 대변혁을 가리켜요. the French Revolution, the digital revolution처럼 써요. 천문학에서는 천체가 한 바퀴 도는 공전을 뜻하기도 해서 revolution per minute(RPM)가 같은 단어에서 와요. reform은 점진적 개혁이고 revolution은 급진적이라는 차이가 있어요. 형용사 revolutionary는 혁명적인, 획기적인이란 뜻으로 광고에서 자주 써요.",
+  "also": [
+   {
+    "w": "revolutionary",
+    "pos": "adj",
+    "ko": "혁명적인, 획기적인",
+    "en": "The company introduced a **revolutionary** new battery."
+   }
+  ]
+ },
+ {
+  "w": "reward",
+  "pos": "n",
+  "meaning_ko": "보상, 보답",
+  "example_en": "The police offered a **reward** for any information about the missing dog.",
+  "example_ko": "경찰은 실종된 개에 대한 제보에 사례금을 걸었어요.",
+  "nuance_ko": "reward는 좋은 행동이나 노력, 도움에 대한 보상이나 사례금이에요. 실종된 반려동물을 찾아 줄 때 거는 현상금도 reward라고 해요. 벌의 반대로 reward and punishment라는 한 쌍이 자주 나와요. 동사로도 쓰이고 be rewarded for ~ 형태로 '~에 대한 보상을 받다'를 말해요. 형용사 rewarding은 보람 있는이란 뜻으로 일이나 경험이 만족스러울 때 써요.",
+  "also": [
+   {
+    "w": "rewarding",
+    "pos": "adj",
+    "ko": "보람 있는",
+    "en": "Teaching can be a very **rewarding** job."
+   }
+  ]
+ },
+ {
+  "w": "rhythm",
+  "pos": "n",
+  "meaning_ko": "리듬, 규칙적인 흐름",
+  "example_en": "I love dancing to music with a strong **rhythm**.",
+  "example_ko": "리듬이 강한 음악에 맞춰 춤추는 걸 좋아해요.",
+  "nuance_ko": "rhythm은 음악이나 소리, 움직임이 일정한 패턴으로 반복되는 리듬을 뜻해요. 생활에도 쓰여서 the rhythm of daily life(일상의 리듬), biological rhythm(생체 리듬)처럼 말해요. get into the rhythm of ~는 '~의 흐름에 익숙해지다'예요. 철자가 영어에서 가장 까다로운 단어 중 하나로 모음 없이 r-h-y-t-h-m이 이어져요. 발음은 [리듬]에 가깝게 th가 들어가요.",
+  "also": [
+   {
+    "w": "rhythmic",
+    "pos": "adj",
+    "ko": "리듬감 있는",
+    "en": "The **rhythmic** sound of the waves helped me relax."
+   }
+  ]
+ },
+ {
+  "w": "ritual",
+  "pos": "n",
+  "meaning_ko": "의식, 늘 하는 습관",
+  "example_en": "Coffee on the balcony is my morning **ritual**.",
+  "example_ko": "발코니에서 커피를 마시는 건 내 아침 의식이에요.",
+  "nuance_ko": "ritual은 종교나 문화에서 정해진 순서로 치르는 의식을 가리켜요. 일상에서는 매일 반복하는 습관이나 루틴을 특별한 의미를 담아 말할 때 써요. morning ritual, bedtime ritual처럼 말하면 습관이 작은 의식처럼 소중하다는 느낌이에요. routine보다 감성적이고 의미 부여가 큰 단어예요. 형용사로는 의식적인이라는 뜻으로 ritual dance 같은 표현에 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "rival",
+  "pos": "n",
+  "meaning_ko": "경쟁자, 라이벌",
+  "example_en": "The two companies are bitter **rivals** in the smartphone market.",
+  "example_ko": "두 회사는 스마트폰 시장에서 치열한 경쟁 관계예요.",
+  "nuance_ko": "rival은 같은 목표를 두고 겨루는 경쟁자를 가리켜요. 라이벌이라는 외래어와 거의 같은 뜻이에요. opponent는 한 경기의 상대이고 rival은 장기적으로 경쟁하는 관계라는 차이가 있어요. a business rival, a rival team, an old rival처럼 써요. 동사로 rival은 ~에 필적하다라는 뜻이라 Nothing can rival her talent처럼 쓸 수 있어요. 명사 rivalry는 경쟁 관계를 뜻해요.",
+  "also": [
+   {
+    "w": "rivalry",
+    "pos": "n",
+    "ko": "경쟁 관계",
+    "en": "The **rivalry** between the two schools is famous."
+   }
+  ]
+ },
+ {
+  "w": "romantic",
+  "pos": "adj",
+  "meaning_ko": "낭만적인, 연애의",
+  "example_en": "He planned a **romantic** dinner on the beach for their anniversary.",
+  "example_ko": "그는 기념일을 위해 해변에서 낭만적인 저녁 식사를 계획했어요.",
+  "nuance_ko": "romantic은 사랑이나 로맨스를 느끼게 하는 분위기나 행동을 가리키는 형용사예요. a romantic dinner, a romantic movie, a romantic gesture처럼 써요. 연애 관계를 가리키는 romantic relationship도 자주 나와요. 현실적이지 않고 이상을 꿈꾸는 성향을 뜻하기도 해서 a hopeless romantic은 못 말리는 낭만주의자를 말해요. 명사로도 쓰여서 romantics는 낭만파 사람들이에요.",
+  "also": [
+   {
+    "w": "romantically",
+    "pos": "adv",
+    "ko": "낭만적으로, 연애 대상으로",
+    "en": "They were never **romantically** involved."
+   }
+  ]
+ },
+ {
+  "w": "route",
+  "pos": "n",
+  "meaning_ko": "경로, 노선",
+  "example_en": "Is there a faster **route** to the airport than this one?",
+  "example_ko": "공항까지 이것보다 더 빠른 길이 있어요?",
+  "nuance_ko": "route는 출발지에서 목적지까지 가는 경로나 정해진 노선이에요. bus route, shortest route, escape route처럼 써요. road가 물리적인 도로라면 route는 거기를 지나가는 길의 선택이에요. 영국에서는 [루트], 미국에서는 [루트] 또는 [라우트]로 읽는 사람도 있어요. 동사로는 어떤 경로로 보낸다는 뜻이고 Calls are routed to the help desk처럼 써요. 인터넷 라우터(router)도 같은 어원이에요.",
+  "also": []
+ },
+ {
+  "w": "routine",
+  "pos": "n",
+  "meaning_ko": "일상, 일과, 정해진 순서",
+  "example_en": "My morning **routine** is to stretch and then make coffee.",
+  "example_ko": "내 아침 일과는 스트레칭을 하고 커피를 내리는 거예요.",
+  "nuance_ko": "routine은 규칙적으로 반복하는 일과나 습관을 가리켜요. daily routine, exercise routine, a morning routine처럼 자주 써요. 같은 일의 반복이 지루하다는 뜻으로 형용사로도 쓰여서 a routine check-up은 평소 하는 정기 검진이에요. get stuck in a routine은 쳇바퀴 같은 일상에 갇힌다는 뜻이에요. 컴퓨터에서는 하위 프로그램을 routine이라고 부르는 경우가 있어요.",
+  "also": [
+   {
+    "w": "routinely",
+    "pos": "adv",
+    "ko": "일상적으로",
+    "en": "The machines are **routinely** checked every week."
+   }
+  ]
+ },
+ {
+  "w": "rumour",
+  "pos": "n",
+  "meaning_ko": "소문, 풍문",
+  "example_en": "There's a **rumour** going around that the boss is quitting.",
+  "example_ko": "사장님이 그만둔다는 소문이 돌고 있어요.",
+  "nuance_ko": "rumour는 영국식 철자이고 미국식은 rumor예요. 사실인지 확인되지 않고 사람들 사이에 퍼진 소문을 뜻해요. rumour has it that ~는 '소문에 의하면 ~이라는군'이란 관용 표현이에요. spread a rumor, start a rumor, deny a rumor처럼 써요. gossip은 남의 사생활에 대한 수다이고 rumour는 확인되지 않은 정보 자체를 가리켜요. 수동태 It is rumoured that ~도 뉴스에서 나와요.",
+  "also": [
+   {
+    "w": "rumours",
+    "pos": "n",
+    "ko": "소문들",
+    "en": "Don't believe all the **rumours** you hear."
+   }
+  ]
+ },
+ {
+  "w": "rural",
+  "pos": "adj",
+  "meaning_ko": "시골의, 농촌의",
+  "example_en": "Many young people are leaving **rural** areas to find jobs in cities.",
+  "example_ko": "많은 젊은이가 일자리를 찾아 시골 지역을 떠나 도시로 가고 있어요.",
+  "nuance_ko": "rural은 도시와 떨어진 시골이나 농촌의 특징을 가리키는 형용사예요. rural area, rural community, rural life처럼 써요. 반대말은 urban이고 둘은 인구 통계, 교통, 교육 논의에서 자주 짝으로 나와요. countryside는 풍경을 가리키는 명사이고 rural은 사회나 지역의 성격을 묘사하는 형용사예요. 약간 격식이 있어서 뉴스와 보고서에서 많이 보여요.",
+  "also": []
+ },
+ {
+  "w": "sacrifice",
+  "pos": "n",
+  "meaning_ko": "희생, 제물",
+  "example_en": "Her parents made great **sacrifices** so she could go to college.",
+  "example_ko": "그녀의 부모님은 그녀가 대학에 갈 수 있도록 큰 희생을 감수했어요.",
+  "nuance_ko": "sacrifice는 더 큰 가치를 위해 소중한 것을 포기하거나 내놓는 희생을 가리켜요. make a sacrifice, at the sacrifice of ~, sacrifice quality for speed 같은 표현이 흔해요. 종교에서는 신에게 바치는 제물을 뜻해요. 야구에서 주자를 진루시키려고 아웃되는 희생번트도 sacrifice bunt라고 해요. 동사 sacrifice는 포기하다, 희생하다예요.",
+  "also": []
+ },
+ {
+  "w": "sample",
+  "pos": "n",
+  "meaning_ko": "견본, 표본, 샘플",
+  "example_en": "Can I try a **sample** before I buy the whole bottle?",
+  "example_ko": "한 병 다 사기 전에 샘플부터 써 봐도 될까요?",
+  "nuance_ko": "sample은 전체를 대표해서 보여 주는 일부, 즉 견본이나 시식·시음용 샘플이에요. free sample, blood sample, product sample처럼 써요. 통계에서는 전체 집단에서 뽑은 표본이고 a random sample, sample size처럼 쓰여요. 동사로는 맛보다, 시험 삼아 해 보다라는 뜻이고 sample the local food는 현지 음식을 맛보는 거예요. 음악에서 기존 곡의 일부를 가져다 쓰는 것도 sampling이라고 해요.",
+  "also": []
+ },
+ {
+  "w": "sanction",
+  "pos": "n",
+  "meaning_ko": "제재, 승인",
+  "example_en": "Several countries imposed economic **sanctions** on the regime.",
+  "example_ko": "여러 나라가 그 정권에 경제 제재를 가했어요.",
+  "nuance_ko": "sanction은 반대되는 두 가지 뜻을 가진 특이한 단어예요. 복수형 sanctions는 국가나 단체에 가하는 제재를 뜻하고 뉴스에서 economic sanctions로 자주 나와요. 단수 sanction은 공식적인 승인·허가를 뜻해요. 동사 sanction도 승인하다와 제재하다 두 뜻이 모두 가능해요. 그래서 문맥으로 구분해야 하고 impose sanctions는 제재를 가하다, give sanction은 승인을 주다예요.",
+  "also": [
+   {
+    "w": "sanctioned",
+    "pos": "adj",
+    "ko": "승인된",
+    "en": "The event was **sanctioned** by the city government."
+   }
+  ]
+ },
+ {
+  "w": "satellite",
+  "pos": "n",
+  "meaning_ko": "위성, 인공위성",
+  "example_en": "The weather **satellite** sent back clear pictures of the storm.",
+  "example_ko": "기상위성이 폭풍의 선명한 사진을 보내왔어요.",
+  "nuance_ko": "satellite는 행성 주위를 도는 천체인 위성, 또는 인간이 쏘아 올린 인공위성을 가리켜요. the Moon is a natural satellite처럼 달도 satellite예요. 통신, GPS, 기상 관측에 쓰이는 artificial satellite가 흔해요. 위성 방송은 satellite TV라고 불러요. 비유적으로 큰 도시 주변의 위성 도시를 satellite town이라고 하고, 종속적인 국가를 satellite state라고 해요.",
+  "also": []
+ },
+ {
+  "w": "satisfaction",
+  "pos": "n",
+  "meaning_ko": "만족, 충족",
+  "example_en": "Customer **satisfaction** is the key to our success.",
+  "example_ko": "고객 만족이 우리 성공의 열쇠예요.",
+  "nuance_ko": "satisfaction은 기대나 욕구가 채워졌을 때의 만족감을 가리켜요. customer satisfaction, job satisfaction, to my satisfaction 같은 짝꿍이 흔해요. 불가산명사로 쓰이는 경우가 많고 to one's satisfaction은 '자기 마음에 들도록'이에요. 해결해 주는 행위를 뜻해 get satisfaction은 보상을 얻는다는 의미로도 써요. 동사 satisfy, 형용사 satisfied(만족한)와 satisfying(만족스러운)을 함께 외우세요.",
+  "also": []
+ },
+ {
+  "w": "scan",
+  "pos": "v",
+  "meaning_ko": "훑어보다, 스캔하다",
+  "example_en": "I just **scanned** the article to get the main idea.",
+  "example_ko": "주요 내용만 파악하려고 기사를 쭉 훑어봤어요.",
+  "nuance_ko": "scan은 두 가지 느낌이 있어요. 하나는 빠르게 훑어서 필요한 정보를 찾는 것이고, 다른 하나는 기계로 정밀하게 검사하거나 문서를 스캔하는 거예요. read는 자세히 읽는 것, scan은 눈으로 빠르게 훑는 거예요. 의료에서는 CT scan, MRI scan처럼 몸속을 촬영하는 검사이기도 해요. QR코드를 찍는 것도 scan the code라고 해요.",
+  "also": [
+   {
+    "w": "scanner",
+    "pos": "n",
+    "ko": "스캐너",
+    "en": "Put the document on the **scanner** and press start."
+   }
+  ]
+ },
+ {
+  "w": "scandal",
+  "pos": "n",
+  "meaning_ko": "스캔들, 추문",
+  "example_en": "The mayor resigned after a corruption **scandal**.",
+  "example_ko": "시장은 부패 스캔들이 터진 뒤 사임했어요.",
+  "nuance_ko": "scandal은 도덕적으로 비난받을 일이 드러나 사람들이 충격과 분노를 느끼는 사건을 가리켜요. 정치인, 연예인, 기업의 비리나 추문에 쓰여요. a corruption scandal, a sex scandal, cause a scandal처럼 써요. 한국어 스캔들은 연애 소문 이미지가 강한데 영어에서는 비리나 부정행위가 더 흔한 의미예요. 형용사 scandalous는 파렴치한, 어이없는이란 뜻이에요.",
+  "also": [
+   {
+    "w": "scandalous",
+    "pos": "adj",
+    "ko": "파렴치한, 어이없는",
+    "en": "It's **scandalous** that nobody was punished."
+   }
+  ]
+ },
+ {
+  "w": "scatter",
+  "pos": "v",
+  "meaning_ko": "흩뿌리다, 흩어지다",
+  "example_en": "The children **scattered** in all directions when the bell rang.",
+  "example_ko": "종이 울리자 아이들이 사방으로 흩어졌어요.",
+  "nuance_ko": "scatter는 여러 조각이나 사람이 사방으로 흩어지게 한다는 타동사, 또는 스스로 흩어진다는 자동사로 쓰여요. scatter seeds, scatter ashes, scatter in panic이 대표적이에요. 수동태 be scattered는 곳곳에 흩어져 있다는 상태예요. The books were scattered all over the floor처럼 쓰여요. 형용사 scattered는 여기저기 드문드문 있는이란 뜻이에요. 날씨 예보의 scattered showers는 곳곳에 내리는 소나기예요.",
+  "also": [
+   {
+    "w": "scattered",
+    "pos": "adj",
+    "ko": "흩어진, 드문드문한",
+    "en": "Scattered clouds are expected this afternoon."
+   }
+  ]
+ },
+ {
+  "w": "scheme",
+  "pos": "n",
+  "meaning_ko": "계획, 제도, 책략",
+  "example_en": "The government launched a new **scheme** to help first-time home buyers.",
+  "example_ko": "정부는 처음 집을 사는 사람들을 돕는 새 제도를 시작했어요.",
+  "nuance_ko": "scheme은 영국에서는 정부나 조직의 공식 계획·제도를 뜻하는 중립적인 말이에요. pension scheme, a training scheme처럼 써요. 미국에서는 비밀스러운 음모나 속임수라는 부정적인 뜻으로 주로 쓰여서 get-rich-quick scheme은 한탕 사기 계획이에요. 같은 단어가 지역에 따라 어감이 달라지니 문맥을 보세요. 색상 배치를 뜻하는 color scheme처럼 체계적 구성도 가리켜요. 동사 scheme은 음모를 꾸미다예요.",
+  "also": []
+ },
+ {
+  "w": "scholar",
+  "pos": "n",
+  "meaning_ko": "학자, 장학생",
+  "example_en": "She is a respected **scholar** of medieval history.",
+  "example_ko": "그녀는 중세사 분야에서 존경받는 학자예요.",
+  "nuance_ko": "scholar는 특정 학문 분야를 깊이 연구하는 학자를 가리켜요. a literary scholar, a leading scholar처럼 쓰고 professor가 직책이라면 scholar는 학문적 업적을 가진 사람이라는 느낌이에요. 장학금을 받는 학생을 가리키는 장학생도 scholar라고 해서 Rhodes Scholar가 유명한 예예요. 형용사 scholarly는 학문적인, 학술적인이란 뜻이고 scholarly article은 학술 논문이에요. 명사 scholarship은 장학금이라는 뜻도 있어요.",
+  "also": [
+   {
+    "w": "scholarly",
+    "pos": "adj",
+    "ko": "학술적인",
+    "en": "He published a **scholarly** article on ancient Rome."
+   }
+  ]
+ },
+ {
+  "w": "scope",
+  "pos": "n",
+  "meaning_ko": "범위, 여지",
+  "example_en": "The **scope** of this project is much bigger than we expected.",
+  "example_ko": "이 프로젝트의 범위는 우리가 예상한 것보다 훨씬 커요.",
+  "nuance_ko": "scope는 어떤 일이나 연구가 다루는 범위와 영역을 가리켜요. the scope of the project, beyond the scope of ~는 '~의 범위를 벗어난'이라는 뜻이에요. 프로젝트 관리에서 scope creep은 범위가 점점 늘어나는 현상을 말해요. 발전이나 개선의 여지를 뜻할 때는 There's scope for improvement처럼 써요. 개발에서는 변수의 유효 범위를 scope라고 부르는 용어로도 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "sculpt",
+  "pos": "v",
+  "meaning_ko": "조각하다",
+  "example_en": "The artist **sculpted** a beautiful horse out of a single block of marble.",
+  "example_ko": "예술가는 대리석 한 덩어리로 아름다운 말을 조각했어요.",
+  "nuance_ko": "sculpt는 돌, 나무, 점토 등을 깎거나 빚어서 형태를 만든다는 뜻의 동사예요. 몸을 단련해서 근육 라인을 가꾼다는 뜻으로 sculpt your body처럼 쓰기도 해요. 명사 sculpture는 조각 작품을, sculptor는 조각가를 가리켜요. 발음에서 p 뒤에 t가 붙은 [스컬프트]로 읽어요. 비유적으로 법안이나 정책의 틀을 다듬어 만든다는 뜻으로 쓰이기도 해요.",
+  "also": [
+   {
+    "w": "sculpture",
+    "pos": "n",
+    "ko": "조각, 조각 작품",
+    "en": "There is a huge **sculpture** in front of the museum."
+   },
+   {
+    "w": "sculptor",
+    "pos": "n",
+    "ko": "조각가",
+    "en": "The **sculptor** worked on the statue for years."
+   }
+  ]
+ },
+ {
+  "w": "secretary",
+  "pos": "n",
+  "meaning_ko": "비서, 장관",
+  "example_en": "My **secretary** will schedule the meeting for you.",
+  "example_ko": "제 비서가 회의 일정을 잡아 드릴 거예요.",
+  "nuance_ko": "secretary는 사무실에서 일정과 서류를 관리해 주는 비서를 뜻해요. 요즘은 assistant라는 표현이 더 많이 쓰이는 추세예요. 미국에서는 Secretary of State처럼 정부 부처의 장관을 가리키고, 영국의 Minister에 해당해요. 단체의 서기, 총무도 secretary라고 해요. Secretary General은 유엔 사무총장 같은 직책이에요. 같은 단어가 직무에 따라 의미가 크게 달라지는 점이 특징이에요.",
+  "also": []
+ },
+ {
+  "w": "sector",
+  "pos": "n",
+  "meaning_ko": "분야, 부문",
+  "example_en": "The technology **sector** has created thousands of new jobs.",
+  "example_ko": "기술 분야에서 수천 개의 새 일자리가 만들어졌어요.",
+  "nuance_ko": "sector는 경제나 사회를 나눈 한 부문을 가리키는 말이에요. private sector(민간 부문), public sector(공공 부문), banking sector처럼 쓰여요. industry와 비슷하지만 sector는 더 큰 범주를 가리키는 경우가 많아요. 군사에서는 구역을, 수학에서는 부채꼴을 뜻하기도 해요. 경제 뉴스와 보고서에서 자주 만나는 격식 있는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "segment",
+  "pos": "n",
+  "meaning_ko": "부분, 구간, 고객층",
+  "example_en": "The company is targeting a new customer **segment** this year.",
+  "example_ko": "그 회사는 올해 새로운 고객층을 겨냥하고 있어요.",
+  "nuance_ko": "segment는 전체에서 나눠진 한 부분을 가리켜요. 시장·고객을 나눈 market segment, 방송의 한 코너, 귤 한 쪽 같은 구체적인 조각까지 모두 포함해요. part보다 구분된 단위라는 느낌이 있어요. 동사 segment는 나누다라는 뜻이고 명사 segmentation은 시장 세분화처럼 비즈니스에서 자주 쓰여요. 선분을 뜻하는 수학 용어로도 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "seize",
+  "pos": "v",
+  "meaning_ko": "붙잡다, 압수하다, 장악하다",
+  "example_en": "Customs officers **seized** a large amount of illegal goods at the airport.",
+  "example_ko": "세관원들이 공항에서 다량의 불법 물품을 압수했어요.",
+  "nuance_ko": "seize는 갑자기 꽉 붙잡거나 권한으로 압수한다는 뜻이에요. 기회를 놓치지 않고 잡을 때 seize the opportunity, seize the day(오늘을 잡아라)라고 말해요. 경찰이 압수하는 장면, 군대가 권력을 장악하는 장면에도 쓰여요. grab은 가볍고 구어적인 낚아채기이고 seize는 더 강하고 공식적인 느낌이에요. 발음 [시즈]에서 ei가 [이:]로 읽혀요.",
+  "also": []
+ },
+ {
+  "w": "senate",
+  "pos": "n",
+  "meaning_ko": "상원",
+  "example_en": "The **Senate** voted to approve the new budget on Tuesday.",
+  "example_ko": "상원은 화요일에 새 예산안을 승인하기로 표결했어요.",
+  "nuance_ko": "senate는 미국 의회의 상원처럼 두 개의 원으로 구성된 의회 중 한 원을 가리켜요. 하원은 House of Representatives예요. 의원은 senator라고 하고 대문자 Senate로 고유한 기관을 가리켜요. 대학의 최고 의결 기구를 가리키는 university senate에도 쓰여요. 고대 로마의 원로원도 the Roman Senate라고 불러서 역사 글에서도 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "senses",
+  "pos": "n",
+  "meaning_ko": "감각들, 분별력",
+  "example_en": "All five **senses** work together when you taste food.",
+  "example_ko": "음식을 맛볼 때는 오감이 모두 함께 작동해요.",
+  "nuance_ko": "senses는 sense의 복수형으로 시각, 청각, 후각, 미각, 촉각의 오감이라는 뜻이에요. 또 come to your senses는 '정신을 차리다'라는 숙어로 분별력을 되찾는다는 의미예요. sense of humor, sense of direction처럼 단수일 때는 감각·센스를 말해요. 동사 sense는 막연히 느끼다라는 뜻이라 I sensed something was wrong처럼 써요. 한국어 센스는 영어 sense보다 좁게 쓰이니 주의하세요.",
+  "also": [
+   {
+    "w": "sensed",
+    "pos": "v",
+    "ko": "감지했다",
+    "en": "She **sensed** that something was wrong right away."
+   }
+  ]
+ },
+ {
+  "w": "sensible",
+  "pos": "adj",
+  "meaning_ko": "분별 있는, 합리적인",
+  "example_en": "It's **sensible** to save some money for emergencies.",
+  "example_ko": "비상시를 위해 돈을 조금 저축해 두는 게 현명해요.",
+  "nuance_ko": "sensible은 상식에 맞고 현명한, 실용적인 선택이나 사람을 묘사해요. a sensible decision, sensible shoes(실용적인 신발)처럼 써요. sensitive(민감한)와 형태가 비슷하지만 뜻이 완전히 달라서 한국 학습자가 자주 혼동해요. 한국어 '센서블'이라는 말이 없어 감이 안 올 수 있지만 reasonable과 가깝다고 생각하면 돼요. 형용사 sensible은 감정이 아닌 이성적인 판단에 쓴다는 점이 핵심이에요.",
+  "also": [
+   {
+    "w": "sensibly",
+    "pos": "adv",
+    "ko": "현명하게",
+    "en": "He **sensibly** decided to wait until morning."
+   }
+  ]
+ },
+ {
+  "w": "sensitive",
+  "pos": "adj",
+  "meaning_ko": "민감한, 예민한",
+  "example_en": "My skin is very **sensitive**, so I can't use strong soap.",
+  "example_ko": "내 피부는 아주 민감해서 강한 비누는 못 써요.",
+  "nuance_ko": "sensitive는 자극에 쉽게 반응하는 민감함을 뜻해요. 피부가 예민할 때, 사람의 감정이 쉽게 상처받을 때, 주제가 조심스러워야 할 때 모두 써요. a sensitive issue, sensitive information처럼 다루기 조심스러운 문제나 정보에도 써요. 사람에게 쓰면 배려심이 있고 눈치가 빠르다는 긍정적 의미일 수도 있어요. sensible(분별 있는)과 혼동하지 마세요. 반대말 insensitive는 둔감하고 배려 없는이란 뜻이에요.",
+  "also": [
+   {
+    "w": "sensitivity",
+    "pos": "n",
+    "ko": "민감성, 감수성",
+    "en": "We should treat the topic with **sensitivity**."
+   },
+   {
+    "w": "insensitive",
+    "pos": "adj",
+    "ko": "배려 없는, 둔감한",
+    "en": "That was a really **insensitive** thing to say."
+   }
+  ]
+ },
+ {
+  "w": "sequence",
+  "pos": "n",
+  "meaning_ko": "순서, 연속, 일련",
+  "example_en": "Please put the photos in the right **sequence** before printing.",
+  "example_ko": "인쇄하기 전에 사진을 올바른 순서로 놓아 주세요.",
+  "nuance_ko": "sequence는 정해진 순서로 이어지는 일련의 것들이나 그 순서를 가리켜요. a sequence of events는 사건의 연속, in sequence는 순서대로예요. 영화에서는 연속된 장면 하나를 sequence라고 하고, 생물학에서는 DNA sequence처럼 염기 서열을 말해요. order는 단순한 순서이고 sequence는 앞뒤가 이어지는 연속성에 초점이 있어요. 형용사 sequential은 순차적인이란 뜻이에요.",
+  "also": [
+   {
+    "w": "sequential",
+    "pos": "adj",
+    "ko": "순차적인",
+    "en": "The tasks must be done in **sequential** order."
+   }
+  ]
+ },
+ {
+  "w": "session",
+  "pos": "n",
+  "meaning_ko": "회기, 시간, 모임",
+  "example_en": "We have a training **session** every Friday afternoon.",
+  "example_ko": "우리는 매주 금요일 오후에 교육 시간이 있어요.",
+  "nuance_ko": "session은 어떤 활동을 위해 정해진 시간이나 한 차례의 모임을 가리켜요. a training session, a study session, a therapy session처럼 쓰여요. 의회나 법원이 열리는 회기도 session이라 in session은 '개회 중'이에요. 컴퓨터에서는 로그인해서 로그아웃할 때까지 이어지는 접속 단위를 session이라고 해서 개발자에게 아주 친숙해요. 음악 연주 모임인 jam session도 자주 쓰는 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "severe",
+  "pos": "adj",
+  "meaning_ko": "심각한, 혹독한",
+  "example_en": "The region is suffering from a **severe** drought this year.",
+  "example_ko": "올해 그 지역은 심각한 가뭄을 겪고 있어요.",
+  "nuance_ko": "severe는 정도가 매우 심하고 엄한 상태를 나타내는 형용사예요. severe pain, severe weather, severe damage, severe punishment처럼 써요. serious보다 더 강하고 심한 상태를 말해요. 사람이나 처벌이 엄격하고 가혹하다는 뜻도 있어요. 날씨 예보에서 severe storm warning처럼 위험을 알릴 때 자주 쓰여요. 명사 severity는 심각성, 정도의 심함을 뜻해요.",
+  "also": [
+   {
+    "w": "severely",
+    "pos": "adv",
+    "ko": "심하게",
+    "en": "The town was **severely** damaged by the flood."
+   },
+   {
+    "w": "severity",
+    "pos": "n",
+    "ko": "심각성",
+    "en": "Doctors checked the **severity** of his injuries."
+   }
+  ]
+ },
+ {
+  "w": "shield",
+  "pos": "n",
+  "meaning_ko": "방패, 보호막",
+  "example_en": "The knight held up his **shield** to block the arrow.",
+  "example_ko": "기사는 화살을 막으려고 방패를 들어 올렸어요.",
+  "nuance_ko": "shield는 몸을 방어하는 방패, 또는 위험이나 영향을 막아 주는 보호막을 가리켜요. 용접 마스크 같은 face shield, 자동차의 windshield(앞유리)에도 쓰여요. 비유적으로 사람이나 제도가 누군가를 보호하는 역할을 할 때 쓰여서 a shield against criticism은 비판을 막아 주는 방패예요. 동사 shield A from B는 'A를 B로부터 보호하다'라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "shortly",
+  "pos": "adv",
+  "meaning_ko": "곧, 얼마 안 있어",
+  "example_en": "The doctor will see you **shortly**; please take a seat.",
+  "example_ko": "선생님이 곧 진료를 보실 거예요. 앉아서 기다려 주세요.",
+  "nuance_ko": "shortly는 soon의 격식 있는 말로 곧, 머지않아라는 뜻이에요. 안내 방송이나 서비스 현장에서 자주 써요. shortly after ~, shortly before ~는 '~ 직후', '~ 직전'이라는 뜻으로 시간 차가 짧음을 나타내요. 기차 방송의 We will be arriving shortly가 좋은 예시예요. 말투를 짧게 줄이는 의미도 있어서 speak shortly는 퉁명스럽게 말한다는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "shrug",
+  "pos": "v",
+  "meaning_ko": "어깨를 으쓱하다",
+  "example_en": "When I asked him why, he just **shrugged** and walked away.",
+  "example_ko": "이유를 물었더니 그는 그냥 어깨를 으쓱하고 가 버렸어요.",
+  "nuance_ko": "shrug는 모르겠다, 상관없다, 어쩔 수 없다는 뜻으로 어깨를 으쓱하는 동작이에요. 말 없이 감정을 전달하는 행동이라서 shrug one's shoulders라고도 해요. shrug off ~는 '~를 대수롭지 않게 넘기다'라는 구동사로 비판이나 부상을 가볍게 여기는 상황에 써요. 명사로 a shrug도 쓰여서 with a shrug는 '어깨를 으쓱하며'예요. 이모티콘 ¯\\_(ツ)_/¯ 가 shrug를 상징해요.",
+  "also": []
+ },
+ {
+  "w": "sigh",
+  "pos": "v",
+  "meaning_ko": "한숨 쉬다",
+  "example_en": "She **sighed** and closed the book after reading the last page.",
+  "example_ko": "그녀는 마지막 장을 읽고 나서 한숨을 내쉬며 책을 덮었어요.",
+  "nuance_ko": "sigh는 안도, 피곤함, 실망, 만족 등을 숨을 길게 내쉬며 드러내는 것이에요. sigh with relief는 안심하며 숨을 돌리는 것이고 sigh in frustration은 답답해서 한숨을 쉬는 거예요. 한국어 한숨이 부정적인 느낌만 있는 것과 달리 영어 sigh는 안도의 한숨에도 자주 써요. 명사 a sigh도 흔하고 heave a sigh는 한숨을 푹 쉬다예요. 발음에서 gh는 소리 나지 않고 [사이]로 읽어요.",
+  "also": []
+ },
+ {
+  "w": "significance",
+  "pos": "n",
+  "meaning_ko": "중요성, 의미",
+  "example_en": "Nobody understood the **significance** of the discovery at first.",
+  "example_ko": "처음에는 아무도 그 발견의 중요성을 이해하지 못했어요.",
+  "nuance_ko": "significance는 어떤 사건이나 사실이 갖는 중요성이나 의미를 가리켜요. historical significance, cultural significance, of great significance처럼 써요. importance보다 깊은 의미와 영향력이 담겨 있어요. 통계에서는 statistical significance처럼 결과가 우연이 아닐 가능성이 높다는 뜻으로 쓰여요. 형용사 significant, 부사 significantly와 함께 외우면 좋아요.",
+  "also": [
+   {
+    "w": "insignificance",
+    "pos": "n",
+    "ko": "사소함, 무의미",
+    "en": "She felt a sense of **insignificance** in the huge city."
+   }
+  ]
+ },
+ {
+  "w": "significant",
+  "pos": "adj",
+  "meaning_ko": "중요한, 상당한, 유의미한",
+  "example_en": "There has been a **significant** increase in online shopping this year.",
+  "example_ko": "올해는 온라인 쇼핑이 상당히 늘었어요.",
+  "nuance_ko": "significant는 눈에 띌 만큼 크거나 중요하다는 뜻이에요. a significant difference, a significant amount, a significant role처럼 써요. 통계에서는 우연이 아닌 유의미한 결과를 뜻해서 statistically significant라고 해요. 숫자나 변화가 크다는 의미에서 big보다 격식 있고 정확해요. significant other는 연인이나 배우자를 완곡하게 부르는 표현이에요. 반대말은 insignificant이에요.",
+  "also": [
+   {
+    "w": "significantly",
+    "pos": "adv",
+    "ko": "상당히, 유의미하게",
+    "en": "Prices have risen **significantly** over the past year."
+   },
+   {
+    "w": "insignificant",
+    "pos": "adj",
+    "ko": "하찮은, 미미한",
+    "en": "The difference was too **insignificant** to notice."
+   }
+  ]
+ },
+ {
+  "w": "silent",
+  "pos": "adj",
+  "meaning_ko": "조용한, 말이 없는",
+  "example_en": "The whole room fell **silent** when the teacher walked in.",
+  "example_ko": "선생님이 들어오자 교실 전체가 조용해졌어요.",
+  "nuance_ko": "silent는 소리가 없거나 말을 하지 않는 상태를 뜻해요. fall silent, remain silent, stay silent처럼 써요. quiet은 소리가 작은 상태이고 silent는 소리가 전혀 없거나 입을 다문 상태에 가까워요. 영화에서는 무성영화를 silent film이라고 해요. silent letter는 철자에는 있어도 발음하지 않는 글자(knife의 k)예요. 부사 silently는 말없이, 소리 없이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "silently",
+    "pos": "adv",
+    "ko": "조용히, 말없이",
+    "en": "She **silently** left the room without a word."
+   }
+  ]
+ },
+ {
+  "w": "silk",
+  "pos": "n",
+  "meaning_ko": "비단, 실크",
+  "example_en": "She wore a beautiful **silk** scarf around her neck.",
+  "example_ko": "그녀는 목에 예쁜 실크 스카프를 둘렀어요.",
+  "nuance_ko": "silk는 누에고치에서 뽑은 실로 짠 부드럽고 윤기 나는 직물이에요. silk dress, silk tie, pure silk처럼 소재를 말할 때 써요. 고급스럽고 매끄러운 느낌이라 smooth as silk는 '아주 부드러운'이라는 표현이에요. 동아시아와 서양을 잇던 무역로인 Silk Road로도 유명해요. 형용사 silky는 비단처럼 부드러운이란 뜻으로 머릿결이나 피부를 묘사할 때 자주 써요.",
+  "also": [
+   {
+    "w": "silky",
+    "pos": "adj",
+    "ko": "비단 같은, 부드러운",
+    "en": "The shampoo leaves my hair soft and **silky**."
+   }
+  ]
+ },
+ {
+  "w": "simultaneous",
+  "pos": "adj",
+  "meaning_ko": "동시의",
+  "example_en": "The conference offers **simultaneous** translation in five languages.",
+  "example_ko": "그 학회는 다섯 개 언어로 동시통역을 제공해요.",
+  "nuance_ko": "simultaneous는 같은 시간에 동시에 일어나는 것을 뜻하는 형용사예요. simultaneous interpretation은 연사가 말하는 동안 바로 통역하는 동시통역이에요. simultaneous events, simultaneous release처럼 쓰여요. at the same time이 일상 표현이라면 simultaneous는 글이나 공식적인 설명에 어울려요. 부사 simultaneously는 동시에, 한꺼번에라는 뜻이에요. 발음이 길어서 [사이멀테이니어스]처럼 천천히 연습해 보세요.",
+  "also": [
+   {
+    "w": "simultaneously",
+    "pos": "adv",
+    "ko": "동시에",
+    "en": "The two explosions happened **simultaneously**."
+   }
+  ]
+ },
+ {
+  "w": "sin",
+  "pos": "n",
+  "meaning_ko": "죄, 죄악",
+  "example_en": "In many religions, greed is considered a **sin**.",
+  "example_ko": "많은 종교에서 탐욕은 죄로 여겨져요.",
+  "nuance_ko": "sin은 종교적, 도덕적 계율을 어기는 죄를 가리켜요. crime은 법을 어긴 범죄이고 sin은 신앙이나 도덕에 어긋나는 행위라는 차이가 있어요. the seven deadly sins(일곱 가지 대죄)는 교만, 탐욕, 질투 같은 항목을 말해요. 일상에서는 가볍게 It's a sin to waste food처럼 '그건 정말 아깝다'는 과장 표현으로도 써요. 동사로 sin은 죄를 짓다예요.",
+  "also": [
+   {
+    "w": "sinner",
+    "pos": "n",
+    "ko": "죄인",
+    "en": "The priest said every **sinner** can be forgiven."
+   }
+  ]
+ },
+ {
+  "w": "slice",
+  "pos": "n",
+  "meaning_ko": "조각, 한 조각",
+  "example_en": "Would you like another **slice** of pizza?",
+  "example_ko": "피자 한 조각 더 드실래요?",
+  "nuance_ko": "slice는 빵, 피자, 케이크, 햄처럼 얇게 잘라 낸 한 조각을 가리켜요. a slice of bread, a slice of cake가 대표적이에요. piece는 크기와 모양에 상관없는 조각이고 slice는 칼로 얇게 자른 조각이에요. 비유적으로 전체의 일부분을 뜻해서 a slice of life는 삶의 한 단면이라는 표현이에요. 동사 slice는 얇게 썰다라는 뜻이라 slice the onions처럼 요리에서 많이 써요.",
+  "also": [
+   {
+    "w": "sliced",
+    "pos": "adj",
+    "ko": "얇게 썬",
+    "en": "I bought some **sliced** cheese for sandwiches."
+   }
+  ]
+ },
+ {
+  "w": "slope",
+  "pos": "n",
+  "meaning_ko": "경사, 비탈",
+  "example_en": "We hiked up the steep **slope** to reach the top.",
+  "example_ko": "우리는 가파른 비탈을 올라서 정상에 도착했어요.",
+  "nuance_ko": "slope는 땅이나 표면이 한쪽으로 기울어진 경사나 비탈을 뜻해요. a steep slope, a gentle slope, ski slope(스키장 슬로프)처럼 써요. 스키장은 slopes라고 복수로 표현하는 경우도 많아요. 수학에서는 직선의 기울기를 slope라고 해요. 동사 slope는 기울어지다, 경사지다예요. 비유적으로 slippery slope는 한번 시작하면 걷잡을 수 없이 나빠지는 위험한 흐름을 가리키는 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "software",
+  "pos": "n",
+  "meaning_ko": "소프트웨어",
+  "example_en": "You need to update the **software** before you can use the new feature.",
+  "example_ko": "새 기능을 쓰려면 먼저 소프트웨어를 업데이트해야 해요.",
+  "nuance_ko": "software는 컴퓨터를 작동시키는 프로그램과 앱을 통틀어 부르는 말이에요. 하드웨어(hardware)와 짝으로 쓰여요. 불가산명사라서 a software나 softwares라고 쓰지 않고 a piece of software 또는 a software program이라고 해요. install software, update software, software developer처럼 일상 업무에서 매우 흔해요. 한국 학습자가 복수형 softwares로 쓰는 실수를 자주 해요.",
+  "also": []
+ },
+ {
+  "w": "sole",
+  "pos": "adj",
+  "meaning_ko": "유일한, 단독의",
+  "example_en": "He is the **sole** survivor of the accident.",
+  "example_ko": "그는 그 사고의 유일한 생존자예요.",
+  "nuance_ko": "sole은 하나뿐인 유일한 것을 가리키는 형용사로, 명사 바로 앞에서만 써요. the sole reason, the sole survivor, sole responsibility처럼 말해요. only와 비슷하지만 더 격식 있고 단 하나라는 강조가 있어요. 발음이 같은 soul(영혼)과 구분하고 신발 밑창을 뜻하는 sole과 같은 철자라는 점도 알아 두세요. 부사 solely는 오로지, 단지라는 뜻으로 solely responsible처럼 써요.",
+  "also": [
+   {
+    "w": "solely",
+    "pos": "adv",
+    "ko": "오로지",
+    "en": "The decision was made **solely** by the manager."
+   }
+  ]
+ },
+ {
+  "w": "solution",
+  "pos": "n",
+  "meaning_ko": "해결책, 용액",
+  "example_en": "We need to find a **solution** before the deadline.",
+  "example_ko": "마감 전에 해결책을 찾아야 해요.",
+  "nuance_ko": "solution은 문제를 푸는 방법이나 해답, 또는 액체에 물질이 녹은 용액을 가리켜요. a solution to the problem 형태로 전치사 to를 쓰는 점에 주의하세요. 비즈니스에서는 제품이나 서비스를 문제 해결책이라는 의미로 solutions라고 부르기도 해요. 수학에서는 방정식의 해를 뜻해요. 동사 solve와 짝이며 a quick solution, a long-term solution처럼 수식어를 붙여 써요.",
+  "also": []
+ },
+ {
+  "w": "solve",
+  "pos": "v",
+  "meaning_ko": "해결하다, 풀다",
+  "example_en": "It took me an hour to **solve** this math problem.",
+  "example_ko": "이 수학 문제를 푸는 데 한 시간이 걸렸어요.",
+  "nuance_ko": "solve는 문제, 수수께끼, 퍼즐처럼 정답이 있는 것을 풀거나 해결한다는 뜻이에요. solve a problem, solve a puzzle, solve a mystery, solve a crime이 대표적이에요. resolve는 갈등이나 분쟁을 매듭짓는 것이라 구분돼요. 사건을 해결하는 경우에도 쓰여서 The police solved the case는 사건을 해결했다는 뜻이에요. 형용사 unsolved는 미해결의, unsolvable은 풀 수 없는이에요.",
+  "also": [
+   {
+    "w": "unsolved",
+    "pos": "adj",
+    "ko": "미해결의",
+    "en": "The case remains **unsolved** after ten years."
+   }
+  ]
+ },
+ {
+  "w": "sophisticated",
+  "pos": "adj",
+  "meaning_ko": "세련된, 정교한",
+  "example_en": "The hacker used a very **sophisticated** method to break in.",
+  "example_ko": "해커는 아주 정교한 방법으로 침입했어요.",
+  "nuance_ko": "sophisticated는 사람에게 쓰면 세련되고 교양 있고 경험이 풍부하다는 뜻이에요. 기계나 시스템에 쓰면 복잡하고 정교하다는 뜻이에요. a sophisticated audience는 안목 있는 관객, sophisticated technology는 고도의 기술이에요. 칭찬으로 쓰는 경우가 많지만 지나치게 복잡하다는 느낌을 줄 수도 있어요. 반대말 unsophisticated는 소박한, 단순한이란 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "source",
+  "pos": "n",
+  "meaning_ko": "출처, 원천, 근원",
+  "example_en": "Can you tell me the **source** of that information?",
+  "example_ko": "그 정보의 출처가 어디인지 알려 줄 수 있어요?",
+  "nuance_ko": "source는 정보, 에너지, 물건이 나오는 곳이나 출처를 가리켜요. a reliable source, source of income, energy source처럼 써요. 뉴스에서 익명의 정보원을 가리켜 sources say ~라고 해요. 강의 발원지도 source라고 하고 프로그래밍에서는 source code를 말해요. 동사 source는 물건을 조달하다라는 뜻이라 source materials from overseas처럼 비즈니스에서 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "sovereign",
+  "pos": "adj",
+  "meaning_ko": "주권을 가진, 자주적인",
+  "example_en": "Each **sovereign** nation has the right to make its own laws.",
+  "example_ko": "모든 주권 국가는 자기 법을 만들 권리가 있어요.",
+  "nuance_ko": "sovereign은 외부의 간섭 없이 스스로를 다스리는 주권을 가진 상태를 가리켜요. a sovereign state, sovereign territory, sovereign power처럼 국제정치 글에서 자주 나와요. 명사로는 군주, 왕을 뜻하기도 해서 the sovereign은 현 국왕을 가리켜요. 금융에서는 sovereign debt처럼 국가가 발행한 채무를 말해요. 명사 sovereignty는 주권이고 national sovereignty(국가 주권)가 대표 표현이에요.",
+  "also": [
+   {
+    "w": "sovereignty",
+    "pos": "n",
+    "ko": "주권",
+    "en": "The island fought to protect its **sovereignty**."
+   }
+  ]
+ },
+ {
+  "w": "specify",
+  "pos": "v",
+  "meaning_ko": "명시하다, 구체적으로 말하다",
+  "example_en": "The contract must **specify** the exact date of delivery.",
+  "example_ko": "계약서에는 정확한 배송일을 명시해야 해요.",
+  "nuance_ko": "specify는 막연하지 않게 구체적이고 분명하게 정해서 말하거나 적는다는 뜻이에요. specify the details, specify a time, unless otherwise specified(별도 명시가 없는 한)처럼 공문서와 계약서에서 자주 나와요. state보다 구체성이 강하고 mention보다 더 정확하게 지정한다는 느낌이에요. 형용사 specific은 구체적인, 특정한이고 명사 specification(사양, 명세)과 연결돼요.",
+  "also": [
+   {
+    "w": "specified",
+    "pos": "adj",
+    "ko": "명시된",
+    "en": "Please arrive at the **specified** time."
+   },
+   {
+    "w": "unspecified",
+    "pos": "adj",
+    "ko": "명시되지 않은",
+    "en": "The meeting was postponed to an **unspecified** date."
+   }
+  ]
+ },
+ {
+  "w": "speculate",
+  "pos": "v",
+  "meaning_ko": "추측하다, 투기하다",
+  "example_en": "People **speculate** about why the star left the show.",
+  "example_ko": "사람들은 그 스타가 왜 프로그램을 떠났는지 추측하고 있어요.",
+  "nuance_ko": "speculate는 확실한 증거 없이 짐작해서 이야기한다는 뜻이에요. speculate about ~ 또는 speculate that ~ 형태로 쓰여요. 금융에서는 가격 상승을 노리고 위험한 투자를 하는 투기를 뜻해서 speculate in stocks가 있어요. guess보다 격식 있고 근거 없는 억측이라는 느낌이 있어요. 명사 speculation은 추측이나 투기를 뜻하며 뉴스에서 There is speculation that ~ 형태가 흔해요.",
+  "also": [
+   {
+    "w": "speculation",
+    "pos": "n",
+    "ko": "추측, 투기",
+    "en": "There is a lot of **speculation** about his future."
+   }
+  ]
+ },
+ {
+  "w": "spill",
+  "pos": "v",
+  "meaning_ko": "엎지르다, 쏟다",
+  "example_en": "Be careful not to **spill** your coffee on the new carpet.",
+  "example_ko": "새 카펫에 커피 엎지르지 않게 조심해.",
+  "nuance_ko": "spill은 액체나 가루 등이 용기에서 엉겁결에 쏟아지는 것을 뜻해요. 의도적이지 않은 실수라는 느낌이 강해서 spill the milk, spill juice처럼 쓰여요. 속담 Don't cry over spilt milk는 이미 엎질러진 물이니 후회해 봐야 소용없다는 뜻이에요. spill the beans는 비밀을 무심코 누설하다라는 관용구예요. 명사로는 기름 유출을 뜻하는 oil spill이 뉴스에 자주 나와요.",
+  "also": [
+   {
+    "w": "spilled",
+    "pos": "v",
+    "ko": "엎질렀다",
+    "en": "She **spilled** water all over the table."
+   }
+  ]
+ },
+ {
+  "w": "sponsor",
+  "pos": "n",
+  "meaning_ko": "후원자, 스폰서",
+  "example_en": "The company is the main **sponsor** of the marathon this year.",
+  "example_ko": "그 회사가 올해 마라톤의 주요 후원사예요.",
+  "nuance_ko": "sponsor는 행사, 팀, 방송, 사람에게 자금을 지원하는 후원자나 후원 기업이에요. 홍보 효과를 기대하며 후원한다는 상업적 뉘앙스가 있어요. 동사로 sponsor도 쓰이고 sponsored by ~는 '~의 후원으로'라는 방송 문구예요. 미국 이민에서는 비자를 보증해 주는 사람도 sponsor라고 불러요. 법안을 발의한 의원도 sponsor예요. 명사 sponsorship은 후원, 협찬을 뜻해요.",
+  "also": [
+   {
+    "w": "sponsorship",
+    "pos": "n",
+    "ko": "후원, 협찬",
+    "en": "The team lost its **sponsorship** deal last month."
+   }
+  ]
+ },
+ {
+  "w": "squeeze",
+  "pos": "v",
+  "meaning_ko": "짜다, 꽉 쥐다, 비집고 들어가다",
+  "example_en": "**Squeeze** some lemon juice over the fish before you serve it.",
+  "example_ko": "생선을 내놓기 전에 레몬즙을 조금 짜서 뿌려 주세요.",
+  "nuance_ko": "squeeze는 손이나 물체로 꽉 눌러서 액체를 짜내거나 좁은 곳에 끼워 넣는다는 뜻이에요. squeeze a lemon, squeeze toothpaste, squeeze into a small seat가 대표적이에요. 일정에 무엇을 겨우 끼워 넣을 때도 squeeze in a meeting이라고 해요. 손을 꼭 쥐어 애정이나 위로를 표현하는 squeeze someone's hand도 자주 써요. 명사로는 짜내기, 압박, 어려움을 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "stain",
+  "pos": "n",
+  "meaning_ko": "얼룩, 오점",
+  "example_en": "I can't get this coffee **stain** out of my shirt.",
+  "example_ko": "셔츠에 묻은 이 커피 얼룩이 안 지워져요.",
+  "nuance_ko": "stain은 옷이나 천에 묻어서 잘 지워지지 않는 얼룩이에요. a coffee stain, a blood stain, a grease stain처럼 쓰고 spot은 작은 점 형태의 얼룩이에요. 비유적으로 평판에 남는 오점을 뜻해서 a stain on his record는 이력에 남은 흠집이에요. 동사 stain은 얼룩지게 하다 또는 목재에 착색제를 바르다라는 뜻이에요. stainless steel(스테인리스 강)은 녹이나 얼룩이 생기지 않는 소재예요.",
+  "also": [
+   {
+    "w": "stained",
+    "pos": "adj",
+    "ko": "얼룩진",
+    "en": "His shirt was **stained** with red wine."
+   }
+  ]
+ },
+ {
+  "w": "stake",
+  "pos": "n",
+  "meaning_ko": "지분, 이해관계, 말뚝",
+  "example_en": "He has a ten percent **stake** in the family business.",
+  "example_ko": "그는 가족 사업에 10퍼센트의 지분을 가지고 있어요.",
+  "nuance_ko": "stake는 사업이나 상황에서 가진 지분이나 이해관계를 뜻해요. have a stake in ~는 '~에 이해관계가 있다'는 표현이에요. at stake는 위험에 처한, 걸려 있는이라는 관용구로 Our jobs are at stake처럼 쓰여요. 원래 뜻은 땅에 박는 말뚝이고 steak(스테이크)와 발음이 같아서 헷갈릴 수 있어요. 복수형 stakes는 내기에 걸린 판돈이나 위험도를 가리켜 high stakes는 중대한 판을 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "statistic",
+  "pos": "n",
+  "meaning_ko": "통계 수치",
+  "example_en": "One shocking **statistic** is that half the students never use the library.",
+  "example_ko": "충격적인 통계 하나는 학생 절반이 도서관을 한 번도 안 쓴다는 거예요.",
+  "nuance_ko": "statistic은 통계에서 나온 개별 수치 하나를 가리켜요. 복수형 statistics는 통계학이라는 학문을 가리키거나 여러 통계 자료를 뜻해요. a statistic, the statistics show that ~ 형태로 구분해서 써요. 학문으로서의 statistics는 단수 취급해서 Statistics is difficult처럼 말해요. 형용사 statistical은 통계적인이란 뜻이에요. 뉴스나 연구 글에서 근거 자료를 제시할 때 자주 나와요.",
+  "also": [
+   {
+    "w": "statistics",
+    "pos": "n",
+    "ko": "통계, 통계학",
+    "en": "The **statistics** show that crime is falling."
+   },
+   {
+    "w": "statistical",
+    "pos": "adj",
+    "ko": "통계적인",
+    "en": "We ran a **statistical** analysis of the survey."
+   }
+  ]
+ },
+ {
+  "w": "status",
+  "pos": "n",
+  "meaning_ko": "지위, 상태, 신분",
+  "example_en": "Please check the **status** of your order on our website.",
+  "example_ko": "저희 웹사이트에서 주문 상태를 확인해 주세요.",
+  "nuance_ko": "status는 사람의 사회적 지위나 신분, 또는 일의 진행 상태를 가리켜요. marital status는 결혼 여부, legal status는 법적 신분, order status는 주문 진행 상태예요. 소셜 미디어의 상태 메시지도 status라고 하죠. status symbol은 부와 지위를 과시하는 물건이에요. 보고서의 status update는 현황 공유를 뜻해요. 발음은 [스테이터스] 또는 [스태터스]예요.",
+  "also": []
+ },
+ {
+  "w": "statute",
+  "pos": "n",
+  "meaning_ko": "법령, 성문법",
+  "example_en": "The new **statute** bans smoking in all public parks.",
+  "example_ko": "새 법령은 모든 공원에서 흡연을 금지해요.",
+  "nuance_ko": "statute는 의회가 제정한 성문법, 즉 법령을 가리켜요. 판례로 만들어진 common law와 구분되는 개념이에요. statute of limitations는 공소시효 또는 소멸시효예요. 법률 문서와 뉴스에서 주로 쓰고 일상 대화에서는 거의 쓰지 않아요. 형용사 statutory는 법령에 정해진이란 뜻으로 statutory rights, statutory holiday(법정 공휴일)처럼 쓰여요.",
+  "also": [
+   {
+    "w": "statutory",
+    "pos": "adj",
+    "ko": "법령에 따른",
+    "en": "Employees have a **statutory** right to paid leave."
+   }
+  ]
+ },
+ {
+  "w": "stem",
+  "pos": "n",
+  "meaning_ko": "줄기, 어간",
+  "example_en": "Cut the **stem** of the flower at an angle before putting it in water.",
+  "example_ko": "꽃은 줄기를 비스듬히 잘라서 물에 꽂으세요.",
+  "nuance_ko": "stem은 식물의 줄기, 와인잔의 가는 손잡이 부분을 가리켜요. 언어학에서는 어형 변화의 중심이 되는 어간을 뜻해요. 동사 stem from ~은 '~에서 비롯되다'로 원인을 말할 때 자주 써요. Her fear stems from a childhood accident처럼 말해요. 또 다른 동사 뜻은 흐름을 막다라서 stem the flow of blood는 출혈을 막는다는 뜻이에요. STEM은 과학·기술·공학·수학 교육 분야를 가리키는 줄임말이기도 해요.",
+  "also": []
+ },
+ {
+  "w": "stimulate",
+  "pos": "v",
+  "meaning_ko": "자극하다, 활성화하다",
+  "example_en": "The new policy is meant to **stimulate** the economy.",
+  "example_ko": "새 정책은 경제를 활성화하려는 목적이에요.",
+  "nuance_ko": "stimulate는 관심, 성장, 활동을 일으키거나 활발하게 만든다는 뜻이에요. stimulate the economy, stimulate growth, stimulate interest처럼 써요. 신체나 두뇌를 자극하는 의미도 있어서 Coffee stimulates the brain처럼 말해요. 긍정적이고 활력을 준다는 뜻이 강해요. 형용사 stimulating은 자극이 되는, 흥미로운이고 a stimulating conversation은 지적으로 흥미로운 대화예요.",
+  "also": [
+   {
+    "w": "stimulating",
+    "pos": "adj",
+    "ko": "자극이 되는, 흥미로운",
+    "en": "It was a very **stimulating** lecture."
+   },
+   {
+    "w": "stimulation",
+    "pos": "n",
+    "ko": "자극",
+    "en": "Babies need **stimulation** to develop their brains."
+   }
+  ]
+ },
+ {
+  "w": "strain",
+  "pos": "n",
+  "meaning_ko": "부담, 긴장, 염좌",
+  "example_en": "The long hours put a lot of **strain** on his health.",
+  "example_ko": "긴 근무 시간이 그의 건강에 큰 부담을 줬어요.",
+  "nuance_ko": "strain은 몸이나 관계에 걸리는 지나친 부담과 긴장을 가리켜요. under strain은 '압박을 받는', put a strain on ~은 '~에 부담을 주다'예요. 근육이나 신체 부위를 무리해서 다치는 경우도 strain이라서 a muscle strain은 근육 염좌예요. 눈이 피로한 eye strain도 흔한 표현이에요. 동사 strain은 무리하게 힘을 쓰다, 긴장시키다라는 뜻이에요. 균주(바이러스 계통)를 뜻하는 strain도 있어요.",
+  "also": [
+   {
+    "w": "strained",
+    "pos": "adj",
+    "ko": "긴장된, 무리한",
+    "en": "Relations between the two countries are **strained**."
+   }
+  ]
+ },
+ {
+  "w": "strategy",
+  "pos": "n",
+  "meaning_ko": "전략",
+  "example_en": "We need a better marketing **strategy** to reach younger customers.",
+  "example_ko": "더 젊은 고객에게 닿으려면 더 나은 마케팅 전략이 필요해요.",
+  "nuance_ko": "strategy는 목표를 이루기 위해 장기적 관점에서 세우는 큰 방향의 계획이에요. business strategy, marketing strategy, develop a strategy처럼 써요. tactic은 전략을 실행하는 구체적이고 단기적인 방법이라 구분돼요. 게임이나 스포츠, 체스에서도 쓰여요. 형용사 strategic은 전략적인이고 strategic plan, strategic thinking이 비즈니스에서 흔해요. 복수형은 strategies예요.",
+  "also": [
+   {
+    "w": "strategic",
+    "pos": "adj",
+    "ko": "전략적인",
+    "en": "The company made a **strategic** decision to enter the Asian market."
+   }
+  ]
+ },
+ {
+  "w": "strict",
+  "pos": "adj",
+  "meaning_ko": "엄격한, 엄밀한",
+  "example_en": "My parents were very **strict** about homework when I was young.",
+  "example_ko": "어렸을 때 부모님은 숙제에 대해 매우 엄격하셨어요.",
+  "nuance_ko": "strict는 규칙을 철저히 지키게 하는 엄격함을 뜻해요. 사람에게 쓰면 규율에 엄한 사람이고 규칙이나 규정에 쓰면 예외 없는 엄한 것이에요. be strict with ~, strict rules, a strict diet처럼 써요. 엄밀한 정의나 해석에도 쓰여서 in the strict sense는 '엄밀한 의미에서'예요. 부사 strictly는 엄격하게, 오직이란 뜻이고 strictly forbidden처럼 금지를 강조할 때 쓰여요.",
+  "also": [
+   {
+    "w": "strictly",
+    "pos": "adv",
+    "ko": "엄격하게",
+    "en": "Smoking is **strictly** forbidden in this area."
+   }
+  ]
+ },
+ {
+  "w": "structure",
+  "pos": "n",
+  "meaning_ko": "구조, 구조물",
+  "example_en": "The **structure** of the essay should be clear and logical.",
+  "example_ko": "에세이의 구조는 분명하고 논리적이어야 해요.",
+  "nuance_ko": "structure는 여러 부분이 어떻게 짜여 있는지를 말하는 구조나, 건물과 같은 구조물을 가리켜요. the structure of a sentence, a steel structure, organizational structure처럼 폭넓게 써요. 동사 structure는 체계적으로 구성하다라는 뜻이라 structure a project처럼 쓰여요. 사회 구조, 가격 구조, 문장 구조 등 추상적인 짜임에도 두루 써요. 형용사 structural은 구조적인이란 뜻으로 structural damage는 건물 구조 손상이에요.",
+  "also": [
+   {
+    "w": "structural",
+    "pos": "adj",
+    "ko": "구조적인",
+    "en": "The engineer found **structural** problems in the old bridge."
+   },
+   {
+    "w": "structured",
+    "pos": "adj",
+    "ko": "체계적인",
+    "en": "The course has a clear and **structured** schedule."
+   }
+  ]
+ },
+ {
+  "w": "studio",
+  "pos": "n",
+  "meaning_ko": "스튜디오, 작업실, 원룸",
+  "example_en": "The band is recording their new album at a **studio** downtown.",
+  "example_ko": "그 밴드는 시내의 스튜디오에서 새 앨범을 녹음하고 있어요.",
+  "nuance_ko": "studio는 예술가가 작업하는 작업실, 음악 녹음실, 사진·방송 촬영장 등을 두루 가리켜요. 영화 제작사도 studio라고 불러서 a Hollywood studio는 할리우드 영화사예요. 미국과 영국에서는 방과 부엌, 침실이 구분되지 않은 원룸 아파트를 studio apartment라고 해요. 요가나 춤을 가르치는 곳도 yoga studio처럼 불러요. 한국어 스튜디오보다 쓰임이 넓다는 점을 기억하세요.",
+  "also": []
+ },
+ {
+  "w": "stun",
+  "pos": "v",
+  "meaning_ko": "깜짝 놀라게 하다, 기절시키다",
+  "example_en": "The sudden announcement **stunned** everyone in the room.",
+  "example_ko": "갑작스러운 발표에 방 안의 모든 사람이 어안이 벙벙해졌어요.",
+  "nuance_ko": "stun은 너무 놀라서 말문이 막힐 정도로 충격을 준다는 뜻이에요. 물리적으로 머리를 때려 잠시 의식을 잃게 하거나 전기 충격으로 제압할 때도 써요. stunned silence는 충격으로 인한 정적을 말해요. 형용사 stunning은 놀랍도록 멋진이란 긍정적 의미로 You look stunning!처럼 자주 쓰여요. 수동태 be stunned는 어안이 벙벙하다는 뜻이에요.",
+  "also": [
+   {
+    "w": "stunning",
+    "pos": "adj",
+    "ko": "굉장히 멋진",
+    "en": "The view from the hotel room was absolutely **stunning**."
+   },
+   {
+    "w": "stunned",
+    "pos": "adj",
+    "ko": "충격받은",
+    "en": "She was **stunned** by the news."
+   }
+  ]
+ },
+ {
+  "w": "submit",
+  "pos": "v",
+  "meaning_ko": "제출하다, 굴복하다",
+  "example_en": "Please **submit** your application before the end of the month.",
+  "example_ko": "이번 달 말 전에 지원서를 제출해 주세요.",
+  "nuance_ko": "submit은 서류, 신청서, 과제 등을 공식적으로 제출한다는 뜻이에요. 온라인 폼의 Submit 버튼이 대표적이에요. submit a report, submit a proposal, submit an application처럼 써요. 또 다른 뜻은 권위에 굴복하거나 따른다는 뜻으로 submit to the rules, submit to authority가 있어요. hand in은 구어체로 제출하다이고 submit이 더 격식 있어요. 명사 submission은 제출, 제출물, 항복을 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "subsequent",
+  "pos": "adj",
+  "meaning_ko": "그 이후의, 뒤이은",
+  "example_en": "In **subsequent** meetings, they discussed the budget in detail.",
+  "example_ko": "이어진 회의들에서 그들은 예산을 자세히 논의했어요.",
+  "nuance_ko": "subsequent는 어떤 일 다음에 이어서 오는 후속의, 이후의 것을 뜻하는 형용사예요. subsequent events, subsequent years, subsequent to ~('~ 이후에')처럼 써요. 반대말은 previous, preceding이에요. 부사 subsequently는 그 뒤에, 이후에라는 뜻으로 글에서 시간순을 정리할 때 자주 써요. 격식 있는 단어라 보고서와 뉴스 기사에서 많이 나와요.",
+  "also": [
+   {
+    "w": "subsequently",
+    "pos": "adv",
+    "ko": "그 이후에",
+    "en": "He was **subsequently** promoted to manager."
+   }
+  ]
+ },
+ {
+  "w": "subsidy",
+  "pos": "n",
+  "meaning_ko": "보조금, 지원금",
+  "example_en": "Farmers receive a government **subsidy** to keep food prices low.",
+  "example_ko": "농민들은 식품 가격을 낮게 유지하기 위해 정부 보조금을 받아요.",
+  "nuance_ko": "subsidy는 정부나 기관이 특정 산업이나 사람을 돕기 위해 지원하는 보조금이에요. farm subsidies, energy subsidies, housing subsidy처럼 경제 뉴스에서 흔해요. grant는 용도가 정해진 일회성 지원금이고 subsidy는 가격이나 비용을 낮춰 주기 위한 지속적 지원이라는 느낌이에요. 복수형은 subsidies예요. 동사 subsidize는 보조금을 주다, 지원하다예요.",
+  "also": [
+   {
+    "w": "subsidize",
+    "pos": "v",
+    "ko": "보조금을 지급하다",
+    "en": "The government will **subsidize** solar panels for homes."
+   }
+  ]
+ },
+ {
+  "w": "substance",
+  "pos": "n",
+  "meaning_ko": "물질, 실체, 핵심",
+  "example_en": "Scientists found a strange **substance** in the water sample.",
+  "example_ko": "과학자들은 물 시료에서 이상한 물질을 발견했어요.",
+  "nuance_ko": "substance는 화학적 물질, 약물, 또는 말이나 글의 실질적인 내용을 뜻해요. a toxic substance, illegal substances(불법 약물)처럼 쓰여요. 추상적으로는 내용의 알맹이를 뜻해서 There's no substance to his argument는 그의 주장에 실속이 없다는 말이에요. style over substance는 겉만 번지르르하고 알맹이가 없다는 표현이에요. 형용사 substantial은 상당한, 실질적인이란 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "substantial",
+  "pos": "adj",
+  "meaning_ko": "상당한, 실질적인",
+  "example_en": "The company made a **substantial** investment in new equipment.",
+  "example_ko": "회사는 새 장비에 상당한 투자를 했어요.",
+  "nuance_ko": "substantial은 양이나 규모, 정도가 꽤 크고 의미 있다는 뜻의 형용사예요. a substantial amount, a substantial improvement, substantial evidence처럼 써요. 식사가 푸짐하고 든든하다는 뜻으로 a substantial meal도 있어요. considerable과 비슷하지만 실질적인 무게감이 있는 느낌이에요. 부사 substantially는 상당히, 크게라는 뜻이고 반대말은 insubstantial(실체 없는)이에요.",
+  "also": [
+   {
+    "w": "substantially",
+    "pos": "adv",
+    "ko": "상당히",
+    "en": "Costs have risen **substantially** since last year."
+   }
+  ]
+ },
+ {
+  "w": "substitute",
+  "pos": "n",
+  "meaning_ko": "대체품, 대리인",
+  "example_en": "You can use honey as a **substitute** for sugar in this recipe.",
+  "example_ko": "이 요리법에서는 설탕 대신 꿀을 써도 돼요.",
+  "nuance_ko": "substitute는 원래의 것을 대신해서 쓰는 대체품이나 대리인을 뜻해요. a substitute for ~ 형태로 '~의 대용품'을 말해요. 학교에서 결근한 교사 대신 오는 substitute teacher, 스포츠의 교체 선수도 substitute예요. 동사로 substitute A for B는 'B 대신 A를 쓰다', 즉 쓰는 새 것이 앞에 오는 점이 한국어와 달라 헷갈려요. 명사 substitution은 교체, 대체를 뜻해요.",
+  "also": [
+   {
+    "w": "substitution",
+    "pos": "n",
+    "ko": "교체, 대체",
+    "en": "The coach made a **substitution** at half time."
+   }
+  ]
+ },
+ {
+  "w": "subtle",
+  "pos": "adj",
+  "meaning_ko": "미묘한, 섬세한",
+  "example_en": "There is a **subtle** difference between these two colors.",
+  "example_ko": "이 두 색 사이에는 미묘한 차이가 있어요.",
+  "nuance_ko": "subtle은 쉽게 알아채기 힘들 만큼 미세하고 은근한 것을 가리켜요. a subtle difference, a subtle hint, subtle flavors처럼 써요. 노골적이지 않고 세련되게 암시하는 방식을 칭찬할 때도 써서 subtle humor는 은은한 유머예요. 발음에서 b는 소리 나지 않아 [써틀]로 읽어요. 부사 subtly는 은근히, 미묘하게라는 뜻이고 반대말은 obvious, blatant예요.",
+  "also": [
+   {
+    "w": "subtly",
+    "pos": "adv",
+    "ko": "은근히, 미묘하게",
+    "en": "The design has been **subtly** improved."
+   }
+  ]
+ },
+ {
+  "w": "suburb",
+  "pos": "n",
+  "meaning_ko": "교외, 근교",
+  "example_en": "They moved to a quiet **suburb** to raise their kids.",
+  "example_ko": "그들은 아이들을 키우려고 조용한 교외로 이사했어요.",
+  "nuance_ko": "suburb는 도시 중심에서 떨어진 주거 지역인 교외를 가리켜요. 미국과 영국에서는 가족 단위의 단독 주택이 모인 조용한 주거지라는 이미지가 강해요. live in the suburbs, the suburbs of London처럼 복수형을 자주 써요. downtown(도심)과 대비되고 한국의 신도시와 비슷한 개념이에요. 형용사 suburban은 교외의, 때로는 평범하고 틀에 박힌 중산층 생활을 암시해요.",
+  "also": [
+   {
+    "w": "suburban",
+    "pos": "adj",
+    "ko": "교외의",
+    "en": "They lead a quiet **suburban** life."
+   }
+  ]
+ },
+ {
+  "w": "succeed",
+  "pos": "v",
+  "meaning_ko": "성공하다, 뒤를 잇다",
+  "example_en": "She worked hard and finally **succeeded** in passing the exam.",
+  "example_ko": "그녀는 열심히 노력해서 마침내 시험에 합격하는 데 성공했어요.",
+  "nuance_ko": "succeed는 목표를 이루는 성공과 이전 사람의 자리를 이어받는 계승 두 가지 뜻이 있어요. succeed in ~ing는 '~하는 데 성공하다'라서 전치사 in을 쓰는 점이 중요해요. 계승은 She succeeded her father as CEO처럼 목적어를 바로 취해요. 명사는 성공이 success, 계승이 succession이라 달라져요. 형용사 successful은 성공적인, successive는 연속된이라 혼동하지 마세요.",
+  "also": []
+ },
+ {
+  "w": "succession",
+  "pos": "n",
+  "meaning_ko": "연속, 계승",
+  "example_en": "The team lost three games in **succession** last week.",
+  "example_ko": "그 팀은 지난주에 세 경기를 연달아 졌어요.",
+  "nuance_ko": "succession은 어떤 일이 차례로 잇달아 일어나는 연속, 또는 지위나 권한을 이어받는 계승을 가리켜요. in succession은 연달아, a succession of ~는 '잇따른 ~'이에요. 왕위 계승은 succession to the throne, 기업의 승계 계획은 succession planning이라고 해요. 형용사 successive는 연속적인이라 three successive wins는 3연승이에요. 사람은 successor(후계자)예요.",
+  "also": [
+   {
+    "w": "successor",
+    "pos": "n",
+    "ko": "후계자, 후임",
+    "en": "The board is searching for a **successor** to the CEO."
+   },
+   {
+    "w": "successive",
+    "pos": "adj",
+    "ko": "연속적인",
+    "en": "They won five **successive** games."
+   }
+  ]
+ },
+ {
+  "w": "sufficient",
+  "pos": "adj",
+  "meaning_ko": "충분한",
+  "example_en": "Do we have **sufficient** time to finish before the meeting?",
+  "example_ko": "회의 전에 끝낼 충분한 시간이 있을까요?",
+  "nuance_ko": "sufficient는 필요한 만큼 충분하다는 뜻의 형용사로 enough보다 격식 있어요. sufficient evidence, sufficient funds, sufficient time처럼 써요. enough는 일상 대화용이고 sufficient는 법률, 보고서, 공식 문서에 어울려요. 반대말 insufficient는 불충분한이고 insufficient funds는 잔액 부족이란 은행 용어예요. 부사 sufficiently는 충분히라는 뜻이에요.",
+  "also": [
+   {
+    "w": "insufficient",
+    "pos": "adj",
+    "ko": "불충분한",
+    "en": "The evidence was **insufficient** to convict him."
+   }
+  ]
+ },
+ {
+  "w": "suicide",
+  "pos": "n",
+  "meaning_ko": "자살",
+  "example_en": "The government launched a new program to prevent **suicide** among young people.",
+  "example_ko": "정부는 청소년의 자살을 막기 위한 새 프로그램을 시작했어요.",
+  "nuance_ko": "suicide는 스스로 목숨을 끊는 일을 가리키는 명사로 뉴스, 의료, 사회 정책 글에서 신중하게 쓰이는 단어예요. 보도에서는 예방과 지원 정보를 함께 다루는 것이 원칙이에요. 일상 대화에서 가볍게 비유로 쓰는 것은 피해야 해요. commit suicide는 오래 쓰인 표현이지만 요즘은 die by suicide가 더 중립적이라고 여겨져요. 형용사 suicidal은 자살 충동이 있는이란 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "sum",
+  "pos": "n",
+  "meaning_ko": "합계, 금액",
+  "example_en": "He paid a large **sum** of money for the old painting.",
+  "example_ko": "그는 그 오래된 그림에 큰 금액을 지불했어요.",
+  "nuance_ko": "sum은 더한 합계 또는 일정한 금액을 뜻해요. the sum of 3 and 4 is 7처럼 수학에서 쓰이고, a large sum of money, a small sum처럼 돈의 액수를 격식 있게 표현할 때 써요. in sum은 '요약하면, 요컨대'라는 글에서 쓰는 연결 표현이에요. 동사 sum up은 요약하다로 To sum up은 말하기에서 결론을 시작하는 표현이에요. total은 합계 전체를, sum은 계산된 합이나 금액을 가리켜요.",
+  "also": []
+ },
+ {
+  "w": "summary",
+  "pos": "n",
+  "meaning_ko": "요약",
+  "example_en": "Please write a short **summary** of the article in your own words.",
+  "example_ko": "기사 내용을 자기 말로 짧게 요약해서 써 주세요.",
+  "nuance_ko": "summary는 긴 글이나 이야기의 핵심만 간추린 요약이에요. a brief summary, an executive summary(경영진 요약), in summary처럼 쓰여요. outline은 글의 구조를 잡은 개요이고 summary는 이미 있는 내용을 압축한 거예요. 동사 summarize는 요약하다이고 Summarize the main points처럼 쓰여요. 형용사로는 즉결의라는 뜻도 있어서 summary justice는 정식 절차 없이 하는 즉결 처분이에요.",
+  "also": [
+   {
+    "w": "summarize",
+    "pos": "v",
+    "ko": "요약하다",
+    "en": "Can you **summarize** the meeting in a few sentences?"
+   }
+  ]
+ },
+ {
+  "w": "summit",
+  "pos": "n",
+  "meaning_ko": "정상, 정상회담",
+  "example_en": "The leaders will meet at a **summit** in Geneva next month.",
+  "example_ko": "각국 정상들이 다음 달 제네바에서 열리는 정상회담에서 만날 거예요.",
+  "nuance_ko": "summit은 산의 가장 높은 정상, 그리고 국가 지도자들이 만나는 정상회담을 가리켜요. reach the summit, a peace summit, G20 summit처럼 써요. 산의 정점은 peak와 비슷하지만 summit이 꼭대기 지점을 말하는 느낌이에요. 비즈니스에서도 큰 규모의 회의를 summit이라고 부르는 경우가 많아요. 비유적으로 summit of one's career는 경력의 정점이에요.",
+  "also": []
+ },
+ {
+  "w": "superior",
+  "pos": "adj",
+  "meaning_ko": "우수한, 상급의",
+  "example_en": "This phone has a **superior** camera compared to older models.",
+  "example_ko": "이 폰은 예전 모델에 비해 카메라가 더 뛰어나요.",
+  "nuance_ko": "superior는 품질이나 지위가 다른 것보다 더 우수하거나 높다는 형용사예요. superior to ~ 형태로 비교하고 than을 쓰지 않는 점이 특이해요. 반대말은 inferior to ~이에요. 사람에게 쓰면 잘난 체한다는 부정적 느낌이 될 수 있어서 a superior attitude는 거만한 태도예요. 명사 superior는 직장 상사, 상급자를 뜻하고 report to your superior처럼 격식 있는 말로 써요.",
+  "also": [
+   {
+    "w": "superiority",
+    "pos": "n",
+    "ko": "우월성",
+    "en": "The team proved its **superiority** by winning every match."
+   }
+  ]
+ },
+ {
+  "w": "supervise",
+  "pos": "v",
+  "meaning_ko": "감독하다, 관리하다",
+  "example_en": "A teacher must **supervise** the children during the field trip.",
+  "example_ko": "현장 학습 동안에는 교사가 아이들을 감독해야 해요.",
+  "nuance_ko": "supervise는 사람이나 작업이 제대로 진행되는지 곁에서 지켜보며 관리한다는 뜻이에요. supervise employees, supervise a project, under supervision('감독 아래에서')처럼 써요. 아이들을 돌보는 감독에도 쓰고 대학에서는 논문 지도교수가 학생을 지도하는 것도 supervise예요. manage는 운영·관리 전체에, supervise는 현장에서 직접 관리 감독하는 데 초점이 있어요. 사람은 supervisor예요.",
+  "also": [
+   {
+    "w": "supervisor",
+    "pos": "n",
+    "ko": "감독관, 상사",
+    "en": "My **supervisor** approved my vacation request."
+   },
+   {
+    "w": "supervision",
+    "pos": "n",
+    "ko": "감독, 관리",
+    "en": "Children must swim under adult **supervision**."
+   }
+  ]
+ },
+ {
+  "w": "supplement",
+  "pos": "n",
+  "meaning_ko": "보충제, 추가, 부록",
+  "example_en": "I take a vitamin D **supplement** during the winter.",
+  "example_ko": "나는 겨울 동안 비타민 D 보충제를 먹어요.",
+  "nuance_ko": "supplement는 부족한 부분을 보충해 주는 것을 가리켜요. 건강 분야에서는 영양제, 건강보조식품을 뜻해서 dietary supplement라고 해요. 책이나 신문의 부록, 추가분이라는 뜻도 있어요. 동사로는 supplement A with B가 'A를 B로 보충하다'예요. 이미 충분한 것에 더한다는 점에서 complement(보완하여 완성하다)와 구분돼요. 형용사 supplementary는 추가의, 보충의이란 뜻이에요.",
+  "also": [
+   {
+    "w": "supplementary",
+    "pos": "adj",
+    "ko": "추가의, 보충의",
+    "en": "The students were given **supplementary** reading materials."
+   }
+  ]
+ }
+]

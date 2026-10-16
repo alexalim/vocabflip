@@ -1,0 +1,1747 @@
+[
+ {
+  "w": "owned",
+  "pos": "adj",
+  "meaning_ko": "소유된, 소유한",
+  "example_en": "This restaurant is family-**owned** and has been open for forty years.",
+  "example_ko": "이 식당은 가족이 운영하는 곳이고 40년째 영업 중이야.",
+  "nuance_ko": "owned는 own(소유하다)의 과거분사로, 형용사처럼 '~가 소유한'이라는 뜻을 만들어요. family-owned, state-owned, privately owned처럼 앞에 누가 소유하는지를 붙여서 하이픈으로 연결해요. 회사 소개나 뉴스에서 기업의 지배 구조를 설명할 때 자주 나와요. 'owned by ~'로 소유자를 밝히는 수동 구문도 흔해요. 'owned'는 슬랭으로 '완전히 제압당했다'는 게임 용어(I got owned)로도 쓰이니 문맥으로 구별하세요.",
+  "also": [
+   {
+    "w": "owner",
+    "pos": "n",
+    "ko": "주인, 소유자",
+    "en": "The **owner** of the shop greeted us at the door."
+   },
+   {
+    "w": "ownership",
+    "pos": "n",
+    "ko": "소유권, 주인 의식",
+    "en": "Employees should take **ownership** of their projects."
+   }
+  ]
+ },
+ {
+  "w": "pack",
+  "pos": "v",
+  "meaning_ko": "짐을 싸다, 꾸러미",
+  "example_en": "I haven't even started to **pack** for tomorrow's flight yet.",
+  "example_ko": "내일 비행기 탈 짐을 아직 하나도 안 쌌어.",
+  "nuance_ko": "pack은 물건을 가방이나 상자에 '차곡차곡 넣어 싸다'는 동작이에요. pack a suitcase 또는 pack your bags처럼 가방을 목적어로도, 물건을 목적어로도 쓸 수 있어요. 반대말은 unpack(짐을 풀다)이에요. 명사로는 '묶음, 한 팩'(a pack of gum)이고 늑대 무리(wolf pack)나 6개들이 맥주(six-pack)처럼 무리·묶음에도 써요. 'packed'는 '꽉 찬, 붐비는'이라는 뜻으로 The bus was packed.처럼 자주 말해요.",
+  "also": [
+   {
+    "w": "package",
+    "pos": "n",
+    "ko": "소포, 포장",
+    "en": "A **package** arrived at my door this morning."
+   },
+   {
+    "w": "packed",
+    "pos": "adj",
+    "ko": "꽉 찬, 붐비는",
+    "en": "The train was **packed** during rush hour."
+   }
+  ]
+ },
+ {
+  "w": "page",
+  "pos": "n",
+  "meaning_ko": "쪽, 페이지",
+  "example_en": "Please open your books to **page** forty-two.",
+  "example_ko": "책 42쪽을 펴주세요.",
+  "nuance_ko": "page는 책이나 문서의 한 '쪽'이고, 웹에서는 '웹 페이지'(web page)를 말해요. 쪽수 앞에는 전치사 on을 써서 'on page 5'라고 해요. 'turn the page'는 책장을 넘기는 동작이면서 비유적으로 '새 출발을 하다'를 뜻하기도 해요. 'be on the same page'는 '의견이 같다, 이해가 일치한다'는 회의에서 자주 쓰는 관용구예요. 동사로는 '호출하다'(page a doctor)라는 뜻도 있어요.",
+  "also": []
+ },
+ {
+  "w": "pain",
+  "pos": "n",
+  "meaning_ko": "고통, 통증",
+  "example_en": "I have a sharp **pain** in my lower back when I stand up.",
+  "example_ko": "일어설 때 허리 아래쪽이 찌르는 듯이 아파.",
+  "nuance_ko": "pain은 몸이나 마음의 고통을 가리켜요. 신체 부위와 함께 a pain in my knee, back pain처럼 쓰고, 통증의 종류는 sharp pain(찌르는), dull pain(둔한)처럼 구분해요. ache는 계속되는 은근한 아픔이라 headache처럼 합성어로 쓰고, pain은 더 일반적이고 강해요. 'a pain in the neck'은 '골칫거리'를 뜻하는 관용구예요. 'take pains to ~'(애써서 ~하다)는 복수형 pains를 쓰는 점도 알아두세요.",
+  "also": [
+   {
+    "w": "painful",
+    "pos": "adj",
+    "ko": "고통스러운, 아픈",
+    "en": "Walking on that ankle is still **painful**."
+   },
+   {
+    "w": "painless",
+    "pos": "adj",
+    "ko": "고통 없는",
+    "en": "The procedure is quick and **painless**."
+   }
+  ]
+ },
+ {
+  "w": "paint",
+  "pos": "v",
+  "meaning_ko": "페인트를 칠하다, 그리다",
+  "example_en": "We're going to **paint** the living room a soft shade of blue.",
+  "example_ko": "우리 거실을 부드러운 파란색으로 칠할 거야.",
+  "nuance_ko": "paint는 붓이나 롤러로 색을 칠하는 동작이에요. 벽에 칠하는 것도, 그림을 그리는 것도 paint라서 paint a wall과 paint a picture를 모두 써요. draw는 연필·펜으로 선을 그리는 것이라 paint와 구별해요. 칠하는 색은 'paint the door red'처럼 목적어 뒤에 색을 붙여요. 명사로는 물감이나 페인트 자체를 뜻해서 셀 수 없는 명사로 쓰고, 'Wet paint'는 '칠 주의' 표지판 문구예요.",
+  "also": [
+   {
+    "w": "painting",
+    "pos": "n",
+    "ko": "그림, 회화",
+    "en": "She sold her first **painting** last week."
+   },
+   {
+    "w": "painter",
+    "pos": "n",
+    "ko": "화가, 페인트공",
+    "en": "The **painter** finished the room in a day."
+   }
+  ]
+ },
+ {
+  "w": "pair",
+  "pos": "n",
+  "meaning_ko": "한 쌍, 짝",
+  "example_en": "I need to buy a new **pair** of running shoes this weekend.",
+  "example_ko": "이번 주말에 새 러닝화 한 켤레를 사야 해.",
+  "nuance_ko": "pair는 두 개가 한 세트를 이루는 물건이나 사람에게 써요. 신발, 양말, 바지, 안경처럼 둘이 합쳐 하나가 되는 것은 a pair of ~로 셉니다. 바지(pants)와 가위(scissors)는 항상 복수형이라서 a pair of pants라고 해요. 동사로는 '짝을 짓다, 어울리게 하다'(pair wine with cheese)로 써요. couple은 사람의 커플에 많이 쓰고 pair는 물건의 한 쌍에 더 어울려요. in pairs는 '둘씩 짝지어'라는 뜻이에요.",
+  "also": [
+   {
+    "w": "paired",
+    "pos": "adj",
+    "ko": "짝을 이룬",
+    "en": "The wine was **paired** with grilled fish."
+   }
+  ]
+ },
+ {
+  "w": "paper",
+  "pos": "n",
+  "meaning_ko": "종이, 신문, 논문",
+  "example_en": "Can you hand me a sheet of **paper** and a pen?",
+  "example_ko": "종이 한 장이랑 펜 좀 건네줄래?",
+  "nuance_ko": "paper는 종이라는 재료일 때는 셀 수 없는 명사이고, '신문'(a paper)이나 '논문, 보고서'(a research paper)를 뜻할 때는 셀 수 있어요. 종이를 세려면 a sheet of paper, a piece of paper라고 해요. 'on paper'는 '서류상으로는, 이론상으로는'이라는 관용 표현이에요. paper cup, paper bag, paperwork(서류 작업)처럼 복합어도 많아요. 학교에서 'write a paper'는 과제 논문을 쓴다는 뜻이에요.",
+  "also": [
+   {
+    "w": "papers",
+    "pos": "n",
+    "ko": "서류, 신분증",
+    "en": "Please show your **papers** at the gate."
+   }
+  ]
+ },
+ {
+  "w": "pardon",
+  "pos": "int",
+  "meaning_ko": "실례합니다, 다시 말씀해 주세요",
+  "example_en": "**Pardon**, could you say that one more time? I didn't catch it.",
+  "example_ko": "죄송한데, 한 번만 더 말씀해 주실래요? 못 들었어요.",
+  "nuance_ko": "pardon은 상대의 말을 못 들었을 때 정중하게 되묻는 말('Pardon?')로 가장 많이 써요. 영국 영어에서 흔하고, 미국에서는 'Excuse me?'나 'Sorry?'가 더 흔해요. 길을 비켜달라고 할 때 'Pardon me'도 쓸 수 있어요. 'I beg your pardon'은 매우 격식 있는 사과 또는 되묻기이고, 약간 화난 어조로 말하면 '뭐라고요?'라는 항의가 돼요. 법적 의미로는 '사면하다, 사면'이라는 동사·명사로도 쓰여요.",
+  "also": [
+   {
+    "w": "pardoned",
+    "pos": "v",
+    "ko": "사면받았다",
+    "en": "The prisoner was **pardoned** by the president."
+   }
+  ]
+ },
+ {
+  "w": "parent",
+  "pos": "n",
+  "meaning_ko": "부모",
+  "example_en": "Both of my **parents** are coming to my graduation next week.",
+  "example_ko": "우리 부모님 두 분 다 다음 주 내 졸업식에 오실 거야.",
+  "nuance_ko": "parent는 어머니나 아버지 한 명을 가리키고, 복수형 parents는 부모님 두 분 또는 보호자를 뜻해요. 아빠와 엄마를 구분하지 않아도 되는 중립적인 말이라 학교 서류나 상담에서 자주 나와요. single parent(한부모), parent-teacher meeting(학부모 면담)처럼 쓰고, 동사 parent는 '아이를 키우다'라는 뜻이에요. 구어에서 부모님을 부를 땐 Mom, Dad를 쓰고 parent는 3인칭으로 말할 때 써요.",
+  "also": [
+   {
+    "w": "parental",
+    "pos": "adj",
+    "ko": "부모의",
+    "en": "The app requires **parental** consent."
+   },
+   {
+    "w": "parenting",
+    "pos": "n",
+    "ko": "양육",
+    "en": "**Parenting** is hard but rewarding."
+   }
+  ]
+ },
+ {
+  "w": "park",
+  "pos": "n",
+  "meaning_ko": "공원, 주차하다",
+  "example_en": "There's a nice **park** near my house where I jog every morning.",
+  "example_ko": "우리 집 근처에 좋은 공원이 있어서 매일 아침 조깅해.",
+  "nuance_ko": "park는 명사로 '공원', 동사로 '주차하다'라는 두 가지 뜻이 있어요. 'park the car'처럼 목적어를 바로 쓰고 'Where can I park?'는 주차할 곳을 묻는 질문이에요. 놀이공원은 amusement park, 국립공원은 national park예요. 주차장은 parking lot(미국)이나 car park(영국)이라고 하죠. 'a walk in the park'는 '식은 죽 먹기'라는 관용구라서 문맥에 주의하세요.",
+  "also": [
+   {
+    "w": "parking",
+    "pos": "n",
+    "ko": "주차",
+    "en": "Is there free **parking** near the venue?"
+   },
+   {
+    "w": "parked",
+    "pos": "adj",
+    "ko": "주차된",
+    "en": "A **parked** car blocked the road."
+   }
+  ]
+ },
+ {
+  "w": "part",
+  "pos": "n",
+  "meaning_ko": "부분, 역할",
+  "example_en": "The best **part** of the trip was the street food in Bangkok.",
+  "example_ko": "여행에서 제일 좋았던 부분은 방콕의 길거리 음식이었어.",
+  "nuance_ko": "part는 전체의 한 '부분'이고 역할(play a part), 부품(spare parts), 영화의 속편 편수(Part 2) 등으로도 써요. 'take part in ~'은 '~에 참가하다'이고 'part of ~'는 '~의 일부'예요. 'for the most part'는 '대부분은', 'on my part'는 '내 쪽에서는'이라는 관용 표현이에요. 'part-time'은 시간제를 뜻하고 동사로 'part ways'는 '헤어지다, 결별하다'를 뜻해요. 한국 학습자는 take part in과 participate in을 같은 의미로 외우면 좋아요.",
+  "also": [
+   {
+    "w": "partly",
+    "pos": "adv",
+    "ko": "부분적으로",
+    "en": "The delay was **partly** my fault."
+   },
+   {
+    "w": "partial",
+    "pos": "adj",
+    "ko": "부분적인",
+    "en": "We only received **partial** payment."
+   }
+  ]
+ },
+ {
+  "w": "particular",
+  "pos": "adj",
+  "meaning_ko": "특정한, 까다로운",
+  "example_en": "Is there any **particular** reason you chose this restaurant?",
+  "example_ko": "이 식당을 고른 특별한 이유라도 있어?",
+  "nuance_ko": "particular는 일반적인 것 중에서 '바로 그 특정한 것'을 짚어 말할 때 써요. in particular는 '특히', 'nothing in particular'는 '딱히 없어'라는 대화 표현이에요. 사람에게 쓰면 '까다로운, 취향이 확실한'이라는 뜻이 돼요(He is particular about food). specific과 비슷하지만 particular는 '다른 것들과 구별되는 하나'를 강조해요. 부정문에서는 'Are you doing anything particular?'처럼 쓰면 약간 격식 있게 들려요.",
+  "also": [
+   {
+    "w": "particularly",
+    "pos": "adv",
+    "ko": "특히",
+    "en": "I'm **particularly** fond of Italian food."
+   }
+  ]
+ },
+ {
+  "w": "party",
+  "pos": "n",
+  "meaning_ko": "파티, 정당",
+  "example_en": "We're throwing a surprise **party** for Tom this Saturday.",
+  "example_ko": "이번 토요일에 톰을 위한 깜짝 파티를 열 거야.",
+  "nuance_ko": "party는 모임·파티이고, 정치에서는 '정당'(political party), 법적 용어로는 '당사자'를 뜻해요. 파티를 열다는 throw a party 또는 have a party이고 참석하는 건 go to a party예요. 'party animal'은 파티를 즐기는 사람을 말하고, 'the guilty party'는 '잘못한 쪽'이라는 법률·일상 표현이에요. 인원수를 말할 때 'a party of four'는 일행 네 명이라는 뜻이라 식당 예약 때 유용해요.",
+  "also": [
+   {
+    "w": "parties",
+    "pos": "n",
+    "ko": "파티들, 정당들",
+    "en": "Both political **parties** agreed on the new law."
+   }
+  ]
+ },
+ {
+  "w": "pass",
+  "pos": "v",
+  "meaning_ko": "지나가다, 건네주다, 합격하다",
+  "example_en": "Could you **pass** me the salt, please?",
+  "example_ko": "소금 좀 건네줄래요?",
+  "nuance_ko": "pass는 '무언가가 옆을 지나가거나 넘어가는' 움직임이 핵심이에요. 소금을 건네주다, 시간이 흐르다, 시험에 합격하다, 공을 패스하다가 모두 같은 그림이에요. 반대인 fail은 시험에 떨어진다는 뜻이에요. 'pass by'는 근처를 지나가다, 'pass away'는 돌아가시다(완곡어), 'pass out'은 기절하다예요. 'Pass the test'에서처럼 시험에는 타동사로 쓰고, 'pass on'은 정보를 전달하거나 제안을 거절할 때도 써요.",
+  "also": [
+   {
+    "w": "passing",
+    "pos": "adj",
+    "ko": "지나가는, 순간적인",
+    "en": "It was just a **passing** thought."
+   },
+   {
+    "w": "passable",
+    "pos": "adj",
+    "ko": "그럭저럭 괜찮은",
+    "en": "The road is barely **passable** after the rain."
+   }
+  ]
+ },
+ {
+  "w": "past",
+  "pos": "n",
+  "meaning_ko": "과거, 지나간",
+  "example_en": "I don't like talking about my **past** with people I just met.",
+  "example_ko": "난 방금 만난 사람들한테 내 과거 얘기하는 건 안 좋아해.",
+  "nuance_ko": "past는 명사 '과거', 형용사 '지난', 전치사 '~을 지나서'(past the station), 시각 표현 'half past three'(3시 30분)에 두루 쓰여요. in the past는 '예전에', for the past three years는 '지난 3년간'으로 현재완료와 잘 어울려요. 형용사 past는 이미 지나간 시기를 가리켜서 'past experience'(과거 경험)처럼 써요. 'passed'(pass의 과거형)와 혼동하기 쉬운데, passed는 동사의 과거형이고 past는 명사·형용사·전치사예요.",
+  "also": []
+ },
+ {
+  "w": "pay",
+  "pos": "v",
+  "meaning_ko": "지불하다, 급료",
+  "example_en": "Let me **pay** for dinner this time since you drove.",
+  "example_ko": "네가 운전했으니까 이번엔 저녁값 내가 낼게.",
+  "nuance_ko": "pay는 돈을 내는 동작을 가리키는 동사로 pay-paid-paid로 변해요. 사람에게 줄 때는 pay him, 물건값은 pay for the meal이라고 하며 for를 빠뜨리지 마세요. pay attention(주의를 기울이다), pay a visit(방문하다)처럼 돈 이외의 추상적 대가에도 써요. 명사로는 '급여'(a pay raise)이고 'paycheck'는 급료 수표를 뜻해요. 'It pays to ~'는 '~하는 게 이득이다'라는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "payment",
+    "pos": "n",
+    "ko": "지불, 납부",
+    "en": "The **payment** is due by Friday."
+   },
+   {
+    "w": "unpaid",
+    "pos": "adj",
+    "ko": "지불되지 않은",
+    "en": "I still have an **unpaid** bill."
+   }
+  ]
+ },
+ {
+  "w": "penny",
+  "pos": "n",
+  "meaning_ko": "1센트 동전, 푼돈",
+  "example_en": "I spent every last **penny** on that concert ticket.",
+  "example_ko": "그 콘서트 표에 마지막 한 푼까지 다 썼어.",
+  "nuance_ko": "penny는 미국의 1센트 동전, 영국에서는 1파운드의 100분의 1 단위예요. 복수형은 두 가지인데 개별 동전은 pennies, 금액을 말할 때 영국에서는 pence(20p = twenty pence)를 써요. 관용구 'a penny for your thoughts'는 생각에 잠긴 사람에게 '무슨 생각해?'라고 묻는 표현이고, 'pennies from heaven'은 뜻밖의 횡재를 뜻해요. 'not a penny'는 '한 푼도 ~않다'로 부정 강조에 쓰여요.",
+  "also": [
+   {
+    "w": "pennies",
+    "pos": "n",
+    "ko": "동전들, 푼돈",
+    "en": "She saved up **pennies** in a jar."
+   }
+  ]
+ },
+ {
+  "w": "people",
+  "pos": "n",
+  "meaning_ko": "사람들, 국민",
+  "example_en": "A lot of **people** showed up for the free concert in the park.",
+  "example_ko": "공원 무료 콘서트에 정말 많은 사람이 왔어.",
+  "nuance_ko": "people은 person의 복수로 쓰이는 가장 흔한 단어이고, 이미 복수이므로 peoples가 아니라 people이라고 해요(The people are friendly). 하나의 민족이나 국민을 말할 때는 셀 수 있게 a people, peoples로 쓰기도 하지만 드물어요. 사람의 수는 many people, few people이라고 세고 persons는 법률·공식 문서에서 써요. 'people say that ~'처럼 막연한 일반인을 가리킬 때도 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "perfect",
+  "pos": "adj",
+  "meaning_ko": "완벽한, 딱 맞는",
+  "example_en": "This is the **perfect** spot for a picnic by the lake.",
+  "example_ko": "여기가 호숫가 소풍하기에 딱 좋은 자리야.",
+  "nuance_ko": "perfect는 부족함이 없다는 뜻의 '완벽한'이지만, 일상에서는 '딱 알맞은, 안성맞춤인'의 의미로도 많이 써요. 'Perfect!'는 약속이나 제안에 대한 만족스러운 대답이에요. 동사로 쓰면 '완벽하게 다듬다'(perfect a technique)이고 발음 강세가 달라서(형용사 PER-fect, 동사 per-FECT) 알아두면 좋아요. 'practice makes perfect'는 '연습이 완벽을 만든다'는 속담이에요. more perfect는 논리상 어색해서 비교급은 거의 쓰지 않아요.",
+  "also": [
+   {
+    "w": "perfectly",
+    "pos": "adv",
+    "ko": "완벽하게, 아주",
+    "en": "The shoes fit me **perfectly**."
+   },
+   {
+    "w": "perfection",
+    "pos": "n",
+    "ko": "완벽, 완성",
+    "en": "She worked on the song until it reached **perfection**."
+   }
+  ]
+ },
+ {
+  "w": "perhaps",
+  "pos": "adv",
+  "meaning_ko": "아마도, 어쩌면",
+  "example_en": "**Perhaps** we should talk about this again after lunch.",
+  "example_ko": "점심 먹고 나서 이 얘기를 다시 해보는 게 좋을 것 같아.",
+  "nuance_ko": "perhaps는 maybe의 격식 있는 버전으로 가능성이나 완곡한 제안에 써요. 'Perhaps you could ~'는 정중하게 부탁하거나 의견을 낼 때 어울려요. 문장 앞에서 쓰는 것이 일반적이지만 문장 중간에도 올 수 있어요. 실제 확신 정도는 maybe와 비슷하지만 글이나 비즈니스 대화에서 더 세련되게 들려요. 일상 구어에서는 maybe가 훨씬 흔하고, perhaps를 쓰면 약간 정중하고 영국적인 느낌이 나요.",
+  "also": []
+ },
+ {
+  "w": "person",
+  "pos": "n",
+  "meaning_ko": "사람",
+  "example_en": "She is the kindest **person** I have ever met in my life.",
+  "example_ko": "그녀는 내가 살면서 만난 사람 중에 제일 친절한 사람이야.",
+  "nuance_ko": "person은 사람 한 명을 가리키는 기본 단어이고, 복수는 people이 일반적이며 persons는 법적·공식 문서에서 써요. in person은 '직접, 몸소'라는 뜻으로 'I'd like to meet you in person'처럼 쓰고, 전화나 온라인과 대비돼요. 'a morning person'은 아침형 인간, 'a people person'은 사람 만나기 좋아하는 사람이에요. '-person'을 붙인 chairperson, salesperson처럼 성 중립적인 직함도 흔해요.",
+  "also": [
+   {
+    "w": "personal",
+    "pos": "adj",
+    "ko": "개인적인",
+    "en": "This is a **personal** matter."
+   },
+   {
+    "w": "personally",
+    "pos": "adv",
+    "ko": "개인적으로",
+    "en": "**Personally**, I prefer the first option."
+   }
+  ]
+ },
+ {
+  "w": "photograph",
+  "pos": "n",
+  "meaning_ko": "사진",
+  "example_en": "This old **photograph** was taken at my grandparents' wedding.",
+  "example_ko": "이 오래된 사진은 우리 조부모님 결혼식 때 찍은 거야.",
+  "nuance_ko": "photograph는 격식 있는 '사진'이고 일상에서는 줄여서 photo 또는 picture를 많이 써요. 사진을 찍는다고 할 땐 take a photo(picture)이고 take a photograph는 약간 문어체예요. 동사 photograph는 '촬영하다'이고 사람은 photographer, 기술은 photography예요. 발음은 /ˈfoʊtəɡræf/이며 photographer는 강세가 두 번째 음절이라 달라지는 점에 주의하세요. 'photo shoot'는 화보 촬영이에요.",
+  "also": [
+   {
+    "w": "photography",
+    "pos": "n",
+    "ko": "사진술, 사진 촬영",
+    "en": "He studies **photography** at art school."
+   },
+   {
+    "w": "photographer",
+    "pos": "n",
+    "ko": "사진가",
+    "en": "The **photographer** took hundreds of shots."
+   }
+  ]
+ },
+ {
+  "w": "pick",
+  "pos": "v",
+  "meaning_ko": "고르다, 따다, 집다",
+  "example_en": "You can **pick** any flavor of ice cream you want.",
+  "example_ko": "아이스크림 맛은 네가 원하는 아무거나 골라도 돼.",
+  "nuance_ko": "pick은 여러 개 중에서 '골라 집어내는' 동작이에요. 과일을 따다(pick apples), 선택하다(pick a color), 코나 이를 쑤시다처럼 쓰임이 넓어요. 구동사가 풍부해서 pick up(들어올리다/태우러 가다/배우다), pick out(골라내다), pick on(괴롭히다)이 대표적이에요. 'Pick me up at six'는 6시에 태우러 오라는 뜻이에요. choose보다 구어적이고 직관적인 선택에 쓰고, 명사로 'my top pick'은 가장 마음에 드는 선택을 뜻해요.",
+  "also": [
+   {
+    "w": "picky",
+    "pos": "adj",
+    "ko": "까다로운",
+    "en": "My son is a **picky** eater."
+   }
+  ]
+ },
+ {
+  "w": "picture",
+  "pos": "n",
+  "meaning_ko": "그림, 사진, 상황",
+  "example_en": "Can you take a **picture** of us in front of the fountain?",
+  "example_ko": "분수대 앞에서 우리 사진 좀 찍어줄래?",
+  "nuance_ko": "picture는 그림·사진·영상 등 눈으로 보는 이미지를 두루 가리켜요. take a picture는 사진을 찍는 가장 일상적인 표현이고 draw a picture는 그림을 그리는 것이에요. 비유적으로 '상황, 전체적인 모습'을 뜻해서 'the big picture'(큰 그림), 'get the picture'(상황을 이해하다)가 있어요. 동사로 '상상하다'(Picture yourself on a beach)로도 써요. 미국 영어에서 motion picture는 영화를 뜻하는 오래된 표현이에요.",
+  "also": [
+   {
+    "w": "pictured",
+    "pos": "adj",
+    "ko": "사진에 나온",
+    "en": "The man **pictured** here is my father."
+   }
+  ]
+ },
+ {
+  "w": "piece",
+  "pos": "n",
+  "meaning_ko": "조각, 한 개",
+  "example_en": "Would you like another **piece** of cake with your coffee?",
+  "example_ko": "커피랑 같이 케이크 한 조각 더 드실래요?",
+  "nuance_ko": "piece는 큰 것에서 떨어져 나온 한 조각이나 셀 수 없는 명사를 세는 단위로 쓰여요. a piece of cake, a piece of paper, a piece of advice, a piece of furniture처럼요. advice나 information 같은 불가산 명사는 a piece of로 센다는 것이 포인트예요. 예술 작품이나 글을 가리킬 때 'a piece of music', 'a piece in the newspaper'처럼 한 편을 뜻하기도 해요. 'a piece of cake'는 '아주 쉬운 일'이라는 관용 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "place",
+  "pos": "n",
+  "meaning_ko": "장소, 곳, 두다",
+  "example_en": "This is my favorite **place** to read on weekends.",
+  "example_ko": "여긴 내가 주말에 책 읽는 걸 제일 좋아하는 곳이야.",
+  "nuance_ko": "place는 장소를 나타내는 가장 기본적인 명사이고, 동사로는 '놓다, 두다'(place the order)를 뜻해요. 'at my place'는 '우리 집에서'라는 구어 표현으로 흔하고, 'take place'는 행사가 '열리다'예요. 'in the first place'(애초에), 'in place of ~'(~ 대신에), 'out of place'(어울리지 않는) 같은 관용 표현도 많아요. 순위에서도 'win first place'처럼 쓰여요. place는 구체적인 위치, spot은 작은 지점, location은 격식 있는 위치라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "placed",
+    "pos": "v",
+    "ko": "놓았다, 배치했다",
+    "en": "She **placed** the vase on the table."
+   }
+  ]
+ },
+ {
+  "w": "plan",
+  "pos": "n",
+  "meaning_ko": "계획",
+  "example_en": "Do you have any **plans** for the long weekend?",
+  "example_ko": "연휴에 무슨 계획 있어?",
+  "nuance_ko": "plan은 앞으로 할 일에 대한 계획이고 동사로는 '계획하다'예요. 일상 대화에서는 복수형 plans로 약속·일정을 물어봐요(Do you have plans tonight?). plan to + 동사원형 또는 plan on + -ing 형태를 써요. 'Plan B'는 대안 계획, 'go according to plan'은 계획대로 진행되다예요. plan과 schedule은 plan이 큰 방향, schedule이 시간표라는 차이가 있어요. 사업 계획서는 business plan이라고 불러요.",
+  "also": [
+   {
+    "w": "planning",
+    "pos": "n",
+    "ko": "계획 수립",
+    "en": "Good **planning** saves a lot of time."
+   },
+   {
+    "w": "unplanned",
+    "pos": "adj",
+    "ko": "계획되지 않은",
+    "en": "We had an **unplanned** stop on the way."
+   }
+  ]
+ },
+ {
+  "w": "plant",
+  "pos": "n",
+  "meaning_ko": "식물, 공장, 심다",
+  "example_en": "I forgot to water the **plant** on my desk again this week.",
+  "example_ko": "이번 주에도 책상 위 화분에 물 주는 걸 깜빡했어.",
+  "nuance_ko": "plant는 식물이면서 '공장, 발전소'(a power plant, a car plant)라는 전혀 다른 뜻도 있어요. 동사로는 '심다'(plant a tree)이고 plant a bug처럼 '몰래 설치하다'로도 써요. houseplant는 실내 화분이고 'plant-based'는 식물성 재료를 쓴 음식을 뜻해요. 같은 식물인 flower는 꽃을 가리키고 tree는 나무라 plant보다 구체적이에요. 공장 의미는 factory와 비슷하지만 plant는 대규모 생산 시설을 가리켜요.",
+  "also": [
+   {
+    "w": "planted",
+    "pos": "v",
+    "ko": "심었다",
+    "en": "We **planted** three trees in the yard."
+   }
+  ]
+ },
+ {
+  "w": "play",
+  "pos": "v",
+  "meaning_ko": "놀다, 경기하다, 연주하다",
+  "example_en": "The kids love to **play** soccer in the park after school.",
+  "example_ko": "애들은 방과 후에 공원에서 축구하는 걸 좋아해.",
+  "nuance_ko": "play는 놀이, 운동, 악기 연주, 연극 공연 등 폭넓게 쓰여요. 운동은 play soccer처럼 관사 없이 쓰고, 악기는 play the piano처럼 the를 붙여요. 영상이나 음악을 재생하다(play a video), 역할을 맡다(play a role)로도 쓰여요. 명사 play는 연극이나 희곡을 뜻하기도 해요. 놀이터에서 노는 건 play, 운동 경기에서는 game을 쓰는 경우가 많아서 'play a game'은 흔한 짝꿍이에요.",
+  "also": [
+   {
+    "w": "player",
+    "pos": "n",
+    "ko": "선수, 연주자",
+    "en": "He is the best **player** on the team."
+   },
+   {
+    "w": "playful",
+    "pos": "adj",
+    "ko": "장난기 많은",
+    "en": "The puppy is very **playful**."
+   }
+  ]
+ },
+ {
+  "w": "please",
+  "pos": "int",
+  "meaning_ko": "제발, 부디, 기쁘게 하다",
+  "example_en": "Could you close the window, **please**? It's getting cold.",
+  "example_ko": "창문 좀 닫아줄래요? 추워지고 있어서요.",
+  "nuance_ko": "please는 요청을 공손하게 만드는 가장 기본 단어예요. 문장 끝에 붙이면 'Could you help me, please?', 앞에 붙이면 'Please sit down.'이 돼요. 억양에 따라 간절한 부탁('Please!')이나 짜증 섞인 말투가 될 수 있어요. 동사로는 '기쁘게 하다, 만족시키다'(It's hard to please him)이며 'if you please'는 옛스러운 표현이에요. 'Pleased to meet you'는 첫 인사로 쓰는 격식 있는 표현이에요.",
+  "also": [
+   {
+    "w": "pleased",
+    "pos": "adj",
+    "ko": "기쁜, 만족한",
+    "en": "I'm very **pleased** with the results."
+   },
+   {
+    "w": "pleasing",
+    "pos": "adj",
+    "ko": "즐거운, 마음에 드는",
+    "en": "The colors are **pleasing** to the eye."
+   }
+  ]
+ },
+ {
+  "w": "plenty",
+  "pos": "pron",
+  "meaning_ko": "많음, 충분히 많은",
+  "example_en": "Don't worry, there's **plenty** of food for everyone at the party.",
+  "example_ko": "걱정 마, 파티에 모두가 먹고도 남을 음식이 있어.",
+  "nuance_ko": "plenty는 '필요한 것 이상으로 충분히 많다'는 뜻이에요. plenty of + 명사(셀 수 있는 복수와 셀 수 없는 명사 모두)로 쓰고, 단독 대명사로는 'There's plenty left'처럼 말해요. a lot of보다 '충분하고도 남는다'는 만족감이 있고, 주로 긍정문에서 써요. 'plenty more'는 '더 많이 있다'는 뜻이에요. 부사로 'plenty good enough'처럼 쓰는 미국 구어 용법도 있어요. 부정문에서는 not enough를 써야 해요.",
+  "also": [
+   {
+    "w": "plentiful",
+    "pos": "adj",
+    "ko": "풍부한",
+    "en": "Fresh fruit is **plentiful** in summer."
+   }
+  ]
+ },
+ {
+  "w": "plus",
+  "pos": "conj",
+  "meaning_ko": "더하기, 게다가",
+  "example_en": "I have a meeting at ten, **plus** two calls after lunch.",
+  "example_ko": "10시에 회의가 있고, 게다가 점심 먹고 전화도 두 건 있어.",
+  "nuance_ko": "plus는 수학의 '더하기'에서 나온 말로, 전치사로는 'two plus two is four'처럼 쓰고 구어에서는 '게다가, 그리고 또'라는 접속사처럼 쓰여요. 명사로는 '장점, 플러스 요인'(That's a plus)이에요. 형용사로는 'plus size', '+ 표시' 의미로 'B plus'(B+)처럼 성적에도 써요. 격식 있는 글에서 문장을 plus로 시작하는 것은 피하는 것이 좋지만 이메일이나 구어에서는 자연스러워요. 반대는 minus예요.",
+  "also": []
+ },
+ {
+  "w": "point",
+  "pos": "n",
+  "meaning_ko": "요점, 점, 가리키다",
+  "example_en": "I don't see the **point** of arguing about this anymore.",
+  "example_ko": "이걸 더 이상 따지는 게 무슨 소용인지 모르겠어.",
+  "nuance_ko": "point는 '뾰족한 한 점'에서 확장되어 요점, 의견, 득점, 시점, 가리키다 등으로 쓰여요. 'What's your point?'는 '요점이 뭐야?', 'I see your point'는 '네 말 알겠어'로 대화에 자주 나와요. 'at this point'는 '이 시점에', 'There's no point in -ing'는 '~해봐야 소용없다'예요. 동사로 'point at/to ~'는 손가락으로 가리키는 것이고, 'point out'은 '지적하다'예요. 점수에서는 'win by two points'처럼 득점을 세요.",
+  "also": [
+   {
+    "w": "pointless",
+    "pos": "adj",
+    "ko": "무의미한",
+    "en": "It's **pointless** to argue with him."
+   },
+   {
+    "w": "pointed",
+    "pos": "adj",
+    "ko": "뾰족한, 날카로운",
+    "en": "She made a **pointed** remark about the delay."
+   }
+  ]
+ },
+ {
+  "w": "police",
+  "pos": "n",
+  "meaning_ko": "경찰",
+  "example_en": "Call the **police** right away if you see anything suspicious.",
+  "example_ko": "수상한 걸 보면 바로 경찰에 신고해.",
+  "nuance_ko": "police는 경찰 조직 전체를 가리키는 집합 명사로 항상 the police로 쓰고 복수 동사를 받아요(The police are investigating). 개인 한 명은 police officer 또는 policeman/policewoman이라고 하고 a police는 틀려요. call the police(경찰을 부르다), police station(경찰서)이 자주 쓰여요. 동사로는 '치안을 유지하다, 단속하다'로 정부나 단체가 규칙을 감시한다는 뜻이에요. cop은 구어적 표현이고 폐쇄적 느낌이 있을 수 있어요.",
+  "also": [
+   {
+    "w": "policing",
+    "pos": "n",
+    "ko": "치안 유지 활동",
+    "en": "Community **policing** has reduced crime."
+   }
+  ]
+ },
+ {
+  "w": "poor",
+  "pos": "adj",
+  "meaning_ko": "가난한, 형편없는, 불쌍한",
+  "example_en": "The service at that restaurant was really **poor** last night.",
+  "example_ko": "어젯밤 그 식당 서비스는 정말 형편없었어.",
+  "nuance_ko": "poor는 세 가지로 쓰여요. 돈이 없는 '가난한', 품질이 낮은 '형편없는', 동정하는 '불쌍한'(Poor thing!)이에요. poor quality, poor health, poor performance처럼 평가나 품질을 말할 때 흔하고 bad보다 점잖은 표현이에요. the poor는 가난한 사람들 전체를 말하는 복수 집합명사예요. 부사 poorly는 '형편없이'인데 'I feel poorly'처럼 영국 영어에서 '몸이 안 좋다'는 뜻도 있어요.",
+  "also": [
+   {
+    "w": "poorly",
+    "pos": "adv",
+    "ko": "형편없이",
+    "en": "The game was **poorly** organized."
+   }
+  ]
+ },
+ {
+  "w": "pop",
+  "pos": "v",
+  "meaning_ko": "펑 터지다, 불쑥 나타나다",
+  "example_en": "I'll just **pop** into the store and grab some milk.",
+  "example_ko": "잠깐 가게에 들러서 우유 좀 사올게.",
+  "nuance_ko": "pop은 '펑' 하는 짧은 소리와 갑작스러운 움직임을 나타내요. 풍선이 터지는 것(The balloon popped), 갑자기 나타나는 것(pop up)이 대표적이에요. 영국 구어에서 'pop in/over'는 잠깐 들르다라는 뜻으로 가볍고 친근해요. pop은 음악 장르(pop music)와 탄산음료(미국 일부에서 soda 대신 pop)를 가리키는 명사도 있어요. 'pop the question'은 청혼하다라는 관용구예요. 팝업 광고는 pop-up window라고 해요.",
+  "also": [
+   {
+    "w": "popped",
+    "pos": "v",
+    "ko": "펑 터졌다",
+    "en": "The corn **popped** in the pan."
+   }
+  ]
+ },
+ {
+  "w": "position",
+  "pos": "n",
+  "meaning_ko": "위치, 자세, 직위",
+  "example_en": "She applied for a **position** at the design firm last month.",
+  "example_ko": "그녀는 지난달에 그 디자인 회사 자리에 지원했어.",
+  "nuance_ko": "position은 위치, 자세, 입장, 직위 등 여러 뜻으로 쓰여요. 직장에서는 job보다 격식 있는 '직책, 자리'를 말하고(a managerial position), 구인 공고에서 흔해요. 'in a position to + 동사원형'은 '~할 수 있는 입장에 있다', 'put yourself in my position'은 '내 입장이 돼봐'예요. 스포츠에서는 선수의 포지션을 가리키고, 동사로 '배치하다'(position the camera)라고 써요. 방향이나 지점을 말하는 location과 구분하세요.",
+  "also": [
+   {
+    "w": "positioned",
+    "pos": "adj",
+    "ko": "위치한, 배치된",
+    "en": "The shop is well **positioned** near the station."
+   }
+  ]
+ },
+ {
+  "w": "possible",
+  "pos": "adj",
+  "meaning_ko": "가능한",
+  "example_en": "Is it **possible** to move the meeting to Thursday afternoon?",
+  "example_ko": "회의를 목요일 오후로 옮기는 게 가능할까요?",
+  "nuance_ko": "possible은 '일어날 수 있는, 해낼 수 있는'이라는 뜻의 형용사예요. 사람이 주어가 될 수 없어서 'I am possible to go'는 틀리고 'It is possible for me to go'로 말해요. as soon as possible(ASAP, 가능한 한 빨리)과 if possible(가능하다면)은 업무 메일의 단골 표현이에요. 반대말은 impossible이고 가능성은 possibility, 가능성 있게는 possibly이에요. 'Is it possible to ~?'는 정중한 요청에도 써요.",
+  "also": [
+   {
+    "w": "possibly",
+    "pos": "adv",
+    "ko": "어쩌면, 아마",
+    "en": "Could you **possibly** send me the file today?"
+   },
+   {
+    "w": "impossible",
+    "pos": "adj",
+    "ko": "불가능한",
+    "en": "It's **impossible** to finish by noon."
+   }
+  ]
+ },
+ {
+  "w": "post",
+  "pos": "n",
+  "meaning_ko": "게시물, 우편, 직위",
+  "example_en": "I saw your **post** about the new cafe, and it looked amazing.",
+  "example_ko": "새로 생긴 카페에 대한 네 게시글 봤는데 정말 좋아 보이더라.",
+  "nuance_ko": "post는 뜻이 여러 가지라 문맥으로 구별해야 해요. 온라인 '게시글'(a blog post), 영국식 '우편'(the post), 직위(a post at the embassy), 기둥(a goalpost)이 있어요. 동사로는 '게시하다'(post a photo)와 '우편으로 부치다'(영국)로 써요. 'post-'가 접두사로 붙으면 '~후의'라는 뜻이라 post-war, post-graduate가 돼요. 소셜미디어 시대에는 post가 가장 많이 쓰이는 의미가 게시글이에요.",
+  "also": [
+   {
+    "w": "posted",
+    "pos": "v",
+    "ko": "게시했다",
+    "en": "She **posted** a photo of her dinner."
+   },
+   {
+    "w": "postal",
+    "pos": "adj",
+    "ko": "우편의",
+    "en": "The **postal** service raised its prices."
+   }
+  ]
+ },
+ {
+  "w": "pot",
+  "pos": "n",
+  "meaning_ko": "냄비, 항아리, 화분",
+  "example_en": "Put the pasta in the **pot** when the water starts boiling.",
+  "example_ko": "물이 끓기 시작하면 냄비에 파스타를 넣어.",
+  "nuance_ko": "pot은 깊고 둥근 용기로 요리용 냄비, 차를 담는 teapot, 꽃을 심는 flowerpot, 커피포트 등에 두루 쓰여요. pan(팬)은 납작한 프라이팬이고 pot은 깊어서 끓이는 용도라는 차이가 있어요. 'pots and pans'는 취사 도구 일반을 뜻하는 단골 표현이에요. 포커의 판돈도 pot이라 'the pot'은 쌓인 돈을 가리켜요. 'go to pot'은 '엉망이 되다'라는 관용구예요. 마리화나를 가리키는 속어도 있으니 문맥에 주의하세요.",
+  "also": [
+   {
+    "w": "pottery",
+    "pos": "n",
+    "ko": "도자기, 도예",
+    "en": "She takes a **pottery** class every Friday."
+   }
+  ]
+ },
+ {
+  "w": "pound",
+  "pos": "n",
+  "meaning_ko": "파운드(무게/영국 화폐)",
+  "example_en": "The package weighs about two **pounds**, so shipping is cheap.",
+  "example_ko": "소포 무게가 2파운드 정도라서 배송비가 싸.",
+  "nuance_ko": "pound는 무게 단위(약 453g, lb)와 영국 화폐(£)를 둘 다 뜻해요. 무게를 말할 때는 two pounds, 돈은 five pounds로 복수형을 써요. 기호가 lb(무게)와 £(돈)로 서로 달라요. 동사 pound는 '쾅쾅 두드리다'(pound on the door), 심장이 '쿵쾅거리다'(my heart pounded)로 전혀 다른 의미도 있어요. 'pound sterling'은 영국 파운드의 정식 명칭이에요. 미국 일상에서는 체중을 pounds로 말해서 kg과의 환산이 필요해요.",
+  "also": []
+ },
+ {
+  "w": "power",
+  "pos": "n",
+  "meaning_ko": "힘, 권력, 전력",
+  "example_en": "The **power** went out for two hours during the storm last night.",
+  "example_ko": "어젯밤 폭풍우 때문에 두 시간 동안 전기가 나갔어.",
+  "nuance_ko": "power는 육체적 힘, 권한, 영향력, 전력 등 폭넓게 쓰여요. 'power outage'는 정전, 'power plant'는 발전소, 'in power'는 집권 중이라는 뜻이에요. 정치·사회에서는 '권력, 강대국'(a world power)을 의미해요. 수학에서는 '거듭제곱'(2 to the power of 3)이에요. 동사로는 '동력을 공급하다'(be powered by solar energy)예요. strength는 몸의 힘이고 power는 영향을 미치는 능력이라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "powerful",
+    "pos": "adj",
+    "ko": "강력한",
+    "en": "It was a **powerful** speech."
+   },
+   {
+    "w": "powerless",
+    "pos": "adj",
+    "ko": "무력한",
+    "en": "He felt **powerless** to help."
+   }
+  ]
+ },
+ {
+  "w": "prepare",
+  "pos": "v",
+  "meaning_ko": "준비하다",
+  "example_en": "I need to **prepare** for tomorrow's interview tonight.",
+  "example_ko": "오늘 밤 내일 면접을 준비해야 해.",
+  "nuance_ko": "prepare는 어떤 일에 대비하여 미리 준비하는 것을 말해요. prepare for + 명사(시험, 면접)와 prepare + 목적어(음식, 서류)로 모두 쓸 수 있어요. 'Be prepared'는 보이스카우트 구호로 '준비하라'는 뜻이고, 'be prepared to + 동사'는 '기꺼이 ~할 각오가 되어 있다'로 의미가 확장돼요. 구어에서 get ready가 더 일상적이고 prepare는 조금 더 격식 있고 계획적인 느낌이에요. 명사 preparation은 'in preparation for ~'(~에 대비하여)로 자주 써요.",
+  "also": [
+   {
+    "w": "prepared",
+    "pos": "adj",
+    "ko": "준비된",
+    "en": "I wasn't **prepared** for the question."
+   },
+   {
+    "w": "preparation",
+    "pos": "n",
+    "ko": "준비",
+    "en": "**Preparation** takes much longer than cooking."
+   }
+  ]
+ },
+ {
+  "w": "present",
+  "pos": "adj",
+  "meaning_ko": "현재의, 참석한, 선물",
+  "example_en": "Everyone **present** at the meeting agreed with the proposal.",
+  "example_ko": "회의에 참석한 모든 사람이 그 제안에 동의했어.",
+  "nuance_ko": "present는 형용사 '현재의, 참석한', 명사 '선물, 현재', 동사 '제시하다, 발표하다'로 품사에 따라 뜻과 발음이 달라지는 단어예요. 형용사·명사는 /ˈprezənt/, 동사는 /prɪˈzent/로 강세가 달라요. 'be present at ~'는 '~에 참석하다', 'at present'는 '현재는'이고 'the present'은 '현재'를 가리켜요. 선물은 gift보다 구어에서 일상적으로 많이 써요(a birthday present). 'present tense'는 현재 시제를 뜻해요.",
+  "also": [
+   {
+    "w": "presently",
+    "pos": "adv",
+    "ko": "현재, 곧",
+    "en": "She is **presently** working abroad."
+   }
+  ]
+ },
+ {
+  "w": "presented",
+  "pos": "v",
+  "meaning_ko": "발표했다, 제시했다, 수여했다",
+  "example_en": "She **presented** her research findings to the entire department.",
+  "example_ko": "그녀는 연구 결과를 부서 전체에 발표했어.",
+  "nuance_ko": "presented는 present(동사)의 과거형·과거분사로, 격식 있게 내놓거나 보여주거나 수여하는 행위를 가리켜요. present A with B(A에게 B를 수여하다), present a report(보고서를 발표하다), 'be presented with a problem'(문제에 직면하다)처럼 써요. 프레젠테이션을 말할 때 give a presentation과 거의 같은 뜻이에요. 비즈니스와 뉴스에서 자주 나오지만, 일상 대화에서는 show나 give를 대신 쓰기도 해요.",
+  "also": [
+   {
+    "w": "presentation",
+    "pos": "n",
+    "ko": "발표, 제시",
+    "en": "I have a **presentation** at nine tomorrow."
+   },
+   {
+    "w": "presenter",
+    "pos": "n",
+    "ko": "발표자, 진행자",
+    "en": "The **presenter** introduced the next speaker."
+   }
+  ]
+ },
+ {
+  "w": "press",
+  "pos": "v",
+  "meaning_ko": "누르다, 압박하다",
+  "example_en": "**Press** the green button to start the machine.",
+  "example_ko": "기계를 켜려면 초록 버튼을 누르세요.",
+  "nuance_ko": "press는 표면에 힘을 가해서 누르는 동작이에요. 버튼을 누르다(press a button), 옷을 다리다(press a shirt), 즙을 짜다처럼 쓰이고 push보다 지속적이고 눌러 붙이는 느낌이 있어요. 비유적으로 '재촉하다, 압박하다'(press for answers)로도 써요. 명사 the press는 '언론, 보도진'이고 'press release'(보도 자료), 'press conference'(기자회견)처럼 뉴스에 자주 나와요. 'freedom of the press'는 언론의 자유예요.",
+  "also": [
+   {
+    "w": "pressing",
+    "pos": "adj",
+    "ko": "시급한",
+    "en": "There are more **pressing** issues to handle."
+   }
+  ]
+ },
+ {
+  "w": "pretty",
+  "pos": "adj",
+  "meaning_ko": "예쁜, 꽤",
+  "example_en": "It's **pretty** cold outside, so wear a warm coat.",
+  "example_ko": "밖에 꽤 추우니까 따뜻한 코트 입어.",
+  "nuance_ko": "pretty는 형용사로 '예쁜, 귀여운'이고 부사로는 '꽤, 상당히'라는 구어 강조어예요. 부사 pretty는 'pretty good', 'pretty sure'처럼 quite와 비슷하지만 더 구어적이에요. very보다 약하고 fairly보다는 강하다고 생각하면 돼요. 외모를 말할 때는 주로 여성이나 사물에 쓰고 남성에게는 handsome을 써요. 'pretty much'는 '거의'이고 'pretty please'는 아이처럼 간절히 부탁하는 표현이에요.",
+  "also": [
+   {
+    "w": "prettier",
+    "pos": "adj",
+    "ko": "더 예쁜",
+    "en": "This dress looks **prettier** in person."
+   }
+  ]
+ },
+ {
+  "w": "price",
+  "pos": "n",
+  "meaning_ko": "가격, 대가",
+  "example_en": "What's the **price** of this jacket after the discount?",
+  "example_ko": "이 재킷 할인 후 가격이 얼마예요?",
+  "nuance_ko": "price는 상품이나 서비스의 값을 가리키는 명사예요. 'price'는 높고 낮다(high/low price)로 말하고 비싸다/싸다(expensive/cheap)와 구별돼요. 'The price is $20'처럼 쓰고 'How much is it?'은 같은 걸 묻는 구어 표현이에요. cost는 들어가는 비용 전반, price는 판매가라는 차이가 있어요. '대가'라는 비유로 'pay the price'(대가를 치르다)도 흔해요. 동사로는 '가격을 매기다'(reasonably priced)예요.",
+  "also": [
+   {
+    "w": "priceless",
+    "pos": "adj",
+    "ko": "값을 매길 수 없는",
+    "en": "The painting is absolutely **priceless**."
+   },
+   {
+    "w": "pricey",
+    "pos": "adj",
+    "ko": "값비싼",
+    "en": "That restaurant is a bit **pricey**."
+   }
+  ]
+ },
+ {
+  "w": "prince",
+  "pos": "n",
+  "meaning_ko": "왕자",
+  "example_en": "The little **prince** in the story lives on a tiny planet.",
+  "example_ko": "이야기 속 어린 왕자는 아주 작은 별에 살아.",
+  "nuance_ko": "prince는 왕의 아들, 즉 왕자를 뜻하는 단어예요. 여성형은 princess(공주 또는 왕자비)예요. 왕족 칭호로 영국의 Prince William처럼 이름 앞에 붙이고 'Prince Charming'은 동화에서 이상형의 왕자님을 가리켜요. 군주 자체를 가리키는 옛 용례(the Prince of Wales)도 있어요. 'The Little Prince'(어린 왕자)는 유명한 소설 제목으로 영어 학습자에게 친숙한 표현이에요.",
+  "also": [
+   {
+    "w": "princess",
+    "pos": "n",
+    "ko": "공주",
+    "en": "The **princess** waved to the crowd."
+   }
+  ]
+ },
+ {
+  "w": "prison",
+  "pos": "n",
+  "meaning_ko": "감옥, 교도소",
+  "example_en": "He spent five years in **prison** before being released early.",
+  "example_ko": "그는 조기 석방되기 전에 5년 동안 감옥에 있었어.",
+  "nuance_ko": "prison은 형이 확정된 사람이 복역하는 교도소예요. 관사 없이 in prison, go to prison, send someone to prison처럼 제도적 개념으로 말하고, 건물 자체를 말할 때는 the prison이에요. jail은 짧은 형기나 체포 후 임시로 구금하는 유치장을 가리키는 경우가 많아요. 사람은 prisoner(수감자)이고 'prison sentence'는 징역형이에요. 비유적으로 '갇혀 있는 느낌'을 prison에 빗대어 쓰기도 해요.",
+  "also": [
+   {
+    "w": "prisoner",
+    "pos": "n",
+    "ko": "죄수, 포로",
+    "en": "The **prisoner** was released last week."
+   },
+   {
+    "w": "imprisonment",
+    "pos": "n",
+    "ko": "투옥, 금고형",
+    "en": "He received a life **imprisonment**."
+   }
+  ]
+ },
+ {
+  "w": "probably",
+  "pos": "adv",
+  "meaning_ko": "아마, 십중팔구",
+  "example_en": "I'll **probably** be home by seven, but I'll text you if I'm late.",
+  "example_ko": "아마 7시까지는 집에 갈 텐데, 늦으면 문자할게.",
+  "nuance_ko": "probably는 가능성이 높을 때(약 70~90%) 쓰는 부사로 maybe나 perhaps보다 확신이 강해요. 위치는 조동사 뒤나 일반동사 앞이 자연스러워요(He will probably come). 부정문에서는 'He probably won't come'이 'He won't probably come'보다 자연스러워요. 질문에 'Probably.'만 대답하면 '아마 그럴 거야'라는 뜻이에요. 발음할 때 가운데 'b-a'를 줄여서 '프롭블리'처럼 읽는 경우도 많아요.",
+  "also": [
+   {
+    "w": "probable",
+    "pos": "adj",
+    "ko": "있을 법한",
+    "en": "It is **probable** that she'll win."
+   },
+   {
+    "w": "probability",
+    "pos": "n",
+    "ko": "확률, 가능성",
+    "en": "The **probability** of rain is eighty percent."
+   }
+  ]
+ },
+ {
+  "w": "problem",
+  "pos": "n",
+  "meaning_ko": "문제, 곤란",
+  "example_en": "We have a **problem** with the printer again, and nobody knows why.",
+  "example_ko": "프린터에 또 문제가 생겼는데 아무도 이유를 몰라.",
+  "nuance_ko": "problem은 해결해야 할 문제나 곤란한 상황을 가리켜요. 시험 문제는 question이고, problem은 풀어야 하는 수학 문제나 해결해야 하는 사안이에요. 대화에서 'No problem'(괜찮아요/천만에요)과 'What's the problem?'(무슨 일이에요?)은 정말 자주 써요. have a problem with ~는 '~에 문제가 있다', solve a problem은 문제를 푼다예요. issue는 problem보다 부드럽고 완곡한 표현이라 비즈니스에서 선호돼요.",
+  "also": [
+   {
+    "w": "problematic",
+    "pos": "adj",
+    "ko": "문제가 있는",
+    "en": "The plan sounds **problematic** to me."
+   }
+  ]
+ },
+ {
+  "w": "programme",
+  "pos": "n",
+  "meaning_ko": "프로그램, 방송, 계획",
+  "example_en": "I watched a great **programme** about wildlife on TV last night.",
+  "example_ko": "어젯밤 TV에서 야생동물에 관한 훌륭한 프로그램을 봤어.",
+  "nuance_ko": "programme는 영국식 철자로 TV·라디오 프로그램, 행사 일정표, 정책 사업을 뜻해요. 미국에서는 같은 의미를 program으로 쓰고 컴퓨터 프로그램은 영국에서도 program이라고 해서 구분돼요. 'a training programme', 'a government programme'처럼 계획된 일련의 활동을 가리킬 때 쓰여요. 동사 program은 '프로그래밍하다'이고 programmer는 개발자예요. 학습 사이트에서 미국식은 program, 영국식은 programme를 확인하세요.",
+  "also": [
+   {
+    "w": "program",
+    "pos": "n",
+    "ko": "프로그램(미국식)",
+    "en": "Which **program** do you use for editing?"
+   },
+   {
+    "w": "programmer",
+    "pos": "n",
+    "ko": "프로그래머",
+    "en": "He works as a **programmer** at a startup."
+   }
+  ]
+ },
+ {
+  "w": "promise",
+  "pos": "n",
+  "meaning_ko": "약속, 약속하다",
+  "example_en": "I **promise** I'll call you as soon as I land.",
+  "example_ko": "도착하자마자 전화한다고 약속할게.",
+  "nuance_ko": "promise는 반드시 하겠다고 하는 굳은 약속이에요. 일정 약속인 appointment, 친구와 만나기로 한 약속인 plans와 구분돼요. promise to + 동사원형(I promise to call)이나 promise (that) + 절로 쓰고, make a promise(약속하다), keep a promise(지키다), break a promise(깨다)가 짝꿍이에요. 'I promise.'만 단독으로 쓰면 가볍게 다짐하는 느낌이에요. 'show promise'는 '유망해 보이다'라는 뜻의 명사 용법이에요.",
+  "also": [
+   {
+    "w": "promised",
+    "pos": "v",
+    "ko": "약속했다",
+    "en": "You **promised** you wouldn't tell anyone."
+   },
+   {
+    "w": "promising",
+    "pos": "adj",
+    "ko": "유망한",
+    "en": "She is a **promising** young artist."
+   }
+  ]
+ },
+ {
+  "w": "proper",
+  "pos": "adj",
+  "meaning_ko": "적절한, 제대로 된",
+  "example_en": "You need a **proper** coat if you're going hiking in winter.",
+  "example_ko": "겨울에 등산 가려면 제대로 된 외투가 필요해.",
+  "nuance_ko": "proper는 상황이나 규칙에 맞는 '적절한, 제대로 된'이라는 뜻이에요. a proper meal(제대로 된 식사), proper English(올바른 영어)처럼 쓰고, 영국 구어에서는 'a proper mess'처럼 '완전한, 진짜'의 강조어로도 써요. 격식과 예의에 맞다는 뉘앙스도 있어서 'It's not proper to ~'(~하는 것은 예의가 아니다)로 쓰여요. 'proper noun'은 고유명사를 가리키는 문법 용어예요. appropriate와 비슷하지만 proper는 규범에 들어맞는다는 느낌이 강해요.",
+  "also": [
+   {
+    "w": "properly",
+    "pos": "adv",
+    "ko": "제대로",
+    "en": "The door isn't closed **properly**."
+   }
+  ]
+ },
+ {
+  "w": "protect",
+  "pos": "v",
+  "meaning_ko": "보호하다, 지키다",
+  "example_en": "Sunscreen helps **protect** your skin from harmful UV rays.",
+  "example_ko": "선크림은 해로운 자외선으로부터 피부를 보호해줘.",
+  "nuance_ko": "protect는 위험이나 해로움으로부터 '막아서 지키는' 행위예요. protect A from/against B 구문이 기본이고 전치사 from 뒤에는 위협 요소가 와요. defend는 공격에 맞서 싸우며 지키는 느낌이라 protect보다 적극적이에요. 개인정보 보호는 protect personal data, 환경 보호는 protect the environment라고 해요. 명사 protection은 'under the protection of ~'처럼 쓰이고 형용사 protective는 'protective gear'(보호 장비)처럼 써요.",
+  "also": [
+   {
+    "w": "protection",
+    "pos": "n",
+    "ko": "보호",
+    "en": "The helmet gives good **protection**."
+   },
+   {
+    "w": "protective",
+    "pos": "adj",
+    "ko": "보호하는",
+    "en": "She is very **protective** of her sister."
+   }
+  ]
+ },
+ {
+  "w": "public",
+  "pos": "adj",
+  "meaning_ko": "공공의, 대중의",
+  "example_en": "The museum is open to the **public** every day except Monday.",
+  "example_ko": "그 박물관은 월요일만 빼고 매일 일반인에게 개방돼.",
+  "nuance_ko": "public은 일반 대중에게 열려 있거나 공공 기관에 속한 것을 뜻해요. public transportation, public library, public opinion처럼 많이 쓰고 반대는 private이에요. 명사로 the public은 일반 대중을 가리키고 항상 the를 붙여요. 'in public'은 '공공연히, 남들 앞에서', 'go public'은 '기업이 공개되다, 비밀을 공표하다'예요. 'public figure'는 공인이고 'public school'은 미국에서는 공립학교, 영국에서는 사립 명문 학교라서 주의하세요.",
+  "also": [
+   {
+    "w": "publicly",
+    "pos": "adv",
+    "ko": "공개적으로",
+    "en": "He **publicly** apologized for the mistake."
+   }
+  ]
+ },
+ {
+  "w": "pull",
+  "pos": "v",
+  "meaning_ko": "당기다, 끌다",
+  "example_en": "You have to **pull** the door, not push it.",
+  "example_ko": "문은 미는 게 아니라 당겨야 해.",
+  "nuance_ko": "pull은 '자기 쪽으로 끌어당기는' 동작이에요. 반대는 push이고 문 표지판에 PUSH/PULL로 자주 보여요. pull over(차를 길가에 세우다), pull up(끌어올리다/도착하다), pull out(빼내다/철수하다), pull off(해내다)처럼 구동사가 많아요. 'pull an all-nighter'는 밤샘 작업을 하다, 'pull yourself together'는 침착해지라는 구어 표현이에요. 'pull a muscle'은 근육을 다치는 것을 말해요.",
+  "also": [
+   {
+    "w": "pulled",
+    "pos": "v",
+    "ko": "당겼다",
+    "en": "He **pulled** a muscle during the game."
+   }
+  ]
+ },
+ {
+  "w": "push",
+  "pos": "v",
+  "meaning_ko": "밀다, 재촉하다",
+  "example_en": "Please **push** the cart over to the checkout counter.",
+  "example_ko": "카트를 계산대 쪽으로 좀 밀어줄래요?",
+  "nuance_ko": "push는 '자기에게서 멀어지게 힘을 가하는' 동작이에요. 문, 버튼, 사람 등 모두에 쓸 수 있고 반대는 pull이에요. 비유적으로 '강요하다, 압박하다'(push someone to do ~)와 '밀어붙이다'(push for change)도 많이 써요. 'push the limits'는 한계에 도전하다이고, 'push back'은 일정 연기 또는 반발하다예요. 개발에서 git push처럼 '업로드하다'로도 쓰이니 IT 영어로도 필수예요. 명사로는 'give it a push'(밀어주다)와 'a push notification'이 있어요.",
+  "also": [
+   {
+    "w": "pushy",
+    "pos": "adj",
+    "ko": "강요하는, 밀어붙이는",
+    "en": "The salesman was a bit too **pushy**."
+   }
+  ]
+ },
+ {
+  "w": "put",
+  "pos": "v",
+  "meaning_ko": "놓다, 두다",
+  "example_en": "Just **put** your bags by the door and come on in.",
+  "example_ko": "가방은 문 옆에 두고 들어와.",
+  "nuance_ko": "put은 어떤 것을 어떤 위치에 '놓는' 동사이고 put-put-put으로 변화형이 모두 같아요. put on(입다/켜다), put off(미루다), put up with(참다), put out(끄다)처럼 구동사가 매우 많아요. 'put it simply'(간단히 말하면), 'how should I put it'(어떻게 말해야 할지) 같은 구어 표현에서는 '표현하다'의 뜻이에요. 위치를 반드시 함께 말해야 하는 동사라서 'I put my keys'는 어색하고 'I put my keys on the table'처럼 장소를 붙여야 해요.",
+  "also": []
+ },
+ {
+  "w": "quarter",
+  "pos": "n",
+  "meaning_ko": "4분의 1, 15분",
+  "example_en": "The meeting starts at a **quarter** past three this afternoon.",
+  "example_ko": "회의는 오늘 오후 3시 15분에 시작해.",
+  "nuance_ko": "quarter는 전체의 4분의 1, 시간의 15분, 한 해의 분기, 미국의 25센트 동전 등을 가리켜요. 시간에서는 a quarter past three(3시 15분), a quarter to four(4시 15분 전)로 말해요. 비즈니스에서 Q1, Q2는 분기를 뜻해서 'the first quarter earnings'(1분기 실적)처럼 자주 나와요. 'quarters'는 복수형으로 '숙소, 거처'(living quarters)도 되고 'at close quarters'는 '아주 가까이서'라는 뜻이에요.",
+  "also": [
+   {
+    "w": "quarterly",
+    "pos": "adj",
+    "ko": "분기별의",
+    "en": "We publish a **quarterly** report."
+   }
+  ]
+ },
+ {
+  "w": "queen",
+  "pos": "n",
+  "meaning_ko": "여왕, 왕비",
+  "example_en": "The **queen** gave a short speech from the palace balcony.",
+  "example_ko": "여왕은 궁전 발코니에서 짧게 연설했어.",
+  "nuance_ko": "queen은 여왕이면서 왕의 아내인 왕비를 가리켜요. 군주 자체인 여왕은 Queen Elizabeth처럼 이름 앞에 대문자로 붙이고, 체스와 카드의 queen은 가장 강력한 말과 카드를 뜻해요. 비유적으로 어떤 분야에서 최고인 여성을 부를 때(drama queen, queen of pop)도 써요. 'drama queen'은 과장해서 감정을 드러내는 사람을 놀리는 표현이에요. 침대 사이즈 queen-size bed는 더블보다 큰 침대를 가리켜요.",
+  "also": []
+ },
+ {
+  "w": "question",
+  "pos": "n",
+  "meaning_ko": "질문, 문제",
+  "example_en": "Can I ask you a quick **question** about the schedule?",
+  "example_ko": "일정에 관해 간단히 하나만 물어봐도 될까?",
+  "nuance_ko": "question은 묻는 말과 시험 문제를 뜻하고, 동사로는 '질문하다, 의심하다'예요. ask a question이 기본 짝꿍이고 do a question은 틀려요. 'It's a question of ~'는 '~의 문제다', 'out of the question'은 '말도 안 되는, 불가능한', 'in question'은 '문제의, 논의 중인'이에요. 'call into question'은 의문을 제기하다는 격식 있는 표현이에요. 'No questions asked'는 이유를 묻지 않는다는 환불 정책 등에서 쓰이는 문구예요.",
+  "also": [
+   {
+    "w": "questioning",
+    "pos": "n",
+    "ko": "심문, 질문하기",
+    "en": "The police continued the **questioning** all night."
+   },
+   {
+    "w": "questionable",
+    "pos": "adj",
+    "ko": "의심스러운",
+    "en": "The source of the news seems **questionable**."
+   }
+  ]
+ },
+ {
+  "w": "quick",
+  "pos": "adj",
+  "meaning_ko": "빠른, 신속한",
+  "example_en": "Let's take a **quick** break before we move on to the next topic.",
+  "example_ko": "다음 주제로 넘어가기 전에 잠깐 쉬자.",
+  "nuance_ko": "quick은 시간이 짧게 걸리는 '재빠른'을 뜻해요. a quick look, a quick bite(간단한 식사), a quick fix(임시방편)처럼 짧은 동작이나 행위를 수식해요. fast는 속도가 높은 것(a fast car)이고 quick은 짧은 시간에 끝나는 것이라는 차이가 있어요. 'Be quick'은 '서둘러', 'quick-witted'는 '재치 있는'이에요. 부사 quickly는 동작의 빠르기를 표현하고, 구어에서는 형용사형 quick을 부사로 쓰기도 해요(Come quick!).",
+  "also": [
+   {
+    "w": "quickly",
+    "pos": "adv",
+    "ko": "빠르게",
+    "en": "She finished her work **quickly**."
+   }
+  ]
+ },
+ {
+  "w": "quiet",
+  "pos": "adj",
+  "meaning_ko": "조용한, 고요한",
+  "example_en": "Could you keep it **quiet**? The baby just fell asleep.",
+  "example_ko": "조용히 좀 해줄래? 아기가 막 잠들었어.",
+  "nuance_ko": "quiet은 소리가 거의 없는 '조용한' 상태를 뜻하며, 장소와 사람 모두에 쓸 수 있어요. 소음이 없다는 뜻인 silent와 달리 quiet은 약간의 소리는 있어도 시끄럽지 않다는 느낌이에요. 'Be quiet'은 조용히 하라는 명령이고 'Quiet, please'는 공공장소의 안내문 문구예요. keep quiet about ~은 '~에 대해 입을 다물다'라는 뜻이에요. 'peace and quiet'은 평화롭고 조용한 환경을 나타내는 짝꿍 표현이에요.",
+  "also": [
+   {
+    "w": "quietly",
+    "pos": "adv",
+    "ko": "조용히",
+    "en": "He **quietly** closed the door."
+   }
+  ]
+ },
+ {
+  "w": "quite",
+  "pos": "adv",
+  "meaning_ko": "꽤, 완전히",
+  "example_en": "The movie was **quite** good, but a little too long.",
+  "example_ko": "영화는 꽤 괜찮았는데 조금 너무 길었어.",
+  "nuance_ko": "quite는 영국 영어에서는 '꽤, 어느 정도'(very보다 약함), 미국 영어에서는 '상당히, 매우'로 쓰여요. 'not quite'은 '완전히 ~는 아닌'이라는 뜻이라서 'not quite ready'(아직 다 준비되진 않은)라는 의미예요. 'quite a few'는 '꽤 많은', 'quite a bit'도 비슷한 뜻이에요. 'quite a + 명사'(quite a surprise)는 '대단한'이라는 감탄의 뉘앙스예요. 'Quite.'만 쓰면 영국식으로 '맞아, 그래'라는 동의를 표현해요.",
+  "also": []
+ },
+ {
+  "w": "rabbit",
+  "pos": "n",
+  "meaning_ko": "토끼",
+  "example_en": "A **rabbit** jumped across the road right in front of our car.",
+  "example_ko": "토끼 한 마리가 우리 차 바로 앞 도로를 뛰어 건넜어.",
+  "nuance_ko": "rabbit은 집토끼나 산토끼를 가리켜요. 비슷한 hare는 몸집이 크고 다리가 길며 야생에 사는 산토끼라서 구분돼요. 한국어 '토끼'는 이 둘을 구별하지 않지만 영어는 보통 rabbit이 더 흔해요. 'rabbit hole'은 앨리스 이야기에서 나온 말로 '끝없이 빠져드는 세계'를 뜻하고, 인터넷 영상에 빠지는 것을 'go down a rabbit hole'이라고 해요. 'pull a rabbit out of a hat'은 뜻밖의 해결책을 내놓는 것을 말해요.",
+  "also": []
+ },
+ {
+  "w": "race",
+  "pos": "n",
+  "meaning_ko": "경주, 인종",
+  "example_en": "She trained for months to run in the city **race** this fall.",
+  "example_ko": "그녀는 이번 가을 시 마라톤에 나가려고 몇 달간 훈련했어.",
+  "nuance_ko": "race는 달리기·경주(a horse race)와 경쟁(the arms race)을 의미하고, 인종(race and ethnicity)이라는 전혀 다른 뜻도 있어요. 동사로 '경주하다, 서둘러 달리다'(race to the hospital)로도 써요. 'win a race'는 경주에서 이기다, 'in a race against time'은 '시간과의 싸움'이에요. 인종을 뜻할 때는 민감한 주제라서 중립적이고 학술적인 문맥에서만 쓰는 것이 좋아요. 'the human race'는 인류를 가리키는 표현이에요.",
+  "also": [
+   {
+    "w": "racing",
+    "pos": "n",
+    "ko": "경주",
+    "en": "He loves **racing** and watches it every weekend."
+   }
+  ]
+ },
+ {
+  "w": "radio",
+  "pos": "n",
+  "meaning_ko": "라디오",
+  "example_en": "I always listen to the **radio** on my way to work.",
+  "example_ko": "출근길에는 항상 라디오를 들어.",
+  "nuance_ko": "radio는 라디오 방송이나 수신기를 뜻하고 'on the radio'(라디오에서)처럼 전치사 on을 써요. 'listen to the radio'로 듣고, 'turn on the radio'로 켜요. 방송국은 radio station, 프로그램은 radio show라고 해요. 무전기로 교신할 때도 radio를 쓰고 동사로 '무전을 보내다'(radio for help)도 돼요. 팟캐스트와 달리 실시간 방송 느낌이 강한 단어라서 'a radio host'(라디오 진행자)처럼 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "rain",
+  "pos": "n",
+  "meaning_ko": "비, 비가 오다",
+  "example_en": "It's going to **rain** all weekend, so let's stay in and watch movies.",
+  "example_ko": "주말 내내 비가 올 거라니까 집에서 영화나 보자.",
+  "nuance_ko": "rain은 명사 '비'와 동사 '비가 오다' 모두 같은 형태예요. It rains처럼 비인칭 주어 it을 써요. 'heavy rain', 'light rain', 'pouring rain'으로 강도를 표현하고, 'It's raining cats and dogs'는 '억수같이 쏟아진다'는 관용구예요. rain check(우천 시 교환권)는 '다음 기회로 미루다'(Can I take a rain check?)라는 뜻으로 거절을 부드럽게 하는 구어 표현이에요. 'rain or shine'은 날씨와 상관없이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "rainy",
+    "pos": "adj",
+    "ko": "비 오는",
+    "en": "It was a cold and **rainy** day."
+   }
+  ]
+ },
+ {
+  "w": "raise",
+  "pos": "v",
+  "meaning_ko": "올리다, 기르다, 모금하다",
+  "example_en": "If you have a question, please **raise** your hand first.",
+  "example_ko": "질문 있으면 먼저 손을 들어주세요.",
+  "nuance_ko": "raise는 목적어를 위로 올리는 타동사예요. 손을 들다, 가격을 올리다(raise prices), 아이를 키우다(raise a child), 돈을 모금하다(raise money), 문제를 제기하다(raise a concern) 등 폭넓게 써요. 자동사 rise(오르다)와 헷갈리지 마세요. rise는 목적어 없이 스스로 오르는 것이고 raise는 누군가가 올리는 거예요. 명사로 미국에서는 '임금 인상'(get a raise)이에요. 영국에서는 pay rise라고 해요.",
+  "also": [
+   {
+    "w": "raised",
+    "pos": "adj",
+    "ko": "올려진, 자란",
+    "en": "She was **raised** in a small town."
+   }
+  ]
+ },
+ {
+  "w": "rate",
+  "pos": "n",
+  "meaning_ko": "비율, 속도, 요금, 평가하다",
+  "example_en": "The unemployment **rate** dropped to its lowest level this year.",
+  "example_ko": "실업률이 올해 들어 가장 낮은 수준으로 떨어졌어.",
+  "nuance_ko": "rate는 비율이나 속도를 나타내는 명사이고 동사로는 '평가하다, 등급을 매기다'예요. interest rate(금리), exchange rate(환율), birth rate(출생률)처럼 경제·통계 뉴스에서 자주 만나요. 'at any rate'는 '어쨌든', 'at this rate'는 '이런 속도라면', 'first-rate'는 일류의라는 뜻이에요. 호텔 요금은 room rate이고 1박 요금을 'nightly rate'라고 해요. rating은 평점·평가를 가리키는 명사예요.",
+  "also": [
+   {
+    "w": "rating",
+    "pos": "n",
+    "ko": "평점, 등급",
+    "en": "The app has a high **rating** on the store."
+   },
+   {
+    "w": "rated",
+    "pos": "adj",
+    "ko": "평가받는",
+    "en": "It's the highest **rated** restaurant in town."
+   }
+  ]
+ },
+ {
+  "w": "rather",
+  "pos": "adv",
+  "meaning_ko": "오히려, 꽤, 차라리",
+  "example_en": "I would **rather** stay home tonight than go out in the rain.",
+  "example_ko": "오늘 밤은 비 맞고 나가느니 차라리 집에 있을래.",
+  "nuance_ko": "rather는 쓰임이 세 가지로 갈려요. would rather + 동사원형은 '차라리 ~하겠다', rather than은 '~보다는/대신에', 그리고 부사로 '꽤'(rather good, 약간 의외라는 뉘앙스)예요. 'rather than' 뒤에는 동사원형이나 -ing가 오는 경우가 많아요(Rather than complain, do something). 부사 rather는 영국 영어에서 더 흔하고, 기대와 달리 상당히 그렇다는 느낌을 줘요. 'or rather'는 말을 정정할 때 쓰는 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "reach",
+  "pos": "v",
+  "meaning_ko": "도착하다, 손이 닿다, 연락하다",
+  "example_en": "You can **reach** me on my cell phone any time after noon.",
+  "example_ko": "정오 이후에는 언제든 휴대폰으로 연락돼.",
+  "nuance_ko": "reach의 핵심은 '어디까지 닿다'예요. 손을 뻗어 닿다(reach the shelf), 목적지에 도착하다(reach Seoul), 목표를 달성하다(reach a goal), 연락이 닿다(reach someone)로 확장돼요. 타동사라서 reach to Seoul이 아니라 reach Seoul이에요. 'within reach'(손이 닿는 거리에), 'out of reach'(닿지 않는)와 'reach out'(연락을 취하다)은 비즈니스 이메일에서 아주 자주 쓰여요. arrive는 자동사라 arrive at/in을 쓰는 점이 달라요.",
+  "also": [
+   {
+    "w": "reached",
+    "pos": "v",
+    "ko": "도달했다",
+    "en": "We **reached** the summit by noon."
+   }
+  ]
+ },
+ {
+  "w": "read",
+  "pos": "v",
+  "meaning_ko": "읽다",
+  "example_en": "I like to **read** a few pages before I go to sleep.",
+  "example_ko": "난 자기 전에 몇 쪽 읽는 걸 좋아해.",
+  "nuance_ko": "read는 글을 읽는 동작이고 read-read-read로 변하지만 과거형·과거분사형은 발음이 /red/로 달라요. 현재형은 /riːd/예요. 소리 내어 읽는 건 read aloud이고, 'read between the lines'는 '행간을 읽다'라는 관용구예요. 'read about ~'은 ~에 관한 글을 읽다, 'read up on ~'은 ~을 열심히 조사해 읽다예요. 구어에서 'Do you read me?'는 무전에서 '내 말 들려?'의 뜻이고, 사람 마음을 읽는다는 'read someone's mind'도 있어요.",
+  "also": [
+   {
+    "w": "reader",
+    "pos": "n",
+    "ko": "독자",
+    "en": "She is an avid **reader** of mystery novels."
+   },
+   {
+    "w": "reading",
+    "pos": "n",
+    "ko": "독서, 읽기",
+    "en": "**Reading** before bed helps me relax."
+   }
+  ]
+ },
+ {
+  "w": "ready",
+  "pos": "adj",
+  "meaning_ko": "준비된",
+  "example_en": "Are you **ready** to go, or do you need a few more minutes?",
+  "example_ko": "갈 준비 됐어, 아니면 몇 분 더 필요해?",
+  "nuance_ko": "ready는 어떤 일을 바로 시작할 수 있게 준비된 상태예요. be ready to + 동사원형 또는 be ready for + 명사로 쓰며 get ready는 준비하는 과정을 가리켜요. 'Dinner is ready'는 식사 준비가 끝났다는 알림이에요. 'Ready, set, go!'는 달리기 시작 신호이고 'ready-made'는 이미 만들어진 기성품이에요. prepared는 사전에 대비한 의미가 강하고 ready는 지금 바로 할 수 있다는 느낌이 강해요.",
+  "also": [
+   {
+    "w": "readily",
+    "pos": "adv",
+    "ko": "기꺼이, 쉽게",
+    "en": "He **readily** agreed to help us."
+   }
+  ]
+ },
+ {
+  "w": "real",
+  "pos": "adj",
+  "meaning_ko": "진짜의, 실제의",
+  "example_en": "Is that a **real** diamond or just a cheap copy?",
+  "example_ko": "저거 진짜 다이아몬드야, 아니면 싸구려 모조품이야?",
+  "nuance_ko": "real은 가짜나 상상이 아닌 '실제로 존재하는, 진짜의'를 뜻해요. a real friend, real life, real estate(부동산)처럼 쓰고 구어에서는 'real good'처럼 very의 대용으로도 쓰지만 문법상 really가 맞아요. 'for real'은 '진짜로, 진심으로'(Are you serious?의 뜻), 'Get real!'은 '정신 차려!'라는 구어 표현이에요. 'the real thing'은 진품이고 'real-time'은 실시간이라는 뜻이에요. true와 달리 real은 존재와 진정성에, true는 사실 여부에 초점이 있어요.",
+  "also": [
+   {
+    "w": "reality",
+    "pos": "n",
+    "ko": "현실",
+    "en": "Reality is different from what I expected."
+   },
+   {
+    "w": "realistic",
+    "pos": "adj",
+    "ko": "현실적인",
+    "en": "Let's set a **realistic** goal."
+   }
+  ]
+ },
+ {
+  "w": "realise",
+  "pos": "v",
+  "meaning_ko": "깨닫다, 알아차리다",
+  "example_en": "I didn't **realise** how late it was until I checked my phone.",
+  "example_ko": "폰을 확인하고서야 얼마나 늦었는지 깨달았어.",
+  "nuance_ko": "realise는 영국식 철자이고 미국식은 realize예요. 몰랐던 사실을 '문득 깨닫다'는 뜻이 핵심이며 know와 달리 인식의 순간에 초점을 두어요. 'realize that ~'이나 'realize how/what ~' 같은 절을 목적어로 받아요. 또한 '꿈이나 계획을 실현하다'(realize a dream)라는 의미도 있어요. 'I just realized'는 대화 중에 갑자기 생각났을 때 자주 쓰는 표현이에요. 진행형 'I'm realizing'은 점점 깨닫는 중이라는 뉘앙스를 줘요.",
+  "also": [
+   {
+    "w": "realized",
+    "pos": "v",
+    "ko": "깨달았다",
+    "en": "She **realized** she had left her keys."
+   },
+   {
+    "w": "realization",
+    "pos": "n",
+    "ko": "깨달음, 실현",
+    "en": "The **realization** hit him suddenly."
+   }
+  ]
+ },
+ {
+  "w": "really",
+  "pos": "adv",
+  "meaning_ko": "정말로, 진짜",
+  "example_en": "I **really** appreciate you helping me with the move.",
+  "example_ko": "이사하는 거 도와줘서 정말 고마워.",
+  "nuance_ko": "really는 강조 부사로 '정말, 진짜'라는 뜻이에요. 형용사와 동사를 모두 꾸미고 'really good', 'I really like it'처럼 써요. 대화에서는 'Really?'(정말?)로 놀라거나 관심을 보이는 반응이 되고, 억양이 올라가면 의심, 내려가면 가벼운 관심이에요. 'not really'는 '별로, 딱히 아니야'라는 부드러운 부정이에요. very보다 구어적이고 강한 느낌이지만 글에서는 남발하지 않는 것이 좋아요.",
+  "also": []
+ },
+ {
+  "w": "reason",
+  "pos": "n",
+  "meaning_ko": "이유, 이성",
+  "example_en": "What's the **reason** you decided to change your major?",
+  "example_ko": "전공을 바꾸기로 한 이유가 뭐야?",
+  "nuance_ko": "reason은 어떤 행동이나 결과의 이유를 뜻하고 'the reason for ~' 또는 'the reason why ~'로 쓰여요. 'The reason is because'는 중복이라 'The reason is that ~'이 정석으로 알려져 있어요. 이성이나 판단력을 뜻하기도 해서 'listen to reason'은 '이성적으로 들어라'예요. 'for some reason'(어떤 이유에선지), 'with good reason'(당연한 이유로)도 자주 써요. 동사 reason은 '논리적으로 생각하다, 추론하다'예요.",
+  "also": [
+   {
+    "w": "reasonable",
+    "pos": "adj",
+    "ko": "합리적인, 적당한",
+    "en": "The price seems **reasonable** to me."
+   },
+   {
+    "w": "reasoning",
+    "pos": "n",
+    "ko": "추론, 논리",
+    "en": "I don't follow your **reasoning**."
+   }
+  ]
+ },
+ {
+  "w": "recent",
+  "pos": "adj",
+  "meaning_ko": "최근의",
+  "example_en": "Have you seen any good movies in **recent** weeks?",
+  "example_ko": "최근 몇 주 사이에 괜찮은 영화 본 거 있어?",
+  "nuance_ko": "recent는 현재와 가까운 과거를 가리키는 형용사로 recent news, recent years, a recent study처럼 명사 앞에 써요. 서술적으로 쓰는 경우는 드물어요. 부사 recently는 현재완료나 과거 시제와 쓰고(I've recently moved) 미래 시제와는 쓰지 않아요. late는 시간이 늦은, last는 마지막이나 바로 직전이라는 점에서 recent와 달라요. 뉴스에서 'in the most recent poll'(가장 최근의 여론 조사)처럼 최상급도 흔해요.",
+  "also": [
+   {
+    "w": "recently",
+    "pos": "adv",
+    "ko": "최근에",
+    "en": "I've been feeling tired **recently**."
+   }
+  ]
+ },
+ {
+  "w": "record",
+  "pos": "n",
+  "meaning_ko": "기록, 음반, 녹음하다",
+  "example_en": "Can I **record** this meeting so I can review it later?",
+  "example_ko": "나중에 다시 보게 이 회의 녹음해도 될까요?",
+  "nuance_ko": "record는 명사와 동사에서 강세가 달라요. 명사는 RE-cord(기록, 음반, 신기록), 동사는 re-CORD(기록하다, 녹음·녹화하다)예요. break a record는 기록을 깨다, off the record는 비공식적으로(기자에게 하는 말), on record는 공식 기록으로라는 뜻이에요. 'criminal record'는 전과 기록, 'track record'는 과거의 실적을 가리켜요. 레코드판을 뜻하는 옛 의미도 있지만 요즘은 vinyl이라고도 해요.",
+  "also": [
+   {
+    "w": "recording",
+    "pos": "n",
+    "ko": "녹음, 녹화",
+    "en": "I listened to the **recording** twice."
+   },
+   {
+    "w": "recorded",
+    "pos": "adj",
+    "ko": "기록된",
+    "en": "It was the hottest day ever **recorded**."
+   }
+  ]
+ },
+ {
+  "w": "red",
+  "pos": "adj",
+  "meaning_ko": "빨간, 붉은",
+  "example_en": "She wore a bright **red** dress to the party last night.",
+  "example_ko": "그녀는 어젯밤 파티에 새빨간 드레스를 입고 왔어.",
+  "nuance_ko": "red는 가장 기본적인 색깔 단어이고 명사와 형용사로 모두 써요. 'in the red'는 적자를 뜻하고(반대는 in the black), 'red tape'는 번거로운 행정 절차, 'a red flag'는 경고 신호라는 관용 표현이에요. 'see red'는 격분하다, 'red-handed'는 현장에서 들키다예요. 얼굴이 붉어질 때는 turn red 또는 go red를 쓰고 부끄러움·분노를 뜻해요. 와인의 'red'는 적포도주라서 'a glass of red'처럼 명사로도 쓰여요.",
+  "also": [
+   {
+    "w": "reddish",
+    "pos": "adj",
+    "ko": "불그스름한",
+    "en": "The sky had a **reddish** glow at sunset."
+   }
+  ]
+ },
+ {
+  "w": "relate",
+  "pos": "v",
+  "meaning_ko": "관련시키다, 공감하다",
+  "example_en": "I can totally **relate** to what you're going through right now.",
+  "example_ko": "네가 지금 겪는 일, 난 완전히 공감해.",
+  "nuance_ko": "relate는 두 가지가 서로 연결된다는 뜻과, 구어에서 '공감하다'(relate to someone)라는 뜻으로 많이 써요. be related to ~는 '~와 관련되다'이고 친족 관계에도 써서 'We are related'(우리는 친척이야)라고 해요. relate A to B는 A를 B와 관련짓는 것이에요. 'related'가 형용사로 쓰이면 'work-related stress'처럼 합성어를 만들어요. 명사 relationship은 사람 사이의 관계와 연인 관계를 가리켜요.",
+  "also": [
+   {
+    "w": "related",
+    "pos": "adj",
+    "ko": "관련된",
+    "en": "Are these two issues **related**?"
+   },
+   {
+    "w": "relationship",
+    "pos": "n",
+    "ko": "관계",
+    "en": "They have a close **relationship**."
+   }
+  ]
+ },
+ {
+  "w": "remember",
+  "pos": "v",
+  "meaning_ko": "기억하다, 잊지 않고 하다",
+  "example_en": "Please **remember** to lock the door when you leave.",
+  "example_ko": "나갈 때 문 잠그는 거 잊지 마.",
+  "nuance_ko": "remember는 기억 속에서 떠올리거나 잊지 않고 해야 할 것을 기억하는 동사예요. remember + to 동사원형은 '(앞으로) ~할 것을 기억하다', remember + -ing는 '(과거에) ~했던 것을 기억하다'로 의미가 달라져요. 'I remember locking the door'는 잠갔던 기억이 있다는 뜻이에요. 'Remember me to your family'는 안부 전해달라는 오래된 표현이에요. 반대는 forget이고, 의식적으로 기억하려는 memorize와 달리 remember는 자연스러운 회상에 쓰여요.",
+  "also": [
+   {
+    "w": "remembered",
+    "pos": "v",
+    "ko": "기억했다",
+    "en": "I **remembered** her name just in time."
+   },
+   {
+    "w": "remembrance",
+    "pos": "n",
+    "ko": "추모, 기억",
+    "en": "They held a ceremony in **remembrance** of the victims."
+   }
+  ]
+ },
+ {
+  "w": "rent",
+  "pos": "n",
+  "meaning_ko": "집세, 임대하다",
+  "example_en": "My **rent** goes up by five percent every year.",
+  "example_ko": "내 월세는 매년 5%씩 올라.",
+  "nuance_ko": "rent는 집이나 방 등의 임대료(명사)와 빌리거나 빌려주다(동사)를 모두 뜻해요. 동사 rent는 주인과 세입자 양쪽에서 쓰이므로 'I rent an apartment'(세 들어 산다)와 'I rent out my room'(방을 세놓는다)을 구분해야 해요. 자동차나 장비를 잠깐 빌리는 것도 rent예요(영국에서는 hire). pay the rent(월세를 내다), for rent(임대 중)와 rent-free(무료 임대)가 짝꿍 표현이에요. lease는 장기 임대 계약에 더 격식 있게 쓰는 표현이에요.",
+  "also": [
+   {
+    "w": "rental",
+    "pos": "n",
+    "ko": "대여, 임대",
+    "en": "We booked a **rental** car for the trip."
+   },
+   {
+    "w": "rented",
+    "pos": "adj",
+    "ko": "빌린",
+    "en": "They live in a **rented** apartment."
+   }
+  ]
+ },
+ {
+  "w": "reply",
+  "pos": "v",
+  "meaning_ko": "답하다, 답장",
+  "example_en": "I'll **reply** to your email as soon as I get back to my desk.",
+  "example_ko": "자리로 돌아가는 대로 네 이메일에 답장할게.",
+  "nuance_ko": "reply는 질문이나 메시지에 응답하는 동사 겸 명사예요. reply to + 대상으로 쓰고 reply the email은 틀려요. answer는 타동사라 answer the phone이라고 하고 reply는 반드시 to가 필요하다는 점이 대비돼요. 이메일의 'Reply All'은 모든 수신자에게 답장하는 기능이고 'Reply-to'는 답장 주소예요. 명사로는 'in reply to ~'(~에 대한 답으로)가 격식 있는 편지에서 쓰여요. respond는 reply보다 더 격식 있는 말이에요.",
+  "also": [
+   {
+    "w": "replied",
+    "pos": "v",
+    "ko": "답했다",
+    "en": "She **replied** within a few minutes."
+   }
+  ]
+ },
+ {
+  "w": "report",
+  "pos": "n",
+  "meaning_ko": "보고서, 보도, 보고하다",
+  "example_en": "I have to finish the monthly **report** before Friday's meeting.",
+  "example_ko": "금요일 회의 전까지 월간 보고서를 끝내야 해.",
+  "nuance_ko": "report는 명사로 보고서나 보도, 동사로 알리다나 보고하다예요. 직장에서는 write a report(작성하다), submit a report(제출하다)가 자주 나오고 학교에서는 book report(독후감)가 있어요. 'report to ~'는 '~의 직속 부하다', 'report a crime'은 범죄를 신고하다예요. 뉴스에서 'reportedly'(보도에 따르면)는 확인되지 않은 정보에 붙이는 표현이에요. 성적표는 report card라고 해요.",
+  "also": [
+   {
+    "w": "reporter",
+    "pos": "n",
+    "ko": "기자",
+    "en": "The **reporter** asked a tough question."
+   },
+   {
+    "w": "reportedly",
+    "pos": "adv",
+    "ko": "보도에 따르면",
+    "en": "The singer **reportedly** canceled the tour."
+   }
+  ]
+ },
+ {
+  "w": "responsible",
+  "pos": "adj",
+  "meaning_ko": "책임이 있는, 책임감 있는",
+  "example_en": "Who is **responsible** for ordering supplies for the office?",
+  "example_ko": "사무실 비품 주문은 누가 담당해?",
+  "nuance_ko": "responsible은 어떤 일에 대해 책임을 지거나 책임감 있게 행동한다는 뜻이에요. be responsible for + 명사/-ing 구문이 가장 중요하고 for 뒤에 책임지는 대상이 와요. 두 가지 의미가 있어서 '담당하는'(in charge)과 '원인이 되는'(responsible for the accident)이 있어요. 성격을 말할 때는 '믿음직한, 책임감 있는'(a responsible adult)이라는 칭찬이에요. 반대는 irresponsible이고 명사는 responsibility예요.",
+  "also": [
+   {
+    "w": "responsibility",
+    "pos": "n",
+    "ko": "책임",
+    "en": "It's my **responsibility** to fix this."
+   },
+   {
+    "w": "irresponsible",
+    "pos": "adj",
+    "ko": "무책임한",
+    "en": "That was an **irresponsible** decision."
+   }
+  ]
+ },
+ {
+  "w": "rest",
+  "pos": "n",
+  "meaning_ko": "휴식, 나머지",
+  "example_en": "You look tired, so why don't you take a **rest** for a while?",
+  "example_ko": "피곤해 보이는데 잠깐 좀 쉬는 게 어때?",
+  "nuance_ko": "rest는 휴식(명사·동사)과 '나머지'(the rest of ~)라는 뜻을 모두 가진 단어예요. take a rest, get some rest는 쉬다이고 break는 업무 사이의 짧은 휴식이라는 차이가 있어요. 'the rest of the day', 'the rest of us'처럼 나머지를 말할 때는 항상 the를 붙여요. 'Rest in peace'(R.I.P.)는 고인에 대한 추모문이에요. 'rest assured'는 '안심하세요'라는 격식 있는 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "rested",
+  "pos": "adj",
+  "meaning_ko": "푹 쉰",
+  "example_en": "I feel completely **rested** after sleeping for ten hours.",
+  "example_ko": "열 시간 자고 났더니 완전히 푹 쉰 느낌이야.",
+  "nuance_ko": "rested는 '충분히 쉬어서 기운을 회복한' 상태를 나타내는 형용사예요. well-rested(푹 쉰)가 가장 흔한 형태이고 'feel rested', 'wake up rested'처럼 쓰여요. 반대 의미를 담은 단어는 tired, exhausted이고 직접적인 부정형은 'not rested' 정도로 말해요. rest의 과거형·과거분사로도 쓰이지만 형용사로 훨씬 자주 보여요. 'rested and ready'는 컨디션이 최고라는 짝꿍 표현이에요.",
+  "also": [
+   {
+    "w": "restless",
+    "pos": "adj",
+    "ko": "불안한, 들뜬",
+    "en": "The kids got **restless** during the long flight."
+   },
+   {
+    "w": "restful",
+    "pos": "adj",
+    "ko": "편안한, 평온한",
+    "en": "We spent a **restful** weekend at the lake."
+   }
+  ]
+ },
+ {
+  "w": "return",
+  "pos": "v",
+  "meaning_ko": "돌아오다, 돌려주다",
+  "example_en": "I need to **return** these shoes because they're too small.",
+  "example_ko": "이 신발은 너무 작아서 반품해야 해.",
+  "nuance_ko": "return은 '돌아가거나 돌려주는' 동작을 모두 나타내요. 자동사로는 'return home'(귀가하다), 타동사로는 'return a book'(책을 반납하다), 'return a call'(전화를 회신하다)이에요. 쇼핑에서는 환불·반품을 return이라고 하고 'return policy'는 반품 정책이에요. 명사로 'in return for ~'(~의 대가로), 'tax return'(세금 신고서), 'return on investment'(투자 수익)처럼 많이 써요. 'Many happy returns'는 생일 축하 표현이에요.",
+  "also": [
+   {
+    "w": "returned",
+    "pos": "v",
+    "ko": "돌아왔다",
+    "en": "He **returned** from his trip last night."
+   }
+  ]
+ },
+ {
+  "w": "rich",
+  "pos": "adj",
+  "meaning_ko": "부유한, 풍부한",
+  "example_en": "This soup has a **rich** flavor because it simmered for hours.",
+  "example_ko": "이 수프는 몇 시간 푹 끓여서 맛이 진하고 풍부해.",
+  "nuance_ko": "rich는 돈이 많은 '부유한'과 무언가가 풍부하다는 뜻을 모두 가져요. 음식에서는 '진하고 기름진, 맛이 깊은'(rich chocolate cake)이라는 맛 표현이에요. be rich in + 명사는 '~이 풍부하다'(rich in vitamins)이고 'rich history'(풍부한 역사)처럼 문화에도 써요. 'the rich'는 부자들을 뜻하는 복수 집합명사예요. wealthy는 재산이 많음을 강조하고 rich는 일상적이어서 더 흔해요.",
+  "also": [
+   {
+    "w": "richer",
+    "pos": "adj",
+    "ko": "더 부유한",
+    "en": "She became **richer** after the sale."
+   },
+   {
+    "w": "richly",
+    "pos": "adv",
+    "ko": "풍성하게, 호화롭게",
+    "en": "The room was **richly** decorated."
+   }
+  ]
+ },
+ {
+  "w": "rid",
+  "pos": "v",
+  "meaning_ko": "없애다, 제거하다",
+  "example_en": "I finally got **rid** of all the clutter in my garage.",
+  "example_ko": "드디어 차고에 있던 잡동사니를 다 치워버렸어.",
+  "nuance_ko": "rid는 주로 'get rid of ~'(~을 없애다, 처분하다)와 'be rid of ~'(~에서 벗어나다) 형태로 써요. rid A of B는 'rid the house of mice'(집에서 쥐를 없애다)처럼 격식 있는 동사 용법이에요. 변화형은 rid-rid-rid로 모두 같아요. 'Good riddance'는 달갑지 않은 것이 사라져 속이 시원할 때 하는 말이에요. throw away는 그냥 버리는 것이고 get rid of는 귀찮은 것을 완전히 처리한다는 느낌이에요.",
+  "also": []
+ },
+ {
+  "w": "ride",
+  "pos": "v",
+  "meaning_ko": "타다, 탈 것",
+  "example_en": "Can you give me a **ride** to the station tomorrow morning?",
+  "example_ko": "내일 아침에 역까지 태워다 줄 수 있어?",
+  "nuance_ko": "ride는 동사로 '(자전거, 말, 오토바이를) 타다'이고 명사로 '탈것에 타는 것, 태워주기'예요. 미국 영어에서 'give someone a ride'는 차로 태워주는 것을 말하며 영국에서는 lift를 써요. 차나 버스는 탑승하는 개념이라 take a bus, get in a car라고 하고, 'ride'는 몸을 올려 타는 탈것(bike, horse)에 어울려요. 놀이공원 놀이기구도 ride라서 'roller coaster ride'처럼 써요. 변화형은 ride-rode-ridden이에요.",
+  "also": [
+   {
+    "w": "riding",
+    "pos": "n",
+    "ko": "승마, 타기",
+    "en": "She goes horse **riding** on weekends."
+   },
+   {
+    "w": "rider",
+    "pos": "n",
+    "ko": "타는 사람",
+    "en": "The **rider** wore a helmet."
+   }
+  ]
+ },
+ {
+  "w": "right",
+  "pos": "adj",
+  "meaning_ko": "옳은, 오른쪽의, 맞는",
+  "example_en": "You're **right**, I should have called her earlier.",
+  "example_ko": "네 말이 맞아, 내가 그녀에게 더 일찍 전화했어야 했어.",
+  "nuance_ko": "right는 형용사로 '옳은, 맞는', '오른쪽의', 부사로 '바로, 정확히', 명사로 '권리'까지 다양하게 쓰여요. You're right는 상대 말에 동의할 때, Turn right는 방향, right now는 '당장'이에요. right away는 '곧바로'라는 뜻이에요. 문장 끝의 'right?'는 확인용 부가 의문이고 '맞지?'라는 뜻이에요. 'all right'는 괜찮다는 뜻이고 alright로도 쓰지만 격식에서는 all right가 더 정확해요.",
+  "also": [
+   {
+    "w": "rightmost",
+    "pos": "adj",
+    "ko": "맨 오른쪽의",
+    "en": "Take the **rightmost** lane at the exit."
+   }
+  ]
+ },
+ {
+  "w": "rights",
+  "pos": "n",
+  "meaning_ko": "권리, 인권",
+  "example_en": "Everyone should know their **rights** when they sign a contract.",
+  "example_ko": "계약서에 서명할 때는 누구나 자신의 권리를 알아야 해.",
+  "nuance_ko": "rights는 right(권리)의 복수형으로, 법이나 도덕으로 보장되는 권리를 가리켜요. human rights(인권), civil rights(시민권), animal rights(동물권), copyright(저작권)처럼 쓰여요. 단수 right도 권리로 쓰이는데, 'the right to vote'는 투표할 권리이고 right 뒤에는 to + 동사원형이 와요. 'know your rights'는 법적 보호 상황에서 자주 보는 표현이에요. 'by rights'는 '당연히, 원래대로라면'이라는 관용구예요.",
+  "also": [
+   {
+    "w": "rightful",
+    "pos": "adj",
+    "ko": "정당한",
+    "en": "She is the **rightful** owner of the house."
+   },
+   {
+    "w": "rightly",
+    "pos": "adv",
+    "ko": "올바르게, 당연히",
+    "en": "He was **rightly** proud of his work."
+   }
+  ]
+ },
+ {
+  "w": "ring",
+  "pos": "n",
+  "meaning_ko": "반지, 울리다",
+  "example_en": "My phone didn't **ring** all morning, so I thought it was broken.",
+  "example_ko": "아침 내내 폰이 안 울려서 고장 난 줄 알았어.",
+  "nuance_ko": "ring은 반지·고리 모양을 가리키는 명사이고 동사로는 '(종·전화가) 울리다'예요. 변화형은 ring-rang-rung이에요. 영국 영어에서 'give someone a ring'은 전화를 거는 것이고 미국에서는 call을 써요. 'ring a bell'은 '들어본 적이 있는 것 같다'(That name rings a bell)는 관용구예요. 반지는 wedding ring, engagement ring이라 하고, 손가락에 끼는 건 wear a ring이에요. 복싱 링도 ring이라고 해요.",
+  "also": [
+   {
+    "w": "ringing",
+    "pos": "n",
+    "ko": "울림, 벨소리",
+    "en": "The constant **ringing** gave me a headache."
+   }
+  ]
+ },
+ {
+  "w": "rise",
+  "pos": "v",
+  "meaning_ko": "오르다, 일어나다",
+  "example_en": "The sun will **rise** at about six tomorrow morning.",
+  "example_ko": "내일 아침 6시쯤 해가 뜰 거야.",
+  "nuance_ko": "rise는 목적어 없이 스스로 오르는 자동사이고 변화형은 rise-rose-risen이에요. 해가 뜨다, 가격이 오르다, 일어서다 등에 쓰여요. 타동사 raise(올리다)와 구별해야 해서 'Prices rise', 'They raise prices'로 비교해요. 명사로 'a rise in prices'(물가 상승)처럼 쓰고, 'give rise to ~'는 '~을 일으키다'라는 격식 있는 표현이에요. 'rise and shine'은 아침에 일어나라고 깨울 때 쓰는 명랑한 말이에요.",
+  "also": [
+   {
+    "w": "rising",
+    "pos": "adj",
+    "ko": "오르는, 떠오르는",
+    "en": "**Rising** prices worry many families."
+   },
+   {
+    "w": "risen",
+    "pos": "v",
+    "ko": "올랐다",
+    "en": "The price has **risen** sharply."
+   }
+  ]
+ },
+ {
+  "w": "river",
+  "pos": "n",
+  "meaning_ko": "강",
+  "example_en": "We had a picnic on the bank of the **river** last Sunday.",
+  "example_ko": "지난 일요일에 강둑에서 피크닉을 했어.",
+  "nuance_ko": "river는 바다나 호수로 흘러가는 큰 강을 뜻하고, 더 작은 시냇물은 stream이나 creek이라 구분해요. 강의 이름은 영어에서 the Han River처럼 앞에 the를 붙이고 River를 뒤에 써요. 강가는 riverbank이고 'up the river'는 상류, 'down the river'는 하류 방향이에요. 'sell down the river'는 '배신하다'라는 관용구라서 문자 그대로 해석하면 안 돼요. 도시 안의 강변 산책로는 riverside, 강 하구는 mouth of the river라고 해요.",
+  "also": []
+ }
+]

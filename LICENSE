@@ -1,0 +1,57 @@
+VocabFlip's source code is licensed under the MIT License (below).
+The Korean card content and the bundled third-party data use other licenses,
+listed after the MIT text.
+
+MIT License
+
+Copyright (c) 2026 VocabFlip contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+The following items in this repository use a license other than MIT:
+
+ * Korean card content (gen/out/*.json, data/content.js, gen/PROMPT.md):
+   CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+   Copyright (c) 2026 VocabFlip contributors.
+
+ * US pronunciations (data/ipa_dict.js, the "ipa" fields of data/deck.js,
+   data/phonemes.js): derived from the CMU Pronouncing Dictionary,
+   Copyright (C) 1993-2015 Carnegie Mellon University, BSD-style license.
+   Full text: licenses/CMUdict-LICENSE.txt
+
+ * Word list (headwords, levels and word-family forms in data/deck.js and
+   gen/in/*.json): BNC/COCA word family lists v2.0.0 by Paul Nation,
+   as distributed by eapfoundation.com. Copyright remains with the author.
+
+ * Tongue twisters (data/twisters.js): from "1st International Collection of
+   Tongue Twisters", https://tongue-twister.net/en.htm, (c) 1996-2018 Mr.Twister.
+   Copyright remains with the original authors. Not covered by this repository's
+   licenses.
+
+ * Fonts (fonts/ADD-*.woff2): 국방과학연구소체 (ADD Font), converted to WOFF2
+   from the files distributed at https://www.add.re.kr. Intellectual property of
+   the Agency for Defense Development (국방과학연구소). Selling the font is
+   prohibited and distortion of the letterforms (stretching, slanting, outline,
+   weight change, patterns) is not recommended. Not covered by this
+   repository's licenses.
+
+"Rachel's English" is only linked to (YouTube search and rachelsenglish.com);
+no content from it is included.

@@ -1,0 +1,1598 @@
+[
+ {
+  "w": "festival",
+  "pos": "n",
+  "meaning_ko": "축제, 페스티벌",
+  "example_en": "We're going to a music **festival** in the mountains this summer.",
+  "example_ko": "우린 이번 여름에 산에서 열리는 음악 페스티벌에 갈 거야.",
+  "nuance_ko": "festival은 음악, 영화, 음식, 종교 행사 등을 기념해 며칠 동안 이어지는 축제나 행사예요. music festival, film festival, food festival, harvest festival처럼 종류를 앞에 붙여 써요. 한국의 '축제'와 거의 같지만, 영어에서는 록 페스티벌처럼 공연 위주 행사를 가리키는 경우가 아주 많아요. carnival은 거리 행진과 놀이 중심의 축제이고, fair는 물건을 전시·판매하는 장터 같은 행사예요. 형용사 festive는 '축제 분위기의'(festive season, 연말연시)로 크리스마스 시기에 자주 써요.",
+  "also": []
+ },
+ {
+  "w": "fibre",
+  "pos": "n",
+  "meaning_ko": "섬유, 식이섬유",
+  "example_en": "Fruits and vegetables are a good source of **fibre**.",
+  "example_ko": "과일과 채소는 식이섬유의 좋은 공급원이야.",
+  "nuance_ko": "fibre는 영국식 철자이고 미국식은 fiber예요. 천을 이루는 가는 실 같은 섬유(cotton fibre, synthetic fibre)와 음식 속 식이섬유(dietary fibre)를 모두 뜻해요. 건강 맥락에서는 'high in fibre'(식이섬유가 풍부한)가 자주 나와요. 광케이블인 'fibre optic'(광섬유)은 인터넷 속도를 말할 때 '광랜'이라고 하는 그 기술이에요. 비유적으로 'moral fibre'는 도덕적 강인함, 성품의 단단함을 말하는 표현이에요. 불가산으로 쓰는 경우가 많아요.",
+  "also": [
+   {
+    "w": "fiber",
+    "pos": "n",
+    "ko": "섬유 (미국식)",
+    "en": "Whole grains are rich in **fiber**."
+   }
+  ]
+ },
+ {
+  "w": "fiction",
+  "pos": "n",
+  "meaning_ko": "소설, 허구",
+  "example_en": "I mostly read **fiction**, especially mystery novels.",
+  "example_ko": "나는 주로 소설을 읽는데, 특히 추리소설을 좋아해.",
+  "nuance_ko": "fiction은 상상으로 지어낸 이야기, 특히 소설을 통틀어 부르는 말이에요. 반대는 nonfiction(논픽션, 사실에 기반한 글)이에요. 불가산 명사라서 'a fiction'보다는 'fiction'이라고 해요. 'science fiction'(SF), 'historical fiction'처럼 장르를 앞에 붙여요. 또 '꾸며낸 이야기, 허구'라는 뜻도 있어서 'The story is pure fiction.'(완전히 지어낸 이야기야)처럼 써요. 'Truth is stranger than fiction'은 사실이 소설보다 더 기이하다는 속담이에요. 형용사 fictional은 '허구의'예요.",
+  "also": [
+   {
+    "w": "fictional",
+    "pos": "adj",
+    "ko": "허구의",
+    "en": "The characters in the book are entirely **fictional**."
+   },
+   {
+    "w": "nonfiction",
+    "pos": "n",
+    "ko": "논픽션",
+    "en": "She prefers **nonfiction** to novels."
+   }
+  ]
+ },
+ {
+  "w": "fierce",
+  "pos": "adj",
+  "meaning_ko": "사나운, 격렬한",
+  "example_en": "There's **fierce** competition for jobs in this industry.",
+  "example_ko": "이 업계는 일자리를 두고 경쟁이 치열해.",
+  "nuance_ko": "fierce는 동물이나 사람이 사납고 위협적이라는 뜻, 그리고 경쟁이나 감정이 매우 격렬하다는 뜻이에요. a fierce dog, fierce competition, a fierce storm, fierce loyalty(강한 충성심)처럼 써요. 요즘 구어체에서는 멋지고 당당하다는 칭찬으로 'You look fierce!'라고도 해요. aggressive는 공격적인 성향을 나타내고, fierce는 강렬하고 세찬 정도에 초점이 있어요. 부사 fiercely는 'fiercely independent'(극도로 독립적인)처럼 강조에 자주 써요.",
+  "also": [
+   {
+    "w": "fiercely",
+    "pos": "adv",
+    "ko": "격렬하게, 극도로",
+    "en": "She is **fiercely** loyal to her friends."
+   }
+  ]
+ },
+ {
+  "w": "filter",
+  "pos": "n",
+  "meaning_ko": "필터, 여과 장치",
+  "example_en": "You should change the water **filter** every three months.",
+  "example_ko": "정수기 필터는 석 달에 한 번 교체해야 해.",
+  "nuance_ko": "filter는 액체나 공기에서 불순물을 걸러내는 여과 장치예요. water filter, coffee filter, air filter처럼 써요. 사진 앱의 효과(Instagram filter)나 이메일의 스팸 필터(spam filter)에서도 일상적으로 만나는 단어예요. 동사로는 '거르다, 걸러내다'(filter out noise)이고, 정보가 서서히 퍼지는 것(news filtered through)에도 써요. strainer는 체처럼 물리적으로 걸러 주는 도구이고, filter는 더 정밀하게 걸러내는 장치라는 느낌이에요.",
+  "also": [
+   {
+    "w": "filtered",
+    "pos": "adj",
+    "ko": "걸러진",
+    "en": "We only drink **filtered** water at home."
+   },
+   {
+    "w": "unfiltered",
+    "pos": "adj",
+    "ko": "걸러지지 않은",
+    "en": "The video shows an **unfiltered** view of the event."
+   }
+  ]
+ },
+ {
+  "w": "firms",
+  "pos": "n",
+  "meaning_ko": "회사들, 기업들",
+  "example_en": "Several law **firms** have offered him a job.",
+  "example_ko": "여러 법률 사무소에서 그에게 일자리를 제안했어.",
+  "nuance_ko": "firm은 특히 전문직 서비스를 하는 회사를 가리키는 명사예요. law firm(법률 사무소), accounting firm(회계법인), consulting firm(컨설팅 회사)처럼 써요. company보다 규모가 작거나 전문 서비스를 중심으로 하는 회사라는 느낌이 있어요. 복수형 firms는 업계 전반의 기업들을 뭉뚱그려 말할 때 뉴스에서 자주 나와요(tech firms, 기술 기업들). 형용사 firm은 '단단한, 확고한'(a firm decision)이라는 전혀 다른 뜻이고, 'firms'에서는 명사 의미가 기본이에요. 회사 이름 뒤에 쓰는 'the firm'은 '우리 회사, 그 회사'라는 뜻으로도 써요.",
+  "also": []
+ },
+ {
+  "w": "flavour",
+  "pos": "n",
+  "meaning_ko": "맛, 풍미",
+  "example_en": "What **flavour** of ice cream would you like?",
+  "example_ko": "어떤 맛 아이스크림 먹을래?",
+  "nuance_ko": "flavour는 영국식 철자이고 미국식은 flavor예요. 음식이나 음료의 독특한 맛과 풍미를 가리켜요. 아이스크림, 사탕, 음료 등의 종류를 구분할 때 'chocolate flavour', 'What flavors do you have?'처럼 써요. taste는 혀로 느끼는 기본 맛이고, flavour는 냄새까지 어우러진 전체 풍미라는 점이 달라요. 비유적으로 '특색, 분위기'를 뜻해서 'the local flavour'(그 지역만의 색채)라고 해요. 동사로는 '맛을 내다'(flavour the soup with herbs)예요.",
+  "also": [
+   {
+    "w": "flavor",
+    "pos": "n",
+    "ko": "맛 (미국식)",
+    "en": "This sauce has a rich **flavor**."
+   },
+   {
+    "w": "flavored",
+    "pos": "adj",
+    "ko": "맛이 나는",
+    "en": "I love vanilla-**flavored** coffee."
+   }
+  ]
+ },
+ {
+  "w": "flee",
+  "pos": "v",
+  "meaning_ko": "도망치다, 피난하다",
+  "example_en": "Thousands of people had to **flee** their homes because of the war.",
+  "example_ko": "전쟁 때문에 수천 명이 집을 버리고 피난해야 했어.",
+  "nuance_ko": "flee는 위험이나 위협을 피해 급히 달아나는 것을 말해요. flee the country, flee from danger, flee the scene처럼 써요. 불규칙 동사로 flee-fled-fled로 변해요. 전쟁, 재난, 범죄 뉴스에서 정말 자주 나오는 격식 있는 동사예요. run away는 구어체이고, escape는 갇혀 있던 상태에서 벗어나는 것이라 뉘앙스가 달라요. flee는 위험으로부터 도망치는 데 초점이 있어요. 'flee the scene'은 사고·범죄 현장에서 달아난다는 뜻이에요.",
+  "also": [
+   {
+    "w": "fleeing",
+    "pos": "adj",
+    "ko": "도망치는",
+    "en": "Police chased the **fleeing** suspect."
+   }
+  ]
+ },
+ {
+  "w": "flesh",
+  "pos": "n",
+  "meaning_ko": "살, 육체",
+  "example_en": "The knife cut deep into his **flesh**.",
+  "example_ko": "칼이 그의 살을 깊이 베었어.",
+  "nuance_ko": "flesh는 사람이나 동물의 뼈를 덮은 살을 가리켜요. 음식으로서의 고기는 meat이고, flesh는 몸의 살이나 과일의 과육(the flesh of the fruit)에도 써요. 'flesh and blood'는 '살과 피', 즉 혈육·가족이나 실제 사람이라는 관용구예요. 'in the flesh'는 '직접, 실물로' 보는 것을 뜻해서 유명인을 실제로 만났을 때 'I saw him in the flesh.'라고 해요. 종교적·문학적으로 육체적 욕망을 가리킬 때도 쓰여요. 'flesh out'은 '살을 붙여 구체화하다'라는 숙어예요.",
+  "also": [
+   {
+    "w": "fleshy",
+    "pos": "adj",
+    "ko": "살집이 많은",
+    "en": "The plant has thick, **fleshy** leaves."
+   }
+  ]
+ },
+ {
+  "w": "flexible",
+  "pos": "adj",
+  "meaning_ko": "유연한, 융통성 있는",
+  "example_en": "My job offers **flexible** working hours.",
+  "example_ko": "내 직장은 근무 시간이 유연해.",
+  "nuance_ko": "flexible은 쉽게 구부러지는 물리적 유연함과, 상황에 맞춰 바꿀 수 있는 융통성을 모두 뜻해요. flexible hours(유연 근무), a flexible schedule, flexible approach처럼 써요. 요즘 직장 문화에서는 'flexible working'(유연 근무제)이 핵심 키워드예요. 사람에게 'He's flexible'이라고 하면 변화에 잘 적응하고 고집부리지 않는다는 칭찬이에요. 반대는 rigid, inflexible이에요. 명사 flexibility는 '유연성'으로 'I need more flexibility'처럼 써요.",
+  "also": [
+   {
+    "w": "flexibility",
+    "pos": "n",
+    "ko": "유연성",
+    "en": "We value **flexibility** in our work schedules."
+   },
+   {
+    "w": "inflexible",
+    "pos": "adj",
+    "ko": "융통성 없는",
+    "en": "The rules are too **inflexible** for small teams."
+   }
+  ]
+ },
+ {
+  "w": "focus",
+  "pos": "v",
+  "meaning_ko": "집중하다, 초점을 맞추다",
+  "example_en": "I can't **focus** with all this noise around me.",
+  "example_ko": "주변이 이렇게 시끄러우면 집중을 못 하겠어.",
+  "nuance_ko": "focus는 관심이나 노력을 한 곳에 집중한다는 뜻이에요. focus on ~ 구문으로 쓰고 on 뒤에 명사나 동명사를 써요. 'Let's focus on the main issue.'처럼 회의에서 정말 자주 나와요. concentrate와 비슷하지만 focus는 여러 선택지 중 하나를 골라 초점을 맞추는 느낌이 강해요. 명사로는 '초점, 중심'(the focus of the study)이고, 카메라의 초점(out of focus, 초점이 안 맞는)도 같은 단어예요. 복수형은 foci 또는 focuses로 둘 다 가능해요.",
+  "also": [
+   {
+    "w": "focused",
+    "pos": "adj",
+    "ko": "집중한, 초점이 맞춰진",
+    "en": "She stays **focused** even under pressure."
+   }
+  ]
+ },
+ {
+  "w": "forecast",
+  "pos": "n",
+  "meaning_ko": "예보, 예측",
+  "example_en": "The weather **forecast** says it will rain all weekend.",
+  "example_ko": "일기예보에 따르면 주말 내내 비가 올 거래.",
+  "nuance_ko": "forecast는 앞으로 일어날 일을 근거에 기반해 예측하는 것, 특히 날씨 예보나 경제 전망이에요. weather forecast(일기예보), sales forecast(매출 예측), economic forecast처럼 써요. 동사로는 forecast-forecast-forecast(또는 forecasted)로 변해서 'Experts forecast a slowdown'처럼 써요. prediction은 일반적인 예측이고, forecast는 데이터와 분석에 기반한 전문적 전망이라는 느낌이에요. 비즈니스에서는 'revenue forecast'가 자주 나와요. 예보관은 forecaster예요.",
+  "also": [
+   {
+    "w": "forecaster",
+    "pos": "n",
+    "ko": "예보관, 예측가",
+    "en": "The **forecaster** warned about heavy snow."
+   }
+  ]
+ },
+ {
+  "w": "formal",
+  "pos": "adj",
+  "meaning_ko": "격식 있는, 공식적인",
+  "example_en": "You'll need to wear **formal** clothes for the ceremony.",
+  "example_ko": "그 행사에는 격식을 갖춘 옷을 입어야 해.",
+  "nuance_ko": "formal은 예의와 절차를 갖춘 격식 있고 공식적인 것을 말해요. formal clothes(정장), formal language(격식체), a formal complaint(공식 항의)처럼 써요. 반대는 informal(격식 없는, 편한)이에요. 영어에서 formal/informal 구분은 이메일, 편지, 대화에서 어떤 어휘를 쓸지 고르는 중요한 기준이에요. 'formal education'은 학교 교육처럼 정식 교육을 뜻해요. 명사 formality는 '형식적인 절차'(It's just a formality)예요.",
+  "also": [
+   {
+    "w": "formally",
+    "pos": "adv",
+    "ko": "공식적으로",
+    "en": "The company **formally** announced the merger."
+   },
+   {
+    "w": "formality",
+    "pos": "n",
+    "ko": "형식적 절차",
+    "en": "Signing the form is just a **formality**."
+   }
+  ]
+ },
+ {
+  "w": "format",
+  "pos": "n",
+  "meaning_ko": "형식, 포맷",
+  "example_en": "Please send the file in PDF **format**.",
+  "example_ko": "파일은 PDF 형식으로 보내 주세요.",
+  "nuance_ko": "format은 정보나 자료를 구성하는 형식이나 구성 방식이에요. file format(파일 형식), the format of the exam(시험 형식), TV format(프로그램 구성)처럼 써요. 컴퓨터에서 동사로 쓰면 '서식을 지정하다, 디스크를 포맷하다'라서 'format a document', 'format a USB drive'처럼 써요. 과거형은 formatted로 t가 겹쳐요. layout은 배치를 말하고, format은 전체 구조나 파일 종류를 가리켜요. 'in a different format'은 형식을 달리해서라는 뜻이에요.",
+  "also": [
+   {
+    "w": "formatted",
+    "pos": "adj",
+    "ko": "서식이 지정된",
+    "en": "The report must be properly **formatted**."
+   }
+  ]
+ },
+ {
+  "w": "formation",
+  "pos": "n",
+  "meaning_ko": "형성, 대형",
+  "example_en": "The **formation** of the new government took several weeks.",
+  "example_ko": "새 정부를 구성하는 데 몇 주가 걸렸어.",
+  "nuance_ko": "formation은 무언가가 만들어지거나 갖춰지는 과정, 또는 그렇게 이루어진 구조와 배열이에요. 정부나 단체의 구성(the formation of a coalition), 지질학적 암석 구조(rock formation), 축구 전술의 대형(a 4-4-2 formation)처럼 써요. 비행기나 군대가 질서 있게 늘어선 대열(fly in formation)도 formation이에요. 사람의 성격·습관 형성은 'character formation'이라고 해요. 동사 form의 명사형이지만 의미가 구조적인 쪽으로 넓어졌어요.",
+  "also": []
+ },
+ {
+  "w": "former",
+  "pos": "adj",
+  "meaning_ko": "이전의, 전직의",
+  "example_en": "My **former** boss still sends me emails sometimes.",
+  "example_ko": "전 상사가 아직도 가끔 나한테 이메일을 보내.",
+  "nuance_ko": "former는 예전에 그랬던, 지금은 아닌 '전직의, 이전의'를 뜻해요. former president(전직 대통령), my former colleague, a former student처럼 써요. ex-도 같은 뜻이지만 former가 더 격식 있고, 연애 상대에는 ex가 주로 쓰여요. 'the former'는 앞에서 언급한 두 가지 중 '전자'를 가리키고, 반대는 'the latter'(후자)예요. 이 대비는 독해와 토론에서 자주 나와요. 부사 formerly는 '이전에는'이라는 뜻으로 지금과 달라진 사실을 말할 때 써요.",
+  "also": [
+   {
+    "w": "formerly",
+    "pos": "adv",
+    "ko": "이전에는",
+    "en": "The building was **formerly** a school."
+   }
+  ]
+ },
+ {
+  "w": "formula",
+  "pos": "n",
+  "meaning_ko": "공식, 방식",
+  "example_en": "There's no magic **formula** for success.",
+  "example_ko": "성공에는 마법 같은 공식이 없어.",
+  "nuance_ko": "formula는 수학·화학의 공식, 그리고 어떤 일을 하는 정해진 방식이나 비결을 뜻해요. a mathematical formula, a chemical formula(화학식), a winning formula(성공 비결)처럼 써요. 분유(baby formula)와 F1 경주(Formula One)도 같은 단어를 써요. 복수형은 formulas 또는 formulae(격식 있는 표현)예요. 비유적으로 'a formula for success'는 성공의 정해진 방법이 있다는 전제를 담아, 보통 부정문에서 '그런 공식은 없다'고 말할 때 자주 써요. 동사는 formulate(공식화하다, 구체적으로 만들다)예요.",
+  "also": [
+   {
+    "w": "formulate",
+    "pos": "v",
+    "ko": "공식화하다, 구상하다",
+    "en": "The team will **formulate** a new strategy."
+   },
+   {
+    "w": "formulation",
+    "pos": "n",
+    "ko": "공식화, 처방",
+    "en": "The **formulation** of the policy took months."
+   }
+  ]
+ },
+ {
+  "w": "foster",
+  "pos": "v",
+  "meaning_ko": "촉진하다, 키우다",
+  "example_en": "Good teachers **foster** a love of learning in their students.",
+  "example_ko": "좋은 선생님은 학생들에게 배움에 대한 애정을 키워 줘.",
+  "nuance_ko": "foster는 감정, 생각, 환경이 자랄 수 있도록 북돋워 키운다는 뜻이에요. foster creativity, foster cooperation, foster growth처럼 추상 명사를 목적어로 쓰는 경우가 많아요. 또 친부모 대신 아이를 임시로 맡아 키우는 것(foster a child)도 뜻해서 foster parent(위탁 부모), foster home(위탁 가정), foster care(위탁 양육)처럼 써요. adopt는 법적으로 입양하는 거고 foster는 임시 위탁이라는 차이가 있어요. promote와 비슷하지만 foster는 천천히 키운다는 느낌이에요.",
+  "also": [
+   {
+    "w": "fostering",
+    "pos": "n",
+    "ko": "위탁 양육, 육성",
+    "en": "The family is thinking about **fostering** a child."
+   }
+  ]
+ },
+ {
+  "w": "foundation",
+  "pos": "n",
+  "meaning_ko": "기초, 재단, 설립",
+  "example_en": "A strong **foundation** in math is important for engineering.",
+  "example_ko": "공학에는 탄탄한 수학 기초가 중요해.",
+  "nuance_ko": "foundation은 건물의 토대, 학문·관계의 기초, 그리고 자선 단체나 재단을 뜻해요. lay the foundation(기초를 다지다), the foundation of a house, the Gates Foundation처럼 써요. 설립이라는 뜻으로 'the foundation of the company'(회사의 설립)라고도 써요. 화장품의 파운데이션도 같은 단어예요. base는 단순한 밑바탕이고, foundation은 그 위에 무언가를 쌓는 근본이라는 느낌이 강해요. 'without foundation'은 '근거가 없는'이란 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "founded",
+  "pos": "adj",
+  "meaning_ko": "설립된, 근거가 있는",
+  "example_en": "The university was **founded** in 1850.",
+  "example_ko": "그 대학은 1850년에 설립됐어.",
+  "nuance_ko": "founded는 found(설립하다)의 과거분사로 'was founded in 1850'처럼 수동태로 가장 많이 써요. 학교, 회사, 도시, 종교 등이 언제 세워졌는지 말할 때 필수 표현이에요. 동사 found는 find의 과거형 found와 철자가 같아서 헷갈리지만, 규칙동사 found-founded-founded예요. 형용사로는 '근거가 있는'이고 반대는 unfounded(근거 없는)라서 'unfounded rumors'(근거 없는 소문)로 자주 나와요. 설립자는 founder예요.",
+  "also": [
+   {
+    "w": "founder",
+    "pos": "n",
+    "ko": "설립자",
+    "en": "The **founder** of the company started it in his garage."
+   },
+   {
+    "w": "unfounded",
+    "pos": "adj",
+    "ko": "근거 없는",
+    "en": "The fears turned out to be **unfounded**."
+   }
+  ]
+ },
+ {
+  "w": "fragment",
+  "pos": "n",
+  "meaning_ko": "조각, 파편",
+  "example_en": "Police found a **fragment** of glass at the scene.",
+  "example_ko": "경찰이 현장에서 유리 파편을 발견했어.",
+  "nuance_ko": "fragment는 깨지거나 부서진 작은 조각이나, 전체의 일부만 남은 단편을 뜻해요. a fragment of glass, a fragment of a conversation(대화의 단편)처럼 써요. 문법에서 'sentence fragment'는 완전한 문장이 아닌 조각난 문장을 말해요. piece보다 훨씬 작고 불완전한 조각이라는 느낌이 강해요. 동사로 /frægˈment/는 '산산이 조각나다'이고, 형용사 fragmented는 '분열된, 단편적인'(a fragmented society)이에요. 명사는 앞, 동사는 뒤에 강세가 와요.",
+  "also": [
+   {
+    "w": "fragmented",
+    "pos": "adj",
+    "ko": "분열된, 단편적인",
+    "en": "The market is highly **fragmented**."
+   },
+   {
+    "w": "fragmentation",
+    "pos": "n",
+    "ko": "분열, 단편화",
+    "en": "The **fragmentation** of the party made it weaker."
+   }
+  ]
+ },
+ {
+  "w": "framework",
+  "pos": "n",
+  "meaning_ko": "틀, 체계",
+  "example_en": "The new law provides a legal **framework** for online privacy.",
+  "example_ko": "새 법은 온라인 개인정보 보호를 위한 법적 틀을 마련해.",
+  "nuance_ko": "framework는 어떤 것을 구성하는 기본 뼈대나 체계, 접근할 때 쓰는 틀을 말해요. a legal framework(법적 틀), a conceptual framework(개념적 틀), within the framework of ~(~의 테두리 안에서)처럼 써요. IT에서는 개발에 쓰는 소프트웨어 구조인 프레임워크(a web framework)로 매일 쓰는 단어예요. structure는 짜임새 자체이고, framework는 그 위에 세부 내용을 채워 넣는 기본 뼈대라는 느낌이에요. 복수형은 frameworks예요.",
+  "also": []
+ },
+ {
+  "w": "frequency",
+  "pos": "n",
+  "meaning_ko": "빈도, 주파수",
+  "example_en": "The **frequency** of earthquakes in this region has increased.",
+  "example_ko": "이 지역에서는 지진 발생 빈도가 늘었어.",
+  "nuance_ko": "frequency는 어떤 일이 얼마나 자주 일어나는지의 빈도, 그리고 물리에서 소리·전파의 주파수를 뜻해요. 'with increasing frequency'(점점 더 자주), 'the frequency of use'(사용 빈도), high frequency(고주파)처럼 써요. 라디오 채널을 FM 주파수(radio frequency)로 부를 때도 같은 단어를 써요. 'at a frequency of ~'는 '~의 빈도로'예요. 형용사 frequent(잦은)와 한 쌍으로 기억하면 편해요. 반대 개념은 rarity(드묾)예요.",
+  "also": []
+ },
+ {
+  "w": "frequent",
+  "pos": "adj",
+  "meaning_ko": "잦은, 빈번한",
+  "example_en": "He makes **frequent** trips to Japan for work.",
+  "example_ko": "그는 일 때문에 일본을 자주 오가.",
+  "nuance_ko": "frequent는 형용사로 '자주 일어나는, 빈번한'이라는 뜻이에요. frequent flyer(항공 마일리지 상용 고객), frequent visitor, frequent headaches처럼 써요. 동사 frequent는 /friːˈkwent/로 '자주 가다, 드나들다'(frequent a café)라는 격식 있는 말이에요. 형용사는 /ˈfriːkwənt/로 강세가 앞에 와요. 부사 frequently는 often보다 격식 있고 글에서 자주 보여요. 반대는 infrequent(드문)와 rare(희귀한)예요.",
+  "also": [
+   {
+    "w": "frequently",
+    "pos": "adv",
+    "ko": "자주",
+    "en": "She **frequently** travels for business."
+   },
+   {
+    "w": "infrequent",
+    "pos": "adj",
+    "ko": "드문",
+    "en": "His visits became more **infrequent** over time."
+   }
+  ]
+ },
+ {
+  "w": "fuel",
+  "pos": "n",
+  "meaning_ko": "연료",
+  "example_en": "We stopped to buy **fuel** before heading onto the highway.",
+  "example_ko": "고속도로에 들어서기 전에 연료를 넣으려고 멈췄어.",
+  "nuance_ko": "fuel은 차나 비행기, 난방에 쓰는 연료예요. fossil fuels(화석 연료), fuel efficiency(연비), run out of fuel(연료가 떨어지다)처럼 써요. 비유적으로 감정·갈등·논쟁을 부채질하는 것도 fuel이라서 'fuel the debate', 'add fuel to the fire'(불난 집에 부채질하다)가 자주 나와요. 동사로는 '연료를 공급하다, 부추기다'(be fueled by ~)예요. 영국식 철자는 fuelled/fuelling, 미국식은 fueled/fueling이에요. gas/petrol은 휘발유이고 fuel은 연료 전반이에요.",
+  "also": [
+   {
+    "w": "fueled",
+    "pos": "adj",
+    "ko": "부추겨진",
+    "en": "The protests were **fueled** by public anger."
+   }
+  ]
+ },
+ {
+  "w": "fulfil",
+  "pos": "v",
+  "meaning_ko": "이행하다, 충족시키다",
+  "example_en": "She worked hard to **fulfil** her dream of becoming a pilot.",
+  "example_ko": "걔는 조종사가 되겠다는 꿈을 이루려고 열심히 노력했어.",
+  "nuance_ko": "fulfil은 영국식 철자이고 미국식은 fulfill이에요. 약속·의무·조건을 이행하거나, 꿈·욕구를 충족시킨다는 뜻이에요. fulfil a promise, fulfil your potential, fulfil the requirements(요건을 충족하다)처럼 써요. achieve는 목표에 도달하는 것이고, fulfil은 기대되거나 약속된 것을 채워 완성하는 느낌이에요. 형용사 fulfilling은 '보람 있는'(a fulfilling career)으로 일에 만족감을 말할 때 자주 써요. 명사 fulfilment는 '성취감, 이행'이에요.",
+  "also": [
+   {
+    "w": "fulfilling",
+    "pos": "adj",
+    "ko": "보람 있는",
+    "en": "Teaching can be a very **fulfilling** career."
+   },
+   {
+    "w": "fulfilled",
+    "pos": "adj",
+    "ko": "충족된, 만족한",
+    "en": "I feel **fulfilled** by my work."
+   }
+  ]
+ },
+ {
+  "w": "function",
+  "pos": "n",
+  "meaning_ko": "기능, 함수, 행사",
+  "example_en": "The main **function** of the heart is to pump blood.",
+  "example_ko": "심장의 주된 기능은 혈액을 내보내는 거야.",
+  "nuance_ko": "function은 어떤 것의 역할이나 기능, 수학의 함수, 공식 행사 등 여러 뜻을 가져요. 기능은 'the function of the liver', 프로그래밍과 수학에서는 '함수'(a function in Python), 사교 행사는 'a social function'(모임)이라고 해요. 동사로는 '작동하다'(The machine doesn't function properly)라서 work보다 격식 있어요. purpose는 목적이고 function은 실제로 하는 역할이라는 점이 달라요. 형용사 functional은 '기능적인, 작동하는'이에요.",
+  "also": [
+   {
+    "w": "functional",
+    "pos": "adj",
+    "ko": "기능적인, 작동하는",
+    "en": "The design is simple but **functional**."
+   },
+   {
+    "w": "functioning",
+    "pos": "adj",
+    "ko": "작동하는",
+    "en": "A **functioning** economy needs trust."
+   }
+  ]
+ },
+ {
+  "w": "fundamental",
+  "pos": "adj",
+  "meaning_ko": "근본적인, 기본적인",
+  "example_en": "There's a **fundamental** difference between the two ideas.",
+  "example_ko": "그 두 생각 사이에는 근본적인 차이가 있어.",
+  "nuance_ko": "fundamental은 가장 밑바탕이 되는 핵심적이고 근본적인 것을 가리켜요. a fundamental right(기본권), a fundamental change, fundamental to ~(~에 필수적인)처럼 써요. basic은 쉽고 기초적인 수준이라는 느낌이 있고, fundamental은 그것 없이는 전체가 성립하지 않는 핵심이라는 느낌이에요. 복수 명사 fundamentals는 '기본 원칙, 기초'(learn the fundamentals)예요. 부사 fundamentally는 '근본적으로'로 'fundamentally different'처럼 자주 써요.",
+  "also": [
+   {
+    "w": "fundamentally",
+    "pos": "adv",
+    "ko": "근본적으로",
+    "en": "The two approaches are **fundamentally** different."
+   },
+   {
+    "w": "fundamentals",
+    "pos": "n",
+    "ko": "기본 원칙",
+    "en": "Start by learning the **fundamentals** of grammar."
+   }
+  ]
+ },
+ {
+  "w": "funeral",
+  "pos": "n",
+  "meaning_ko": "장례식",
+  "example_en": "Hundreds of people attended his **funeral**.",
+  "example_ko": "수백 명이 그의 장례식에 참석했어.",
+  "nuance_ko": "funeral은 고인을 떠나보내는 장례식이에요. attend a funeral, funeral service, funeral home(장례식장)처럼 써요. burial은 시신을 묻는 매장 행위이고, cremation은 화장이에요. 장례식 때 말하는 위로의 표현으로는 'I'm so sorry for your loss.'가 가장 보편적이에요. 'It's your funeral'은 '그건 네 책임이야, 결과는 네가 감당해라'라는 의미의 관용 표현으로 주로 경고조로 쓰여요. 복수형은 funerals예요.",
+  "also": []
+ },
+ {
+  "w": "furthermore",
+  "pos": "adv",
+  "meaning_ko": "게다가, 더욱이",
+  "example_en": "The plan is too expensive. **Furthermore**, it will take too long.",
+  "example_ko": "그 계획은 너무 비싸. 게다가 시간도 너무 오래 걸려.",
+  "nuance_ko": "furthermore는 앞서 한 말에 더 보탤 내용을 이어갈 때 쓰는 격식 있는 접속부사예요. 보통 문장 앞에서 'Furthermore, ...'로 시작하고 쉼표를 붙여요. moreover, in addition과 거의 같고, besides보다 훨씬 격식 있어요. 에세이와 보고서에서 논거를 추가할 때 좋지만, 일상 대화에서는 딱딱하게 들려서 and, also, plus를 써요. 한국 학습자가 에세이에서 furthermore를 지나치게 반복하는 경향이 있어서, 다양하게 바꿔 쓰는 연습이 필요해요.",
+  "also": []
+ },
+ {
+  "w": "gallery",
+  "pos": "n",
+  "meaning_ko": "미술관, 화랑",
+  "example_en": "We spent the afternoon at an art **gallery** downtown.",
+  "example_ko": "우린 오후 내내 시내에 있는 미술관에서 시간을 보냈어.",
+  "nuance_ko": "gallery는 미술 작품을 전시하는 화랑이나 소규모 미술관이에요. an art gallery, a photo gallery(사진 갤러리)처럼 써요. museum은 역사·과학·미술 등을 포괄하는 박물관이고, gallery는 주로 미술품 전시 공간이라는 점이 달라요. 극장의 맨 위층 값싼 관객석(the gallery)이나 스마트폰 사진 앱도 gallery라고 불러요. 비유적으로 'a rogues' gallery'는 범죄자 사진 모음, 'play to the gallery'는 대중의 인기를 노리고 행동한다는 뜻의 관용구예요. 복수형은 galleries예요.",
+  "also": []
+ },
+ {
+  "w": "gang",
+  "pos": "n",
+  "meaning_ko": "갱단, 무리",
+  "example_en": "The police arrested several members of a street **gang**.",
+  "example_ko": "경찰이 길거리 갱단 조직원 몇 명을 체포했어.",
+  "nuance_ko": "gang은 범죄를 일삼는 조직적인 무리인 갱단을 뜻해요. gang member, gang violence, street gang처럼 써요. 하지만 구어체에서는 친구 무리를 가볍게 부르는 말이기도 해요. 'The whole gang is here'는 '다 모였네'라는 가벼운 표현이고, 반려동물이나 아이들을 부르는 호칭('Hey, gang!')으로도 써요. group은 중립적이고 gang은 문맥에 따라 부정적일 수도, 친근할 수도 있어서 상황을 보고 판단해야 해요. 동사 gang up on ~은 여럿이 한 사람에게 달려드는 걸 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "gap",
+  "pos": "n",
+  "meaning_ko": "틈, 격차",
+  "example_en": "There's a big **gap** between what he says and what he does.",
+  "example_ko": "걔가 하는 말과 행동 사이에는 큰 차이가 있어.",
+  "nuance_ko": "gap은 물체 사이의 틈이나 빈 공간, 그리고 사람이나 집단 사이의 차이·격차를 뜻해요. generation gap(세대 차이), wage gap(임금 격차), a gap in knowledge(지식의 공백), fill the gap처럼 써요. 여행에서는 학교와 직장 사이에 쉬는 'gap year'(갭이어)가 유명해요. 전철에서 들리는 'Mind the gap'은 승강장과 열차 사이의 틈을 조심하라는 안내예요. difference는 일반적인 차이이고 gap은 그 사이가 비어 있거나 벌어져 있다는 이미지가 강해요.",
+  "also": []
+ },
+ {
+  "w": "gaze",
+  "pos": "v",
+  "meaning_ko": "응시하다, 바라보다",
+  "example_en": "She sat by the window and **gazed** at the stars.",
+  "example_ko": "그녀는 창가에 앉아 별을 가만히 바라봤어.",
+  "nuance_ko": "gaze는 감탄, 몽상, 놀라움 등으로 오랫동안 시선을 고정하고 바라본다는 뜻이에요. gaze at/into/out of ~ 구문으로 써요. 'gaze at the sky', 'gaze into someone's eyes'처럼 낭만적이거나 사색적인 장면에서 자주 나와요. look은 일반적인 보기, stare는 무례하게 뚫어지게 쳐다보는 부정적 느낌이고, gaze는 부드럽고 몰입한 시선이라 좋은 의미로 쓰일 때가 많아요. 명사로도 'a steady gaze'(흔들림 없는 시선)처럼 써요.",
+  "also": [
+   {
+    "w": "gazing",
+    "pos": "n",
+    "ko": "응시",
+    "en": "Star **gazing** is her favorite hobby."
+   }
+  ]
+ },
+ {
+  "w": "gender",
+  "pos": "n",
+  "meaning_ko": "성별, 젠더",
+  "example_en": "The company promotes equal pay regardless of **gender**.",
+  "example_ko": "그 회사는 성별에 관계없이 동일한 임금을 보장해.",
+  "nuance_ko": "gender는 사회적·문화적으로 구성된 성별을 뜻하고, sex는 생물학적 성별을 가리키는 경우가 많아요. 설문지의 'Gender: M/F'에서 보듯 일상적으로는 두 단어를 섞어 쓰기도 해요. gender equality(성평등), gender gap(성별 격차), gender roles(성 역할)처럼 사회 이슈에서 자주 등장해요. 문법에서는 언어의 성(남성/여성/중성)을 가리키기도 해서 독일어, 프랑스어에서 중요한 개념이에요. 형용사 gendered는 '성별에 따라 구분된'이라는 학술적 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "gene",
+  "pos": "n",
+  "meaning_ko": "유전자",
+  "example_en": "Scientists found a **gene** linked to the disease.",
+  "example_ko": "과학자들이 그 질병과 관련된 유전자를 발견했어.",
+  "nuance_ko": "gene은 부모에게서 자손에게 유전 정보를 전달하는 유전의 기본 단위, 즉 유전자예요. a gene for eye color, genetic code, gene therapy(유전자 치료)처럼 써요. 일상에서는 'It's in my genes'(내 유전자에 있어, 타고났어)처럼 가족에게서 물려받은 특성을 가볍게 말할 때 자주 써요. DNA는 유전 정보를 담은 분자이고 gene은 그중 특정 기능을 하는 구간이에요. 같은 소리의 jean(청바지)과 구별해야 해요. 형용사는 genetic이에요.",
+  "also": []
+ },
+ {
+  "w": "generate",
+  "pos": "v",
+  "meaning_ko": "만들어 내다, 발생시키다",
+  "example_en": "Solar panels can **generate** electricity even on cloudy days.",
+  "example_ko": "태양광 패널은 흐린 날에도 전기를 만들어 낼 수 있어.",
+  "nuance_ko": "generate는 전기, 수익, 아이디어, 관심 같은 것을 새로 만들어 내거나 발생시킨다는 뜻이에요. generate electricity, generate revenue, generate ideas, generate interest처럼 써요. produce와 비슷하지만 generate는 어떤 과정이나 시스템에서 지속적으로 만들어 낸다는 느낌이 있어요. AI에서는 텍스트나 이미지를 생성하는 것(generate text)이라서 요즘 정말 자주 나와요. 'generate leads'(잠재 고객을 확보하다)는 마케팅 용어예요. 명사 generation은 '발생, 세대', generator는 '발전기'예요.",
+  "also": [
+   {
+    "w": "generated",
+    "pos": "adj",
+    "ko": "생성된",
+    "en": "The report is automatically **generated** each week."
+   }
+  ]
+ },
+ {
+  "w": "generous",
+  "pos": "adj",
+  "meaning_ko": "너그러운, 후한",
+  "example_en": "She was very **generous** and paid for everyone's dinner.",
+  "example_ko": "그분은 정말 후하게 모두의 저녁값을 내 주셨어.",
+  "nuance_ko": "generous는 돈, 시간, 선물 등을 아낌없이 베푸는 후한 태도를 말해요. a generous donation(후한 기부), generous with her time(시간을 아끼지 않는), a generous portion(푸짐한 양)처럼 써요. 마음이 넓고 너그럽다는 성격 묘사로도 쓰여서 'a generous person'은 좋은 칭찬이에요. 'It's generous of you to ~'(~해 주시다니 너그러우시네요)는 감사 표현으로도 좋아요. 반대는 stingy(인색한)나 mean이에요. 명사 generosity는 '관대함'이에요.",
+  "also": [
+   {
+    "w": "generosity",
+    "pos": "n",
+    "ko": "관대함, 후함",
+    "en": "Thank you for your **generosity**."
+   },
+   {
+    "w": "generously",
+    "pos": "adv",
+    "ko": "후하게",
+    "en": "The sauce was **generously** spread on the pizza."
+   }
+  ]
+ },
+ {
+  "w": "genetic",
+  "pos": "adj",
+  "meaning_ko": "유전의, 유전적인",
+  "example_en": "Some diseases have a strong **genetic** component.",
+  "example_ko": "어떤 질병은 유전적 요인이 강해.",
+  "nuance_ko": "genetic은 유전자나 유전과 관련된 것을 꾸며주는 형용사예요. a genetic disorder(유전 질환), genetic testing(유전자 검사), genetic information처럼 써요. genetically modified(GM, 유전자 변형)는 식품 뉴스에서 자주 나와요. 'genetically' 부사가 붙은 'genetically predisposed'는 유전적으로 걸리기 쉬운 상태를 말해요. 명사 genetics는 '유전학'(단수 취급)이고, geneticist는 유전학자예요.",
+  "also": [
+   {
+    "w": "genetically",
+    "pos": "adv",
+    "ko": "유전적으로",
+    "en": "The crops are **genetically** modified."
+   },
+   {
+    "w": "genetics",
+    "pos": "n",
+    "ko": "유전학",
+    "en": "She studies **genetics** at university."
+   }
+  ]
+ },
+ {
+  "w": "genuine",
+  "pos": "adj",
+  "meaning_ko": "진짜의, 진심의",
+  "example_en": "I could tell her surprise was **genuine**.",
+  "example_ko": "걔가 놀란 게 진짜라는 걸 알 수 있었어.",
+  "nuance_ko": "genuine은 가짜가 아닌 진짜라는 뜻과, 진심에서 우러난다는 뜻 둘 다 가져요. genuine leather(진짜 가죽), a genuine smile(진심 어린 미소), genuine interest처럼 써요. real보다 격식 있고 진위를 따질 때 많이 써요. 사람에게 쓰면 꾸밈없이 진솔하다는 칭찬이에요(a genuine person). authentic은 원본·정통성에 초점이 있고, genuine은 거짓이 없다는 점에 초점이 있어요. 부사 genuinely는 'genuinely surprised'(정말로 놀란)처럼 강조에 자주 써요.",
+  "also": [
+   {
+    "w": "genuinely",
+    "pos": "adv",
+    "ko": "진심으로, 정말로",
+    "en": "I'm **genuinely** happy for you."
+   }
+  ]
+ },
+ {
+  "w": "geography",
+  "pos": "n",
+  "meaning_ko": "지리, 지리학",
+  "example_en": "She's very good at **geography** and knows every capital city.",
+  "example_ko": "걔는 지리를 아주 잘해서 모든 수도를 알고 있어.",
+  "nuance_ko": "geography는 지구의 지형, 기후, 인구, 나라의 위치 등을 연구하는 지리학이에요. 학교 교과목 이름이기도 해요. 어떤 지역의 지리적 특징을 말할 때도 써서 'the geography of the region'은 그 지역의 지형과 위치를 뜻해요. 'physical geography'(자연지리)와 'human geography'(인문지리)로 나뉘어요. 철자가 길고 어려워서 geograpy 같은 실수를 자주 하니 geo(땅)+graphy(기록)로 나눠 외우면 편해요. 형용사는 geographical/geographic이에요.",
+  "also": [
+   {
+    "w": "geographical",
+    "pos": "adj",
+    "ko": "지리적인",
+    "en": "The country has great **geographical** diversity."
+   },
+   {
+    "w": "geographer",
+    "pos": "n",
+    "ko": "지리학자",
+    "en": "The **geographer** studied how rivers shape the land."
+   }
+  ]
+ },
+ {
+  "w": "gesture",
+  "pos": "n",
+  "meaning_ko": "몸짓, 제스처",
+  "example_en": "He made a rude **gesture** at the other driver.",
+  "example_ko": "그는 다른 운전자에게 무례한 손짓을 했어.",
+  "nuance_ko": "gesture는 손이나 머리를 움직여 뜻을 전달하는 몸짓이에요. 'a friendly gesture', 'hand gesture'처럼 써요. 또 마음을 표현하는 행동이나 선의의 표시를 가리켜서 'a kind gesture'(친절한 행동), 'a goodwill gesture'(호의의 표시)라고 해요. 'It was a nice gesture'는 '배려 있는 행동이었어'라는 칭찬이에요. 문화권마다 같은 제스처의 의미가 달라서 여행 시 주의가 필요해요. 동사 gesture는 '몸짓으로 표현하다'예요.",
+  "also": [
+   {
+    "w": "gestured",
+    "pos": "adj",
+    "ko": "몸짓으로 표현한",
+    "en": "She **gestured** for us to come in."
+   }
+  ]
+ },
+ {
+  "w": "global",
+  "pos": "adj",
+  "meaning_ko": "세계적인, 전 지구적인",
+  "example_en": "Climate change is a **global** problem that needs global cooperation.",
+  "example_ko": "기후 변화는 전 세계의 협력이 필요한 지구적 문제야.",
+  "nuance_ko": "global은 전 세계에 걸치거나 지구 전체와 관련된 것을 말해요. global warming, a global economy, global brand처럼 써요. international은 나라와 나라 사이의 관계에 초점이 있고, global은 세계 전체를 하나로 본다는 느낌이에요. 비즈니스에서 'go global'은 해외 시장으로 확장한다는 뜻이에요. 컴퓨터에서는 프로그램 전체에서 쓰는 '전역'(global variable)도 global이에요. 명사 globalization은 '세계화'예요.",
+  "also": [
+   {
+    "w": "globally",
+    "pos": "adv",
+    "ko": "전 세계적으로",
+    "en": "The product is sold **globally**."
+   },
+   {
+    "w": "globalization",
+    "pos": "n",
+    "ko": "세계화",
+    "en": "**Globalization** has connected economies around the world."
+   }
+  ]
+ },
+ {
+  "w": "glow",
+  "pos": "n",
+  "meaning_ko": "은은한 빛, 홍조",
+  "example_en": "We sat around the fire, enjoying its warm **glow**.",
+  "example_ko": "우리는 모닥불의 따뜻한 불빛을 즐기며 둘러앉았어.",
+  "nuance_ko": "glow는 불꽃 없이 은은하게 퍼지는 빛이나 따뜻한 느낌을 말해요. the glow of a candle, a soft glow, the evening glow처럼 써요. 사람의 얼굴이 기쁨이나 건강으로 환해진 모습(a healthy glow, 'glowing with pride')에도 써요. 칭찬할 때 'You're glowing!'은 '얼굴이 환해 보여'라는 뜻이에요. shine은 강하게 반짝이는 것이고, glow는 은은하게 빛나는 것이에요. 'glowing review'는 극찬하는 평가를 뜻해요.",
+  "also": [
+   {
+    "w": "glowing",
+    "pos": "adj",
+    "ko": "빛나는, 극찬하는",
+    "en": "The film received **glowing** reviews."
+   }
+  ]
+ },
+ {
+  "w": "goods",
+  "pos": "n",
+  "meaning_ko": "상품, 물품",
+  "example_en": "The store sells a wide range of household **goods**.",
+  "example_ko": "그 가게는 다양한 생활용품을 팔아.",
+  "nuance_ko": "goods는 팔거나 사는 물건, 즉 상품이나 물품을 뜻하는 복수 명사예요. consumer goods(소비재), household goods(생활용품), goods and services(재화와 서비스)처럼 써요. 항상 복수형으로 쓰고 'a goods'라고 하지 않아요. 'deliver the goods'는 '약속한 것을 해내다'라는 관용구예요. 'goods train'은 영국에서 화물 열차를 뜻해요. product는 만들어진 제품 하나하나를 가리키고, goods는 거래되는 물건 전체를 뭉뚱그려 부를 때 써요.",
+  "also": []
+ },
+ {
+  "w": "gradual",
+  "pos": "adj",
+  "meaning_ko": "점진적인, 서서히 일어나는",
+  "example_en": "There has been a **gradual** improvement in her health.",
+  "example_ko": "그분의 건강이 서서히 나아지고 있어.",
+  "nuance_ko": "gradual은 한 번에 급격히 변하지 않고 조금씩 단계적으로 진행되는 것을 말해요. a gradual change, gradual improvement, gradual decline처럼 써요. 반대말은 sudden(갑작스러운)이에요. slow는 속도가 느린 것이고, gradual은 천천히 단계적으로 변해 간다는 점에 초점이 있어요. 부사 gradually는 'Gradually, I got used to the cold.'처럼 시간이 지나며 차차 변하는 과정을 설명할 때 자주 써요. 철자 gradual은 grade(등급)와 같은 뿌리의 단어예요.",
+  "also": [
+   {
+    "w": "gradually",
+    "pos": "adv",
+    "ko": "점차, 서서히",
+    "en": "The weather is **gradually** getting warmer."
+   }
+  ]
+ },
+ {
+  "w": "graduate",
+  "pos": "v",
+  "meaning_ko": "졸업하다",
+  "example_en": "She will **graduate** from university next June.",
+  "example_ko": "걔는 내년 6월에 대학을 졸업해.",
+  "nuance_ko": "graduate는 학교의 과정을 마치고 졸업한다는 뜻이에요. graduate from + 학교 구문으로 쓰고 전치사 from이 필요해요. 미국 영어에서는 초·중·고교 졸업에도 쓰고, 영국에서는 보통 대학 졸업에 써요. 명사 graduate는 /ˈɡrædʒuət/로 '졸업생'이고 'a college graduate'처럼 써요. 대학원은 graduate school이고 학부생은 undergraduate예요. 동사는 /ˈɡrædʒueɪt/로 어미 발음이 달라요. 한국 학습자가 'graduate university'처럼 from을 빼는 실수를 자주 해요.",
+  "also": [
+   {
+    "w": "graduation",
+    "pos": "n",
+    "ko": "졸업, 졸업식",
+    "en": "Her family came to her **graduation** ceremony."
+   },
+   {
+    "w": "graduates",
+    "pos": "n",
+    "ko": "졸업생들",
+    "en": "Recent **graduates** are struggling to find jobs."
+   }
+  ]
+ },
+ {
+  "w": "grain",
+  "pos": "n",
+  "meaning_ko": "곡물, 낟알",
+  "example_en": "Rice and wheat are the most widely grown **grains** in the world.",
+  "example_ko": "쌀과 밀은 세계에서 가장 널리 재배되는 곡물이야.",
+  "nuance_ko": "grain은 쌀, 밀, 보리 같은 곡물과 그 낟알 하나, 그리고 모래나 소금 같은 아주 작은 알갱이를 뜻해요. whole grains(통곡물), a grain of rice, a grain of sand처럼 써요. 나무나 가죽의 결(wood grain)도 grain이라서 'against the grain'(결 반대로)은 '성미에 맞지 않게'라는 관용 표현이에요. 'a grain of truth'는 '일말의 진실'로, 거의 없지만 약간 있는 진실을 뜻해요. cereal은 곡물로 만든 시리얼 식품이고 grain은 그 원료 곡식이라는 차이가 있어요.",
+  "also": []
+ },
+ {
+  "w": "graphic",
+  "pos": "adj",
+  "meaning_ko": "생생한, 그래픽의",
+  "example_en": "The report gave a **graphic** description of the accident.",
+  "example_ko": "보고서는 사고를 아주 생생하게 묘사했어.",
+  "nuance_ko": "graphic은 형용사로 '그림·도표의'라는 뜻과, 눈에 보이듯 '생생하고 적나라한'이라는 뜻이 있어요. graphic design(그래픽 디자인), graphic novel(그래픽 노블)은 시각물의 맥락이고, graphic details나 graphic violence는 폭력 등을 사실적으로 묘사했다는 뜻으로 경고문에서 자주 보여요. 명사 graphics는 컴퓨터 그래픽, 도표 등 시각 자료를 가리켜요(video game graphics). 'Contains graphic content'라는 경고는 충격적일 수 있는 영상·글이라는 안내예요.",
+  "also": [
+   {
+    "w": "graphics",
+    "pos": "n",
+    "ko": "그래픽, 시각 자료",
+    "en": "The game has amazing **graphics**."
+   },
+   {
+    "w": "graphically",
+    "pos": "adv",
+    "ko": "생생하게",
+    "en": "The film shows the war **graphically**."
+   }
+  ]
+ },
+ {
+  "w": "grasp",
+  "pos": "v",
+  "meaning_ko": "움켜잡다, 이해하다",
+  "example_en": "It took me a while to **grasp** the basic idea.",
+  "example_ko": "기본 개념을 이해하는 데 시간이 좀 걸렸어.",
+  "nuance_ko": "grasp는 손으로 꽉 잡는 것과, 비유적으로 개념을 확실히 이해하는 것을 모두 뜻해요. grasp the concept, grasp the situation처럼 이해의 맥락에서 정말 자주 써요. 'a firm grasp'는 확실한 이해나 단단한 쥠을 말하고, 'beyond one's grasp'는 이해나 손이 닿지 않는 범위를 뜻해요. 'grasp at straws'는 지푸라기라도 잡으려는 절박한 상황을 이르는 관용어예요. understand보다 핵심을 확 잡는다는 느낌이고, hold는 단순히 쥐고 있는 것이에요.",
+  "also": [
+   {
+    "w": "grasping",
+    "pos": "adj",
+    "ko": "탐욕스러운",
+    "en": "He was a **grasping** landlord who raised the rent every year."
+   }
+  ]
+ },
+ {
+  "w": "grateful",
+  "pos": "adj",
+  "meaning_ko": "감사하는",
+  "example_en": "I'm so **grateful** for all your help this week.",
+  "example_ko": "이번 주에 도와준 거 정말 고마워.",
+  "nuance_ko": "grateful은 받은 도움이나 호의에 고마움을 느낀다는 뜻이에요. be grateful to someone for something 구문으로 쓰고 사람 앞에는 to, 이유 앞에는 for를 써요. thankful은 좋은 일이 생긴 것에 대한 안도감과 감사에 가깝고, grateful은 누군가에게서 받은 구체적인 도움에 대한 감사예요. 'I'd be grateful if you could ~'는 정중한 부탁 표현이라 이메일에서 자주 써요. 반대는 ungrateful(배은망덕한)이고, 부사 gratefully는 '감사하며'예요.",
+  "also": [
+   {
+    "w": "gratefully",
+    "pos": "adv",
+    "ko": "감사하며",
+    "en": "She **gratefully** accepted the help."
+   },
+   {
+    "w": "ungrateful",
+    "pos": "adj",
+    "ko": "배은망덕한",
+    "en": "Don't be so **ungrateful** after all they've done."
+   }
+  ]
+ },
+ {
+  "w": "grave",
+  "pos": "n",
+  "meaning_ko": "무덤",
+  "example_en": "Visitors left flowers at his **grave**.",
+  "example_ko": "방문객들이 그의 무덤에 꽃을 놓고 갔어.",
+  "nuance_ko": "grave는 명사로 '무덤, 묘'라는 뜻이에요. visit a grave, a grave marker처럼 써요. 형용사 grave는 /ɡreɪv/로 같은 철자이면서 '심각한, 중대한'(a grave mistake, grave concern)이라는 전혀 다른 뜻이에요. 'turn in one's grave'는 고인이 알면 무덤에서 뒤척일 만큼 못마땅한 일이라는 관용구예요. tomb는 무덤 건물이나 석조 구조물에 가깝고, grave는 땅에 판 구덩이로서의 무덤이에요. 뉴스에서는 'grave danger'(심각한 위험)처럼 형용사 용법이 더 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "gravity",
+  "pos": "n",
+  "meaning_ko": "중력, 심각성",
+  "example_en": "The moon's **gravity** is much weaker than the Earth's.",
+  "example_ko": "달의 중력은 지구의 중력보다 훨씬 약해.",
+  "nuance_ko": "gravity는 물체를 아래로 끌어당기는 중력, 그리고 상황의 심각성이나 엄숙함을 뜻해요. the law of gravity(중력의 법칙), zero gravity(무중력)처럼 과학에서 쓰고, 'the gravity of the situation'(상황의 심각성)처럼 비유적으로도 써요. 형용사 grave(심각한)와 뿌리가 같아서 'gravity'는 무게감 있는 심각함을 의미해요. 'defy gravity'는 중력을 거스르다, 믿기 어려운 일을 해내다라는 뜻이에요. 동사 gravitate toward ~는 '~에 끌리다'예요.",
+  "also": [
+   {
+    "w": "gravitational",
+    "pos": "adj",
+    "ko": "중력의",
+    "en": "The planet's **gravitational** pull is strong."
+   },
+   {
+    "w": "gravitate",
+    "pos": "v",
+    "ko": "끌리다",
+    "en": "Kids often **gravitate** toward bright colors."
+   }
+  ]
+ },
+ {
+  "w": "greet",
+  "pos": "v",
+  "meaning_ko": "인사하다, 맞이하다",
+  "example_en": "She **greeted** every guest with a warm smile.",
+  "example_ko": "그녀는 모든 손님을 따뜻한 미소로 맞이했어.",
+  "nuance_ko": "greet은 만났을 때 인사하거나 반갑게 맞이한다는 뜻이에요. greet someone with a smile, greet a visitor처럼 쓰고 타동사라서 목적어를 바로 받아요. 'greet to someone'은 틀린 표현이에요. 소식이나 사건에 어떤 반응을 보일 때도 쓰여서 'The news was greeted with cheers.'는 환호로 받아들여졌다는 뜻이에요. say hello는 구어체이고 greet이 더 격식 있어요. 명사 greeting은 인사말이고, 복수 greetings는 안부 인사나 카드 문구('Season's greetings')로 쓰여요.",
+  "also": [
+   {
+    "w": "greeting",
+    "pos": "n",
+    "ko": "인사",
+    "en": "He gave me a friendly **greeting**."
+   },
+   {
+    "w": "greeted",
+    "pos": "adj",
+    "ko": "맞이한",
+    "en": "The announcement was **greeted** with applause."
+   }
+  ]
+ },
+ {
+  "w": "grip",
+  "pos": "n",
+  "meaning_ko": "움켜쥠, 손잡이, 통제력",
+  "example_en": "He tightened his **grip** on the rope.",
+  "example_ko": "그는 밧줄을 쥔 손에 힘을 더 줬어.",
+  "nuance_ko": "grip은 손으로 단단히 쥐는 힘과, 쥐는 부분(손잡이)을 뜻해요. a firm grip, lose your grip처럼 써요. 비유적으로 상황에 대한 통제력(get a grip on yourself, 정신 차리다), 어떤 일의 영향력('in the grip of winter', 겨울의 한가운데)도 가리켜요. 'Get a grip!'은 '진정해, 정신 차려!'라는 구어체 표현이에요. 동사로는 '꽉 잡다', 흥미를 사로잡다('a gripping story', 손에 땀을 쥐게 하는 이야기)라는 뜻도 있어요. hold보다 더 단단하고 힘주어 잡는 느낌이에요.",
+  "also": [
+   {
+    "w": "gripping",
+    "pos": "adj",
+    "ko": "손에 땀을 쥐게 하는",
+    "en": "It was a **gripping** thriller from start to finish."
+   }
+  ]
+ },
+ {
+  "w": "gross",
+  "pos": "adj",
+  "meaning_ko": "총, 역겨운",
+  "example_en": "Her **gross** income last year was around fifty thousand dollars.",
+  "example_ko": "작년 그녀의 세전 총소득은 약 5만 달러였어.",
+  "nuance_ko": "gross는 형용사로 두 가지 뜻이 있어요. 하나는 세금이나 공제 전 '총'의 금액(gross income, gross profit)이고, 반대는 net(순)이에요. 다른 하나는 구어체로 '역겨운, 징그러운'(That's so gross!)이라는 뜻이에요. 'gross negligence'처럼 법적으로 '중대한, 심한'이라는 뜻도 있어요. GDP의 G는 gross(총)를 뜻하는 이니셜이에요. 문맥을 보고 의미를 정해야 하는 단어예요. 부사 grossly는 '지나치게'(grossly unfair)를 뜻해요.",
+  "also": [
+   {
+    "w": "grossly",
+    "pos": "adv",
+    "ko": "지나치게, 심하게",
+    "en": "The charges were **grossly** exaggerated."
+   }
+  ]
+ },
+ {
+  "w": "guideline",
+  "pos": "n",
+  "meaning_ko": "지침, 가이드라인",
+  "example_en": "Please follow the safety **guidelines** at all times.",
+  "example_ko": "안전 지침을 항상 따라 주세요.",
+  "nuance_ko": "guideline은 어떤 일을 할 때 따르면 좋은 권고 사항이나 지침이에요. safety guidelines, follow the guidelines, guidelines for writing처럼 써요. 대개 복수형 guidelines를 써요. rule은 반드시 지켜야 하는 규칙이고, guideline은 권장되는 기준이라서 어느 정도 융통성이 있어요. 의료, 정부, 기업에서 공식 가이드라인을 내릴 때 자주 쓰는 단어예요. 'set guidelines'(지침을 정하다), 'strict guidelines'(엄격한 지침)도 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "guitar",
+  "pos": "n",
+  "meaning_ko": "기타",
+  "example_en": "He taught himself to play the **guitar** by watching videos.",
+  "example_ko": "그는 영상을 보며 독학으로 기타를 배웠어.",
+  "nuance_ko": "guitar는 현을 튕겨서 연주하는 악기인 기타예요. 악기를 연주한다고 할 때는 'play the guitar'처럼 the를 붙이는 것이 일반적이에요. acoustic guitar(통기타), electric guitar(전자 기타), bass guitar(베이스 기타)처럼 종류를 앞에 붙여요. 기타 치는 사람은 guitarist이고, 밴드에서는 lead guitarist(리드 기타리스트)가 있어요. 한국에서도 '기타'라고 부르지만 영어 발음은 /ɡɪˈtɑːr/로 강세가 뒤에 와요. 줄은 string, 줄을 튕기는 작은 조각은 pick이에요.",
+  "also": [
+   {
+    "w": "guitarist",
+    "pos": "n",
+    "ko": "기타리스트",
+    "en": "The band's **guitarist** wrote most of the songs."
+   }
+  ]
+ },
+ {
+  "w": "halt",
+  "pos": "v",
+  "meaning_ko": "멈추다, 중단시키다",
+  "example_en": "Heavy snow **halted** all trains for several hours.",
+  "example_ko": "폭설로 모든 열차가 몇 시간 동안 멈췄어.",
+  "nuance_ko": "halt는 진행 중이던 것을 갑자기 멈추거나 멈추게 한다는 뜻이에요. halt production, halt the construction, come to a halt처럼 써요. stop보다 격식 있고, 뉴스나 공식 발표에서 자주 보여요. 명사 halt는 '정지, 중단'으로 'come to a halt'(멈추게 되다), 'bring ~ to a halt'(~를 멈추게 하다)가 자주 쓰여요. 군대에서 'Halt!'는 '정지!'라는 구령이에요. 자동사와 타동사 모두 가능하다는 점이 편해요.",
+  "also": [
+   {
+    "w": "halted",
+    "pos": "adj",
+    "ko": "중단된",
+    "en": "The **halted** talks resumed on Monday."
+   }
+  ]
+ },
+ {
+  "w": "harbor",
+  "pos": "n",
+  "meaning_ko": "항구",
+  "example_en": "Fishing boats slowly returned to the **harbor** at sunset.",
+  "example_ko": "일몰 무렵 어선들이 천천히 항구로 돌아왔어.",
+  "nuance_ko": "harbor는 미국식 철자이고 영국식은 harbour예요. 배가 안전하게 정박하는 항구를 뜻해요. port는 상업적 무역이 이뤄지는 큰 항구이고 harbor는 배가 바람과 파도를 피해 정박하는 보호된 물가라는 느낌이 있어요. Pearl Harbor가 유명하죠. 동사 harbor는 '품다, 숨겨 주다'라서 'harbor a grudge'(원한을 품다), 'harbor doubts'(의심을 품다), 'harbor a criminal'(범죄자를 숨겨 주다)처럼 써요. 동사 용법도 꼭 알아두세요.",
+  "also": [
+   {
+    "w": "harboring",
+    "pos": "adj",
+    "ko": "품고 있는",
+    "en": "He was accused of **harboring** a fugitive."
+   }
+  ]
+ },
+ {
+  "w": "harsh",
+  "pos": "adj",
+  "meaning_ko": "가혹한, 거친",
+  "example_en": "The **harsh** winter made life difficult for the villagers.",
+  "example_ko": "혹독한 겨울이 마을 사람들의 삶을 힘들게 만들었어.",
+  "nuance_ko": "harsh는 날씨, 환경, 말, 처벌 등이 거칠고 가혹하다는 뜻이에요. a harsh winter(혹독한 겨울), harsh criticism(가혹한 비판), a harsh sentence(엄한 형벌), harsh light(눈부신 강한 빛)처럼 써요. 소리나 맛이 거슬릴 때도 'a harsh voice'라고 해요. strict는 규칙에 엄격한 것이고, harsh는 정도가 지나치게 가혹하거나 불편하다는 부정적 느낌이에요. 'harsh reality'(냉혹한 현실)도 자주 쓰는 표현이에요. 부사는 harshly예요.",
+  "also": [
+   {
+    "w": "harshly",
+    "pos": "adv",
+    "ko": "가혹하게",
+    "en": "The critics judged the film **harshly**."
+   }
+  ]
+ },
+ {
+  "w": "hazard",
+  "pos": "n",
+  "meaning_ko": "위험 요소, 위해",
+  "example_en": "Loose wires on the floor are a serious safety **hazard**.",
+  "example_ko": "바닥에 널린 전선은 심각한 안전 위험 요소야.",
+  "nuance_ko": "hazard는 사고나 피해를 일으킬 수 있는 구체적인 위험 요소나 위험물이에요. a health hazard, a fire hazard, safety hazard처럼 써요. danger는 위험한 상태 전반이고, hazard는 위험을 일으키는 구체적 원인이라는 점이 달라요. 'hazard lights'는 자동차의 비상등이에요. 직장에서는 'occupational hazard'(직업상의 위험)나 'workplace hazards'가 안전 교육에 자주 나와요. 형용사 hazardous는 '위험한'(hazardous waste, 유해 폐기물)이에요.",
+  "also": [
+   {
+    "w": "hazardous",
+    "pos": "adj",
+    "ko": "위험한, 유해한",
+    "en": "The factory stores **hazardous** chemicals."
+   }
+  ]
+ },
+ {
+  "w": "headquarters",
+  "pos": "n",
+  "meaning_ko": "본사, 본부",
+  "example_en": "The company's **headquarters** are in Seoul.",
+  "example_ko": "그 회사의 본사는 서울에 있어.",
+  "nuance_ko": "headquarters는 기업이나 군, 정부 기관의 중심 사무소인 본사나 본부예요. 형태는 복수지만 단수·복수 취급이 모두 가능해서 'The headquarters is/are in Seoul'로 쓸 수 있어요. 줄여서 HQ라고도 써요. branch는 지사이고 headquarters는 본사라는 대비가 중요해요. 'global headquarters'(글로벌 본사), 'police headquarters'(경찰 본부)처럼 써요. 동사 형태 'be headquartered in ~'은 '~에 본사를 두고 있다'로 기업 소개에서 자주 나와요.",
+  "also": [
+   {
+    "w": "headquartered",
+    "pos": "adj",
+    "ko": "본사를 둔",
+    "en": "The firm is **headquartered** in London."
+   }
+  ]
+ },
+ {
+  "w": "heal",
+  "pos": "v",
+  "meaning_ko": "낫다, 치유하다",
+  "example_en": "It took six weeks for the broken bone to **heal**.",
+  "example_ko": "부러진 뼈가 낫는 데 6주가 걸렸어.",
+  "nuance_ko": "heal은 상처, 병, 마음의 아픔이 낫거나 낫게 한다는 뜻이에요. 자동사('The wound healed')와 타동사('Time heals all wounds') 모두 가능해요. cure는 병을 완전히 고치는 것이고, heal은 자연스럽게 회복되거나 아픈 곳이 아문다는 느낌이에요. 마음의 상처나 관계의 회복에도 써서 'heal a broken heart', 'heal the divide'라고 해요. 'Time heals all wounds'는 시간이 약이라는 속담이에요. 명사 healer는 치유자이고, healing은 치유예요.",
+  "also": [
+   {
+    "w": "healing",
+    "pos": "n",
+    "ko": "치유",
+    "en": "Music can aid emotional **healing**."
+   },
+   {
+    "w": "healed",
+    "pos": "adj",
+    "ko": "나은",
+    "en": "The **healed** wound left a small scar."
+   }
+  ]
+ },
+ {
+  "w": "heel",
+  "pos": "n",
+  "meaning_ko": "발뒤꿈치, 굽",
+  "example_en": "These new shoes are rubbing against my **heel**.",
+  "example_ko": "이 새 신발이 뒤꿈치에 쓸려.",
+  "nuance_ko": "heel은 발의 뒤꿈치, 그리고 신발의 굽을 뜻해요. high heels(하이힐), the heel of the foot, the heel of a shoe처럼 써요. 'Achilles heel'은 강한 사람의 치명적인 약점을 뜻하는 유명한 표현이고, 그리스 신화 아킬레우스에서 나왔어요. 'head over heels'는 '완전히 사랑에 빠진'이라는 관용 표현이에요. 'take to one's heels'는 '허둥지둥 달아나다'예요. 복수 heels는 하이힐을 가리키는 구어체로도 자주 써요('She wore heels').",
+  "also": [
+   {
+    "w": "heels",
+    "pos": "n",
+    "ko": "굽 높은 구두",
+    "en": "She changed out of her **heels** after the party."
+   }
+  ]
+ },
+ {
+  "w": "hence",
+  "pos": "adv",
+  "meaning_ko": "따라서, 이런 이유로",
+  "example_en": "The road is closed; **hence** the long delay.",
+  "example_ko": "도로가 막혔어. 그래서 이렇게 한참 지연된 거야.",
+  "nuance_ko": "hence는 앞의 내용 때문에 뒤의 결과가 생겼다는 인과를 간결하게 이을 때 쓰는 격식 있는 부사예요. therefore, thus와 비슷하고 'hence the name'(그래서 그런 이름이 붙었다)처럼 짧게 이유를 덧붙이는 용법이 특징이에요. 시간 표현으로 'a year hence'(지금부터 1년 뒤)라는 옛날식 용법도 있어요. 논문과 비즈니스 보고서에서 간결하게 인과를 연결할 때 쓰지만, 일상 대화에서는 so가 훨씬 자연스러워요. 문장 중간에 쉼표 없이 넣어 쓰는 경우도 많아요.",
+  "also": []
+ },
+ {
+  "w": "heritage",
+  "pos": "n",
+  "meaning_ko": "유산",
+  "example_en": "The old town is a UNESCO World **Heritage** site.",
+  "example_ko": "그 구시가지는 유네스코 세계유산이야.",
+  "nuance_ko": "heritage는 조상이나 과거로부터 물려받은 문화, 전통, 자연 유산을 말해요. cultural heritage(문화유산), national heritage, World Heritage site(세계유산)처럼 써요. 개인의 출신 배경을 뜻하기도 해서 'Korean heritage'는 한국계 혈통을 가리켜요. inheritance는 재산 상속처럼 법적으로 물려받는 것이고, heritage는 집단이 공유하는 문화적·역사적 유산이에요. 'heritage tourism'은 유적 중심의 관광이에요. 불가산으로 쓰는 경우가 많아요.",
+  "also": []
+ },
+ {
+  "w": "highlight",
+  "pos": "v",
+  "meaning_ko": "강조하다, 하이라이트로 표시하다",
+  "example_en": "The report **highlights** the need for better public transport.",
+  "example_ko": "그 보고서는 더 나은 대중교통의 필요성을 강조해.",
+  "nuance_ko": "highlight는 중요한 점이 눈에 띄도록 부각하거나 형광펜으로 표시한다는 뜻이에요. highlight the importance of ~, highlight a problem처럼 격식 있는 글에서 자주 나와요. 텍스트를 형광펜으로 칠하거나 컴퓨터에서 글자를 드래그해 선택하는 것(highlight the text)도 같은 말이에요. 명사 highlight는 '하이라이트, 가장 인상 깊은 부분'으로 'the highlight of the trip'처럼 써요. 스포츠 중계의 하이라이트 영상(highlights)도 흔해요. emphasize와 비슷하지만 highlight는 시각적으로 도드라지게 한다는 느낌이에요.",
+  "also": [
+   {
+    "w": "highlights",
+    "pos": "n",
+    "ko": "하이라이트",
+    "en": "Let's watch the game **highlights**."
+   },
+   {
+    "w": "highlighted",
+    "pos": "adj",
+    "ko": "강조된",
+    "en": "The **highlighted** words are the key terms."
+   }
+  ]
+ },
+ {
+  "w": "highway",
+  "pos": "n",
+  "meaning_ko": "고속도로, 간선도로",
+  "example_en": "There's a long traffic jam on the **highway** this morning.",
+  "example_ko": "오늘 아침 고속도로가 많이 막혀.",
+  "nuance_ko": "highway는 미국에서 도시 사이를 잇는 넓은 간선도로나 고속도로를 가리켜요. 영국에서는 motorway가 고속도로이고 highway는 공공 도로 전반을 뜻하는 법적 표현이에요. 한국의 고속도로와 가장 비슷한 표현은 expressway나 freeway(미국 서부)예요. interstate highway는 미국의 주 사이를 잇는 연방 고속도로예요. 비유적으로 'information highway'(정보 고속도로)라는 표현이 있어요. 'Highway Patrol'은 고속도로 순찰대예요.",
+  "also": []
+ },
+ {
+  "w": "hint",
+  "pos": "n",
+  "meaning_ko": "힌트, 암시",
+  "example_en": "Can you give me a **hint** about where we're going?",
+  "example_ko": "우리 어디 가는지 힌트 좀 줄래?",
+  "nuance_ko": "hint는 정답을 직접 알려 주지 않고 단서를 살짝 주는 힌트, 또는 은근한 암시를 뜻해요. give a hint, drop a hint(넌지시 알려 주다), take a hint(눈치채다)처럼 써요. 아주 약간의 기미를 뜻하기도 해서 'a hint of lemon'(레몬 향이 살짝), 'a hint of sadness'(약간의 슬픔)처럼 써요. clue는 수수께끼를 푸는 단서이고, hint는 은근하게 방향을 가르쳐 주는 말이에요. 동사로도 'hint at ~'(~을 암시하다)가 흔해요.",
+  "also": [
+   {
+    "w": "hinted",
+    "pos": "adj",
+    "ko": "암시된",
+    "en": "She **hinted** that she might quit."
+   }
+  ]
+ },
+ {
+  "w": "hip",
+  "pos": "n",
+  "meaning_ko": "엉덩이 옆, 고관절",
+  "example_en": "She put her hands on her **hips** and sighed.",
+  "example_ko": "그녀는 허리에 손을 얹고 한숨을 쉬었어.",
+  "nuance_ko": "hip은 허리 아래 옆쪽으로 튀어나온 골반 부위로, 한국어의 '엉덩이'(buttocks)와는 달라요. 허리춤에 손을 얹는 자세는 'hands on hips'라고 해요. 의학에서는 'hip replacement'(고관절 치환 수술), 'broken hip'(고관절 골절)이 노인 건강 뉴스에서 자주 나와요. 형용사 hip은 구어체로 '최신 유행의, 멋진'(a hip café)이라는 전혀 다른 뜻이에요. 'hip-hop'은 음악 장르이고 hip과 직접 관련은 없어요. 복수형 hips로 자주 써요.",
+  "also": []
+ },
+ {
+  "w": "holy",
+  "pos": "adj",
+  "meaning_ko": "신성한, 성스러운",
+  "example_en": "Jerusalem is a **holy** city for several religions.",
+  "example_ko": "예루살렘은 여러 종교에서 성스럽게 여기는 도시야.",
+  "nuance_ko": "holy는 종교적으로 신성하게 여겨지는 것을 꾸며 줘요. the Holy Bible(성경), a holy place(성지), holy water(성수), holy war(성전)처럼 써요. 구어체 감탄사로 'Holy cow!', 'Holy moly!'는 깜짝 놀랐을 때 쓰는 가벼운 표현이에요. sacred와 비슷하지만 sacred는 종교적 가치가 있어 존중해야 하는 것, holy는 신과 직접 관련된 거룩함이라는 느낌이 있어요. 'Holy Week'(성주간), 'Holy Land'(성지)가 고유 표현이에요. 명사는 holiness(신성함)예요.",
+  "also": [
+   {
+    "w": "holiness",
+    "pos": "n",
+    "ko": "신성함",
+    "en": "The monks live a life of **holiness**."
+   }
+  ]
+ },
+ {
+  "w": "horror",
+  "pos": "n",
+  "meaning_ko": "공포, 끔찍함",
+  "example_en": "I don't like watching **horror** movies alone at night.",
+  "example_ko": "난 밤에 혼자 공포 영화 보는 걸 안 좋아해.",
+  "nuance_ko": "horror는 극도의 공포와 혐오감, 그리고 공포 장르를 뜻해요. a horror movie(공포 영화), horror story, in horror(공포에 질려)처럼 써요. fear는 일반적인 두려움이고, horror는 충격적이고 끔찍한 것에 대한 강렬한 공포라는 점이 달라요. 'the horrors of war'(전쟁의 참상)처럼 복수형으로 끔찍한 일들을 말해요. 일상에서는 과장해서 'Oh, the horror!'나 'To my horror, ...'(끔찍하게도) 같은 표현도 써요. 형용사 horrible, horrific, 동사 horrify가 같은 뿌리의 단어예요.",
+  "also": []
+ },
+ {
+  "w": "host",
+  "pos": "n",
+  "meaning_ko": "주최자, 진행자",
+  "example_en": "The **host** welcomed everyone and offered us drinks.",
+  "example_ko": "주최자는 모두를 맞이하고 우리에게 음료를 권했어.",
+  "nuance_ko": "host는 손님을 초대하는 집주인, 행사의 주최자, 방송 진행자를 모두 뜻해요. the host of a party, a talk show host, host country(개최국)처럼 써요. 여성 진행자를 hostess라고 하지만 요즘은 성별 구분 없이 host를 더 많이 써요. 동사로는 '주최하다, 개최하다'(host the Olympics)이고, 인터넷에서는 웹사이트를 호스팅하는 것(web hosting)도 뜻해요. 반대는 guest(손님)예요. 생물학에서는 기생 생물이 붙어사는 '숙주'도 host예요.",
+  "also": [
+   {
+    "w": "hosted",
+    "pos": "adj",
+    "ko": "주최된",
+    "en": "The event was **hosted** by the mayor."
+   },
+   {
+    "w": "hosting",
+    "pos": "n",
+    "ko": "호스팅",
+    "en": "We pay for web **hosting** every month."
+   }
+  ]
+ },
+ {
+  "w": "hostile",
+  "pos": "adj",
+  "meaning_ko": "적대적인",
+  "example_en": "The new manager faced a **hostile** reaction from the team.",
+  "example_ko": "새 매니저는 팀의 적대적인 반응에 부딪혔어.",
+  "nuance_ko": "hostile은 적의를 드러내며 친절하지 않고 위협적인 태도를 말해요. a hostile environment(적대적인 환경), hostile takeover(적대적 인수합병), hostile to change(변화에 적대적인)처럼 써요. 사람의 태도뿐 아니라 거칠고 살기 어려운 기후·환경에도 써서 'a hostile climate'라고 해요. unfriendly는 단순히 불친절한 것이고 hostile은 적의가 분명하고 위협적이라 훨씬 강해요. 명사 hostility는 '적대감'이고, 복수 hostilities는 '교전, 전투 행위'를 뜻해요.",
+  "also": [
+   {
+    "w": "hostility",
+    "pos": "n",
+    "ko": "적대감",
+    "en": "There was open **hostility** between the two groups."
+   }
+  ]
+ },
+ {
+  "w": "household",
+  "pos": "n",
+  "meaning_ko": "가구, 세대",
+  "example_en": "Every **household** in the town received a notice.",
+  "example_ko": "마을의 모든 가구가 안내문을 받았어.",
+  "nuance_ko": "household는 한 집에서 함께 사는 사람들, 즉 '가구, 세대'를 뜻해요. household income(가구 소득), a single-person household(1인 가구), household chores(집안일)처럼 써요. 형용사로는 '가정용의, 흔히 알려진'이라서 household goods(생활용품), a household name(누구나 아는 이름)처럼 써요. family는 혈연으로 이루어진 가족이고, household는 같이 사는 사람들이라서 가족이 아니어도 포함돼요. 통계와 정책 문서에 자주 나오는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "humour",
+  "pos": "n",
+  "meaning_ko": "유머, 재치",
+  "example_en": "He has a great sense of **humour** and always makes us laugh.",
+  "example_ko": "걔는 유머 감각이 대단해서 늘 우릴 웃게 해.",
+  "nuance_ko": "humour는 영국식 철자이고 미국식은 humor예요. 웃기게 만드는 재치, 유머를 가리켜요. a sense of humour, dry humour(무미건조한 유머), black humour(블랙 유머)처럼 써요. 불가산 명사이고 'in a good humour'는 '기분이 좋은'이라는 옛 용법이에요. joke는 하나의 농담이고 humour는 웃음을 만드는 성질이나 감각이라는 점이 달라요. 형용사 humorous는 '재미있는'(a humorous story)이고, 영국 영어에서는 humourless가 '유머 감각이 없는'이에요.",
+  "also": [
+   {
+    "w": "humorous",
+    "pos": "adj",
+    "ko": "재미있는, 유머러스한",
+    "en": "She wrote a **humorous** essay about her cat."
+   }
+  ]
+ },
+ {
+  "w": "hypothesis",
+  "pos": "n",
+  "meaning_ko": "가설",
+  "example_en": "The scientists tested their **hypothesis** with a new experiment.",
+  "example_ko": "과학자들은 새 실험으로 자신들의 가설을 검증했어.",
+  "nuance_ko": "hypothesis는 검증을 위해 세우는 잠정적인 설명, 즉 가설이에요. form a hypothesis, test a hypothesis, support the hypothesis처럼 써요. theory는 많은 증거로 뒷받침된 체계적 설명이고, hypothesis는 아직 검증 전의 추측에 가까워요. 복수형은 hypotheses(/haɪˈpɑːθəsiːz/)로 불규칙이라 시험에 자주 나와요. 일상에서 막연한 추측에도 쓰이지만 보통 학술적 맥락이에요. 형용사 hypothetical은 '가정의'(a hypothetical situation)이고, 동사는 hypothesize예요.",
+  "also": [
+   {
+    "w": "hypotheses",
+    "pos": "n",
+    "ko": "가설들",
+    "en": "The study tested three different **hypotheses**."
+   },
+   {
+    "w": "hypothesize",
+    "pos": "v",
+    "ko": "가설을 세우다",
+    "en": "Researchers **hypothesize** that sleep helps memory."
+   }
+  ]
+ },
+ {
+  "w": "ideal",
+  "pos": "adj",
+  "meaning_ko": "이상적인",
+  "example_en": "This is an **ideal** place for a quiet weekend.",
+  "example_ko": "여기는 조용한 주말을 보내기에 이상적인 곳이야.",
+  "nuance_ko": "ideal은 더할 나위 없이 완벽한, 이상적인 것을 뜻해요. an ideal candidate, ideal weather, in an ideal world(이상적인 세상이라면)처럼 써요. perfect와 비슷하지만 ideal은 어떤 목적에 가장 적합하다는 느낌이 강해요. 명사로는 '이상, 이상형'(a high ideal)이고, 보통 복수 ideals는 '이념, 신념'을 뜻해요. 'ideal for ~'는 '~에 안성맞춤인'으로 광고 문구에서 자주 보여요. 현실과 거리가 있다는 뉘앙스로 'It's not ideal'은 '썩 좋진 않네'라는 완곡한 불만이에요.",
+  "also": [
+   {
+    "w": "ideally",
+    "pos": "adv",
+    "ko": "이상적으로는",
+    "en": "**Ideally**, we'd finish by Friday."
+   },
+   {
+    "w": "ideals",
+    "pos": "n",
+    "ko": "이상, 이념",
+    "en": "He never gave up his **ideals**."
+   }
+  ]
+ },
+ {
+  "w": "identity",
+  "pos": "n",
+  "meaning_ko": "정체성, 신원",
+  "example_en": "The police have not released the victim's **identity**.",
+  "example_ko": "경찰은 피해자의 신원을 공개하지 않았어.",
+  "nuance_ko": "identity는 누구인지를 나타내는 신원, 그리고 자신이 어떤 사람이라는 정체성을 뜻해요. identity card(신분증), identity theft(신원 도용), cultural identity(문화적 정체성), an identity crisis(정체성 위기)처럼 써요. 신원 확인 의미로는 'proof of identity'가 서류에서 자주 나와요. 브랜드 맥락에서는 'brand identity'(브랜드 정체성)로 쓰여요. 철자에 -ity가 붙은 추상 명사라서 발음은 /aɪˈdentəti/로 두 번째 음절에 강세가 와요.",
+  "also": []
+ },
+ {
+  "w": "ideology",
+  "pos": "n",
+  "meaning_ko": "이념, 이데올로기",
+  "example_en": "The party's **ideology** is based on free markets.",
+  "example_ko": "그 정당의 이념은 자유 시장에 기반을 두고 있어.",
+  "nuance_ko": "ideology는 한 집단이나 사회가 공유하는 신념과 사상 체계로, 보통 정치·경제·사회 질서에 대한 이념을 뜻해요. political ideology(정치 이념), a communist ideology처럼 써요. belief는 개인의 믿음이고 ideology는 체계화된 사상이라는 차이가 있어요. 부정적으로 쓰면 '현실을 무시한 교조적 신념'이라는 비난조가 되기도 해요(driven by ideology). 복수형 ideologies는 여러 사상을 비교할 때 써요. 형용사 ideological은 '이념적인'(an ideological conflict)이에요.",
+  "also": []
+ },
+ {
+  "w": "immigrant",
+  "pos": "n",
+  "meaning_ko": "이민자",
+  "example_en": "Her grandparents were **immigrants** from Italy.",
+  "example_ko": "그녀의 조부모님은 이탈리아에서 온 이민자셨어.",
+  "nuance_ko": "immigrant는 다른 나라에서 와서 영구적으로 살려고 정착한 이민자예요. 들어오는 쪽의 시점이고, 나가는 쪽의 시점은 emigrant예요. 한국에서 미국으로 간 사람은 미국 입장에선 immigrant, 한국 입장에선 emigrant예요. immigrant community, illegal immigrant, first-generation immigrant처럼 써요. 요즘은 'undocumented immigrant'(서류 미비 이민자)가 중립적 표현으로 선호돼요. 일시 체류하는 외국인은 foreigner, 난민은 refugee로 구분돼요.",
+  "also": []
+ },
+ {
+  "w": "immune",
+  "pos": "adj",
+  "meaning_ko": "면역이 된, 영향을 받지 않는",
+  "example_en": "Once you've had chickenpox, you're usually **immune** for life.",
+  "example_ko": "수두를 한 번 앓으면 보통 평생 면역이 생겨.",
+  "nuance_ko": "immune은 병에 면역이 있거나, 비판·영향 등을 받지 않는다는 뜻이에요. immune to a disease, the immune system(면역 체계), immune response(면역 반응)처럼 의학에서 자주 쓰여요. 비유적으로 'immune to criticism'은 비판에 끄떡없는 것, 'immune from prosecution'은 법적 소추를 면하는 것이에요. 전치사는 to 또는 from을 써요. 명사 immunity는 '면역력, 면책'이고, 백신 접종은 immunization 또는 immunisation이에요. 'herd immunity'(집단 면역)는 코로나 때 많이 알려졌어요.",
+  "also": [
+   {
+    "w": "immunity",
+    "pos": "n",
+    "ko": "면역, 면책",
+    "en": "The vaccine builds **immunity** against the virus."
+   }
+  ]
+ },
+ {
+  "w": "impact",
+  "pos": "n",
+  "meaning_ko": "영향, 충격",
+  "example_en": "The new policy had a huge **impact** on small businesses.",
+  "example_ko": "새 정책은 소규모 사업체에 큰 영향을 끼쳤어.",
+  "nuance_ko": "impact는 어떤 것이 다른 것에 미치는 강한 영향이나 충돌의 충격을 말해요. have an impact on ~(~에 영향을 미치다), environmental impact, make an impact(강한 인상을 남기다)처럼 써요. effect와 비슷하지만 impact가 더 강하고 큰 영향을 암시해요. 동사로도 'impact on ~'이나 타동사 'impact something'으로 쓰지만 일부 영어 화자들은 동사 용법을 비격식이라고 여겨요. 비즈니스에서 'high-impact', 'low-impact'로 효과의 크기를 말해요. 물리적 충돌에도 써서 'on impact'(충돌 시)라고 해요.",
+  "also": [
+   {
+    "w": "impacted",
+    "pos": "adj",
+    "ko": "영향을 받은",
+    "en": "Many farmers were **impacted** by the drought."
+   }
+  ]
+ },
+ {
+  "w": "imperial",
+  "pos": "adj",
+  "meaning_ko": "제국의, 황제의",
+  "example_en": "The tour includes a visit to the old **imperial** palace.",
+  "example_ko": "투어에는 옛 황궁 방문이 포함되어 있어.",
+  "nuance_ko": "imperial은 제국이나 황제와 관련된 것을 꾸며 줘요. the imperial family(황실), imperial Japan(제국 일본), imperial palace처럼 써요. 영국 단위계는 imperial system이라서 pound, inch, mile 같은 단위를 말하고, 미터법(metric system)과 대비돼요. 'imperial measurements'는 인치·파운드 단위로 잰 것을 뜻해요. 부정적 맥락에서는 영토 확장과 지배를 가리키기도 해서 imperialism(제국주의)이 대표적이에요. royal은 왕이나 왕실, imperial은 황제와 제국이라는 점이 달라요.",
+  "also": [
+   {
+    "w": "imperialism",
+    "pos": "n",
+    "ko": "제국주의",
+    "en": "The book examines the history of **imperialism**."
+   }
+  ]
+ },
+ {
+  "w": "implement",
+  "pos": "v",
+  "meaning_ko": "실행하다, 시행하다",
+  "example_en": "The company plans to **implement** the new system next month.",
+  "example_ko": "그 회사는 다음 달에 새 시스템을 도입할 계획이야.",
+  "nuance_ko": "implement는 계획, 정책, 시스템을 실제로 시행하거나 구현한다는 뜻이에요. implement a plan, implement changes, implement a policy처럼 써요. IT에서는 기능이나 알고리즘을 코드로 구현하는 것(implement a feature)으로 매일 쓰는 단어예요. execute와 비슷하지만 implement는 정해진 방안을 현장에 적용해 운영하는 느낌이에요. 명사 implement는 /ˈɪmplɪmənt/로 '도구, 기구'라는 뜻이 있어요. 명사 implementation은 '이행, 구현'이에요.",
+  "also": [
+   {
+    "w": "implementation",
+    "pos": "n",
+    "ko": "이행, 구현",
+    "en": "The **implementation** of the plan was delayed."
+   },
+   {
+    "w": "implemented",
+    "pos": "adj",
+    "ko": "시행된",
+    "en": "The rule was **implemented** last year."
+   }
+  ]
+ },
+ {
+  "w": "implicate",
+  "pos": "v",
+  "meaning_ko": "연루시키다, 관련이 있다고 보다",
+  "example_en": "The documents **implicate** several senior officials in the scandal.",
+  "example_ko": "그 문서들은 몇몇 고위 관리를 스캔들에 연루된 것으로 보여줘.",
+  "nuance_ko": "implicate는 누군가를 범죄나 불미스러운 일에 연루된 것으로 보이게 하거나 관련짓는다는 뜻이에요. 보통 implicate someone in something 구문으로 써요. 'be implicated in a crime'(범죄에 연루되다)처럼 수동태가 흔해요. 원인이 되는 요인을 지목할 때도 쓰여서 'Genes are implicated in the disease.'는 유전자가 그 병과 연관되어 있다는 뜻이에요. 명사 implication은 '암시, 함의' 또는 '연루'라는 뜻이고, imply(암시하다)와 뿌리가 같아요. 명사 용법이 훨씬 자주 쓰여요.",
+  "also": [
+   {
+    "w": "implication",
+    "pos": "n",
+    "ko": "함의, 영향",
+    "en": "The decision has serious **implications** for the economy."
+   },
+   {
+    "w": "implicated",
+    "pos": "adj",
+    "ko": "연루된",
+    "en": "He was **implicated** in the fraud."
+   }
+  ]
+ },
+ {
+  "w": "imply",
+  "pos": "v",
+  "meaning_ko": "암시하다, 의미하다",
+  "example_en": "Are you **implying** that I made a mistake?",
+  "example_ko": "내가 실수했다는 말을 하고 싶은 거야?",
+  "nuance_ko": "imply는 직접 말하지 않고 은근히 뜻을 내비친다는 뜻이에요. 'Are you implying that ~?'는 상대가 은근히 비난하는 걸 따져 물을 때 쓰는 표현이에요. 사물이 주어면 '~을 의미하다, 함축하다'(Silence implies agreement)예요. 중요한 구분이 있어요. imply는 말하는 사람이 암시하는 것이고 infer는 듣는 사람이 추론하는 것이라 방향이 반대예요. suggest와 비슷하지만 imply는 겉으로 드러나지 않은 의미를 암시한다는 점이 달라요. 형용사 implied는 '암묵적인'(implied consent)이에요.",
+  "also": [
+   {
+    "w": "implied",
+    "pos": "adj",
+    "ko": "암묵적인",
+    "en": "There was an **implied** threat in his words."
+   }
+  ]
+ },
+ {
+  "w": "import",
+  "pos": "v",
+  "meaning_ko": "수입하다, 불러오다",
+  "example_en": "The country has to **import** most of its oil.",
+  "example_ko": "그 나라는 석유 대부분을 수입해야 해.",
+  "nuance_ko": "import는 외국에서 상품을 사들여 들여오는 수입이에요. 동사는 /ɪmˈpɔːrt/로 강세가 뒤, 명사는 /ˈɪmpɔːrt/로 강세가 앞에 와요. 반대는 export(수출)예요. 컴퓨터에서는 다른 곳의 파일이나 데이터를 불러오는 것(import a file, import a module)을 뜻해요. 프로그래머에게는 'import' 키워드가 매일 쓰는 단어죠. 'imports and exports'(수입과 수출)는 경제 뉴스에서 짝으로 나와요. 명사 imports는 수입품, importer는 수입업자예요.",
+  "also": [
+   {
+    "w": "imports",
+    "pos": "n",
+    "ko": "수입품",
+    "en": "**Imports** from Asia have risen sharply."
+   },
+   {
+    "w": "imported",
+    "pos": "adj",
+    "ko": "수입된",
+    "en": "I prefer **imported** cheese."
+   }
+  ]
+ },
+ {
+  "w": "importance",
+  "pos": "n",
+  "meaning_ko": "중요성",
+  "example_en": "Teachers often stress the **importance** of reading every day.",
+  "example_ko": "선생님들은 매일 책을 읽는 것의 중요성을 자주 강조해.",
+  "nuance_ko": "importance는 important의 명사형으로 어떤 것의 중요성, 가치를 말해요. the importance of ~, of great importance, attach importance to ~(~를 중시하다)처럼 써요. 'of no importance'(중요하지 않은)나 'a matter of importance'처럼 전치사 of와 함께 쓰는 형태도 흔해요. 문장에서 'It is of importance'보다 'It is important'가 자연스럽습니다. significance는 의미나 영향의 크기를 강조하고 importance는 우선순위와 가치를 강조해요. 불가산 명사이고 'an importance'라고 쓰지 않아요.",
+  "also": []
+ },
+ {
+  "w": "impose",
+  "pos": "v",
+  "meaning_ko": "부과하다, 강요하다",
+  "example_en": "The government plans to **impose** a new tax on sugary drinks.",
+  "example_ko": "정부는 설탕이 든 음료에 새 세금을 부과할 계획이야.",
+  "nuance_ko": "impose는 세금, 규칙, 제재, 의견 등을 일방적으로 부과하거나 강요한다는 뜻이에요. impose a tax, impose a ban, impose a fine(벌금을 부과하다), impose restrictions처럼 써요. 'impose A on B'가 기본 구문이고 'impose on someone'은 '폐를 끼치다'라는 뜻이에요('I don't want to impose.', 부담드리고 싶지 않아요). force는 억지로 하게 만드는 것이고, impose는 권한을 가진 쪽이 부과하는 느낌이에요. 형용사 imposing은 '위압적인, 인상적인'(an imposing building)이에요.",
+  "also": [
+   {
+    "w": "imposed",
+    "pos": "adj",
+    "ko": "부과된",
+    "en": "The **imposed** restrictions caused widespread anger."
+   },
+   {
+    "w": "imposing",
+    "pos": "adj",
+    "ko": "위압적인",
+    "en": "The castle is an **imposing** sight."
+   }
+  ]
+ },
+ {
+  "w": "impression",
+  "pos": "n",
+  "meaning_ko": "인상, 느낌",
+  "example_en": "I got the **impression** that she didn't want to talk.",
+  "example_ko": "난 걔가 얘기하고 싶지 않아 하는 것 같은 인상을 받았어.",
+  "nuance_ko": "impression은 누군가나 무엇에게서 받은 느낌이나 인상이에요. make a good impression(좋은 인상을 주다), first impression(첫인상), get the impression that ~(~라는 느낌을 받다)처럼 써요. 면접에서 'Make a good first impression'은 단골 조언이에요. 사람의 말투를 흉내 내는 성대모사(do an impression of someone)도 impression이에요. 광고에서는 노출 횟수(impressions)를 뜻해요. 동사 impress는 '감명을 주다'이고 형용사 impressive는 '인상적인'이에요.",
+  "also": [
+   {
+    "w": "impressions",
+    "pos": "n",
+    "ko": "인상",
+    "en": "First **impressions** matter in interviews."
+   }
+  ]
+ },
+ {
+  "w": "incentive",
+  "pos": "n",
+  "meaning_ko": "유인, 장려책",
+  "example_en": "The company offers an **incentive** for employees who bring in new clients.",
+  "example_ko": "그 회사는 신규 고객을 유치한 직원에게 인센티브를 줘.",
+  "nuance_ko": "incentive는 사람이 어떤 행동을 하도록 동기를 부여하는 보상이나 혜택이에요. financial incentive(금전적 유인), tax incentives(세제 혜택), have an incentive to ~(~할 유인이 있다)처럼 써요. 한국에서 쓰는 '인센티브'와 같지만, 영어에서는 보너스뿐 아니라 동기를 부여하는 모든 요인을 가리켜요. 반대로 행동을 막는 요인은 disincentive예요. motivation은 사람 내면의 동기이고, incentive는 외부에서 주어지는 유인책이라는 점이 달라요.",
+  "also": [
+   {
+    "w": "incentives",
+    "pos": "n",
+    "ko": "유인책들",
+    "en": "Tax **incentives** attract new businesses."
+   }
+  ]
+ },
+ {
+  "w": "incident",
+  "pos": "n",
+  "meaning_ko": "사건, 사고",
+  "example_en": "There was a minor **incident** at the airport this morning.",
+  "example_ko": "오늘 아침 공항에서 경미한 사건이 있었어.",
+  "nuance_ko": "incident는 보통 사고나 분쟁처럼 별로 좋지 않은 일을 점잖게 가리키는 말이에요. a minor incident, a security incident, report an incident처럼 써요. accident는 우연히 일어난 사고이고, incident는 원인과 상관없이 벌어진 사건을 객관적으로 이르는 중립적 표현이에요. 외교·군사 뉴스에서는 'diplomatic incident'(외교 분쟁)가 자주 나와요. 'without incident'는 아무 일 없이 무사히라는 뜻이에요('The trip passed without incident'). 형용사 incidental은 '부수적인'이에요.",
+  "also": [
+   {
+    "w": "incidents",
+    "pos": "n",
+    "ko": "사건들",
+    "en": "Several **incidents** were reported last week."
+   }
+  ]
+ },
+ {
+  "w": "incorporate",
+  "pos": "v",
+  "meaning_ko": "포함시키다, 법인화하다",
+  "example_en": "The new design **incorporates** feedback from users.",
+  "example_ko": "새 디자인에는 사용자들의 피드백이 반영되어 있어.",
+  "nuance_ko": "incorporate는 어떤 요소를 전체 안에 통합해서 포함시킨다는 뜻이에요. incorporate ideas into ~, incorporate feedback, incorporate vegetables into your diet처럼 써요. 비즈니스에서는 사업체를 법인으로 설립한다는 뜻이기도 해요(incorporate a company). 회사 이름 뒤의 Inc.는 Incorporated(주식회사)의 약어예요. include는 단순히 포함하는 것이고, incorporate는 기존 구조와 하나로 합쳐 녹여 넣는 느낌이에요. 명사는 incorporation(통합, 법인 설립)이에요.",
+  "also": [
+   {
+    "w": "incorporated",
+    "pos": "adj",
+    "ko": "법인 조직의, 통합된",
+    "en": "The company was **incorporated** in 1998."
+   },
+   {
+    "w": "incorporation",
+    "pos": "n",
+    "ko": "통합, 법인 설립",
+    "en": "The **incorporation** of new methods improved results."
+   }
+  ]
+ },
+ {
+  "w": "independence",
+  "pos": "n",
+  "meaning_ko": "독립, 자립",
+  "example_en": "Many young people value their **independence** more than money.",
+  "example_ko": "많은 젊은이가 돈보다 자립을 더 소중하게 여겨.",
+  "nuance_ko": "independence는 남에게 의존하지 않는 독립이나 자립을 말해요. 나라의 독립(independence from a foreign power), 개인의 자립(financial independence), 'Independence Day'(미국 독립기념일)처럼 써요. 전치사 from과 함께 'independence from ~'(~로부터의 독립)로 써요. freedom은 속박이 없는 자유이고, independence는 외부 지배나 의존에서 벗어난 상태라는 점이 달라요. 반대는 dependence(의존)예요. 형용사 independent, 부사 independently와 함께 묶어서 외워 두면 좋아요.",
+  "also": []
+ },
+ {
+  "w": "independent",
+  "pos": "adj",
+  "meaning_ko": "독립한, 독립적인",
+  "example_en": "She moved out and became more **independent** after college.",
+  "example_ko": "걔는 대학 졸업 후에 독립해서 더 자립적인 사람이 됐어.",
+  "nuance_ko": "independent는 다른 사람이나 조직에 의존하지 않는 독립적인 상태를 뜻해요. an independent country(독립 국가), an independent thinker, independent of ~(~와는 별개로)처럼 써요. 전치사는 of를 써서 'independent of my parents'(부모님께 의존하지 않는)가 돼요. 정치에서는 무소속(independent candidate), 영화와 음악에서는 대형 제작사와 무관한 독립 제작물(indie, independent film)을 가리켜요. 명사로 independents는 무당파 유권자예요. 부사는 independently(독자적으로)예요.",
+  "also": [
+   {
+    "w": "independently",
+    "pos": "adv",
+    "ko": "독립적으로",
+    "en": "The two teams worked **independently** of each other."
+   }
+  ]
+ },
+ {
+  "w": "index",
+  "pos": "n",
+  "meaning_ko": "색인, 지수",
+  "example_en": "Look up the topic in the **index** at the back of the book.",
+  "example_ko": "책 뒤의 색인에서 그 주제를 찾아봐.",
+  "nuance_ko": "index는 책 뒤쪽에 가나다순으로 정리된 색인, 그리고 수치를 지수화한 지표를 뜻해요. stock market index(주가 지수), consumer price index(소비자물가지수), body mass index(체질량지수, BMI)처럼 써요. 컴퓨터에서는 데이터를 빨리 찾게 정리해 둔 목록을 index라고 해요. 복수형은 indexes 또는 indices로 둘 다 가능하고, indices는 수학이나 금융에서 선호돼요. 동사로 '색인을 만들다, 지수에 연동하다'(index to inflation)도 쓰여요. 'index finger'는 검지예요.",
+  "also": [
+   {
+    "w": "indices",
+    "pos": "n",
+    "ko": "지수들 (복수)",
+    "en": "The major stock **indices** rose today."
+   }
+  ]
+ },
+ {
+  "w": "inevitable",
+  "pos": "adj",
+  "meaning_ko": "불가피한, 피할 수 없는",
+  "example_en": "Change is **inevitable**, so we have to adapt.",
+  "example_ko": "변화는 피할 수 없으니 우리는 적응해야 해.",
+  "nuance_ko": "inevitable은 무슨 수를 써도 피할 수 없이 일어나게 되어 있다는 뜻이에요. an inevitable result, inevitable change, It was inevitable that ~처럼 써요. 대체로 부정적이거나 중립적이지만 반드시 나쁜 의미만은 아니에요. unavoidable과 비슷하지만 inevitable은 필연적이고 불가항력적이라는 느낌이 더 강해요. 'the inevitable'처럼 명사로 써서 '피할 수 없는 일'을 가리키기도 해요('accept the inevitable'). 부사 inevitably는 '필연적으로, 어쩔 수 없이'예요.",
+  "also": [
+   {
+    "w": "inevitably",
+    "pos": "adv",
+    "ko": "필연적으로",
+    "en": "**Inevitably**, prices went up after the shortage."
+   },
+   {
+    "w": "inevitability",
+    "pos": "n",
+    "ko": "불가피성",
+    "en": "He accepted the **inevitability** of defeat."
+   }
+  ]
+ },
+ {
+  "w": "infant",
+  "pos": "n",
+  "meaning_ko": "유아, 영아",
+  "example_en": "The hospital has a special unit for premature **infants**.",
+  "example_ko": "그 병원에는 미숙아를 위한 특별 병동이 있어.",
+  "nuance_ko": "infant는 태어나서 약 1세 전후까지, 아직 걷지 못하는 아주 어린 아기, 즉 영아를 가리켜요. 의학·통계·정책 문서에서 격식 있게 쓰는 말이에요(infant mortality, 영아 사망률). baby는 일상적인 아기를 부르는 말이고, toddler는 막 걸음마를 뗀 1~3세의 아이예요. 'infant formula'는 분유, 'infant school'은 영국의 5~7세 학교를 가리켜요. 형용사 infant는 '초기의'(an infant industry, 신생 산업)라는 비유적 용법도 있어요. 명사 infancy는 '유아기, 초창기'(in its infancy)예요.",
+  "also": [
+   {
+    "w": "infancy",
+    "pos": "n",
+    "ko": "유아기, 초창기",
+    "en": "The technology is still in its **infancy**."
+   }
+  ]
+ }
+]

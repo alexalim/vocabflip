@@ -1,0 +1,1810 @@
+[
+ {
+  "w": "star",
+  "pos": "n",
+  "meaning_ko": "별, 스타",
+  "example_en": "You can see so many **stars** here because there are no city lights.",
+  "example_ko": "여긴 도시 불빛이 없어서 별이 정말 많이 보여.",
+  "nuance_ko": "star는 밤하늘의 별이면서 유명한 사람(a movie star), 별표(5-star hotel)를 뜻해요. 호텔·식당의 등급을 말할 때 'a five-star hotel'처럼 하이픈으로 연결해서 써요. 동사로는 '주연을 맡다'(She stars in the film)예요. 'the star of the show'는 모임이나 행사의 주인공, 'reach for the stars'는 높은 목표를 세워라는 격언이에요. 'star' 앞에 rock, pop, TV를 붙여 직업별 스타를 표현하고 'lucky star'는 행운의 별로 운이 따르는 사람을 비유해요.",
+  "also": [
+   {
+    "w": "stars",
+    "pos": "n",
+    "ko": "별들, 스타들",
+    "en": "The **stars** were bright last night."
+   },
+   {
+    "w": "starry",
+    "pos": "adj",
+    "ko": "별이 빛나는",
+    "en": "We camped under a **starry** sky."
+   }
+  ]
+ },
+ {
+  "w": "stare",
+  "pos": "v",
+  "meaning_ko": "빤히 쳐다보다",
+  "example_en": "It's rude to **stare** at people when they're eating.",
+  "example_ko": "사람들이 밥 먹고 있을 때 빤히 쳐다보는 건 실례야.",
+  "nuance_ko": "stare는 눈을 떼지 않고 오래 쳐다보는 동작이에요. 놀람, 감탄, 불쾌함, 멍한 상태 등 다양한 이유로 하고 'stare at ~'로 전치사 at을 붙여요. look은 그냥 바라보기, glance는 잠깐 슬쩍 보기, gaze는 감탄하거나 생각에 잠겨 오래 바라보기, stare는 눈을 부릅뜨고 노려보는 느낌이 강해요. 'stare into space'는 멍하니 허공을 바라보다예요. 사람을 빤히 보는 것은 예의에 어긋난다고 여겨서 'Don't stare!'라고 아이들에게 말하기도 해요.",
+  "also": [
+   {
+    "w": "staring",
+    "pos": "v",
+    "ko": "빤히 보고 있는",
+    "en": "Why are you **staring** at me?"
+   }
+  ]
+ },
+ {
+  "w": "start",
+  "pos": "v",
+  "meaning_ko": "시작하다, 출발하다",
+  "example_en": "What time does the movie **start** tonight?",
+  "example_ko": "오늘 밤 영화는 몇 시에 시작해?",
+  "nuance_ko": "start는 시작하다가 기본이지만 기계를 켜다(start the car), 사업을 시작하다(start a company), 출발하다(We start at six)로도 쓰여요. start to + 동사원형과 start + -ing는 대부분 같은 뜻이에요. begin과 비슷하지만 start가 구어에서 더 흔하고 begin은 약간 격식 있어요. start with ~(~로 시작하다), start over(처음부터 다시 시작하다), start up(시작하다/창업하다) 같은 구동사가 많아요. 명사 start는 'from the start'(처음부터), 'get off to a good start'(좋은 출발을 하다)처럼 써요.",
+  "also": [
+   {
+    "w": "started",
+    "pos": "v",
+    "ko": "시작했다",
+    "en": "She **started** her own business."
+   },
+   {
+    "w": "starter",
+    "pos": "n",
+    "ko": "전채, 시동 장치",
+    "en": "I'll have the soup as a **starter**."
+   }
+  ]
+ },
+ {
+  "w": "state",
+  "pos": "n",
+  "meaning_ko": "상태, 주, 국가, 말하다",
+  "example_en": "The old house was in a terrible **state** when we bought it.",
+  "example_ko": "그 오래된 집은 우리가 샀을 때 상태가 끔찍했어.",
+  "nuance_ko": "state는 상태, 미국의 주, 국가라는 세 가지 핵심 의미를 가져요. 'in a good state'(상태가 좋은), 'the state of California'(캘리포니아 주), 'the State'(국가)처럼 쓰여요. 동사로는 '명확히 말하다, 진술하다'(Please state your name)로 격식 있는 말이에요. 'state of mind'(마음 상태), 'state of the art'(최신 기술의), 'state-owned'(국영의)처럼 합성 표현이 많아요. 미국 영어에서 'the States'는 미국을 가리키는 구어체 표현이에요.",
+  "also": [
+   {
+    "w": "statement",
+    "pos": "n",
+    "ko": "성명, 진술",
+    "en": "The company released a **statement** today."
+   },
+   {
+    "w": "stated",
+    "pos": "adj",
+    "ko": "명시된",
+    "en": "The **stated** goal is to reduce costs."
+   }
+  ]
+ },
+ {
+  "w": "station",
+  "pos": "n",
+  "meaning_ko": "역, 방송국, 정거장",
+  "example_en": "I'll pick you up at the train **station** around noon.",
+  "example_ko": "정오쯤 기차역으로 데리러 갈게.",
+  "nuance_ko": "station은 기차·버스·지하철 정류장, 방송국, 소방서·경찰서 같은 기관 시설을 두루 가리켜요. 'train station', 'bus station', 'gas station'(주유소), 'police station', 'radio station'처럼 앞에 종류를 붙여요. 역 근처는 'near the station'이고 정류장에서 내리는 건 'get off at the station'이에요. 영국에서는 기차역을 railway station, 미국에서는 train station이라 부르는 경우가 많아요. 동사로는 '배치하다'(be stationed in Seoul, 서울에 주둔하다)예요.",
+  "also": [
+   {
+    "w": "stations",
+    "pos": "n",
+    "ko": "역들, 방송국들",
+    "en": "There are three **stations** on this line."
+   }
+  ]
+ },
+ {
+  "w": "stay",
+  "pos": "v",
+  "meaning_ko": "머무르다, 계속 ~한 상태이다",
+  "example_en": "We decided to **stay** at a small hotel near the beach.",
+  "example_ko": "우리는 해변 근처의 작은 호텔에 묵기로 했어.",
+  "nuance_ko": "stay는 한 곳에 머무르거나 어떤 상태를 계속 유지한다는 뜻이에요. 숙박(stay at a hotel), 체류(stay in Korea), 상태 유지(stay calm, stay home)에 모두 쓰여요. 'Stay in touch'(연락하고 지내자), 'Stay safe'(몸조심해), 'stay up late'(늦게까지 안 자다), 'stay out of ~'(~에 끼어들지 않다)가 대표적인 표현이에요. 명사 stay는 체류나 숙박(enjoy your stay)이고 호텔에서 'Enjoy your stay!'는 환영 인사로 많이 들려요. remain보다 구어적이고 일상적이에요.",
+  "also": [
+   {
+    "w": "stayed",
+    "pos": "v",
+    "ko": "머물렀다",
+    "en": "We **stayed** with friends in Paris."
+   }
+  ]
+ },
+ {
+  "w": "steal",
+  "pos": "v",
+  "meaning_ko": "훔치다",
+  "example_en": "Someone tried to **steal** my bike while I was in the store.",
+  "example_ko": "내가 가게에 있는 동안 누가 내 자전거를 훔치려 했어.",
+  "nuance_ko": "steal은 남의 물건을 몰래 훔치다이고 변화형은 steal-stole-stolen이에요. steal은 물건을 목적어로 받고(steal a bike), 사람이 피해자일 때는 rob(은행을 털다, rob a bank)를 써서 구별해요. 'steal from ~'는 ~에게서 훔치다예요. 비유적으로 'steal the show'는 주목을 독차지하다, 'steal a glance'는 슬쩍 훔쳐보다, 'It's a steal'은 거저나 다름없이 싸다는 뜻이에요. 'My phone was stolen'처럼 피해자 입장에서는 수동태가 자연스러워요.",
+  "also": [
+   {
+    "w": "stolen",
+    "pos": "adj",
+    "ko": "도난당한",
+    "en": "The **stolen** painting was found last week."
+   }
+  ]
+ },
+ {
+  "w": "step",
+  "pos": "n",
+  "meaning_ko": "걸음, 단계, 계단",
+  "example_en": "The first **step** is to figure out exactly what you want.",
+  "example_ko": "첫 번째 단계는 네가 정확히 뭘 원하는지 알아내는 거야.",
+  "nuance_ko": "step은 걸음, 계단의 한 단, 과정의 한 단계를 뜻해요. 'take a step'(한 걸음 내딛다), 'step by step'(차근차근), 'the next step'(다음 단계)처럼 쓰여요. 동사로 'step in'은 개입하다, 'step out'은 잠깐 나가다, 'step down'은 사임하다, 'step up'은 수준을 높이다예요. 'Watch your step'은 발 조심하라는 안내이면서 말조심하라는 경고로도 쓰여요. stage가 큰 단계 구분이라면 step은 구체적으로 취해야 할 행동 하나를 가리켜요.",
+  "also": [
+   {
+    "w": "steps",
+    "pos": "n",
+    "ko": "계단, 조치들",
+    "en": "We took several **steps** to fix it."
+   },
+   {
+    "w": "stepped",
+    "pos": "v",
+    "ko": "발을 디뎠다",
+    "en": "He **stepped** onto the stage."
+   }
+  ]
+ },
+ {
+  "w": "stick",
+  "pos": "n",
+  "meaning_ko": "막대기, 붙다",
+  "example_en": "The kids found a **stick** and used it to draw in the sand.",
+  "example_ko": "아이들은 막대기를 찾아서 모래에 그림을 그렸어.",
+  "nuance_ko": "stick은 명사로 막대기, 동사로 붙이다·붙다·찌르다를 뜻해요. 변화형은 stick-stuck-stuck이에요. 'stick to ~'(~에 붙어 있다/고수하다), 'stick with ~'(~와 함께하다), 'stick out'(튀어나오다), 'stick around'(남아 있다), 'get stuck'(꼼짝 못하다)처럼 구동사가 많아요. 'the stick'이 처벌을 뜻할 때 'carrot and stick'(당근과 채찍)이라는 표현이 있어요. 'USB stick'과 'chopsticks'도 같은 어원이에요. 스티커(sticker)는 stick에서 파생된 단어예요.",
+  "also": [
+   {
+    "w": "stuck",
+    "pos": "adj",
+    "ko": "꼼짝 못하는",
+    "en": "I'm **stuck** in traffic right now."
+   },
+   {
+    "w": "sticker",
+    "pos": "n",
+    "ko": "스티커",
+    "en": "The kids put **stickers** on their notebooks."
+   }
+  ]
+ },
+ {
+  "w": "still",
+  "pos": "adv",
+  "meaning_ko": "여전히, 아직도, 가만한",
+  "example_en": "Are you **still** working on that report, or did you finish it?",
+  "example_ko": "아직도 그 보고서 작업 중이야, 아니면 끝냈어?",
+  "nuance_ko": "still은 부사로 '여전히, 아직도', 형용사로 '가만한, 고요한', 접속사처럼 '그래도'를 뜻해요. 위치는 be동사 뒤, 일반동사 앞이에요(She is still sleeping). 부정문에서는 'He still hasn't called'처럼 부정어 앞에 놓아 짜증이나 놀라움을 강조해요. 'Stay still'은 가만히 있어라, 'Still waters run deep'은 조용한 사람이 속은 깊다는 속담이에요. yet은 부정문·의문문에서 '아직'이라 쓰고 still은 계속되는 상태를 강조한다는 차이가 있어요.",
+  "also": [
+   {
+    "w": "stillness",
+    "pos": "n",
+    "ko": "고요, 정적",
+    "en": "The **stillness** of the lake was beautiful."
+   }
+  ]
+ },
+ {
+  "w": "stone",
+  "pos": "n",
+  "meaning_ko": "돌, 석재",
+  "example_en": "She skipped a flat **stone** across the lake three times.",
+  "example_ko": "그녀는 납작한 돌을 호수 위로 세 번 튕겼어.",
+  "nuance_ko": "stone은 돌이나 석재를 가리키고 rock보다 작은 돌덩이에 쓰여요. 보석은 gemstone, 묘비는 gravestone, 징검돌은 stepping stone이에요. 영국에서는 체중 단위로 stone(약 6.35kg)을 쓴다는 점도 특이해요. 'stone cold'는 몹시 차가운, 'a stone's throw away'는 아주 가까운 거리, 'leave no stone unturned'는 모든 방법을 다 써보다라는 관용구예요. 복수 stones는 'stones in the river'처럼 쓰여요.",
+  "also": [
+   {
+    "w": "stones",
+    "pos": "n",
+    "ko": "돌들",
+    "en": "The path was covered with small **stones**."
+   }
+  ]
+ },
+ {
+  "w": "stop",
+  "pos": "v",
+  "meaning_ko": "멈추다, 그만두다",
+  "example_en": "Please **stop** talking and listen to what I'm saying.",
+  "example_ko": "말 그만하고 내 말 좀 들어봐.",
+  "nuance_ko": "stop은 동작을 멈추거나 멈추게 하는 동사예요. stop + -ing는 '~하는 것을 그만두다'이고 stop + to 동사원형은 '~하기 위해 멈추다'로 의미가 완전히 달라져요. 'I stopped smoking'(담배를 끊었다)과 'I stopped to smoke'(담배 피우려고 멈췄다)를 구별하세요. 'Stop it!'은 그만해, 'stop by'는 잠깐 들르다, 'stop over'는 경유하다예요. 명사 stop은 정류장(a bus stop)이나 멈춤을 뜻하고 'nonstop flight'는 직항이에요.",
+  "also": [
+   {
+    "w": "stopped",
+    "pos": "v",
+    "ko": "멈췄다",
+    "en": "The bus **stopped** suddenly."
+   },
+   {
+    "w": "nonstop",
+    "pos": "adj",
+    "ko": "멈추지 않는",
+    "en": "It was a **nonstop** flight to Seoul."
+   }
+  ]
+ },
+ {
+  "w": "store",
+  "pos": "n",
+  "meaning_ko": "가게, 저장하다",
+  "example_en": "I need to stop by the **store** to pick up some milk.",
+  "example_ko": "우유 좀 사려고 가게에 들러야 해.",
+  "nuance_ko": "store는 미국 영어에서 가게의 대표 단어이고 영국에서는 shop을 더 많이 써요. 'grocery store'(식료품점), 'convenience store'(편의점), 'department store'(백화점)처럼 앞에 종류를 붙여요. 동사 store는 '저장하다, 보관하다'(store data, store food)이고 컴퓨터에서 저장 장치(storage)와도 연결돼요. 'in store'는 앞으로 닥칠, 'What's in store?'는 앞으로 무슨 일이 기다리고 있는지를 묻는 표현이에요. 'set great store by ~'는 ~을 매우 중시하다예요.",
+  "also": [
+   {
+    "w": "storage",
+    "pos": "n",
+    "ko": "보관, 저장 공간",
+    "en": "We need more **storage** space."
+   },
+   {
+    "w": "stored",
+    "pos": "v",
+    "ko": "저장되었다",
+    "en": "The files are **stored** in the cloud."
+   }
+  ]
+ },
+ {
+  "w": "story",
+  "pos": "n",
+  "meaning_ko": "이야기, 기사",
+  "example_en": "Let me tell you a funny **story** about what happened yesterday.",
+  "example_ko": "어제 있었던 웃긴 얘기 하나 해줄게.",
+  "nuance_ko": "story는 사건을 엮은 이야기, 신문의 기사, 거짓말(Don't tell stories, 지어내지 마)을 두루 가리켜요. tell a story(이야기하다), a long story(긴 이야기), 'to make a long story short'(간단히 말하면)가 짝꿍 표현이에요. 건물의 층도 story라고 하지만 미국에서는 story, 영국에서는 storey로 철자가 달라요(a three-story building). 'cover story'는 잡지 표지 기사예요. 'It's a different story'는 사정이 다르다는 의미예요.",
+  "also": [
+   {
+    "w": "stories",
+    "pos": "n",
+    "ko": "이야기들",
+    "en": "She writes short **stories** for kids."
+   }
+  ]
+ },
+ {
+  "w": "straight",
+  "pos": "adj",
+  "meaning_ko": "곧은, 똑바로",
+  "example_en": "Go **straight** for two blocks and then turn left at the bank.",
+  "example_ko": "두 블록 곧장 가다가 은행에서 좌회전해.",
+  "nuance_ko": "straight는 곧은, 똑바른 형용사이면서 '곧장, 바로'를 뜻하는 부사로도 써요. 길 안내에서 go straight은 직진, 'straight ahead'는 바로 앞이에요. 비유적으로 '솔직한'(a straight answer), '연속된'(three straight wins), '정리된'(get things straight)으로 쓰여요. 'straight away'는 즉시, 'straight up'은 솔직히 말해서라는 구어예요. 이성애자를 뜻하는 용법도 있는데 이때는 문맥에 주의하세요. 부사일 때 straightly가 아니라 straight 그대로 써요.",
+  "also": [
+   {
+    "w": "straighten",
+    "pos": "v",
+    "ko": "곧게 하다",
+    "en": "She **straightened** her tie before the meeting."
+   }
+  ]
+ },
+ {
+  "w": "strange",
+  "pos": "adj",
+  "meaning_ko": "이상한, 낯선",
+  "example_en": "I heard a **strange** noise coming from the kitchen last night.",
+  "example_ko": "어젯밤에 부엌에서 이상한 소리가 났어.",
+  "nuance_ko": "strange는 평소와 다르거나 낯설어서 이해하기 어려운 느낌을 줘요. odd보다 조금 더 불안하거나 기이한 인상을 줄 수 있어요. 'It's strange that ~', 'a strange feeling'처럼 쓰고 'strange to say'는 이상하게 들리겠지만이라는 도입구예요. 낯선 사람은 stranger, 'Strangers are everywhere'처럼 쓰이고 'a perfect stranger'는 전혀 모르는 사람이에요. 'Truth is stranger than fiction'은 현실이 소설보다 기이하다는 속담이에요.",
+  "also": [
+   {
+    "w": "stranger",
+    "pos": "n",
+    "ko": "낯선 사람",
+    "en": "Never talk to a **stranger** online."
+   },
+   {
+    "w": "strangely",
+    "pos": "adv",
+    "ko": "이상하게",
+    "en": "**Strangely**, no one noticed the change."
+   }
+  ]
+ },
+ {
+  "w": "street",
+  "pos": "n",
+  "meaning_ko": "거리, 길",
+  "example_en": "Our apartment is on a quiet **street** just off Main Street.",
+  "example_ko": "우리 아파트는 메인 스트리트에서 조금 들어간 조용한 거리에 있어.",
+  "nuance_ko": "street는 양옆에 건물이 있는 도시의 거리를 말해요. 주소에서 Main Street, 5th Street처럼 쓰고 St.로 줄여요. road가 도시와 도시를 잇는 길이라면 street는 도시 안의 거리라는 차이가 있어요. 'on the street'는 길에서/길거리에서이고 영국 영어에서 'in the street'도 써요. 'street food'(길거리 음식), 'street smart'(세상 물정에 밝은), 'the man on the street'(보통 사람)처럼 표현이 다양해요. 'streets ahead'는 훨씬 앞선이라는 영국 구어예요.",
+  "also": [
+   {
+    "w": "streets",
+    "pos": "n",
+    "ko": "거리들",
+    "en": "The **streets** were empty at dawn."
+   }
+  ]
+ },
+ {
+  "w": "strike",
+  "pos": "v",
+  "meaning_ko": "치다, 파업, 인상을 주다",
+  "example_en": "The lightning **struck** a tree near our house last night.",
+  "example_ko": "어젯밤 번개가 우리 집 근처 나무를 쳤어.",
+  "nuance_ko": "strike는 세게 치다, 부딪히다, 갑자기 떠오르다(It struck me that ~), 파업하다라는 뜻이 있고 변화형은 strike-struck-struck이에요. 명사 strike는 파업(a workers' strike), 야구의 스트라이크, 공습(air strike)을 가리켜요. 'strike a balance'(균형을 맞추다), 'strike a deal'(거래를 성사시키다), 'strike up a conversation'(대화를 시작하다) 같은 짝꿍 표현이 많아요. 'on strike'는 파업 중이라는 뜻이에요. 'strike me as ~'는 내게 ~로 보이다라는 완곡한 의견 표현이에요.",
+  "also": [
+   {
+    "w": "striking",
+    "pos": "adj",
+    "ko": "눈에 띄는",
+    "en": "There is a **striking** similarity between them."
+   },
+   {
+    "w": "struck",
+    "pos": "v",
+    "ko": "쳤다, 감명을 주었다",
+    "en": "I was **struck** by her kindness."
+   }
+  ]
+ },
+ {
+  "w": "strong",
+  "pos": "adj",
+  "meaning_ko": "강한, 튼튼한",
+  "example_en": "I need a **strong** cup of coffee to wake up this morning.",
+  "example_ko": "오늘 아침은 정신 차리려면 진한 커피 한 잔이 필요해.",
+  "nuance_ko": "strong은 힘이 센, 튼튼한, 진한, 강력한 등 정도가 강하다는 뜻이에요. 사람의 힘(a strong man), 커피나 차의 진하기(strong coffee), 의견이나 감정(a strong opinion), 바람(a strong wind)에 모두 쓰여요. 반대는 weak이고 'strong point'는 강점이에요. 'go strong'은 계속 건재하다는 의미로, 'still going strong'은 여전히 잘 나간다는 뜻이에요. 'strong' 뒤에 -ly를 붙인 strongly는 'strongly recommend'처럼 의견의 강도를 말할 때 써요.",
+  "also": [
+   {
+    "w": "strongly",
+    "pos": "adv",
+    "ko": "강력하게",
+    "en": "I **strongly** recommend this book."
+   },
+   {
+    "w": "stronger",
+    "pos": "adj",
+    "ko": "더 강한",
+    "en": "He feels **stronger** every day."
+   }
+  ]
+ },
+ {
+  "w": "student",
+  "pos": "n",
+  "meaning_ko": "학생",
+  "example_en": "She's a **student** at a university in Seoul majoring in design.",
+  "example_ko": "그녀는 서울에 있는 대학교에서 디자인을 전공하는 학생이야.",
+  "nuance_ko": "student는 학교에서 공부하는 사람 전반을 가리켜요. 미국에서는 초등학생부터 대학원생까지 모두 student라고 하고 영국에서는 대학생에게 더 집중해서 써요. pupil은 영국에서 초등·중등학생을 가리켜요. 'a college student', 'a high school student', 'an exchange student'(교환학생)처럼 앞에 수식어를 붙여요. 'student loan'(학자금 대출), 'student ID'(학생증)는 일상에서 자주 만나요. 학생을 칭찬하는 'a good student'는 성실하고 성적이 좋은 학생이에요.",
+  "also": [
+   {
+    "w": "students",
+    "pos": "n",
+    "ko": "학생들",
+    "en": "The **students** were excited about the trip."
+   }
+  ]
+ },
+ {
+  "w": "study",
+  "pos": "v",
+  "meaning_ko": "공부하다, 연구",
+  "example_en": "I have to **study** for my history exam this weekend.",
+  "example_ko": "이번 주말에 역사 시험 공부를 해야 해.",
+  "nuance_ko": "study는 공부하다와 연구하다를 뜻하며 시험을 위한 공부는 'study for ~'로 써요. learn이 결과로서 습득하는 것이라면 study는 공부하는 행위 자체에 초점이 있어요. 'study abroad'(유학하다), 'study hard'(열심히 공부하다), 'study group'(스터디 그룹)처럼 쓰여요. 명사 study는 연구(a study shows that ~), 서재(a study room)를 뜻하기도 해요. 뉴스에서 'A new study found that ~'는 아주 자주 나오는 문장이에요.",
+  "also": [
+   {
+    "w": "studies",
+    "pos": "n",
+    "ko": "연구들, 학업",
+    "en": "Recent **studies** show a clear link."
+   },
+   {
+    "w": "studious",
+    "pos": "adj",
+    "ko": "학구적인",
+    "en": "He is a quiet and **studious** boy."
+   }
+  ]
+ },
+ {
+  "w": "stuff",
+  "pos": "n",
+  "meaning_ko": "물건, 것들",
+  "example_en": "I have so much **stuff** in my closet that I can't find anything.",
+  "example_ko": "옷장에 물건이 너무 많아서 아무것도 못 찾겠어.",
+  "nuance_ko": "stuff는 구체적으로 말하기 번거로운 '물건들, 일들, 것'을 뭉뚱그려 가리키는 구어체 명사예요. 셀 수 없는 명사라서 stuffs는 쓰지 않고, 'my stuff'(내 짐/물건), 'some stuff to do'(할 일)처럼 쓰여요. things와 비슷하지만 stuff는 더 캐주얼하고 불특정한 느낌이에요. 'good stuff', 'bad stuff', 'and stuff'(~ 같은 거)처럼 말하고 글에서는 가급적 구체적인 단어로 바꾸는 것이 좋아요. 동사 stuff는 '채워 넣다, 쑤셔 넣다'(stuff a turkey)예요.",
+  "also": []
+ },
+ {
+  "w": "stupid",
+  "pos": "adj",
+  "meaning_ko": "어리석은, 멍청한",
+  "example_en": "I made a **stupid** mistake and deleted the whole file.",
+  "example_ko": "멍청한 실수로 파일 전체를 지워버렸어.",
+  "nuance_ko": "stupid는 어리석거나 생각이 모자라 보이는 행동·사람에게 쓰는 강한 표현이에요. 사람에게 직접 'You're stupid'라고 하면 매우 무례한 모욕이에요. 자기 실수에는 'That was stupid of me'처럼 자책하는 데 쓰기도 하고, 사물에는 'a stupid rule'(말도 안 되는 규칙)처럼 짜증을 표현해요. silly보다 훨씬 거칠고 foolish보다 일상적이에요. 아이들에게는 stupid 단어를 쓰지 않도록 권하는 가정도 많아요.",
+  "also": [
+   {
+    "w": "stupidity",
+    "pos": "n",
+    "ko": "어리석음",
+    "en": "I can't believe the **stupidity** of that decision."
+   }
+  ]
+ },
+ {
+  "w": "subject",
+  "pos": "n",
+  "meaning_ko": "주제, 과목, 주어",
+  "example_en": "Math was my least favorite **subject** when I was in school.",
+  "example_ko": "학교 다닐 때 수학이 제일 싫은 과목이었어.",
+  "nuance_ko": "subject는 대화의 주제, 학교 과목, 문법의 주어, 이메일의 제목란(subject line)을 두루 가리켜요. 'change the subject'(화제를 바꾸다), 'on the subject of ~'(~에 관해서)가 자주 쓰여요. 형용사 subject to ~는 '~의 영향을 받기 쉬운, ~을 조건으로 하는'으로, 'Prices are subject to change'(가격은 변경될 수 있음)가 안내문 단골 문구예요. 동사 subject는 '(안 좋은 일을) 겪게 하다'로 'be subjected to criticism'처럼 쓰여요. 강세가 명사는 앞, 동사는 뒤예요.",
+  "also": [
+   {
+    "w": "subjects",
+    "pos": "n",
+    "ko": "과목들, 주제들",
+    "en": "She teaches several **subjects** at school."
+   }
+  ]
+ },
+ {
+  "w": "such",
+  "pos": "det",
+  "meaning_ko": "그런, 매우",
+  "example_en": "It was **such** a beautiful day that we stayed outside until dark.",
+  "example_ko": "날씨가 너무 좋아서 우리는 어두워질 때까지 밖에 있었어.",
+  "nuance_ko": "such는 명사를 강조하거나 '그러한'을 뜻해요. 'such a + 형용사 + 명사' 어순이 핵심이고(such a nice day), so는 형용사만 꾸며요(so nice). 'such as ~'는 예를 들 때(fruits such as apples), 'such that ~'는 결과를 나타내는 격식 표현이에요. 'No such thing'은 그런 건 없다, 'as such'는 그 자체로라는 의미예요. 'such a shame'(너무 안타까운)처럼 감정을 강조하는 표현에도 흔히 써요.",
+  "also": []
+ },
+ {
+  "w": "sudden",
+  "pos": "adj",
+  "meaning_ko": "갑작스러운",
+  "example_en": "There was a **sudden** noise, and everyone turned around.",
+  "example_ko": "갑자기 큰 소리가 나서 모두가 돌아봤어.",
+  "nuance_ko": "sudden은 예고 없이 갑자기 일어나는 일을 가리키는 형용사예요. 'a sudden change', 'a sudden decision'처럼 명사 앞에서 쓰고 'all of a sudden'(갑자기)은 부사구로 자주 나와요. 부사 suddenly는 동사를 꾸미고(He suddenly left) sudden은 명사를 꾸민다는 차이가 있어요. 'sudden death'는 스포츠에서 연장전 승부를 뜻해요. 놀랄 만한 갑작스러움을 나타내서 abrupt(돌연한)와 비슷하지만 sudden이 더 일반적이에요.",
+  "also": [
+   {
+    "w": "suddenly",
+    "pos": "adv",
+    "ko": "갑자기",
+    "en": "**Suddenly**, the lights went out."
+   }
+  ]
+ },
+ {
+  "w": "suggest",
+  "pos": "v",
+  "meaning_ko": "제안하다, 암시하다",
+  "example_en": "I **suggest** we meet earlier so we have more time to prepare.",
+  "example_ko": "준비할 시간을 더 가지게 좀 더 일찍 만나는 게 좋겠어.",
+  "nuance_ko": "suggest는 의견을 부드럽게 내놓는 '제안하다'와, 사실을 '암시하다'는 두 가지로 써요. suggest + -ing 또는 suggest (that) + 주어 + 동사원형 구조이고 suggest to + 동사원형은 틀려요. I suggest you go(제가 가시기를 권해요)처럼 that절에서는 동사원형(영국은 should)을 쓰는 점이 시험에도 나와요. recommend는 경험을 바탕으로 한 추천이고 suggest는 가능한 방안을 제시하는 느낌이에요. '연구가 ~를 시사한다'(Studies suggest that ~)도 흔해요.",
+  "also": [
+   {
+    "w": "suggestion",
+    "pos": "n",
+    "ko": "제안",
+    "en": "Do you have any **suggestions**?"
+   },
+   {
+    "w": "suggested",
+    "pos": "v",
+    "ko": "제안했다",
+    "en": "She **suggested** a new idea."
+   }
+  ]
+ },
+ {
+  "w": "suit",
+  "pos": "n",
+  "meaning_ko": "정장, 어울리다",
+  "example_en": "He wore a dark **suit** and tie to the job interview.",
+  "example_ko": "그는 면접에 어두운 정장과 넥타이를 하고 갔어.",
+  "nuance_ko": "suit는 명사로 정장 한 벌, 소송(lawsuit), 카드의 무늬를 뜻하고 동사로는 '어울리다, 적합하다'예요. 'That color suits you'는 그 색이 잘 어울린다는 칭찬이고 'Does Friday suit you?'는 금요일 괜찮으세요?라는 정중한 일정 확인이에요. fit은 크기가 맞는 것, suit는 스타일이나 상황이 어울리는 것이라는 차이가 있어요. 'follow suit'는 남을 따라하다, 'suit yourself'는 마음대로 해라는 약간 퉁명스러운 표현이에요. 'bathing suit'는 수영복이에요.",
+  "also": [
+   {
+    "w": "suitable",
+    "pos": "adj",
+    "ko": "적합한",
+    "en": "This room is **suitable** for a meeting."
+   },
+   {
+    "w": "suited",
+    "pos": "adj",
+    "ko": "알맞은",
+    "en": "He is well **suited** for the job."
+   }
+  ]
+ },
+ {
+  "w": "summer",
+  "pos": "n",
+  "meaning_ko": "여름",
+  "example_en": "We usually go to the beach every **summer** with our cousins.",
+  "example_ko": "우린 매년 여름에 사촌들과 해변에 가.",
+  "nuance_ko": "summer는 여름이고 계절 앞에는 in summer 또는 in the summer를 써요. 'last summer', 'this summer'는 전치사 없이 쓰여요. 'summer vacation'은 여름방학·휴가, 'summer camp'는 여름 캠프, 'Indian summer'는 늦가을의 따뜻한 날씨를 뜻해요. 동사로 'summer in Europe'(유럽에서 여름을 나다)처럼 쓰기도 하지만 드물어요. 영국에서는 summer time이 일광 절약 시간제를 뜻하기도 해요.",
+  "also": [
+   {
+    "w": "summers",
+    "pos": "n",
+    "ko": "여름들",
+    "en": "The **summers** here are very humid."
+   }
+  ]
+ },
+ {
+  "w": "sun",
+  "pos": "n",
+  "meaning_ko": "해, 태양",
+  "example_en": "The **sun** was so strong that we had to put on sunscreen.",
+  "example_ko": "햇볕이 너무 강해서 선크림을 발라야 했어.",
+  "nuance_ko": "sun은 태양이고 유일한 천체라서 보통 the sun으로 써요. 'in the sun'은 햇볕 아래, 'sunrise', 'sunset', 'sunshine', 'sunlight'처럼 합성어가 풍부해요. 'under the sun'은 하늘 아래, 즉 이 세상의 모든 것을 뜻하는 관용구예요. 동사로 'sun yourself'는 일광욕하다예요. 날씨가 맑은 상태를 'It's sunny'라 하고 'a place in the sun'은 좋은 지위를 나타내요. 같은 소리의 son(아들)과 혼동하지 마세요.",
+  "also": [
+   {
+    "w": "sunny",
+    "pos": "adj",
+    "ko": "화창한",
+    "en": "It's a **sunny** day, so let's go out."
+   },
+   {
+    "w": "sunshine",
+    "pos": "n",
+    "ko": "햇빛",
+    "en": "We enjoyed the warm **sunshine**."
+   }
+  ]
+ },
+ {
+  "w": "sunday",
+  "pos": "n",
+  "meaning_ko": "일요일",
+  "example_en": "We always have a big family dinner on **Sunday** evening.",
+  "example_ko": "우리는 항상 일요일 저녁에 온 가족이 모여서 푸짐하게 저녁을 먹어.",
+  "nuance_ko": "Sunday는 일요일이고 요일 이름이라 항상 대문자로 써요. on Sunday(일요일에), on Sundays(매주 일요일마다), this Sunday처럼 쓰고 한 주의 시작이 일요일인 미국 달력의 영향을 받아요. 'Sunday best'는 예배 때 입는 가장 좋은 옷, 'Sunday roast'는 영국의 일요일 점심 전통 식사, 'a Sunday driver'는 느릿느릿 운전하는 사람을 놀리는 말이에요. 'Sunday blues'는 월요일을 앞둔 우울함이에요. 약어는 Sun.이에요.",
+  "also": []
+ },
+ {
+  "w": "support",
+  "pos": "v",
+  "meaning_ko": "지지하다, 지원하다, 떠받치다",
+  "example_en": "My parents always **support** me, no matter what I decide to do.",
+  "example_ko": "우리 부모님은 내가 무엇을 하기로 하든 항상 응원해 주셔.",
+  "nuance_ko": "support는 지지하다, 후원하다, 떠받치다, 부양하다까지 폭넓게 쓰여요. 사람을 응원할 때(support a team), 가족을 부양할 때(support a family), 물리적으로 지탱할 때(support the roof), 소프트웨어가 기능을 지원할 때(The app supports Korean)에도 써요. 명사 support는 지지·지원이며 'technical support'(기술 지원), 'moral support'(정신적 지지)처럼 쓰여요. 영국에서는 축구팀을 응원한다는 뜻으로 support가 일상적으로 쓰여요.",
+  "also": [
+   {
+    "w": "supporter",
+    "pos": "n",
+    "ko": "지지자",
+    "en": "He is a loyal **supporter** of the team."
+   },
+   {
+    "w": "supportive",
+    "pos": "adj",
+    "ko": "도와주는",
+    "en": "My manager is very **supportive**."
+   }
+  ]
+ },
+ {
+  "w": "suppose",
+  "pos": "v",
+  "meaning_ko": "추측하다, 생각하다",
+  "example_en": "I **suppose** we could try again tomorrow if it doesn't rain.",
+  "example_ko": "비가 안 오면 내일 다시 시도해 봐도 되겠지.",
+  "nuance_ko": "suppose는 확실하진 않지만 그럴 것이라고 생각하다 또는 가정하다는 뜻이에요. 'I suppose so'는 마지못해 동의하는 어조, 'I don't suppose you could ~'는 정중한 부탁이에요. 'Suppose we ~?'는 '~하면 어떨까?'라는 제안이고 'Suppose that ~'는 가정이에요. 'be supposed to ~'는 '~하기로 되어 있다, ~해야 한다'로 시험에 자주 나와요(You're supposed to be here at nine). 이 구문은 의무나 기대를 나타내서 should와 비슷하지만 외부 규칙·계획에 따른 느낌이에요.",
+  "also": [
+   {
+    "w": "supposed",
+    "pos": "adj",
+    "ko": "~하기로 되어 있는",
+    "en": "You're **supposed** to wear a helmet."
+   },
+   {
+    "w": "supposedly",
+    "pos": "adv",
+    "ko": "추정컨대",
+    "en": "**Supposedly**, the shop opens at nine."
+   }
+  ]
+ },
+ {
+  "w": "sure",
+  "pos": "adj",
+  "meaning_ko": "확신하는, 틀림없는",
+  "example_en": "Are you **sure** you don't want me to drive you home?",
+  "example_ko": "정말 내가 집까지 태워주지 않아도 괜찮겠어?",
+  "nuance_ko": "sure는 확신하는 상태를 뜻하는 형용사이고 'I'm sure (that) ~', 'be sure of/about ~', 'make sure to ~'로 쓰여요. 대화에서 'Sure!'는 흔쾌한 수락('Can I borrow this?' 'Sure!'), 'Sure thing'은 물론이지요, 'for sure'는 확실히예요. 'make sure (that) ~'은 ~을 확실히 하다, 확인하다로 'Make sure you lock the door'처럼 일상에서 매우 많이 써요. 억양에 따라 'Sure...'는 반신반의하는 어조가 될 수도 있어요.",
+  "also": [
+   {
+    "w": "surely",
+    "pos": "adv",
+    "ko": "분명히",
+    "en": "**Surely** you can't be serious."
+   },
+   {
+    "w": "unsure",
+    "pos": "adj",
+    "ko": "확신이 없는",
+    "en": "I'm **unsure** about the plan."
+   }
+  ]
+ },
+ {
+  "w": "surprise",
+  "pos": "n",
+  "meaning_ko": "놀라움, 깜짝 선물, 놀라게 하다",
+  "example_en": "It was a big **surprise** when she showed up at my door.",
+  "example_ko": "그녀가 우리 집 문 앞에 나타났을 때 정말 깜짝 놀랐어.",
+  "nuance_ko": "surprise는 예상치 못한 일 또는 놀라움 자체를 뜻하는 명사이고 동사로는 놀라게 하다예요. 놀람을 느끼는 사람은 surprised, 놀라게 하는 것은 surprising으로 써서 'I was surprised at the news / The news was surprising'으로 구별해요. 'to my surprise'는 놀랍게도, 'surprise party'는 깜짝 파티, 'Surprise!'는 파티 때 외치는 말이에요. 'no surprise'는 놀랄 일도 아니라는 뜻으로 'It's no surprise that ~'처럼 써요.",
+  "also": [
+   {
+    "w": "surprised",
+    "pos": "adj",
+    "ko": "놀란",
+    "en": "I was **surprised** to see him there."
+   },
+   {
+    "w": "surprising",
+    "pos": "adj",
+    "ko": "놀라운",
+    "en": "The result was quite **surprising**."
+   }
+  ]
+ },
+ {
+  "w": "sweet",
+  "pos": "adj",
+  "meaning_ko": "달콤한, 다정한",
+  "example_en": "It was really **sweet** of you to bring me flowers.",
+  "example_ko": "꽃을 가져와 주다니 정말 다정하구나.",
+  "nuance_ko": "sweet는 맛이 달다는 기본 뜻 외에 사람이 다정하고 친절하다, 귀엽다는 의미로도 많이 써요. 'That's so sweet of you'는 상대의 친절에 감사하는 말이고 'Sweet dreams'는 잘 자라는 인사예요. 음식이 너무 달다고 할 때는 'too sweet', 단 것을 좋아하면 'have a sweet tooth'라고 해요. 영국에서는 sweets가 사탕·과자를 뜻하고 미국에서는 candy라고 불러요. 구어에서 'Sweet!'은 좋다, 멋지다는 감탄으로도 써요.",
+  "also": [
+   {
+    "w": "sweets",
+    "pos": "n",
+    "ko": "사탕, 단 것",
+    "en": "The kids ate all the **sweets**."
+   },
+   {
+    "w": "sweetness",
+    "pos": "n",
+    "ko": "단맛, 다정함",
+    "en": "I love the **sweetness** of ripe peaches."
+   }
+  ]
+ },
+ {
+  "w": "swim",
+  "pos": "v",
+  "meaning_ko": "수영하다",
+  "example_en": "I like to **swim** for thirty minutes every morning before work.",
+  "example_ko": "난 출근 전 매일 아침 30분씩 수영하는 걸 좋아해.",
+  "nuance_ko": "swim은 헤엄치다이고 변화형은 swim-swam-swum이에요. go swimming(수영하러 가다)이 일상적인 표현이고 swim in the sea, swim across the river처럼 장소나 방향과 함께 써요. 영국 영어에서 명사로 'have a swim'(수영하다)이라고 하는 일이 흔해요. 'sink or swim'은 죽든 살든 알아서 해보라는 관용구이고 'swim against the tide'는 대세를 거스르다예요. 'My head is swimming'은 머리가 빙빙 돌다는 뜻이에요.",
+  "also": [
+   {
+    "w": "swimming",
+    "pos": "n",
+    "ko": "수영",
+    "en": "**Swimming** is great exercise for your back."
+   },
+   {
+    "w": "swimmer",
+    "pos": "n",
+    "ko": "수영 선수",
+    "en": "She is a strong **swimmer**."
+   }
+  ]
+ },
+ {
+  "w": "system",
+  "pos": "n",
+  "meaning_ko": "체계, 시스템",
+  "example_en": "The new **system** is much faster than the old one we used.",
+  "example_ko": "새 시스템이 우리가 쓰던 예전 것보다 훨씬 빨라.",
+  "nuance_ko": "system은 여러 요소가 얽혀 하나의 기능을 하는 체계를 말해요. computer system, education system, immune system(면역 체계), transportation system처럼 매우 폭넓게 쓰여요. 'the system'은 때로 기존 권력 구조를 가리켜서 'fight the system'(체제에 맞서다)처럼 쓰여요. IT에서는 운영체제(operating system, OS)나 시스템 장애(system failure)를 말해요. 'beat the system'은 규칙의 허점을 이용해 이득을 취하는 것을 뜻해요.",
+  "also": [
+   {
+    "w": "systems",
+    "pos": "n",
+    "ko": "시스템들",
+    "en": "The company builds software **systems**."
+   },
+   {
+    "w": "systematic",
+    "pos": "adj",
+    "ko": "체계적인",
+    "en": "We need a **systematic** approach."
+   }
+  ]
+ },
+ {
+  "w": "table",
+  "pos": "n",
+  "meaning_ko": "탁자, 표",
+  "example_en": "Could we get a **table** by the window, please?",
+  "example_ko": "창가 쪽 자리로 부탁드려도 될까요?",
+  "nuance_ko": "table은 탁자와 표(데이터)라는 두 가지 핵심 뜻이 있어요. 식당에서 'a table for two'(두 명 자리), 'book a table'(자리를 예약하다)이 자주 나와요. 자료에서 'table of contents'(목차), 'a table of results'(결과표)처럼 써요. 'on the table'은 논의 중이라는 뜻인데 미국에서는 'table a motion'이 안건을 보류하다, 영국에서는 안건을 제출하다로 정반대라서 주의하세요. 'turn the tables'는 형세를 뒤집다라는 관용구예요.",
+  "also": [
+   {
+    "w": "tables",
+    "pos": "n",
+    "ko": "탁자들, 표들",
+    "en": "The **tables** were set for dinner."
+   }
+  ]
+ },
+ {
+  "w": "tail",
+  "pos": "n",
+  "meaning_ko": "꼬리, 뒤쫓다",
+  "example_en": "The puppy wagged its **tail** as soon as I opened the door.",
+  "example_ko": "문을 열자마자 강아지가 꼬리를 흔들었어.",
+  "nuance_ko": "tail은 동물의 꼬리이면서 사물의 뒤쪽 끝(the tail of a plane)을 뜻해요. 동사로는 '미행하다'(The police tailed the car)예요. 동전의 뒷면은 tails이고 앞면은 heads라서 'Heads or tails?'는 동전 던지기 때 쓰는 말이에요. 'turn tail'은 꽁무니를 빼고 도망치다, 'with your tail between your legs'는 풀이 죽어서라는 관용 표현이에요. 'tailgate'는 앞차에 바짝 붙어 운전하는 것을 말해요.",
+  "also": [
+   {
+    "w": "tails",
+    "pos": "n",
+    "ko": "동전 뒷면",
+    "en": "I chose **tails** and lost."
+   }
+  ]
+ },
+ {
+  "w": "take",
+  "pos": "v",
+  "meaning_ko": "가져가다, 걸리다, 타다",
+  "example_en": "It will **take** about an hour to get there by train.",
+  "example_ko": "기차로 거기까지 가는 데 한 시간쯤 걸릴 거야.",
+  "nuance_ko": "take는 무언가를 손에 쥐거나 가져가는 것이 기본 그림이에요. 시간이 걸리다(It takes two hours), 교통수단을 타다(take a bus), 사진을 찍다(take a photo), 약을 먹다(take medicine), 시험을 치르다(take a test) 등으로 확장돼요. 변화형은 take-took-taken이에요. bring이 화자에게로 가져오는 것이라면 take는 화자로부터 멀리 가져가는 것이에요. take off(이륙하다/벗다), take over(인수하다), take care of(돌보다) 같은 구동사도 필수예요.",
+  "also": [
+   {
+    "w": "taken",
+    "pos": "v",
+    "ko": "가져갔다(과거분사)",
+    "en": "Is this seat **taken**?"
+   },
+   {
+    "w": "taking",
+    "pos": "n",
+    "ko": "가져가기",
+    "en": "The **taking** of photos is not allowed."
+   }
+  ]
+ },
+ {
+  "w": "talk",
+  "pos": "v",
+  "meaning_ko": "이야기하다, 말하다",
+  "example_en": "Can we **talk** for a minute? I need your advice on something.",
+  "example_ko": "잠깐 얘기 좀 할 수 있을까? 조언이 필요한 일이 있어서.",
+  "nuance_ko": "talk는 사람들과 대화하거나 이야기를 주고받는 동작이에요. talk to someone about something(누구에게 무엇에 관해 이야기하다) 구조가 가장 흔하고 talk with는 쌍방향 대화 느낌이 더 강해요. speak가 격식이나 언어 능력이라면 talk는 일상적인 수다에 가까워요. 명사 talk는 대화·강연(give a talk), 'small talk'는 가벼운 잡담이에요. 'talk back'은 말대꾸하다, 'talk about ~'은 ~에 대해 이야기하다, 'talk over'는 의논하다예요.",
+  "also": [
+   {
+    "w": "talks",
+    "pos": "n",
+    "ko": "회담, 대화",
+    "en": "Peace **talks** begin next week."
+   },
+   {
+    "w": "talking",
+    "pos": "n",
+    "ko": "말하기",
+    "en": "Stop **talking** and listen."
+   }
+  ]
+ },
+ {
+  "w": "tall",
+  "pos": "adj",
+  "meaning_ko": "키가 큰, 높은",
+  "example_en": "How **tall** are you? You look taller than your brother.",
+  "example_ko": "키가 몇이야? 네 형보다 커 보이는데.",
+  "nuance_ko": "tall은 사람이나 나무·건물처럼 세로로 높은 것에 쓰고, 산이나 위치가 높은 것은 high를 써요. 'six feet tall'처럼 키를 말할 때 숫자 뒤에 tall을 붙이고 'How tall are you?'로 키를 물어요. 반대는 short이고 '키가 크다'를 'be tall'이라고 하지 'be high'라고 하지 않는 점이 한국인에게 자주 나오는 실수예요. 'a tall order'는 어려운 요구, 'tall tale'은 허풍스러운 이야기라는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "taller",
+    "pos": "adj",
+    "ko": "더 키가 큰",
+    "en": "He is **taller** than his dad now."
+   }
+  ]
+ },
+ {
+  "w": "tape",
+  "pos": "n",
+  "meaning_ko": "테이프, 녹화하다",
+  "example_en": "Can you pass me the **tape**? I need to wrap this present.",
+  "example_ko": "테이프 좀 건네줄래? 이 선물을 포장해야 해.",
+  "nuance_ko": "tape는 접착테이프, 녹음·녹화 테이프, 줄자(tape measure)를 가리켜요. 동사로는 '테이프로 붙이다'와 '녹음·녹화하다'(tape a show)예요. 'duct tape'는 강력 접착테이프, 'red tape'는 번거로운 관료적 절차를 뜻하는 관용 표현이에요. 'on tape'는 녹화되어 있는, 'tape recorder'는 녹음기예요. 요즘은 비디오 테이프가 거의 쓰이지 않지만 영화·정치 이야기에서는 'a leaked tape'처럼 쓰여요.",
+  "also": [
+   {
+    "w": "taped",
+    "pos": "v",
+    "ko": "테이프로 붙였다",
+    "en": "She **taped** the note to the door."
+   }
+  ]
+ },
+ {
+  "w": "taste",
+  "pos": "n",
+  "meaning_ko": "맛, 취향, 맛보다",
+  "example_en": "This soup has a wonderful **taste**, a bit spicy but not too much.",
+  "example_ko": "이 수프는 맛이 훌륭해, 약간 매운데 너무 심하진 않아.",
+  "nuance_ko": "taste는 맛(명사)과 맛보다·맛이 나다(동사), 취향(good taste)의 뜻이 있어요. 동사 'taste + 형용사'(tastes good, tastes sweet)나 'taste of ~'(~의 맛이 나다), 'taste like ~'(~ 같은 맛이 나다)로 써요. flavor와 비슷하지만 taste는 맛의 감각 전체, flavor는 구체적인 향미를 가리켜요. 'in good taste'는 품위 있는, 'in poor taste'는 보기 흉한 이라는 평가에 쓰여요. 'a matter of taste'는 취향의 문제라는 뜻이에요.",
+  "also": [
+   {
+    "w": "tasty",
+    "pos": "adj",
+    "ko": "맛있는",
+    "en": "The pasta was really **tasty**."
+   },
+   {
+    "w": "tasted",
+    "pos": "v",
+    "ko": "맛을 봤다",
+    "en": "I **tasted** the soup before serving."
+   }
+  ]
+ },
+ {
+  "w": "tax",
+  "pos": "n",
+  "meaning_ko": "세금",
+  "example_en": "I need to file my **tax** return before the deadline next week.",
+  "example_ko": "다음 주 마감 전에 세금 신고를 해야 해.",
+  "nuance_ko": "tax는 정부에 내는 세금이고 pay taxes(세금을 내다), income tax(소득세), sales tax(판매세), tax return(세금 신고서)처럼 쓰여요. 동사로는 '세금을 부과하다'이지만 'tax my patience'처럼 부담을 주다, 시험하다라는 비유로도 써요. 'before tax / after tax'는 세금 전·후, 'tax-free'는 면세, 'tax break'는 세금 감면이에요. 미국에서는 가격표에 세금이 별도로 붙는 경우가 많아서 'Is tax included?'가 유용한 질문이에요.",
+  "also": [
+   {
+    "w": "taxes",
+    "pos": "n",
+    "ko": "세금들",
+    "en": "We pay high **taxes** in this city."
+   },
+   {
+    "w": "taxation",
+    "pos": "n",
+    "ko": "과세, 세제",
+    "en": "The new **taxation** rules start next year."
+   }
+  ]
+ },
+ {
+  "w": "tea",
+  "pos": "n",
+  "meaning_ko": "차",
+  "example_en": "Would you like a cup of **tea** or something cold to drink?",
+  "example_ko": "차 한 잔 드실래요, 아니면 시원한 걸 드실래요?",
+  "nuance_ko": "tea는 찻잎을 우려낸 차이고 'a cup of tea'로 셉니다. 영국에서는 tea가 오후의 간단한 식사(afternoon tea)나 저녁 식사를 뜻하기도 해요. 허브차는 herbal tea, 홍차는 black tea, 녹차는 green tea예요. 'Not my cup of tea'는 내 취향이 아니라는 관용 표현이고 'spill the tea'는 미국 슬랭으로 가십을 털어놓다예요. 한국의 보리차나 유자차도 영어로 tea라고 하되 재료를 붙여 barley tea, citron tea라 해요.",
+  "also": [
+   {
+    "w": "teas",
+    "pos": "n",
+    "ko": "차 종류들",
+    "en": "The shop sells many different **teas**."
+   }
+  ]
+ },
+ {
+  "w": "teach",
+  "pos": "v",
+  "meaning_ko": "가르치다",
+  "example_en": "My uncle used to **teach** math at a high school in Busan.",
+  "example_ko": "우리 삼촌은 예전에 부산의 한 고등학교에서 수학을 가르쳤어.",
+  "nuance_ko": "teach는 지식이나 기술을 가르치다이고 변화형은 teach-taught-taught예요. teach + 사람 + 과목 / teach + 과목 + to + 사람 구조를 써요. 'teach someone how to ~'는 ~하는 법을 가르치다예요. learn(배우다)의 반대 방향이고 한국인이 teach me English를 learn me English라고 틀리는 경우가 있어요. 'teach yourself'는 독학하다, 'you can't teach an old dog new tricks'는 늙은 개에게 새 재주를 가르칠 수 없다는 속담이에요.",
+  "also": [
+   {
+    "w": "teacher",
+    "pos": "n",
+    "ko": "선생님",
+    "en": "My **teacher** gave us extra homework."
+   },
+   {
+    "w": "teaching",
+    "pos": "n",
+    "ko": "가르침, 교직",
+    "en": "She loves her **teaching** job."
+   }
+  ]
+ },
+ {
+  "w": "team",
+  "pos": "n",
+  "meaning_ko": "팀, 조",
+  "example_en": "Our **team** worked overtime all week to finish the project.",
+  "example_ko": "우리 팀은 프로젝트를 끝내려고 일주일 내내 야근했어.",
+  "nuance_ko": "team은 같은 목적으로 함께 일하거나 경기하는 팀이에요. 집합명사라서 미국에서는 단수 취급('The team is ready'), 영국에서는 복수도 허용('The team are ready')해요. 'join a team', 'team up with ~'(~와 협력하다), 'team player'(협동심 있는 사람)처럼 써요. 'There's no I in team'은 팀워크를 강조하는 격언이에요. 직장에서 'my team'은 내가 속한 팀을 뜻하고 'the sales team'처럼 부서명과 함께 써요.",
+  "also": [
+   {
+    "w": "teams",
+    "pos": "n",
+    "ko": "팀들",
+    "en": "Both **teams** played very well."
+   },
+   {
+    "w": "teamed",
+    "pos": "v",
+    "ko": "협력했다",
+    "en": "The two companies **teamed** up on the project."
+   }
+  ]
+ },
+ {
+  "w": "tear",
+  "pos": "v",
+  "meaning_ko": "찢다, 눈물",
+  "example_en": "Be careful not to **tear** the page when you turn it.",
+  "example_ko": "페이지를 넘길 때 찢어지지 않게 조심해.",
+  "nuance_ko": "tear는 발음에 따라 뜻이 달라요. /tɛr/은 '찢다'(변화형 tear-tore-torn), /tɪr/은 '눈물'이에요. 'tear apart'는 갈기갈기 찢다, 'tear down'은 철거하다, 'tear up'은 찢어 버리다 또는 눈물이 고이다예요. 'in tears'는 울고 있는, 'burst into tears'는 눈물을 왈칵 쏟다, 'wear and tear'는 마모와 손상을 뜻해요. 'torn between A and B'는 A와 B 사이에서 갈등하다라는 비유적 표현이에요.",
+  "also": [
+   {
+    "w": "torn",
+    "pos": "adj",
+    "ko": "찢어진",
+    "en": "He wore a pair of **torn** jeans."
+   },
+   {
+    "w": "tears",
+    "pos": "n",
+    "ko": "눈물들",
+    "en": "She wiped away her **tears**."
+   }
+  ]
+ },
+ {
+  "w": "telephone",
+  "pos": "n",
+  "meaning_ko": "전화, 전화하다",
+  "example_en": "I'll **telephone** you as soon as the meeting is over.",
+  "example_ko": "회의 끝나는 대로 전화할게.",
+  "nuance_ko": "telephone은 전화기와 전화 통화를 가리키는 격식 있는 단어이고 일상에서는 phone을 훨씬 많이 써요. 'on the telephone'(통화 중), 'telephone number'(전화번호), 'telephone call'처럼 쓰여요. 동사 telephone도 있지만 지금은 call이나 phone이 일반적이고 telephone은 약간 옛스러워요. 서류와 안내문에서 'Tel.'로 줄여 전화번호 앞에 써요. 휴대전화는 mobile phone(영국)이나 cell phone(미국)이라 하며 telephone이라고 부르면 유선 전화 느낌이 나요.",
+  "also": [
+   {
+    "w": "phone",
+    "pos": "n",
+    "ko": "전화기",
+    "en": "My **phone** died during the call."
+   },
+   {
+    "w": "phoned",
+    "pos": "v",
+    "ko": "전화했다",
+    "en": "She **phoned** me last night."
+   }
+  ]
+ },
+ {
+  "w": "television",
+  "pos": "n",
+  "meaning_ko": "텔레비전, TV",
+  "example_en": "We don't have a **television** at home, so we watch shows on a laptop.",
+  "example_ko": "우리 집엔 텔레비전이 없어서 노트북으로 방송을 봐.",
+  "nuance_ko": "television은 TV 수상기와 방송 매체 모두를 뜻하고 일상 대화에서는 TV나 영국에서 telly로 줄여 말해요. 방송을 볼 때는 watch television/TV이고 'on television'은 방송에서, 'turn on the TV'는 켜다예요. 보는 행위에 관사를 쓰지 않아 'watch the television'은 수상기 자체를 볼 때만 쓰는 일이 많아요. 'television set'는 수상기, 'television series'는 TV 시리즈예요. 강세는 첫음절 TEL-e-vi-sion이에요.",
+  "also": [
+   {
+    "w": "tv",
+    "pos": "n",
+    "ko": "TV",
+    "en": "What's on **TV** tonight?"
+   },
+   {
+    "w": "televised",
+    "pos": "adj",
+    "ko": "TV로 방송된",
+    "en": "The debate was **televised** live."
+   }
+  ]
+ },
+ {
+  "w": "tell",
+  "pos": "v",
+  "meaning_ko": "말하다, 알려주다",
+  "example_en": "Please **tell** me the truth. I won't be angry with you.",
+  "example_ko": "사실대로 말해줘. 화 안 낼게.",
+  "nuance_ko": "tell은 누군가에게 정보를 전달하다이고 변화형은 tell-told-told예요. tell + 사람 + 내용 구조라서 반드시 듣는 사람이 목적어로 와요(tell me a story). say는 내용을 목적어로 받고 tell은 사람을 목적어로 받는다는 점을 기억하세요. tell the truth(사실대로 말하다), tell a lie(거짓말하다), tell the difference(차이를 구별하다)가 자주 쓰여요. 'tell A from B'는 A와 B를 구별하다, 'I told you so'는 내가 그럴 줄 알았지라는 구어예요.",
+  "also": [
+   {
+    "w": "told",
+    "pos": "v",
+    "ko": "말했다",
+    "en": "She **told** me about the new plan."
+   },
+   {
+    "w": "telling",
+    "pos": "adj",
+    "ko": "의미심장한",
+    "en": "His silence was very **telling**."
+   }
+  ]
+ },
+ {
+  "w": "ten",
+  "pos": "num",
+  "meaning_ko": "열, 10",
+  "example_en": "The meeting is going to start in **ten** minutes, so let's hurry.",
+  "example_ko": "회의가 10분 후에 시작하니까 서두르자.",
+  "nuance_ko": "ten은 숫자 10이고 10진법의 기준이 되어 'top ten'(상위 10), 'ten out of ten'(10점 만점에 10점) 같은 표현에서 완벽함을 나타내요. 'Ten to one'은 십중팔구, 'a perfect ten'은 만점을 뜻해요. 십 단위는 thirteen, fourteen처럼 teen으로 끝나는 수와 thirty, forty처럼 ty로 끝나는 수가 발음에서 혼동되기 쉬워요. 시간으로 'ten past three'는 3시 10분, 'ten to three'는 3시 10분 전이에요. 서수는 tenth로 쓰고 th로 끝나요.",
+  "also": [
+   {
+    "w": "tenth",
+    "pos": "num",
+    "ko": "열 번째",
+    "en": "Our office is on the **tenth** floor."
+   }
+  ]
+ },
+ {
+  "w": "tend",
+  "pos": "v",
+  "meaning_ko": "~하는 경향이 있다, 돌보다",
+  "example_en": "I **tend** to forget names, so I write them down right away.",
+  "example_ko": "난 이름을 잘 잊어버리는 편이라 바로 적어둬.",
+  "nuance_ko": "tend는 'tend to + 동사원형'으로 '~하는 경향이 있다, ~하기 쉽다'는 습관적 성향을 말해요. always보다 약하고 usually와 비슷하게 일반적 경향을 나타내서 'Men tend to be taller than women'처럼 일반화에 쓰여요. 또 다른 뜻으로 타동사 tend는 '돌보다, 관리하다'(tend the garden, tend a fire)로 문어적이에요. 'tend to'는 자신의 성향이나 객관적 경향을 완곡하게 말할 때 좋고 명사형 tendency는 'a tendency to ~'(~하는 경향)로 써요.",
+  "also": [
+   {
+    "w": "tendency",
+    "pos": "n",
+    "ko": "경향",
+    "en": "He has a **tendency** to be late."
+   },
+   {
+    "w": "tended",
+    "pos": "v",
+    "ko": "~하는 경향이 있었다",
+    "en": "She **tended** to speak quietly."
+   }
+  ]
+ },
+ {
+  "w": "term",
+  "pos": "n",
+  "meaning_ko": "용어, 학기, 기간, 조건",
+  "example_en": "What's the technical **term** for this kind of problem?",
+  "example_ko": "이런 종류의 문제를 가리키는 전문 용어가 뭐야?",
+  "nuance_ko": "term은 뜻이 여러 가지라 문맥 파악이 중요해요. 용어(a technical term), 학기(the spring term), 기간(a long-term plan), 조건(terms and conditions), 관계(on good terms)로 쓰여요. 'in terms of ~'는 ~의 측면에서, 'come to terms with ~'는 ~을 받아들이다, 'in the long term'은 장기적으로예요. 영국에서는 학기를 term, 미국에서는 semester·quarter를 더 자주 써요. 계약서의 terms는 복수로 쓰여 조건을 뜻해요. midterm은 중간고사예요.",
+  "also": [
+   {
+    "w": "terms",
+    "pos": "n",
+    "ko": "조건, 용어들",
+    "en": "Please read the **terms** carefully."
+   },
+   {
+    "w": "midterm",
+    "pos": "n",
+    "ko": "중간고사",
+    "en": "I have a **midterm** on Monday."
+   }
+  ]
+ },
+ {
+  "w": "terrible",
+  "pos": "adj",
+  "meaning_ko": "끔찍한, 형편없는",
+  "example_en": "I had a **terrible** headache all day, so I couldn't focus on work.",
+  "example_ko": "하루 종일 두통이 끔찍해서 일에 집중할 수가 없었어.",
+  "nuance_ko": "terrible은 아주 나쁘거나 끔찍한 상황을 나타내는 강한 형용사예요. bad의 강조형으로 일상에서 감정을 과장해 표현하기도 해요(I feel terrible, 몸이 정말 안 좋아 또는 매우 미안해). 'terrible at ~'은 ~에 정말 서툴다(I'm terrible at cooking), 'terrible weather'는 최악의 날씨예요. awful, horrible과 비슷하며 terrible은 두려움·공포의 어원이 있어 더 무게감이 있어요. 'a terrible mistake'는 돌이킬 수 없는 큰 실수를 말해요.",
+  "also": [
+   {
+    "w": "terribly",
+    "pos": "adv",
+    "ko": "몹시, 끔찍하게",
+    "en": "I'm **terribly** sorry for the delay."
+   }
+  ]
+ },
+ {
+  "w": "test",
+  "pos": "n",
+  "meaning_ko": "시험, 검사, 테스트하다",
+  "example_en": "I have a big **test** tomorrow, so I can't go out tonight.",
+  "example_ko": "내일 큰 시험이 있어서 오늘 밤엔 못 나가.",
+  "nuance_ko": "test는 능력이나 지식을 확인하는 시험, 의학·과학의 검사, 소프트웨어의 테스트까지 쓰는 단어예요. take a test(시험을 치르다), pass/fail a test(합격/불합격), blood test(혈액 검사)처럼 쓰여요. exam은 큰 공식 시험, test는 작은 단위의 쪽지 시험까지 포함한다는 느낌이 있어요. 동사로 'test someone on ~'은 ~에 관해 시험하다, 'put to the test'는 시험대에 오르다예요. 'test run'은 시운전이나 시험 가동이에요.",
+  "also": [
+   {
+    "w": "testing",
+    "pos": "n",
+    "ko": "테스트, 검사",
+    "en": "The software is still in **testing**."
+   },
+   {
+    "w": "tested",
+    "pos": "adj",
+    "ko": "검증된",
+    "en": "This method has been **tested** many times."
+   }
+  ]
+ },
+ {
+  "w": "than",
+  "pos": "conj",
+  "meaning_ko": "~보다",
+  "example_en": "My brother is much taller **than** I am, even though he's younger.",
+  "example_ko": "내 동생은 나보다 어린데도 키가 훨씬 커.",
+  "nuance_ko": "than은 비교급 뒤에서 비교 대상을 나타내는 접속사·전치사예요. 'bigger than', 'more than', 'less than'처럼 쓰고 'than I' 또는 구어에서 'than me'가 모두 쓰여요. 한국 학습자가 자주 틀리는 점은 than 대신 that이나 to를 쓰는 것이고(superior to는 예외) 비교급에서는 반드시 than이에요. 'rather than'은 ~보다는, 'no sooner A than B'는 A하자마자 B라는 구문이에요. 'other than'은 ~이외에, 'more often than not'은 대개라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "thank",
+  "pos": "v",
+  "meaning_ko": "감사하다",
+  "example_en": "I want to **thank** everyone for coming to the party tonight.",
+  "example_ko": "오늘 밤 파티에 와주신 모든 분께 감사드리고 싶어요.",
+  "nuance_ko": "thank는 감사를 표하는 동사로 'thank + 사람 + for + 이유'가 기본이에요. 사람이 목적어라서 thank you, thank him이고 thank to you는 틀려요. 'Thank you'와 'Thanks'는 일상, 'Thank you very much'는 정중, 'Thanks a lot'은 친근하고 가벼운 표현이에요. 'thanks to ~'는 ~덕분에, 'thank God'은 다행이다라는 안도의 표현이에요. 'No, thank you'는 정중한 거절이고 'Thank you'만 답하면 승낙으로 들릴 수 있으니 주의하세요.",
+  "also": [
+   {
+    "w": "thanks",
+    "pos": "n",
+    "ko": "감사",
+    "en": "**Thanks** for your help yesterday."
+   },
+   {
+    "w": "thankful",
+    "pos": "adj",
+    "ko": "감사하는",
+    "en": "I'm **thankful** for my family."
+   }
+  ]
+ },
+ {
+  "w": "that",
+  "pos": "det",
+  "meaning_ko": "저것, 그, ~라는 것",
+  "example_en": "I didn't know **that** she had moved to another city.",
+  "example_ko": "난 그녀가 다른 도시로 이사 간 줄 몰랐어.",
+  "nuance_ko": "that은 지시대명사·지시형용사 '저/그', 접속사 '~라는 것', 관계대명사 '~하는'으로 쓰이는 다기능 단어예요. 구어에서는 접속사 that을 자주 생략해요(I think (that) it's fine). 'That's right', 'That's it'처럼 앞서 말한 내용을 가리키는 표현도 많아요. 이것(this)과 저것(that)은 심리적·물리적 거리 차이로 구분하고 복수형은 these/those예요. 'so that ~'는 ~하도록, 'now that ~'은 이제 ~이니까라는 접속 표현이에요.",
+  "also": [
+   {
+    "w": "those",
+    "pos": "det",
+    "ko": "저것들",
+    "en": "I'll take **those** shoes over there."
+   }
+  ]
+ },
+ {
+  "w": "the",
+  "pos": "det",
+  "meaning_ko": "그, 정해진 (정관사)",
+  "example_en": "Could you pass me **the** salt? It's right next to you.",
+  "example_ko": "소금 좀 건네줄래? 바로 네 옆에 있어.",
+  "nuance_ko": "the는 듣는 사람이 어떤 것인지 알고 있는 특정한 대상 앞에 붙이는 정관사예요. 처음 언급할 때는 a, 이미 언급한 것이나 상황에서 분명한 것에는 the를 써요(I bought a book. The book was great). 세상에 하나뿐인 것(the sun, the moon), 최상급(the best), 서수(the first), 악기(the piano) 앞에도 the가 붙어요. 한국어에는 관사가 없어서 가장 어려운 문법 중 하나이니 '서로 아는 그것'이라는 감각을 키우세요. 모음 앞에서는 /ði/, 자음 앞에서는 /ðə/로 발음해요.",
+  "also": []
+ },
+ {
+  "w": "then",
+  "pos": "adv",
+  "meaning_ko": "그때, 그러면, 그 다음에",
+  "example_en": "Finish your homework first, and **then** you can play games.",
+  "example_ko": "숙제 먼저 끝내고, 그 다음에 게임해도 돼.",
+  "nuance_ko": "then은 시간 순서(그 다음에), 과거나 미래의 특정 시점(그때), 논리적 결론(그러면)을 나타내는 부사예요. 'If you're tired, then go to bed'처럼 조건 뒤의 결론에도 써요. 대화에서 'Then what?'(그래서 어떻게 됐어?), 'See you then'(그때 보자), 'by then'(그때쯤이면)이 자주 나와요. than(~보다)과 철자가 비슷해서 혼동하기 쉬우니 시간·순서는 then, 비교는 than이에요. 'since then'은 그때 이후로 쭉이라는 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "there",
+  "pos": "adv",
+  "meaning_ko": "거기에, ~이 있다",
+  "example_en": "**There** are only two seats left, so we should book now.",
+  "example_ko": "자리가 두 개밖에 안 남았으니까 지금 예약해야 해.",
+  "nuance_ko": "there는 장소를 가리키는 부사 '거기에'와 존재를 나타내는 'there is/are ~'(~이 있다) 구문에서 쓰여요. 존재 구문에서 동사는 뒤에 오는 명사에 일치시켜서 'There is a book / There are two books'가 돼요. here의 반대이고 'over there'(저기)는 거리감을 강조해요. 'Hello there!'는 친근한 인사, 'There you go'는 건네줄 때나 해결됐을 때 하는 말, 'Hang in there'는 힘내라는 응원이에요. their(그들의), they're(그들은 ~이다)와 발음이 같아서 쓰기에서 헷갈리지 마세요.",
+  "also": []
+ },
+ {
+  "w": "they",
+  "pos": "pron",
+  "meaning_ko": "그들은, 그것들은",
+  "example_en": "**They** said the package would arrive by Friday, but it hasn't.",
+  "example_ko": "그쪽에서 택배가 금요일까지 올 거라고 했는데 아직 안 왔어.",
+  "nuance_ko": "they는 3인칭 복수 주어 대명사로 사람과 사물 모두를 가리켜요. 구어에서는 'They say ~'(사람들이 ~라고 하더라), 'they'(회사나 당국을 막연히 가리키는 말)처럼 구체적인 누군가를 지칭하지 않을 때도 많아요. 성 중립적인 한 사람을 가리키는 singular they도 널리 인정되어(Someone left their umbrella) 요즘은 he or she보다 자연스러워요. 변화형은 their(그들의), them(그들을), theirs(그들의 것), themselves(그들 자신)예요.",
+  "also": [
+   {
+    "w": "them",
+    "pos": "pron",
+    "ko": "그들을",
+    "en": "I'll call **them** tomorrow."
+   },
+   {
+    "w": "themselves",
+    "pos": "pron",
+    "ko": "그들 자신",
+    "en": "They built the house **themselves**."
+   }
+  ]
+ },
+ {
+  "w": "thick",
+  "pos": "adj",
+  "meaning_ko": "두꺼운, 굵은, 진한",
+  "example_en": "It's freezing outside, so wear a **thick** coat and a scarf.",
+  "example_ko": "밖이 꽁꽁 얼 정도로 추우니까 두꺼운 코트랑 목도리 해.",
+  "nuance_ko": "thick은 두께가 두껍다는 기본 뜻에서 액체가 진하다(thick soup), 숲이 빽빽하다(a thick forest), 안개가 짙다(thick fog), 억양이 강하다(a thick accent)로 확장돼요. 반대는 thin이고 사물의 두께를 말하며 'two inches thick'처럼 수치 뒤에 thick을 붙여요. 영국 구어에서는 'He's a bit thick'이 '머리가 둔하다'는 뜻의 무례한 표현이니 주의하세요. 'through thick and thin'은 좋을 때나 나쁠 때나 함께한다는 관용구예요.",
+  "also": [
+   {
+    "w": "thickness",
+    "pos": "n",
+    "ko": "두께",
+    "en": "The **thickness** of the wall is ten centimeters."
+   },
+   {
+    "w": "thicker",
+    "pos": "adj",
+    "ko": "더 두꺼운",
+    "en": "This book is **thicker** than that one."
+   }
+  ]
+ },
+ {
+  "w": "thing",
+  "pos": "n",
+  "meaning_ko": "것, 물건, 일",
+  "example_en": "The best **thing** about this city is how friendly people are.",
+  "example_ko": "이 도시에서 제일 좋은 건 사람들이 친절하다는 거야.",
+  "nuance_ko": "thing은 구체적인 물건뿐 아니라 일, 상황, 생각 등 거의 모든 것을 가리키는 가장 범용적인 명사예요. 'a good thing', 'the main thing', 'the first thing I did'처럼 쓰고, things는 '사정, 상황'(How are things?)이나 '소지품'(pack your things)을 뜻해요. 'The thing is, ~'는 말을 꺼낼 때 쓰는 완곡한 서두이고 'first things first'는 우선순위를 두자는 표현이에요. 'Do your own thing'은 네 방식대로 해라, 'for one thing'은 우선 한 가지 이유를 들자면이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "things",
+    "pos": "n",
+    "ko": "것들, 소지품",
+    "en": "I'll pack my **things** tonight."
+   }
+  ]
+ },
+ {
+  "w": "think",
+  "pos": "v",
+  "meaning_ko": "생각하다",
+  "example_en": "I **think** we should take a break and come back after lunch.",
+  "example_ko": "우리 잠깐 쉬고 점심 먹은 뒤에 다시 하는 게 좋겠다고 생각해.",
+  "nuance_ko": "think는 생각하다이고 변화형은 think-thought-thought예요. 'I think (that) ~'은 의견을 부드럽게 말하는 표현이고 부정은 'I don't think ~' 형태로 앞에서 부정해요. 'think of ~'는 떠올리다·~에 대해 생각하다, 'think about ~'은 곰곰이 생각하다, 'think over'는 숙고하다예요. 상태 동사로서의 think는 진행형을 쓰지 않아요(I think, not I am thinking). 'I'm thinking of -ing'는 ~할까 생각 중이라는 계획 단계를 나타내는 좋은 구어 표현이에요.",
+  "also": [
+   {
+    "w": "thought",
+    "pos": "n",
+    "ko": "생각",
+    "en": "That's a nice **thought**."
+   },
+   {
+    "w": "thoughtful",
+    "pos": "adj",
+    "ko": "사려 깊은",
+    "en": "It was a very **thoughtful** gift."
+   }
+  ]
+ },
+ {
+  "w": "thirst",
+  "pos": "n",
+  "meaning_ko": "갈증, 갈망",
+  "example_en": "After the long hike, we were dying of **thirst**.",
+  "example_ko": "긴 하이킹을 마치고 나니 목말라 죽을 지경이었어.",
+  "nuance_ko": "thirst는 목마름, 즉 갈증이라는 명사로 'quench your thirst'(갈증을 풀다)가 자주 나와요. 비유적으로 '강한 갈망'(a thirst for knowledge, 지식에 대한 갈증)을 뜻해요. 형용사 thirsty는 목마른이고 'I'm thirsty'가 가장 일상적이에요. 'thirsty'는 영어 슬랭으로 관심이나 인정에 목마른 사람을 놀릴 때도 쓰이지만 본래의 뜻을 먼저 알아두세요. hungry와 달리 thirst 자체는 문어적이고 일상에서는 형용사형이 훨씬 흔해요.",
+  "also": [
+   {
+    "w": "thirsty",
+    "pos": "adj",
+    "ko": "목마른",
+    "en": "I'm so **thirsty** after that run."
+   }
+  ]
+ },
+ {
+  "w": "thirteen",
+  "pos": "num",
+  "meaning_ko": "열셋, 13",
+  "example_en": "My daughter just turned **thirteen**, and she's already taller than me.",
+  "example_ko": "우리 딸이 방금 열세 살이 됐는데 벌써 나보다 키가 커.",
+  "nuance_ko": "thirteen은 13이고 서양에서는 불길한 숫자로 여겨지는 문화가 있어서 일부 건물은 13층을 건너뛰기도 해요. 13일의 금요일(Friday the 13th)은 불운의 날로 알려져 있어요. teen으로 끝나는 수(13~19)는 끝에 강세가 있고 ty로 끝나는 수(30~90)는 앞에 강세가 있어 듣기에서 thirteen과 thirty를 구분하는 연습이 필요해요. teenager(10대)는 thirteen부터 nineteen까지 teen이 들어가는 나이를 가리켜요. 서수는 thirteenth예요.",
+  "also": [
+   {
+    "w": "thirteenth",
+    "pos": "num",
+    "ko": "열세 번째",
+    "en": "The party is on the **thirteenth**."
+   }
+  ]
+ },
+ {
+  "w": "thirty",
+  "pos": "num",
+  "meaning_ko": "서른, 30",
+  "example_en": "It takes about **thirty** minutes to walk from my house to the station.",
+  "example_ko": "우리 집에서 역까지 걸어서 30분쯤 걸려.",
+  "nuance_ko": "thirty는 30이고 -teen으로 끝나는 수와 구별하기 위해 앞부분(THIR-ty)에 강세를 둬요. 나이에서 'in your thirties'(30대에), 'thirty-something'(30대의 누군가)처럼 십 단위 복수형 thirties를 써요. 시각에서 'half past three'를 숫자로 'three thirty'(3시 30분)라고 쓰는 일도 많아요. '30분'은 thirty minutes 또는 half an hour예요. 서수는 thirtieth이고 철자가 ty가 tieth로 바뀌는 규칙을 기억하세요.",
+  "also": [
+   {
+    "w": "thirties",
+    "pos": "n",
+    "ko": "30대",
+    "en": "She is in her early **thirties**."
+   }
+  ]
+ },
+ {
+  "w": "this",
+  "pos": "det",
+  "meaning_ko": "이, 이것",
+  "example_en": "**This** is the best pizza I've ever had in my whole life.",
+  "example_ko": "이거 내 평생 먹어본 피자 중에 최고야.",
+  "nuance_ko": "this는 가까이 있거나 지금 말하고 있는 것을 가리키는 지시어예요. 복수는 these이고 먼 것은 that/those예요. 시간 표현 this morning, this week, this year 앞에 전치사 없이 쓰여요. 전화에서 'This is Tom'은 저 톰입니다라고 자기소개하는 표현이고, 소개할 때 'This is my friend, Anna'를 써요(That is는 쓰지 않아요). 구어에서 'this' 하나로 이야기 속 새로운 인물을 소개하기도 해요(There's this guy who ~).",
+  "also": [
+   {
+    "w": "these",
+    "pos": "det",
+    "ko": "이것들",
+    "en": "I really like **these** shoes."
+   }
+  ]
+ },
+ {
+  "w": "though",
+  "pos": "conj",
+  "meaning_ko": "비록 ~이지만, 그래도",
+  "example_en": "I went for a run **though** it was raining heavily outside.",
+  "example_ko": "밖에 비가 많이 오는데도 불구하고 달리기하러 나갔어.",
+  "nuance_ko": "though는 '~이긴 하지만'을 뜻하는 접속사로 although와 거의 같아요. 구어에서는 문장 끝에 붙여 '그래도, 그렇지만'이라는 뜻의 부사로도 많이 써요(It's expensive, though). 'even though'는 although보다 강한 대조를 나타내고 'as though'는 마치 ~인 것처럼이에요. 'though'는 but과 달리 문장 뒤에 덧붙여 부드럽게 반전을 줘서 말이 한결 자연스러워져요. 비격식에서는 tho로 줄여 쓰기도 해요.",
+  "also": []
+ },
+ {
+  "w": "thousand",
+  "pos": "num",
+  "meaning_ko": "천, 1000",
+  "example_en": "The concert hall holds about two **thousand** people.",
+  "example_ko": "그 콘서트홀은 약 2천 명을 수용해.",
+  "nuance_ko": "thousand는 1,000이고 숫자와 함께 쓸 때는 복수형 s를 붙이지 않아요(three thousand people). 하지만 막연한 수를 말할 때는 thousands of people처럼 s와 of를 붙여요. 영어는 천 단위로 쉼표를 찍고 세기 때문에 한국어의 '만' 단위와 환산이 필요해요(10,000은 ten thousand). 'a thousand times'는 수없이, 'one in a thousand'는 천에 하나 있을 법한, 'a picture is worth a thousand words'는 백문이 불여일견과 같은 속담이에요.",
+  "also": [
+   {
+    "w": "thousands",
+    "pos": "n",
+    "ko": "수천",
+    "en": "**Thousands** of fans gathered outside."
+   }
+  ]
+ },
+ {
+  "w": "three",
+  "pos": "num",
+  "meaning_ko": "셋, 3",
+  "example_en": "I've been waiting here for almost **three** hours already.",
+  "example_ko": "여기서 벌써 거의 세 시간째 기다리고 있어.",
+  "nuance_ko": "three는 숫자 3이고 영어 관용구에 자주 나오는 숫자예요. 'three times a week'(주 3회), 'third time's the charm'(세 번째 시도에 성공한다), 'three's a crowd'(셋이면 어색하다)이 대표적이에요. 서수는 third로 불규칙 형태이고 분수에서 '3분의 1'은 one third예요. 'the Three Musketeers'처럼 이야기에서 3은 자주 등장하는 구성 숫자예요. 발음은 th /θ/가 어려워 혀를 이 사이에 넣고 내는 연습이 필요해요.",
+  "also": [
+   {
+    "w": "third",
+    "pos": "num",
+    "ko": "세 번째",
+    "en": "This is my **third** attempt."
+   },
+   {
+    "w": "thirds",
+    "pos": "n",
+    "ko": "3분의 1들",
+    "en": "Cut the cake into **thirds**."
+   }
+  ]
+ },
+ {
+  "w": "throat",
+  "pos": "n",
+  "meaning_ko": "목구멍, 목",
+  "example_en": "I have a sore **throat**, so I should stay home today.",
+  "example_ko": "목이 아파서 오늘은 집에 있어야겠어.",
+  "nuance_ko": "throat는 목의 안쪽, 즉 목구멍과 인후를 가리켜요. 겉으로 보이는 목은 neck이라서 구분해요. 'a sore throat'(목감기/인후통), 'clear your throat'(헛기침하다), 'cut one's throat'(목을 베다)가 자주 쓰여요. 'a lump in the throat'은 감정이 북받쳐 목이 메는 느낌이고 'jump down someone's throat'는 갑자기 화내며 공격하다예요. 'at each other's throats'는 서로 으르렁거리며 싸운다는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "throats",
+    "pos": "n",
+    "ko": "목구멍들",
+    "en": "Dry **throats** need plenty of water."
+   }
+  ]
+ },
+ {
+  "w": "through",
+  "pos": "prep",
+  "meaning_ko": "~을 통과하여, ~을 통해",
+  "example_en": "We drove **through** the tunnel and came out on the other side of the mountain.",
+  "example_ko": "우리는 터널을 지나서 산 반대편으로 나왔어.",
+  "nuance_ko": "through는 어떤 공간의 안을 통과해서 지나가는 그림이에요. 터널·문·숲을 통과하다, 시간 전체에 걸치다(through the night), 수단을 통하다(through a friend), 끝까지 마치다(get through the work)로 확장돼요. across는 표면을 가로지르는 것, through는 내부를 관통하는 것이라는 차이가 있어요. 미국에서 'Monday through Friday'는 월요일부터 금요일까지 포함해요. 구어에서는 thru로 쓰기도 해요(drive-thru). 'through and through'는 철두철미한이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "throughout",
+    "pos": "prep",
+    "ko": "~내내, 도처에",
+    "en": "It rained **throughout** the weekend."
+   }
+  ]
+ },
+ {
+  "w": "throw",
+  "pos": "v",
+  "meaning_ko": "던지다",
+  "example_en": "Can you **throw** the ball back to me? It went over the fence.",
+  "example_ko": "공 좀 다시 던져줄래? 울타리 너머로 넘어갔어.",
+  "nuance_ko": "throw는 손으로 물건을 던지는 동작이고 변화형은 throw-threw-thrown이에요. throw A to B는 B가 받을 수 있게 던지고 throw A at B는 B를 맞히려고 던지는 뜻이어서 전치사에 따라 의도가 달라져요. 'throw away'(버리다), 'throw up'(토하다), 'throw a party'(파티를 열다), 'throw a fit'(발작하듯 화내다) 등 관용 표현이 많아요. 'throw someone off'는 당황하게 만들다, 'throw in the towel'은 포기하다예요. 'a throw'는 던지기 한 번이에요.",
+  "also": [
+   {
+    "w": "thrown",
+    "pos": "v",
+    "ko": "던져진",
+    "en": "The ball was **thrown** over the fence."
+   },
+   {
+    "w": "threw",
+    "pos": "v",
+    "ko": "던졌다",
+    "en": "He **threw** the keys to me."
+   }
+  ]
+ },
+ {
+  "w": "thursday",
+  "pos": "n",
+  "meaning_ko": "목요일",
+  "example_en": "Let's have lunch together on **Thursday** if you're free.",
+  "example_ko": "시간 되면 목요일에 같이 점심 먹자.",
+  "nuance_ko": "Thursday는 목요일이고 요일 이름이라서 대문자로 써요. 철자가 th-u-r-s라서 많이 틀려요(Thurday가 아니라 Thursday). on Thursday(목요일에), on Thursdays(매주 목요일마다), last/next Thursday처럼 써요. 약어는 Thu. 또는 Thurs.예요. 'Throwback Thursday(#TBT)'는 인스타그램에서 목요일에 과거 사진을 올리는 놀이 문화예요. 미국의 추수감사절(Thanksgiving)은 11월 넷째 주 Thursday예요.",
+  "also": [
+   {
+    "w": "thursdays",
+    "pos": "n",
+    "ko": "목요일마다",
+    "en": "We have a team meeting on **Thursdays**."
+   }
+  ]
+ },
+ {
+  "w": "tie",
+  "pos": "v",
+  "meaning_ko": "묶다, 넥타이, 비기다",
+  "example_en": "Can you help me **tie** this scarf? I can never get it right.",
+  "example_ko": "이 스카프 좀 묶어줄래? 난 아무리 해도 잘 안 돼.",
+  "nuance_ko": "tie는 끈이나 줄로 묶는 동작(tie your shoes)이고 명사로는 넥타이, 동점(a tie), 유대(family ties)를 뜻해요. 'tie up'은 단단히 묶다/바쁘게 하다(I'm tied up, 바빠), 'tie the knot'은 결혼하다, 'tied for first'는 공동 1위예요. 경기에서 비기면 'The game ended in a tie'라고 해요. 'ties'는 복수로 인간관계나 연결고리('ties between two countries')를 뜻해요. 변화형 중 tying은 y로 바뀌는 규칙을 기억하세요.",
+  "also": [
+   {
+    "w": "tied",
+    "pos": "adj",
+    "ko": "묶인",
+    "en": "I'm **tied** up with work today."
+   },
+   {
+    "w": "ties",
+    "pos": "n",
+    "ko": "유대, 넥타이들",
+    "en": "The two countries have strong **ties**."
+   }
+  ]
+ },
+ {
+  "w": "tight",
+  "pos": "adj",
+  "meaning_ko": "꽉 끼는, 팽팽한, 빠듯한",
+  "example_en": "These jeans are too **tight**, so I need a bigger size.",
+  "example_ko": "이 청바지가 너무 꽉 껴서 더 큰 사이즈가 필요해.",
+  "nuance_ko": "tight는 꽉 조이거나 팽팽한 상태를 뜻하며 옷이 꽉 끼는 것(tight jeans), 단단히 잠겨 있는 것(a tight lid), 일정이 빡빡한 것(a tight schedule), 돈이 빠듯한 것(money is tight)을 모두 포함해요. 'Hold tight'는 단단히 붙잡아라 또는 잠시 기다려라, 'sleep tight'는 푹 자라는 인사예요. loose의 반대이고 'tight-knit'은 끈끈하게 결속된 집단을 가리켜요. 부사로 'hold on tight'처럼 -ly 없이도 쓰여요.",
+  "also": [
+   {
+    "w": "tightly",
+    "pos": "adv",
+    "ko": "단단히",
+    "en": "She held the child **tightly**."
+   },
+   {
+    "w": "tighten",
+    "pos": "v",
+    "ko": "조이다",
+    "en": "Please **tighten** the screws."
+   }
+  ]
+ },
+ {
+  "w": "till",
+  "pos": "prep",
+  "meaning_ko": "~까지",
+  "example_en": "I'll wait here **till** you come back from the store.",
+  "example_ko": "네가 가게에서 돌아올 때까지 여기서 기다릴게.",
+  "nuance_ko": "till은 until과 같은 뜻으로 '~까지'를 나타내는 전치사·접속사예요. 구어에서 더 흔하고 문두에 쓸 때는 Until이 더 격식 있어요. 'till now', 'till tomorrow', 'wait till I finish'처럼 시점이나 상황이 끝나는 때까지의 계속을 나타내요. 'by'는 기한 안에 완료를 뜻하지만 till은 그 시점까지 계속된다는 점이 달라요(Finish by five / Work till five). 명사 till은 '금전 등록기'라는 뜻도 있어요.",
+  "also": []
+ },
+ {
+  "w": "time",
+  "pos": "n",
+  "meaning_ko": "시간, 때, 번",
+  "example_en": "I don't have enough **time** to finish this before the deadline.",
+  "example_ko": "마감 전에 이걸 끝낼 시간이 충분하지 않아.",
+  "nuance_ko": "time은 가장 자주 쓰이는 명사 중 하나로 셀 수 없는 '시간'과 셀 수 있는 '횟수, 때'(three times)를 구별해야 해요. 'What time is it?'은 현재 시각을 묻고 'Do you have time?'은 여유가 있는지 물어요. 'on time'(정시에), 'in time'(제때에), 'at the same time'(동시에), 'all the time'(내내/늘), 'from time to time'(가끔), 'for the time being'(당분간) 같은 표현이 매우 많아요. 'have a good time'은 즐거운 시간을 보내다예요. 동사로는 '시간을 맞추다·측정하다'로도 써요.",
+  "also": [
+   {
+    "w": "times",
+    "pos": "n",
+    "ko": "횟수, 시대",
+    "en": "I've been there three **times**."
+   },
+   {
+    "w": "timing",
+    "pos": "n",
+    "ko": "시기, 타이밍",
+    "en": "The **timing** couldn't be better."
+   }
+  ]
+ },
+ {
+  "w": "tire",
+  "pos": "n",
+  "meaning_ko": "타이어, 피곤하게 하다",
+  "example_en": "I need to change a flat **tire** before we can leave.",
+  "example_ko": "출발하기 전에 펑크 난 타이어를 갈아야 해.",
+  "nuance_ko": "tire는 명사로 자동차 타이어(미국 철자, 영국은 tyre)이고 동사로는 피곤하게 하다·피곤해지다예요. 사람이 피곤한 것은 tired, 사람을 피곤하게 하는 것은 tiring으로 써요. 'tired of ~'은 ~에 질린(tired of waiting), 'tired out'은 녹초가 된이에요. 'tireless'는 지칠 줄 모르는이라는 칭찬이에요. 타이어 관련 표현으로 'a flat tire'(펑크), 'spare tire'(스페어 타이어)가 있고 'spare tire'는 배 둘레 군살을 비유하기도 해요.",
+  "also": [
+   {
+    "w": "tired",
+    "pos": "adj",
+    "ko": "피곤한",
+    "en": "I'm too **tired** to cook tonight."
+   },
+   {
+    "w": "tiring",
+    "pos": "adj",
+    "ko": "피곤하게 하는",
+    "en": "It was a long and **tiring** day."
+   }
+  ]
+ },
+ {
+  "w": "to",
+  "pos": "prep",
+  "meaning_ko": "~에게, ~로, ~하기 위해",
+  "example_en": "I'm planning to go **to** the gym after work today.",
+  "example_ko": "오늘 퇴근하고 헬스장에 갈 계획이야.",
+  "nuance_ko": "to는 방향·도착점을 나타내는 전치사('go to school')와 동사원형 앞에 붙는 부정사 to('want to eat')로 쓰이는 영어에서 가장 흔한 단어 중 하나예요. 전치사 to 뒤에는 명사나 -ing가 오는데, 'look forward to -ing'(~을 고대하다)처럼 to가 전치사인지 부정사인지 구별하는 게 중요해요. 시각에서 'ten to six'는 6시 10분 전, 비교에서 'prefer A to B'는 B보다 A를 선호하다예요. 발음은 약하게 /tə/로 하고 문장 끝에서만 /tuː/로 강하게 읽어요.",
+  "also": []
+ },
+ {
+  "w": "today",
+  "pos": "adv",
+  "meaning_ko": "오늘",
+  "example_en": "What are you planning to do **today** after work?",
+  "example_ko": "오늘 퇴근하고 뭐 할 계획이야?",
+  "nuance_ko": "today는 오늘이고 부사·명사로 모두 쓰여요. 'today's meeting'(오늘 회의), 'Today is my birthday'처럼 명사로도 쓰고 'I'll finish it today'는 부사로 써요. 'today' 앞에는 on을 붙이지 않고 전치사 없이 써요. '요즘'을 뜻할 때도 쓰여서 'young people today'는 오늘날의 젊은이들이라는 뜻이에요. 'as of today'는 오늘 부로, 'here today, gone tomorrow'는 덧없이 사라지는 것을 가리키는 관용구예요.",
+  "also": []
+ },
+ {
+  "w": "together",
+  "pos": "adv",
+  "meaning_ko": "함께, 같이",
+  "example_en": "Let's have dinner **together** on Friday if you're free.",
+  "example_ko": "시간 되면 금요일에 같이 저녁 먹자.",
+  "nuance_ko": "together는 둘 이상이 함께 하는 것을 나타내는 부사예요. 'go together', 'work together', 'live together'처럼 동사 뒤에 두고 'get together'는 모이다, 'put together'는 조립하다·준비하다, 'come together'는 하나로 뭉치다예요. with와 달리 together는 주어들이 같이 행동하는 느낌이 있어서 'I live with my parents / We live together'로 구분해요. 'Together we can do it'은 함께하면 해낼 수 있다는 격려의 말이에요. 비격식에서 'get it together'는 정신 차리고 일을 제대로 해내다예요.",
+  "also": [
+   {
+    "w": "togetherness",
+    "pos": "n",
+    "ko": "일체감, 유대감",
+    "en": "The trip gave us a sense of **togetherness**."
+   }
+  ]
+ },
+ {
+  "w": "tomorrow",
+  "pos": "adv",
+  "meaning_ko": "내일",
+  "example_en": "I have an important meeting **tomorrow**, so I need to sleep early.",
+  "example_ko": "내일 중요한 회의가 있어서 일찍 자야 해.",
+  "nuance_ko": "tomorrow는 내일이고 부사와 명사로 쓰여요. 'see you tomorrow', 'tomorrow morning/afternoon/night'처럼 전치사 없이 쓰고 tomorrow at 5, the day after tomorrow(모레)가 자주 나와요. 'Tomorrow is another day'는 내일은 또 다른 날이라는 위로이고, 'don't put off until tomorrow what you can do today'는 오늘 할 일을 내일로 미루지 말라는 속담이에요. 비유적으로 'the leaders of tomorrow'는 미래의 지도자들이에요.",
+  "also": []
+ },
+ {
+  "w": "tonight",
+  "pos": "adv",
+  "meaning_ko": "오늘 밤",
+  "example_en": "Are you free **tonight**, or do you have other plans?",
+  "example_ko": "오늘 밤에 시간 돼, 아니면 다른 계획 있어?",
+  "nuance_ko": "tonight는 오늘 저녁부터 밤 사이를 가리켜요. 'See you tonight', 'tonight's game'처럼 전치사 없이 쓰이고 'at night'(밤에 일반적으로)과 구별돼요. 'last night'은 어젯밤이고 'tonight'은 오늘 밤이에요. 늦은 오후나 저녁에 쓰고 낮에는 this evening이 더 자연스러운 경우가 있어요. 'Tonight's the night'은 오늘이 바로 그 날이다라는 기대를 나타내고, 쇼 프로그램 이름처럼 'The Tonight Show'에서도 볼 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "too",
+  "pos": "adv",
+  "meaning_ko": "너무, 또한",
+  "example_en": "This soup is **too** salty; could I get some water, please?",
+  "example_ko": "이 수프가 너무 짜요, 물 좀 주시겠어요?",
+  "nuance_ko": "too는 '너무 ~한'(too hot)이라는 지나침과 '또한'(Me too)이라는 두 뜻이 있어요. 지나침은 부정적 느낌이 있어서 'too expensive'는 비싸서 못 산다는 뉘앙스이고, very는 중립적인 강조예요. 'too ~ to + 동사원형'은 너무 ~해서 ~할 수 없다는 구문이에요(too tired to drive). '또한'의 too는 문장 끝에 오고 쉼표로 구분하기도 해요. 'Me too'는 나도 그래라는 동의의 말이에요. 'too much'(너무 많은)와 'much too'(훨씬 너무)의 어순 차이도 알아두세요.",
+  "also": []
+ },
+ {
+  "w": "tooth",
+  "pos": "n",
+  "meaning_ko": "이, 치아",
+  "example_en": "I have to see the dentist because my **tooth** has been hurting all week.",
+  "example_ko": "일주일 내내 이가 아파서 치과에 가야 해.",
+  "nuance_ko": "tooth는 치아 하나이고 복수형은 불규칙하게 teeth로 변해요. 'brush your teeth'(이를 닦다), 'have a toothache'(치통이 있다), 'pull a tooth'(이를 뽑다)처럼 쓰여요. 'sweet tooth'는 단 것을 좋아하는 취향, 'by the skin of your teeth'는 간신히, 'tooth and nail'은 필사적으로(fight tooth and nail)라는 관용구예요. 어린이의 젖니는 baby tooth 또는 milk tooth이고 사랑니는 wisdom tooth예요. 치약은 toothpaste, 칫솔은 toothbrush예요.",
+  "also": [
+   {
+    "w": "teeth",
+    "pos": "n",
+    "ko": "치아들",
+    "en": "Don't forget to brush your **teeth**."
+   }
+  ]
+ },
+ {
+  "w": "top",
+  "pos": "n",
+  "meaning_ko": "꼭대기, 위, 최고의",
+  "example_en": "We climbed to the **top** of the hill just in time for the sunrise.",
+  "example_ko": "우리는 딱 맞춰 일출 시간에 언덕 꼭대기에 올랐어.",
+  "nuance_ko": "top은 가장 높은 곳이나 위쪽, 가장 높은 지위나 등급을 뜻해요. 명사(the top of the page), 형용사(the top student, top priority), 동사(top the chart, 차트 1위를 하다)로 두루 쓰여요. 'on top of ~'은 ~의 위에 또는 ~에 더해서/~을 장악하고 있는(on top of things, 일을 제대로 파악하고 있는)이에요. 'at the top of your voice'는 목청껏, 'top-notch'는 일류의, 'over the top'은 지나치게 과한이라는 구어예요. 의류에서 top은 상의를 가리켜요.",
+  "also": [
+   {
+    "w": "tops",
+    "pos": "n",
+    "ko": "최고, 상의들",
+    "en": "For service, this place is **tops**."
+   },
+   {
+    "w": "topped",
+    "pos": "v",
+    "ko": "덮었다, 1위를 했다",
+    "en": "The song **topped** the chart for weeks."
+   }
+  ]
+ },
+ {
+  "w": "total",
+  "pos": "n",
+  "meaning_ko": "합계, 전체의",
+  "example_en": "The **total** comes to forty dollars including tax and tip.",
+  "example_ko": "세금이랑 팁 포함해서 총 40달러야.",
+  "nuance_ko": "total은 전체, 합계라는 명사와 '전체의, 완전한'(a total failure)이라는 형용사, '합산하다'(total up)라는 동사로 쓰여요. 'in total'은 합쳐서, 'the total cost'는 총비용, 'a total of ~'는 총 ~예요. 구어에서 'total'은 강조 형용사로 쓰여 'He's a total stranger'는 완전히 모르는 사람이라는 뜻이에요. 부사 totally도 구어에서 '완전히, 정말'의 뜻으로 많이 쓰여요(I totally agree). 영국은 totalling, 미국은 totaling 철자를 써요.",
+  "also": [
+   {
+    "w": "totally",
+    "pos": "adv",
+    "ko": "완전히",
+    "en": "I **totally** forgot about the meeting."
+   },
+   {
+    "w": "totals",
+    "pos": "n",
+    "ko": "합계들",
+    "en": "Please check the **totals** again."
+   }
+  ]
+ },
+ {
+  "w": "touch",
+  "pos": "v",
+  "meaning_ko": "만지다, 감동시키다, 연락",
+  "example_en": "Please don't **touch** the paintings; they are very fragile.",
+  "example_ko": "그림 만지지 마세요, 아주 깨지기 쉬운 거예요.",
+  "nuance_ko": "touch는 손이나 몸으로 닿는 동작이고 감정적으로 감동을 주다(I was touched by your letter)로 확장돼요. 명사로 'get in touch with ~'(~와 연락하다), 'keep in touch'(연락하고 지내다), 'lose touch'(연락이 끊기다)가 중요한 표현이에요. 'touch on ~'은 ~을 간단히 언급하다, 'touch up'은 살짝 손보다, 'touch and go'는 아슬아슬한 상태예요. 'a personal touch'는 개인적인 정성을 뜻하고 'the finishing touch'는 마무리 손질이에요.",
+  "also": [
+   {
+    "w": "touched",
+    "pos": "adj",
+    "ko": "감동한",
+    "en": "I was deeply **touched** by his kindness."
+   },
+   {
+    "w": "touching",
+    "pos": "adj",
+    "ko": "감동적인",
+    "en": "It was a very **touching** speech."
+   }
+  ]
+ },
+ {
+  "w": "toward",
+  "pos": "prep",
+  "meaning_ko": "~를 향하여, ~쪽으로",
+  "example_en": "She walked **toward** the door and then suddenly stopped.",
+  "example_ko": "그녀는 문 쪽으로 걸어가다가 갑자기 멈췄어.",
+  "nuance_ko": "toward는 방향을 나타내는 전치사로 '~쪽으로, ~를 향해'를 뜻해요. to가 도착점이라면 toward는 그쪽 방향으로 향하지만 도착은 아직 안 한 느낌이에요. 미국에서는 toward, 영국에서는 towards를 선호하지만 의미는 같아요. 시간에서 'toward the end of the year'(연말 무렵에), 태도에서 'attitude toward work'(일에 대한 태도), 목적에서 'save money toward a car'(차 구입을 위해 저축하다)처럼 쓰여요.",
+  "also": [
+   {
+    "w": "towards",
+    "pos": "prep",
+    "ko": "~쪽으로(영국식)",
+    "en": "He walked **towards** the exit."
+   }
+  ]
+ },
+ {
+  "w": "town",
+  "pos": "n",
+  "meaning_ko": "마을, 시내, 도시",
+  "example_en": "I grew up in a small **town** where everybody knew each other.",
+  "example_ko": "난 모두가 서로 아는 작은 마을에서 자랐어.",
+  "nuance_ko": "town은 village보다 크고 city보다 작은 마을·소도시예요. 'downtown'(시내 중심가), 'go into town'(시내에 나가다), 'out of town'(출타 중인), 'in town'(시내에 와 있는), 'hometown'(고향), 'town hall'(시청/마을회관)처럼 많이 써요. 한국의 '시'나 '읍'을 번역할 때 town과 city를 상황에 맞게 골라야 해요. 'the talk of the town'은 화제의 중심이 된 사람·일, 'paint the town red'는 흥겹게 밤새 놀다예요.",
+  "also": [
+   {
+    "w": "towns",
+    "pos": "n",
+    "ko": "마을들",
+    "en": "Small **towns** often have a strong community."
+   }
+  ]
+ },
+ {
+  "w": "track",
+  "pos": "n",
+  "meaning_ko": "길, 선로, 추적하다",
+  "example_en": "I use an app to **track** how many steps I walk every day.",
+  "example_ko": "매일 몇 걸음 걷는지 앱으로 기록해.",
+  "nuance_ko": "track은 명사로 길·선로·트랙·곡(음악 트랙), 동사로 추적하다·기록하다를 뜻해요. 'keep track of ~'(~을 계속 파악하다), 'lose track of ~'(~을 놓치다/잊다), 'on track'(순조롭게 진행 중), 'off track'(궤도를 벗어난), 'track record'(실적)가 중요한 표현이에요. 택배 조회는 'track my package'이고 'fast track'은 신속 처리 과정이에요. 'cover your tracks'는 흔적을 감추다, 'stop in one's tracks'는 그 자리에 멈춰 서다예요.",
+  "also": [
+   {
+    "w": "tracking",
+    "pos": "n",
+    "ko": "추적, 조회",
+    "en": "I'm checking the **tracking** number."
+   },
+   {
+    "w": "tracks",
+    "pos": "n",
+    "ko": "선로, 곡들",
+    "en": "The album has twelve **tracks**."
+   }
+  ]
+ },
+ {
+  "w": "train",
+  "pos": "n",
+  "meaning_ko": "기차, 훈련하다",
+  "example_en": "I take the early **train** to work every morning to avoid the crowd.",
+  "example_ko": "사람 몰리는 걸 피하려고 매일 아침 이른 기차를 타고 출근해.",
+  "nuance_ko": "train은 열차이면서 동사로 '훈련하다, 교육하다'예요. take the train(기차를 타다), by train(기차로, 관사 없음), miss the train(기차를 놓치다)처럼 써요. 'train of thought'는 생각의 흐름, 'a train wreck'는 엉망진창인 상황이라는 비유예요. 사람을 훈련시키는 trainer(트레이너)와 훈련받는 사람 trainee(교육생)가 있어요. 'train for a marathon'처럼 대회 준비 훈련에도 써요. 'on the right track'은 올바른 방향이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "training",
+    "pos": "n",
+    "ko": "훈련, 교육",
+    "en": "The staff go through **training** each year."
+   },
+   {
+    "w": "trainer",
+    "pos": "n",
+    "ko": "트레이너, 조련사",
+    "en": "My **trainer** helps me stay in shape."
+   }
+  ]
+ },
+ {
+  "w": "travel",
+  "pos": "v",
+  "meaning_ko": "여행하다, 이동하다",
+  "example_en": "I love to **travel** to new countries and try the local food.",
+  "example_ko": "난 새로운 나라로 여행 가서 현지 음식을 먹어보는 걸 좋아해.",
+  "nuance_ko": "travel은 먼 곳을 오가는 여행·이동 전반을 말하는 동사이고 명사로는 셀 수 없는 '여행'(air travel, business travel)을 뜻해요. 한 번의 여행은 trip이나 journey를 쓰고 travel은 개념적으로 쓰이므로 'a travel'은 어색해요. 'travel by train', 'travel abroad', 'travel light'(짐 가볍게 여행하다)가 자주 쓰여요. 빛이나 소식도 'Light travels faster than sound', 'Bad news travels fast'처럼 이동한다는 뜻으로 써요. 철자는 미국 traveling, 영국 travelling이에요.",
+  "also": [
+   {
+    "w": "traveller",
+    "pos": "n",
+    "ko": "여행자(영국식)",
+    "en": "The hotel is popular with solo **travellers**."
+   },
+   {
+    "w": "travels",
+    "pos": "n",
+    "ko": "여행(복수)",
+    "en": "She wrote a book about her **travels**."
+   }
+  ]
+ },
+ {
+  "w": "treat",
+  "pos": "v",
+  "meaning_ko": "대하다, 치료하다, 대접하다",
+  "example_en": "Let me **treat** you to dinner to say thanks for your help.",
+  "example_ko": "도와줘서 고마운 마음으로 내가 저녁 살게.",
+  "nuance_ko": "treat는 대하다, 취급하다, 치료하다, 한턱내다까지 다양한 뜻이 있어요. 'treat someone well/badly'는 사람을 잘/나쁘게 대하다, 'treat a patient'는 환자를 치료하다, 'treat someone to ~'는 ~를 대접하다예요. 명사 treat는 특별한 대접이나 즐거움을 뜻해서 'It's my treat'(내가 살게), 'a special treat'(특별한 선물), 'trick or treat'(핼러윈 사탕)로 쓰여요. 'treat A as B'는 A를 B로 취급하다예요. 병원에서는 treatment가 치료를 뜻해요.",
+  "also": [
+   {
+    "w": "treatment",
+    "pos": "n",
+    "ko": "치료, 대우",
+    "en": "She is receiving **treatment** at the hospital."
+   },
+   {
+    "w": "treated",
+    "pos": "v",
+    "ko": "대했다, 치료했다",
+    "en": "He was **treated** with respect."
+   }
+  ]
+ }
+]

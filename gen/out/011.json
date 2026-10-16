@@ -1,0 +1,1420 @@
+[
+ {
+  "w": "bless",
+  "pos": "v",
+  "meaning_ko": "축복하다, 은총을 내리다",
+  "example_en": "May God **bless** you and your family this holiday season.",
+  "example_ko": "이번 연휴에 당신과 가족께 신의 축복이 있기를 바랍니다.",
+  "nuance_ko": "bless는 신이나 누군가가 좋은 일을 내려 주길 바라거나, 은혜를 내린다는 종교적 뜻의 동사예요. 일상에서는 재채기한 사람에게 Bless you!라고 말하는 인사로 가장 많이 만나요. 한국어 '축복하다'보다 훨씬 가벼운 인사말이라 종교와 상관없이 써요. be blessed with는 '~를 타고나다, ~의 복을 누리다'라는 뜻이라서 She is blessed with good health처럼 써요. 과거분사 blessed는 [블레스트]나 [블레시드]로 읽는데, 형용사로 쓸 때는 [블레시드]예요. 구어체에서 Bless her!는 귀여운 사람에게 감탄할 때도 써요.",
+  "also": [
+   {
+    "w": "blessing",
+    "pos": "n",
+    "ko": "축복, 다행스러운 일",
+    "en": "Rain was a **blessing** after the long drought."
+   },
+   {
+    "w": "blessed",
+    "pos": "adj",
+    "ko": "축복받은",
+    "en": "We feel truly **blessed** to have such good friends."
+   }
+  ]
+ },
+ {
+  "w": "blind",
+  "pos": "adj",
+  "meaning_ko": "눈이 먼, 맹목적인",
+  "example_en": "He went **blind** in one eye after the accident.",
+  "example_ko": "그 사고 이후로 한쪽 눈이 안 보이게 됐어.",
+  "nuance_ko": "blind는 시각을 잃은 상태이거나 어떤 것을 보지 못하는 맹목적인 상태를 뜻해요. go blind(실명하다), blind to the problem(문제를 못 보는)처럼 써요. the blind는 '시각장애인들'을 가리키지만 요즘은 visually impaired를 더 조심스럽게 써요. blind date는 소개팅, blind spot은 운전 시 사각지대예요. 창문에 달린 가리개인 blinds라는 명사도 있어요. 비유적으로 blind trust는 '무조건적인 신뢰'라는 뜻이에요.",
+  "also": [
+   {
+    "w": "blindly",
+    "pos": "adv",
+    "ko": "맹목적으로",
+    "en": "Don't **blindly** follow the instructions."
+   },
+   {
+    "w": "blindness",
+    "pos": "n",
+    "ko": "실명, 맹목",
+    "en": "Color **blindness** is more common in men."
+   }
+  ]
+ },
+ {
+  "w": "block",
+  "pos": "n",
+  "meaning_ko": "블록, 구역, 막다",
+  "example_en": "The bank is just two **blocks** from here.",
+  "example_ko": "은행은 여기서 두 블록밖에 안 떨어져 있어.",
+  "nuance_ko": "block은 덩어리 모양의 물건, 도로로 나뉜 한 구역, 그리고 막는 행위를 뜻해요. 미국에서 길을 알려줄 때 two blocks away가 거리 표현으로 아주 흔해요. 동사로는 길이나 시야를 막다, 사람을 차단하다라는 뜻이라서 block someone on social media라고 해요. a block of ice, a block of text처럼 덩어리를 셀 때도 써요. writer's block은 글이 막혀 안 나오는 상태예요. 길이 막혔을 때는 be blocked로 말하고, 교통 정체 자체는 traffic jam이라고 해요.",
+  "also": [
+   {
+    "w": "blocked",
+    "pos": "adj",
+    "ko": "막힌",
+    "en": "My nose is completely **blocked**."
+   },
+   {
+    "w": "blockage",
+    "pos": "n",
+    "ko": "막힘, 장애물",
+    "en": "A **blockage** in the pipe caused the leak."
+   }
+  ]
+ },
+ {
+  "w": "blonde",
+  "pos": "adj",
+  "meaning_ko": "금발의",
+  "example_en": "She dyed her hair **blonde** for the summer.",
+  "example_ko": "그녀는 여름이라고 머리를 금발로 염색했어.",
+  "nuance_ko": "blonde는 밝은 노란빛 머리카락을 가리켜요. 철자가 blond와 blonde 두 가지인데, 전통적으로 blond는 남성이나 중성, blonde는 여성에게 쓰지만 요즘은 구분이 느슨해요. 명사로 She's a blonde처럼 금발 여성을 가리킬 때는 고정관념이 섞인 말이라 조심하는 편이 좋아요. 머리색을 말할 때는 보통 have blonde hair라고 말해요. 갈색 머리는 brown, 붉은 머리는 red나 ginger예요. dumb blonde 같은 편견 섞인 표현은 쓰지 않는 게 좋아요.",
+  "also": [
+   {
+    "w": "blond",
+    "pos": "adj",
+    "ko": "금발의(남성형 표기)",
+    "en": "The little boy has soft **blond** hair."
+   }
+  ]
+ },
+ {
+  "w": "bloom",
+  "pos": "v",
+  "meaning_ko": "꽃이 피다, 번창하다",
+  "example_en": "The cherry trees **bloom** in early April here.",
+  "example_ko": "여기서는 4월 초에 벚꽃이 펴.",
+  "nuance_ko": "bloom은 꽃이 활짝 피는 상태를 가리키는 동사이자 명사예요. in bloom은 '꽃이 만발한' 상태이고 come into bloom은 '꽃이 피기 시작하다'예요. 비유적으로 사람이나 재능이 꽃을 피울 때도 쓰여 a late bloomer는 늦게 재능을 발휘하는 사람이에요. flower는 꽃 자체를 가리키고 bloom은 피어 있는 모습이나 그 순간에 가까워요. blossom은 주로 과일나무의 꽃이에요. 봄 풍경이나 정원 이야기에서 자주 나와요.",
+  "also": [
+   {
+    "w": "blooming",
+    "pos": "adj",
+    "ko": "꽃이 핀, 한창인",
+    "en": "The garden is **blooming** with tulips."
+   }
+  ]
+ },
+ {
+  "w": "boil",
+  "pos": "v",
+  "meaning_ko": "끓이다, 삶다",
+  "example_en": "**Boil** the pasta for ten minutes, then drain it.",
+  "example_ko": "파스타를 10분간 삶고 물을 빼 줘.",
+  "nuance_ko": "boil은 액체가 끓거나 음식을 끓는 물에 익히는 동작이에요. 자동사와 타동사로 모두 쓰여 The water is boiling과 Boil the eggs 모두 가능해요. boil over는 '끓어 넘치다'인데 감정이 폭발한다는 비유로도 써요. boil down to는 '결국 ~로 요약되다'라는 구동사예요. 물이 끓는 상태는 boiling, 끓는점은 boiling point예요. 한국어 '삶다'와 '끓이다'가 모두 boil로 통한다는 점이 다르죠. 몹시 더운 날에는 It's boiling hot!라고 말해요.",
+  "also": [
+   {
+    "w": "boiling",
+    "pos": "adj",
+    "ko": "끓는, 몹시 더운",
+    "en": "It's **boiling** in here. Can we open a window?"
+   },
+   {
+    "w": "boiler",
+    "pos": "n",
+    "ko": "보일러",
+    "en": "Our **boiler** broke down last winter."
+   }
+  ]
+ },
+ {
+  "w": "bomb",
+  "pos": "n",
+  "meaning_ko": "폭탄, 폭격하다",
+  "example_en": "The police found a **bomb** near the old station.",
+  "example_ko": "경찰이 오래된 역 근처에서 폭탄을 발견했어.",
+  "nuance_ko": "bomb는 폭탄이고 동사로 폭탄을 투하하거나 공습한다는 뜻이에요. 뒤의 b는 발음하지 않아서 [밤]이라고 읽어요. 구어체에서 The movie was a bomb은 '대실패한 영화'라는 뜻이고, 영국식에서는 반대로 the bomb이 '최고'라는 속어로도 쓰여요. 시험을 망쳤다는 뜻으로 I bombed the test라고도 해요. bomb threat은 폭탄 위협이에요. 문맥이 달라서 뜻이 정반대일 수 있으니 주의하세요.",
+  "also": [
+   {
+    "w": "bombing",
+    "pos": "n",
+    "ko": "폭격, 폭탄 테러",
+    "en": "The city suffered a heavy **bombing**."
+   },
+   {
+    "w": "bomber",
+    "pos": "n",
+    "ko": "폭격기",
+    "en": "A **bomber** flew over the coast."
+   }
+  ]
+ },
+ {
+  "w": "bond",
+  "pos": "n",
+  "meaning_ko": "유대, 결속, 채권",
+  "example_en": "Sharing a hobby helped us build a strong **bond**.",
+  "example_ko": "같은 취미를 나누면서 우리는 끈끈한 유대를 쌓았어.",
+  "nuance_ko": "bond는 사람들 사이의 정서적 연결, 즉 유대를 뜻해요. form a bond, a strong bond, parent-child bond처럼 써요. 금융에서는 정부나 회사가 발행하는 채권을 뜻하고, 화학에서는 원자 사이의 결합이에요. 동사로는 서로 마음을 터놓고 친해지는 것을 말해서 bond over coffee, bond with the baby라고 해요. tie도 비슷하지만 bond는 더 깊고 잘 끊어지지 않는 느낌이에요. 뉴스에서는 treasury bonds(국채) 같은 경제 용어로 나와요.",
+  "also": [
+   {
+    "w": "bonding",
+    "pos": "n",
+    "ko": "유대 형성",
+    "en": "The trip was great for team **bonding**."
+   }
+  ]
+ },
+ {
+  "w": "boom",
+  "pos": "n",
+  "meaning_ko": "붐, 급성장, 쾅 하는 소리",
+  "example_en": "The city is enjoying a **boom** in tourism this year.",
+  "example_ko": "올해 그 도시는 관광 호황을 누리고 있어.",
+  "nuance_ko": "boom은 갑작스러운 호황이나 폭발적인 유행, 또는 큰 소리를 뜻해요. baby boom은 출산율이 급증한 시기이고, economic boom은 경기 호황이에요. boom and bust는 호황과 불황의 반복이에요. 소리로는 천둥이나 폭발음처럼 낮고 크게 울리는 소리라서 a loud boom이라고 해요. 동사로 business is booming은 '사업이 잘 나간다'는 뜻이에요. 한국어 '붐이 일다'와 비슷하지만 영어는 경제 맥락이 강해요.",
+  "also": [
+   {
+    "w": "booming",
+    "pos": "adj",
+    "ko": "급성장하는, 우렁찬",
+    "en": "He has a **booming** voice."
+   }
+  ]
+ },
+ {
+  "w": "boot",
+  "pos": "n",
+  "meaning_ko": "부츠, 차 트렁크, 부팅하다",
+  "example_en": "I bought a pair of waterproof **boots** for hiking.",
+  "example_ko": "등산용 방수 부츠를 샀어.",
+  "nuance_ko": "boot는 목이 긴 신발인 부츠를 뜻해요. 영국식에서는 자동차 트렁크를 boot라고 해서 put the bags in the boot라고 해요. 컴퓨터에서는 boot up이 부팅하다라는 뜻이에요. 구어체로 boot someone out은 '쫓아내다'이고, get the boot는 해고당한다는 뜻이에요. 장화는 rubber boots 또는 wellies로 부르기도 해요. 발로 세게 차는 동작도 동사 boot로 표현해요.",
+  "also": []
+ },
+ {
+  "w": "borrow",
+  "pos": "v",
+  "meaning_ko": "빌리다",
+  "example_en": "Can I **borrow** your charger for a minute?",
+  "example_ko": "충전기 잠깐 빌려도 될까?",
+  "nuance_ko": "borrow는 남의 물건을 잠시 빌려 쓴다는 뜻이에요. 빌려주는 쪽은 lend이고 빌리는 쪽은 borrow라서 I borrowed a book from her와 She lent me a book은 같은 상황이에요. 이 방향을 헷갈려 Can I lend your pen?이라고 하면 틀려요. 돈을 빌릴 때도 borrow money from the bank를 써요. rent는 돈을 내고 빌리는 것이라서 borrow와 구분돼요. 단어를 다른 언어에서 가져다 쓸 때도 borrow를 써요.",
+  "also": [
+   {
+    "w": "borrower",
+    "pos": "n",
+    "ko": "차용인, 빌리는 사람",
+    "en": "The bank checks every **borrower** carefully."
+   }
+  ]
+ },
+ {
+  "w": "boss",
+  "pos": "n",
+  "meaning_ko": "상사, 사장",
+  "example_en": "My **boss** let me leave early today.",
+  "example_ko": "오늘은 상사가 일찍 퇴근하게 해줬어.",
+  "nuance_ko": "boss는 직장에서 나를 관리하는 사람, 즉 상사를 가리키는 가장 일상적인 단어예요. my boss라고 말하고, 직접 부를 때는 이름이나 직함을 써요. manager는 직책이고, boss는 관계를 나타내는 말이에요. 동사 boss around는 '이래라저래라 시키다'라는 뜻이라서 He likes to boss people around라고 해요. 구어체로 like a boss는 멋지게 해냈다는 뜻이에요. 형용사 bossy는 '명령하기 좋아하는'이라서 부정적이에요.",
+  "also": [
+   {
+    "w": "bossy",
+    "pos": "adj",
+    "ko": "명령조인",
+    "en": "My little sister can be really **bossy**."
+   }
+  ]
+ },
+ {
+  "w": "bounce",
+  "pos": "v",
+  "meaning_ko": "튀다, 튀기다",
+  "example_en": "The ball **bounced** over the fence into the yard.",
+  "example_ko": "공이 튀어서 울타리를 넘어 마당으로 들어갔어.",
+  "nuance_ko": "bounce는 공처럼 탄력 있게 튀거나 튀기다라는 동사예요. bounce back은 '회복하다, 다시 일어서다'라는 비유로 자주 써요. 이메일이 수신 실패로 되돌아올 때도 bounce라고 해요. 수표가 부도나는 것도 bounce a check예요. bounce an idea off someone은 '의견을 구하며 말해 보다'는 구어 표현이에요. 명사 bounce는 튀는 동작이고, 건물 입구 경비는 bouncer예요.",
+  "also": [
+   {
+    "w": "bouncer",
+    "pos": "n",
+    "ko": "경비원",
+    "en": "The **bouncer** checked our IDs at the door."
+   }
+  ]
+ },
+ {
+  "w": "bow",
+  "pos": "v",
+  "meaning_ko": "절하다, 고개 숙이다",
+  "example_en": "The actors **bowed** to the audience after the show.",
+  "example_ko": "배우들이 공연 후 관객에게 인사했어.",
+  "nuance_ko": "bow는 허리나 머리를 숙이는 동작이고 [바우]라고 읽어요. 같은 철자의 bow [보우]는 활이나 리본 매듭을 뜻하는 다른 단어라서 발음에 주의해야 해요. bow down to someone은 굴복하거나 복종하는 것이고, bow out은 '물러나다, 사퇴하다'예요. 배의 앞부분 이물도 bow [바우]예요. 서양에서는 일상 인사로는 잘 안 하고 공연이나 격식 있는 자리에서 해요. 한국어 '절하다'만큼 일상적이지는 않아요.",
+  "also": []
+ },
+ {
+  "w": "bowl",
+  "pos": "n",
+  "meaning_ko": "그릇, 사발",
+  "example_en": "She poured the soup into a large **bowl**.",
+  "example_ko": "그녀는 수프를 큰 그릇에 부었어.",
+  "nuance_ko": "bowl은 우묵한 그릇을 말해요. a bowl of rice, a salad bowl, a fruit bowl처럼 담는 내용물과 함께 자주 써요. 접시처럼 평평한 건 plate이고 bowl은 깊이가 있어요. 미식축구의 큰 경기도 Super Bowl처럼 bowl이라고 해요. 동사로는 볼링 공을 굴리거나 크리켓에서 투구하는 것을 말해요. dog bowl은 개 밥그릇이에요.",
+  "also": []
+ },
+ {
+  "w": "bowled",
+  "pos": "v",
+  "meaning_ko": "공을 굴리다, 투구하다",
+  "example_en": "He **bowled** a perfect strike on his first try.",
+  "example_ko": "그는 첫 시도에 완벽한 스트라이크를 쳤어.",
+  "nuance_ko": "bowled는 동사 bowl의 과거형이에요. 볼링에서는 공을 레인에 굴리는 것이고, 크리켓에서는 투수가 공을 던지는 것을 말해요. bowl someone over는 '쓰러뜨리다' 또는 '깜짝 놀라게 하다'라는 구동사예요. 예를 들어 I was bowled over by her kindness는 그녀의 친절함에 감동받았다는 뜻이에요. 볼링장은 bowling alley이고, 가서 치는 건 go bowling이에요. 명사 bowl과는 철자는 같지만 용법이 달라서 그릇과 헷갈리지 마세요.",
+  "also": [
+   {
+    "w": "bowling",
+    "pos": "n",
+    "ko": "볼링",
+    "en": "We went **bowling** after dinner."
+   },
+   {
+    "w": "bowler",
+    "pos": "n",
+    "ko": "볼링 선수, 투수",
+    "en": "He is the best **bowler** on the team."
+   }
+  ]
+ },
+ {
+  "w": "brain",
+  "pos": "n",
+  "meaning_ko": "뇌, 두뇌, 지능",
+  "example_en": "Exercise is good for your **brain** as well as your body.",
+  "example_ko": "운동은 몸뿐 아니라 뇌에도 좋아.",
+  "nuance_ko": "brain은 신체 기관인 뇌와 지적 능력, 똑똑한 사람을 뜻해요. use your brain은 '머리를 써라', have a good brain은 머리가 좋다는 뜻이에요. brainstorm은 여럿이 아이디어를 쏟아내는 회의 방식이고 brain drain은 인재 유출이에요. 구어체로 brains는 지능을 뜻해서 She's got brains and beauty라고 해요. mind는 생각하는 마음이고 brain은 물리적인 뇌에 더 가까워요. brainwash는 세뇌하다예요.",
+  "also": [
+   {
+    "w": "brainy",
+    "pos": "adj",
+    "ko": "머리 좋은",
+    "en": "She's a **brainy** kid who loves puzzles."
+   }
+  ]
+ },
+ {
+  "w": "brake",
+  "pos": "n",
+  "meaning_ko": "브레이크, 제동 장치",
+  "example_en": "I hit the **brake** just in time to avoid the dog.",
+  "example_ko": "개를 피하려고 간신히 제때 브레이크를 밟았어.",
+  "nuance_ko": "brake는 자동차나 자전거의 제동 장치예요. hit the brakes, slam on the brakes는 급제동을 뜻해요. 동사로 brake는 속도를 줄이거나 멈추는 동작이에요. break(깨뜨리다)와 발음이 같아서 철자를 구분해야 하는 동음이의어예요. put the brakes on은 '속도를 늦추다, 제동을 걸다'라는 비유로 쓰여요. 정차 상태 유지용 핸드 브레이크는 handbrake라고 해요.",
+  "also": []
+ },
+ {
+  "w": "branch",
+  "pos": "n",
+  "meaning_ko": "나뭇가지, 지점, 분야",
+  "example_en": "The bank has a new **branch** on Main Street.",
+  "example_ko": "그 은행은 메인 스트리트에 새 지점을 냈어.",
+  "nuance_ko": "branch는 나무에서 갈라진 가지에서 출발해서, 큰 조직에서 갈라진 지점이나 분야를 뜻하게 됐어요. a branch office, a branch of science, the local branch처럼 써요. 동사 branch out은 '사업이나 활동 영역을 넓히다'예요. 소프트웨어 개발에서 Git branch는 작업 줄기를 나누는 단위이고요. 강의 지류를 가리킬 때도 쓰여요. 같은 뜻의 office나 store보다 본점과 연결된 일부라는 느낌이 있어요.",
+  "also": []
+ },
+ {
+  "w": "brand",
+  "pos": "n",
+  "meaning_ko": "브랜드, 상표",
+  "example_en": "What **brand** of shoes are you wearing?",
+  "example_ko": "그 신발 어느 브랜드야?",
+  "nuance_ko": "brand는 상품이나 회사를 구분하는 상표 또는 그 이미지를 말해요. a famous brand, brand name, brand new(완전 새것)처럼 써요. brand new는 상표(brand)에서 방금 나온 새 물건이라는 뜻에서 온 표현이에요. 동사로는 낙인을 찍다라는 뜻이라서 be branded a liar는 거짓말쟁이라는 낙인이 찍힌다는 뜻이에요. 소 같은 가축에 달군 쇠로 표시를 새기는 데서 유래했어요. make나 model은 자동차에서 제조사와 모델을 구분할 때 써요.",
+  "also": [
+   {
+    "w": "branded",
+    "pos": "adj",
+    "ko": "브랜드가 있는",
+    "en": "I prefer **branded** products over generic ones."
+   }
+  ]
+ },
+ {
+  "w": "brave",
+  "pos": "adj",
+  "meaning_ko": "용감한",
+  "example_en": "It was **brave** of you to speak up in the meeting.",
+  "example_ko": "회의에서 그렇게 나서서 말하다니 용감했어.",
+  "nuance_ko": "brave는 두려움을 느끼면서도 위험이나 어려움에 맞서는 용기를 말해요. It was brave of you to ~ 구문으로 칭찬할 때 자주 써요. courageous는 더 격식 있는 말이고 brave는 일상에서 흔하게 써요. 동사로 brave the cold는 '추위를 무릅쓰고 나서다'라는 뜻이에요. put on a brave face는 힘든데 괜찮은 척한다는 표현이에요. 어린이에게 Be brave!라고 격려하기도 해요.",
+  "also": [
+   {
+    "w": "bravely",
+    "pos": "adv",
+    "ko": "용감하게",
+    "en": "She **bravely** walked up to the stage."
+   },
+   {
+    "w": "bravery",
+    "pos": "n",
+    "ko": "용기",
+    "en": "He received a medal for his **bravery**."
+   }
+  ]
+ },
+ {
+  "w": "breast",
+  "pos": "n",
+  "meaning_ko": "가슴, 유방",
+  "example_en": "She ordered a grilled chicken **breast** with vegetables.",
+  "example_ko": "그녀는 구운 닭가슴살과 채소를 주문했어.",
+  "nuance_ko": "breast는 몸의 가슴 부위를 뜻하는 중립적인 해부학 용어예요. 요리에서 chicken breast(닭가슴살)로 가장 흔하게 만나요. 의료 맥락에서는 breast cancer(유방암), breastfeeding(모유 수유)처럼 쓰여요. 가슴 전체나 호흡하는 부위는 chest라고 하는 경우가 많아요. 수영의 평영은 breaststroke예요. 감정을 담는 가슴 속은 비유적으로 bosom이나 heart라고도 말해요.",
+  "also": []
+ },
+ {
+  "w": "breathe",
+  "pos": "v",
+  "meaning_ko": "숨 쉬다, 호흡하다",
+  "example_en": "Take a deep breath and **breathe** out slowly.",
+  "example_ko": "숨을 깊게 들이쉬고 천천히 내쉬어 봐.",
+  "nuance_ko": "breathe는 동사로 [브리-드]처럼 th를 울리는 소리로 읽고, 명사 breath [브레쓰]와 발음이 달라요. breathe in(들이쉬다), breathe out(내쉬다)이 기본 구동사예요. 편안함을 말할 때 I can finally breathe는 마침내 한숨 돌렸다는 뜻이에요. don't breathe a word는 '비밀로 하다'라는 관용 표현이에요. 병원이나 운동 맥락에서는 breathing exercises로 자주 나와요. 한국 학습자는 breath와 breathe를 철자와 발음 모두 헷갈리는 경우가 많아요.",
+  "also": [
+   {
+    "w": "breathing",
+    "pos": "n",
+    "ko": "호흡",
+    "en": "His **breathing** became slow and steady."
+   },
+   {
+    "w": "breathable",
+    "pos": "adj",
+    "ko": "통기성 있는",
+    "en": "These shirts are made of **breathable** fabric."
+   }
+  ]
+ },
+ {
+  "w": "breed",
+  "pos": "n",
+  "meaning_ko": "품종, 번식시키다",
+  "example_en": "What **breed** is your dog? He looks like a husky.",
+  "example_ko": "네 강아지는 품종이 뭐야? 허스키처럼 보여.",
+  "nuance_ko": "breed는 동물의 품종을 뜻하는 명사이고, 동사로는 새끼를 낳아 번식시키거나 키운다는 뜻이에요. 동사의 과거형은 bred라서 breed-bred-bred로 변해요. well-bred는 교양 있게 자란 사람을 가리키는 형용사예요. 비유적으로는 어떤 상태를 낳는다는 뜻이라서 Fear breeds hatred처럼 쓰여요. species는 종 자체이고, breed는 같은 종 안의 품종이에요. 사람에게 쓸 때는 a new breed of leaders처럼 '새로운 부류'를 뜻해요.",
+  "also": [
+   {
+    "w": "breeding",
+    "pos": "n",
+    "ko": "번식, 사육",
+    "en": "The farm specializes in horse **breeding**."
+   },
+   {
+    "w": "breeder",
+    "pos": "n",
+    "ko": "사육자",
+    "en": "She bought the puppy from a reputable **breeder**."
+   }
+  ]
+ },
+ {
+  "w": "brick",
+  "pos": "n",
+  "meaning_ko": "벽돌",
+  "example_en": "The old house was built entirely of red **brick**.",
+  "example_ko": "그 오래된 집은 전부 붉은 벽돌로 지어졌어.",
+  "nuance_ko": "brick은 건물을 짓는 직사각형 벽돌이고 재료를 말할 때는 셀 수 없는 명사로도 써요. a brick wall, red brick, brick by brick(차근차근)처럼 표현해요. hit a brick wall은 앞길이 막혀 더 나아가지 못한다는 뜻의 비유예요. 스마트폰이 먹통이 되었을 때 bricked라고 해서 벽돌처럼 못 쓰게 됐다는 뜻으로 써요. 장난감 레고 조각도 brick이라고 불러요. 시멘트 벽돌은 concrete block이라고 구분해요.",
+  "also": []
+ },
+ {
+  "w": "bridge",
+  "pos": "n",
+  "meaning_ko": "다리, 가교",
+  "example_en": "We drove across the **bridge** at sunset.",
+  "example_ko": "우리는 해 질 녘에 다리를 건너 운전했어.",
+  "nuance_ko": "bridge는 강이나 길 위를 건너는 다리이고, 비유적으로 둘 사이를 잇는 가교 역할을 해요. build a bridge, cross a bridge, bridge the gap(격차를 메우다)이 자주 쓰여요. We'll cross that bridge when we come to it은 '그 일은 닥치면 생각하자'는 속담이에요. 카드 게임 bridge와 치아의 브리지도 같은 단어예요. burn one's bridges는 돌아갈 길을 끊는다는 뜻이에요. 동사로 bridge는 틈을 이어주는 동작을 말해요.",
+  "also": []
+ },
+ {
+  "w": "brief",
+  "pos": "adj",
+  "meaning_ko": "짧은, 간단한",
+  "example_en": "Let me give you a **brief** overview of the plan.",
+  "example_ko": "계획에 대한 간략한 개요를 말씀드릴게요.",
+  "nuance_ko": "brief는 시간이나 글이 짧고 간결하다는 뜻이에요. a brief meeting, a brief statement, in brief(간단히 말해)처럼 써요. short와 비슷하지만 brief는 군더더기 없이 요점만 있다는 느낌이에요. 동사로 brief someone은 '핵심을 미리 알려주다'라는 뜻이라서 I'll brief you before the meeting이라고 해요. 명사 briefing은 상황 설명회를 말해요. 속옷 briefs는 복수형으로만 쓰는 다른 뜻의 단어예요.",
+  "also": [
+   {
+    "w": "briefly",
+    "pos": "adv",
+    "ko": "잠깐, 간단히",
+    "en": "She **briefly** explained what happened."
+   }
+  ]
+ },
+ {
+  "w": "brilliant",
+  "pos": "adj",
+  "meaning_ko": "훌륭한, 뛰어난, 눈부신",
+  "example_en": "That was a **brilliant** idea. Why didn't I think of it?",
+  "example_ko": "정말 기발한 생각이야. 나는 왜 그 생각을 못 했지?",
+  "nuance_ko": "brilliant는 매우 똑똑하거나 훌륭하다는 칭찬이고, 빛이 눈부시게 밝다는 뜻도 있어요. a brilliant student, a brilliant idea처럼 지능이나 아이디어를 칭찬할 때 써요. 영국식 구어에서는 Brilliant!이 '좋네요, 잘됐네요!'처럼 가볍게 감탄하는 말이에요. clever는 영리한 정도이고 brilliant는 한 단계 더 뛰어난 천재적 느낌이에요. 색이 선명할 때도 brilliant blue처럼 말해요. 한국어 '브릴리언트'보다 일상에서 훨씬 자주 쓰여요.",
+  "also": [
+   {
+    "w": "brilliantly",
+    "pos": "adv",
+    "ko": "훌륭하게, 눈부시게",
+    "en": "She played the piano **brilliantly**."
+   }
+  ]
+ },
+ {
+  "w": "broad",
+  "pos": "adj",
+  "meaning_ko": "넓은, 폭넓은",
+  "example_en": "The museum offers a **broad** range of exhibits.",
+  "example_ko": "그 박물관은 폭넓은 전시를 제공해.",
+  "nuance_ko": "broad는 가로로 넓다는 뜻과 범위가 넓다는 뜻이 있어요. a broad range of, a broad smile, broad shoulders처럼 쓰여요. wide는 물리적 폭이 넓은 것에 주로 쓰고, broad는 범위나 개념이 넓을 때도 자연스러워요. in broad daylight는 '대낮에'라는 표현이고, in broad terms는 '대략적으로'라는 뜻이에요. 정확하지 않고 개괄적이라는 뉘앙스가 있어서 a broad outline이라고 해요. 방송을 뜻하는 broadcast에 broad가 들어 있어요.",
+  "also": [
+   {
+    "w": "broadly",
+    "pos": "adv",
+    "ko": "대체로, 폭넓게",
+    "en": "We **broadly** agree on the main points."
+   },
+   {
+    "w": "broaden",
+    "pos": "v",
+    "ko": "넓히다",
+    "en": "Traveling can **broaden** your mind."
+   }
+  ]
+ },
+ {
+  "w": "brush",
+  "pos": "n",
+  "meaning_ko": "솔, 붓, 닦다",
+  "example_en": "Don't forget to **brush** your teeth before bed.",
+  "example_ko": "자기 전에 양치하는 거 잊지 마.",
+  "nuance_ko": "brush는 솔이나 붓이라는 도구와, 솔로 문지르거나 닦는 동작을 모두 뜻해요. brush your teeth, brush your hair처럼 일상 동작에 자주 써요. 스치듯 가볍게 닿는 것도 brush against라고 해요. brush up on은 '실력을 다시 다듬다'라는 구동사이고, brush off는 '무시하다'예요. 페인트칠 붓은 paintbrush, 칫솔은 toothbrush예요. 가벼운 접촉을 비유해 a brush with death는 '죽을 뻔한 경험'이에요.",
+  "also": []
+ },
+ {
+  "w": "buck",
+  "pos": "n",
+  "meaning_ko": "달러, 수사슴",
+  "example_en": "This jacket cost me fifty **bucks** at the sale.",
+  "example_ko": "이 재킷은 세일에서 50달러 줬어.",
+  "nuance_ko": "buck은 구어체로 미국 달러를 가리켜요. 숫자 뒤에 복수형으로 fifty bucks처럼 써서 격식 없는 대화에서 자주 나와요. 원래 뜻은 수사슴이나 숫양 같은 수컷 동물이에요. pass the buck은 '책임을 남에게 떠넘기다'라는 관용어이고, a fast buck은 쉽고 빠르게 번 돈이에요. 동사 buck은 '거스르다'라는 뜻이라서 buck the trend는 흐름을 거스른다는 말이에요. Starbucks의 bucks와는 철자 관련이 없는 고유 이름이에요.",
+  "also": []
+ },
+ {
+  "w": "bucket",
+  "pos": "n",
+  "meaning_ko": "양동이, 통",
+  "example_en": "He filled a **bucket** with water to wash the car.",
+  "example_ko": "그는 세차하려고 양동이에 물을 채웠어.",
+  "nuance_ko": "bucket은 손잡이가 달린 양동이예요. a bucket of water, a bucket of popcorn처럼 담는 양을 표현해요. bucket list는 죽기 전에 해보고 싶은 일의 목록으로 영화 제목 때문에 널리 퍼졌어요. kick the bucket은 '죽다'를 뜻하는 구어 관용어예요. It's pouring buckets는 비가 쏟아진다는 뜻이에요. 컴퓨터 분야에서는 데이터를 담는 단위로도 bucket이라고 해요.",
+  "also": []
+ },
+ {
+  "w": "bug",
+  "pos": "n",
+  "meaning_ko": "벌레, 결함, 귀찮게 하다",
+  "example_en": "There's a **bug** in the app that keeps crashing it.",
+  "example_ko": "앱에 버그가 있어서 계속 꺼져.",
+  "nuance_ko": "bug는 작은 벌레와 소프트웨어 오류, 두 가지 뜻이 모두 일상적이에요. fix a bug, report a bug, a software bug는 개발 현장에서 매일 쓰는 표현이에요. 질병이 가볍게 도는 것도 a stomach bug처럼 써요. 동사로 bug someone은 '귀찮게 하다'라는 구어 표현이에요. 도청 장치도 bug라서 The room was bugged는 도청당했다는 뜻이에요. insect는 정식 용어이고 bug는 일상적인 말이에요.",
+  "also": []
+ },
+ {
+  "w": "bump",
+  "pos": "v",
+  "meaning_ko": "부딪치다, 혹, 덜컹거림",
+  "example_en": "I **bumped** my head on the low door frame.",
+  "example_ko": "낮은 문틀에 머리를 찧었어.",
+  "nuance_ko": "bump는 가볍게 부딪치거나 덜컹거리는 동작을 뜻하는 동사이자 명사예요. bump into someone은 '우연히 만나다'라는 구어 표현으로 가장 자주 써요. 길의 요철을 speed bump, 이마에 난 혹을 a bump on the head라고 해요. bump up은 '가격이나 수치를 올리다'라는 구동사예요. crash보다 훨씬 약한 충격이에요. 요즘은 SNS 글을 다시 위로 올릴 때 bump라고 하기도 해요.",
+  "also": [
+   {
+    "w": "bumpy",
+    "pos": "adj",
+    "ko": "울퉁불퉁한",
+    "en": "It was a **bumpy** ride on the old road."
+   }
+  ]
+ },
+ {
+  "w": "bunch",
+  "pos": "n",
+  "meaning_ko": "다발, 한 무리",
+  "example_en": "I bought a **bunch** of flowers for my mother.",
+  "example_ko": "어머니께 꽃다발을 사 드렸어.",
+  "nuance_ko": "bunch는 한데 묶인 다발이나 무리를 뜻해요. a bunch of flowers, a bunch of bananas, a bunch of keys처럼 쓰여요. 구어체에서 a bunch of는 '많은'이라서 I have a bunch of questions라고 해요. 사람에게도 써서 a bunch of friends라고 하면 '친구 무리'예요. best of the bunch는 그중 가장 좋은 것이라는 표현이에요. 동사 bunch up은 옷이나 사람이 몰려서 뭉치는 것을 말해요.",
+  "also": []
+ },
+ {
+  "w": "burst",
+  "pos": "v",
+  "meaning_ko": "터지다, 갑자기 ~하다",
+  "example_en": "The pipe **burst** and flooded the basement.",
+  "example_ko": "파이프가 터져서 지하실이 물에 잠겼어.",
+  "nuance_ko": "burst는 풍선이나 파이프처럼 갑자기 터지거나 터뜨리는 동작이에요. 불규칙동사로 burst-burst-burst라서 형태가 바뀌지 않아요. burst into tears는 갑자기 울음을 터뜨리는 것, burst out laughing은 웃음이 터지는 것이에요. a burst of speed처럼 명사로는 짧고 강한 폭발적 움직임을 뜻해요. burst in은 '불쑥 들어오다'라는 구동사예요. 감정이 폭발할 때 쓰기도 하지만 explode보다 가볍고 갑작스러운 느낌이에요.",
+  "also": []
+ },
+ {
+  "w": "bury",
+  "pos": "v",
+  "meaning_ko": "묻다, 매장하다",
+  "example_en": "The dog **buried** a bone in the backyard.",
+  "example_ko": "개가 뒷마당에 뼈다귀를 묻었어.",
+  "nuance_ko": "bury는 땅에 묻거나 무언가에 파묻어 숨긴다는 뜻이에요. 발음은 [베리]로 berry(딸기)와 같아서 철자를 조심해야 해요. bury the hatchet은 '화해하다'라는 유명한 관용 표현이에요. be buried in work는 일에 파묻혀 있다는 비유예요. 장례에서는 bury the dead처럼 매장한다는 뜻이고, 화장은 cremate예요. 문제를 덮어둘 때도 bury the problem이라고 해요.",
+  "also": [
+   {
+    "w": "buried",
+    "pos": "adj",
+    "ko": "묻힌",
+    "en": "The treasure was **buried** under the old tree."
+   },
+   {
+    "w": "burial",
+    "pos": "n",
+    "ko": "매장, 장례",
+    "en": "The **burial** took place on Saturday."
+   }
+  ]
+ },
+ {
+  "w": "butter",
+  "pos": "n",
+  "meaning_ko": "버터",
+  "example_en": "Spread some **butter** on the toast while it's warm.",
+  "example_ko": "토스트가 따뜻할 때 버터 좀 발라.",
+  "nuance_ko": "butter는 우유로 만든 버터로 셀 수 없는 명사예요. a piece of butter, a stick of butter, melt the butter처럼 써요. 동사 butter는 '버터를 바르다'이고 butter up은 '비위를 맞추다, 아부하다'라는 관용 표현이에요. peanut butter는 땅콩버터이고, 버터가 들어간 것은 형용사 buttery라고 해요. 한국어 '버터'와 달리 발음이 [버러]처럼 t가 약해져요. 마가린은 margarine이라서 butter와 구분해요.",
+  "also": [
+   {
+    "w": "buttery",
+    "pos": "adj",
+    "ko": "버터 같은",
+    "en": "The croissant was soft and **buttery**."
+   }
+  ]
+ },
+ {
+  "w": "button",
+  "pos": "n",
+  "meaning_ko": "단추, 버튼",
+  "example_en": "Press the green **button** to start the machine.",
+  "example_ko": "기계를 시작하려면 초록색 버튼을 눌러.",
+  "nuance_ko": "button은 옷의 단추와 기계나 화면의 누르는 버튼 모두를 가리켜요. press a button, push a button, button up(단추를 채우다)이 자주 쓰여요. a button is missing처럼 옷에서 떨어진 단추도 button이에요. 동사로 button은 '단추를 잠그다'이고 unbutton은 풀다예요. push someone's buttons는 '남을 화나게 하다'라는 관용 표현이에요. 웹에서는 click the button처럼 클릭 가능한 버튼도 같은 단어를 써요.",
+  "also": []
+ },
+ {
+  "w": "cable",
+  "pos": "n",
+  "meaning_ko": "케이블, 전선",
+  "example_en": "I need a longer **cable** to reach the wall socket.",
+  "example_ko": "콘센트까지 닿으려면 더 긴 케이블이 필요해.",
+  "nuance_ko": "cable은 전기나 신호를 전달하는 굵은 선, 또는 강철 밧줄을 뜻해요. a charging cable, an HDMI cable, cable TV(유선 방송)처럼 자주 쓰여요. wire는 가는 전선이고 cable은 여러 가닥을 묶은 굵은 선이라는 차이가 있어요. 케이블카는 cable car예요. 구식 전보를 보내는 동사 cable도 있지만 요즘은 드물어요. 미국에서 cable은 유료 TV 서비스를 통째로 가리키기도 해요.",
+  "also": []
+ },
+ {
+  "w": "cage",
+  "pos": "n",
+  "meaning_ko": "우리, 새장",
+  "example_en": "The bird flew out of its **cage** through the open window.",
+  "example_ko": "새가 열린 창문으로 새장 밖으로 날아갔어.",
+  "nuance_ko": "cage는 동물이나 새를 가두는 철창을 말해요. a birdcage, a lion's cage, in a cage처럼 써요. 사람의 자유가 없는 상태를 비유하기도 해서 feel caged in은 갇힌 기분이라는 뜻이에요. 사고 현장에서 cage는 보호용 철망 구조물도 가리켜요. rattle someone's cage는 '건드려 화나게 하다'라는 관용 표현이에요. 동사 cage는 '가두다'이지만 보통 caged 형태로 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "calculate",
+  "pos": "v",
+  "meaning_ko": "계산하다, 산출하다",
+  "example_en": "Can you **calculate** how much we owe in total?",
+  "example_ko": "우리가 총 얼마를 내야 하는지 계산해 줄래?",
+  "nuance_ko": "calculate는 숫자를 이용해 정확히 계산하거나 추정한다는 뜻이에요. calculate the cost, calculate the risk처럼 비용이나 위험을 따질 때도 써요. 단순 덧셈은 add up이나 count를 쓰고, calculate는 계산 과정이 있는 수학적 계산에 가까워요. 형용사 calculated는 '계산된, 의도적인'이라서 a calculated risk는 이해득실을 따져 감수하는 위험이에요. 명사는 calculation이고 기계는 calculator예요. 스스로 계산에 밝다는 뜻으로 calculating을 쓰면 '계산적인'이라 부정적일 수 있어요.",
+  "also": [
+   {
+    "w": "calculation",
+    "pos": "n",
+    "ko": "계산",
+    "en": "My **calculation** was off by ten dollars."
+   },
+   {
+    "w": "calculator",
+    "pos": "n",
+    "ko": "계산기",
+    "en": "Use a **calculator** if you need to."
+   },
+   {
+    "w": "calculated",
+    "pos": "adj",
+    "ko": "계산된, 의도적인",
+    "en": "It was a **calculated** decision."
+   }
+  ]
+ },
+ {
+  "w": "calm",
+  "pos": "adj",
+  "meaning_ko": "침착한, 고요한",
+  "example_en": "Stay **calm** and tell me exactly what happened.",
+  "example_ko": "침착하고, 정확히 무슨 일이 있었는지 말해 줘.",
+  "nuance_ko": "calm은 마음이 차분하거나 바다와 날씨가 잔잔한 상태를 말해요. Stay calm, Keep calm, a calm sea처럼 써요. 동사로 calm down은 '진정하다, 진정시키다'라는 구동사예요. 상대가 흥분했을 때 Calm down!이라고 하면 오히려 더 화나게 만들 수 있다는 점이 재미있어요. 발음은 [캄]으로 l을 읽지 않아요. quiet는 소리가 적다는 뜻이고 calm은 마음이나 상태가 안정적이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "calmly",
+    "pos": "adv",
+    "ko": "침착하게",
+    "en": "She **calmly** explained her side of the story."
+   },
+   {
+    "w": "calming",
+    "pos": "adj",
+    "ko": "진정시키는",
+    "en": "The music has a **calming** effect."
+   }
+  ]
+ },
+ {
+  "w": "camera",
+  "pos": "n",
+  "meaning_ko": "카메라",
+  "example_en": "I forgot to bring my **camera** to the concert.",
+  "example_ko": "콘서트에 카메라 가져오는 걸 깜빡했어.",
+  "nuance_ko": "camera는 사진이나 영상을 찍는 기계예요. take a photo with a camera, turn on the camera, security camera 등이 자주 나와요. 화상 회의에서 camera on/off는 얼굴을 보이게 할지 말지를 뜻해요. on camera는 '촬영되는 상황에서', off camera는 '촬영 밖에서'예요. 휴대폰 카메라는 phone camera라고 하고 사진기는 영국식에서 camera로도 부르지만 요즘은 phone으로 대체돼요. 발음은 [캐머러]처럼 중간 e를 약하게 읽어요.",
+  "also": []
+ },
+ {
+  "w": "canoe",
+  "pos": "n",
+  "meaning_ko": "카누",
+  "example_en": "We rented a **canoe** and paddled across the lake.",
+  "example_ko": "카누를 빌려서 호수를 가로질러 노를 저었어.",
+  "nuance_ko": "canoe는 노를 저어 움직이는 좁은 배예요. paddle a canoe(노를 젓다), go canoeing(카누 타러 가다)이라고 해요. rowboat는 노걸이에 노를 걸고 뒤로 젓는 배이고, canoe는 앞을 보며 패들로 젓는 배라서 방식이 달라요. kayak은 앉아서 양쪽에 날이 있는 노를 젓는 배라 canoe와 구분돼요. 발음은 [커누-]예요. 비유로 paddle one's own canoe는 '혼자 힘으로 하다'는 뜻이에요.",
+  "also": [
+   {
+    "w": "canoeing",
+    "pos": "n",
+    "ko": "카누 타기",
+    "en": "We spent the weekend **canoeing** on the river."
+   }
+  ]
+ },
+ {
+  "w": "cans",
+  "pos": "n",
+  "meaning_ko": "깡통, 캔",
+  "example_en": "We collected empty **cans** to recycle for extra money.",
+  "example_ko": "우린 용돈 벌려고 재활용할 빈 캔을 모았어.",
+  "nuance_ko": "cans는 can(캔, 통조림)의 복수형이에요. a can of soda, cans of beans처럼 용기와 내용물을 같이 말해요. 영국식에서는 음식은 tin, 음료는 can이라고 구분하기도 해요. 헤드폰을 속어로 cans라고 부르기도 해요. 조동사 can(~할 수 있다)과 철자가 같아서 문맥으로 구분해야 해요. canned food는 통조림 식품이고 동사로는 can이 '통조림으로 만들다'라는 뜻이에요.",
+  "also": [
+   {
+    "w": "canned",
+    "pos": "adj",
+    "ko": "통조림의",
+    "en": "We ate **canned** soup for lunch."
+   }
+  ]
+ },
+ {
+  "w": "cap",
+  "pos": "n",
+  "meaning_ko": "모자, 뚜껑, 상한선",
+  "example_en": "He always wears a baseball **cap** when he goes jogging.",
+  "example_ko": "그는 조깅할 때 항상 야구 모자를 써.",
+  "nuance_ko": "cap은 챙이 있는 모자를 뜻하고, 병 뚜껑이나 상한선 같은 뜻으로 확장돼요. a baseball cap, a bottle cap, a price cap(가격 상한)처럼 써요. 동사로는 뚜껑을 덮거나 상한을 두다라는 뜻이에요. hat은 모자 전체를 가리키는 말이고 cap은 챙이 짧고 부드러운 모자예요. 학위 수여식의 사각모는 mortarboard로도 불러요. cap in hand는 '굽신거리며 부탁하는' 태도를 뜻하는 영국식 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "capable",
+  "pos": "adj",
+  "meaning_ko": "~할 수 있는, 유능한",
+  "example_en": "I'm sure she's **capable** of handling the project alone.",
+  "example_ko": "그녀라면 혼자 그 프로젝트를 충분히 해낼 수 있을 거야.",
+  "nuance_ko": "capable은 어떤 능력이나 가능성을 갖췄다는 뜻이에요. be capable of + 명사 또는 -ing 형태가 기본이라서 capable to do라고 쓰면 틀려요. able to do와 비슷하지만 capable of는 잠재 능력에 초점이 있어요. 사람에게 She's a very capable manager라고 하면 '유능한 관리자'라는 칭찬이에요. 부정적인 일에도 쓸 수 있어서 He's capable of anything는 무슨 짓이든 할 수 있다는 경고가 될 수 있어요. 반대말은 incapable이에요.",
+  "also": [
+   {
+    "w": "capability",
+    "pos": "n",
+    "ko": "능력, 역량",
+    "en": "The new phone has better camera **capabilities**."
+   },
+   {
+    "w": "incapable",
+    "pos": "adj",
+    "ko": "~할 수 없는",
+    "en": "He is **incapable** of telling a lie."
+   }
+  ]
+ },
+ {
+  "w": "cape",
+  "pos": "n",
+  "meaning_ko": "망토, 곶",
+  "example_en": "The superhero's red **cape** flew behind him in the wind.",
+  "example_ko": "슈퍼히어로의 빨간 망토가 바람에 휘날렸어.",
+  "nuance_ko": "cape는 어깨에 두르는 소매 없는 망토를 가리키는 말이고, 바다로 튀어나온 땅인 곶이라는 뜻도 있어요. 곶은 Cape Town, Cape Cod처럼 지명에 많이 나와요. cloak은 길고 두꺼운 망토이고 cape는 상대적으로 짧아요. 슈퍼히어로 영화에서 cape는 상징 같은 소품이에요. 두 뜻 모두 발음은 [케이프]예요. 지리 맥락과 의상 맥락을 문맥으로 구분하면 돼요.",
+  "also": []
+ },
+ {
+  "w": "capital",
+  "pos": "n",
+  "meaning_ko": "수도, 자본, 대문자",
+  "example_en": "Seoul is the **capital** of South Korea.",
+  "example_ko": "서울은 대한민국의 수도야.",
+  "nuance_ko": "capital은 나라의 수도, 사업에 쓰는 자본, 알파벳 대문자까지 세 가지 뜻이 있어요. capital city, start-up capital, a capital letter처럼 문맥에 따라 달라요. capital punishment는 사형이라서 '자본'과 전혀 상관없는 뜻이에요. 건물 capitol(국회의사당)과 철자가 비슷하지만 다른 단어라서 조심하세요. raise capital은 자금을 모으는 것이고, human capital은 인적 자본이에요. 대문자로 쓰라고 할 때는 Use capital letters라고 말해요.",
+  "also": []
+ },
+ {
+  "w": "captain",
+  "pos": "n",
+  "meaning_ko": "선장, 기장, 주장",
+  "example_en": "The **captain** asked everyone to stay in their seats.",
+  "example_ko": "기장님이 모두 자리에 앉아 있으라고 안내했어.",
+  "nuance_ko": "captain은 배의 선장, 비행기의 기장, 스포츠 팀의 주장, 군대의 대위를 두루 가리켜요. 맥락에 따라 직책이 달라서 the captain of the team이면 주장이에요. Captain 형태로 이름 앞에 붙이면 호칭이 돼요. 동사로 captain a team은 팀을 이끌다라는 뜻이에요. leader보다 공식적인 직책의 느낌이 강해요. Captain Obvious는 뻔한 말을 하는 사람을 놀리는 농담 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "career",
+  "pos": "n",
+  "meaning_ko": "직업, 경력, 진로",
+  "example_en": "She started her **career** as a nurse in a small clinic.",
+  "example_ko": "그녀는 작은 병원의 간호사로 커리어를 시작했어.",
+  "nuance_ko": "career는 직업적 경력 전체의 흐름을 말해요. start a career, a career change, career path처럼 써요. job은 한 번의 일자리이고 career는 오랜 기간에 걸친 일의 길이에요. 한국어 '커리어'처럼 경력 관리의 뉘앙스가 있어요. career-minded는 일에 열정적인 사람을 가리켜요. 동사로는 빠르게 통제 없이 달리는 것을 뜻하지만 드물게 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "carpet",
+  "pos": "n",
+  "meaning_ko": "카펫, 양탄자",
+  "example_en": "We need to replace the old **carpet** in the living room.",
+  "example_ko": "거실의 낡은 카펫을 바꿔야 해.",
+  "nuance_ko": "carpet은 방 바닥 전체에 깔린 두꺼운 카펫을 말해요. rug는 바닥 일부에 까는 작은 깔개라서 구분돼요. wall-to-wall carpet은 방 전체에 깐 카펫이에요. the red carpet은 레드카펫 행사에서 VIP 대접을 뜻해요. sweep something under the carpet은 문제를 덮어 감춘다는 관용어예요. 동사로 carpet bomb은 지역 전체를 폭격하는 군사 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "carrot",
+  "pos": "n",
+  "meaning_ko": "당근",
+  "example_en": "Rabbits love eating fresh **carrots** from the garden.",
+  "example_ko": "토끼들은 정원에서 딴 신선한 당근 먹는 걸 좋아해.",
+  "nuance_ko": "carrot은 채소 당근이고 셀 수 있어서 a carrot, two carrots로 써요. 비유적으로는 보상이나 유인책을 뜻해서 the carrot and the stick은 당근과 채찍이에요. dangle a carrot은 보상을 미끼처럼 보여주는 표현이에요. 눈에 좋다는 인식이 있지만 영어권에서도 흔한 속설이에요. 발음은 [캐럿]이고 carat(보석 단위)과 소리가 같아요. carrot top이라고 하면 붉은 머리를 가볍게 놀리는 말이니 조심하세요.",
+  "also": []
+ },
+ {
+  "w": "cart",
+  "pos": "n",
+  "meaning_ko": "수레, 카트",
+  "example_en": "She pushed the shopping **cart** down the aisle.",
+  "example_ko": "그녀는 통로를 따라 쇼핑 카트를 밀었어.",
+  "nuance_ko": "cart는 바퀴가 달린 짐수레나 마트 카트를 말해요. shopping cart는 마트 카트이고, 온라인 쇼핑의 장바구니도 add to cart라고 해요. golf cart는 골프 카트예요. put the cart before the horse는 '순서를 거꾸로 하다'라는 속담이에요. 영국식에서는 마트 카트를 trolley라고 불러요. 동사 cart는 힘들게 옮긴다는 뜻이라서 cart away는 짐을 실어 나르는 것이에요.",
+  "also": []
+ },
+ {
+  "w": "cash",
+  "pos": "n",
+  "meaning_ko": "현금",
+  "example_en": "Do you take credit cards, or is it **cash** only?",
+  "example_ko": "카드 되나요, 아니면 현금만 받나요?",
+  "nuance_ko": "cash는 지폐와 동전 같은 현금을 뜻하고 셀 수 없는 명사예요. pay in cash, cash only, out of cash가 자주 쓰여요. 동사 cash a check는 수표를 현금으로 바꾸는 것이에요. cash in on은 '이득을 보다', cash out은 현금화하다예요. money는 돈 전반이고 cash는 실물 현금을 가리켜요. 비즈니스에서 cash flow(현금 흐름)는 필수 용어예요.",
+  "also": [
+   {
+    "w": "cashless",
+    "pos": "adj",
+    "ko": "현금 없는",
+    "en": "More shops are going **cashless** these days."
+   }
+  ]
+ },
+ {
+  "w": "cast",
+  "pos": "n",
+  "meaning_ko": "출연진, 던지다, 깁스",
+  "example_en": "The whole **cast** gathered on stage to take a bow.",
+  "example_ko": "출연진 전원이 무대에 모여 인사했어.",
+  "nuance_ko": "cast는 영화나 연극의 출연진을 가리키는 명사이면서, 던지다·드리우다라는 동사이기도 해요. 동사는 불규칙해서 cast-cast-cast로 변하지 않아요. cast a vote(투표하다), cast doubt(의혹을 던지다), cast a shadow(그림자를 드리우다)가 짝꿍이에요. 골절 치료 깁스도 cast라고 해요. 배역을 정하는 건 casting이라서 영화 오디션과 연결돼요. 금속을 틀에 부어 만드는 것도 cast라고 해요.",
+  "also": [
+   {
+    "w": "casting",
+    "pos": "n",
+    "ko": "배역 선정",
+    "en": "The **casting** for the new film starts next week."
+   }
+  ]
+ },
+ {
+  "w": "castle",
+  "pos": "n",
+  "meaning_ko": "성",
+  "example_en": "We visited an old **castle** on top of the hill.",
+  "example_ko": "우린 언덕 위에 있는 오래된 성을 구경했어.",
+  "nuance_ko": "castle은 중세 시대의 성채를 뜻해요. 발음은 t를 읽지 않고 [캐슬]이라고 해요. palace는 왕이 사는 궁전이고 castle은 방어 목적의 성이라는 차이가 있어요. An Englishman's home is his castle은 '자기 집은 자기만의 성'이라는 속담이에요. 체스에서는 castling이라는 규칙이 있고 루크를 rook 또는 castle이라고 부르기도 해요. 모래성은 sandcastle이라고 해요.",
+  "also": []
+ },
+ {
+  "w": "casual",
+  "pos": "adj",
+  "meaning_ko": "격식 없는, 평상시의, 우연한",
+  "example_en": "The dress code here is pretty **casual**.",
+  "example_ko": "여기 복장 규정은 꽤 자유로운 편이야.",
+  "nuance_ko": "casual은 격식을 차리지 않고 편안한 상태를 말해요. casual clothes, a casual conversation, business casual(비즈니스 캐주얼)이 자주 쓰여요. 우연하고 대수롭지 않은 만남에도 써서 a casual acquaintance는 가벼운 지인이에요. 사람의 태도에 쓰면 무심하다는 뜻이라서 a casual attitude는 진지하지 않은 태도예요. formal의 반대말이에요. casual dating은 가볍게 만나는 관계라는 뜻이에요.",
+  "also": [
+   {
+    "w": "casually",
+    "pos": "adv",
+    "ko": "편하게, 무심코",
+    "en": "He **casually** mentioned that he was moving."
+   }
+  ]
+ },
+ {
+  "w": "ceiling",
+  "pos": "n",
+  "meaning_ko": "천장, 상한",
+  "example_en": "There's a water stain on the **ceiling** above my bed.",
+  "example_ko": "내 침대 위 천장에 물얼룩이 생겼어.",
+  "nuance_ko": "ceiling은 방 위쪽의 천장을 말해요. 철자가 어려워서 ei 순서를 자주 틀려요. glass ceiling은 여성이나 소수자가 승진을 못 하게 막는 보이지 않는 장벽이에요. hit the ceiling은 몹시 화를 낸다는 구어 표현이에요. 가격이나 한도의 상한선도 ceiling이라서 price ceiling이라고 해요. 반대말은 floor예요. 높은 천장은 high ceilings라고 해요.",
+  "also": []
+ },
+ {
+  "w": "cent",
+  "pos": "n",
+  "meaning_ko": "센트",
+  "example_en": "It costs ninety-nine **cents** at the corner store.",
+  "example_ko": "동네 가게에서는 99센트야.",
+  "nuance_ko": "cent는 달러의 100분의 1인 센트예요. 1센트는 penny, 5센트는 nickel, 10센트는 dime, 25센트는 quarter라는 별명이 있어요. not worth a cent는 '한 푼의 가치도 없다'는 표현이에요. 비슷하게 two cents는 '내 의견'이라는 뜻으로 my two cents라고 해요. cent는 숫자를 세는 단위이고 percent의 cent도 '백'이라는 라틴어에서 왔어요. 가격을 말할 때 복수 cents를 써요.",
+  "also": []
+ },
+ {
+  "w": "centimetre",
+  "pos": "n",
+  "meaning_ko": "센티미터",
+  "example_en": "The table is about eighty **centimetres** tall.",
+  "example_ko": "그 탁자는 높이가 80센티미터쯤 돼.",
+  "nuance_ko": "centimetre는 영국식 철자이고, 미국식은 centimeter예요. 약어는 cm이고 미터의 100분의 1이에요. 길이를 말할 때 숫자 뒤에 복수형을 쓰고 a ten-centimetre gap처럼 형용사로 쓰면 단수예요. 미국에서는 inch를 쓰는 일이 많아서 cm와 변환이 필요해요. 1인치는 약 2.54센티미터예요. 한국에서 키를 말할 때 cm를 쓰지만 영어권은 feet와 inches로 말하는 경우가 흔해요.",
+  "also": [
+   {
+    "w": "centimeter",
+    "pos": "n",
+    "ko": "센티미터(미국식)",
+    "en": "The screen is only a few **centimeters** wide."
+   }
+  ]
+ },
+ {
+  "w": "century",
+  "pos": "n",
+  "meaning_ko": "세기, 100년",
+  "example_en": "The church was built in the twelfth **century**.",
+  "example_ko": "그 교회는 12세기에 지어졌어.",
+  "nuance_ko": "century는 100년 단위이고 서수와 함께 the twentieth century처럼 써요. 1901년부터 2000년까지가 20세기이므로 1900년대와 20세기가 완전히 같지는 않아요. the 21st century는 2001년부터 시작이에요. in the last century는 보통 '지난 세기', 곧 100년 전쯤을 가리켜요. 크리켓에서 century는 100득점이라는 뜻이에요. 로마 군대의 백인대에서 유래한 말이에요.",
+  "also": []
+ },
+ {
+  "w": "chain",
+  "pos": "n",
+  "meaning_ko": "사슬, 체인점, 연쇄",
+  "example_en": "The coffee **chain** just opened another shop downtown.",
+  "example_ko": "그 커피 체인점이 시내에 또 한 곳을 열었어.",
+  "nuance_ko": "chain은 쇠사슬이라는 물리적 뜻과, 이어진 것이라는 비유적 뜻이 있어요. a chain of events(일련의 사건), the food chain(먹이 사슬), supply chain(공급망)이 흔해요. 체인점은 a restaurant chain처럼 같은 상호의 여러 가게를 말해요. 목걸이를 가리킬 때도 gold chain이라고 해요. 동사 chain은 사슬로 묶는다는 뜻이에요. chain reaction은 연쇄 반응이에요.",
+  "also": []
+ },
+ {
+  "w": "challenge",
+  "pos": "n",
+  "meaning_ko": "도전, 난제, 이의를 제기하다",
+  "example_en": "Learning a new language is a big **challenge**.",
+  "example_ko": "새 언어를 배우는 건 큰 도전이야.",
+  "nuance_ko": "challenge는 능력을 시험받는 어려운 일이나 도전이라는 명사이고, 동사로는 이의를 제기하거나 겨루자고 하는 것을 말해요. face a challenge, rise to the challenge, a challenge to authority가 짝꿍이에요. 비즈니스에서 problem보다 긍정적인 어감으로 challenge를 자주 써요. 동사 challenge someone to a game은 '게임으로 겨루자고 하다'예요. challenge a decision은 결정에 이의를 제기하는 일이에요. 물려받은 유행어 challenge는 SNS에서도 쓰여요.",
+  "also": [
+   {
+    "w": "challenging",
+    "pos": "adj",
+    "ko": "도전적인, 힘든",
+    "en": "It's a **challenging** but rewarding job."
+   },
+   {
+    "w": "challenger",
+    "pos": "n",
+    "ko": "도전자",
+    "en": "The **challenger** beat the champion in round three."
+   }
+  ]
+ },
+ {
+  "w": "champion",
+  "pos": "n",
+  "meaning_ko": "챔피언, 우승자, 옹호자",
+  "example_en": "She became the world **champion** at the age of twenty.",
+  "example_ko": "그녀는 스무 살에 세계 챔피언이 됐어.",
+  "nuance_ko": "champion은 대회의 우승자나 챔피언을 뜻하고, 어떤 주장을 열렬히 옹호하는 사람이라는 뜻도 있어요. a champion of human rights는 인권을 옹호하는 사람이에요. 동사 champion은 '지지하다, 옹호하다'라는 뜻이에요. 구어체로 You're a champion!은 '정말 최고야'라는 칭찬이에요. 영국식에서는 champion이 형용사로 '훌륭한'이라는 뜻으로 쓰이기도 해요. 줄임말 champ는 친근한 호칭이라서 Good job, champ!처럼 격려할 때 써요.",
+  "also": [
+   {
+    "w": "championship",
+    "pos": "n",
+    "ko": "선수권 대회",
+    "en": "Our team won the national **championship**."
+   }
+  ]
+ },
+ {
+  "w": "channel",
+  "pos": "n",
+  "meaning_ko": "채널, 경로, 해협",
+  "example_en": "What **channel** is the game on tonight?",
+  "example_ko": "오늘 밤 그 경기 몇 번 채널에서 해?",
+  "nuance_ko": "channel은 TV 채널, 소통 경로, 해협을 두루 뜻해요. a TV channel, a YouTube channel, through official channels(공식 경로로)처럼 써요. the English Channel은 영국과 프랑스 사이의 영불 해협이에요. 동사로 channel은 '에너지나 돈을 어디에 쏟다'라는 뜻이라서 channel your energy into work라고 해요. 영국식에서는 channelled, 미국식에서는 channeled로 철자가 달라요. 소통 방식은 communication channel처럼 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "chapter",
+  "pos": "n",
+  "meaning_ko": "장, 한 시기",
+  "example_en": "I just finished the first **chapter** of the book.",
+  "example_ko": "그 책의 1장을 방금 다 읽었어.",
+  "nuance_ko": "chapter는 책의 한 장을 뜻하고, 인생의 한 시기를 비유할 때도 써요. a new chapter in my life는 '새로운 시작'을 의미해서 이직이나 졸업 소식에 자주 쓰여요. 줄임말은 ch.이고 chapter 5처럼 번호와 함께 써요. 단체의 지부도 chapter라고 하고, 미국 대학 동아리 지부가 대표적이에요. 영화나 게임에서도 Chapter One처럼 구성을 나눠요. 문서에서는 section, part와 구분해서 써요.",
+  "also": []
+ },
+ {
+  "w": "character",
+  "pos": "n",
+  "meaning_ko": "성격, 등장인물, 문자",
+  "example_en": "My favorite **character** in the series is the funny sidekick.",
+  "example_ko": "그 시리즈에서 내가 제일 좋아하는 인물은 웃긴 조연이야.",
+  "nuance_ko": "character는 사람의 성격과 인격, 이야기의 등장인물, 문자 한 글자를 뜻해요. a strong character는 성격이 강하다는 뜻이고, a main character는 주인공이에요. 문맥을 보고 뜻을 구분해야 하는데, 컴퓨터에서 글자 수를 셀 때는 characters로 말해요. out of character는 '평소답지 않은', in character는 '그 사람답게'라는 표현이에요. 구어체 He's quite a character!는 개성 있고 재미있는 사람이라는 뜻이에요. personality는 성격 전반이고 character는 도덕적 품성에 더 가까워요.",
+  "also": [
+   {
+    "w": "characterize",
+    "pos": "v",
+    "ko": "특징짓다",
+    "en": "Warm summers **characterize** the region."
+   }
+  ]
+ },
+ {
+  "w": "charm",
+  "pos": "n",
+  "meaning_ko": "매력, 마법의 부적",
+  "example_en": "The little town has a lot of old-world **charm**.",
+  "example_ko": "그 작은 마을에는 옛 정취의 매력이 가득해.",
+  "nuance_ko": "charm은 사람이나 장소가 사람을 끌어당기는 매력을 말해요. 외모보다 성격과 분위기에서 오는 호감에 가까워요. turn on the charm은 '매력을 한껏 발산하다', lucky charm은 행운의 부적이에요. 동사 charm은 '매료시키다'이고 be charmed by는 '~에 마음을 빼앗기다'예요. Third time's the charm이라는 속담은 '삼세번이면 된다'는 뜻이에요. 형용사 charming은 사람이나 장소를 칭찬할 때 자주 써요.",
+  "also": [
+   {
+    "w": "charming",
+    "pos": "adj",
+    "ko": "매력적인",
+    "en": "What a **charming** little café!"
+   },
+   {
+    "w": "charmed",
+    "pos": "adj",
+    "ko": "매료된",
+    "en": "We were all **charmed** by her smile."
+   }
+  ]
+ },
+ {
+  "w": "chase",
+  "pos": "v",
+  "meaning_ko": "뒤쫓다, 추적하다",
+  "example_en": "The kids were **chasing** each other around the yard.",
+  "example_ko": "아이들이 마당에서 서로 쫓아다니고 있었어.",
+  "nuance_ko": "chase는 붙잡으려고 쫓아가는 동작이에요. chase a thief, chase a dream(꿈을 좇다)처럼 물리적·비유적으로 모두 써요. cut to the chase는 '본론으로 바로 들어가다'라는 관용 표현이에요. wild goose chase는 가망 없는 일을 쫓는 헛수고예요. follow는 뒤따르기만 하는 것이고 chase는 잡으려고 빠르게 쫓는 느낌이에요. 명사로 a car chase는 영화에 자주 나오는 추격전이에요.",
+  "also": []
+ },
+ {
+  "w": "chat",
+  "pos": "v",
+  "meaning_ko": "수다 떨다, 채팅하다",
+  "example_en": "We **chatted** for hours over coffee yesterday.",
+  "example_ko": "어제 커피 마시면서 몇 시간이나 수다를 떨었어.",
+  "nuance_ko": "chat은 가볍게 이런저런 이야기를 나누는 것이에요. have a chat, chat with a friend, chat online처럼 써요. 영국식에서 have a chat은 짧게 이야기하자는 뜻으로 자주 쓰여요. 한국어 '채팅'은 주로 온라인 대화를 뜻하지만 영어에서는 오프라인 수다에도 chat을 써요. chat someone up은 '말을 걸어 호감을 표하다'라는 영국식 구어예요. talk보다 가볍고 친근한 느낌이에요.",
+  "also": [
+   {
+    "w": "chatty",
+    "pos": "adj",
+    "ko": "수다스러운",
+    "en": "The driver was very **chatty** today."
+   }
+  ]
+ },
+ {
+  "w": "cheat",
+  "pos": "v",
+  "meaning_ko": "속이다, 부정행위를 하다",
+  "example_en": "He got caught trying to **cheat** on the exam.",
+  "example_ko": "그는 시험에서 부정행위를 하려다 걸렸어.",
+  "nuance_ko": "cheat는 규칙을 어기거나 속임수로 이득을 보는 동작이에요. cheat on a test(시험에서 커닝하다), cheat on your partner(바람피우다)처럼 on이 붙는 경우가 많아요. cheat someone out of money는 속여서 돈을 빼앗는 일이에요. 게임에서 cheat code는 편법 코드를 말해요. lie는 거짓말이고 cheat는 속임수로 부당한 이득을 보는 행위에 초점이 있어요. 명사 cheat는 사기꾼을 가리키기도 해요.",
+  "also": [
+   {
+    "w": "cheater",
+    "pos": "n",
+    "ko": "부정행위자",
+    "en": "Nobody likes a **cheater**."
+   }
+  ]
+ },
+ {
+  "w": "cheek",
+  "pos": "n",
+  "meaning_ko": "볼, 뻔뻔함",
+  "example_en": "She kissed him gently on the **cheek**.",
+  "example_ko": "그녀는 그의 볼에 살짝 입을 맞췄어.",
+  "nuance_ko": "cheek은 얼굴의 볼을 뜻하고, 영국식에서는 뻔뻔함이라는 뜻도 있어요. What a cheek!은 '뻔뻔하네!'라는 불쾌감을 나타내요. tongue in cheek는 '농담조로, 진지하지 않게'라는 표현이에요. cheek to cheek는 볼을 맞대고 춤추는 장면에서 쓰는 표현이에요. 아기 볼은 chubby cheeks라고 귀엽게 말해요. 엉덩이의 한쪽을 가리키는 속어로도 쓰이니 맥락에 주의하세요.",
+  "also": []
+ },
+ {
+  "w": "cheer",
+  "pos": "v",
+  "meaning_ko": "환호하다, 응원하다",
+  "example_en": "The crowd **cheered** when the team scored.",
+  "example_ko": "팀이 득점하자 관중이 환호했어.",
+  "nuance_ko": "cheer는 큰 소리로 응원하거나 환호하는 동작이에요. cheer for a team, cheer someone on(~를 응원하다)이 자주 쓰여요. cheer up은 '기운을 내다, 기운 나게 하다'라는 구동사라서 Cheer up!은 힘내라는 위로예요. 건배할 때 Cheers!라고 말하고, 영국식에서는 '고마워'나 '안녕'이라는 가벼운 인사로도 써요. 명사 cheer는 응원의 함성이고 Christmas cheer는 명절의 즐거운 분위기예요. 한국어 '치어리더'도 이 단어에서 왔어요.",
+  "also": [
+   {
+    "w": "cheerful",
+    "pos": "adj",
+    "ko": "쾌활한",
+    "en": "She's always **cheerful** in the morning."
+   },
+   {
+    "w": "cheers",
+    "pos": "int",
+    "ko": "건배, 고마워",
+    "en": "**Cheers**, mate! Thanks for the lift."
+   }
+  ]
+ },
+ {
+  "w": "cheese",
+  "pos": "n",
+  "meaning_ko": "치즈",
+  "example_en": "Could you add extra **cheese** to my pizza?",
+  "example_ko": "제 피자에 치즈 좀 더 올려 주실 수 있나요?",
+  "nuance_ko": "cheese는 치즈이고 셀 수 없는 명사예요. a piece of cheese, a slice of cheese, cheese sandwich처럼 써요. 사진 찍을 때 웃으라고 Say cheese!라고 해요. 한국어 '김치'와 같은 역할이에요. 구어체로 cheesy는 '유치한, 진부한'이라는 뜻이라서 a cheesy joke는 썰렁한 농담이에요. big cheese는 중요한 사람을 가리키는 구어 표현이에요. 치즈 종류에 따라 cheddar, mozzarella처럼 이름이 붙어요.",
+  "also": []
+ },
+ {
+  "w": "chest",
+  "pos": "n",
+  "meaning_ko": "가슴, 상자",
+  "example_en": "He felt a sharp pain in his **chest**.",
+  "example_ko": "그는 가슴에 날카로운 통증을 느꼈어.",
+  "nuance_ko": "chest는 몸통 위쪽의 가슴 부위와 뚜껑 달린 큰 상자를 뜻해요. chest pain, a tight chest는 의료 맥락에서 자주 나와요. breast는 유방이나 고기 부위를 말하고 chest는 가슴 전체를 가리키는 중립적인 말이에요. a treasure chest(보물 상자), a chest of drawers(서랍장)처럼 가구에도 써요. get something off your chest는 '마음속 얘기를 털어놓다'라는 관용 표현이에요. 남자 가슴은 chest, 여자 가슴은 chest 또는 bust로 구분해서 쓰기도 해요.",
+  "also": []
+ },
+ {
+  "w": "chew",
+  "pos": "v",
+  "meaning_ko": "씹다",
+  "example_en": "Please **chew** your food slowly before you swallow.",
+  "example_ko": "삼키기 전에 음식을 천천히 씹으렴.",
+  "nuance_ko": "chew는 음식을 이로 씹는 동작이에요. chew gum은 껌을 씹는 것이고, chew on a bone은 개가 뼈를 씹는 모습이에요. chew over는 '곰곰이 생각하다', chew someone out은 '호되게 꾸짖다'라는 구동사예요. bite off more than you can chew는 감당 못 할 일을 벌인다는 속담이에요. 형용사 chewy는 쫄깃쫄깃한 식감이라서 chewy candy처럼 써요. bite는 한 번 베어 무는 것이고 chew는 계속 씹는 동작이에요.",
+  "also": [
+   {
+    "w": "chewy",
+    "pos": "adj",
+    "ko": "쫄깃한",
+    "en": "I love the **chewy** texture of this bread."
+   }
+  ]
+ },
+ {
+  "w": "chief",
+  "pos": "adj",
+  "meaning_ko": "주된, 최고의, 우두머리",
+  "example_en": "Cost is the **chief** reason we didn't buy it.",
+  "example_ko": "우리가 그걸 안 산 주된 이유는 가격이야.",
+  "nuance_ko": "chief는 형용사로는 가장 중요한 '주된'이라는 뜻이고, 명사로는 우두머리를 뜻해요. the chief reason, chief executive처럼 쓰여요. CEO는 chief executive officer의 약자예요. the chief of police는 경찰서장이고 fire chief는 소방서장이에요. 부사 chiefly는 '주로'라는 뜻이에요. main과 비슷하지만 chief는 격식 있는 느낌이에요. 원주민 부족의 추장도 chief라고 하지만 요즘은 조심스럽게 써요.",
+  "also": [
+   {
+    "w": "chiefly",
+    "pos": "adv",
+    "ko": "주로",
+    "en": "The area is known **chiefly** for its wine."
+   }
+  ]
+ },
+ {
+  "w": "chocolate",
+  "pos": "n",
+  "meaning_ko": "초콜릿",
+  "example_en": "I can't resist a piece of dark **chocolate** after dinner.",
+  "example_ko": "저녁 먹고 나서 다크 초콜릿 한 조각은 참을 수가 없어.",
+  "nuance_ko": "chocolate은 초콜릿이고 셀 수 없는 명사지만 한 개씩 낱개를 말할 때는 a chocolate이라고 해요. a bar of chocolate, hot chocolate(핫초코), chocolate chip cookie 등이 자주 나와요. 발음은 [초콜릿]이 아니라 [촉-러트]에 가까워서 가운데 o를 거의 읽지 않아요. 영국식에서는 선물용 초콜릿 상자를 a box of chocolates라고 해요. chocolate-colored는 갈색 계열의 색이에요. 형용사로는 chocolatey라고 해요.",
+  "also": []
+ },
+ {
+  "w": "chop",
+  "pos": "v",
+  "meaning_ko": "썰다, 자르다",
+  "example_en": "**Chop** the onions finely and add them to the pan.",
+  "example_ko": "양파를 잘게 썰어서 팬에 넣어.",
+  "nuance_ko": "chop은 칼이나 도끼로 내리쳐서 썰거나 자르는 동작이에요. chop vegetables, chop wood, chop down a tree처럼 써요. cut보다 세게 내리치는 느낌이고 slice는 얇게 써는 것이에요. 명사 chop은 갈비살 같은 고기 한 점이라서 pork chop(돼지갈비)이라고 해요. chopsticks의 chop은 '빠른'이라는 뜻의 중국어에서 왔어요. 경영에서 chop은 '삭감하다'라는 뜻으로도 써서 chop costs라고 해요.",
+  "also": [
+   {
+    "w": "chopped",
+    "pos": "adj",
+    "ko": "다진, 썬",
+    "en": "Add some **chopped** garlic to the sauce."
+   }
+  ]
+ },
+ {
+  "w": "cigarette",
+  "pos": "n",
+  "meaning_ko": "담배, 궐련",
+  "example_en": "He decided to quit smoking and threw away his last **cigarette**.",
+  "example_ko": "그는 금연하기로 하고 마지막 담배를 버렸어.",
+  "nuance_ko": "cigarette는 종이로 만 담배 한 개비를 가리켜요. light a cigarette, a pack of cigarettes, smoke a cigarette처럼 써요. cigar는 시가이고 cigarette는 더 작은 궐련이에요. 발음은 [시거렛]처럼 끝에 강세가 와요. 금연은 quit smoking, give up smoking이라고 해요. 흡연 맥락에서는 smoke를 동사로 써서 I don't smoke처럼 말해요.",
+  "also": []
+ },
+ {
+  "w": "circle",
+  "pos": "n",
+  "meaning_ko": "원, 동그라미, 모임",
+  "example_en": "The kids sat in a **circle** on the floor.",
+  "example_ko": "아이들이 바닥에 동그랗게 둘러앉았어.",
+  "nuance_ko": "circle은 둥근 원이나 동그라미를 뜻하고, 같은 관심사를 가진 사람들의 모임이라는 비유적 뜻도 있어요. a circle of friends, in business circles(재계에서는)처럼 써요. 동사 circle은 '빙글빙글 돌다, 동그라미를 치다'예요. go around in circles는 같은 자리를 맴돌며 진전이 없다는 표현이에요. full circle은 원점으로 돌아온 상황을 가리켜요. square(정사각형)와 대비해서 도형 이름으로도 쓰여요.",
+  "also": [
+   {
+    "w": "circular",
+    "pos": "adj",
+    "ko": "원형의",
+    "en": "The table has a **circular** shape."
+   }
+  ]
+ },
+ {
+  "w": "circumstance",
+  "pos": "n",
+  "meaning_ko": "상황, 환경",
+  "example_en": "Under no **circumstances** should you open that door.",
+  "example_ko": "어떤 경우에도 그 문을 열면 안 돼.",
+  "nuance_ko": "circumstance는 어떤 일이 일어나는 주변 상황이나 조건을 뜻해요. 보통 복수형 circumstances로 쓰이는 경우가 많아요. under the circumstances는 '그런 상황에서는', under no circumstances는 '어떤 경우에도 ~않다'예요. 후자는 문두에 오면 주어와 동사가 도치돼요. due to circumstances beyond our control은 공지에서 자주 쓰는 '통제 밖의 사정'이라는 말이에요. situation은 현재 상황이고 circumstance는 그 일을 둘러싼 조건이라는 느낌이에요.",
+  "also": []
+ },
+ {
+  "w": "citizen",
+  "pos": "n",
+  "meaning_ko": "시민, 국민",
+  "example_en": "She became a U.S. **citizen** after living there for ten years.",
+  "example_ko": "그녀는 10년을 살고 나서 미국 시민권을 얻었어.",
+  "nuance_ko": "citizen은 한 나라나 도시의 시민이나 국민을 뜻해요. a citizen of Korea, a senior citizen(노인), a fellow citizen이 자주 쓰여요. 시민권은 citizenship이고, 이중 국적은 dual citizenship이라고 해요. national은 국적을 가진 사람을 가리키는 비슷한 말이에요. resident는 거주자이고 citizen은 법적 시민이라는 차이가 있어요. citizen journalist는 일반인이 취재하고 알리는 사람을 가리켜요.",
+  "also": [
+   {
+    "w": "citizenship",
+    "pos": "n",
+    "ko": "시민권",
+    "en": "He applied for **citizenship** last year."
+   }
+  ]
+ },
+ {
+  "w": "claim",
+  "pos": "v",
+  "meaning_ko": "주장하다, 요구하다",
+  "example_en": "He **claims** that he never received the email.",
+  "example_ko": "그는 그 이메일을 받은 적이 없다고 주장해.",
+  "nuance_ko": "claim은 사실이라고 주장하지만 증명되지 않았다는 뉘앙스를 담은 동사예요. claim that절 구문이 가장 흔해요. 보험금이나 수하물을 청구하는 행동에도 쓰여 claim insurance, baggage claim이라고 해요. 명사 claim은 주장 또는 청구를 뜻해요. 뉴스에서 He claimed는 말한 내용을 기자가 보증하지 않는 거리감을 둬요. say보다 강하고 state보다 불확실한 어감이에요.",
+  "also": []
+ },
+ {
+  "w": "classic",
+  "pos": "adj",
+  "meaning_ko": "고전적인, 전형적인, 명작",
+  "example_en": "That movie is a **classic**. You have to watch it.",
+  "example_ko": "그 영화는 고전 명작이야. 꼭 봐야 해.",
+  "nuance_ko": "classic은 시간이 지나도 가치가 인정되는 명작이나 고전을 뜻해요. 명사로 a classic이라고 하면 명작 한 편이고, 형용사로는 전형적인이라는 뜻이어서 a classic mistake는 흔한 실수예요. classical은 고전 양식이나 클래식 음악처럼 특정 시대나 장르를 말해요. classic과 classical은 쓰임이 다르니 구분하세요. 자동차 업계에서는 classic car가 오래된 명차예요. That's classic!은 '딱 그 사람 스타일이네' 하고 웃을 때 쓰는 말이에요.",
+  "also": [
+   {
+    "w": "classical",
+    "pos": "adj",
+    "ko": "고전의, 클래식의",
+    "en": "She enjoys **classical** music."
+   },
+   {
+    "w": "classics",
+    "pos": "n",
+    "ko": "고전 작품",
+    "en": "I'm trying to read more of the **classics**."
+   }
+  ]
+ },
+ {
+  "w": "clever",
+  "pos": "adj",
+  "meaning_ko": "영리한, 기발한",
+  "example_en": "That was a **clever** way to fix the problem.",
+  "example_ko": "문제를 해결한 방식이 참 영리했어.",
+  "nuance_ko": "clever는 머리가 좋고 상황에 맞게 재치 있게 대응하는 영리함을 말해요. a clever idea, a clever trick처럼 쓰여요. smart와 비슷하지만 clever에는 꾀가 있다는 느낌이 들어서 때로는 교활하다는 뜻이 섞일 수 있어요. 영국식에서는 clever가 학업 성적이 좋은 똑똑함을 뜻하기도 해요. too clever by half는 '지나치게 약삭빠른'이라는 표현이에요. wise는 경험에서 나오는 지혜이고 clever는 머리 회전이에요.",
+  "also": [
+   {
+    "w": "cleverly",
+    "pos": "adv",
+    "ko": "영리하게",
+    "en": "The box was **cleverly** hidden behind the bookshelf."
+   }
+  ]
+ },
+ {
+  "w": "cliff",
+  "pos": "n",
+  "meaning_ko": "절벽",
+  "example_en": "We stood at the edge of the **cliff** and watched the waves.",
+  "example_ko": "우리는 절벽 끝에 서서 파도를 바라봤어.",
+  "nuance_ko": "cliff는 가파른 바위 절벽이고 해안이나 산에서 흔히 봐요. a steep cliff, jump off a cliff, a cliff edge처럼 써요. cliffhanger는 이야기가 긴장된 순간에 끝나는 구성을 말해요. 경제 뉴스에서 fiscal cliff는 재정 절벽으로 불리는 위기 상황이에요. 비슷한 단어 crag는 더 울퉁불퉁한 바위산이에요. fall off a cliff는 급격히 하락하는 상황을 비유하는 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "clip",
+  "pos": "n",
+  "meaning_ko": "클립, 영상 조각, 깎다",
+  "example_en": "I watched a short **clip** of the speech online.",
+  "example_ko": "인터넷에서 그 연설의 짧은 영상을 봤어.",
+  "nuance_ko": "clip은 종이를 집는 클립, 영상의 짧은 장면, 머리핀 같은 여러 뜻이 있어요. a paper clip, a video clip, hair clip처럼 쓰여요. 동사 clip은 '집다, 자르다'라서 clip the coupon(쿠폰을 오려내다), clip a hedge(울타리를 다듬다)라고 해요. 총의 탄창도 clip이라고 해요. at a fast clip은 빠른 속도를 뜻하는 표현이에요. 발음은 [클립]이고 짧은 영상은 요즘 SNS에서 가장 흔히 접해요.",
+  "also": [
+   {
+    "w": "clipped",
+    "pos": "adj",
+    "ko": "짧게 자른, 끊어 말하는",
+    "en": "He spoke in a **clipped** tone."
+   }
+  ]
+ },
+ {
+  "w": "cloth",
+  "pos": "n",
+  "meaning_ko": "천, 헝겊",
+  "example_en": "Wipe the table with a damp **cloth**.",
+  "example_ko": "젖은 천으로 탁자를 닦아 줘.",
+  "nuance_ko": "cloth는 천이라는 재료와 걸레 같은 헝겊 조각을 뜻해요. 재료로는 셀 수 없는 명사이고 조각은 a cloth, cloths로 세요. a damp cloth, a table cloth(식탁보)처럼 써요. clothes(옷)와 철자와 발음이 비슷해서 헷갈려요. cloth는 [클로쓰]이고 clothes는 [클로우즈]예요. fabric이 직물 재료 전반을 가리키는 말이라서 cloth보다 전문적이에요.",
+  "also": []
+ },
+ {
+  "w": "cloud",
+  "pos": "n",
+  "meaning_ko": "구름, 클라우드",
+  "example_en": "A big dark **cloud** is moving toward us.",
+  "example_ko": "크고 어두운 구름이 우리 쪽으로 오고 있어.",
+  "nuance_ko": "cloud는 하늘의 구름이고 컴퓨터에서는 인터넷 상 저장 공간을 가리켜요. store files in the cloud, cloud computing이 대표 표현이에요. 비유적으로는 먹구름 같은 걱정을 뜻해서 a cloud of suspicion은 '의혹의 그늘'이에요. every cloud has a silver lining은 '어려움에도 좋은 면이 있다'는 속담이에요. on cloud nine은 '날아갈 듯 행복한' 상태예요. 동사로 cloud one's judgment는 판단을 흐리게 한다는 뜻이에요.",
+  "also": [
+   {
+    "w": "cloudy",
+    "pos": "adj",
+    "ko": "흐린",
+    "en": "It was a **cloudy** day, but it didn't rain."
+   }
+  ]
+ },
+ {
+  "w": "clue",
+  "pos": "n",
+  "meaning_ko": "단서, 실마리",
+  "example_en": "The police found a **clue** at the scene.",
+  "example_ko": "경찰은 현장에서 단서를 하나 찾았어.",
+  "nuance_ko": "clue는 문제나 수수께끼를 푸는 실마리를 뜻해요. find a clue, give a clue, a clue to the mystery처럼 써요. I have no clue는 '전혀 모르겠어'라는 구어 표현으로 아주 자주 쓰여요. clueless는 '아무것도 모르는'이라서 She's clueless about cars처럼 써요. 십자말풀이의 힌트도 clue라고 해요. hint는 슬쩍 알려주는 암시이고 clue는 추리할 단서에 가까워요.",
+  "also": [
+   {
+    "w": "clueless",
+    "pos": "adj",
+    "ko": "아무것도 모르는",
+    "en": "I'm totally **clueless** about computers."
+   }
+  ]
+ },
+ {
+  "w": "coach",
+  "pos": "n",
+  "meaning_ko": "코치, 감독, 장거리 버스",
+  "example_en": "Our **coach** told us to warm up before the game.",
+  "example_ko": "코치님이 경기 전에 몸을 풀라고 하셨어.",
+  "nuance_ko": "coach는 스포츠 코치뿐 아니라 개인의 능력을 키워주는 지도자를 두루 뜻해요. a basketball coach, a life coach, a vocal coach 등이 있어요. 영국식에서는 장거리 버스도 coach라고 해요. 비행기의 일반석을 미국식으로 coach라고도 해요. 동사 coach는 가르치고 지도하는 동작이에요. trainer는 체력 훈련 담당이고 coach는 전략과 기술까지 가르치는 사람이에요.",
+  "also": [
+   {
+    "w": "coaching",
+    "pos": "n",
+    "ko": "코칭, 지도",
+    "en": "She offers career **coaching** for young graduates."
+   }
+  ]
+ },
+ {
+  "w": "coal",
+  "pos": "n",
+  "meaning_ko": "석탄",
+  "example_en": "The old power plant still burns **coal** for electricity.",
+  "example_ko": "그 오래된 발전소는 아직도 전기를 만들려고 석탄을 태워.",
+  "nuance_ko": "coal은 연료로 쓰는 석탄이고 셀 수 없는 명사예요. a coal mine, coal-fired power plant, burn coal 같은 표현이 에너지 뉴스에 자주 나와요. coals는 타고 있는 숯 조각을 뜻해서 hot coals라고 해요. haul someone over the coals는 '호되게 꾸짖다'라는 관용 표현이에요. carry coals to Newcastle은 필요 없는 일을 한다는 속담이에요. 숯은 charcoal이라고 따로 불러요.",
+  "also": []
+ },
+ {
+  "w": "coast",
+  "pos": "n",
+  "meaning_ko": "해안, 연안",
+  "example_en": "We drove along the **coast** and stopped at a small beach.",
+  "example_ko": "우린 해안을 따라 운전하다가 작은 해변에서 멈췄어.",
+  "nuance_ko": "coast는 육지와 바다가 만나는 해안선 일대를 말해요. the east coast, the west coast, along the coast처럼 써요. beach는 모래사장을 가리키고 coast는 더 넓은 해안 지대예요. the coast is clear는 '아무도 없어서 안전하다'라는 관용 표현이에요. 동사 coast는 힘을 안 들이고 타성으로 나아가는 것을 뜻해요. 미국에서는 East Coast와 West Coast가 문화적 차이를 나타내는 말로도 쓰여요.",
+  "also": [
+   {
+    "w": "coastal",
+    "pos": "adj",
+    "ko": "해안의",
+    "en": "The **coastal** towns were hit by the storm."
+   }
+  ]
+ },
+ {
+  "w": "combine",
+  "pos": "v",
+  "meaning_ko": "결합하다, 합치다",
+  "example_en": "**Combine** the flour and sugar in a large bowl.",
+  "example_ko": "큰 볼에 밀가루와 설탕을 섞어 줘.",
+  "nuance_ko": "combine은 두 가지 이상을 하나로 합치는 동작이에요. combine A with B 또는 combine A and B 구문이 흔해요. 요리 레시피에서 재료를 섞는다는 뜻으로 자주 나와요. 직장 맥락에서는 combine work and study처럼 병행하는 의미로도 써요. mix는 가볍게 섞는 것이고 combine은 하나의 새로운 것으로 합친다는 느낌이에요. combined는 형용사로 '합친'이라서 the combined effort(힘을 합친 노력)이라고 해요.",
+  "also": [
+   {
+    "w": "combination",
+    "pos": "n",
+    "ko": "조합",
+    "en": "The lock needs a four-digit **combination**."
+   },
+   {
+    "w": "combined",
+    "pos": "adj",
+    "ko": "결합된",
+    "en": "Their **combined** income is quite high."
+   }
+  ]
+ },
+ {
+  "w": "command",
+  "pos": "n",
+  "meaning_ko": "명령, 지휘, 구사력",
+  "example_en": "The dog sat down at the first **command**.",
+  "example_ko": "개는 첫 명령에 바로 앉았어.",
+  "nuance_ko": "command는 권위를 가지고 내리는 명령 또는 그 명령을 내리는 지휘권을 말해요. give a command, be in command, a command line처럼 써요. 컴퓨터 명령어도 command라서 터미널에서 자주 보여요. 언어 구사력을 말할 때 have a good command of English라고 하면 영어를 잘 다룬다는 뜻이에요. 동사 command는 '명령하다' 또는 '(존경 등을) 받다'라서 command respect는 존경을 받는다는 뜻이에요. order보다 권위가 강하고 군대 느낌이 나요.",
+  "also": [
+   {
+    "w": "commander",
+    "pos": "n",
+    "ko": "지휘관",
+    "en": "The **commander** gave the order to retreat."
+   }
+  ]
+ },
+ {
+  "w": "comment",
+  "pos": "n",
+  "meaning_ko": "논평, 댓글, 의견",
+  "example_en": "Please leave a **comment** below if you have any questions.",
+  "example_ko": "질문이 있으면 아래에 댓글을 남겨 주세요.",
+  "nuance_ko": "comment는 어떤 일에 대한 짧은 의견이나 논평이에요. make a comment, no comment(할 말 없다), leave a comment가 자주 쓰여요. 인터넷에서는 게시글에 다는 댓글을 comment라고 해요. 동사 comment on은 '~에 대해 논평하다'로 on을 붙여요. 기자에게 No comment라고 하면 답변을 거부한다는 뜻이에요. remark는 우연히 한 말이고 comment는 어떤 대상에 대한 의견이라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "commentary",
+    "pos": "n",
+    "ko": "해설, 논평",
+    "en": "The sports **commentary** was very exciting."
+   }
+  ]
+ },
+ {
+  "w": "commerce",
+  "pos": "n",
+  "meaning_ko": "상업, 무역",
+  "example_en": "E-**commerce** has changed the way people shop.",
+  "example_ko": "전자상거래는 사람들이 쇼핑하는 방식을 바꿔 놓았어.",
+  "nuance_ko": "commerce는 상품을 사고파는 상업 활동 전반을 뜻하는 격식 있는 단어예요. e-commerce(전자상거래), Chamber of Commerce(상공회의소), the Department of Commerce(상무부)처럼 고정된 이름에 많이 나와요. trade는 거래 자체이고 commerce는 이를 포함한 더 큰 활동의 영역이에요. business는 개별 기업의 일을 뜻하는 일상 단어예요. 형용사 commercial은 '상업적인'이고 명사로는 TV 광고를 가리켜요. 뉴스와 경제 기사에서 주로 만나요.",
+  "also": [
+   {
+    "w": "commercial",
+    "pos": "adj",
+    "ko": "상업의, 광고",
+    "en": "The film was a big **commercial** success."
+   },
+   {
+    "w": "commercially",
+    "pos": "adv",
+    "ko": "상업적으로",
+    "en": "The product is not yet **commercially** available."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1613 @@
+[
+ {
+  "w": "abandon",
+  "pos": "v",
+  "meaning_ko": "버리다, 포기하다",
+  "example_en": "They had to **abandon** the car and walk the rest of the way.",
+  "example_ko": "차를 그냥 두고 나머지 길은 걸어가야 했어.",
+  "nuance_ko": "abandon은 책임이나 애착이 있던 대상을 그대로 두고 떠나버린다는 느낌이에요. 사람, 동물, 차, 계획 모두에 쓸 수 있어요. give up은 구어체로 '포기하다'이고, abandon은 좀 더 단호하고 문어체에 가까워요. abandon ship(배를 버리고 탈출하다), abandon a plan처럼 자주 써요. 사람에게 쓰면 '버렸다'는 비난의 뜻이 강해서, 가볍게 '떠나다'로 쓰면 안 돼요.",
+  "also": [
+   {
+    "w": "abandoned",
+    "pos": "adj",
+    "ko": "버려진, 방치된",
+    "en": "We found an **abandoned** house at the end of the road."
+   },
+   {
+    "w": "abandonment",
+    "pos": "n",
+    "ko": "버림, 포기",
+    "en": "The child felt a deep sense of **abandonment**."
+   }
+  ]
+ },
+ {
+  "w": "abort",
+  "pos": "v",
+  "meaning_ko": "중단하다, 중지시키다",
+  "example_en": "We had to **abort** the whole plan when it started raining.",
+  "example_ko": "비가 오기 시작해서 계획을 통째로 접어야 했어.",
+  "nuance_ko": "abort는 이미 시작한 걸 도중에 끊어버린다는 말이에요. 우주 발사, 비행, 프로그램 실행처럼 진행 중인 과정에 많이 써요. cancel은 시작 전에도 쓰지만 abort는 시작한 뒤에 끊는다는 점이 달라요. stop은 일반적인 멈춤이고, abort는 문제가 생겨 급히 끝낸다는 느낌이 있어요. 컴퓨터에서 'abort the operation'이라는 메시지로 자주 봐요.",
+  "also": [
+   {
+    "w": "abortion",
+    "pos": "n",
+    "ko": "낙태, 유산",
+    "en": "They argued about **abortion** all night."
+   },
+   {
+    "w": "abortive",
+    "pos": "adj",
+    "ko": "실패로 끝난",
+    "en": "It was an **abortive** attempt to fix things."
+   }
+  ]
+ },
+ {
+  "w": "abroad",
+  "pos": "adv",
+  "meaning_ko": "해외에서, 해외로",
+  "example_en": "She's been living **abroad** for about five years now.",
+  "example_ko": "걔는 해외에서 산 지 이제 한 5년 됐어.",
+  "nuance_ko": "abroad는 '자기 나라 밖'이라는 뜻의 부사예요. 그래서 go abroad, study abroad처럼 전치사 to 없이 써요. 'go to abroad'는 한국 학습자가 정말 자주 틀리는 표현이에요. 'overseas'도 비슷한데, 바다를 건너간다는 느낌이 더 강하고 형용사로도 써서 'overseas students'라고 해요. abroad는 형용사로 앞에서 명사를 꾸미지 못해요.",
+  "also": []
+ },
+ {
+  "w": "absence",
+  "pos": "n",
+  "meaning_ko": "부재, 결석",
+  "example_en": "Your **absence** at the meeting didn't go unnoticed.",
+  "example_ko": "회의에 안 온 거, 다들 눈치챘어.",
+  "nuance_ko": "absence는 있어야 할 자리에 없는 상태를 말해요. 학교나 직장에서 '결석, 결근'이라는 뜻이고, 어떤 것이 아예 없다는 뜻도 있어요. in the absence of ~는 '~가 없는 상태에서'라는 격식 있는 표현으로 뉴스나 논문에 자주 나와요. 반대말은 presence예요. absence of mind(멍함)라는 표현도 있지만 흔하진 않아요. 'in my absence'(내가 없는 동안)도 꼭 알아두세요.",
+  "also": []
+ },
+ {
+  "w": "absorb",
+  "pos": "v",
+  "meaning_ko": "흡수하다, 몰두시키다",
+  "example_en": "Plants **absorb** water through their roots.",
+  "example_ko": "식물은 뿌리로 물을 빨아들여.",
+  "nuance_ko": "absorb는 스펀지처럼 액체, 충격, 정보를 안으로 빨아들이는 그림이에요. 물리적 흡수뿐 아니라 '정보를 소화하다'(absorb new information)도 돼요. 수동태 be absorbed in은 '~에 푹 빠져 있다'는 뜻으로 be absorbed in a book처럼 써요. 비슷한 soak up은 구어체고, absorb는 좀 더 중립적이에요. absorb the cost(비용을 떠안다)도 비즈니스에서 자주 써요.",
+  "also": [
+   {
+    "w": "absorption",
+    "pos": "n",
+    "ko": "흡수",
+    "en": "Vitamin C helps the **absorption** of iron."
+   },
+   {
+    "w": "absorbing",
+    "pos": "adj",
+    "ko": "몰입하게 만드는",
+    "en": "It was an **absorbing** book from start to finish."
+   }
+  ]
+ },
+ {
+  "w": "abstract",
+  "pos": "adj",
+  "meaning_ko": "추상적인, 개념적인",
+  "example_en": "Love is a pretty **abstract** idea for a five-year-old.",
+  "example_ko": "다섯 살 아이한테 사랑은 꽤 추상적인 개념이야.",
+  "nuance_ko": "abstract는 눈에 보이거나 만질 수 없는 개념을 가리켜요. 반대말은 concrete예요. abstract art(추상 미술)처럼 형태가 실제 사물과 다른 것에도 써요. 명사로는 논문의 '초록, 요약'이라는 뜻이 있어서 학술 맥락에서 정말 많이 보여요. 발음이 형용사 /ˈæbstrækt/, 동사 /æbˈstrækt/로 다르다는 점도 알아두세요. in the abstract(이론적으로만)라는 표현도 있어요.",
+  "also": [
+   {
+    "w": "abstraction",
+    "pos": "n",
+    "ko": "추상 개념, 추상화",
+    "en": "Freedom can feel like a vague **abstraction**."
+   },
+   {
+    "w": "abstractly",
+    "pos": "adv",
+    "ko": "추상적으로",
+    "en": "He tends to think **abstractly** about everything."
+   }
+  ]
+ },
+ {
+  "w": "abuse",
+  "pos": "n",
+  "meaning_ko": "학대, 남용",
+  "example_en": "The report describes years of **abuse** inside the institution.",
+  "example_ko": "그 보고서에는 시설 안에서 수년간 벌어진 학대가 담겨 있어.",
+  "nuance_ko": "abuse는 '잘못된 방식으로 해를 입히거나 오용하는 것'이에요. child abuse(아동 학대), drug abuse(약물 남용), abuse of power(권력 남용)처럼 자주 붙어요. 명사는 /əˈbjuːs/, 동사는 /əˈbjuːz/로 발음이 달라요. misuse는 단순히 잘못 쓰는 것이고, abuse는 해를 끼친다는 의미가 더 무거워요. verbal abuse(언어폭력)도 자주 나오는 말이에요.",
+  "also": [
+   {
+    "w": "abusive",
+    "pos": "adj",
+    "ko": "폭력적인, 욕설을 퍼붓는",
+    "en": "He got **abusive** when she said no."
+   },
+   {
+    "w": "abuser",
+    "pos": "n",
+    "ko": "학대자, 남용자",
+    "en": "The **abuser** was finally brought to court."
+   }
+  ]
+ },
+ {
+  "w": "academy",
+  "pos": "n",
+  "meaning_ko": "학원, 전문 교육기관, 학술원",
+  "example_en": "My brother just got into the police **academy**.",
+  "example_ko": "우리 형이 경찰 학교에 막 합격했어.",
+  "nuance_ko": "academy는 특정 분야를 전문적으로 가르치는 학교나 학술 단체를 말해요. police academy, military academy처럼 전문 훈련기관에 많이 써요. 한국어 '학원'과 달리 사설 입시학원을 뜻하는 건 아니에요. 그건 보통 cram school나 institute, 또는 tutoring center라고 해요. the Academy는 오스카상을 주는 영화예술과학아카데미를 가리키기도 해요(Academy Awards).",
+  "also": [
+   {
+    "w": "academic",
+    "pos": "adj",
+    "ko": "학업의, 학문적인",
+    "en": "Her **academic** record is outstanding."
+   },
+   {
+    "w": "academics",
+    "pos": "n",
+    "ko": "학업, 학자들",
+    "en": "He's strong in **academics** but weak at sports."
+   }
+  ]
+ },
+ {
+  "w": "accelerate",
+  "pos": "v",
+  "meaning_ko": "가속하다, 빨라지다",
+  "example_en": "The car began to **accelerate** as it left the tunnel.",
+  "example_ko": "차가 터널을 벗어나면서 속도를 내기 시작했어.",
+  "nuance_ko": "accelerate는 속도가 점점 빨라지는 걸 말해요. 자동차뿐 아니라 성장, 변화, 과정에도 써서 accelerate growth처럼 말해요. speed up이 구어체라면 accelerate는 뉴스나 비즈니스에서 더 자주 보여요. 자동차 엑셀 페달의 '액셀'이 바로 accelerator에서 왔어요. 반대말은 decelerate(감속하다)예요. 자동사로도, 타동사로도 쓸 수 있다는 점이 편해요.",
+  "also": [
+   {
+    "w": "acceleration",
+    "pos": "n",
+    "ko": "가속, 가속도",
+    "en": "The car's **acceleration** is incredible."
+   },
+   {
+    "w": "accelerator",
+    "pos": "n",
+    "ko": "가속 장치, 액셀 페달",
+    "en": "He pressed the **accelerator** and the engine roared."
+   }
+  ]
+ },
+ {
+  "w": "accommodate",
+  "pos": "v",
+  "meaning_ko": "수용하다, 맞춰주다",
+  "example_en": "The hotel can **accommodate** up to two hundred guests.",
+  "example_ko": "그 호텔은 손님을 이백 명까지 수용할 수 있어.",
+  "nuance_ko": "accommodate는 공간이 사람을 받아들이거나, 상대의 요구에 맞춰주는 두 가지 그림이 있어요. 숙박 시설에서는 '수용하다', 사람에게는 '요구를 들어주다'로 써요. 철자가 c 두 개, m 두 개(accommodate)라서 정말 많이 틀려요. 비슷한 hold는 단순히 담는 것이고, accommodate는 편의를 제공하는 느낌이 있어요. accommodate someone's needs는 비즈니스에서 자주 쓰는 구문이에요.",
+  "also": [
+   {
+    "w": "accommodation",
+    "pos": "n",
+    "ko": "숙소, 편의 제공",
+    "en": "The company will arrange your **accommodation**."
+   },
+   {
+    "w": "accommodating",
+    "pos": "adj",
+    "ko": "융통성 있는, 잘 맞춰주는",
+    "en": "The staff were very **accommodating** about our late arrival."
+   }
+  ]
+ },
+ {
+  "w": "accompany",
+  "pos": "v",
+  "meaning_ko": "동행하다, 수반하다",
+  "example_en": "Would you mind if I **accompany** you to the station?",
+  "example_ko": "내가 역까지 같이 가도 될까?",
+  "nuance_ko": "accompany는 누군가와 함께 가거나, 어떤 일에 곁들여 따라오는 것을 말해요. go with보다 격식 있고 글에서 더 자주 보여요. 음악에서는 반주를 해준다는 뜻으로 써서 accompanied by a piano처럼 말해요. be accompanied by는 '~을 동반하다'로 증상이나 설명에도 쓰여요. 아이는 accompanied by an adult(성인 동반)처럼 안내문에 자주 나와요.",
+  "also": [
+   {
+    "w": "accompanied",
+    "pos": "adj",
+    "ko": "동반된",
+    "en": "Children must be **accompanied** by an adult."
+   },
+   {
+    "w": "accompaniment",
+    "pos": "n",
+    "ko": "반주, 곁들이는 것",
+    "en": "The singer performed with piano **accompaniment**."
+   }
+  ]
+ },
+ {
+  "w": "accomplish",
+  "pos": "v",
+  "meaning_ko": "해내다, 달성하다",
+  "example_en": "I didn't **accomplish** much at work today.",
+  "example_ko": "오늘 회사에서 한 게 별로 없네.",
+  "nuance_ko": "accomplish는 노력해서 목표나 과제를 끝내 이룬다는 느낌이에요. achieve와 비슷하지만 accomplish는 '해냈다'는 완수에, achieve는 높은 수준 도달에 초점이 있어요. accomplish a task, a goal, a mission처럼 써요. 무엇을 이뤘는지 묻는 'What did you accomplish?'도 자주 들어요. 구어체에서는 get done이 훨씬 흔해요.",
+  "also": [
+   {
+    "w": "accomplished",
+    "pos": "adj",
+    "ko": "뛰어난, 숙달된",
+    "en": "She's an **accomplished** pianist at only twenty."
+   },
+   {
+    "w": "accomplishment",
+    "pos": "n",
+    "ko": "성취, 업적",
+    "en": "Finishing the marathon was a big **accomplishment**."
+   }
+  ]
+ },
+ {
+  "w": "accountable",
+  "pos": "adj",
+  "meaning_ko": "책임이 있는, 설명할 책임이 있는",
+  "example_en": "Managers should be **accountable** for the mistakes their teams make.",
+  "example_ko": "팀이 한 실수에 대해선 관리자가 책임을 져야 해.",
+  "nuance_ko": "accountable은 결과에 대해 설명하고 책임을 질 의무가 있다는 말이에요. be accountable to someone for something 구문으로 써서, 누구에게 무엇에 대해 책임지는지 말해요. responsible은 일을 맡았다는 뜻이고, accountable은 잘못되면 해명하고 책임까지 진다는 뜻이라 더 무거워요. hold someone accountable(책임을 묻다)은 뉴스에서 정말 많이 나와요. 명사형 accountability도 비즈니스에서 자주 써요.",
+  "also": [
+   {
+    "w": "accountability",
+    "pos": "n",
+    "ko": "책임성, 설명 책임",
+    "en": "We need more **accountability** in government."
+   }
+  ]
+ },
+ {
+  "w": "accumulate",
+  "pos": "v",
+  "meaning_ko": "쌓이다, 축적하다",
+  "example_en": "Dust tends to **accumulate** behind the bookshelf.",
+  "example_ko": "책장 뒤에는 먼지가 쌓이기 마련이야.",
+  "nuance_ko": "accumulate는 시간이 지나며 조금씩 쌓여 많아진다는 그림이에요. 돈, 먼지, 경험, 부채처럼 서서히 늘어나는 것에 써요. 타동사(모으다)와 자동사(쌓이다) 둘 다 가능해요. gather나 collect는 일부러 모으는 느낌이고, accumulate는 자연스럽게 쌓이는 경우에도 써요. accumulate wealth, accumulate debt가 대표적인 짝꿍이에요.",
+  "also": [
+   {
+    "w": "accumulation",
+    "pos": "n",
+    "ko": "축적, 쌓임",
+    "en": "The **accumulation** of snow closed the road."
+   }
+  ]
+ },
+ {
+  "w": "accurate",
+  "pos": "adj",
+  "meaning_ko": "정확한",
+  "example_en": "Is this map **accurate**, or is it out of date?",
+  "example_ko": "이 지도 정확한 거야, 아니면 옛날 거야?",
+  "nuance_ko": "accurate는 사실이나 목표에 오차 없이 들어맞는다는 뜻이에요. 정보, 측정, 보고, 예측에 두루 써요. exact는 '딱 맞는' 느낌이 더 강하고, precise는 아주 세밀한 수준까지 일치할 때 써요. 사격처럼 목표에 맞히는 것도 accurate고요. 반대말은 inaccurate예요. 'an accurate account'(정확한 설명)는 뉴스에서 자주 나와요.",
+  "also": [
+   {
+    "w": "accuracy",
+    "pos": "n",
+    "ko": "정확성",
+    "en": "The **accuracy** of the data is questionable."
+   },
+   {
+    "w": "accurately",
+    "pos": "adv",
+    "ko": "정확하게",
+    "en": "She **accurately** predicted the result."
+   },
+   {
+    "w": "inaccurate",
+    "pos": "adj",
+    "ko": "부정확한",
+    "en": "The article was full of **inaccurate** claims."
+   }
+  ]
+ },
+ {
+  "w": "ache",
+  "pos": "n",
+  "meaning_ko": "쑤시는 통증, 아픔",
+  "example_en": "I woke up with a dull **ache** in my lower back.",
+  "example_ko": "일어났더니 허리 아래쪽이 둔하게 쑤시더라.",
+  "nuance_ko": "ache는 날카롭게 찌르는 게 아니라 은근히 계속 쑤시는 통증이에요. headache, stomachache, toothache처럼 신체 부위와 합쳐 한 단어가 돼요. 동사로도 써서 'My back aches'라고 해요. pain은 더 넓은 통증이고, ache는 지속되는 둔한 아픔을 가리켜요. 마음이 아플 때도 써서 'her heart ached'처럼 표현할 수 있어요. ache for는 '~를 몹시 그리워하다'는 뜻도 돼요.",
+  "also": [
+   {
+    "w": "aching",
+    "pos": "adj",
+    "ko": "쑤시는",
+    "en": "My **aching** legs begged for a rest."
+   },
+   {
+    "w": "achy",
+    "pos": "adj",
+    "ko": "몸이 쑤시는",
+    "en": "I feel **achy** and a bit feverish today."
+   }
+  ]
+ },
+ {
+  "w": "achieve",
+  "pos": "v",
+  "meaning_ko": "이루다, 달성하다",
+  "example_en": "She worked hard to **achieve** her dream of becoming a doctor.",
+  "example_ko": "걔는 의사가 되겠다는 꿈을 이루려고 정말 열심히 했어.",
+  "nuance_ko": "achieve는 노력이나 능력으로 목표, 성과, 높은 수준에 도달한다는 뜻이에요. achieve a goal, achieve success, achieve results처럼 써요. accomplish는 일을 끝내는 완수 쪽이고, achieve는 원하던 결과에 닿는 쪽이에요. reach a goal은 더 구어체고요. 사람이 아니라 방법이 주어일 때도 자연스러워요. 명사는 achievement(성취)예요.",
+  "also": [
+   {
+    "w": "achievement",
+    "pos": "n",
+    "ko": "성취, 업적",
+    "en": "Winning the award was her greatest **achievement**."
+   },
+   {
+    "w": "achievable",
+    "pos": "adj",
+    "ko": "달성 가능한",
+    "en": "Set goals that are realistic and **achievable**."
+   }
+  ]
+ },
+ {
+  "w": "acknowledge",
+  "pos": "v",
+  "meaning_ko": "인정하다, 받았다고 알리다",
+  "example_en": "He finally had to **acknowledge** that he'd made a mistake.",
+  "example_ko": "결국 그는 자기가 실수했다는 걸 인정해야 했어.",
+  "nuance_ko": "acknowledge는 사실, 존재, 잘못을 마지못해서라도 공식적으로 인정한다는 느낌이에요. admit과 비슷하지만 acknowledge는 존재나 공로를 인정하는 데도 써서 acknowledge her contribution이라고 해요. 이메일을 받았다고 알리는 'I acknowledge receipt'도 비즈니스에서 흔해요. 철자 중간의 d가 헷갈려서 acknowledgement와 acknowledgment 둘 다 쓰는데 뜻은 같아요. accept와 달리 '받아들여 동의'가 아니라 '있음을 인정'하는 거예요.",
+  "also": [
+   {
+    "w": "acknowledgement",
+    "pos": "n",
+    "ko": "인정, 감사의 글",
+    "en": "She nodded in **acknowledgement** of the applause."
+   },
+   {
+    "w": "acknowledged",
+    "pos": "adj",
+    "ko": "공인된, 인정받은",
+    "en": "He's an **acknowledged** expert on the subject."
+   }
+  ]
+ },
+ {
+  "w": "acquire",
+  "pos": "v",
+  "meaning_ko": "얻다, 습득하다, 인수하다",
+  "example_en": "She **acquired** a taste for coffee while living in Italy.",
+  "example_ko": "걔는 이탈리아에 살면서 커피 맛을 알게 됐어.",
+  "nuance_ko": "acquire는 노력이나 시간을 들여 무언가를 서서히 얻는다는 느낌이에요. 기술, 습관, 지식, 재산 모두에 쓸 수 있어요. 비즈니스에서는 회사를 '인수하다'라는 뜻으로 정말 많이 쓰여요. get이 구어체라면 acquire는 좀 더 격식 있는 글에서 보여요. acquire a language(언어를 습득하다)처럼 학습의 맥락도 있어요. an acquired taste(처음엔 낯설다가 익숙해지는 맛)는 관용적으로 자주 말해요.",
+  "also": [
+   {
+    "w": "acquired",
+    "pos": "adj",
+    "ko": "후천적인, 습득한",
+    "en": "Olives are an **acquired** taste for many people."
+   }
+  ]
+ },
+ {
+  "w": "acquisition",
+  "pos": "n",
+  "meaning_ko": "인수, 습득",
+  "example_en": "The company announced its **acquisition** of a small startup.",
+  "example_ko": "그 회사가 작은 스타트업을 인수한다고 발표했어.",
+  "nuance_ko": "acquisition은 acquire의 명사형으로, 사들인 것이나 얻는 행위를 말해요. 뉴스에서는 기업의 '인수'(M&A)로 가장 많이 보여요. 언어 학습에서는 language acquisition(언어 습득)이라고 해요. merger는 두 회사가 합치는 것이고, acquisition은 한쪽이 다른 쪽을 사들이는 거예요. 새로 들어온 물건이나 인재를 가볍게 'a new acquisition'이라고도 불러요. 숫자로 셀 때는 acquisitions로 써요.",
+  "also": []
+ },
+ {
+  "w": "acre",
+  "pos": "n",
+  "meaning_ko": "에이커(약 4,047㎡)",
+  "example_en": "They bought ten **acres** of farmland near the river.",
+  "example_ko": "그 사람들이 강 근처 농지 10에이커를 샀어.",
+  "nuance_ko": "acre는 미국과 영국에서 쓰는 땅의 넓이 단위로, 약 4,047제곱미터예요. 축구장의 약 4분의 3 정도 되는 크기로 떠올리면 편해요. 농장, 공원, 부지 크기를 말할 때 many acres of land처럼 써요. 한국의 평이나 헥타르와 달라서 환산이 필요해요. 1 헥타르는 약 2.47에이커예요. 숫자와 붙여 '10-acre farm'처럼 형용사로 쓸 때는 acre를 단수로 써요.",
+  "also": [
+   {
+    "w": "acreage",
+    "pos": "n",
+    "ko": "에이커 단위의 면적",
+    "en": "The farm has a large **acreage** of vineyards."
+   }
+  ]
+ },
+ {
+  "w": "addict",
+  "pos": "n",
+  "meaning_ko": "중독자, 열광적인 애호가",
+  "example_en": "I'm a total coffee **addict**; I can't start the day without it.",
+  "example_ko": "나 완전 커피 중독이라 그거 없이는 하루를 못 시작해.",
+  "nuance_ko": "addict는 약물이나 습관에 빠져 끊기 어려운 사람이에요. drug addict처럼 의학적인 중독자를 말하기도 하고, 일상에서는 coffee addict, sports addict처럼 가볍게 '열광하는 사람'이란 뜻으로도 써요. 동사 addict는 보통 수동태 be addicted to로 써요. 이때 to 뒤에는 동명사나 명사가 와요(addicted to playing games). 진지한 병을 가볍게 농담에 쓰면 불쾌해할 수 있어서 상황을 잘 봐야 해요.",
+  "also": [
+   {
+    "w": "addiction",
+    "pos": "n",
+    "ko": "중독",
+    "en": "He is fighting a gambling **addiction**."
+   },
+   {
+    "w": "addictive",
+    "pos": "adj",
+    "ko": "중독성 있는",
+    "en": "These snacks are dangerously **addictive**."
+   },
+   {
+    "w": "addicted",
+    "pos": "adj",
+    "ko": "중독된",
+    "en": "She got **addicted** to that TV series."
+   }
+  ]
+ },
+ {
+  "w": "adequate",
+  "pos": "adj",
+  "meaning_ko": "충분한, 적절한",
+  "example_en": "The room was small but **adequate** for our needs.",
+  "example_ko": "방이 작긴 했지만 우리가 쓰기엔 충분했어.",
+  "nuance_ko": "adequate는 '딱 필요한 만큼은 된다'는 뉘앙스예요. 훌륭하다는 칭찬이 아니라 '그럭저럭 충분하다'는 느낌이라, 평가에서 adequate라고 하면 별로 대단하지 않다는 뜻일 수 있어요. enough는 양에, adequate는 질이나 수준이 기준을 충족하는 데 써요. adequate supplies, adequate time처럼 짝을 이뤄요. 반대말 inadequate는 '모자란, 부적절한'으로 뉴스나 보고서에 자주 나와요.",
+  "also": [
+   {
+    "w": "inadequate",
+    "pos": "adj",
+    "ko": "부족한, 부적절한",
+    "en": "The funding was **inadequate** for the project."
+   },
+   {
+    "w": "adequately",
+    "pos": "adv",
+    "ko": "충분히, 적절히",
+    "en": "The staff were not **adequately** trained."
+   }
+  ]
+ },
+ {
+  "w": "adjust",
+  "pos": "v",
+  "meaning_ko": "조정하다, 적응하다",
+  "example_en": "Can you **adjust** the seat so I can reach the pedals?",
+  "example_ko": "페달에 발이 닿게 의자 좀 조정해 줄래?",
+  "nuance_ko": "adjust는 약간만 바꿔서 상황에 딱 맞게 만든다는 그림이에요. 의자, 온도, 설정처럼 작은 조정에 많이 써요. adjust to는 새 환경에 '적응하다'라는 뜻이라 adjust to a new school처럼 말해요. 이때 to 뒤에 동명사가 와요. change는 아예 바꾸는 것이고 adjust는 미세하게 맞추는 거예요. 시험에서 adjust to + ~ing 구조가 자주 나와요.",
+  "also": [
+   {
+    "w": "adjustment",
+    "pos": "n",
+    "ko": "조정, 적응",
+    "en": "It took a few weeks of **adjustment** to get used to the city."
+   },
+   {
+    "w": "adjustable",
+    "pos": "adj",
+    "ko": "조절 가능한",
+    "en": "The chair has an **adjustable** backrest."
+   }
+  ]
+ },
+ {
+  "w": "administration",
+  "pos": "n",
+  "meaning_ko": "행정, 정부, 관리",
+  "example_en": "The new **administration** promised to lower taxes.",
+  "example_ko": "새 정부는 세금을 낮추겠다고 약속했어.",
+  "nuance_ko": "administration은 조직을 운영·관리하는 일, 또는 그 일을 맡은 집단이에요. 미국 영어에서는 'the Biden administration'처럼 대통령 정부를 가리켜요. 학교나 회사의 행정 부서를 말할 때도 써서 school administration이라고 해요. business administration(경영학)에서도 보이죠. 줄여서 admin이라고 하면 '행정 업무, 관리자'를 가볍게 이르는 구어체예요.",
+  "also": [
+   {
+    "w": "admin",
+    "pos": "n",
+    "ko": "행정 업무, 관리자",
+    "en": "I spend half my day on **admin** work."
+   }
+  ]
+ },
+ {
+  "w": "administrative",
+  "pos": "adj",
+  "meaning_ko": "행정의, 관리상의",
+  "example_en": "She handles all the **administrative** work in our office.",
+  "example_ko": "우리 사무실의 행정 업무는 전부 그분이 맡아.",
+  "nuance_ko": "administrative는 조직을 굴러가게 하는 사무적이고 행정적인 일을 꾸며줘요. administrative staff, administrative costs, administrative errors처럼 써요. 핵심 업무와 구분해서 '서류·절차 쪽의'라는 느낌이 있어요. clerical은 서기·사무 같은 단순 사무직에 가깝고, administrative는 관리 업무까지 넓게 포함해요. 철자가 길어서 -ative 어미를 자주 틀려요. administrative assistant(사무 보조)는 구인공고에서 자주 봐요.",
+  "also": []
+ },
+ {
+  "w": "administrator",
+  "pos": "n",
+  "meaning_ko": "관리자, 행정관",
+  "example_en": "Please contact the system **administrator** if you can't log in.",
+  "example_ko": "로그인이 안 되면 시스템 관리자에게 연락해 주세요.",
+  "nuance_ko": "administrator는 조직이나 시스템을 운영하고 관리하는 사람이에요. 학교·병원의 행정 책임자도, IT의 관리자 계정도 가리켜요. 컴퓨터에서는 줄여서 admin이라고 자주 불러요. manager는 팀과 사람을 이끄는 쪽이고, administrator는 제도·자원·시스템을 운영하는 쪽이에요. 강조는 두 번째 음절(-min-)에 오고, 철자 끝은 -or이에요. 법률에서는 유산을 처리하는 '유산 관리인'도 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "admission",
+  "pos": "n",
+  "meaning_ko": "입장, 입학, 인정",
+  "example_en": "**Admission** to the museum is free on Sundays.",
+  "example_ko": "일요일에는 박물관 입장이 무료야.",
+  "nuance_ko": "admission에는 크게 세 가지 뜻이 있어요. 첫째는 입장(료), 둘째는 입학이나 입원 허가, 셋째는 잘못을 인정하는 것이에요. 입장료 의미로는 admission fee나 'Admission: $10'처럼 안내문에 자주 나와요. 대학에서는 admissions office(입학처)라고 복수형을 써요. an admission of guilt(유죄 인정)처럼 법적 맥락에서도 흔해요. entrance는 들어가는 문이나 행위 쪽이고, admission은 허가를 받아 들어가는 쪽이에요.",
+  "also": []
+ },
+ {
+  "w": "adolescent",
+  "pos": "n",
+  "meaning_ko": "청소년, 사춘기 아이",
+  "example_en": "Most **adolescents** need more sleep than adults do.",
+  "example_ko": "청소년 대부분은 어른보다 잠이 더 필요해.",
+  "nuance_ko": "adolescent는 아동기를 지나 성인이 되기 전, 대략 10대 시기의 사람이에요. 의학·심리학·교육 분야에서 자주 쓰는 약간 격식 있는 단어예요. teenager는 13~19세처럼 나이로 구분하는 일상 표현이고, adolescent는 발달 단계에 초점이 있어요. 형용사로 쓰면 '미숙한, 유치한'이라는 부정적 뉘앙스가 되기도 해요(adolescent behavior). 명사 adolescence는 사춘기, 청소년기를 뜻해요.",
+  "also": [
+   {
+    "w": "adolescence",
+    "pos": "n",
+    "ko": "청소년기, 사춘기",
+    "en": "Many people struggle with identity during **adolescence**."
+   }
+  ]
+ },
+ {
+  "w": "adopt",
+  "pos": "v",
+  "meaning_ko": "입양하다, 채택하다",
+  "example_en": "They decided to **adopt** a puppy from the shelter.",
+  "example_ko": "그 사람들은 보호소에서 강아지를 한 마리 입양하기로 했어.",
+  "nuance_ko": "adopt는 '남의 것을 내 것으로 받아들인다'는 그림이에요. 아이나 동물을 입양할 때, 그리고 방법·정책·태도를 채택할 때 모두 써요. adopt a new policy, adopt a different approach처럼 비즈니스에서 정말 많이 쓰여요. adapt(적응시키다)와 철자가 비슷해서 헷갈리기 쉬워요. adopt는 그대로 받아들이고, adapt는 상황에 맞게 바꾸는 거예요. 명사 adoption은 입양과 채택 둘 다 뜻해요.",
+  "also": [
+   {
+    "w": "adoption",
+    "pos": "n",
+    "ko": "입양, 채택",
+    "en": "The **adoption** of the new rules took months."
+   },
+   {
+    "w": "adopted",
+    "pos": "adj",
+    "ko": "입양된, 채택된",
+    "en": "She was an **adopted** child."
+   }
+  ]
+ },
+ {
+  "w": "advocate",
+  "pos": "v",
+  "meaning_ko": "지지하다, 옹호하다",
+  "example_en": "Doctors **advocate** eating more vegetables and less sugar.",
+  "example_ko": "의사들은 채소는 더 먹고 설탕은 줄이라고 권해.",
+  "nuance_ko": "advocate는 어떤 생각이나 정책을 공개적으로 지지하고 주장한다는 뜻이에요. 동사는 /ˈædvəkeɪt/, 명사는 /ˈædvəkət/로 발음이 달라요. advocate + 명사/동명사로 쓰고, advocate that절도 가능해요. support는 더 일반적이고, advocate는 적극적으로 내세워 알리는 느낌이 강해요. 명사 advocate는 '옹호자'로, child advocate, patient advocate처럼 써요. a strong advocate of ~도 자주 쓰는 구문이에요.",
+  "also": []
+ },
+ {
+  "w": "affection",
+  "pos": "n",
+  "meaning_ko": "애정, 다정함",
+  "example_en": "She has a lot of **affection** for her old teacher.",
+  "example_ko": "걔는 옛 선생님한테 애정이 많아.",
+  "nuance_ko": "affection은 love보다 잔잔하고 따뜻한 정이에요. 가족, 친구, 반려동물에게 갖는 부드러운 호감을 말해요. have affection for someone, show affection처럼 써요. 연인에게 느끼는 깊은 감정은 love가 더 자연스러워요. 신체 접촉으로 애정을 표현하는 것도 show affection이라고 해요(hugs, kisses). 복수형 affections는 문어적이고 '애정, 마음'의 뜻이에요.",
+  "also": [
+   {
+    "w": "affectionate",
+    "pos": "adj",
+    "ko": "다정한, 애정 어린",
+    "en": "Our dog is very **affectionate** with kids."
+   }
+  ]
+ },
+ {
+  "w": "affirm",
+  "pos": "v",
+  "meaning_ko": "단언하다, 확인해 주다",
+  "example_en": "The court **affirmed** the earlier decision on appeal.",
+  "example_ko": "항소심에서 법원이 이전 판결을 그대로 인정했어.",
+  "nuance_ko": "affirm은 어떤 사실이나 결정이 옳다고 확실히 말하거나 확인해 준다는 뜻이에요. 법원이 원심을 유지할 때 affirm을 쓰는 게 대표적이에요. state보다 더 강하고, 의심이 있을 때 '틀림없다'고 못 박는 느낌이에요. 마음가짐 차원에서 자기 가치를 긍정하는 affirm yourself도 있어요. 반대말은 deny예요. affirmative는 '긍정의'로 'in the affirmative'(예라고 답하여)처럼 써요.",
+  "also": [
+   {
+    "w": "affirmation",
+    "pos": "n",
+    "ko": "확언, 긍정의 말",
+    "en": "She repeats a daily **affirmation** to stay confident."
+   },
+   {
+    "w": "affirmative",
+    "pos": "adj",
+    "ko": "긍정의, 찬성의",
+    "en": "The answer was **affirmative**."
+   }
+  ]
+ },
+ {
+  "w": "agency",
+  "pos": "n",
+  "meaning_ko": "대행사, 정부 기관",
+  "example_en": "I found my apartment through a rental **agency**.",
+  "example_ko": "나는 부동산 중개소를 통해서 아파트를 구했어.",
+  "nuance_ko": "agency는 남을 대신해 일을 처리해 주는 회사나 정부의 전문 기관이에요. travel agency, advertising agency, employment agency처럼 서비스 회사에 많이 쓰고, 정부에서는 federal agency 같은 기관을 가리켜요. 영어에서 agency는 꼭 공공기관이 아니라 민간 대행사도 포함한다는 점이 한국어 '기관'과 달라요. 철학·사회학에서는 '행위 주체성'이라는 뜻도 있어요. 복수형은 agencies예요.",
+  "also": []
+ },
+ {
+  "w": "agenda",
+  "pos": "n",
+  "meaning_ko": "안건, 의제, 속셈",
+  "example_en": "What's on the **agenda** for tomorrow's meeting?",
+  "example_ko": "내일 회의 안건이 뭐야?",
+  "nuance_ko": "agenda는 회의에서 다룰 항목 목록, 즉 안건이에요. on the agenda(안건에 올라 있는), set the agenda(의제를 정하다)처럼 써요. 정치 맥락에서는 정책 우선순위를 뜻해요(political agenda). hidden agenda는 겉으로 드러내지 않는 속셈이에요. schedule은 시간표, agenda는 다룰 주제 목록이라는 점이 달라요. 원래 라틴어 복수형이지만 영어에서는 단수 명사로 써요.",
+  "also": []
+ },
+ {
+  "w": "aggressive",
+  "pos": "adj",
+  "meaning_ko": "공격적인, 적극적인",
+  "example_en": "Some dogs get **aggressive** when they're scared.",
+  "example_ko": "어떤 개들은 겁먹으면 공격적으로 변해.",
+  "nuance_ko": "aggressive는 사람이나 동물이 싸우려 들고 거칠다는 부정적 뜻이 기본이에요. 반면 비즈니스에서는 목표를 향해 밀어붙인다는 긍정적 뜻도 있어서 aggressive marketing, aggressive growth라고 해요. 한국어 '공격적 투자'처럼 쓰는 느낌이에요. 사람에게 쓸 때는 대체로 비난조로 들린다는 걸 기억하세요. assertive는 자기 의견을 당당히 말하되 해치지 않는 긍정적 단어예요. aggressive driver는 난폭 운전자를 뜻해요.",
+  "also": [
+   {
+    "w": "aggressively",
+    "pos": "adv",
+    "ko": "공격적으로",
+    "en": "The company is **aggressively** expanding overseas."
+   }
+  ]
+ },
+ {
+  "w": "agriculture",
+  "pos": "n",
+  "meaning_ko": "농업",
+  "example_en": "**Agriculture** still employs a large share of the population here.",
+  "example_ko": "이곳은 아직도 인구의 상당수가 농업에 종사해.",
+  "nuance_ko": "agriculture는 작물을 키우고 가축을 기르는 산업 전체를 말해요. 학문·정책·경제 맥락에서 쓰는 격식 있는 단어예요. farming은 실제로 농사짓는 일상적인 행위에 가까워요. 미국에는 Department of Agriculture(농무부)가 있고, 줄여서 USDA라고 해요. 불가산 명사라서 an agriculture처럼 쓰지 않아요. 형용사는 agricultural(농업의)로 agricultural products(농산물)처럼 써요.",
+  "also": [
+   {
+    "w": "agricultural",
+    "pos": "adj",
+    "ko": "농업의",
+    "en": "The region is known for its **agricultural** products."
+   }
+  ]
+ },
+ {
+  "w": "aim",
+  "pos": "v",
+  "meaning_ko": "겨냥하다, 목표로 하다",
+  "example_en": "We **aim** to finish the project before the end of the month.",
+  "example_ko": "우리는 이번 달 안에 프로젝트를 끝내는 걸 목표로 하고 있어.",
+  "nuance_ko": "aim은 화살이나 총을 목표물에 겨누는 그림에서 나왔어요. 그래서 '~하려고 노력하다'(aim to + 동사), '~을 목표로 하다'(aim at/for)로 쓰여요. aim at 뒤에는 명사나 동명사가 와요. 'aim to + 동사원형'은 목표를 말할 때 정말 흔해요. 명사로는 '목적, 조준'이라는 뜻이에요(the aim of the study). be aimed at(~을 겨냥한)이라는 수동태도 광고나 상품 설명에서 많이 봐요.",
+  "also": [
+   {
+    "w": "aimless",
+    "pos": "adj",
+    "ko": "목적 없는",
+    "en": "We spent an **aimless** afternoon wandering around town."
+   }
+  ]
+ },
+ {
+  "w": "aircraft",
+  "pos": "n",
+  "meaning_ko": "항공기",
+  "example_en": "The **aircraft** landed safely despite the strong winds.",
+  "example_ko": "강풍에도 불구하고 항공기는 무사히 착륙했어.",
+  "nuance_ko": "aircraft는 비행기, 헬리콥터, 글라이더 등 공중을 나는 탈것을 통틀어 부르는 말이에요. 단수와 복수가 같아서 'two aircraft'처럼 써요. 'aircrafts'는 틀린 형태로 보는 경우가 많아요. airplane은 날개 달린 고정익 비행기만 말하고, aircraft는 훨씬 넓은 범위예요. 뉴스, 군사, 항공 업계에서 주로 쓰는 말이라, 일상 대화에서는 plane이 훨씬 흔해요. 항공모함은 aircraft carrier예요.",
+  "also": []
+ },
+ {
+  "w": "airline",
+  "pos": "n",
+  "meaning_ko": "항공사",
+  "example_en": "Which **airline** are you flying with this time?",
+  "example_ko": "이번엔 어느 항공사 타고 가?",
+  "nuance_ko": "airline은 승객이나 화물을 비행기로 실어 나르는 항공 회사예요. 항공편이 아니라 회사를 가리키니까 flight와 구분해야 해요. 대한항공, Delta처럼 회사 이름을 말할 때 airline이라고 해요. budget airline(저가 항공사), major airline처럼 짝꿍이 많아요. airline ticket, airline food처럼 다른 명사 앞에서 수식어로도 써요. 'Which airline?'은 회사를, 'Which flight?'은 편명을 묻는 거예요.",
+  "also": [
+   {
+    "w": "airliner",
+    "pos": "n",
+    "ko": "대형 여객기",
+    "en": "A huge **airliner** roared over the rooftops."
+   }
+  ]
+ },
+ {
+  "w": "album",
+  "pos": "n",
+  "meaning_ko": "앨범, 음반",
+  "example_en": "Her new **album** comes out next Friday.",
+  "example_ko": "걔 새 앨범이 다음 주 금요일에 나와.",
+  "nuance_ko": "album은 음악에서는 여러 곡이 담긴 한 장의 음반을 말해요. photo album(사진첩), stamp album처럼 수집품을 모아두는 책도 album이에요. 한국어 '앨범'과 거의 같지만, 음악에서는 단일 곡 위주 음반은 single, 짧은 건 EP라고 해요. 앨범을 발매한다는 건 release an album이에요. 'concept album'은 하나의 주제로 만든 앨범을 말해요.",
+  "also": []
+ },
+ {
+  "w": "alert",
+  "pos": "adj",
+  "meaning_ko": "정신이 말똥한, 경계하는",
+  "example_en": "I can't stay **alert** after lunch without a coffee.",
+  "example_ko": "점심 먹고 나면 커피 없이는 정신을 못 차리겠어.",
+  "nuance_ko": "alert는 정신이 또렷하고 주위를 주의 깊게 살피는 상태예요. 형용사로는 alert and focused, stay alert처럼 써요. 동사로는 '경고해서 알리다'(alert someone to danger)이고, 명사로는 경보(security alert)나 알림 메시지를 말해요. 스마트폰의 push alert(알림)도 이 단어예요. awake는 단순히 깨어 있는 것이고, alert는 깨어 있으면서 집중한 상태까지 포함해요.",
+  "also": [
+   {
+    "w": "alertness",
+    "pos": "n",
+    "ko": "기민함, 경계",
+    "en": "Caffeine can improve your **alertness**."
+   }
+  ]
+ },
+ {
+  "w": "alien",
+  "pos": "n",
+  "meaning_ko": "외계인, 외국인",
+  "example_en": "The kids dressed up as **aliens** for Halloween.",
+  "example_ko": "아이들이 핼러윈에 외계인으로 분장했어.",
+  "nuance_ko": "alien은 일상에서는 SF 속 외계인(extraterrestrial)을 가리켜요. 법률 용어로는 다른 나라 국적의 외국인이라는 뜻도 있어서 illegal alien 같은 표현이 있지만, 요즘은 거부감을 주는 말이라 일상에서 피해요. 형용사로는 '낯선, 이질적인'이란 뜻이에요(an alien culture). 'feel alien'은 낯설고 소외감을 느끼는 걸 말해요. 영화 'Alien'을 떠올리면 기억하기 쉬워요.",
+  "also": [
+   {
+    "w": "alienate",
+    "pos": "v",
+    "ko": "소원하게 만들다",
+    "en": "His rude jokes began to **alienate** his coworkers."
+   },
+   {
+    "w": "alienation",
+    "pos": "n",
+    "ko": "소외감, 소외",
+    "en": "Many immigrants experience a sense of **alienation**."
+   }
+  ]
+ },
+ {
+  "w": "allege",
+  "pos": "v",
+  "meaning_ko": "주장하다, 혐의를 제기하다",
+  "example_en": "Police **allege** that he stole more than ten thousand dollars.",
+  "example_ko": "경찰은 그가 1만 달러 넘게 훔쳤다고 주장하고 있어.",
+  "nuance_ko": "allege는 증거가 아직 확정되지 않은 채로 '~라고 주장하다'는 뜻이에요. 뉴스나 법정에서 사실로 단정하지 않으려고 쓰는 신중한 표현이에요. 보통 allege that절이나 수동태 'He is alleged to have ~'로 써요. claim과 비슷하지만 allege는 잘못이나 범죄를 주장할 때 주로 써요. 형용사 alleged(주장되는)와 부사 allegedly는 기사에서 정말 자주 보여요. 명사는 allegation이에요.",
+  "also": [
+   {
+    "w": "alleged",
+    "pos": "adj",
+    "ko": "주장된, ~라고 알려진",
+    "en": "The **alleged** thief was arrested yesterday."
+   },
+   {
+    "w": "allegedly",
+    "pos": "adv",
+    "ko": "주장에 따르면",
+    "en": "He **allegedly** lied on his application."
+   },
+   {
+    "w": "allegation",
+    "pos": "n",
+    "ko": "주장, 혐의 제기",
+    "en": "The company denied the **allegation**."
+   }
+  ]
+ },
+ {
+  "w": "alliance",
+  "pos": "n",
+  "meaning_ko": "동맹, 제휴",
+  "example_en": "The two parties formed an **alliance** before the election.",
+  "example_ko": "두 정당이 선거 전에 연합을 맺었어.",
+  "nuance_ko": "alliance는 공통의 목적을 위해 나라나 단체가 맺는 동맹이나 제휴예요. form an alliance, in alliance with처럼 써요. 군사 동맹뿐 아니라 항공사 연합, 기업 제휴에도 써요. partnership은 파트너 관계에 초점이 있고, alliance는 힘을 모으는 연합이라는 느낌이 강해요. 한미 동맹은 the U.S.-Korea alliance라고 해요. 동사 ally(동맹하다)와 같은 뿌리의 단어예요.",
+  "also": []
+ },
+ {
+  "w": "allocate",
+  "pos": "v",
+  "meaning_ko": "할당하다, 배분하다",
+  "example_en": "The manager will **allocate** tasks to everyone on Monday.",
+  "example_ko": "매니저가 월요일에 모두에게 업무를 배분할 거야.",
+  "nuance_ko": "allocate는 제한된 자원(돈, 시간, 인력, 공간)을 특정 용도나 사람에게 나눠 배정한다는 뜻이에요. allocate A to B 구문으로 써요. 'allocate funds to research'처럼 예산 이야기에서 자주 나와요. distribute는 여러 사람에게 고루 나눠 주는 쪽이고, allocate는 용도를 정해 배정하는 쪽이에요. 컴퓨터에서 메모리를 할당하는 것도 allocate예요. 비즈니스 영어에서 필수로 알아야 해요.",
+  "also": [
+   {
+    "w": "allocation",
+    "pos": "n",
+    "ko": "할당, 배분",
+    "en": "The budget **allocation** was approved last week."
+   }
+  ]
+ },
+ {
+  "w": "ally",
+  "pos": "n",
+  "meaning_ko": "동맹국, 협력자",
+  "example_en": "She's been a loyal **ally** to our team from day one.",
+  "example_ko": "그 사람은 처음부터 우리 팀의 든든한 아군이었어.",
+  "nuance_ko": "ally는 같은 편에서 도와주는 나라나 사람이에요. 국제 관계에서는 동맹국이고, 일상에서는 내 편이 되어 주는 사람을 말해요. 발음은 명사가 /ˈælaɪ/, 동사가 /əˈlaɪ/로 달라요. 동사로는 'ally with someone'(~와 손잡다)이고, 수동태 be allied with도 자주 써요. Allies(대문자)는 2차 세계대전의 연합국을 가리켜요. friend보다 공통의 목표를 위해 협력한다는 의미가 짙어요.",
+  "also": [
+   {
+    "w": "allied",
+    "pos": "adj",
+    "ko": "동맹을 맺은, 관련된",
+    "en": "The **allied** forces landed on the coast."
+   }
+  ]
+ },
+ {
+  "w": "alongside",
+  "pos": "prep",
+  "meaning_ko": "~와 나란히, ~와 함께",
+  "example_en": "The kids learned to cook **alongside** their grandmother.",
+  "example_ko": "아이들이 할머니와 함께 나란히 요리를 배웠어.",
+  "nuance_ko": "alongside는 '~의 옆에 나란히'라는 물리적 위치에서 출발해, '~와 함께, 동시에'라는 추상적 의미로도 써요. work alongside someone(~와 나란히 일하다)이 대표적이에요. parked alongside the road처럼 위치를 말할 때도 자연스러워요. with보다 '같은 선상에서 병행한다'는 느낌이 있어요. 부사로 단독으로도 쓸 수 있어요(The ship pulled alongside). 뒤에 of를 붙이는 alongside of는 구어체에서 가끔 들려요.",
+  "also": []
+ },
+ {
+  "w": "alternative",
+  "pos": "n",
+  "meaning_ko": "대안, 선택지",
+  "example_en": "If the bus is late, we'll need an **alternative**.",
+  "example_ko": "버스가 늦으면 다른 방법이 필요하겠어.",
+  "nuance_ko": "alternative는 지금 방식 말고 고를 수 있는 다른 선택지예요. an alternative to ~ 구문에서 전치사 to를 쓰는 점이 중요해요. 형용사로는 '대체의, 색다른'이라 alternative energy, alternative medicine처럼 말해요. 'have no alternative'는 '다른 방도가 없다'는 뜻이에요. 원래 둘 중 하나를 고를 때 쓰는 말이라 엄밀히는 선택지가 두 개일 때 가장 자연스러워요. option은 선택지 전반을 뜻해요.",
+  "also": [
+   {
+    "w": "alternatively",
+    "pos": "adv",
+    "ko": "그 대신에, 달리 말하면",
+    "en": "**Alternatively**, we could take the train."
+   }
+  ]
+ },
+ {
+  "w": "amend",
+  "pos": "v",
+  "meaning_ko": "수정하다, 개정하다",
+  "example_en": "The committee voted to **amend** the original proposal.",
+  "example_ko": "위원회는 원안을 수정하기로 표결했어.",
+  "nuance_ko": "amend는 문서, 법률, 계약서의 내용을 고쳐서 개선하거나 바로잡는다는 뜻이에요. 격식 있는 말이라 법률, 정치, 계약 맥락에서 많이 나와요. change보다 공식적인 수정이고, correct는 오류를 바로잡는 데 초점이 있어요. 미국 헌법 개정을 amendment라고 하는데, 'the First Amendment'(수정헌법 제1조)가 유명해요. make amends는 '보상하다, 사과하는 행동을 하다'라는 별개의 관용구예요.",
+  "also": [
+   {
+    "w": "amendment",
+    "pos": "n",
+    "ko": "개정, 수정안",
+    "en": "The **amendment** passed with a large majority."
+   }
+  ]
+ },
+ {
+  "w": "analyse",
+  "pos": "v",
+  "meaning_ko": "분석하다",
+  "example_en": "We need to **analyse** the data before making a decision.",
+  "example_ko": "결정하기 전에 데이터를 분석해 봐야 해.",
+  "nuance_ko": "analyse는 전체를 작은 부분으로 나눠서 구조와 원인을 꼼꼼히 살펴본다는 뜻이에요. 영국식 철자가 analyse이고 미국식은 analyze인데 뜻은 같아요. 명사는 analysis(복수 analyses)로 발음과 철자가 달라서 헷갈려요. examine보다 '왜 그런지'를 파고드는 느낌이 강해요. analyse data, analyse the results처럼 연구와 업무 보고서에 정말 자주 나와요. 일상 대화에서는 look into나 figure out이 더 흔해요.",
+  "also": [
+   {
+    "w": "analysis",
+    "pos": "n",
+    "ko": "분석",
+    "en": "The **analysis** showed a clear trend."
+   },
+   {
+    "w": "analyser",
+    "pos": "n",
+    "ko": "분석기, 분석하는 사람",
+    "en": "The lab uses a gas **analyser** to test the air."
+   }
+  ]
+ },
+ {
+  "w": "analyst",
+  "pos": "n",
+  "meaning_ko": "분석가, 애널리스트",
+  "example_en": "A financial **analyst** predicted the stock would rise.",
+  "example_ko": "한 금융 애널리스트가 그 주식이 오를 거라고 예측했어.",
+  "nuance_ko": "analyst는 자료를 분석해서 판단이나 전망을 내놓는 전문가예요. financial analyst, data analyst, political analyst처럼 앞에 분야를 붙여서 써요. 뉴스에서 'analysts say ~'라고 하면 전문가들의 전망을 인용하는 거예요. 정신분석가(psychoanalyst)를 줄여 부를 때도 있지만 흔하진 않아요. 강세는 첫 음절 an-에 있어요. 같은 뿌리의 analysis, analyze와 함께 묶어 외우면 편해요.",
+  "also": []
+ },
+ {
+  "w": "ancient",
+  "pos": "adj",
+  "meaning_ko": "고대의, 아주 오래된",
+  "example_en": "They explored the ruins of an **ancient** temple.",
+  "example_ko": "그들은 고대 사원의 유적지를 둘러봤어.",
+  "nuance_ko": "ancient는 역사 속 아주 먼 옛날, 보통 로마 제국 멸망(5세기) 이전을 가리켜요. ancient Egypt, ancient Greece처럼 고대 문명에 써요. old는 단순히 나이가 많다는 뜻이고, ancient는 까마득히 오래됐다는 뜻이라 훨씬 강해요. 구어체에서는 과장해서 'This laptop is ancient!'(이 노트북 완전 고물이야)처럼도 써요. 반대로 '중세'는 medieval, '근대'는 modern 쪽 시대 구분이에요.",
+  "also": []
+ },
+ {
+  "w": "angle",
+  "pos": "n",
+  "meaning_ko": "각도, 관점",
+  "example_en": "Try looking at the problem from a different **angle**.",
+  "example_ko": "그 문제를 다른 각도에서 한번 봐 봐.",
+  "nuance_ko": "angle은 수학에서는 각도를, 일상에서는 '보는 관점이나 접근 방식'을 뜻해요. from a different angle, from every angle처럼 쓰는 게 가장 흔해요. 사진이나 영상에서 camera angle(카메라 각도)도 자주 말해요. 뉴스에서는 기사에서 어떤 점을 내세울지 'the angle of the story'라고 해요. 동사로는 '비스듬히 놓다'이고, 낚시하다(angle for fish)라는 별개의 뜻도 있어요. right angle은 직각이에요.",
+  "also": []
+ },
+ {
+  "w": "annual",
+  "pos": "adj",
+  "meaning_ko": "연간의, 매년 하는",
+  "example_en": "The company holds its **annual** meeting in March.",
+  "example_ko": "그 회사는 매년 3월에 연례 회의를 열어.",
+  "nuance_ko": "annual은 일 년에 한 번 일어나거나 일 년 단위로 계산되는 것을 꾸며요. annual report(연례 보고서), annual income(연소득), annual leave(연차 휴가)처럼 자주 써요. yearly와 비슷하지만 annual이 좀 더 격식 있고 공식적이에요. 명사로 쓰면 해마다 피는 한해살이 식물을 뜻해요. 반면 반년마다는 semi-annual, 두 해에 한 번은 biennial로 구분해요. 'an annual event'는 해마다 열리는 행사예요.",
+  "also": [
+   {
+    "w": "annually",
+    "pos": "adv",
+    "ko": "매년, 해마다",
+    "en": "The festival is held **annually** in June."
+   }
+  ]
+ },
+ {
+  "w": "anticipate",
+  "pos": "v",
+  "meaning_ko": "예상하다, 기대하다",
+  "example_en": "We **anticipate** heavy traffic on the highway this weekend.",
+  "example_ko": "이번 주말엔 고속도로가 많이 막힐 걸로 예상해.",
+  "nuance_ko": "anticipate는 앞으로 일어날 일을 미리 예상하고 대비한다는 뜻이에요. 단순히 expect하는 것보다 준비한다는 뉘앙스가 있어요. anticipate problems(문제를 예상하다)는 비즈니스에서 자주 써요. look forward to처럼 설레며 기다린다는 뜻으로 쓰기도 하는데, 한국 학습자는 이걸 anticipate와 섞어 쓰기 쉬워요. 부정적·긍정적 일 모두에 쓸 수 있어요. 명사 anticipation은 'in anticipation of'(~을 예상하고)로 자주 쓰여요.",
+  "also": [
+   {
+    "w": "anticipation",
+    "pos": "n",
+    "ko": "예상, 기대",
+    "en": "The crowd waited in **anticipation**."
+   },
+   {
+    "w": "unanticipated",
+    "pos": "adj",
+    "ko": "예상치 못한",
+    "en": "We faced an **unanticipated** delay."
+   }
+  ]
+ },
+ {
+  "w": "anxiety",
+  "pos": "n",
+  "meaning_ko": "불안, 걱정",
+  "example_en": "She felt a wave of **anxiety** before the interview.",
+  "example_ko": "걔는 면접 전에 불안감이 확 몰려왔어.",
+  "nuance_ko": "anxiety는 앞으로 일어날지 모르는 일에 대한 막연한 불안과 걱정이에요. 일시적인 긴장도 말하고, 불안장애(anxiety disorder)처럼 의학적인 상태도 가리켜요. worry는 구체적인 걱정거리에 가깝고, anxiety는 몸의 긴장과 초조함까지 포함해요. fear는 눈앞의 위협에 대한 두려움이라 구분돼요. social anxiety(사회불안), anxiety attack처럼 짝꿍이 많아요. 형용사는 anxious(불안한)이고 스펠링이 달라서 주의해요.",
+  "also": []
+ },
+ {
+  "w": "apology",
+  "pos": "n",
+  "meaning_ko": "사과",
+  "example_en": "He owes you an **apology** for what he said.",
+  "example_ko": "걔가 한 말은 너한테 사과해야 할 일이야.",
+  "nuance_ko": "apology는 잘못을 인정하고 미안하다고 말하는 사과예요. make an apology, owe someone an apology, accept an apology처럼 써요. 사과하는 행위는 동사 apologize로 'apologize to someone for something' 구조예요. sorry는 감정 표현이고 apology는 정식으로 건네는 사과라는 차이가 있어요. 'a public apology'(공식 사과)는 뉴스에서 자주 나와요. 복수 apologies는 'My apologies'(죄송합니다)처럼 정중한 표현에 써요.",
+  "also": [
+   {
+    "w": "apologize",
+    "pos": "v",
+    "ko": "사과하다",
+    "en": "I want to **apologize** for being late."
+   },
+   {
+    "w": "apologies",
+    "pos": "n",
+    "ko": "사과의 말",
+    "en": "My **apologies** for the confusion."
+   }
+  ]
+ },
+ {
+  "w": "appropriate",
+  "pos": "adj",
+  "meaning_ko": "적절한, 알맞은",
+  "example_en": "That joke wasn't **appropriate** for a work meeting.",
+  "example_ko": "그 농담은 업무 회의에서 할 만한 게 아니었어.",
+  "nuance_ko": "appropriate는 상황, 장소, 목적에 딱 어울린다는 뜻이에요. 특히 예의나 분위기에 맞는지를 따질 때 많이 써요. appropriate for/to처럼 전치사와 함께 쓰고, 반대말은 inappropriate예요. suitable은 목적에 맞는 쪽이고, appropriate는 사회적으로 적절한지에 초점이 있어요. 동사로는 '전용하다, 가로채다'라는 뜻이 있고 발음이 /əˈproʊprieɪt/로 달라요. take appropriate action(적절한 조치를 취하다)은 공문서에 단골이에요.",
+  "also": [
+   {
+    "w": "inappropriate",
+    "pos": "adj",
+    "ko": "부적절한",
+    "en": "Her comment was totally **inappropriate**."
+   },
+   {
+    "w": "appropriately",
+    "pos": "adv",
+    "ko": "적절하게",
+    "en": "Please dress **appropriately** for the event."
+   }
+  ]
+ },
+ {
+  "w": "approve",
+  "pos": "v",
+  "meaning_ko": "승인하다, 찬성하다",
+  "example_en": "The board **approved** the new budget yesterday.",
+  "example_ko": "이사회가 어제 새 예산을 승인했어.",
+  "nuance_ko": "approve는 타동사로 쓰면 제안·계획·예산을 공식적으로 '승인하다'이고, approve of로 쓰면 '좋게 생각하다, 찬성하다'예요. 두 구문의 차이가 시험에 자주 나와요. 'My parents don't approve of him.'처럼 of가 있으면 마음에 안 든다는 뜻이에요. 승인 절차(approve a loan, approve a request)는 비즈니스에서 정말 흔해요. 반대말은 disapprove 또는 reject예요. 명사 approval은 승인, 동의예요.",
+  "also": [
+   {
+    "w": "approval",
+    "pos": "n",
+    "ko": "승인, 찬성",
+    "en": "You need your manager's **approval** first."
+   },
+   {
+    "w": "approved",
+    "pos": "adj",
+    "ko": "승인된, 공인된",
+    "en": "Only **approved** vendors can sell here."
+   }
+  ]
+ },
+ {
+  "w": "approximate",
+  "pos": "adj",
+  "meaning_ko": "대략적인, 근사한",
+  "example_en": "The **approximate** cost is about two hundred dollars.",
+  "example_ko": "대략적인 비용은 200달러쯤이야.",
+  "nuance_ko": "approximate는 정확하진 않아도 거의 맞는 어림 수치를 말해요. approximate cost, approximate time처럼 숫자나 양을 꾸며요. 형용사는 /əˈprɑːksɪmət/, 동사는 /əˈprɑːksɪmeɪt/로 어미 발음이 달라요. exact의 반대 느낌이고, rough도 비슷하지만 approximate가 더 격식 있어요. 부사 approximately는 about의 격식 있는 버전으로 보고서·안내문에서 자주 나와요. 약어 approx.는 표에서 자주 써요.",
+  "also": [
+   {
+    "w": "approximately",
+    "pos": "adv",
+    "ko": "대략",
+    "en": "The trip takes **approximately** three hours."
+   },
+   {
+    "w": "approximation",
+    "pos": "n",
+    "ko": "근삿값, 어림",
+    "en": "That's only a rough **approximation**."
+   }
+  ]
+ },
+ {
+  "w": "archaeology",
+  "pos": "n",
+  "meaning_ko": "고고학",
+  "example_en": "She studied **archaeology** and now works at a museum.",
+  "example_ko": "걔는 고고학을 전공해서 지금 박물관에서 일해.",
+  "nuance_ko": "archaeology는 발굴한 유물과 유적으로 과거 인류의 생활을 연구하는 학문이에요. 미국에서는 archeology로도 쓰고 둘 다 같은 뜻이에요. 발음에서 ch는 /k/ 소리가 나서 /ˌɑːrkiˈɑːlədʒi/예요. history는 문헌 기록 중심이고, archaeology는 땅에서 나온 물질 증거 중심이라는 점이 달라요. 연구하는 사람은 archaeologist예요. archaeological dig(발굴 현장)는 뉴스에서 자주 나오는 표현이에요.",
+  "also": [
+   {
+    "w": "archaeologist",
+    "pos": "n",
+    "ko": "고고학자",
+    "en": "An **archaeologist** found pottery at the site."
+   },
+   {
+    "w": "archaeological",
+    "pos": "adj",
+    "ko": "고고학의",
+    "en": "It's an important **archaeological** discovery."
+   }
+  ]
+ },
+ {
+  "w": "architect",
+  "pos": "n",
+  "meaning_ko": "건축가, 설계자",
+  "example_en": "The **architect** showed us the plans for the new library.",
+  "example_ko": "건축가가 새 도서관 설계도를 우리에게 보여줬어.",
+  "nuance_ko": "architect는 건물을 설계하는 건축가예요. 비유적으로 어떤 계획이나 제도를 만든 주역도 architect라고 불러요(the architect of the deal). IT에서는 software architect처럼 시스템 구조를 설계하는 직무 이름이에요. builder는 실제로 짓는 사람이고, architect는 설계하는 사람이라는 차이가 있어요. 발음은 /ˈɑːrkɪtekt/로 ch가 /k/예요. 동사로 쓰이는 'architect a system'은 IT 쪽에서 가끔 보여요.",
+  "also": []
+ },
+ {
+  "w": "architecture",
+  "pos": "n",
+  "meaning_ko": "건축, 건축 양식, 구조",
+  "example_en": "I love the **architecture** of old European train stations.",
+  "example_ko": "나는 유럽의 오래된 기차역 건축이 정말 좋아.",
+  "nuance_ko": "architecture는 건물을 설계하는 기술과 그 양식을 말해요. Gothic architecture처럼 시대나 스타일을 붙여 쓰고, 불가산 명사로 쓰는 게 기본이에요. IT에서는 '시스템 구조'라는 뜻으로 software architecture, network architecture라고 해요. building은 건물 자체이고, architecture는 그 설계 양식과 학문까지 아울러요. 형용사 architectural은 'architectural design'처럼 써요.",
+  "also": [
+   {
+    "w": "architectural",
+    "pos": "adj",
+    "ko": "건축의",
+    "en": "The city is famous for its **architectural** beauty."
+   }
+  ]
+ },
+ {
+  "w": "arise",
+  "pos": "v",
+  "meaning_ko": "생기다, 발생하다",
+  "example_en": "If any problems **arise**, just give me a call.",
+  "example_ko": "문제가 생기면 그냥 나한테 전화해.",
+  "nuance_ko": "arise는 문제, 기회, 상황 같은 것이 저절로 생겨나 나타난다는 뜻이에요. arise-arose-arisen으로 변화하는 불규칙 동사예요. 사람이 주어가 아니라 problem, question, issue, opportunity 같은 추상 명사가 주어인 경우가 많아요. 자동사라서 목적어를 취하지 않아요. occur나 happen은 사건이 일어나는 것이고, arise는 어떤 원인에서 비롯되어 나타난다는 느낌이에요. 'arise from ~'은 '~에서 비롯되다'예요.",
+  "also": []
+ },
+ {
+  "w": "armed",
+  "pos": "adj",
+  "meaning_ko": "무장한",
+  "example_en": "Two **armed** guards stood at the entrance.",
+  "example_ko": "무장한 경비원 두 명이 입구에 서 있었어.",
+  "nuance_ko": "armed는 무기를 지니고 있는 상태를 꾸며주는 형용사예요. armed robbery(무장 강도), armed forces(군대), armed conflict(무력 충돌)처럼 자주 쓰여요. be armed with는 '~으로 무장하다'인데, 지식이나 도구로 단단히 준비한 경우에도 비유적으로 써요(armed with facts). 반대말은 unarmed(비무장의)예요. arm은 팔이라는 뜻도 있지만 여기서는 무기(arms)와 관련된 뜻이에요.",
+  "also": [
+   {
+    "w": "unarmed",
+    "pos": "adj",
+    "ko": "비무장의",
+    "en": "The police arrested an **unarmed** man."
+   }
+  ]
+ },
+ {
+  "w": "aspect",
+  "pos": "n",
+  "meaning_ko": "측면, 양상",
+  "example_en": "Which **aspect** of the job do you enjoy most?",
+  "example_ko": "그 일의 어떤 면이 제일 마음에 들어?",
+  "nuance_ko": "aspect는 하나의 사물이나 문제를 이루는 여러 면 중 한 측면을 말해요. an important aspect of ~, every aspect of ~처럼 써요. side나 part보다 격식 있고, 분석적인 글에서 자주 나와요. 한국어 '측면'과 거의 일대일로 대응돼요. 문법에서는 동작의 진행·완료를 나타내는 '상(aspect)'을 뜻하기도 해요. 부사 구문 'in all aspects'(모든 면에서)도 유용해요.",
+  "also": []
+ },
+ {
+  "w": "assault",
+  "pos": "n",
+  "meaning_ko": "폭행, 공격",
+  "example_en": "He was arrested for **assault** after the fight.",
+  "example_ko": "그는 싸움 뒤에 폭행 혐의로 체포됐어.",
+  "nuance_ko": "assault는 법적으로 남에게 신체적 위협이나 폭행을 가하는 행위를 뜻해요. 뉴스에서 'charged with assault'(폭행 혐의로 기소)로 자주 보여요. 군사적으로는 대규모 '공격'이고(an assault on the city), 비유적으로 '맹공격'을 뜻하기도 해요. attack보다 법률적이고 격식 있는 말이에요. sexual assault는 성폭행을 이르는 법적 용어예요. 동사로도 쓰이며 be assaulted로 피해를 말해요.",
+  "also": []
+ },
+ {
+  "w": "assemble",
+  "pos": "v",
+  "meaning_ko": "모이다, 조립하다",
+  "example_en": "It took us an hour to **assemble** the bookshelf.",
+  "example_ko": "책장을 조립하는 데 한 시간이나 걸렸어.",
+  "nuance_ko": "assemble에는 두 가지 뜻이 있어요. 하나는 사람들이 한곳에 모이는 것이고, 다른 하나는 부품을 맞춰 조립하는 것이에요. 사람이 주어면 '모이다/소집하다', 물건이 목적어면 '조립하다'로 이해하면 돼요. 가구 설명서에서 'easy to assemble'(조립이 쉬운)이 자주 보여요. gather는 더 일상적으로 모이는 것이고, assemble은 질서 있게 모인다는 느낌이에요. 명사는 assembly(집회, 조립)예요.",
+  "also": [
+   {
+    "w": "assembled",
+    "pos": "adj",
+    "ko": "모인, 조립된",
+    "en": "The **assembled** crowd cheered loudly."
+   }
+  ]
+ },
+ {
+  "w": "assembly",
+  "pos": "n",
+  "meaning_ko": "집회, 조립, 의회",
+  "example_en": "The whole school gathered in the hall for the morning **assembly**.",
+  "example_ko": "전교생이 아침 조회를 하려고 강당에 모였어.",
+  "nuance_ko": "assembly는 사람들이 공식적으로 모인 집회나 의회, 그리고 부품을 조립하는 공정을 뜻해요. 영국과 호주 학교에서는 전교생 조회를 assembly라고 불러요. 정치에서는 National Assembly(국회)처럼 입법 기관 이름에도 쓰여요. 공장에서는 assembly line(조립 라인)으로 유명해요. freedom of assembly는 집회의 자유를 가리키는 법적 표현이에요. 동사 assemble과 한 쌍으로 기억하세요.",
+  "also": []
+ },
+ {
+  "w": "assert",
+  "pos": "v",
+  "meaning_ko": "단호히 주장하다",
+  "example_en": "She **asserted** that she had done nothing wrong.",
+  "example_ko": "걔는 자기가 잘못한 게 없다고 단호하게 주장했어.",
+  "nuance_ko": "assert는 증거를 대기보다 확신을 갖고 단호히 주장한다는 뜻이에요. say보다 훨씬 강하고 격식 있는 말이에요. assert yourself는 '자기 의견을 당당히 내세우다'라는 숙어예요. claim은 증거 없이 주장하는 경우도 되지만, assert는 자신 있게 단언하는 태도가 강조돼요. 프로그래밍에서는 조건이 참인지 검사하는 assert 문이 유명해요. 형용사 assertive(자기주장이 분명한)는 긍정적인 성격 묘사예요.",
+  "also": [
+   {
+    "w": "assertion",
+    "pos": "n",
+    "ko": "단언, 주장",
+    "en": "His **assertion** was not supported by any facts."
+   },
+   {
+    "w": "assertive",
+    "pos": "adj",
+    "ko": "자기주장이 분명한",
+    "en": "You need to be more **assertive** in meetings."
+   }
+  ]
+ },
+ {
+  "w": "assess",
+  "pos": "v",
+  "meaning_ko": "평가하다, 가늠하다",
+  "example_en": "Engineers will **assess** the damage after the storm.",
+  "example_ko": "폭풍이 지나가면 기술자들이 피해 상황을 평가할 거야.",
+  "nuance_ko": "assess는 상황, 능력, 가치, 피해 등을 꼼꼼히 살펴서 판단한다는 뜻이에요. assess the risk, assess the damage, assess students처럼 써요. evaluate와 비슷하지만 assess는 현재 상태를 파악하는 쪽이고, evaluate는 가치를 따져 판단하는 쪽이에요. 교육에서는 학생의 학업 성취를 평가한다는 뜻으로 많이 나와요. 명사 assessment(평가)는 시험, 보고서, 의료 진단 모두에 쓰여요.",
+  "also": [
+   {
+    "w": "assessment",
+    "pos": "n",
+    "ko": "평가, 진단",
+    "en": "The doctor made a careful **assessment** of her condition."
+   }
+  ]
+ },
+ {
+  "w": "asset",
+  "pos": "n",
+  "meaning_ko": "자산, 유용한 존재",
+  "example_en": "Her language skills are a real **asset** to the team.",
+  "example_ko": "걔의 어학 실력은 우리 팀에 정말 큰 자산이야.",
+  "nuance_ko": "asset은 가치를 지닌 재산이나 유용한 사람·능력을 말해요. 재무에서는 부동산, 현금, 투자처럼 대차대조표의 '자산'이에요. 반대말은 liability(부채)예요. 비유적으로는 'an asset to the company'처럼 사람이나 기술이 이익이 되는 존재라는 칭찬이에요. 보통 복수 assets로 '재산'을 뜻하고, 단수 asset은 '장점'의 의미가 자주 나와요. asset management, frozen assets가 뉴스에 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "assign",
+  "pos": "v",
+  "meaning_ko": "배정하다, 맡기다",
+  "example_en": "The teacher **assigned** us a long essay for the weekend.",
+  "example_ko": "선생님이 주말 동안 쓸 긴 에세이를 숙제로 내주셨어.",
+  "nuance_ko": "assign은 사람에게 일, 과제, 자리, 역할을 정해서 맡긴다는 뜻이에요. assign A to B 또는 assign B A처럼 두 구문이 모두 가능해요. 'He was assigned to the Seoul office.'처럼 수동태가 흔해요. 학교에서는 숙제를 내주는 것도 assign이에요. give보다 공식적이고 정해진 책임을 부여하는 느낌이에요. 명사 assignment는 과제, 임무예요.",
+  "also": [
+   {
+    "w": "assignment",
+    "pos": "n",
+    "ko": "과제, 임무",
+    "en": "I have a writing **assignment** due tomorrow."
+   },
+   {
+    "w": "assigned",
+    "pos": "adj",
+    "ko": "배정된",
+    "en": "Please sit in your **assigned** seat."
+   }
+  ]
+ },
+ {
+  "w": "assumption",
+  "pos": "n",
+  "meaning_ko": "가정, 추정",
+  "example_en": "You're making a big **assumption** that he'll agree.",
+  "example_ko": "넌 걔가 동의할 거라고 너무 크게 가정하고 있어.",
+  "nuance_ko": "assumption은 증거 없이 당연히 그럴 거라고 여기는 가정이나 추정이에요. on the assumption that ~(~라는 가정 하에)이 대표 구문이에요. make an assumption, a false assumption처럼 써요. 논리·연구에서는 전제를 뜻하는 중요한 용어예요. guess는 어림짐작이고, assumption은 판단의 바탕이 되는 전제라는 점이 달라요. 같은 뿌리의 동사 assume은 'I assume you're right'처럼 구어체에서도 흔해요.",
+  "also": []
+ },
+ {
+  "w": "athlete",
+  "pos": "n",
+  "meaning_ko": "운동선수",
+  "example_en": "Professional **athletes** train almost every day of the year.",
+  "example_ko": "프로 운동선수들은 일 년 내내 거의 매일 훈련해.",
+  "nuance_ko": "athlete는 스포츠 경기를 직업이나 전문적으로 하는 운동선수예요. 미국 영어에서는 달리기, 수영 같은 육상·종목 선수 전반에 쓰고, 영국 영어에서는 육상선수를 주로 가리키기도 해요. player는 팀 경기 선수에 많이 써요(football player). 발음은 /ˈæθliːt/로 두 음절이고, 가운데에 모음을 넣어 'athelete'로 쓰는 철자 실수가 잦아요. 형용사 athletic은 '운동을 잘하는, 탄탄한'이에요.",
+  "also": [
+   {
+    "w": "athletic",
+    "pos": "adj",
+    "ko": "운동의, 탄탄한",
+    "en": "He has a tall, **athletic** build."
+   },
+   {
+    "w": "athletics",
+    "pos": "n",
+    "ko": "운동 경기, 육상",
+    "en": "She joined the school **athletics** team."
+   }
+  ]
+ },
+ {
+  "w": "atom",
+  "pos": "n",
+  "meaning_ko": "원자",
+  "example_en": "Everything around us is made up of tiny **atoms**.",
+  "example_ko": "우리 주변의 모든 건 아주 작은 원자로 이루어져 있어.",
+  "nuance_ko": "atom은 물질을 이루는 가장 기본적인 작은 입자인 원자예요. 과학 수업에서 molecule(분자)과 짝으로 나오고, 분자는 원자들이 결합한 거예요. atomic energy, atomic bomb처럼 형용사 atomic으로 원자력 관련 표현을 만들어요. 비유로 'not an atom of truth'는 '진실이 티끌만큼도 없다'는 관용적 과장이에요. 라틴어에서 '쪼갤 수 없는'이라는 뜻의 어원이 있는데, 실제로는 쪼갤 수 있어요.",
+  "also": [
+   {
+    "w": "atomic",
+    "pos": "adj",
+    "ko": "원자의",
+    "en": "The plant produces **atomic** energy."
+   }
+  ]
+ },
+ {
+  "w": "attribute",
+  "pos": "v",
+  "meaning_ko": "~의 탓으로 돌리다, ~의 덕으로 보다",
+  "example_en": "She **attributes** her success to hard work and good luck.",
+  "example_ko": "걔는 자기 성공을 노력과 행운 덕이라고 생각해.",
+  "nuance_ko": "attribute A to B는 'A의 원인이나 작품의 주인을 B로 본다'는 뜻이에요. 결과의 원인을 어디에 두는지 말할 때 써요. 동사는 /əˈtrɪbjuːt/, 명사는 /ˈætrɪbjuːt/로 강세가 달라요. 명사 attribute는 사람이나 사물의 '특성, 속성'으로 positive attributes(좋은 특성)처럼 써요. 수동태 'be attributed to'는 보고서에서 정말 자주 나와요. blame은 탓을 돌리는 쪽, credit은 공을 돌리는 쪽이고 attribute는 중립적이에요.",
+  "also": [
+   {
+    "w": "attributed",
+    "pos": "adj",
+    "ko": "~의 것으로 여겨지는",
+    "en": "The painting is **attributed** to a local artist."
+   },
+   {
+    "w": "attribution",
+    "pos": "n",
+    "ko": "귀속, 출처 표기",
+    "en": "Please include proper **attribution** for the photo."
+   }
+  ]
+ },
+ {
+  "w": "audience",
+  "pos": "n",
+  "meaning_ko": "청중, 관객, 독자",
+  "example_en": "The **audience** burst into applause when she finished.",
+  "example_ko": "그녀가 끝내자 관객들이 박수를 터뜨렸어.",
+  "nuance_ko": "audience는 공연, 강연, 방송을 보거나 듣는 사람들의 집단이에요. 집합 명사라서 단수로도 복수로도 쓸 수 있어요(영국식은 복수 동사도 가능). 'a large audience'라고 말하지 'many audiences'로는 사람 수를 말하지 않아요. 사람 수를 셀 때는 spectators나 viewers를 써요. target audience(목표 대상층)는 마케팅에서 정말 자주 나오는 표현이에요. 책의 독자, 영상의 시청자 모두를 포괄할 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "audit",
+  "pos": "n",
+  "meaning_ko": "감사, 회계 감사",
+  "example_en": "The company is preparing for its annual financial **audit**.",
+  "example_ko": "그 회사는 연례 회계 감사를 준비하고 있어.",
+  "nuance_ko": "audit은 회계 장부나 업무 과정을 독립적으로 점검하는 감사예요. financial audit, tax audit, security audit처럼 분야를 붙여 써요. 동사로도 쓰여 'audit the books'(장부를 감사하다)라고 해요. 미국 대학에서는 학점 없이 청강한다는 뜻의 'audit a class'로도 써요. inspect는 현장을 직접 살펴보는 점검이고, audit은 기록과 절차를 체계적으로 검증하는 거예요. 감사하는 사람은 auditor예요.",
+  "also": [
+   {
+    "w": "auditor",
+    "pos": "n",
+    "ko": "감사관, 회계 감사인",
+    "en": "An external **auditor** reviewed the accounts."
+   }
+  ]
+ },
+ {
+  "w": "author",
+  "pos": "n",
+  "meaning_ko": "저자, 작가",
+  "example_en": "The **author** signed copies of her new book yesterday.",
+  "example_ko": "작가가 어제 자기 신간에 사인을 해 줬어.",
+  "nuance_ko": "author는 책, 글, 논문을 쓴 사람이에요. writer가 글 쓰는 일을 하는 사람 전반이라면, author는 특정 작품의 지은이를 가리킬 때 더 자연스러워요. 'Who is the author of this book?'처럼 묻는 게 대표적이에요. 논문의 저자도 author라고 해서 first author(제1저자)가 학술계에서 중요해요. 동사로는 '쓰다, 저술하다'(authored a report)라는 뜻이 있어요. authorship은 저작자 자격을 뜻해요.",
+  "also": [
+   {
+    "w": "authorship",
+    "pos": "n",
+    "ko": "저작권자임, 저자 신분",
+    "en": "The **authorship** of the poem is still disputed."
+   }
+  ]
+ },
+ {
+  "w": "authorise",
+  "pos": "v",
+  "meaning_ko": "허가하다, 권한을 부여하다",
+  "example_en": "Only the manager can **authorise** a refund over fifty dollars.",
+  "example_ko": "50달러가 넘는 환불은 매니저만 승인할 수 있어.",
+  "nuance_ko": "authorise는 공식적으로 누군가에게 권한을 주거나 어떤 일을 허가한다는 뜻이에요. 영국식 철자이고 미국식은 authorize예요. authorize a payment(결제 승인)는 카드·은행에서 정말 자주 쓰여요. allow는 일상적인 허용이고, authorize는 권한 있는 사람이 공식적으로 승인하는 거예요. 'authorized personnel only'(관계자 외 출입 금지) 같은 안내문에서도 보여요. 반대말은 unauthorized(무허가의)예요.",
+  "also": [
+   {
+    "w": "authorization",
+    "pos": "n",
+    "ko": "승인, 허가",
+    "en": "You need written **authorization** to enter."
+   },
+   {
+    "w": "unauthorised",
+    "pos": "adj",
+    "ko": "무허가의",
+    "en": "**Unauthorised** vehicles will be towed."
+   }
+  ]
+ },
+ {
+  "w": "authority",
+  "pos": "n",
+  "meaning_ko": "권한, 당국, 권위자",
+  "example_en": "Only the local **authorities** can approve the permit.",
+  "example_ko": "지방 당국만 그 허가를 승인할 수 있어.",
+  "nuance_ko": "authority에는 세 가지 뜻이 있어요. 권한과 권위, 공공기관(the authorities), 그리고 그 분야 전문가예요. 복수 authorities는 '당국'으로 정부나 경찰을 두루 가리켜요. have the authority to ~는 '~할 권한이 있다'는 구문이에요. an authority on ~는 '~에 정통한 권위자'예요. power는 힘 자체이고, authority는 정당하게 인정받은 권한이라는 점에서 달라요. 형용사 authoritative는 '권위 있는'이에요.",
+  "also": []
+ },
+ {
+  "w": "award",
+  "pos": "n",
+  "meaning_ko": "상, 수여",
+  "example_en": "She won an **award** for her first short film.",
+  "example_ko": "걔는 첫 단편 영화로 상을 받았어.",
+  "nuance_ko": "award는 성과를 인정해서 주는 상이나 상금, 또는 법원이 결정한 보상금이에요. win an award, receive an award, award ceremony처럼 써요. prize는 대회에서 이겨서 받는 상품에 가깝고, award는 업적을 기려 주는 공식 상이에요. 동사 award는 'award someone a prize'처럼 수여하다라는 뜻이에요. 영화제 시상식은 awards show예요. 복수로 'the Academy Awards'는 오스카를 말해요.",
+  "also": [
+   {
+    "w": "awarded",
+    "pos": "adj",
+    "ko": "수여된",
+    "en": "She was **awarded** a scholarship to study abroad."
+   }
+  ]
+ },
+ {
+  "w": "bacterium",
+  "pos": "n",
+  "meaning_ko": "세균, 박테리아",
+  "example_en": "Washing your hands removes many harmful **bacteria**.",
+  "example_ko": "손을 씻으면 해로운 세균을 많이 없앨 수 있어.",
+  "nuance_ko": "bacterium은 세균 한 마리를 뜻하는 단수형이고, 복수형은 bacteria예요. 일상에서는 거의 복수형 bacteria만 써서, 단수형이 오히려 낯설게 느껴져요. 'a bacteria'처럼 쓰는 건 엄밀히는 문법적 오류지만 구어체에서는 간혹 들려요. 모든 세균이 해로운 건 아니고 장내 유익균은 good bacteria라고 해요. virus(바이러스)와 구분되는 개념이라 둘을 혼동하지 않도록 주의하세요. 형용사는 bacterial이에요.",
+  "also": [
+   {
+    "w": "bacterial",
+    "pos": "adj",
+    "ko": "세균성의",
+    "en": "It's a **bacterial** infection, so you need antibiotics."
+   }
+  ]
+ },
+ {
+  "w": "ban",
+  "pos": "v",
+  "meaning_ko": "금지하다",
+  "example_en": "The city decided to **ban** smoking in all public parks.",
+  "example_ko": "시에서 모든 공원에서 흡연을 금지하기로 했어.",
+  "nuance_ko": "ban은 법이나 규칙으로 공식적으로 금지한다는 뜻이에요. ban + 명사/동명사 또는 ban someone from -ing 구문으로 써요. forbid가 개인적으로 못 하게 하는 느낌이라면, ban은 조직·정부의 공식 금지예요. 명사로도 흔해서 a ban on smoking(흡연 금지령)처럼 on과 같이 써요. prohibit은 더 격식 있는 법률 용어예요. 과거형은 banned로 n이 두 번 들어가요.",
+  "also": [
+   {
+    "w": "banned",
+    "pos": "adj",
+    "ko": "금지된",
+    "en": "That book was **banned** in several countries."
+   }
+  ]
+ },
+ {
+  "w": "bargain",
+  "pos": "n",
+  "meaning_ko": "싸게 산 물건, 흥정",
+  "example_en": "This jacket was a real **bargain** at half price.",
+  "example_ko": "이 재킷은 반값에 산 진짜 횡재였어.",
+  "nuance_ko": "bargain은 가치에 비해 아주 싸게 산 물건, 즉 '득템'을 뜻해요. 'It's a bargain!'은 '이거 정말 싸다!'라는 감탄이에요. 동사로 bargain with someone은 '흥정하다, 협상하다'로, collective bargaining(단체 교섭)이 뉴스에 나와요. 또 '거래, 합의'의 뜻도 있어서 'strike a bargain'(합의를 보다)이라고 해요. cheap은 값이 낮다는 뜻이지만 품질이 나쁘다는 뉘앙스가 있을 수 있고, bargain은 항상 긍정적이에요.",
+  "also": []
+ },
+ {
+  "w": "barrier",
+  "pos": "n",
+  "meaning_ko": "장벽, 장애물",
+  "example_en": "Language is the biggest **barrier** for many immigrants.",
+  "example_ko": "많은 이민자에게 언어가 가장 큰 장벽이야.",
+  "nuance_ko": "barrier는 길을 막는 물리적 울타리나 방어물, 그리고 앞으로 나아가는 걸 가로막는 추상적 장애물을 모두 뜻해요. language barrier(언어 장벽), barrier to entry(진입 장벽)처럼 자주 써요. break down barriers(장벽을 허물다)는 뉴스에서 흔한 표현이에요. obstacle은 넘거나 피해야 할 장애물 쪽이고, barrier는 아예 통과를 막는 벽 같은 느낌이에요. 도로의 안전 펜스도 barrier라고 불러요.",
+  "also": []
+ },
+ {
+  "w": "beam",
+  "pos": "n",
+  "meaning_ko": "빛줄기, 들보",
+  "example_en": "A **beam** of sunlight came through the window.",
+  "example_ko": "한 줄기 햇빛이 창문으로 들어왔어.",
+  "nuance_ko": "beam은 빛이나 에너지가 한 방향으로 곧게 뻗은 줄기를 말해요. 햇빛(sunbeam), 손전등 빛줄기, 레이저 빔이 대표적이에요. 건축에서는 천장을 받치는 들보도 beam이라고 해요. 동사로 쓰면 '활짝 웃다'(beam with pride)라는 뜻이라서 얼굴이 빛나는 이미지로 이해하면 돼요. grin보다 기쁨이 밝게 퍼지는 느낌이에요. high beam은 자동차 상향등이에요.",
+  "also": []
+ },
+ {
+  "w": "behave",
+  "pos": "v",
+  "meaning_ko": "행동하다, 예의 바르게 굴다",
+  "example_en": "Please **behave** yourselves while I'm out.",
+  "example_ko": "내가 나가 있는 동안 얌전히 굴어.",
+  "nuance_ko": "behave는 어떻게 행동하는지를 말하는 동사예요. 'behave well/badly'처럼 부사와 함께 쓰고, 'behave yourself'는 '예의 바르게 굴어라'는 명령이에요. 아이에게 'Behave!'라고 하면 '얌전히 해!'라는 뜻이에요. act는 일시적인 행동이나 연기이고, behave는 습관적인 태도에 가까워요. 과학에서는 물질이 어떤 성질을 보이는지 말하기도 해요(Water behaves differently at low temperatures). 명사는 behaviour/behavior예요.",
+  "also": [
+   {
+    "w": "misbehave",
+    "pos": "v",
+    "ko": "못되게 굴다",
+    "en": "If you **misbehave**, there'll be no dessert."
+   }
+  ]
+ },
+ {
+  "w": "behaviour",
+  "pos": "n",
+  "meaning_ko": "행동, 태도",
+  "example_en": "His **behaviour** at the party surprised everyone.",
+  "example_ko": "파티에서 그의 행동에 모두가 놀랐어.",
+  "nuance_ko": "behaviour는 사람, 동물, 물질이 보이는 행동 방식이에요. 영국식은 behaviour, 미국식은 behavior로 쓰고 뜻은 같아요. 불가산 명사로 쓰는 게 기본이라 'a behavior'보다 'behavior'나 'a pattern of behavior'가 자연스러워요. good behaviour, bad behaviour, consumer behaviour처럼 써요. conduct는 더 격식 있고 도덕적인 행실에 가까워요. behavioural science(행동과학), behavioural problems(행동 문제)가 자주 보여요.",
+  "also": [
+   {
+    "w": "behavioural",
+    "pos": "adj",
+    "ko": "행동의",
+    "en": "The child has some **behavioural** problems."
+   }
+  ]
+ },
+ {
+  "w": "belief",
+  "pos": "n",
+  "meaning_ko": "믿음, 신념",
+  "example_en": "It's my firm **belief** that everyone deserves a second chance.",
+  "example_ko": "누구에게나 두 번째 기회가 필요하다는 게 내 굳은 신념이야.",
+  "nuance_ko": "belief는 어떤 것이 사실이라고 믿는 생각이나 종교적·정치적 신념이에요. belief in ~(~에 대한 믿음), religious beliefs처럼 전치사 in과 함께 써요. 복수형 beliefs는 '신념 체계'를 뜻하는 경우가 많아요. opinion은 개인의 의견이고, belief는 더 깊이 갖고 있는 믿음이에요. beyond belief(믿기 어려운), in the belief that ~(~라고 믿고)도 알아두면 좋아요. 동사는 believe, 발음 /bɪˈliːf/에 주의하세요.",
+  "also": []
+ },
+ {
+  "w": "bench",
+  "pos": "n",
+  "meaning_ko": "벤치, 긴 의자",
+  "example_en": "We sat on a **bench** and watched the sunset.",
+  "example_ko": "우리는 벤치에 앉아서 노을을 봤어.",
+  "nuance_ko": "bench는 여러 명이 앉을 수 있는 긴 의자로, 공원 벤치가 대표적이에요. 운동에서는 선수 대기석을 뜻해서 'He's on the bench'는 교체 선수라는 뜻이에요. 법정에서는 판사석을 가리켜서 'the bench'가 판사들 전체를 말하기도 해요(on the bench). 작업대는 workbench예요. chair는 한 명이 앉는 의자라서 구분되고, 소파는 sofa/couch예요. warm the bench는 경기에 못 나가고 앉아 있는다는 관용구예요.",
+  "also": []
+ },
+ {
+  "w": "bias",
+  "pos": "n",
+  "meaning_ko": "편견, 편향",
+  "example_en": "The study was criticized for showing a clear **bias**.",
+  "example_ko": "그 연구는 명백한 편향을 보여서 비판받았어.",
+  "nuance_ko": "bias는 한쪽으로 치우친 생각이나 판단으로, 공정하지 못한 편향을 뜻해요. media bias, gender bias, confirmation bias처럼 자주 써요. prejudice와 비슷하지만 bias는 연구·통계·언론처럼 판단의 기울어짐을 말할 때 더 넓게 써요. bias against(~에 대한 편견)와 bias toward(~쪽으로의 편향)에서 전치사가 달라요. 동사로 'bias the results'(결과를 왜곡하다)도 가능해요. 형용사는 biased(편향된)와 unbiased(공정한)예요.",
+  "also": [
+   {
+    "w": "biased",
+    "pos": "adj",
+    "ko": "편향된",
+    "en": "The referee seemed **biased** toward the home team."
+   },
+   {
+    "w": "unbiased",
+    "pos": "adj",
+    "ko": "공정한",
+    "en": "We need an **unbiased** opinion on this."
+   }
+  ]
+ },
+ {
+  "w": "bible",
+  "pos": "n",
+  "meaning_ko": "성경",
+  "example_en": "She kept an old **Bible** on her bedside table.",
+  "example_ko": "걔는 침대 옆 탁자에 낡은 성경을 두고 있었어.",
+  "nuance_ko": "Bible은 기독교의 경전으로, 보통 대문자 B로 써요. 소문자 bible은 어떤 분야의 최고 권위서를 비유할 때 써서 'the bible of cooking'이라고 해요. 유대교는 Hebrew Bible, 이슬람은 Quran(Koran)이라고 각각 부르는 점이 달라요. Old Testament(구약)와 New Testament(신약)로 나뉘어요. 형용사 biblical은 '성경의' 외에도 '대규모의'라는 과장된 뜻으로 가끔 써요(a flood of biblical proportions).",
+  "also": [
+   {
+    "w": "biblical",
+    "pos": "adj",
+    "ko": "성경의",
+    "en": "It's a **biblical** story that many people know."
+   }
+  ]
+ },
+ {
+  "w": "bid",
+  "pos": "n",
+  "meaning_ko": "입찰, 시도",
+  "example_en": "The city submitted a **bid** to host the next Olympics.",
+  "example_ko": "그 도시는 다음 올림픽 개최를 신청하는 입찰서를 냈어.",
+  "nuance_ko": "bid는 경매나 계약에서 가격을 제시하는 입찰이에요. make a bid, place a bid on ~처럼 써요. 또 뭔가를 얻으려는 공식적인 시도도 뜻해서, 'a bid for power', 'a bid to win the title'처럼 뉴스에서 정말 많이 보여요. 동사 bid는 bid-bid-bid로 변화하는 불규칙 동사예요(가격을 부르다). 작별 인사 bid farewell은 bid-bade-bidden으로 달라지니 주의하세요. 영어권에서는 경매 사이트 eBay에서 자주 만나요.",
+  "also": [
+   {
+    "w": "bidding",
+    "pos": "n",
+    "ko": "입찰, 경매에서 값 부르기",
+    "en": "The **bidding** started at fifty dollars."
+   },
+   {
+    "w": "bidder",
+    "pos": "n",
+    "ko": "입찰자",
+    "en": "The highest **bidder** won the painting."
+   }
+  ]
+ },
+ {
+  "w": "biological",
+  "pos": "adj",
+  "meaning_ko": "생물학적인, 친부모의",
+  "example_en": "She never met her **biological** father.",
+  "example_ko": "걔는 친아버지를 한 번도 만난 적이 없어.",
+  "nuance_ko": "biological은 생물학과 관련된 모든 것을 꾸미는 형용사예요. biological process(생물학적 과정), biological weapon(생물 무기)처럼 써요. 가족을 말할 때는 '피가 이어진 친부모, 친자식'이라는 뜻으로 biological parents, biological child라고 해요. 입양 맥락에서 adoptive parents와 대비돼요. natural은 '자연스러운'이라는 뜻이라 '친부모'를 natural parents라고 말하는 건 오래된 표현이에요. biological clock은 '생체 시계, 출산 시기의 압박감'을 뜻하는 비유적 표현이에요.",
+  "also": [
+   {
+    "w": "biologically",
+    "pos": "adv",
+    "ko": "생물학적으로",
+    "en": "Humans are **biologically** very similar to apes."
+   }
+  ]
+ },
+ {
+  "w": "bishop",
+  "pos": "n",
+  "meaning_ko": "주교",
+  "example_en": "The **bishop** gave a short speech after the service.",
+  "example_ko": "주교님이 예배가 끝난 뒤에 짧게 연설하셨어.",
+  "nuance_ko": "bishop은 천주교, 성공회, 정교회 등에서 교구를 책임지는 높은 성직자인 주교예요. priest(사제)보다 지위가 높고, archbishop(대주교)보다는 낮아요. 체스에서는 대각선으로 움직이는 말 비숍을 뜻해서 게임을 하는 사람들에게 익숙한 단어예요. 고유 호칭으로는 'Bishop Smith'처럼 이름 앞에 대문자로 써요. 한국어의 '주교'에 대응하지만 개신교의 '감독' 등으로도 번역될 수 있어요.",
+  "also": [
+   {
+    "w": "archbishop",
+    "pos": "n",
+    "ko": "대주교",
+    "en": "The **archbishop** led the ceremony."
+   }
+  ]
+ },
+ {
+  "w": "blast",
+  "pos": "n",
+  "meaning_ko": "폭발, 강한 바람, 신나는 시간",
+  "example_en": "We had a **blast** at the beach party last night.",
+  "example_ko": "어젯밤 해변 파티에서 진짜 신나게 놀았어.",
+  "nuance_ko": "blast의 기본 그림은 갑자기 터지는 강한 폭발이나 돌풍이에요. 'a blast of cold air'(찬 바람 한 줄기), 'a bomb blast'(폭탄 폭발)처럼 써요. 구어체에서는 'have a blast'가 '엄청 재밌게 놀다'라는 아주 흔한 숙어예요. 'a blast from the past'는 옛 추억을 불러일으키는 것을 뜻하는 표현이에요. 동사로는 '폭파하다, 쾅쾅 울리다'(blast music)와 '맹비난하다'도 가능해요. 뉴스의 'blasted the decision'은 결정을 강하게 비판했다는 뜻이에요.",
+  "also": [
+   {
+    "w": "blasted",
+    "pos": "adj",
+    "ko": "빌어먹을, 폭파된",
+    "en": "I can't find my **blasted** keys anywhere."
+   }
+  ]
+ },
+ {
+  "w": "blend",
+  "pos": "v",
+  "meaning_ko": "섞다, 어우러지다",
+  "example_en": "**Blend** the eggs and sugar until the mixture is smooth.",
+  "example_ko": "계란이랑 설탕을 반죽이 부드러워질 때까지 섞어 줘.",
+  "nuance_ko": "blend는 여러 재료를 완전히 섞어서 하나처럼 만든다는 뜻이에요. 요리에서는 블렌더로 갈거나 섞는 것을 말하고, 'blend in'은 주변에 자연스럽게 묻혀 눈에 띄지 않는다는 뜻이에요. mix는 단순히 섞는 것이고, blend는 경계가 안 보일 만큼 잘 어우러지는 느낌이에요. 명사로는 'a blend of coffee'(원두 블렌드)처럼 혼합물을 말해요. a blend of A and B(A와 B의 조합)는 묘사에 자주 써요.",
+  "also": [
+   {
+    "w": "blender",
+    "pos": "n",
+    "ko": "믹서기",
+    "en": "I put the fruit in the **blender**."
+   }
+  ]
+ }
+]

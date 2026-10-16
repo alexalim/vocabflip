@@ -1,0 +1,1031 @@
+[
+ {
+  "w": "restrain",
+  "lvl": "3k",
+  "forms": [
+   "restraint",
+   "restrained",
+   "restraints",
+   "restraining",
+   "unrestrained",
+   "restrains"
+  ]
+ },
+ {
+  "w": "restrict",
+  "lvl": "3k",
+  "forms": [
+   "restricted",
+   "restrictions",
+   "restriction",
+   "restrictive",
+   "restricting",
+   "restricts",
+   "unrestricted",
+   "restrictively"
+  ]
+ },
+ {
+  "w": "resume",
+  "lvl": "3k",
+  "forms": [
+   "resumed",
+   "resumption",
+   "resuming",
+   "resumes"
+  ]
+ },
+ {
+  "w": "retail",
+  "lvl": "3k",
+  "forms": [
+   "retailers",
+   "retailer",
+   "retailing",
+   "retails",
+   "retailed"
+  ]
+ },
+ {
+  "w": "retain",
+  "lvl": "3k",
+  "forms": [
+   "retained",
+   "retaining",
+   "retains",
+   "retainers",
+   "retainer"
+  ]
+ },
+ {
+  "w": "retreat",
+  "lvl": "3k",
+  "forms": [
+   "retreated",
+   "retreating",
+   "retreats"
+  ]
+ },
+ {
+  "w": "reveal",
+  "lvl": "3k",
+  "forms": [
+   "revealed",
+   "reveals",
+   "revealing",
+   "revelation",
+   "revelations",
+   "revealingly",
+   "unrevealed"
+  ]
+ },
+ {
+  "w": "revenue",
+  "lvl": "3k",
+  "forms": [
+   "revenues"
+  ]
+ },
+ {
+  "w": "reverse",
+  "lvl": "3k",
+  "forms": [
+   "reversed",
+   "reversal",
+   "reversing",
+   "irreversible",
+   "reversible",
+   "reverses",
+   "reversals",
+   "irreversibly"
+  ]
+ },
+ {
+  "w": "review",
+  "lvl": "3k",
+  "forms": [
+   "reviewed",
+   "reviews",
+   "reviewing",
+   "reviewer",
+   "reviewers",
+   "reviewable"
+  ]
+ },
+ {
+  "w": "revise",
+  "lvl": "3k",
+  "forms": [
+   "revised",
+   "revision",
+   "revisions",
+   "revising",
+   "revisionist",
+   "revisionism",
+   "revisionists",
+   "revises"
+  ]
+ },
+ {
+  "w": "revive",
+  "lvl": "3k",
+  "forms": [
+   "revival",
+   "revived",
+   "reviving",
+   "revivalist",
+   "revivals",
+   "revives"
+  ]
+ },
+ {
+  "w": "revolution",
+  "lvl": "3k",
+  "forms": [
+   "revolutionary",
+   "revolutions",
+   "revolutionaries",
+   "revolutionised",
+   "revolutionise",
+   "revolutionized",
+   "revolutionize",
+   "revolutionising"
+  ]
+ },
+ {
+  "w": "reward",
+  "lvl": "3k",
+  "forms": [
+   "rewards",
+   "rewarded",
+   "rewarding",
+   "unrewarding",
+   "unrewarded"
+  ]
+ },
+ {
+  "w": "rhythm",
+  "lvl": "3k",
+  "forms": [
+   "rhythms",
+   "rhythmic",
+   "rhythmically",
+   "rhythmical",
+   "rhythmics"
+  ]
+ },
+ {
+  "w": "ritual",
+  "lvl": "3k",
+  "forms": [
+   "rituals",
+   "ritualistic",
+   "ritually",
+   "ritualised",
+   "ritualized",
+   "ritualization",
+   "ritualistically",
+   "ritualisation"
+  ]
+ },
+ {
+  "w": "rival",
+  "lvl": "3k",
+  "forms": [
+   "rivals",
+   "rivalry",
+   "unrivalled",
+   "rivalries",
+   "rivalled",
+   "rivalling"
+  ]
+ },
+ {
+  "w": "romantic",
+  "lvl": "3k",
+  "forms": [
+   "romantically",
+   "romantics",
+   "unromantic",
+   "romanticised",
+   "romanticized",
+   "romanticising",
+   "romanticise",
+   "romanticize"
+  ]
+ },
+ {
+  "w": "route",
+  "lvl": "3k",
+  "forms": [
+   "routes",
+   "routed",
+   "routing"
+  ]
+ },
+ {
+  "w": "routine",
+  "lvl": "3k",
+  "forms": [
+   "routines",
+   "routinely",
+   "subroutine",
+   "subroutines"
+  ]
+ },
+ {
+  "w": "rumour",
+  "lvl": "3k",
+  "forms": [
+   "rumours",
+   "rumoured",
+   "rumors",
+   "rumor",
+   "rumored",
+   "rumoring",
+   "rumouring"
+  ]
+ },
+ {
+  "w": "rural",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "sacrifice",
+  "lvl": "3k",
+  "forms": [
+   "sacrifices",
+   "sacrificed",
+   "sacrificing",
+   "sacrificial"
+  ]
+ },
+ {
+  "w": "sample",
+  "lvl": "3k",
+  "forms": [
+   "samples",
+   "sampling",
+   "sampled"
+  ]
+ },
+ {
+  "w": "sanction",
+  "lvl": "3k",
+  "forms": [
+   "sanctions",
+   "sanctioned",
+   "sanctioning",
+   "unsanctioned"
+  ]
+ },
+ {
+  "w": "satellite",
+  "lvl": "3k",
+  "forms": [
+   "satellites"
+  ]
+ },
+ {
+  "w": "satisfaction",
+  "lvl": "3k",
+  "forms": [
+   "satisfactions"
+  ]
+ },
+ {
+  "w": "scan",
+  "lvl": "3k",
+  "forms": [
+   "scanning",
+   "scanned",
+   "scanner",
+   "scans",
+   "scanners"
+  ]
+ },
+ {
+  "w": "scandal",
+  "lvl": "3k",
+  "forms": [
+   "scandals",
+   "scandalous",
+   "scandalised",
+   "scandalized",
+   "scandalise",
+   "scandalising",
+   "scandalize",
+   "scandalizing"
+  ]
+ },
+ {
+  "w": "scatter",
+  "lvl": "3k",
+  "forms": [
+   "scattered",
+   "scattering",
+   "scatters"
+  ]
+ },
+ {
+  "w": "scheme",
+  "lvl": "3k",
+  "forms": [
+   "schemes",
+   "schematic",
+   "scheming",
+   "schematically",
+   "schemed",
+   "schemer",
+   "schemers"
+  ]
+ },
+ {
+  "w": "scholar",
+  "lvl": "3k",
+  "forms": [
+   "scholars",
+   "scholarly"
+  ]
+ },
+ {
+  "w": "scope",
+  "lvl": "3k",
+  "forms": [
+   "scoping",
+   "scoped",
+   "scopes"
+  ]
+ },
+ {
+  "w": "sculpt",
+  "lvl": "3k",
+  "forms": [
+   "sculpture",
+   "sculptures",
+   "sculptor",
+   "sculptors",
+   "sculpted",
+   "sculptural",
+   "sculptured",
+   "sculpting"
+  ]
+ },
+ {
+  "w": "secretary",
+  "lvl": "3k",
+  "forms": [
+   "secretaries",
+   "secretarial",
+   "secretaryship"
+  ]
+ },
+ {
+  "w": "sector",
+  "lvl": "3k",
+  "forms": [
+   "sectors",
+   "sectoral"
+  ]
+ },
+ {
+  "w": "segment",
+  "lvl": "3k",
+  "forms": [
+   "segments",
+   "segmentation",
+   "segmented",
+   "segmental",
+   "segmenting",
+   "segmentations",
+   "segmentary"
+  ]
+ },
+ {
+  "w": "seize",
+  "lvl": "3k",
+  "forms": [
+   "seized",
+   "seizing",
+   "seizes"
+  ]
+ },
+ {
+  "w": "senate",
+  "lvl": "3k",
+  "forms": [
+   "senates"
+  ]
+ },
+ {
+  "w": "senses",
+  "lvl": "3k",
+  "forms": [
+   "sensed",
+   "sensing",
+   "sensings"
+  ]
+ },
+ {
+  "w": "sensible",
+  "lvl": "3k",
+  "forms": [
+   "sensibly",
+   "sensibility",
+   "sensibilities"
+  ]
+ },
+ {
+  "w": "sensitive",
+  "lvl": "3k",
+  "forms": [
+   "sensitivity",
+   "insensitive",
+   "sensitively",
+   "sensitivities",
+   "insensitivity",
+   "oversensitive",
+   "insensitively"
+  ]
+ },
+ {
+  "w": "sequence",
+  "lvl": "3k",
+  "forms": [
+   "sequences",
+   "sequential",
+   "sequencing",
+   "sequenced",
+   "sequentially",
+   "unsequenced"
+  ]
+ },
+ {
+  "w": "session",
+  "lvl": "3k",
+  "forms": [
+   "sessions",
+   "sessional"
+  ]
+ },
+ {
+  "w": "severe",
+  "lvl": "3k",
+  "forms": [
+   "severely",
+   "severity",
+   "severest",
+   "severer",
+   "severeness"
+  ]
+ },
+ {
+  "w": "shield",
+  "lvl": "3k",
+  "forms": [
+   "shields",
+   "shielded",
+   "shielding",
+   "unshielded"
+  ]
+ },
+ {
+  "w": "shortly",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "shrug",
+  "lvl": "3k",
+  "forms": [
+   "shrugged",
+   "shrugging",
+   "shrugs"
+  ]
+ },
+ {
+  "w": "sigh",
+  "lvl": "3k",
+  "forms": [
+   "sighed",
+   "sighs",
+   "sighing"
+  ]
+ },
+ {
+  "w": "significance",
+  "lvl": "3k",
+  "forms": [
+   "insignificance",
+   "significances"
+  ]
+ },
+ {
+  "w": "significant",
+  "lvl": "3k",
+  "forms": [
+   "significantly",
+   "insignificant",
+   "insignificantly"
+  ]
+ },
+ {
+  "w": "silent",
+  "lvl": "3k",
+  "forms": [
+   "silently"
+  ]
+ },
+ {
+  "w": "silk",
+  "lvl": "3k",
+  "forms": [
+   "silky",
+   "silken",
+   "silks",
+   "silkily",
+   "silkiness",
+   "silkier",
+   "silkiest"
+  ]
+ },
+ {
+  "w": "simultaneous",
+  "lvl": "3k",
+  "forms": [
+   "simultaneously",
+   "simultaneity"
+  ]
+ },
+ {
+  "w": "sin",
+  "lvl": "3k",
+  "forms": [
+   "sins",
+   "sinners",
+   "sinful",
+   "sinner",
+   "sinned",
+   "sinfulness",
+   "sinning",
+   "sinfully"
+  ]
+ },
+ {
+  "w": "slice",
+  "lvl": "3k",
+  "forms": [
+   "sliced",
+   "slices",
+   "slicing",
+   "slicer",
+   "unsliced",
+   "slicers"
+  ]
+ },
+ {
+  "w": "slope",
+  "lvl": "3k",
+  "forms": [
+   "slopes",
+   "sloping",
+   "sloped"
+  ]
+ },
+ {
+  "w": "software",
+  "lvl": "3k",
+  "forms": [
+   "softwares"
+  ]
+ },
+ {
+  "w": "sole",
+  "lvl": "3k",
+  "forms": [
+   "solely"
+  ]
+ },
+ {
+  "w": "solution",
+  "lvl": "3k",
+  "forms": [
+   "solutions"
+  ]
+ },
+ {
+  "w": "solve",
+  "lvl": "3k",
+  "forms": [
+   "solved",
+   "solving",
+   "unsolved",
+   "solves",
+   "unsolvable"
+  ]
+ },
+ {
+  "w": "sophisticated",
+  "lvl": "3k",
+  "forms": [
+   "unsophisticated",
+   "sophisticates",
+   "sophisticate",
+   "sophisticating"
+  ]
+ },
+ {
+  "w": "source",
+  "lvl": "3k",
+  "forms": [
+   "sources",
+   "sourced",
+   "sourcing",
+   "unsourced"
+  ]
+ },
+ {
+  "w": "sovereign",
+  "lvl": "3k",
+  "forms": [
+   "sovereignty",
+   "sovereigns",
+   "sovereignties"
+  ]
+ },
+ {
+  "w": "specify",
+  "lvl": "3k",
+  "forms": [
+   "specified",
+   "specifying",
+   "unspecified",
+   "specifies",
+   "specifiable"
+  ]
+ },
+ {
+  "w": "speculate",
+  "lvl": "3k",
+  "forms": [
+   "speculation",
+   "speculative",
+   "speculated",
+   "speculators",
+   "speculations",
+   "speculating",
+   "speculatively",
+   "speculator"
+  ]
+ },
+ {
+  "w": "spill",
+  "lvl": "3k",
+  "forms": [
+   "spilled",
+   "spilling",
+   "spills",
+   "spilt",
+   "spillage",
+   "spillages",
+   "unspilt"
+  ]
+ },
+ {
+  "w": "sponsor",
+  "lvl": "3k",
+  "forms": [
+   "sponsored",
+   "sponsorship",
+   "sponsors",
+   "sponsoring",
+   "sponsorships"
+  ]
+ },
+ {
+  "w": "squeeze",
+  "lvl": "3k",
+  "forms": [
+   "squeezed",
+   "squeezing",
+   "squeezes"
+  ]
+ },
+ {
+  "w": "stain",
+  "lvl": "3k",
+  "forms": [
+   "stained",
+   "staining",
+   "stainless",
+   "stains",
+   "unstained"
+  ]
+ },
+ {
+  "w": "stake",
+  "lvl": "3k",
+  "forms": [
+   "stakes",
+   "staked",
+   "staking"
+  ]
+ },
+ {
+  "w": "statistic",
+  "lvl": "3k",
+  "forms": [
+   "statistics",
+   "statistical",
+   "statistically",
+   "statisticians",
+   "statistician"
+  ]
+ },
+ {
+  "w": "status",
+  "lvl": "3k",
+  "forms": [
+   "statuses"
+  ]
+ },
+ {
+  "w": "statute",
+  "lvl": "3k",
+  "forms": [
+   "statutory",
+   "statutes",
+   "statutorily"
+  ]
+ },
+ {
+  "w": "stem",
+  "lvl": "3k",
+  "forms": [
+   "stems",
+   "stemmed",
+   "stemming"
+  ]
+ },
+ {
+  "w": "stimulate",
+  "lvl": "3k",
+  "forms": [
+   "stimulated",
+   "stimulation",
+   "stimulating",
+   "stimulates",
+   "stimulatory",
+   "stimulations"
+  ]
+ },
+ {
+  "w": "strain",
+  "lvl": "3k",
+  "forms": [
+   "strains",
+   "strained",
+   "straining",
+   "strainer",
+   "strainers"
+  ]
+ },
+ {
+  "w": "strategy",
+  "lvl": "3k",
+  "forms": [
+   "strategic",
+   "strategies",
+   "strategically",
+   "strategists",
+   "strategist"
+  ]
+ },
+ {
+  "w": "strict",
+  "lvl": "3k",
+  "forms": [
+   "strictly",
+   "stricter",
+   "strictest",
+   "strictness"
+  ]
+ },
+ {
+  "w": "structure",
+  "lvl": "3k",
+  "forms": [
+   "structures",
+   "structural",
+   "structured",
+   "restructuring",
+   "structuring",
+   "structuralist",
+   "structuralism",
+   "structurally"
+  ]
+ },
+ {
+  "w": "studio",
+  "lvl": "3k",
+  "forms": [
+   "studios"
+  ]
+ },
+ {
+  "w": "stun",
+  "lvl": "3k",
+  "forms": [
+   "stunning",
+   "stunned",
+   "stunningly",
+   "stunner",
+   "stuns",
+   "stunners"
+  ]
+ },
+ {
+  "w": "submit",
+  "lvl": "3k",
+  "forms": [
+   "submitted",
+   "submitting",
+   "submits"
+  ]
+ },
+ {
+  "w": "subsequent",
+  "lvl": "3k",
+  "forms": [
+   "subsequently"
+  ]
+ },
+ {
+  "w": "subsidy",
+  "lvl": "3k",
+  "forms": [
+   "subsidies",
+   "subsidised",
+   "subsidized",
+   "subsidise",
+   "subsidising",
+   "subsidize",
+   "subsidizing",
+   "subsidises"
+  ]
+ },
+ {
+  "w": "substance",
+  "lvl": "3k",
+  "forms": [
+   "substances"
+  ]
+ },
+ {
+  "w": "substantial",
+  "lvl": "3k",
+  "forms": [
+   "substantially",
+   "insubstantial",
+   "substantiality",
+   "insubstantially"
+  ]
+ },
+ {
+  "w": "substitute",
+  "lvl": "3k",
+  "forms": [
+   "substitution",
+   "substituted",
+   "substitutes",
+   "substituting",
+   "substitutions"
+  ]
+ },
+ {
+  "w": "subtle",
+  "lvl": "3k",
+  "forms": [
+   "subtly",
+   "subtler",
+   "unsubtle",
+   "subtlest",
+   "subtleness"
+  ]
+ },
+ {
+  "w": "suburb",
+  "lvl": "3k",
+  "forms": [
+   "suburban",
+   "suburbs",
+   "suburbanization",
+   "suburbanites",
+   "suburbanisation",
+   "suburbanite"
+  ]
+ },
+ {
+  "w": "succeed",
+  "lvl": "3k",
+  "forms": [
+   "succeeded",
+   "succeeding",
+   "succeeds"
+  ]
+ },
+ {
+  "w": "succession",
+  "lvl": "3k",
+  "forms": [
+   "successive",
+   "successor",
+   "successors",
+   "successively",
+   "successions"
+  ]
+ },
+ {
+  "w": "sufficient",
+  "lvl": "3k",
+  "forms": [
+   "sufficiently",
+   "insufficient",
+   "insufficiently"
+  ]
+ },
+ {
+  "w": "suicide",
+  "lvl": "3k",
+  "forms": [
+   "suicidal",
+   "suicides",
+   "suicidally"
+  ]
+ },
+ {
+  "w": "sum",
+  "lvl": "3k",
+  "forms": [
+   "sums",
+   "summed",
+   "summing"
+  ]
+ },
+ {
+  "w": "summary",
+  "lvl": "3k",
+  "forms": [
+   "summarised",
+   "summarized",
+   "summarise",
+   "summarize",
+   "summaries",
+   "summarises",
+   "summarily",
+   "summarising"
+  ]
+ },
+ {
+  "w": "summit",
+  "lvl": "3k",
+  "forms": [
+   "summits"
+  ]
+ },
+ {
+  "w": "superior",
+  "lvl": "3k",
+  "forms": [
+   "superiority",
+   "superiors"
+  ]
+ },
+ {
+  "w": "supervise",
+  "lvl": "3k",
+  "forms": [
+   "supervision",
+   "supervisor",
+   "supervised",
+   "supervisory",
+   "supervisors",
+   "supervising",
+   "unsupervised",
+   "supervises"
+  ]
+ },
+ {
+  "w": "supplement",
+  "lvl": "3k",
+  "forms": [
+   "supplementary",
+   "supplements",
+   "supplemented",
+   "supplementation",
+   "supplementing",
+   "supplemental"
+  ]
+ }
+]

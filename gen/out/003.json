@@ -1,0 +1,1989 @@
+[
+ {
+  "w": "find",
+  "pos": "v",
+  "meaning_ko": "찾다, 발견하다",
+  "example_en": "I can't **find** my keys anywhere in the house.",
+  "example_ko": "집 어디에도 열쇠가 안 보여.",
+  "nuance_ko": "find는 찾던 것을 발견하거나 우연히 마주치는 결과에 초점이 있는 동사예요. look for는 찾는 과정, find는 찾아낸 결과라서 I looked for my keys but couldn't find them처럼 둘을 구분해서 써요. find + 목적어 + 형용사는 '~라고 느끼다'라서 I find it difficult처럼 의견을 말할 때 자주 써요. find out은 정보를 알아내다라는 구동사이고, 과거형·과거분사는 found예요. 법정에서 be found guilty(유죄로 판결되다)처럼도 나와요.",
+  "also": [
+   {
+    "w": "finding",
+    "pos": "n",
+    "ko": "조사 결과, 발견",
+    "en": "The main **finding** of the study surprised everyone."
+   },
+   {
+    "w": "unfound",
+    "pos": "adj",
+    "ko": "발견되지 않은",
+    "en": "The rumor turned out to be **unfound** and false."
+   }
+  ]
+ },
+ {
+  "w": "fine",
+  "pos": "adj",
+  "meaning_ko": "좋은, 괜찮은, 미세한",
+  "example_en": "I'm **fine**, thanks. How about you?",
+  "example_ko": "난 괜찮아, 고마워. 너는 어때?",
+  "nuance_ko": "fine은 일상 대화에서 I'm fine처럼 괜찮은 상태를 말하지만, 억양에 따라 사실은 안 괜찮다는 뜻이 되기도 해요. 질이 좋은(fine wine), 가는(fine sand), 날씨가 맑은(a fine day)이라는 뜻도 있어요. 명사로는 벌금이고 동사로는 벌금을 부과하다라서 a parking fine, be fined fifty dollars처럼 써요. That's fine은 허락이나 수락을 가볍게 하는 말이에요. fine print는 계약서의 작은 글씨로 '주의해서 읽어야 하는 세부 조항'을 뜻해요.",
+  "also": [
+   {
+    "w": "finely",
+    "pos": "adv",
+    "ko": "곱게, 정교하게",
+    "en": "Chop the onions **finely** before cooking."
+   },
+   {
+    "w": "finest",
+    "pos": "adj",
+    "ko": "가장 훌륭한",
+    "en": "It was one of the **finest** meals I've had."
+   }
+  ]
+ },
+ {
+  "w": "finger",
+  "pos": "n",
+  "meaning_ko": "손가락",
+  "example_en": "I cut my **finger** while chopping onions.",
+  "example_ko": "양파를 썰다가 손가락을 베었어.",
+  "nuance_ko": "finger는 손가락이고 엄지는 보통 thumb라서 finger와 따로 부르기도 해요. 검지는 index finger, 새끼손가락은 little finger 또는 pinky예요. 발가락은 toe라고 해서 finger와 구분해요. cross your fingers는 행운을 빌 때 쓰는 표현이고, point a finger at ~은 비난하다예요. have sticky fingers는 손버릇이 나쁘다는 뜻이고, fingerprint는 지문이에요. 동사 finger는 손가락으로 만지작거리다는 뜻으로 쓰이지만 자주 쓰진 않아요.",
+  "also": []
+ },
+ {
+  "w": "finish",
+  "pos": "v",
+  "meaning_ko": "끝내다, 마치다",
+  "example_en": "I need to **finish** this report before lunch.",
+  "example_ko": "점심 전에 이 보고서를 끝내야 해.",
+  "nuance_ko": "finish는 하던 일을 끝낸다는 뜻이고, 뒤에는 동명사가 와서 finish reading처럼 써요. finish to read는 틀린 표현이에요. 목적어 없이 쓰면 끝나다라서 The class finishes at five처럼 쓸 수 있어요. 구동사로는 finish up(마무리하다), finish off(남김없이 처리하다)가 있어요. end와 비슷하지만 finish는 완성하고 끝맺는다는 느낌이 더 강하고 end는 자연스럽게 종료되는 느낌이에요. 명사 finish는 마무리, 표면 가공(matte finish)을 뜻해요.",
+  "also": [
+   {
+    "w": "finished",
+    "pos": "adj",
+    "ko": "끝난, 완성된",
+    "en": "Is the report **finished** yet?"
+   },
+   {
+    "w": "unfinished",
+    "pos": "adj",
+    "ko": "미완성의",
+    "en": "He left the painting **unfinished**."
+   }
+  ]
+ },
+ {
+  "w": "fire",
+  "pos": "n",
+  "meaning_ko": "불, 화재",
+  "example_en": "Firefighters put out the **fire** within an hour.",
+  "example_ko": "소방관들이 한 시간 안에 불을 껐어.",
+  "nuance_ko": "fire는 불 자체이거나 화재를 뜻하는 명사예요. 캠프파이어 같은 불은 셀 수 없게(light a fire), 화재 사건은 셀 수 있게(a fire in the building) 쓰기도 해요. catch fire(불이 붙다), on fire(불타는), set fire to ~(불을 지르다)처럼 쓰는 표현이 많아요. 동사로는 총을 쏘다, 해고하다예요. You're fired는 미국 드라마로 유명한 '해고야'라는 말이고 격식 있는 말은 dismiss예요. 이 의미가 헷갈리면 문맥으로 판단하세요.",
+  "also": [
+   {
+    "w": "fired",
+    "pos": "adj",
+    "ko": "해고된",
+    "en": "He got **fired** after being late too often."
+   },
+   {
+    "w": "firing",
+    "pos": "n",
+    "ko": "발포, 해고",
+    "en": "The **firing** of the manager shocked everyone."
+   }
+  ]
+ },
+ {
+  "w": "first",
+  "pos": "adj",
+  "meaning_ko": "첫 번째의, 처음의",
+  "example_en": "This is my **first** time visiting Europe.",
+  "example_ko": "유럽에 오는 건 이번이 처음이야.",
+  "nuance_ko": "first는 순서상 맨 처음이라는 형용사·부사·명사예요. the first time(처음으로), at first(처음에는), first of all(우선), first things first(급한 일부터 먼저)처럼 표현이 다양해요. at first는 처음에는 그랬지만 나중에 달라졌다는 대비를 담고, first는 단순히 첫 번째라는 순서를 나타내요. 서수의 철자와 발음은 first 하나지만 이어지는 second, third는 규칙이 달라요. 부사로 first를 쓰면 'I'll do it first'처럼 먼저 한다는 뜻이에요.",
+  "also": [
+   {
+    "w": "firstly",
+    "pos": "adv",
+    "ko": "첫째로",
+    "en": "**Firstly**, we need to define the problem."
+   }
+  ]
+ },
+ {
+  "w": "fish",
+  "pos": "n",
+  "meaning_ko": "물고기, 생선",
+  "example_en": "We caught a lot of **fish** in the river today.",
+  "example_ko": "오늘 강에서 물고기를 많이 잡았어.",
+  "nuance_ko": "fish는 물고기와 생선 요리를 모두 가리켜요. 복수는 보통 fish로 변하지 않지만, 종류가 여러 가지임을 말할 때 fishes도 쓰여요. 동사로는 낚시하다라서 go fishing 또는 fish for trout처럼 쓰고 lure나 rod와 함께 자주 나와요. 비유로 a big fish in a small pond는 작은 집단에서 영향력이 큰 사람, fishy는 수상한 느낌을 나타내요. 생선 요리는 fish and chips처럼 영국 대표 음식에서 자주 만나요.",
+  "also": [
+   {
+    "w": "fishing",
+    "pos": "n",
+    "ko": "낚시",
+    "en": "We went **fishing** on the lake at dawn."
+   },
+   {
+    "w": "fishy",
+    "pos": "adj",
+    "ko": "수상한, 비린내 나는",
+    "en": "Something smells **fishy** about this deal."
+   }
+  ]
+ },
+ {
+  "w": "fit",
+  "pos": "v",
+  "meaning_ko": "맞다, 어울리다, 건강한",
+  "example_en": "These shoes don't **fit** me anymore.",
+  "example_ko": "이 신발은 이제 나한테 안 맞아.",
+  "nuance_ko": "fit은 크기나 모양이 딱 맞는 것을 뜻하는 동사이고, 형용사로는 몸이 건강한 상태를 말해요. fit은 크기에 맞고, suit는 취향·분위기에 어울린다는 차이가 있어요. 예를 들어 The jacket fits me는 사이즈가 맞다는 말이고 The jacket suits me는 잘 어울린다는 말이에요. fit in은 무리에 어울리다, keep fit은 건강을 유지하다예요. 과거형은 fit 또는 fitted로, 미국에서는 fit이 흔해요.",
+  "also": [
+   {
+    "w": "fitness",
+    "pos": "n",
+    "ko": "신체 단련, 건강",
+    "en": "She goes to the gym to improve her **fitness**."
+   },
+   {
+    "w": "unfit",
+    "pos": "adj",
+    "ko": "부적합한, 건강하지 않은",
+    "en": "He was declared **unfit** to drive."
+   }
+  ]
+ },
+ {
+  "w": "five",
+  "pos": "num",
+  "meaning_ko": "다섯, 5",
+  "example_en": "The kids ate **five** pizzas at the party.",
+  "example_ko": "아이들이 파티에서 피자를 다섯 판이나 먹었어.",
+  "nuance_ko": "five는 숫자 5를 뜻해요. 시각은 five o'clock, 나이는 five years old처럼 쓰고, five-year plan처럼 하이픈으로 연결한 복합 형용사에서는 year를 복수로 쓰지 않아요. 스포츠에서 high five는 손바닥을 마주치는 인사이고 Give me five!라고도 해요. 15와 50은 fifteen, fifty로 철자가 달라지므로 fiveteen이라 쓰지 않도록 주의하세요. 서수는 fifth로 v가 f로 바뀌어요.",
+  "also": [
+   {
+    "w": "fifty",
+    "pos": "num",
+    "ko": "쉰, 50",
+    "en": "The ticket costs **fifty** dollars."
+   },
+   {
+    "w": "fifteen",
+    "pos": "num",
+    "ko": "열다섯, 15",
+    "en": "She's only **fifteen** but already speaks three languages."
+   },
+   {
+    "w": "fifth",
+    "pos": "adj",
+    "ko": "다섯 번째의",
+    "en": "We live on the **fifth** floor."
+   }
+  ]
+ },
+ {
+  "w": "fix",
+  "pos": "v",
+  "meaning_ko": "고치다, 수리하다, 고정하다",
+  "example_en": "Can you **fix** my bike before the weekend?",
+  "example_ko": "주말 전에 내 자전거 좀 고쳐 줄 수 있어?",
+  "nuance_ko": "fix는 고장난 것을 고친다는 뜻이 가장 흔하고, 고정시키다, 정하다(fix a date), 요리를 준비하다(fix dinner, 미국 구어)처럼 뜻이 다양해요. repair와 비슷하지만 fix는 구어체이고 간단히 고치는 느낌이라 컴퓨터 버그부터 인간관계까지 폭넓게 써요. fix up은 수리해서 새롭게 만들다, 소개해 주다(fix someone up with ~)예요. 명사 fix는 해결책(quick fix)이나 곤경(in a fix)을 뜻해요. 밥을 차린다는 뜻은 영국보다 미국에서 자연스러워요.",
+  "also": [
+   {
+    "w": "fixed",
+    "pos": "adj",
+    "ko": "고정된, 정해진",
+    "en": "We have a **fixed** schedule every Monday."
+   },
+   {
+    "w": "fixer",
+    "pos": "n",
+    "ko": "해결사, 수리공",
+    "en": "He worked as a **fixer** for foreign journalists."
+   }
+  ]
+ },
+ {
+  "w": "flat",
+  "pos": "adj",
+  "meaning_ko": "평평한, 납작한",
+  "example_en": "The tire went **flat** on the way to work.",
+  "example_ko": "출근길에 타이어가 펑크 났어.",
+  "nuance_ko": "flat은 표면이 평평하다는 형용사이고, 영국 영어에서는 아파트를 뜻하는 명사 flat으로도 많이 써요. 미국에서는 apartment라고 해요. 타이어가 펑크난 것은 a flat tire, 맥주나 음료의 김이 빠진 것도 flat이에요. 요금이 일정한 flat rate, 다른 높낮이가 없는 flat voice도 흔해요. 음악에서는 반음을 내리는 플랫(♭)이에요. 부사로 flat out은 전력으로, 단호하게라는 구어 표현이에요.",
+  "also": [
+   {
+    "w": "flatten",
+    "pos": "v",
+    "ko": "납작하게 하다",
+    "en": "**Flatten** the dough with a rolling pin."
+   }
+  ]
+ },
+ {
+  "w": "floor",
+  "pos": "n",
+  "meaning_ko": "바닥, 층",
+  "example_en": "My office is on the third **floor**.",
+  "example_ko": "내 사무실은 삼 층에 있어.",
+  "nuance_ko": "floor는 방의 바닥과 건물의 층을 모두 가리켜요. 층 수는 on the third floor처럼 on을 쓰고, 영국 영어에서는 지상층을 the ground floor라고 부르며 그 위가 first floor예요. 미국에서는 지상층이 first floor예요. 땅바닥은 ground, 방 안의 바닥은 floor라서 구분해야 해요. 비유적으로 take the floor는 발언하다, have the floor는 발언권이 있다는 뜻이에요. 동사 floor는 '깜짝 놀라게 하다'라는 구어 용법도 있어요.",
+  "also": [
+   {
+    "w": "flooring",
+    "pos": "n",
+    "ko": "바닥재",
+    "en": "We chose wooden **flooring** for the living room."
+   },
+   {
+    "w": "floored",
+    "pos": "adj",
+    "ko": "충격을 받은",
+    "en": "I was totally **floored** by the news."
+   }
+  ]
+ },
+ {
+  "w": "flower",
+  "pos": "n",
+  "meaning_ko": "꽃",
+  "example_en": "He brought me a bunch of fresh **flowers**.",
+  "example_ko": "그가 신선한 꽃다발을 가져다줬어.",
+  "nuance_ko": "flower는 식물의 꽃을 가리키고, 셀 수 있는 명사라서 a flower, flowers로 써요. 꽃다발은 a bouquet 또는 a bunch of flowers, 화분에 심은 식물은 a plant예요. 동사 flower는 꽃이 피다 또는 성장하다라는 비유로 써서 Their friendship flowered over the years(우정이 무르익었다)처럼 말해요. in flower는 '꽃이 핀', wild flowers는 야생화예요. flour(밀가루)와 발음이 같으니 문맥으로 구분하세요.",
+  "also": [
+   {
+    "w": "flowering",
+    "pos": "adj",
+    "ko": "꽃이 피는",
+    "en": "The garden is full of **flowering** plants."
+   },
+   {
+    "w": "flowery",
+    "pos": "adj",
+    "ko": "꽃무늬의, 화려한",
+    "en": "She wore a **flowery** summer dress."
+   }
+  ]
+ },
+ {
+  "w": "fly",
+  "pos": "v",
+  "meaning_ko": "날다, 비행기로 가다",
+  "example_en": "We **fly** to Jeju every summer for vacation.",
+  "example_ko": "우리는 매년 여름 휴가로 비행기를 타고 제주에 가.",
+  "nuance_ko": "fly는 새나 비행기가 공중을 나는 동사이고, 사람이 비행기를 타고 이동한다는 뜻으로도 많이 써요. fly to Paris(파리로 가다), fly business class처럼 쓰고 시간이 빨리 지나갈 때는 Time flies라고 해요. 명사 fly는 파리(곤충)이고 flies는 '파리들' 또는 바지 지퍼예요. 과거형 flew, 과거분사 flown이 불규칙해서 시험에 자주 나와요. 깃발이 휘날린다는 뜻으로 The flag flies도 자연스러워요.",
+  "also": [
+   {
+    "w": "flying",
+    "pos": "n",
+    "ko": "비행",
+    "en": "My sister is afraid of **flying**."
+   },
+   {
+    "w": "flyer",
+    "pos": "n",
+    "ko": "전단지, 비행사",
+    "en": "They handed out **flyers** on the street."
+   }
+  ]
+ },
+ {
+  "w": "follow",
+  "pos": "v",
+  "meaning_ko": "따라가다, 따르다",
+  "example_en": "Just **follow** the signs to the exit.",
+  "example_ko": "출구까지는 표지판만 따라가면 돼.",
+  "nuance_ko": "follow는 앞서가는 것을 뒤따르거나 규칙, 지시, 흐름을 따른다는 뜻의 동사예요. follow the rules, follow instructions, follow someone on Instagram(팔로우하다)처럼 일상에서 두루 쓰여요. 설명을 듣다가 Are you following me?라고 물으면 '내 말 이해하고 있니?'라는 뜻이에요. as follows는 '다음과 같이', the following day는 '그다음 날'이에요. follow up은 후속 조치를 하다라서 비즈니스 이메일에 자주 나와요.",
+  "also": [
+   {
+    "w": "following",
+    "pos": "adj",
+    "ko": "다음의",
+    "en": "I'll send you the **following** documents by tomorrow."
+   },
+   {
+    "w": "follower",
+    "pos": "n",
+    "ko": "추종자, 팔로워",
+    "en": "She has over ten thousand **followers** online."
+   }
+  ]
+ },
+ {
+  "w": "food",
+  "pos": "n",
+  "meaning_ko": "음식, 식량",
+  "example_en": "What kind of **food** do you feel like eating tonight?",
+  "example_ko": "오늘 밤엔 어떤 음식이 당겨?",
+  "nuance_ko": "food는 먹는 것 전반을 가리키는 셀 수 없는 명사예요. a food라고 하지 않고 some food, a lot of food처럼 쓰며 종류를 말할 때만 foods(식품류)를 써요. Korean food, fast food, junk food, food court 같은 복합어가 흔해요. meal은 한 끼 식사 자체이고 dish는 하나의 요리를 말해요. food for thought는 '생각해 볼 거리'라는 숙어예요. 동물 사료는 dog food, 식량 부족은 food shortage예요.",
+  "also": [
+   {
+    "w": "foods",
+    "pos": "n",
+    "ko": "식품류",
+    "en": "Try to avoid processed **foods**."
+   }
+  ]
+ },
+ {
+  "w": "foot",
+  "pos": "n",
+  "meaning_ko": "발, 피트",
+  "example_en": "I hurt my **foot** playing soccer yesterday.",
+  "example_ko": "어제 축구하다가 발을 다쳤어.",
+  "nuance_ko": "foot은 발목 아래 발을 가리키고 복수는 feet으로 불규칙해요. 길이 단위 foot(약 30cm)도 같은 단어라서 He is six feet tall(키가 6피트)처럼 써요. on foot은 도보로, at the foot of ~는 ~의 아래쪽·발치에, put your foot down은 단호히 반대하다예요. foot the bill은 비용을 부담하다, get cold feet은 갑자기 겁이 나 망설이다라는 숙어예요. 동사로 foot은 계산서를 지불한다는 구어 용법이에요.",
+  "also": [
+   {
+    "w": "feet",
+    "pos": "n",
+    "ko": "발들, 피트",
+    "en": "My **feet** hurt after walking all day."
+   }
+  ]
+ },
+ {
+  "w": "football",
+  "pos": "n",
+  "meaning_ko": "축구, 미식축구",
+  "example_en": "We play **football** in the park every Sunday.",
+  "example_ko": "우리는 매주 일요일마다 공원에서 축구를 해.",
+  "nuance_ko": "football은 영국에서 축구를, 미국에서는 미식축구를 가리켜서 지역에 따라 달라요. 미국에서 축구는 soccer라고 해요. 한국에서는 보통 축구를 football이나 soccer 둘 다 이해하지만 상대의 영어권에 맞춰 쓰는 게 좋아요. 경기에 쓰는 공도 football이라 kick a football처럼 써요. footballer는 축구 선수를 말하고, fan은 supporter로 부르기도 해요. 경기를 말할 때 play football, watch football이라고 해요.",
+  "also": [
+   {
+    "w": "footballer",
+    "pos": "n",
+    "ko": "축구 선수",
+    "en": "He dreams of becoming a professional **footballer**."
+   }
+  ]
+ },
+ {
+  "w": "for",
+  "pos": "prep",
+  "meaning_ko": "~을 위해, ~ 동안",
+  "example_en": "I bought this gift **for** my mother.",
+  "example_ko": "이 선물은 어머니를 위해 샀어.",
+  "nuance_ko": "for는 목적, 수혜자, 기간, 이유 등 쓰임이 아주 넓은 전치사예요. for you(너를 위해), for two hours(두 시간 동안), thank you for ~(~에 대해 감사해), look for(찾다), wait for(기다리다)처럼 동사와 짝을 이루는 경우도 많아요. during은 사건이 일어난 시기, for는 지속된 시간의 길이라서 for two weeks는 두 주 동안이에요. 접속사 for는 '왜냐하면'이라는 문어체 표현이에요. for example이나 for instance는 예를 들 때 쓰는 담화 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "force",
+  "pos": "n",
+  "meaning_ko": "힘, 강제, 군대",
+  "example_en": "They had to use **force** to open the door.",
+  "example_ko": "문을 열려고 힘을 써야 했어.",
+  "nuance_ko": "force는 물리적인 힘이나 강제력, 영향력을 뜻하는 명사이고 동사로는 강제하다예요. force someone to do 형태로 '억지로 ~하게 하다'라는 구문을 자주 써요. the police force(경찰), armed forces(군대), a driving force(원동력)처럼 집단이나 영향력을 가리키기도 해요. in force는 시행 중이라는 뜻이고 by force는 강제로예요. be forced to ~는 어쩔 수 없이 ~하다예요. 비슷한 power는 능력이나 권력, force는 작용하는 힘의 느낌이에요.",
+  "also": [
+   {
+    "w": "forced",
+    "pos": "adj",
+    "ko": "강요된, 억지의",
+    "en": "She gave a **forced** smile."
+   },
+   {
+    "w": "forceful",
+    "pos": "adj",
+    "ko": "강력한",
+    "en": "He made a **forceful** argument in court."
+   }
+  ]
+ },
+ {
+  "w": "forest",
+  "pos": "n",
+  "meaning_ko": "숲, 삼림",
+  "example_en": "We got lost in the **forest** for almost two hours.",
+  "example_ko": "우리는 숲속에서 거의 두 시간이나 길을 잃었어.",
+  "nuance_ko": "forest는 나무가 빽빽하게 우거진 넓은 숲을 뜻해요. woods는 forest보다 작은 숲, jungle은 열대의 밀림을 가리켜서 크기와 성질로 구분돼요. rainforest(열대우림), forest fire(산불)처럼 복합어가 많고 deforestation은 삼림 벌채예요. 속담으로 can't see the forest for the trees는 '지엽적인 것에 집중해서 전체를 못 보다'라는 뜻이에요. 숲속에서는 in the forest라고 해요.",
+  "also": [
+   {
+    "w": "forestry",
+    "pos": "n",
+    "ko": "임업",
+    "en": "She studied **forestry** at university."
+   }
+  ]
+ },
+ {
+  "w": "forget",
+  "pos": "v",
+  "meaning_ko": "잊다, 깜빡하다",
+  "example_en": "Don't **forget** to lock the door when you leave.",
+  "example_ko": "나갈 때 문 잠그는 거 잊지 마.",
+  "nuance_ko": "forget은 기억나지 않거나 해야 할 일을 깜빡하는 동사예요. forget to do는 해야 할 일을 하지 못한 것, forget doing은 이미 한 일을 기억 못 하는 것이라 뜻이 달라요. 예를 들어 I forgot to call him은 전화를 못 했다는 뜻이고 I forgot calling him은 전화한 것을 잊었다는 뜻이에요. Forget it!은 '됐어, 신경 쓰지 마' 또는 '말도 안 돼'라는 구어 표현이에요. 과거형 forgot, 과거분사 forgotten이에요.",
+  "also": [
+   {
+    "w": "forgotten",
+    "pos": "adj",
+    "ko": "잊혀진",
+    "en": "It's a **forgotten** corner of the city."
+   },
+   {
+    "w": "unforgettable",
+    "pos": "adj",
+    "ko": "잊을 수 없는",
+    "en": "The trip was an **unforgettable** experience."
+   }
+  ]
+ },
+ {
+  "w": "form",
+  "pos": "n",
+  "meaning_ko": "양식, 형태, 서식",
+  "example_en": "Please fill out this **form** and sign at the bottom.",
+  "example_ko": "이 양식을 작성하고 맨 아래에 서명해 주세요.",
+  "nuance_ko": "form은 서류의 양식과 모양, 형태를 모두 뜻하는 명사이고 동사로는 형성하다예요. application form(신청서), in the form of ~(~의 형태로), a form of exercise(운동의 한 형태)처럼 써요. 몸 상태나 컨디션을 말하는 in good form도 있어요. 동사 form은 form a team(팀을 구성하다), form an opinion(의견을 형성하다)처럼 쓰여요. 영국에서는 학교의 학년, 반을 form이라고 부르기도 해요. shape가 구체적 모양이면 form은 더 추상적이에요.",
+  "also": [
+   {
+    "w": "formed",
+    "pos": "adj",
+    "ko": "형성된",
+    "en": "A new group was **formed** last year."
+   },
+   {
+    "w": "forming",
+    "pos": "n",
+    "ko": "형성",
+    "en": "The **forming** of habits takes time."
+   }
+  ]
+ },
+ {
+  "w": "fortunate",
+  "pos": "adj",
+  "meaning_ko": "운이 좋은",
+  "example_en": "We were **fortunate** to find a hotel so quickly.",
+  "example_ko": "우리는 운 좋게 호텔을 금방 찾았어.",
+  "nuance_ko": "fortunate는 운이 좋거나 다행스러운 상황을 말하는 형용사예요. be fortunate to do 또는 be fortunate enough to do는 '운 좋게도 ~하다'라는 격식 있는 표현이에요. lucky가 구어체에 더 자연스럽고 fortunate는 글이나 공식 대화에서 어울려요. 부정형 unfortunate와 부사 unfortunately는 '불행히도, 안타깝게도'라서 나쁜 소식을 정중하게 전할 때 자주 써요. fortune은 재산이나 운을 뜻하는 명사예요.",
+  "also": [
+   {
+    "w": "fortunately",
+    "pos": "adv",
+    "ko": "다행히도",
+    "en": "**Fortunately**, nobody was hurt in the accident."
+   },
+   {
+    "w": "unfortunately",
+    "pos": "adv",
+    "ko": "불행히도",
+    "en": "**Unfortunately**, we're fully booked tonight."
+   },
+   {
+    "w": "unfortunate",
+    "pos": "adj",
+    "ko": "불운한",
+    "en": "It was an **unfortunate** misunderstanding."
+   }
+  ]
+ },
+ {
+  "w": "forward",
+  "pos": "adv",
+  "meaning_ko": "앞으로, 앞쪽으로",
+  "example_en": "I'm really looking **forward** to seeing you next week.",
+  "example_ko": "다음 주에 널 보게 될 걸 정말 기대하고 있어.",
+  "nuance_ko": "forward는 앞쪽으로 향하는 방향을 나타내는 부사·형용사예요. look forward to ~ing(~을 고대하다)에서 to는 전치사라서 뒤에 동명사가 오는 점이 중요한 포인트예요. move forward는 앞으로 나아가다, put the date forward는 날짜를 앞당기다예요. 동사로는 이메일을 전달하다라서 Please forward this to the team처럼 쓰고, 명사로는 축구 등의 공격수예요. 비슷하게 forwards, 영국식에서는 forwards도 부사로 쓰여요.",
+  "also": [
+   {
+    "w": "forwarded",
+    "pos": "v",
+    "ko": "전달한",
+    "en": "She **forwarded** the email to her manager."
+   }
+  ]
+ },
+ {
+  "w": "four",
+  "pos": "num",
+  "meaning_ko": "넷, 4",
+  "example_en": "There are **four** of us going to the concert.",
+  "example_ko": "콘서트에 가는 사람은 우리 네 명이야.",
+  "nuance_ko": "four는 숫자 4이고 철자가 for(전치사)와 소리가 같아서 혼동하기 쉬워요. 14는 fourteen이지만 40은 forty로 u가 빠지는 점이 철자의 함정이에요. 서수는 fourth로 four에 th를 붙여요. 구어에서 on all fours는 '네 발로 엉금엉금'이라는 뜻이에요. four-wheel drive는 사륜구동이고 a table for four는 사인용 테이블이에요. 한국에서 불길한 숫자로 여기는 4와 달리 영어권에서는 13이 불길한 숫자예요.",
+  "also": [
+   {
+    "w": "forty",
+    "pos": "num",
+    "ko": "마흔, 40",
+    "en": "He turned **forty** last month."
+   },
+   {
+    "w": "fourth",
+    "pos": "adj",
+    "ko": "네 번째의",
+    "en": "Their office is on the **fourth** floor."
+   },
+   {
+    "w": "fourteen",
+    "pos": "num",
+    "ko": "열넷, 14",
+    "en": "She has been teaching for **fourteen** years."
+   }
+  ]
+ },
+ {
+  "w": "free",
+  "pos": "adj",
+  "meaning_ko": "자유로운, 무료의, 한가한",
+  "example_en": "Are you **free** for lunch this Friday?",
+  "example_ko": "이번 금요일에 점심 먹을 시간 돼?",
+  "nuance_ko": "free는 세 가지 핵심 뜻이 있어요. 자유로운(a free country), 무료의(free shipping), 시간이 비어 있는(Are you free?)이에요. 문맥상 어느 뜻인지 구분하세요. free of charge는 '무료로', for free는 구어체로 '공짜로'예요. 접미사로 sugar-free(무설탕), tax-free(면세)처럼 '~이 없는'이라는 뜻도 있어요. Feel free to ~는 '편하게 ~하세요'라는 인사 표현이고 free time은 여가 시간이에요.",
+  "also": [
+   {
+    "w": "freedom",
+    "pos": "n",
+    "ko": "자유",
+    "en": "Freedom of speech is a basic right."
+   },
+   {
+    "w": "freely",
+    "pos": "adv",
+    "ko": "자유롭게",
+    "en": "You can speak **freely** here."
+   }
+  ]
+ },
+ {
+  "w": "freeze",
+  "pos": "v",
+  "meaning_ko": "얼다, 얼리다",
+  "example_en": "The lake **freezes** over every winter.",
+  "example_ko": "그 호수는 매년 겨울마다 얼어붙어.",
+  "nuance_ko": "freeze는 액체가 얼거나 얼리는 동작, 추위로 몸이 얼어붙음, 움직임이 멈춤을 뜻해요. Freeze!는 경찰이 하는 '꼼짝 마!' 같은 명령이고, 컴퓨터가 멈추는 것도 The computer froze라고 해요. 월급이나 가격 동결도 freeze라 a hiring freeze(채용 동결)처럼 써요. 과거형은 froze, 과거분사는 frozen이에요. I'm freezing!은 '얼어 죽겠어!'라는 구어 과장 표현이고 frozen food는 냉동식품이에요.",
+  "also": [
+   {
+    "w": "frozen",
+    "pos": "adj",
+    "ko": "얼어붙은, 냉동의",
+    "en": "I bought some **frozen** vegetables for dinner."
+   },
+   {
+    "w": "freezing",
+    "pos": "adj",
+    "ko": "몹시 추운",
+    "en": "It's **freezing** outside, so wear a coat."
+   },
+   {
+    "w": "freezer",
+    "pos": "n",
+    "ko": "냉동고",
+    "en": "Put the ice cream in the **freezer**."
+   }
+  ]
+ },
+ {
+  "w": "fresh",
+  "pos": "adj",
+  "meaning_ko": "신선한, 새로운",
+  "example_en": "I'm going to buy some **fresh** bread from the bakery.",
+  "example_ko": "빵집에서 갓 구운 빵을 좀 사 올 거야.",
+  "nuance_ko": "fresh는 음식이 신선하다, 공기가 맑다, 새롭고 참신하다는 의미로 두루 쓰는 형용사예요. fresh air, fresh fruit, a fresh start, fresh idea처럼 쓰고 방금 만들어졌다는 느낌이 강해요. fresh out of ~는 '막 ~을 마친', fresh from ~는 '~에서 막 온'이라는 구어 표현이에요. 사람에게 쓰면 fresh는 건방지다는 뜻도 있어서 Don't get fresh with me가 되기도 해요. 반대는 stale, 반대의 새로움은 old 또는 canned/frozen이에요.",
+  "also": [
+   {
+    "w": "freshly",
+    "pos": "adv",
+    "ko": "갓, 새로이",
+    "en": "The room smelled of **freshly** baked cookies."
+   },
+   {
+    "w": "freshness",
+    "pos": "n",
+    "ko": "신선함",
+    "en": "The label guarantees the **freshness** of the product."
+   }
+  ]
+ },
+ {
+  "w": "friday",
+  "pos": "n",
+  "meaning_ko": "금요일",
+  "example_en": "Let's get together for drinks on **Friday** night.",
+  "example_ko": "금요일 밤에 만나서 한잔하자.",
+  "nuance_ko": "Friday는 금요일이고 요일 이름은 항상 대문자로 써요. on Friday(금요일에), on Fridays(금요일마다), next Friday(다음 금요일)처럼 쓰요. TGIF는 Thank God It's Friday의 약자로 주말을 기다리는 직장인들이 쓰는 표현이에요. Black Friday는 미국 추수감사절 다음 날의 대규모 세일 날이에요. Casual Friday는 금요일에 편한 복장으로 출근하는 문화를 말해요. 'Friday afternoon' 같은 약속은 보통 오후 늦게 시작하는 느낌이 있어요.",
+  "also": []
+ },
+ {
+  "w": "friend",
+  "pos": "n",
+  "meaning_ko": "친구",
+  "example_en": "She's been my best **friend** since elementary school.",
+  "example_ko": "그녀는 초등학교 때부터 내 가장 친한 친구야.",
+  "nuance_ko": "friend는 서로 호감을 가지고 가깝게 지내는 사람을 뜻해요. 한국어의 '친구'는 동갑 또는 같은 나이대를 강조하지만 영어의 friend는 나이와 상관없이 친한 사람이에요. a close friend(가까운 친구), an old friend(오랜 친구), make friends with ~(~와 친구가 되다)가 자주 쓰여요. be friends with ~는 복수 friends를 써야 하는 점이 중요해서 We are friends는 맞고 We are friend는 틀려요. SNS에서의 friend 신청은 friend request예요.",
+  "also": [
+   {
+    "w": "friendly",
+    "pos": "adj",
+    "ko": "친절한, 다정한",
+    "en": "The staff here are very **friendly**."
+   },
+   {
+    "w": "friendship",
+    "pos": "n",
+    "ko": "우정",
+    "en": "Their **friendship** lasted for decades."
+   },
+   {
+    "w": "unfriendly",
+    "pos": "adj",
+    "ko": "불친절한",
+    "en": "The neighbors seemed cold and **unfriendly**."
+   }
+  ]
+ },
+ {
+  "w": "fright",
+  "pos": "n",
+  "meaning_ko": "공포, 깜짝 놀람",
+  "example_en": "The loud bang gave me a terrible **fright**.",
+  "example_ko": "큰 폭발음에 정말 깜짝 놀랐어.",
+  "nuance_ko": "fright는 갑자기 닥친 무서움이나 깜짝 놀람을 뜻하는 명사예요. get a fright(깜짝 놀라다), give someone a fright(놀라게 하다), take fright(겁먹다)처럼 쓰이고 fear보다 순간적이라는 특징이 있어요. 문어체에서 stage fright는 무대 공포증으로 일상에서도 자주 써요. 파생된 frightening은 사람을 두렵게 만드는 대상에, frightened는 두려움을 느끼는 사람에게 써요. I'm frightening이 아니라 I'm frightened로 써야 해요.",
+  "also": [
+   {
+    "w": "frightened",
+    "pos": "adj",
+    "ko": "겁먹은",
+    "en": "The child was **frightened** by the thunder."
+   },
+   {
+    "w": "frightening",
+    "pos": "adj",
+    "ko": "무서운",
+    "en": "It was a **frightening** experience."
+   },
+   {
+    "w": "frighten",
+    "pos": "v",
+    "ko": "겁주다",
+    "en": "Don't **frighten** the baby with that mask."
+   }
+  ]
+ },
+ {
+  "w": "from",
+  "pos": "prep",
+  "meaning_ko": "~에서, ~로부터",
+  "example_en": "I just got back **from** a long trip to Italy.",
+  "example_ko": "이탈리아 장기 여행에서 방금 돌아왔어.",
+  "nuance_ko": "from은 출발점, 출처, 원인을 나타내는 전치사로, 장소(from Seoul), 시간(from Monday), 재료나 원인(made from wood)에 두루 쓰여요. from A to B는 A에서 B까지로 범위를 말하고, where are you from?은 출신지를 묻는 흔한 질문이에요. 한국어 '~에게서 받았다'는 I got it from him으로 표현해요. be made of(재료가 눈에 보임)와 be made from(형태가 변함)의 차이도 알아두세요. different from, away from, protect from도 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "front",
+  "pos": "n",
+  "meaning_ko": "앞, 앞쪽",
+  "example_en": "Let's meet in **front** of the library at noon.",
+  "example_ko": "정오에 도서관 앞에서 만나자.",
+  "nuance_ko": "front는 어떤 것의 앞쪽이나 앞면을 뜻하는 명사이고 형용사로는 앞쪽의라는 뜻이에요. in front of ~는 앞에(밖에서 보았을 때), in the front of ~는 안쪽 앞부분을 말해요. 예를 들어 in the front of the car는 자동차 앞좌석 쪽을 뜻해요. 전선, 전선 지역(the front line)이나 위장 사업(a front for ~)이라는 뜻도 있어요. 날씨에서는 a cold front(한랭 전선)가 되고, up front는 선불로 또는 솔직하게라는 부사구예요.",
+  "also": [
+   {
+    "w": "frontal",
+    "pos": "adj",
+    "ko": "정면의",
+    "en": "The car suffered a **frontal** collision."
+   }
+  ]
+ },
+ {
+  "w": "full",
+  "pos": "adj",
+  "meaning_ko": "가득 찬, 배부른",
+  "example_en": "I'm too **full** to eat dessert right now.",
+  "example_ko": "지금은 너무 배불러서 디저트는 못 먹겠어.",
+  "nuance_ko": "full은 더 들어갈 자리가 없을 만큼 가득 차 있다는 형용사예요. 음식을 많이 먹어 배가 부르다(I'm full), 자리가 가득 찼다(The bus is full), 일정이 꽉 찼다(a full schedule)에 두루 써요. full of ~는 '~로 가득한'이라 full of energy처럼 쓰고, full-time은 전일제, in full은 전부, at full speed는 전속력이에요. full과 달리 fill은 동사 '채우다'이니 철자와 발음에 주의하세요. 반대말은 empty예요.",
+  "also": [
+   {
+    "w": "fully",
+    "pos": "adv",
+    "ko": "완전히",
+    "en": "I'm **fully** aware of the risks."
+   }
+  ]
+ },
+ {
+  "w": "fun",
+  "pos": "n",
+  "meaning_ko": "재미, 즐거움",
+  "example_en": "We had so much **fun** at the beach yesterday.",
+  "example_ko": "어제 해변에서 정말 재미있게 놀았어.",
+  "nuance_ko": "fun은 즐겁고 신나는 재미를 뜻하는 셀 수 없는 명사예요. have fun(즐겁게 놀다), for fun(재미로), Have fun!(재미있게 놀아!), make fun of ~(놀리다)처럼 쓰여요. 형용사로도 쓰이는데 a fun party처럼 구어체로 흔해요. fun과 funny는 달라서 funny는 웃기다는 뜻이고 fun은 재미있다는 뜻이에요. The movie was fun은 즐거웠다, The movie was funny는 웃겼다는 뜻이에요. fun and games는 반어적으로 쓰이기도 해요.",
+  "also": [
+   {
+    "w": "funny",
+    "pos": "adj",
+    "ko": "웃기는, 이상한",
+    "en": "That is a really **funny** thing I've heard all week."
+   },
+   {
+    "w": "funnily",
+    "pos": "adv",
+    "ko": "우습게도",
+    "en": "**Funnily** enough, I was just thinking about you."
+   }
+  ]
+ },
+ {
+  "w": "further",
+  "pos": "adv",
+  "meaning_ko": "더 멀리, 더 나아가",
+  "example_en": "We can discuss this **further** at tomorrow's meeting.",
+  "example_ko": "이건 내일 회의에서 더 논의해 보자.",
+  "nuance_ko": "further는 far의 비교급으로 거리와 정도를 모두 말하지만, 추상적인 '더 이상의, 추가의'라는 뜻이 더 많이 쓰여요. For further information(추가 정보는), without further delay(더 지체하지 않고)처럼 격식 있는 안내문에 자주 나와요. farther는 물리적 거리에만 쓰는 편이고 further는 거리와 추상적 의미 모두에 가능해요. 동사 further는 '진척시키다'라서 further one's career(경력을 발전시키다)처럼 써요. furthermore는 문어체의 '게다가'예요.",
+  "also": [
+   {
+    "w": "furthest",
+    "pos": "adj",
+    "ko": "가장 먼",
+    "en": "Which city is the **furthest** from here?"
+   },
+   {
+    "w": "furthered",
+    "pos": "v",
+    "ko": "진척시킨",
+    "en": "She **furthered** her studies abroad."
+   }
+  ]
+ },
+ {
+  "w": "game",
+  "pos": "n",
+  "meaning_ko": "게임, 경기",
+  "example_en": "Do you want to play a board **game** tonight?",
+  "example_ko": "오늘 밤에 보드게임 할래?",
+  "nuance_ko": "game은 규칙이 있는 놀이나 경기를 뜻하는 명사예요. 컴퓨터 게임, 보드게임, 스포츠 경기(a football game) 모두 game이에요. match는 영국에서 두 팀의 시합을, play는 놀이나 연극을 가리켜 달라요. 비유로 game plan은 전략, game changer는 판도를 바꾸는 것, the name of the game은 핵심, give the game away는 비밀을 누설하다예요. 사냥감을 가리키는 game(wild game)도 있어요. 구어에서 Are you game?은 '해볼래?'라는 뜻이에요.",
+  "also": [
+   {
+    "w": "gaming",
+    "pos": "n",
+    "ko": "게임하기",
+    "en": "He spends a lot of time **gaming** on weekends."
+   }
+  ]
+ },
+ {
+  "w": "garden",
+  "pos": "n",
+  "meaning_ko": "정원, 마당",
+  "example_en": "We grow tomatoes and herbs in our **garden**.",
+  "example_ko": "우리는 정원에서 토마토와 허브를 길러.",
+  "nuance_ko": "garden은 집 주변의 정원이나 화단을 가리키는 명사예요. 영국에서는 집 뒤 마당 전체를 garden이라 부르고, 미국에서는 yard가 마당, garden은 꽃이나 채소를 가꾸는 곳을 말해요. vegetable garden(채소밭), botanical garden(식물원), garden party(야외 파티)가 자주 나와요. 동사 garden은 정원을 가꾸다라서 She loves gardening on weekends처럼 gardening으로도 써요. Garden of Eden은 에덴동산이에요. lead someone up the garden path는 '속이다'라는 영국식 숙어예요.",
+  "also": [
+   {
+    "w": "gardening",
+    "pos": "n",
+    "ko": "원예",
+    "en": "**Gardening** helps her relax after work."
+   },
+   {
+    "w": "gardener",
+    "pos": "n",
+    "ko": "정원사",
+    "en": "The **gardener** trims the hedges every month."
+   }
+  ]
+ },
+ {
+  "w": "gas",
+  "pos": "n",
+  "meaning_ko": "기체, 가스, 휘발유",
+  "example_en": "We need to stop for **gas** before we get on the highway.",
+  "example_ko": "고속도로 타기 전에 주유하고 가야 해.",
+  "nuance_ko": "gas는 기체, 요리나 난방에 쓰는 가스, 그리고 미국에서는 gasoline(휘발유)의 줄임말이에요. 영국에서는 휘발유를 petrol이라고 하니 지역에 따라 다르게 써요. gas station(주유소), gas stove(가스레인지), run out of gas(연료가 떨어지다)처럼 일상 표현이 많아요. 복수는 gases 또는 gasses예요. 몸속 가스는 방귀를 완곡하게 가리키기도 하고, a gas는 '정말 재미있는 일'이라는 옛 속어예요. step on the gas는 속도를 높이다는 뜻이에요.",
+  "also": [
+   {
+    "w": "gases",
+    "pos": "n",
+    "ko": "기체들",
+    "en": "Greenhouse **gases** trap heat in the atmosphere."
+   }
+  ]
+ },
+ {
+  "w": "general",
+  "pos": "adj",
+  "meaning_ko": "일반적인, 전반적인",
+  "example_en": "Can you give me a **general** idea of the cost?",
+  "example_ko": "비용이 대략 어느 정도인지 알려 줄 수 있어?",
+  "nuance_ko": "general은 특정한 것이 아니라 전체에 해당하거나 전반적이라는 형용사예요. in general(일반적으로), a general idea(대략적인 생각), the general public(일반 대중)처럼 쓰여요. 명사로는 군대의 장군이고, general manager는 총괄 책임자, general election은 총선이에요. 반대는 specific(구체적인)이에요. 공손하게 일반론을 시작할 때 Generally speaking은 흔한 담화 표지예요. general knowledge는 일반 상식, general store는 잡화점이에요.",
+  "also": [
+   {
+    "w": "generally",
+    "pos": "adv",
+    "ko": "일반적으로",
+    "en": "**Generally**, I wake up around seven."
+   },
+   {
+    "w": "generalization",
+    "pos": "n",
+    "ko": "일반화",
+    "en": "That's a sweeping **generalization**."
+   }
+  ]
+ },
+ {
+  "w": "gentle",
+  "pos": "adj",
+  "meaning_ko": "부드러운, 온화한",
+  "example_en": "Please be **gentle** with the baby.",
+  "example_ko": "아기한테는 부드럽게 대해 주세요.",
+  "nuance_ko": "gentle은 거칠지 않고 조심스럽고 온화하다는 형용사예요. 사람의 성격(a gentle person), 손길(a gentle touch), 바람(a gentle breeze), 경사(a gentle slope)에 모두 쓰여요. gentleman은 신사를 뜻하고 gentle과 달리 정중하고 예의 바른 남자를 가리켜요. 약하다는 뜻은 아니라서 gentle giant는 덩치는 크지만 순한 사람이에요. 부사 gently는 Handle with care처럼 Handle gently라고 쓸 수 있어요.",
+  "also": [
+   {
+    "w": "gently",
+    "pos": "adv",
+    "ko": "부드럽게",
+    "en": "She **gently** put the baby to bed."
+   },
+   {
+    "w": "gentleness",
+    "pos": "n",
+    "ko": "온화함",
+    "en": "The nurse spoke with great **gentleness**."
+   }
+  ]
+ },
+ {
+  "w": "get",
+  "pos": "v",
+  "meaning_ko": "얻다, 받다, ~이 되다",
+  "example_en": "I **get** home around six on most days.",
+  "example_ko": "나는 대부분 여섯 시쯤 집에 도착해.",
+  "nuance_ko": "get은 영어에서 가장 다재다능한 동사 중 하나로 문맥에 따라 뜻이 달라요. 얻다(get a job), 받다(get a letter), ~되다(get tired), 도착하다(get home), 이해하다(I get it)처럼 두루 쓰여요. get + 과거분사는 수동의 의미라 get married(결혼하다), get fired(해고되다)처럼 상태 변화를 나타내요. get along(사이좋게 지내다), get over(극복하다), get up(일어나다) 같은 구동사도 많아요. 미국 영어의 과거분사는 gotten, 영국은 got이에요.",
+  "also": [
+   {
+    "w": "gotten",
+    "pos": "v",
+    "ko": "얻은, 된",
+    "en": "It has **gotten** much colder this week."
+   }
+  ]
+ },
+ {
+  "w": "girl",
+  "pos": "n",
+  "meaning_ko": "소녀, 여자아이",
+  "example_en": "The little **girl** waved at us from the window.",
+  "example_ko": "어린 여자아이가 창문에서 우리에게 손을 흔들었어.",
+  "nuance_ko": "girl은 어린 여자아이나 젊은 여성을 뜻하는 기본 명사예요. 성인 여성을 girl이라고 부르는 것은 친구들끼리는 괜찮지만 직장이나 공식 자리에서는 무례하게 들릴 수 있어요. 딸을 말할 때는 daughter이고 my girl은 문맥에 따라 딸이나 여자친구를 말해요. girlfriend는 여자친구 또는 여성 친구를 뜻하는데 두 의미를 모두 가져서 문맥으로 판단해요. girls' night out은 여자 친구들끼리 노는 밤을 뜻하는 표현이에요.",
+  "also": [
+   {
+    "w": "girlhood",
+    "pos": "n",
+    "ko": "소녀 시절",
+    "en": "She spent her **girlhood** in a small village."
+   },
+   {
+    "w": "girlish",
+    "pos": "adj",
+    "ko": "소녀 같은",
+    "en": "She laughed with a **girlish** giggle."
+   }
+  ]
+ },
+ {
+  "w": "give",
+  "pos": "v",
+  "meaning_ko": "주다",
+  "example_en": "Could you **give** me a hand with these bags?",
+  "example_ko": "이 가방들 좀 도와줄래?",
+  "nuance_ko": "give는 무언가를 상대에게 주는 기본 동사로, give A B 또는 give B to A 두 구조로 써요. 구체적인 물건 말고도 give advice, give a speech, give a call처럼 행동을 나타내는 명사와 쓰여요. give up(포기하다), give in(굴복하다), give away(그냥 주다, 누설하다), give back(돌려주다) 같은 구동사가 많아요. Give me a break는 '봐줘, 그만해'라는 표현이고 give or take는 '대략'이에요. 과거형 gave, 과거분사 given이에요.",
+  "also": [
+   {
+    "w": "given",
+    "pos": "prep",
+    "ko": "~을 고려하면",
+    "en": "**Given** the weather, we should stay inside."
+   },
+   {
+    "w": "giving",
+    "pos": "n",
+    "ko": "베풀기",
+    "en": "The holiday season is a time of **giving**."
+   }
+  ]
+ },
+ {
+  "w": "glad",
+  "pos": "adj",
+  "meaning_ko": "기쁜, 반가운",
+  "example_en": "I'm so **glad** you could make it tonight.",
+  "example_ko": "오늘 밤에 와 줘서 정말 기뻐.",
+  "nuance_ko": "glad는 어떤 일이 잘 되었거나 좋은 소식을 접해 기쁘다는 형용사예요. 사람 앞에 두지 않고 서술적으로 주로 쓰여 I'm glad to hear that(그 소식을 들으니 기뻐), glad to meet you(만나서 반가워요)처럼 해요. happy보다 한정적인 상황에 대한 기쁨이고, pleased는 격식 있는 만족감이에요. I'd be glad to ~는 '기꺼이 ~하겠다'라는 정중한 수락이에요. 한국어 '다행이다'를 I'm glad로 말하면 어울리는 경우가 많아요.",
+  "also": [
+   {
+    "w": "gladly",
+    "pos": "adv",
+    "ko": "기꺼이",
+    "en": "I would **gladly** help you move next week."
+   }
+  ]
+ },
+ {
+  "w": "glance",
+  "pos": "n",
+  "meaning_ko": "흘깃 봄, 잠깐 봄",
+  "example_en": "She took a quick **glance** at her watch.",
+  "example_ko": "그녀는 손목시계를 힐끗 쳐다봤어.",
+  "nuance_ko": "glance는 짧고 빠르게 힐끗 보는 행동이고 명사와 동사 모두로 써요. at a glance(한눈에), take a glance at ~(~을 힐끗 보다), steal a glance(몰래 훔쳐보다)처럼 자주 쓰여요. look은 의도를 갖고 보는 것, stare는 오래 뚫어지게 보는 것, glance는 아주 짧게 보는 것이라서 구분돼요. 동사로 glance at/over ~는 '훑어보다'라서 She glanced over the report처럼 써요. glimpse는 얼핏 보이는 것이라 의도가 없을 때 써요.",
+  "also": [
+   {
+    "w": "glanced",
+    "pos": "v",
+    "ko": "힐끗 보았다",
+    "en": "He **glanced** at the clock and sighed."
+   }
+  ]
+ },
+ {
+  "w": "glass",
+  "pos": "n",
+  "meaning_ko": "유리, 유리잔",
+  "example_en": "Can I have a **glass** of water, please?",
+  "example_ko": "물 한 잔 주시겠어요?",
+  "nuance_ko": "glass는 재료로서의 유리는 셀 수 없는 명사이고, 물을 마시는 유리잔은 셀 수 있는 명사예요. 안경은 항상 복수 glasses를 쓰기 때문에 a glasses라고 하지 않고 a pair of glasses라고 해요. sunglasses(선글라스), wine glass(와인잔), magnifying glass(돋보기)처럼 복합어도 많아요. 유리 파편은 broken glass라고 해요. 비유로 glass ceiling은 여성이나 소수자의 승진을 막는 보이지 않는 장벽이에요.",
+  "also": [
+   {
+    "w": "glasses",
+    "pos": "n",
+    "ko": "안경, 유리잔들",
+    "en": "I can't read without my **glasses**."
+   },
+   {
+    "w": "glassy",
+    "pos": "adj",
+    "ko": "유리 같은",
+    "en": "The lake was **glassy** and still."
+   }
+  ]
+ },
+ {
+  "w": "go",
+  "pos": "v",
+  "meaning_ko": "가다",
+  "example_en": "Let's **go** to the movies after dinner.",
+  "example_ko": "저녁 먹고 영화 보러 가자.",
+  "nuance_ko": "go는 말하는 사람이 있는 곳에서 멀어져 다른 곳으로 이동한다는 기본 동사예요. go to school, go home처럼 목적지 앞에 to가 필요하지만 home, there, here 앞에는 전치사를 쓰지 않아요. go + -ing는 레저 활동에 쓰여 go swimming, go shopping이라고 해요. 상태 변화로 go bad(상하다), go wrong(잘못되다), go crazy(미치다)도 있어요. 과거형 went, 과거분사 gone이며 have gone to(가고 없다)와 have been to(다녀온 적 있다)는 구분돼요.",
+  "also": [
+   {
+    "w": "going",
+    "pos": "n",
+    "ko": "가는 일, 진행",
+    "en": "The **going** was tough in the heavy rain."
+   },
+   {
+    "w": "gone",
+    "pos": "adj",
+    "ko": "사라진",
+    "en": "By the time we arrived, the food was all **gone**."
+   }
+  ]
+ },
+ {
+  "w": "god",
+  "pos": "n",
+  "meaning_ko": "신, 하나님",
+  "example_en": "Oh my **God**, I can't believe we won!",
+  "example_ko": "세상에, 우리가 이겼다니 믿을 수가 없어!",
+  "nuance_ko": "God는 유일신으로서의 하나님을 가리킬 때 대문자로 쓰고, 여러 신 중 하나는 소문자 god이에요. 일상에서는 Oh my God, Thank God처럼 놀람이나 안도를 표현하는 감탄사로 많이 쓰는데 종교적으로 불쾌해하는 사람도 있어서 상황을 살피세요. 대신 Oh my goodness나 Gosh를 쓰기도 해요. God bless you는 재채기하는 사람에게 건네는 말이고 for God's sake는 짜증이나 간절함을 담은 표현이에요. Greek gods(그리스 신들)처럼 신화에서는 복수 gods를 써요.",
+  "also": [
+   {
+    "w": "goddess",
+    "pos": "n",
+    "ko": "여신",
+    "en": "Athena was the **goddess** of wisdom."
+   }
+  ]
+ },
+ {
+  "w": "gold",
+  "pos": "n",
+  "meaning_ko": "금, 금메달",
+  "example_en": "She won a **gold** medal at the national championship.",
+  "example_ko": "그녀는 전국 대회에서 금메달을 땄어.",
+  "nuance_ko": "gold는 귀금속인 금과 금색을 뜻하는 명사이고, 형용사로는 금으로 된, 금빛의라는 뜻이에요. 올림픽에서 gold, silver, bronze는 금·은·동메달을 말하고 win gold(금메달을 따다)처럼 간단히 말해요. 비유로 as good as gold는 '아주 착한', heart of gold는 '아주 마음씨 좋은 사람', gold standard는 '최고 기준', strike gold는 '대박을 터뜨리다'라는 표현이에요. 금 장신구는 gold necklace처럼 쓰고, golden은 gold보다 비유적이거나 금빛을 닮은 느낌이에요.",
+  "also": [
+   {
+    "w": "golden",
+    "pos": "adj",
+    "ko": "금빛의, 귀중한",
+    "en": "This is a **golden** opportunity for us."
+   }
+  ]
+ },
+ {
+  "w": "good",
+  "pos": "adj",
+  "meaning_ko": "좋은, 잘하는",
+  "example_en": "She's really **good** at explaining difficult ideas.",
+  "example_ko": "그녀는 어려운 개념을 설명하는 데 정말 능해.",
+  "nuance_ko": "good은 질, 능력, 도덕성, 건강 등 다양한 면에서 좋다는 뜻의 기본 형용사예요. good at ~(~을 잘하는), good for ~(~에 좋은), good to ~(~에게 친절한)처럼 전치사에 따라 달라지니 구분하세요. 비교급 better, 최상급 best는 불규칙이에요. 부사 well과 구분해서 She plays well이라고 해야지 She plays good은 틀려요. 인사에 Good morning, 대답에 Good!, 칭찬으로 Good job!처럼 쓰고 for good은 '영원히'라는 숙어예요.",
+  "also": [
+   {
+    "w": "goodness",
+    "pos": "n",
+    "ko": "선량함, 맙소사",
+    "en": "Thank **goodness** you're safe!"
+   },
+   {
+    "w": "goodies",
+    "pos": "n",
+    "ko": "맛있는 것들, 좋은 것들",
+    "en": "The kids opened the bag of **goodies**."
+   }
+  ]
+ },
+ {
+  "w": "goodbye",
+  "pos": "int",
+  "meaning_ko": "안녕히 가세요, 작별 인사",
+  "example_en": "She waved **goodbye** as the train left the station.",
+  "example_ko": "기차가 역을 떠나자 그녀는 손을 흔들며 작별 인사를 했어.",
+  "nuance_ko": "goodbye는 헤어질 때 하는 인사로, 어원은 God be with ye에서 왔어요. 일상 대화에서는 줄여서 bye 또는 See you!, Take care! 같은 말을 더 많이 써요. 영구적이거나 오랜 이별에는 goodbye가 어울리고 곧 다시 볼 사이에는 가벼운 bye가 자연스러워요. say goodbye to ~는 '~에게 작별하다'이고 비유적으로 '~을 포기하다'라는 뜻도 있어요. 명사로는 a long goodbye처럼 쓰고, 복수는 goodbyes예요. 철자는 good-bye로 하이픈을 넣기도 해요.",
+  "also": [
+   {
+    "w": "bye",
+    "pos": "int",
+    "ko": "안녕(헤어질 때)",
+    "en": "Okay, **bye**! I'll see you tomorrow."
+   }
+  ]
+ },
+ {
+  "w": "govern",
+  "pos": "v",
+  "meaning_ko": "통치하다, 다스리다",
+  "example_en": "The rules that **govern** the club are quite simple.",
+  "example_ko": "그 동호회를 규율하는 규칙은 꽤 간단해.",
+  "nuance_ko": "govern은 국가나 조직을 다스리고 운영하거나 어떤 일을 규제하고 좌우한다는 격식 있는 동사예요. 사람이 주어이면 Who governs the country?, 규칙이나 법이 주어이면 The laws that govern trade처럼 쓰여요. rule과 비슷하지만 govern은 제도와 체계를 통한 지배라는 느낌이에요. 명사 government는 정부이고, 영국에서는 복수 취급하기도 해요. governor는 주지사나 총독, 은행 총재를 뜻하는 말이에요. 철자에서 n을 빠뜨리지 않도록 주의하세요.",
+  "also": [
+   {
+    "w": "government",
+    "pos": "n",
+    "ko": "정부",
+    "en": "The **government** announced a new tax plan."
+   },
+   {
+    "w": "governor",
+    "pos": "n",
+    "ko": "주지사, 총재",
+    "en": "The **governor** will speak at noon."
+   }
+  ]
+ },
+ {
+  "w": "grandfather",
+  "pos": "n",
+  "meaning_ko": "할아버지",
+  "example_en": "My **grandfather** tells the best stories about the old days.",
+  "example_ko": "우리 할아버지는 옛날 얘기를 제일 재미있게 해 주셔.",
+  "nuance_ko": "grandfather는 부모의 아버지, 즉 할아버지예요. 영어는 친가와 외가를 구분하지 않아서 한국어처럼 친할아버지와 외할아버지를 따로 부르지 않아요. 구어에서는 grandpa, granddad, grandad 같은 애칭을 쓰고 부를 때도 이렇게 불러요. 할머니는 grandmother, 줄여서 grandma, granny 또는 gran이에요. grandparents는 조부모를 모두 뜻하고 grandchildren은 손주들을 말해요. grandfather clock은 괘종시계를 가리키는 표현이에요.",
+  "also": [
+   {
+    "w": "grandmother",
+    "pos": "n",
+    "ko": "할머니",
+    "en": "Her **grandmother** baked cookies every Sunday."
+   },
+   {
+    "w": "grandparents",
+    "pos": "n",
+    "ko": "조부모",
+    "en": "We visit my **grandparents** every holiday."
+   },
+   {
+    "w": "grandson",
+    "pos": "n",
+    "ko": "손자",
+    "en": "He taught his **grandson** to ride a bike."
+   }
+  ]
+ },
+ {
+  "w": "grass",
+  "pos": "n",
+  "meaning_ko": "풀, 잔디",
+  "example_en": "The kids were lying on the **grass** looking at clouds.",
+  "example_ko": "아이들은 잔디밭에 누워 구름을 보고 있었어.",
+  "nuance_ko": "grass는 풀, 잔디를 가리키는 셀 수 없는 명사예요. cut the grass(잔디를 깎다), on the grass(잔디 위에), keep off the grass(잔디에 들어가지 마시오)처럼 쓰여요. 풀의 한 종류를 말할 때는 a grass로 셀 수 있게 쓰기도 해요. 비유로 The grass is always greener on the other side는 '남의 떡이 더 커 보인다', grass roots는 풀뿌리 민중을 의미해요. 속어로 grass는 마리화나 또는 밀고하다(영국)로도 쓰이니 문맥에 주의하세요.",
+  "also": [
+   {
+    "w": "grassy",
+    "pos": "adj",
+    "ko": "풀이 무성한",
+    "en": "We had a picnic on a **grassy** hill."
+   }
+  ]
+ },
+ {
+  "w": "great",
+  "pos": "adj",
+  "meaning_ko": "훌륭한, 큰, 굉장한",
+  "example_en": "That's a **great** idea. Let's do it!",
+  "example_ko": "좋은 생각이야. 그렇게 하자!",
+  "nuance_ko": "great는 good보다 한 단계 높은 훌륭하다는 뜻의 형용사로 대화에서 칭찬이나 호응으로 아주 많이 써요. Great!, Sounds great!, That's great!처럼 짧게 반응할 수 있어요. 크기나 정도가 큰 것에도 써서 a great deal of(많은), the Great Wall(만리장성)처럼 나와요. 반어적으로 Great, now it's raining는 '잘됐네, 이제 비까지 오네'라는 빈정거림이 되기도 해요. 영국과 미국 모두 great는 긍정적 맞장구에 두루 써요. a great many는 '아주 많은'이라는 격식 있는 표현이에요.",
+  "also": [
+   {
+    "w": "greatly",
+    "pos": "adv",
+    "ko": "크게, 대단히",
+    "en": "I **greatly** appreciate your help."
+   },
+   {
+    "w": "greatest",
+    "pos": "adj",
+    "ko": "가장 위대한",
+    "en": "He is the **greatest** player of all time."
+   }
+  ]
+ },
+ {
+  "w": "green",
+  "pos": "adj",
+  "meaning_ko": "초록색의, 환경 친화적인",
+  "example_en": "The traffic light turned **green**, so we started moving.",
+  "example_ko": "신호등이 초록불로 바뀌어서 우리는 움직이기 시작했어.",
+  "nuance_ko": "green은 초록색이라는 기본 뜻 외에 환경 친화적이라는 뜻(green energy), 경험이 부족한(green recruits), 질투하는(green with envy)의 비유도 있어요. 한국어 '파란불'은 영어로 green light이고 비유로 give the green light는 '허가하다'예요. 명사로는 녹지(village green), 골프의 그린, 채소(greens)를 가리켜요. green thumb은 식물을 잘 키우는 재능이라는 영어식 표현이에요. 한국어의 '푸르다'는 green과 blue에 모두 걸쳐 있다는 점도 알아두세요.",
+  "also": [
+   {
+    "w": "greens",
+    "pos": "n",
+    "ko": "푸른 채소",
+    "en": "Try to eat more leafy **greens** every day."
+   },
+   {
+    "w": "greenish",
+    "pos": "adj",
+    "ko": "푸르스름한",
+    "en": "The water had a **greenish** tint."
+   }
+  ]
+ },
+ {
+  "w": "grey",
+  "pos": "adj",
+  "meaning_ko": "회색의, 흐린",
+  "example_en": "It's a **grey**, rainy day, so let's stay in.",
+  "example_ko": "흐리고 비 오는 날이니까 집에 있자.",
+  "nuance_ko": "grey는 영국식 철자이고 미국식은 gray예요. 회색 말고도 흐린 날씨, 우울한 분위기, 나이가 들어 하얗게 센 머리(grey hair)를 가리켜요. 도덕적으로 분명하지 않은 a grey area(애매한 영역)는 자주 쓰는 비유예요. 사람이 늙어간다는 것은 go grey라고 해요. grey matter는 두뇌를 뜻하는 구어 표현이고 greyhound는 사냥개 종류예요. 영국식 문서에서는 grey, 미국식에서는 gray로 통일해서 쓰세요.",
+  "also": [
+   {
+    "w": "gray",
+    "pos": "adj",
+    "ko": "회색의(미국식)",
+    "en": "He wore a **gray** suit to the interview."
+   },
+   {
+    "w": "greying",
+    "pos": "adj",
+    "ko": "희끗희끗해지는",
+    "en": "He has a **greying** beard."
+   }
+  ]
+ },
+ {
+  "w": "ground",
+  "pos": "n",
+  "meaning_ko": "땅, 지면, 근거",
+  "example_en": "The children were sitting on the **ground** in a circle.",
+  "example_ko": "아이들은 땅바닥에 둥글게 둘러앉아 있었어.",
+  "nuance_ko": "ground는 땅바닥이나 지면을 가리키고 floor와 달리 건물 안이 아니라 바깥의 땅이에요. 근거나 이유(grounds for complaint)를 뜻하기도 하고, 운동장(a football ground)이나 부지(grounds of a school)를 가리키기도 해요. on the ground는 현장에서, break new ground는 새 영역을 개척하다, get off the ground는 시작하다예요. 동사 ground는 비행기 운항을 중단하다, 아이를 외출 금지시키다(I'm grounded)처럼 쓰여요. 과거형 ground는 grind의 과거로도 쓰이니 문맥으로 구분하세요.",
+  "also": [
+   {
+    "w": "grounds",
+    "pos": "n",
+    "ko": "근거, 구내",
+    "en": "They had solid **grounds** for the lawsuit."
+   },
+   {
+    "w": "grounded",
+    "pos": "adj",
+    "ko": "외출 금지된, 현실적인",
+    "en": "She is **grounded** for a week after the fight."
+   }
+  ]
+ },
+ {
+  "w": "group",
+  "pos": "n",
+  "meaning_ko": "집단, 그룹, 모임",
+  "example_en": "Our study **group** meets every Wednesday at the library.",
+  "example_ko": "우리 스터디 그룹은 매주 수요일에 도서관에서 모여.",
+  "nuance_ko": "group은 여러 사람이나 사물이 모인 집단을 뜻하는 집합명사예요. 구성원을 하나로 볼 때 단수, 개개인을 볼 때 복수 동사를 쓰는데 영국에서는 복수도 흔해요. a group of friends, a blood group(혈액형), a music group(밴드)처럼 쓰여요. 동사로는 그룹으로 나누다라서 group the students by age처럼 써요. in groups는 삼삼오오 모여서라는 뜻이에요. 비슷한 team은 공동 목표로 일하는 집단, group은 단순히 모인 집단이라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "grouped",
+    "pos": "adj",
+    "ko": "묶인",
+    "en": "The items are **grouped** by color."
+   },
+   {
+    "w": "grouping",
+    "pos": "n",
+    "ko": "분류, 집단 편성",
+    "en": "The **grouping** of students was done by level."
+   }
+  ]
+ },
+ {
+  "w": "grow",
+  "pos": "v",
+  "meaning_ko": "자라다, 키우다, 커지다",
+  "example_en": "Tomatoes **grow** well in warm and sunny weather.",
+  "example_ko": "토마토는 따뜻하고 햇볕 좋은 날씨에서 잘 자라.",
+  "nuance_ko": "grow는 자라거나 커지다(자동사), 키우다(타동사), 점차 ~해지다라는 세 가지 뜻이 있어요. 식물이나 사람의 성장(grow up), 규모의 증가(The business is growing), 상태의 변화(grow tired)에 모두 써요. grow up은 어른이 되다, grow out of ~는 성장하며 그만두다, grow on someone은 점점 좋아지다예요. 과거형은 grew, 과거분사는 grown이에요. 명사 growth는 성장, 증가를 뜻해요. 타동사로 grow vegetables(채소를 기르다)도 자주 쓰여요.",
+  "also": [
+   {
+    "w": "growth",
+    "pos": "n",
+    "ko": "성장, 증가",
+    "en": "The company saw rapid **growth** last year."
+   },
+   {
+    "w": "growing",
+    "pos": "adj",
+    "ko": "커지는, 늘어나는",
+    "en": "There is a **growing** demand for electric cars."
+   },
+   {
+    "w": "grown",
+    "pos": "adj",
+    "ko": "다 자란",
+    "en": "She is a **grown** woman and can decide herself."
+   }
+  ]
+ },
+ {
+  "w": "guess",
+  "pos": "v",
+  "meaning_ko": "추측하다, ~인 것 같다",
+  "example_en": "Can you **guess** how old he is?",
+  "example_ko": "그 사람 몇 살인지 맞혀 볼래?",
+  "nuance_ko": "guess는 확실한 근거 없이 짐작하거나 맞혀 보는 동사예요. I guess so는 '그런 것 같아'라며 약간 망설이는 동의이고, I guess not은 '아닐 것 같아'예요. 미국 구어에서는 I guess I'll go처럼 마지못해 동의하는 어조로도 써요. 퀴즈에서는 Guess what?(있잖아, 있잖아 무슨 일 있었는지 알아?)라고 말을 꺼내는 신호로도 써요. 명사 guess는 추측이라서 take a guess(맞혀 보다), an educated guess(근거 있는 추측)처럼 써요.",
+  "also": [
+   {
+    "w": "guessed",
+    "pos": "v",
+    "ko": "추측했다",
+    "en": "I **guessed** the answer right away."
+   },
+   {
+    "w": "guesses",
+    "pos": "n",
+    "ko": "추측들",
+    "en": "After three **guesses**, he got it right."
+   }
+  ]
+ },
+ {
+  "w": "gun",
+  "pos": "n",
+  "meaning_ko": "총",
+  "example_en": "The police officer put his **gun** back in its holster.",
+  "example_ko": "경찰관은 총을 다시 총집에 넣었어.",
+  "nuance_ko": "gun은 총기류를 통틀어 가리키는 명사예요. pistol은 권총, rifle은 소총, shotgun은 산탄총으로 종류를 구분해요. 비유적으로 jump the gun은 '너무 일찍 시작하다', stick to one's guns는 '입장을 고수하다', under the gun은 '압박을 받는'이라는 표현이에요. 장난감 총은 toy gun이고, 물총은 water gun이에요. gun control은 총기 규제로 뉴스에 자주 나오는 말이에요. 총을 쏘는 동작은 shoot이고 gun은 보통 동사로 쓰지 않아요.",
+  "also": [
+   {
+    "w": "gunner",
+    "pos": "n",
+    "ko": "포수, 사수",
+    "en": "The **gunner** aimed at the target."
+   }
+  ]
+ },
+ {
+  "w": "guy",
+  "pos": "n",
+  "meaning_ko": "남자, 녀석, 사람들",
+  "example_en": "He's a really nice **guy** once you get to know him.",
+  "example_ko": "그 사람은 알고 나면 정말 좋은 사람이야.",
+  "nuance_ko": "guy는 구어체로 남자, 녀석을 뜻하는 가장 일상적인 단어예요. 복수 guys는 남녀가 섞인 무리에게도 쓰여 Hey, guys! 처럼 '여러분'이라는 편한 호칭이 되고 미국에서 아주 흔해요. 격식 있는 자리에서는 ladies and gentlemen 또는 everyone을 써요. a nice guy는 좋은 사람, a tough guy는 터프한 사람, the bad guy는 악당이라는 뜻이에요. guy 하나만 쓰면 남자를 가리키고 여자는 gal 또는 girl이라 불러요.",
+  "also": [
+   {
+    "w": "guys",
+    "pos": "n",
+    "ko": "여러분, 친구들",
+    "en": "What are you **guys** doing this weekend?"
+   }
+  ]
+ },
+ {
+  "w": "hair",
+  "pos": "n",
+  "meaning_ko": "머리카락, 털",
+  "example_en": "She just got her **hair** cut really short.",
+  "example_ko": "그녀는 방금 머리를 아주 짧게 잘랐어.",
+  "nuance_ko": "hair는 머리카락이나 털을 뜻하며 보통 셀 수 없는 명사로 써요. 머리 전체는 My hair is long이고 한 가닥을 말할 때만 a hair, 두 가닥은 two hairs예요. have a haircut(머리를 자르다), do one's hair(머리를 손질하다), brush one's hair(머리를 빗다)처럼 쓰는 표현이 많아요. 비유로 split hairs는 '사소한 것을 따지다', let your hair down은 '긴장을 풀고 즐기다', by a hair는 '간발의 차이로'예요. 몸의 털도 hair이고 동물의 털은 fur예요.",
+  "also": [
+   {
+    "w": "hairy",
+    "pos": "adj",
+    "ko": "털이 많은, 아슬아슬한",
+    "en": "That was a **hairy** moment on the mountain road."
+   }
+  ]
+ },
+ {
+  "w": "half",
+  "pos": "n",
+  "meaning_ko": "절반, 반",
+  "example_en": "I only ate **half** of the sandwich.",
+  "example_ko": "샌드위치를 절반만 먹었어.",
+  "nuance_ko": "half는 전체의 2분의 1을 뜻하는 명사, 한정사, 부사예요. half of the people, half an hour, half past six(여섯 시 반)처럼 쓰이는 표현이 많아요. 복수는 halves로 f가 v로 바뀌는 불규칙형이에요. half an hour와 a half hour 둘 다 가능해요. half the time은 시간의 절반 동안이고 in half는 반으로 나누어서예요. 시각을 말할 때 half past는 30분을 의미하는데 영국식 구어에서는 half six만으로 6시 30분을 뜻하기도 해요.",
+  "also": [
+   {
+    "w": "halves",
+    "pos": "n",
+    "ko": "반쪽들",
+    "en": "Cut the apple into two **halves**."
+   }
+  ]
+ },
+ {
+  "w": "hall",
+  "pos": "n",
+  "meaning_ko": "복도, 홀, 강당",
+  "example_en": "The concert will be held in the main **hall**.",
+  "example_ko": "콘서트는 메인 홀에서 열릴 거야.",
+  "nuance_ko": "hall은 건물 입구의 현관 복도, 큰 방이나 강당, 또는 공공 건물을 가리켜요. 입구 복도는 hallway와 거의 같고, 회의나 행사용 큰 방은 concert hall, town hall, dining hall처럼 써요. 대학 기숙사는 a hall of residence 또는 dormitory라고 불러요. City Hall은 시청이고, hall of fame은 명예의 전당이에요. 방과 방 사이의 좁은 통로는 corridor로도 부르는데 hall은 약간 더 열린 느낌이에요.",
+  "also": []
+ },
+ {
+  "w": "hand",
+  "pos": "n",
+  "meaning_ko": "손, 도움",
+  "example_en": "Could you give me a **hand** with these boxes?",
+  "example_ko": "이 상자들 옮기는 것 좀 도와줄래?",
+  "nuance_ko": "hand는 손을 가리키는 명사이고, 시곗바늘과 도움의 뜻으로도 써요. give someone a hand는 '도와주다', on the one hand ... on the other hand ...는 '한편으로는 ~, 다른 한편으로는 ~'라는 대조 표현이에요. by hand(손으로, 수작업으로), hand in hand(손잡고), at hand(가까이에), out of hand(통제 불능의) 같은 숙어가 많아요. 동사로 hand는 건네주다라서 Hand me the salt처럼 써요. hand in은 제출하다, hand out은 나눠 주다예요.",
+  "also": [
+   {
+    "w": "handful",
+    "pos": "n",
+    "ko": "한 줌, 소수",
+    "en": "Only a **handful** of people showed up."
+   },
+   {
+    "w": "handed",
+    "pos": "adj",
+    "ko": "손을 쓰는",
+    "en": "He is left-**handed** and writes with his left hand."
+   }
+  ]
+ },
+ {
+  "w": "handle",
+  "pos": "v",
+  "meaning_ko": "다루다, 처리하다",
+  "example_en": "Can you **handle** this project while I'm away?",
+  "example_ko": "내가 없는 동안 이 프로젝트 처리해 줄 수 있어?",
+  "nuance_ko": "handle은 사람이나 일을 맡아서 다루고 처리한다는 동사이고 명사로는 손잡이예요. handle a problem(문제를 처리하다), handle customers(고객을 응대하다), handle pressure(압박을 견디다)처럼 능력과 대응을 뜻해요. I can handle it은 '내가 알아서 할게', Can you handle that?은 '너 그거 감당할 수 있겠어?'예요. 조심해서 다루라는 뜻으로 Handle with care가 포장에 적혀 있어요. 명사 handle은 문손잡이, 컵 손잡이이고 온라인 닉네임(handle)도 가리켜요.",
+  "also": [
+   {
+    "w": "handling",
+    "pos": "n",
+    "ko": "처리, 취급",
+    "en": "The **handling** of the complaint was poor."
+   },
+   {
+    "w": "handler",
+    "pos": "n",
+    "ko": "담당자, 조련사",
+    "en": "The dog's **handler** gave a signal."
+   }
+  ]
+ },
+ {
+  "w": "hang",
+  "pos": "v",
+  "meaning_ko": "걸다, 매달리다",
+  "example_en": "Please **hang** your coat on the hook by the door.",
+  "example_ko": "코트는 문 옆 고리에 걸어 줘.",
+  "nuance_ko": "hang은 물건을 벽이나 고리에 걸다, 매달려 있다는 뜻이고 과거형·과거분사는 hung예요. 사람을 교수형에 처하다는 뜻일 때만 hanged를 쓰는 점이 시험에 자주 나와요. hang out은 친구들과 시간을 보내다는 구어, hang on은 잠깐 기다리다 또는 꽉 붙잡다, hang up은 전화를 끊다예요. Hang in there는 '버텨, 힘내'라는 응원이에요. get the hang of ~은 '요령을 터득하다'라는 숙어예요.",
+  "also": [
+   {
+    "w": "hanging",
+    "pos": "adj",
+    "ko": "걸려 있는",
+    "en": "There's a **hanging** lamp over the table."
+   },
+   {
+    "w": "hanger",
+    "pos": "n",
+    "ko": "옷걸이",
+    "en": "Put your shirt on a **hanger**."
+   }
+  ]
+ },
+ {
+  "w": "happen",
+  "pos": "v",
+  "meaning_ko": "일어나다, 발생하다",
+  "example_en": "What **happened** to your car? It looks damaged.",
+  "example_ko": "네 차 무슨 일이야? 망가진 것 같아.",
+  "nuance_ko": "happen은 사건이나 상황이 우연히 일어난다는 동사로 자동사라서 수동태로 쓰지 않아요. What happened?(무슨 일이야?), happen to ~(~에게 일어나다), happen to do(우연히 ~하다)가 자주 쓰여요. 예를 들어 I happened to see him yesterday는 어제 우연히 그를 봤다는 뜻이에요. take place는 계획된 행사가 열린다는 뜻이고 happen은 우연이나 사고에 어울려서 The wedding took place in June처럼 구분해요. as it happens는 '마침'이라는 담화 표현이에요.",
+  "also": [
+   {
+    "w": "happening",
+    "pos": "n",
+    "ko": "사건, 일",
+    "en": "There's a lot of **happening** in the city tonight."
+   },
+   {
+    "w": "happenings",
+    "pos": "n",
+    "ko": "일어난 일들",
+    "en": "I read about the latest **happenings** in the news."
+   }
+  ]
+ },
+ {
+  "w": "happy",
+  "pos": "adj",
+  "meaning_ko": "행복한, 기쁜",
+  "example_en": "I'm so **happy** to see you again after all these years.",
+  "example_ko": "그 오랜 세월이 지나서 널 다시 보니 정말 기뻐.",
+  "nuance_ko": "happy는 기쁘거나 행복한 감정을 표현하는 기본 형용사예요. be happy with ~(~에 만족하다), be happy to do(기꺼이 ~하다), Happy birthday!(생일 축하해!)처럼 두루 써요. happy hour는 술집의 할인 시간대고, happily ever after는 동화 결말인 '그 후 행복하게 살았답니다'예요. glad는 구체적인 일에 대해 기쁜 것이고 happy는 더 넓은 상태를 말해요. 반대는 unhappy(불행한)이고, 부사 happily는 '다행히도'라는 뜻으로도 문장 앞에서 써요.",
+  "also": [
+   {
+    "w": "unhappy",
+    "pos": "adj",
+    "ko": "불행한, 불만스러운",
+    "en": "She was **unhappy** with her new job."
+   },
+   {
+    "w": "happiness",
+    "pos": "n",
+    "ko": "행복",
+    "en": "Money can't buy **happiness**."
+   },
+   {
+    "w": "happily",
+    "pos": "adv",
+    "ko": "행복하게, 기꺼이",
+    "en": "The kids were playing **happily** in the yard."
+   }
+  ]
+ },
+ {
+  "w": "hard",
+  "pos": "adj",
+  "meaning_ko": "딱딱한, 어려운, 열심히",
+  "example_en": "This exam was really **hard**, but I think I did okay.",
+  "example_ko": "이번 시험은 정말 어려웠지만 나름 잘 본 것 같아.",
+  "nuance_ko": "hard는 딱딱하다, 어렵다, 열심히라는 세 가지 뜻이 있고 형용사와 부사로 모두 써요. hard to understand(이해하기 어려운), work hard(열심히 일하다), a hard bed(딱딱한 침대)가 대표예요. 부사 hardly는 '거의 ~않는'이라는 완전히 다른 뜻이라서 work hardly는 '거의 일하지 않는다'가 돼요. hard to say는 '말하기 어려워', Hard luck은 '운이 나빴네', be hard on someone은 '~에게 엄하게 대하다'예요. difficult보다 구어적이에요.",
+  "also": [
+   {
+    "w": "hardship",
+    "pos": "n",
+    "ko": "고난, 어려움",
+    "en": "The family went through years of **hardship**."
+   },
+   {
+    "w": "harden",
+    "pos": "v",
+    "ko": "굳히다, 단단해지다",
+    "en": "Let the cement **harden** overnight."
+   }
+  ]
+ },
+ {
+  "w": "hardly",
+  "pos": "adv",
+  "meaning_ko": "거의 ~않는",
+  "example_en": "I could **hardly** hear what he was saying.",
+  "example_ko": "그가 하는 말이 거의 들리지 않았어.",
+  "nuance_ko": "hardly는 부정에 가까운 의미를 지닌 부사로, '거의 ~하지 않는'이라는 뜻이에요. hard의 부사형처럼 보이지만 의미가 전혀 달라서 한국 학습자들이 매우 자주 혼동해요. hardly ever(거의 ~하지 않는), hardly any(거의 없는), can hardly wait(몹시 기다려지다)처럼 써요. hardly 자체가 부정 의미라서 I don't hardly know처럼 이중 부정으로 쓰면 틀려요. 문장 맨 앞에 쓰면 도치되어 Hardly had I arrived when it started to rain처럼 격식 있는 문어체가 돼요.",
+  "also": []
+ },
+ {
+  "w": "hat",
+  "pos": "n",
+  "meaning_ko": "모자",
+  "example_en": "Don't forget to wear a **hat** under the strong sun.",
+  "example_ko": "햇볕이 강하니까 모자 쓰는 거 잊지 마.",
+  "nuance_ko": "hat은 챙이 있거나 머리 전체를 덮는 모자를 가리키고, 야구 모자는 cap이라고 해요. put on a hat(쓰다), take off a hat(벗다), wear a hat(쓰고 있다)를 구분하세요. 비유로 hats off to ~는 '~에게 경의를 표한다', keep it under your hat은 '비밀로 해 둬', wear many hats는 '여러 역할을 맡다', pass the hat은 '모금하다'예요. 파티용 hat은 party hat, 헬멧은 helmet이라 hat과 다른 보호구예요.",
+  "also": [
+   {
+    "w": "hatless",
+    "pos": "adj",
+    "ko": "모자를 쓰지 않은",
+    "en": "He walked **hatless** in the cold wind."
+   }
+  ]
+ },
+ {
+  "w": "hate",
+  "pos": "v",
+  "meaning_ko": "싫어하다, 몹시 미워하다",
+  "example_en": "I **hate** waking up early on cold mornings.",
+  "example_ko": "추운 아침에 일찍 일어나는 게 정말 싫어.",
+  "nuance_ko": "hate는 dislike보다 훨씬 강하게 싫어하는 감정을 표현하는 동사예요. hate + 동명사/to부정사로 I hate waiting처럼 쓰고 사람에게 쓰면 매우 강한 표현이라 조심하세요. 가벼운 불평에서는 I hate it when ~ 구문으로 '~할 때 정말 싫더라'를 자주 써요. 명사 hate는 증오(hate speech, hate crime)를 뜻해요. 구어에서 I hate to bother you, but ...은 '귀찮게 해서 미안하지만'이라는 정중한 표현이에요. 반대말은 love예요.",
+  "also": [
+   {
+    "w": "hateful",
+    "pos": "adj",
+    "ko": "혐오스러운",
+    "en": "He said some **hateful** things in the heat of the argument."
+   },
+   {
+    "w": "hated",
+    "pos": "adj",
+    "ko": "미움받는",
+    "en": "The coach was **hated** by most of the players."
+   }
+  ]
+ },
+ {
+  "w": "have",
+  "pos": "v",
+  "meaning_ko": "가지고 있다, 먹다, 겪다",
+  "example_en": "Do you **have** any plans for the weekend?",
+  "example_ko": "주말에 무슨 계획 있어?",
+  "nuance_ko": "have는 소유를 나타내는 본동사이면서 현재완료를 만드는 조동사이기도 해요. I have a car(소유), I have eaten(완료), have breakfast(식사), have a good time(겪다)처럼 뜻이 다양해요. have to ~는 '~해야 한다'로 must보다 외부 사정에 따른 의무예요. have + 목적어 + 과거분사는 시키다의 뜻이라 I had my hair cut(머리를 자르게 했다)처럼 써요. 미국에서는 have got도 소유를 나타내는 구어체로 흔해요. 3인칭 단수는 has예요.",
+  "also": []
+ },
+ {
+  "w": "he",
+  "pos": "pron",
+  "meaning_ko": "그, 그 남자",
+  "example_en": "**He** told me he would arrive around eight.",
+  "example_ko": "그는 여덟 시쯤 도착할 거라고 말했어.",
+  "nuance_ko": "he는 이미 언급된 남성 한 명을 가리키는 3인칭 단수 주격 대명사예요. 목적격은 him, 소유격은 his, 재귀대명사는 himself예요. 성별을 모를 때 they를 단수로 쓰는 경향이 최근 늘었고, 예전에 he를 일반 사람 전체를 가리키는 용법으로 쓰던 것은 이제 피하는 편이에요. 한국어는 대명사를 자주 생략하지만 영어는 주어를 반드시 써야 해서 Is coming처럼 주어 없이 말하면 틀려요. 동물이나 사물을 의인화할 때 he를 쓰기도 해요.",
+  "also": []
+ },
+ {
+  "w": "head",
+  "pos": "n",
+  "meaning_ko": "머리, 우두머리",
+  "example_en": "I have a terrible pain in my **head** today.",
+  "example_ko": "오늘 머리가 너무 아파.",
+  "nuance_ko": "head는 몸의 머리를 비롯해 조직의 우두머리, 맨 앞부분, 정신을 가리키는 명사이고 동사로는 ~로 향하다예요. the head of the department(부서장), head for the station(역으로 향하다), per head(1인당) 같은 표현이 많아요. use your head는 '머리를 써 봐', head over heels는 '푹 빠진', hit the nail on the head는 '정곡을 찌르다'라는 숙어예요. headache는 두통이지만 비유로 '골칫거리'도 뜻해요. 스포츠에서는 head coach가 감독이에요.",
+  "also": [
+   {
+    "w": "heading",
+    "pos": "n",
+    "ko": "제목, 표제",
+    "en": "Read the **heading** at the top of the page."
+   },
+   {
+    "w": "headed",
+    "pos": "adj",
+    "ko": "향한",
+    "en": "We're **headed** to the airport now."
+   }
+  ]
+ },
+ {
+  "w": "health",
+  "pos": "n",
+  "meaning_ko": "건강",
+  "example_en": "Your **health** is more important than any job.",
+  "example_ko": "네 건강이 어떤 일보다도 중요해.",
+  "nuance_ko": "health는 몸과 마음의 건강 상태를 가리키는 셀 수 없는 명사예요. in good health(건강한), bad for your health(건강에 해로운), health care(의료), health insurance(건강 보험)처럼 쓰여요. 건배할 때 To your health!는 '당신의 건강을 위해!'라는 뜻이에요. mental health는 정신 건강, public health는 공중 보건이에요. 형용사 healthy는 몸이 건강하다 또는 건강에 좋다, healthful은 건강에 이로운 것을 가리켜 격식 있는 말이에요.",
+  "also": [
+   {
+    "w": "healthy",
+    "pos": "adj",
+    "ko": "건강한",
+    "en": "Try to eat a **healthy** breakfast every day."
+   },
+   {
+    "w": "unhealthy",
+    "pos": "adj",
+    "ko": "건강하지 않은",
+    "en": "Too much sugar is **unhealthy**."
+   }
+  ]
+ },
+ {
+  "w": "hear",
+  "pos": "v",
+  "meaning_ko": "듣다, 들리다",
+  "example_en": "Sorry, I didn't **hear** what you said.",
+  "example_ko": "미안, 네가 한 말을 못 들었어.",
+  "nuance_ko": "hear는 소리가 귀에 들어오는 비의도적인 청각 행위이고, listen to는 주의를 기울여 의도적으로 듣는 행동이에요. 그래서 I can hear music은 음악이 들린다는 뜻이고 I'm listening to music은 일부러 음악을 듣고 있다는 뜻이에요. hear about ~은 소식을 접하다, hear from ~은 연락을 받다, hear of ~는 존재를 알다예요. Have you heard? 또는 I hear that ~는 소문이나 소식을 전할 때 자주 써요. 과거형·과거분사는 heard예요.",
+  "also": [
+   {
+    "w": "hearing",
+    "pos": "n",
+    "ko": "청력, 청문회",
+    "en": "My grandfather's **hearing** isn't what it used to be."
+   },
+   {
+    "w": "unheard",
+    "pos": "adj",
+    "ko": "들리지 않은",
+    "en": "Her complaint went **unheard**."
+   }
+  ]
+ },
+ {
+  "w": "heart",
+  "pos": "n",
+  "meaning_ko": "심장, 마음",
+  "example_en": "My **heart** was pounding before the speech.",
+  "example_ko": "연설 전에 심장이 쿵쾅거렸어.",
+  "nuance_ko": "heart는 신체 기관인 심장과 감정이 머무는 마음, 핵심을 모두 뜻하는 명사예요. by heart(외워서), take heart(용기를 내다), heart of the matter(문제의 핵심), break someone's heart(마음을 아프게 하다)처럼 숙어가 풍부해요. 마음은 mind도 있는데 heart는 감정, mind는 생각을 말해요. kind-hearted(마음씨 좋은), heartfelt(진심 어린)처럼 복합어도 많아요. heart attack은 심장마비, heart rate는 심박수예요.",
+  "also": [
+   {
+    "w": "heartless",
+    "pos": "adj",
+    "ko": "매정한",
+    "en": "It was **heartless** to ignore his request."
+   },
+   {
+    "w": "hearts",
+    "pos": "n",
+    "ko": "마음들, 하트 무늬",
+    "en": "The movie won the **hearts** of millions."
+   }
+  ]
+ },
+ {
+  "w": "heat",
+  "pos": "n",
+  "meaning_ko": "열, 더위",
+  "example_en": "The **heat** in the city was unbearable this afternoon.",
+  "example_ko": "오늘 오후 도심의 더위는 견디기 힘들었어.",
+  "nuance_ko": "heat는 열 또는 더위를 뜻하는 명사이고 동사로는 가열하다, 데우다예요. in the heat of the moment(한창 흥분한 순간에), heat wave(폭염), heat up(데워지다)처럼 쓰여요. 비교적 가벼운 warm은 따뜻함, hot은 뜨거움, heat는 열 자체나 강한 더위를 가리켜요. 난방은 central heating, 가스레인지의 불 세기는 low heat, high heat로 써요. take the heat는 '비난을 감수하다', turn up the heat는 '압박을 높이다'라는 비유예요.",
+  "also": [
+   {
+    "w": "heating",
+    "pos": "n",
+    "ko": "난방",
+    "en": "The **heating** doesn't work in my apartment."
+   },
+   {
+    "w": "heated",
+    "pos": "adj",
+    "ko": "격한, 가열된",
+    "en": "They had a **heated** argument about politics."
+   }
+  ]
+ },
+ {
+  "w": "heavy",
+  "pos": "adj",
+  "meaning_ko": "무거운, 심한",
+  "example_en": "This suitcase is too **heavy** for me to carry alone.",
+  "example_ko": "이 여행 가방은 나 혼자 들기엔 너무 무거워.",
+  "nuance_ko": "heavy는 무게가 무겁다는 뜻에서 나아가 양이나 정도가 심하다(heavy rain, heavy traffic)는 뜻으로 확장돼요. 음식이 느끼하다(a heavy meal), 분위기가 무겁다(a heavy atmosphere), 마음이 무겁다(a heavy heart)도 가능해요. 반대는 light이고 heavy와 light는 무게뿐 아니라 강도에도 대비돼요. heavy smoker는 담배를 많이 피우는 사람이라는 구어 표현이에요. heavy metal은 음악 장르이면서 중금속을 가리켜요. 부사 heavily는 heavily damaged(심하게 손상된)처럼 써요.",
+  "also": [
+   {
+    "w": "heavily",
+    "pos": "adv",
+    "ko": "심하게, 무겁게",
+    "en": "It rained **heavily** all night."
+   },
+   {
+    "w": "heavier",
+    "pos": "adj",
+    "ko": "더 무거운",
+    "en": "The second box was much **heavier**."
+   }
+  ]
+ },
+ {
+  "w": "hell",
+  "pos": "n",
+  "meaning_ko": "지옥",
+  "example_en": "The traffic this morning was absolute **hell**.",
+  "example_ko": "오늘 아침 교통은 정말 지옥이었어.",
+  "nuance_ko": "hell은 지옥을 뜻하는 명사로, 종교적 의미 외에 몹시 고통스러운 상황을 과장해서 말하는 구어체에서 자주 써요. It was hell(지옥 같았다)이나 What the hell(대체 뭐야)처럼 강조 표현으로도 쓰이는데, 욕설에 가까워서 격식 있는 자리에서는 피하는 게 좋아요. go through hell은 힘든 일을 겪다, hell of a ~는 구어에서 '엄청난 ~'로 강조해요. 미성년자나 직장에서는 부적절할 수 있으니 상황을 살피세요. 형용사 hellish는 지옥 같은이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "hellish",
+    "pos": "adj",
+    "ko": "지옥 같은",
+    "en": "We had a **hellish** journey in the storm."
+   }
+  ]
+ },
+ {
+  "w": "hello",
+  "pos": "int",
+  "meaning_ko": "안녕하세요, 여보세요",
+  "example_en": "**Hello**, is this Mr. Kim speaking?",
+  "example_ko": "여보세요, 김 선생님 맞으세요?",
+  "nuance_ko": "hello는 만났을 때나 전화를 받을 때 하는 가장 일반적인 인사말이에요. Hi나 Hey는 더 편한 사이에서 쓰고, hello는 약간 정중하면서도 중립적이에요. 전화를 걸 때도 Hello?라고 하는데 상대의 응답을 확인하는 용도로도 써요. 누군가 듣지 않고 있을 때 Hello?라고 하면 '내 말 듣고 있어?'라는 짜증 섞인 표현이 될 수 있어요. say hello to ~는 '~에게 안부를 전하다'라는 흔한 표현이에요. 영국에서는 hallo, hullo 같은 변형 철자도 있어요.",
+  "also": [
+   {
+    "w": "hi",
+    "pos": "int",
+    "ko": "안녕",
+    "en": "**Hi**, how's it going?"
+   },
+   {
+    "w": "hey",
+    "pos": "int",
+    "ko": "이봐, 안녕",
+    "en": "**Hey**, wait for me!"
+   }
+  ]
+ },
+ {
+  "w": "help",
+  "pos": "v",
+  "meaning_ko": "돕다",
+  "example_en": "Can you **help** me carry these boxes upstairs?",
+  "example_ko": "이 상자들 이 층으로 옮기는 것 좀 도와줄래?",
+  "nuance_ko": "help는 도움이 필요한 사람을 돕는 동사이고 명사로는 도움이에요. help + 사람 + (to) 동사원형으로 쓰기 때문에 help me carry와 help me to carry 둘 다 가능해요. help with ~는 도와줄 일을 말하고 help out은 어려운 상황을 거드는 구동사예요. can't help ~ing는 '~하지 않을 수 없다', Help yourself!는 '마음껏 드세요'라는 환대의 표현이에요. Can I help you?는 가게에서 점원이 건네는 정중한 말이고, 위급할 때는 Help!라고 외쳐요.",
+  "also": [
+   {
+    "w": "helpful",
+    "pos": "adj",
+    "ko": "도움이 되는",
+    "en": "Thanks, that was really **helpful**."
+   },
+   {
+    "w": "helpless",
+    "pos": "adj",
+    "ko": "무력한",
+    "en": "I felt **helpless** watching him struggle."
+   },
+   {
+    "w": "helper",
+    "pos": "n",
+    "ko": "도우미",
+    "en": "The kids are great **helpers** in the kitchen."
+   }
+  ]
+ },
+ {
+  "w": "here",
+  "pos": "adv",
+  "meaning_ko": "여기, 여기에",
+  "example_en": "Come over **here** and take a look at this.",
+  "example_ko": "이쪽으로 와서 이것 좀 봐.",
+  "nuance_ko": "here는 말하는 사람이 있는 장소를 가리키는 부사예요. Here you are(여기 있어요, 건네줄 때), Here we go(자 시작하자), Here it is(여기 있네)처럼 건네거나 주의를 끌 때 쓰는 구문이 많아요. 도치된 Here comes the bus는 '버스가 온다'로, 주어가 명사이면 동사가 앞에 와요. 전화에서 Is Tom here?은 톰이 지금 있느냐는 뜻이고, 사람이 호명될 때 Here!는 '네, 여기 있어요'라는 출석 응답이에요. 전치사 없이 쓰므로 in here나 over here처럼 방향 표현과 함께 써요.",
+  "also": []
+ },
+ {
+  "w": "hide",
+  "pos": "v",
+  "meaning_ko": "숨기다, 숨다",
+  "example_en": "The kids ran to **hide** behind the sofa.",
+  "example_ko": "아이들은 소파 뒤에 숨으려고 달려갔어.",
+  "nuance_ko": "hide는 눈에 띄지 않게 숨는 동작(자동사)과 숨기는 동작(타동사)을 모두 뜻해요. hide from someone(~로부터 숨다), hide something from someone(~에게 ~을 숨기다)처럼 구조를 구분하세요. 감정을 숨긴다는 비유로 hide one's feelings도 많이 써요. hide-and-seek은 숨바꼭질이에요. 과거형은 hid, 과거분사는 hidden이며 hidden은 형용사로 hidden talent(숨은 재능)처럼 많이 써요. 명사 hide는 동물 가죽이고 in hiding은 은신 중이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "hidden",
+    "pos": "adj",
+    "ko": "숨겨진",
+    "en": "There's a **hidden** door behind the bookshelf."
+   },
+   {
+    "w": "hiding",
+    "pos": "n",
+    "ko": "숨음",
+    "en": "The thief is still in **hiding**."
+   }
+  ]
+ },
+ {
+  "w": "high",
+  "pos": "adj",
+  "meaning_ko": "높은, 고도의",
+  "example_en": "The prices at that restaurant are way too **high**.",
+  "example_ko": "그 식당 가격은 너무 높아.",
+  "nuance_ko": "high는 위치나 수준, 정도가 높다는 형용사이자 부사예요. a high mountain(높은 산), high prices(높은 가격), a high temperature(고온)처럼 쓰고, 사람의 키에는 tall을 써서 a tall man이라고 해요. 건물이나 산 같은 물체는 tall이나 high 둘 다 가능해요. high school은 고등학교, high tech는 첨단 기술이에요. 구어 속어로 high는 약물이나 기분에 취해 들뜬 상태를 뜻하기도 해요. 반대는 low이고 depth의 반대 개념으로 height가 있어요.",
+  "also": [
+   {
+    "w": "higher",
+    "pos": "adj",
+    "ko": "더 높은",
+    "en": "She got a **higher** score than last time."
+   },
+   {
+    "w": "highly",
+    "pos": "adv",
+    "ko": "매우, 높이",
+    "en": "The film was **highly** recommended by critics."
+   }
+  ]
+ },
+ {
+  "w": "hill",
+  "pos": "n",
+  "meaning_ko": "언덕, 작은 산",
+  "example_en": "Our house is at the top of that **hill**.",
+  "example_ko": "우리 집은 저 언덕 꼭대기에 있어.",
+  "nuance_ko": "hill은 산보다 낮고 완만한 언덕을 가리키는 명사예요. mountain은 훨씬 높고 가파른 산이라 크기와 높이로 구분돼요. up the hill(언덕을 올라), down the hill(언덕을 내려가서)처럼 쓰고 over the hill은 '한창때를 지난, 늙은'이라는 구어 비유예요. a molehill은 두더지가 만든 작은 흙무더기라서 make a mountain out of a molehill은 '별것 아닌 일을 크게 부풀리다'라는 뜻이에요. 형용사 hilly는 언덕이 많다는 뜻이에요.",
+  "also": [
+   {
+    "w": "hilly",
+    "pos": "adj",
+    "ko": "언덕이 많은",
+    "en": "The area is quite **hilly**, so bring good shoes."
+   }
+  ]
+ },
+ {
+  "w": "history",
+  "pos": "n",
+  "meaning_ko": "역사, 이력",
+  "example_en": "I'm reading a book about the **history** of Rome.",
+  "example_ko": "로마의 역사에 관한 책을 읽고 있어.",
+  "nuance_ko": "history는 과거의 사건이나 기록, 학문으로서의 역사를 뜻하는 명사예요. history class, ancient history(고대사)처럼 학문에서 쓰고, 개인이나 사물의 이력으로도 써서 medical history(병력), browsing history(검색 기록)처럼 말해요. make history는 역사적인 일을 해내다, go down in history는 역사에 남다, That's history는 '이미 끝난 일이야'라는 구어예요. 이야기를 뜻하는 story와 혼동하지 마세요. 형용사 historic은 역사적으로 중요한 것, historical은 역사에 관한 것이라서 둘이 달라요.",
+  "also": [
+   {
+    "w": "historical",
+    "pos": "adj",
+    "ko": "역사의, 역사적인",
+    "en": "The museum has many **historical** documents."
+   },
+   {
+    "w": "historic",
+    "pos": "adj",
+    "ko": "역사적으로 중요한",
+    "en": "It was a **historic** victory for the team."
+   },
+   {
+    "w": "historian",
+    "pos": "n",
+    "ko": "역사학자",
+    "en": "The **historian** wrote a book on the war."
+   }
+  ]
+ },
+ {
+  "w": "hit",
+  "pos": "v",
+  "meaning_ko": "치다, 때리다, 부딪히다",
+  "example_en": "The ball **hit** the window and broke it.",
+  "example_ko": "공이 창문을 맞고 깨뜨렸어.",
+  "nuance_ko": "hit은 손이나 물건으로 세게 치거나 부딪치는 동작을 뜻하는 동사예요. 과거형·과거분사도 hit으로 같아요. hit the road(출발하다), hit the books(공부를 시작하다), hit the jackpot(대박을 터뜨리다), hit it off(죽이 잘 맞다)처럼 숙어가 많아요. 상황이 닥친다는 의미로 A storm hit the city처럼 쓰고 명사 hit은 큰 인기를 얻은 곡이나 상품(a big hit)이에요. 웹사이트의 조회수도 hits라고 해요. beat는 반복해서 때리는 느낌이고 hit은 한 번 맞히는 느낌이에요.",
+  "also": [
+   {
+    "w": "hitting",
+    "pos": "n",
+    "ko": "타격",
+    "en": "His **hitting** has improved this season."
+   },
+   {
+    "w": "hitter",
+    "pos": "n",
+    "ko": "타자",
+    "en": "He is the best **hitter** on the team."
+   }
+  ]
+ },
+ {
+  "w": "hold",
+  "pos": "v",
+  "meaning_ko": "잡다, 들고 있다, 개최하다",
+  "example_en": "Could you **hold** this for a second while I tie my shoe?",
+  "example_ko": "신발끈 묶는 동안 이것 좀 잠깐 들고 있어 줄래?",
+  "nuance_ko": "hold는 손으로 쥐고 있거나 유지하는 상태를 나타내는 동사예요. hold hands(손을 잡다), hold a meeting(회의를 열다), hold one's breath(숨을 참다), hold on(잠깐 기다려), hold back(억제하다), hold up(지연시키다, 강도질하다)처럼 구동사가 다양해요. 전화에서 Please hold는 '끊지 말고 기다려 주세요'예요. 어떤 직책이나 기록을 가지고 있다는 뜻으로 hold a record, hold a degree에도 써요. 과거형·과거분사는 held예요.",
+  "also": [
+   {
+    "w": "holder",
+    "pos": "n",
+    "ko": "소지자, 보유자",
+    "en": "She's the world record **holder** in swimming."
+   },
+   {
+    "w": "holding",
+    "pos": "n",
+    "ko": "보유 자산",
+    "en": "The company has large **holdings** in real estate."
+   }
+  ]
+ },
+ {
+  "w": "hole",
+  "pos": "n",
+  "meaning_ko": "구멍, 구덩이",
+  "example_en": "There's a **hole** in my sock again.",
+  "example_ko": "내 양말에 또 구멍이 났어.",
+  "nuance_ko": "hole은 표면에 뚫리거나 파인 구멍이나 구덩이를 가리켜요. dig a hole(구덩이를 파다), a hole in the wall(벽의 구멍, 작고 허름한 가게), burn a hole in one's pocket(돈이 주머니에 구멍을 내다, 쓰고 싶어 안달 나다)처럼 쓰여요. 골프에서는 한 홀(hole)이고 hole in one은 홀인원이에요. 논리의 허점도 a hole in the argument라고 해요. whole(전체의)과 발음이 같으니 철자를 구분하세요. 동사로 hole up은 숨어 지내다라는 뜻이에요.",
+  "also": [
+   {
+    "w": "holes",
+    "pos": "n",
+    "ko": "구멍들",
+    "en": "The old shoes were full of **holes**."
+   }
+  ]
+ },
+ {
+  "w": "holiday",
+  "pos": "n",
+  "meaning_ko": "휴일, 휴가",
+  "example_en": "We're planning a **holiday** in Spain this summer.",
+  "example_ko": "우리는 이번 여름에 스페인으로 휴가를 갈 계획이야.",
+  "nuance_ko": "holiday는 영국에서는 휴가 자체(go on holiday)를, 미국에서는 공휴일이나 명절을 주로 가리켜요. 미국에서 휴가는 vacation이라 해서 같은 말도 지역에 따라 달라요. public holiday는 공휴일, bank holiday는 영국의 공휴일이고 on holiday는 휴가 중이라는 뜻이에요. holiday season은 연말연시 기간을 가리켜요. 인사에 Happy holidays!는 크리스마스와 새해를 두루 포함해 종교와 관계없이 쓰는 말이에요.",
+  "also": [
+   {
+    "w": "holidays",
+    "pos": "n",
+    "ko": "휴가철, 연휴",
+    "en": "What are you doing for the **holidays**?"
+   }
+  ]
+ },
+ {
+  "w": "home",
+  "pos": "n",
+  "meaning_ko": "집, 고향",
+  "example_en": "I'll be **home** by seven, so don't wait for dinner.",
+  "example_ko": "일곱 시까지는 집에 갈 테니 저녁은 기다리지 마.",
+  "nuance_ko": "home은 사람이 사는 집이나 고향, 마음의 안식처를 뜻하며 명사, 부사, 형용사 모두로 써요. go home, get home, come home처럼 부사로 쓰일 때는 to를 붙이지 않는 점이 한국인이 자주 틀리는 부분이에요. at home(집에), feel at home(편안하다), make yourself at home(편히 계세요) 등 표현이 풍부해요. house는 건물 자체이고 home은 정서적 의미가 담긴 거처라서 차이가 있어요. home page, home team, home run처럼 복합어도 많아요.",
+  "also": [
+   {
+    "w": "homeless",
+    "pos": "adj",
+    "ko": "집이 없는",
+    "en": "The charity helps **homeless** people find shelter."
+   },
+   {
+    "w": "homes",
+    "pos": "n",
+    "ko": "집들",
+    "en": "Many **homes** lost power during the storm."
+   }
+  ]
+ },
+ {
+  "w": "honest",
+  "pos": "adj",
+  "meaning_ko": "정직한, 솔직한",
+  "example_en": "To be **honest**, I didn't like the movie very much.",
+  "example_ko": "솔직히 말해서 그 영화는 별로였어.",
+  "nuance_ko": "honest는 거짓이 없고 정직하다는 형용사예요. 발음에서 h가 묵음이라 /ˈɒnɪst/로 읽어요. To be honest(솔직히 말해서), honest mistake(의도 없는 실수), an honest opinion(솔직한 의견)처럼 써요. 솔직하게 말하는 사람은 honest, 그렇게 말하는 태도는 frank라 하고 때로는 불편한 진실도 포함해요. Honestly는 대화에서 솔직히나 정말이라는 강조 부사로 쓰이거나 짜증과 놀람을 나타내기도 해요. 반대는 dishonest예요.",
+  "also": [
+   {
+    "w": "honestly",
+    "pos": "adv",
+    "ko": "솔직히",
+    "en": "**Honestly**, I have no idea what happened."
+   },
+   {
+    "w": "honesty",
+    "pos": "n",
+    "ko": "정직",
+    "en": "**Honesty** is the best policy."
+   }
+  ]
+ },
+ {
+  "w": "honour",
+  "pos": "n",
+  "meaning_ko": "영광, 명예, 경의",
+  "example_en": "It's a great **honour** to be invited to speak here.",
+  "example_ko": "여기서 연설하도록 초청받아 큰 영광입니다.",
+  "nuance_ko": "honour는 영국식 철자이고 미국식은 honor예요. 존경받을 만한 명예와 영광, 그리고 격식 있는 초대나 상에 대한 영광스러운 마음을 말해요. It's an honour to meet you는 만나서 영광이라는 정중한 인사예요. in honour of ~는 '~을 기리기 위해', on my honour는 '명예를 걸고', Your Honour는 판사에 대한 호칭이에요. 동사 honour는 약속이나 계약을 지키다 또는 영예를 주다라서 honour a promise(약속을 지키다)처럼 써요. 형용사 honourable은 명예로운이에요.",
+  "also": [
+   {
+    "w": "honourable",
+    "pos": "adj",
+    "ko": "명예로운",
+    "en": "He made an **honourable** decision to resign."
+   },
+   {
+    "w": "honoured",
+    "pos": "adj",
+    "ko": "영광으로 여기는",
+    "en": "I am **honoured** to receive this award."
+   }
+  ]
+ }
+]

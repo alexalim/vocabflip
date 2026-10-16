@@ -1,0 +1,1086 @@
+[
+ {
+  "w": "drag",
+  "lvl": "2k",
+  "forms": [
+   "dragged",
+   "dragging",
+   "drags"
+  ]
+ },
+ {
+  "w": "dragon",
+  "lvl": "2k",
+  "forms": [
+   "dragons"
+  ]
+ },
+ {
+  "w": "drama",
+  "lvl": "2k",
+  "forms": [
+   "dramatic",
+   "dramatically",
+   "dramas",
+   "dramatist",
+   "dramatised",
+   "dramatists",
+   "dramatics",
+   "dramatisation"
+  ]
+ },
+ {
+  "w": "drawer",
+  "lvl": "2k",
+  "forms": [
+   "drawers"
+  ]
+ },
+ {
+  "w": "drum",
+  "lvl": "2k",
+  "forms": [
+   "drums",
+   "drummer",
+   "drumming",
+   "drummed",
+   "drummers"
+  ]
+ },
+ {
+  "w": "duck",
+  "lvl": "2k",
+  "forms": [
+   "ducks",
+   "ducked",
+   "ducking",
+   "duckling",
+   "ducklings"
+  ]
+ },
+ {
+  "w": "due",
+  "lvl": "2k",
+  "forms": [
+   "duly",
+   "undue",
+   "unduly",
+   "dues"
+  ]
+ },
+ {
+  "w": "dump",
+  "lvl": "2k",
+  "forms": [
+   "dumped",
+   "dumping",
+   "dumps",
+   "dumper",
+   "dumpers"
+  ]
+ },
+ {
+  "w": "dust",
+  "lvl": "2k",
+  "forms": [
+   "dusty",
+   "dusted",
+   "dusting",
+   "duster",
+   "dusters",
+   "dusts",
+   "dustier",
+   "dustless"
+  ]
+ },
+ {
+  "w": "duty",
+  "lvl": "2k",
+  "forms": [
+   "duties",
+   "dutifully",
+   "dutiful",
+   "dutiable",
+   "dutifulness"
+  ]
+ },
+ {
+  "w": "earn",
+  "lvl": "2k",
+  "forms": [
+   "earnings",
+   "earned",
+   "earning",
+   "earners",
+   "earns",
+   "earner",
+   "unearned"
+  ]
+ },
+ {
+  "w": "ease",
+  "lvl": "2k",
+  "forms": [
+   "uneasy",
+   "eased",
+   "easing",
+   "unease",
+   "uneasily",
+   "eases",
+   "uneasiness"
+  ]
+ },
+ {
+  "w": "economy",
+  "lvl": "2k",
+  "forms": [
+   "economic",
+   "economics",
+   "economies",
+   "economically",
+   "economists",
+   "economist",
+   "economical",
+   "uneconomic"
+  ]
+ },
+ {
+  "w": "edit",
+  "lvl": "2k",
+  "forms": [
+   "editor",
+   "ed",
+   "editorial",
+   "edited",
+   "editors",
+   "editing",
+   "eds",
+   "editorship"
+  ]
+ },
+ {
+  "w": "effect",
+  "lvl": "2k",
+  "forms": [
+   "effects",
+   "effected",
+   "effecting"
+  ]
+ },
+ {
+  "w": "effort",
+  "lvl": "2k",
+  "forms": [
+   "efforts",
+   "effortlessly",
+   "effortless"
+  ]
+ },
+ {
+  "w": "elder",
+  "lvl": "2k",
+  "forms": [
+   "elderly",
+   "elders"
+  ]
+ },
+ {
+  "w": "elect",
+  "lvl": "2k",
+  "forms": [
+   "election",
+   "elections",
+   "elected",
+   "electoral",
+   "electors",
+   "elector",
+   "electing",
+   "elects"
+  ]
+ },
+ {
+  "w": "electric",
+  "lvl": "2k",
+  "forms": [
+   "electricity",
+   "electrical",
+   "electrically",
+   "electrician",
+   "electrics",
+   "electricians"
+  ]
+ },
+ {
+  "w": "elephant",
+  "lvl": "2k",
+  "forms": [
+   "elephants"
+  ]
+ },
+ {
+  "w": "email",
+  "lvl": "2k",
+  "forms": [
+   "emailed",
+   "emailing",
+   "emailled",
+   "emailling",
+   "emails"
+  ]
+ },
+ {
+  "w": "embarrass",
+  "lvl": "2k",
+  "forms": [
+   "embarrassed",
+   "embarrassment",
+   "embarrassing",
+   "embarrassingly",
+   "embarrassments",
+   "embarrasses",
+   "unembarrassed"
+  ]
+ },
+ {
+  "w": "emotion",
+  "lvl": "2k",
+  "forms": [
+   "emotional",
+   "emotions",
+   "emotionally",
+   "unemotional",
+   "emotionless",
+   "unemotionally",
+   "emotionlessly"
+  ]
+ },
+ {
+  "w": "empire",
+  "lvl": "2k",
+  "forms": [
+   "empires"
+  ]
+ },
+ {
+  "w": "encourage",
+  "lvl": "2k",
+  "forms": [
+   "encouraged",
+   "encouraging",
+   "encouragement",
+   "encourages",
+   "encouragingly",
+   "encouragements"
+  ]
+ },
+ {
+  "w": "enemy",
+  "lvl": "2k",
+  "forms": [
+   "enemies"
+  ]
+ },
+ {
+  "w": "energy",
+  "lvl": "2k",
+  "forms": [
+   "energies",
+   "energetic",
+   "energetically",
+   "energised",
+   "energetics",
+   "energising",
+   "energise",
+   "energize"
+  ]
+ },
+ {
+  "w": "engage",
+  "lvl": "2k",
+  "forms": [
+   "engaged",
+   "engagement",
+   "engaging",
+   "engagements",
+   "engages",
+   "engagingly"
+  ]
+ },
+ {
+  "w": "engineer",
+  "lvl": "2k",
+  "forms": [
+   "engineering",
+   "engineers",
+   "engineered"
+  ]
+ },
+ {
+  "w": "enormous",
+  "lvl": "2k",
+  "forms": [
+   "enormously"
+  ]
+ },
+ {
+  "w": "entertain",
+  "lvl": "2k",
+  "forms": [
+   "entertainment",
+   "entertaining",
+   "entertained",
+   "entertainments",
+   "entertainer",
+   "entertainers",
+   "entertains",
+   "entertainingly"
+  ]
+ },
+ {
+  "w": "entire",
+  "lvl": "2k",
+  "forms": [
+   "entirely",
+   "entirity"
+  ]
+ },
+ {
+  "w": "envelope",
+  "lvl": "2k",
+  "forms": [
+   "envelopes",
+   "enveloped",
+   "enveloping",
+   "envelop",
+   "envelops",
+   "envelopment",
+   "envelopments"
+  ]
+ },
+ {
+  "w": "environment",
+  "lvl": "2k",
+  "forms": [
+   "environmental",
+   "environments",
+   "environmentally",
+   "environmentalists",
+   "environmentalist",
+   "environmentalism"
+  ]
+ },
+ {
+  "w": "equal",
+  "lvl": "2k",
+  "forms": [
+   "equally",
+   "equality",
+   "equals",
+   "inequality",
+   "inequalities",
+   "unequal",
+   "equaliser",
+   "equalised"
+  ]
+ },
+ {
+  "w": "equipment",
+  "lvl": "2k",
+  "forms": [
+   "equipped",
+   "equip",
+   "equipping",
+   "equipments",
+   "equips",
+   "unequipped"
+  ]
+ },
+ {
+  "w": "escape",
+  "lvl": "2k",
+  "forms": [
+   "escaped",
+   "escaping",
+   "escapes",
+   "esc",
+   "escapism",
+   "escapist",
+   "escapees",
+   "escapee"
+  ]
+ },
+ {
+  "w": "establish",
+  "lvl": "2k",
+  "forms": [
+   "established",
+   "establishment",
+   "establishing",
+   "establishments",
+   "establishes",
+   "reestablish",
+   "reestablished",
+   "reestablishing"
+  ]
+ },
+ {
+  "w": "estate",
+  "lvl": "2k",
+  "forms": [
+   "estates"
+  ]
+ },
+ {
+  "w": "event",
+  "lvl": "2k",
+  "forms": [
+   "events",
+   "uneventful",
+   "eventful",
+   "uneventfully"
+  ]
+ },
+ {
+  "w": "eventually",
+  "lvl": "2k",
+  "forms": [
+   "eventual",
+   "eventuality",
+   "eventualities"
+  ]
+ },
+ {
+  "w": "evidence",
+  "lvl": "2k",
+  "forms": [
+   "evidenced",
+   "evidential",
+   "evidences"
+  ]
+ },
+ {
+  "w": "evil",
+  "lvl": "2k",
+  "forms": [
+   "evils",
+   "evilly",
+   "evilness",
+   "eviler",
+   "evilest"
+  ]
+ },
+ {
+  "w": "exam",
+  "lvl": "2k",
+  "forms": [
+   "exams"
+  ]
+ },
+ {
+  "w": "examine",
+  "lvl": "2k",
+  "forms": [
+   "examination",
+   "examined",
+   "examining",
+   "examinations",
+   "examines",
+   "examiner",
+   "examiners",
+   "unexamined"
+  ]
+ },
+ {
+  "w": "example",
+  "lvl": "2k",
+  "forms": [
+   "examples"
+  ]
+ },
+ {
+  "w": "excellent",
+  "lvl": "2k",
+  "forms": [
+   "excellence",
+   "excellently"
+  ]
+ },
+ {
+  "w": "exchange",
+  "lvl": "2k",
+  "forms": [
+   "exchanges",
+   "exchanged",
+   "exchanging",
+   "exchanger",
+   "exchangeable",
+   "exchangers"
+  ]
+ },
+ {
+  "w": "exercise",
+  "lvl": "2k",
+  "forms": [
+   "exercises",
+   "exercised",
+   "exercising",
+   "exercisable"
+  ]
+ },
+ {
+  "w": "exhaust",
+  "lvl": "2k",
+  "forms": [
+   "exhausted",
+   "exhaustion",
+   "exhaustive",
+   "exhausting",
+   "exhaustively",
+   "inexhaustible",
+   "exhausts",
+   "exhaustiveness"
+  ]
+ },
+ {
+  "w": "exist",
+  "lvl": "2k",
+  "forms": [
+   "existing",
+   "existence",
+   "exists",
+   "existed",
+   "existent",
+   "nonexistent",
+   "existences"
+  ]
+ },
+ {
+  "w": "expense",
+  "lvl": "2k",
+  "forms": [
+   "expenses"
+  ]
+ },
+ {
+  "w": "expose",
+  "lvl": "2k",
+  "forms": [
+   "exposed",
+   "exposure",
+   "exposing",
+   "exposes",
+   "exposures",
+   "unexposed"
+  ]
+ },
+ {
+  "w": "extend",
+  "lvl": "2k",
+  "forms": [
+   "extended",
+   "extending",
+   "extends",
+   "extender",
+   "extendable",
+   "extenders",
+   "unextended"
+  ]
+ },
+ {
+  "w": "extreme",
+  "lvl": "2k",
+  "forms": [
+   "extremely",
+   "extremes",
+   "extremists",
+   "extremist",
+   "extremities",
+   "extremity",
+   "extremism"
+  ]
+ },
+ {
+  "w": "fail",
+  "lvl": "2k",
+  "forms": [
+   "failed",
+   "failing",
+   "fails",
+   "failings",
+   "unfailing",
+   "unfailingly"
+  ]
+ },
+ {
+  "w": "faint",
+  "lvl": "2k",
+  "forms": [
+   "faintly",
+   "faintest",
+   "fainted",
+   "fainting",
+   "fainter",
+   "faintness",
+   "faints",
+   "faintings"
+  ]
+ },
+ {
+  "w": "fairy",
+  "lvl": "2k",
+  "forms": [
+   "fairies",
+   "faerie",
+   "faeries"
+  ]
+ },
+ {
+  "w": "faith",
+  "lvl": "2k",
+  "forms": [
+   "faithful",
+   "faithfully",
+   "unfaithful",
+   "faiths",
+   "faithfulness",
+   "faithless",
+   "unfaithfulness",
+   "faithfuls"
+  ]
+ },
+ {
+  "w": "familiar",
+  "lvl": "2k",
+  "forms": [
+   "unfamiliar",
+   "familiarity",
+   "familiarise",
+   "familiarly",
+   "familiarisation",
+   "unfamiliarity",
+   "familiarize",
+   "familiarising"
+  ]
+ },
+ {
+  "w": "famous",
+  "lvl": "2k",
+  "forms": [
+   "famously"
+  ]
+ },
+ {
+  "w": "fan",
+  "lvl": "2k",
+  "forms": [
+   "fans",
+   "fanned",
+   "fanning"
+  ]
+ },
+ {
+  "w": "fancy",
+  "lvl": "2k",
+  "forms": [
+   "fancied",
+   "fanciful",
+   "fancies",
+   "fancying",
+   "fancier",
+   "fancifully",
+   "fancifulness",
+   "fancily"
+  ]
+ },
+ {
+  "w": "fantastic",
+  "lvl": "2k",
+  "forms": [
+   "fantastically",
+   "fantastical"
+  ]
+ },
+ {
+  "w": "fashion",
+  "lvl": "2k",
+  "forms": [
+   "fashioned",
+   "fashionable",
+   "fashions",
+   "unfashionable",
+   "fashioning",
+   "fashionably",
+   "unfashionably"
+  ]
+ },
+ {
+  "w": "fault",
+  "lvl": "2k",
+  "forms": [
+   "faults",
+   "faulty",
+   "faultless",
+   "faulted",
+   "faulting",
+   "faultlessly",
+   "faultily",
+   "unfaulted"
+  ]
+ },
+ {
+  "w": "favour",
+  "lvl": "2k",
+  "forms": [
+   "favoured",
+   "favourable",
+   "favours",
+   "favourably",
+   "unfavourable",
+   "favouring",
+   "unfavourably",
+   "favor"
+  ]
+ },
+ {
+  "w": "feather",
+  "lvl": "2k",
+  "forms": [
+   "feathers",
+   "feathered",
+   "feathery",
+   "feathering",
+   "featherless"
+  ]
+ },
+ {
+  "w": "feature",
+  "lvl": "2k",
+  "forms": [
+   "features",
+   "featured",
+   "featuring",
+   "featureless"
+  ]
+ },
+ {
+  "w": "february",
+  "lvl": "2k",
+  "forms": [
+   "feb"
+  ]
+ },
+ {
+  "w": "female",
+  "lvl": "2k",
+  "forms": [
+   "females",
+   "femaleness"
+  ]
+ },
+ {
+  "w": "fence",
+  "lvl": "2k",
+  "forms": [
+   "fences",
+   "fencing",
+   "fenced",
+   "unfenced"
+  ]
+ },
+ {
+  "w": "fetch",
+  "lvl": "2k",
+  "forms": [
+   "fetched",
+   "fetching",
+   "fetches"
+  ]
+ },
+ {
+  "w": "file",
+  "lvl": "2k",
+  "forms": [
+   "files",
+   "filed",
+   "filing",
+   "filings",
+   "unfiled"
+  ]
+ },
+ {
+  "w": "finance",
+  "lvl": "2k",
+  "forms": [
+   "financial",
+   "financing",
+   "financed",
+   "financially",
+   "finances",
+   "financier",
+   "financiers",
+   "financials"
+  ]
+ },
+ {
+  "w": "firm",
+  "lvl": "2k",
+  "forms": [
+   "firmly",
+   "firmer",
+   "firmness",
+   "firmed",
+   "firming",
+   "firmest"
+  ]
+ },
+ {
+  "w": "flag",
+  "lvl": "2k",
+  "forms": [
+   "flags"
+  ]
+ },
+ {
+  "w": "flame",
+  "lvl": "2k",
+  "forms": [
+   "flames",
+   "flaming",
+   "flamed"
+  ]
+ },
+ {
+  "w": "flash",
+  "lvl": "2k",
+  "forms": [
+   "flashed",
+   "flashing",
+   "flashes",
+   "flasher",
+   "flashers"
+  ]
+ },
+ {
+  "w": "flight",
+  "lvl": "2k",
+  "forms": [
+   "flights",
+   "flt",
+   "flightless",
+   "flighty"
+  ]
+ },
+ {
+  "w": "flip",
+  "lvl": "2k",
+  "forms": [
+   "flipped",
+   "flipping",
+   "flips"
+  ]
+ },
+ {
+  "w": "float",
+  "lvl": "2k",
+  "forms": [
+   "floating",
+   "floated",
+   "floats",
+   "floaters",
+   "floaty",
+   "floater",
+   "floatation",
+   "floatations"
+  ]
+ },
+ {
+  "w": "flood",
+  "lvl": "2k",
+  "forms": [
+   "flooding",
+   "flooded",
+   "floods"
+  ]
+ },
+ {
+  "w": "flow",
+  "lvl": "2k",
+  "forms": [
+   "flows",
+   "flowing",
+   "flowed"
+  ]
+ },
+ {
+  "w": "fold",
+  "lvl": "2k",
+  "forms": [
+   "folded",
+   "folds",
+   "folding",
+   "unfolding",
+   "unfolded",
+   "unfold",
+   "unfolds",
+   "refolded"
+  ]
+ },
+ {
+  "w": "folk",
+  "lvl": "2k",
+  "forms": [
+   "folks"
+  ]
+ },
+ {
+  "w": "fool",
+  "lvl": "2k",
+  "forms": [
+   "foolish",
+   "fools",
+   "fooled",
+   "foolishly",
+   "fooling",
+   "foolishness"
+  ]
+ },
+ {
+  "w": "foreign",
+  "lvl": "2k",
+  "forms": [
+   "foreigners",
+   "foreigner",
+   "foreignness"
+  ]
+ },
+ {
+  "w": "forgive",
+  "lvl": "2k",
+  "forms": [
+   "forgiven",
+   "forgiveness",
+   "forgiving",
+   "forgave",
+   "unforgivable",
+   "unforgiving",
+   "unforgiven",
+   "forgives"
+  ]
+ },
+ {
+  "w": "forth",
+  "lvl": "2k",
+  "forms": []
+ },
+ {
+  "w": "fortnight",
+  "lvl": "2k",
+  "forms": [
+   "fortnightly",
+   "fortnights"
+  ]
+ },
+ {
+  "w": "fortune",
+  "lvl": "2k",
+  "forms": [
+   "fortunes"
+  ]
+ },
+ {
+  "w": "fox",
+  "lvl": "2k",
+  "forms": [
+   "foxes",
+   "foxy",
+   "foxed",
+   "foxier",
+   "foxiest",
+   "foxily",
+   "foxiness"
+  ]
+ },
+ {
+  "w": "frame",
+  "lvl": "2k",
+  "forms": [
+   "frames",
+   "framed",
+   "framing",
+   "framers",
+   "framer",
+   "unframed",
+   "framings"
+  ]
+ },
+ {
+  "w": "frankly",
+  "lvl": "2k",
+  "forms": [
+   "frankness",
+   "franker",
+   "frankest"
+  ]
+ },
+ {
+  "w": "frog",
+  "lvl": "2k",
+  "forms": [
+   "frogs",
+   "froggy",
+   "froggies",
+   "froglike"
+  ]
+ },
+ {
+  "w": "frost",
+  "lvl": "2k",
+  "forms": [
+   "frosty",
+   "frosted",
+   "frosts",
+   "frostily",
+   "frosting",
+   "frostiness",
+   "frostier",
+   "frostiest"
+  ]
+ },
+ {
+  "w": "fruit",
+  "lvl": "2k",
+  "forms": [
+   "fruits",
+   "fruitless",
+   "fruity",
+   "fruiting",
+   "fruitlessly",
+   "fruited",
+   "fruiters",
+   "fruitily"
+  ]
+ },
+ {
+  "w": "frustrate",
+  "lvl": "2k",
+  "forms": [
+   "frustration",
+   "frustrated",
+   "frustrating",
+   "frustrations",
+   "frustratingly",
+   "frustrates"
+  ]
+ },
+ {
+  "w": "fry",
+  "lvl": "2k",
+  "forms": [
+   "fried",
+   "frying",
+   "fries",
+   "fryer",
+   "fryers"
+  ]
+ }
+]

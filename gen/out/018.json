@@ -1,0 +1,1702 @@
+[
+{
+"w": "senior",
+"pos": "adj",
+"meaning_ko": "상급의, 손위의, 고령의",
+"example_en": "She was promoted to **senior** manager after five years.",
+"example_ko": "그녀는 5년 만에 선임 매니저로 승진했어.",
+"nuance_ko": "senior는 직급, 나이, 학년이 위인 것을 가리켜요. senior manager(고위 관리자), senior citizen(노인), senior year(미국 대학·고등학교 4학년)처럼 써요. 반대말은 junior예요. 이름 뒤에 Sr.를 붙이면 아버지 쪽을 뜻해서 John Smith Sr.는 부자 동명이인을 구분할 때 쓰여요. senior discount는 노인 할인이에요. 명사로 쓰면 '선배, 고령자'이고 the seniors는 노인들 또는 졸업반이에요. 한국어 '선배'는 senior보다 older student나 colleague로 풀어서 말하는 것이 자연스러워요.",
+"also": [
+{
+"w": "seniors",
+"pos": "n",
+"ko": "노인들, 졸업반",
+"en": "The museum offers free tickets for **seniors**."
+},
+{
+"w": "seniority",
+"pos": "n",
+"ko": "연공서열",
+"en": "Promotions here depend on **seniority**."
+}
+]
+},
+{
+"w": "sentence",
+"pos": "n",
+"meaning_ko": "문장, 형량",
+"example_en": "Please read the first **sentence** of the paragraph aloud.",
+"example_ko": "문단의 첫 문장을 소리 내어 읽어 보세요.",
+"nuance_ko": "sentence는 완결된 문장이면서 법정의 형량이라는 두 가지 뜻이 있어요. 문법에서는 주어와 동사가 있는 한 문장이고, a long sentence는 '긴 문장'이에요. 법에서는 '형을 선고하다'라서 He was sentenced to five years in prison(그는 징역 5년을 선고받았다)처럼 써요. serve a sentence는 '형기를 복역하다'이고 life sentence는 '무기징역'이에요. 문법 용어인 phrase(구)나 clause(절)와 달리 sentence는 독립해서 의미를 완성하는 단위예요.",
+"also": []
+},
+{
+"w": "separate",
+"pos": "adj",
+"meaning_ko": "분리된, 별개의",
+"example_en": "We asked for **separate** checks since we ordered different things.",
+"example_ko": "각자 다른 걸 시켜서 계산서를 따로 달라고 했어.",
+"nuance_ko": "separate는 형용사로 /ˈseprət/, 동사로 /ˈsepəreɪt/로 발음이 달라요. 형용사는 '별개의, 따로따로의'라서 separate rooms(따로따로의 방), a separate issue(별개의 문제)처럼 써요. 동사는 '분리하다, 헤어지다'라서 separate the eggs(달걀을 분리하다), They separated last year(작년에 별거했다)처럼 써요. 철자는 seperate로 많이 틀려서 'a rat'이 들어 있다고 기억하는 사람이 많아요. 부사 separately는 '따로따로'라서 Pay separately(따로 계산하세요)가 자주 쓰여요.",
+"also": [
+{
+"w": "separately",
+"pos": "adv",
+"ko": "따로, 별도로",
+"en": "The files were saved **separately**."
+},
+{
+"w": "separation",
+"pos": "n",
+"ko": "분리, 별거",
+"en": "The **separation** of church and state is a key principle."
+}
+]
+},
+{
+"w": "september",
+"pos": "n",
+"meaning_ko": "9월",
+"example_en": "The new school year begins in **September**.",
+"example_ko": "새 학년은 9월에 시작해.",
+"nuance_ko": "September는 9월이고 항상 대문자로 시작해요. 미국과 영국 모두 학년이 9월에 시작하는 경우가 많아서 back to school의 달이에요. 라틴어로 7을 뜻하는 septem에서 왔는데 옛 로마 달력에서 일곱 번째 달이었기 때문이에요. 달 앞에는 in, 날짜 앞에는 on을 써서 in September, on September 9th처럼 말해요. 줄임말은 Sept. 또는 Sep.이에요. 9·11 사건을 가리킬 때 September 11th를 9/11이라고 말해요.",
+"also": []
+},
+{
+"w": "series",
+"pos": "n",
+"meaning_ko": "시리즈, 연속",
+"example_en": "We watched the whole **series** in one weekend.",
+"example_ko": "우리는 한 주말에 시리즈 전체를 몰아봤어.",
+"nuance_ko": "series는 단수와 복수의 형태가 같아서 a series, two series 모두 가능해요. 연속된 일련의 것이나 드라마 시리즈, 책 시리즈를 가리켜요. a series of ~(일련의 ~)는 복수 명사를 뒤에 써서 a series of events(일련의 사건들)처럼 말해요. 야구에서 the World Series는 월드 시리즈 결승전이에요. TV series와 TV show는 비슷하지만 series는 에피소드들이 이어지는 구성이라는 느낌이 더 강해요.",
+"also": []
+},
+{
+"w": "sew",
+"pos": "v",
+"meaning_ko": "바느질하다, 꿰매다",
+"example_en": "Can you **sew** this button back onto my shirt?",
+"example_ko": "이 단추 셔츠에 다시 좀 달아 줄 수 있어?",
+"nuance_ko": "sew는 바늘과 실로 바느질하는 동사로 /soʊ/로 발음해서 so, sow와 소리가 같아요. 과거형은 sewed, 과거분사는 sewn 또는 sewed예요. sew on a button(단추를 달다), sew up a hole(구멍을 꿰매다)처럼 써요. 비유로 sew up은 '확정짓다, 결말을 내다'라서 sew up a deal은 '거래를 매듭짓다'예요. 상처를 꿰매는 것은 stitch라고도 해요. 명사형은 sewing이라서 sewing machine은 재봉틀이에요.",
+"also": [
+{
+"w": "sewing",
+"pos": "n",
+"ko": "바느질",
+"en": "My grandmother taught me **sewing** when I was little."
+}
+]
+},
+{
+"w": "shade",
+"pos": "n",
+"meaning_ko": "그늘, 색조",
+"example_en": "Let's sit in the **shade** because it's too hot in the sun.",
+"example_ko": "햇볕이 너무 더우니까 그늘에 앉자.",
+"nuance_ko": "shade는 햇빛이 가려진 그늘이에요. in the shade(그늘에서), under the shade of a tree(나무 그늘 아래)처럼 써요. shadow는 물체가 만드는 어두운 모양, shade는 빛이 막혀서 시원하고 어두운 구역을 가리켜요. 색의 짙고 옅은 정도도 shade라서 a darker shade of blue는 '더 짙은 파란색'이에요. 복수 shades는 구어로 '선글라스'예요. 램프 갓도 lampshade라고 하고 throw shade는 미국 속어로 '은근히 비꼬다'라는 뜻이에요.",
+"also": [
+{
+"w": "shady",
+"pos": "adj",
+"ko": "그늘진, 수상한",
+"en": "He seems like a **shady** character."
+}
+]
+},
+{
+"w": "shadow",
+"pos": "n",
+"meaning_ko": "그림자",
+"example_en": "The tree cast a long **shadow** across the lawn.",
+"example_ko": "나무가 잔디밭에 길게 그림자를 드리웠어.",
+"nuance_ko": "shadow는 빛이 물체에 가려져서 바닥이나 벽에 생기는 그림자예요. cast a shadow(그림자를 드리우다), in the shadow of ~(~의 그늘 아래에서)처럼 써요. 비유로는 '그늘, 영향력'이라서 live in someone's shadow는 '누군가의 그늘에서 살다'예요. 동사 shadow는 '미행하다, 뒤따라다니며 배우다'라서 job shadowing은 '직장 체험'이에요. afraid of one's own shadow는 '지나치게 겁이 많은'이라는 관용구예요.",
+"also": [
+{
+"w": "shadowy",
+"pos": "adj",
+"ko": "그림자가 드리운",
+"en": "A **shadowy** figure stood at the end of the alley."
+}
+]
+},
+{
+"w": "shame",
+"pos": "n",
+"meaning_ko": "수치심, 아쉬운 일",
+"example_en": "It's a **shame** that you can't come to the wedding.",
+"example_ko": "결혼식에 못 온다니 아쉬워.",
+"nuance_ko": "shame은 부끄러운 마음 또는 안타까운 일이라는 두 가지 뜻이에요. It's a shame (that) ~은 '~라니 안타깝다'라는 구어 표현이고 What a shame!은 '정말 아쉽다!'예요. 부끄러움을 말할 때는 feel shame, bring shame on ~(~에 수치를 안기다)처럼 써요. Shame on you!는 '부끄러운 줄 알아!'라는 질책이에요. 동사 shame은 '부끄럽게 하다'라서 shame someone into ~ing는 '창피를 줘서 ~하게 하다'예요.",
+"also": [
+{
+"w": "shameful",
+"pos": "adj",
+"ko": "부끄러운",
+"en": "It was a **shameful** way to treat a guest."
+}
+]
+},
+{
+"w": "sharp",
+"pos": "adj",
+"meaning_ko": "날카로운, 급격한",
+"example_en": "Be careful with that knife, it's very **sharp**.",
+"example_ko": "그 칼 조심해, 아주 날카로워.",
+"nuance_ko": "sharp는 날이 날카롭거나 각도·변화가 급격한 것을 가리켜요. sharp knife(날카로운 칼), sharp turn(급커브), sharp rise in prices(가격 급등), sharp pain(찌르는 듯한 통증)처럼 써요. 사람에게 쓰면 '영리한, 눈치 빠른'이라서 a sharp mind는 '예리한 두뇌'예요. 시간 뒤에 붙으면 '정각'이라서 at 3 o'clock sharp는 '3시 정각에'예요. 반대는 dull(무딘)이고 음악에서 sharp는 반음 올린 음(♯)이에요.",
+"also": [
+{
+"w": "sharply",
+"pos": "adv",
+"ko": "급격하게, 날카롭게",
+"en": "Prices fell **sharply** last month."
+},
+{
+"w": "sharpen",
+"pos": "v",
+"ko": "날카롭게 하다",
+"en": "Please **sharpen** the pencils before class."
+}
+]
+},
+{
+"w": "shave",
+"pos": "v",
+"meaning_ko": "면도하다",
+"example_en": "He **shaves** every morning before work.",
+"example_ko": "그는 매일 아침 출근 전에 면도해.",
+"nuance_ko": "shave는 수염이나 털을 칼날로 밀어 깎는 동사예요. shave one's beard(수염을 깎다), shave one's legs(다리 털을 밀다)처럼 써요. 명사로도 쓰이며 a close shave는 '면도가 아주 깨끗이 된 것'이면서 '아슬아슬하게 위기를 넘김'이라는 비유로 쓰여요. 형용사 clean-shaven은 '수염을 깨끗이 민'이에요. shaving cream은 면도 크림, razor는 면도기예요. 한국 학습자는 면도를 do shave로 말하는 실수를 하기 쉬운데 그냥 shave라고 해요.",
+"also": [
+{
+"w": "shaving",
+"pos": "n",
+"ko": "면도",
+"en": "He cut himself while **shaving**."
+}
+]
+},
+{
+"w": "shed",
+"pos": "n",
+"meaning_ko": "헛간, 창고",
+"example_en": "The tools are in the **shed** behind the house.",
+"example_ko": "연장은 집 뒤에 있는 창고에 있어.",
+"nuance_ko": "shed는 집 뒤나 정원에 있는 작은 헛간이에요. garden shed, tool shed처럼 연장이나 잡동사니를 두는 곳이에요. 동사 shed는 전혀 다른 뜻으로 '흘리다, 벗어 버리다'라서 shed tears(눈물을 흘리다), shed light on ~(~를 밝히다), shed weight(체중을 줄이다)처럼 써요. 동물이 털이나 껍질을 벗는 것도 shed예요. 과거형도 shed로 형태가 같아요. 명사와 동사의 뜻이 달라서 문맥으로 구분해요.",
+"also": []
+},
+{
+"w": "sheep",
+"pos": "n",
+"meaning_ko": "양",
+"example_en": "Hundreds of **sheep** were grazing on the hillside.",
+"example_ko": "언덕 비탈에서 수백 마리의 양이 풀을 뜯고 있었어.",
+"nuance_ko": "sheep은 단수와 복수의 형태가 같아서 one sheep, two sheep이에요. sheeps라고 쓰면 틀려요. 새끼 양은 lamb, 양고기는 lamb이고 mutton은 다 자란 양고기예요. 비유로는 남을 따라만 가는 사람을 가리켜서 follow like sheep는 '무리를 맹목적으로 따르다'예요. black sheep은 '집안의 골칫덩이', wolf in sheep's clothing은 '양의 탈을 쓴 늑대'라는 유명한 표현이에요. 잠이 안 올 때 양을 세는 것은 count sheep이에요.",
+"also": []
+},
+{
+"w": "sheet",
+"pos": "n",
+"meaning_ko": "시트, 한 장",
+"example_en": "I need to change the **sheets** on my bed today.",
+"example_ko": "오늘 침대 시트를 갈아야 해.",
+"nuance_ko": "sheet는 얇고 평평한 한 장을 가리켜요. 침대의 시트, 종이 한 장(a sheet of paper), 얇은 판(a sheet of ice)에 모두 써요. 셀 수 있는 명사라서 a sheet, two sheets처럼 센다. 엑셀의 스프레드시트는 spreadsheet이고 balance sheet는 대차대조표예요. clean sheet(무실점 경기)는 축구에서 쓰는 영국식 표현이에요. 비 오는 것을 sheets of rain으로 표현하면 '장대비'예요.",
+"also": []
+},
+{
+"w": "shelf",
+"pos": "n",
+"meaning_ko": "선반",
+"example_en": "Put the books back on the top **shelf**, please.",
+"example_ko": "책은 맨 윗선반에 다시 꽂아 줘.",
+"nuance_ko": "shelf는 벽이나 책장에 달린 선반이에요. 복수는 shelves로 f가 v로 바뀌어요. on the shelf(선반 위에), off the shelf(기성품의), shelf life(유통 기한, 보관 수명)처럼 써요. 비유로 on the shelf는 '보류된, 쓰이지 않는'이라는 뜻이어서 plans on the shelf는 '보류된 계획'이에요. 동사 shelve는 '선반에 얹다' 또는 '보류하다'라서 shelve a plan은 '계획을 접다'예요. 책장 자체는 bookshelf 또는 bookcase라고 해요.",
+"also": [
+{
+"w": "shelves",
+"pos": "n",
+"ko": "선반들",
+"en": "The **shelves** were full of old books."
+},
+{
+"w": "shelve",
+"pos": "v",
+"ko": "보류하다",
+"en": "The company decided to **shelve** the project."
+}
+]
+},
+{
+"w": "shell",
+"pos": "n",
+"meaning_ko": "껍질, 조개껍데기",
+"example_en": "We collected pretty **shells** along the beach.",
+"example_ko": "우리는 해변을 따라 예쁜 조개껍데기를 주웠어.",
+"nuance_ko": "shell은 달걀, 견과류, 조개 등의 딱딱한 껍데기를 가리켜요. eggshell(달걀 껍데기), seashell(조개 껍데기), nutshell(견과 껍질)처럼 합성어가 많아요. in a nutshell은 '한마디로, 요약하자면'이라는 관용 표현이에요. 포탄도 shell이라서 artillery shell은 '포탄'이에요. 컴퓨터에서 shell은 명령어를 입력하는 프로그램이에요. 동사 shell은 '껍질을 까다'라서 shell the peas는 '완두콩 꼬투리를 까다'예요. come out of one's shell은 '낯가림을 벗다'예요.",
+"also": [
+{
+"w": "shells",
+"pos": "n",
+"ko": "껍데기들",
+"en": "The kids filled their buckets with **shells**."
+}
+]
+},
+{
+"w": "shelter",
+"pos": "n",
+"meaning_ko": "피난처, 보호소",
+"example_en": "We found **shelter** from the rain under a bridge.",
+"example_ko": "우리는 다리 밑에서 비를 피할 곳을 찾았어.",
+"nuance_ko": "shelter는 비바람이나 위험을 피할 수 있는 피난처, 쉼터를 가리켜요. take shelter(대피하다), bus shelter(버스 정류장 지붕), animal shelter(동물 보호소), homeless shelter(노숙자 쉼터)처럼 써요. 동사 shelter는 '보호하다, 피하다'라서 shelter from the storm은 '폭풍을 피하다'예요. refuge는 위험을 피해 안전을 찾는 곳이라는 더 강한 느낌이고 shelter는 일시적인 보호 시설에 가까워요. 형용사 sheltered는 '보호받는, 세상 물정 모르는'이라서 a sheltered life는 '곱게 자란 삶'이에요.",
+"also": [
+{
+"w": "sheltered",
+"pos": "adj",
+"ko": "보호받는",
+"en": "The garden is **sheltered** from the wind."
+}
+]
+},
+{
+"w": "shift",
+"pos": "n",
+"meaning_ko": "교대 근무, 변화",
+"example_en": "I'm working the night **shift** all this week.",
+"example_ko": "이번 주 내내 야간 근무를 해.",
+"nuance_ko": "shift는 근무 시간대인 교대 근무, 또는 위치·태도·방향의 변화를 가리켜요. night shift(야간 근무), day shift(주간 근무), a shift in public opinion(여론의 변화)처럼 써요. 동사 shift는 '옮기다, 바뀌다'라서 shift the furniture(가구를 옮기다), shift gears(기어를 변경하다)처럼 써요. 키보드의 Shift 키도 같은 단어예요. paradigm shift(패러다임의 전환)는 큰 사고방식의 변화를 말할 때 자주 쓰여요. change보다 위치나 방향이 옮겨진다는 이미지가 강해요.",
+"also": [
+{
+"w": "shifted",
+"pos": "v",
+"ko": "옮겼다, 바뀌었다",
+"en": "The wind **shifted** suddenly to the north."
+}
+]
+},
+{
+"w": "shine",
+"pos": "v",
+"meaning_ko": "빛나다, 비추다",
+"example_en": "The sun was **shining** brightly when we left home.",
+"example_ko": "집을 나설 때 해가 환하게 빛나고 있었어.",
+"nuance_ko": "shine은 빛을 내거나 반짝이는 동사로 shine-shone-shone으로 활용해요. 구두를 닦는다는 뜻일 때는 shine-shined-shined로 규칙 변화예요. The sun shines, Her eyes shone with joy처럼 써요. 비유로는 '뛰어나다'라서 She really shines in math(그녀는 수학에서 빛난다)처럼 말해요. make hay while the sun shines는 '기회가 있을 때 하라'는 속담이에요. 형용사 shiny는 '반짝이는'이고 shining은 '빛나는'이에요.",
+"also": [
+{
+"w": "shiny",
+"pos": "adj",
+"ko": "반짝이는",
+"en": "She bought a **shiny** new car."
+},
+{
+"w": "shining",
+"pos": "adj",
+"ko": "빛나는",
+"en": "He was a **shining** example for the younger players."
+}
+]
+},
+{
+"w": "shiver",
+"pos": "v",
+"meaning_ko": "몸을 떨다",
+"example_en": "I **shivered** as the cold wind hit my face.",
+"example_ko": "찬 바람이 얼굴에 닿자 몸이 덜덜 떨렸어.",
+"nuance_ko": "shiver는 추위나 공포로 몸을 떠는 동사예요. shiver with cold(추위로 떨다), shiver with fear(두려움에 떨다)처럼 써요. tremble은 공포나 흥분 등으로 부들부들 떨리는 일이고 shiver는 짧고 빠르게 떨리는 느낌이에요. 명사 shiver는 '오싹함'이라서 send shivers down my spine은 '등골이 오싹해지다'라는 관용 표현이에요. 형용사 shivery는 '오한이 나는'이에요. shudder는 갑자기 몸을 확 떠는 동작이에요.",
+"also": [
+{
+"w": "shivering",
+"pos": "adj",
+"ko": "떨고 있는",
+"en": "The **shivering** puppy curled up in a blanket."
+}
+]
+},
+{
+"w": "shock",
+"pos": "n",
+"meaning_ko": "충격, 놀람",
+"example_en": "It was a big **shock** to hear that he was moving away.",
+"example_ko": "그가 이사 간다는 말을 듣고 큰 충격을 받았어.",
+"nuance_ko": "shock은 갑작스러운 충격이나 놀람을 가리켜요. a shock to ~(~에게 충격), in shock(충격 상태인), electric shock(감전)처럼 써요. 의학에서는 쇼크 상태를 뜻하고 culture shock은 '문화 충격'이에요. 동사 shock은 '충격을 주다'라서 shock someone은 '누구를 충격에 빠뜨리다'예요. 감정을 나타낼 때는 shocked(충격 받은), 상황을 설명할 때는 shocking(충격적인)이라서 사람이면 -ed, 사물이면 -ing을 써요.",
+"also": [
+{
+"w": "shocked",
+"pos": "adj",
+"ko": "충격을 받은",
+"en": "I was **shocked** by the news."
+},
+{
+"w": "shocking",
+"pos": "adj",
+"ko": "충격적인",
+"en": "The ending of the film was **shocking**."
+}
+]
+},
+{
+"w": "shore",
+"pos": "n",
+"meaning_ko": "해안, 물가",
+"example_en": "We walked along the **shore** at sunset.",
+"example_ko": "우리는 해 질 녘에 해안을 따라 걸었어.",
+"nuance_ko": "shore는 바다, 호수, 강과 땅이 만나는 물가를 가리켜요. on the shore(물가에서), off shore(앞바다에), shore leave(선원의 상륙 휴가)처럼 써요. coast는 큰 지리적 해안선 전체를 가리키고 shore는 물과 접한 가장자리에 초점이 있어요. beach는 모래·자갈로 된 해변이라는 점이 달라요. offshore는 '해외의, 해상의'라서 offshore account(역외 계좌)처럼 금융에서도 쓰여요. 동사로는 shore up이 '떠받치다, 강화하다'라는 뜻이에요.",
+"also": [
+{
+"w": "shores",
+"pos": "n",
+"ko": "해안",
+"en": "The ship finally reached the **shores** of the island."
+}
+]
+},
+{
+"w": "shove",
+"pos": "v",
+"meaning_ko": "떠밀다, 밀어 넣다",
+"example_en": "Someone **shoved** me in the crowded subway.",
+"example_ko": "붐비는 지하철에서 누가 나를 확 밀쳤어.",
+"nuance_ko": "shove는 거칠게 밀치는 동사예요. push보다 거칠고 무례한 느낌이 있고 사람을 밀 때는 약간 공격적이에요. shove something in a bag(가방에 대충 쑤셔 넣다)처럼 서둘러 넣는 동작에도 써요. shove off는 구어로 '꺼져' 또는 '출발하다'예요. 명사 shove는 '떠밀기'라서 give someone a shove(누군가를 밀다)처럼 말해요. when push comes to shove는 '막다른 상황이 되면'이라는 관용 표현이에요.",
+"also": [
+{
+"w": "shoved",
+"pos": "v",
+"ko": "밀쳤다",
+"en": "He **shoved** the papers into his bag and left."
+}
+]
+},
+{
+"w": "shower",
+"pos": "n",
+"meaning_ko": "샤워, 소나기",
+"example_en": "I'll take a quick **shower** before dinner.",
+"example_ko": "저녁 먹기 전에 얼른 샤워할게.",
+"nuance_ko": "shower는 샤워, 소나기, 그리고 파티의 이름으로도 쓰여요. take a shower(샤워하다), a heavy shower(소나기), baby shower(출산 축하 파티)처럼 써요. 한국 학습자는 샤워를 do a shower로 말하기도 하는데 take a shower 또는 have a shower(영국식)가 맞아요. 동사 shower는 '쏟아붓다'라서 shower someone with gifts(선물 세례를 퍼붓다)처럼 써요. 일기예보에서 scattered showers는 '곳곳의 소나기'라는 뜻이에요.",
+"also": [
+{
+"w": "showers",
+"pos": "n",
+"ko": "소나기들, 샤워 시설",
+"en": "Scattered **showers** are expected this afternoon."
+}
+]
+},
+{
+"w": "signal",
+"pos": "n",
+"meaning_ko": "신호",
+"example_en": "I can't get a **signal** here, so I can't call anyone.",
+"example_ko": "여기서는 신호가 안 잡혀서 아무한테도 전화를 못 해.",
+"nuance_ko": "signal은 의사나 상태를 알리는 신호예요. traffic signal(신호등), phone signal(통화 수신 신호), a signal to start(시작 신호)처럼 써요. 휴대폰에서 No signal은 '신호 없음'이에요. 동사 signal은 '신호를 보내다, 암시하다'라서 signal a turn(방향 지시등을 켜다), signal the end of an era(한 시대의 끝을 알리다)처럼 써요. sign은 눈에 보이는 표지나 징후이고 signal은 특정 의도를 담아 보내는 신호라는 차이가 있어요.",
+"also": [
+{
+"w": "signals",
+"pos": "n",
+"ko": "신호들",
+"en": "The company sent mixed **signals** to investors."
+}
+]
+},
+{
+"w": "silence",
+"pos": "n",
+"meaning_ko": "침묵, 고요",
+"example_en": "An awkward **silence** filled the room after his question.",
+"example_ko": "그의 질문 뒤에 어색한 침묵이 방 안을 채웠어.",
+"nuance_ko": "silence는 소리가 없는 상태 또는 말이 없는 침묵이에요. in silence(조용히), break the silence(침묵을 깨다), a moment of silence(묵념)처럼 써요. quiet은 소리가 적은 상태이고 silence는 소리가 완전히 없는 상태라는 차이가 있어요. 동사 silence는 '조용하게 만들다'라서 silence critics는 '비판을 잠재우다'예요. Silence is golden은 '침묵은 금이다'라는 속담이에요. 형용사는 silent(조용한)로 Silent night(고요한 밤)처럼 쓰여요.",
+"also": [
+{
+"w": "silenced",
+"pos": "v",
+"ko": "침묵시켰다",
+"en": "The powerful speech **silenced** the critics."
+}
+]
+},
+{
+"w": "silver",
+"pos": "n",
+"meaning_ko": "은, 은색",
+"example_en": "She wore a necklace made of **silver** and blue stone.",
+"example_ko": "그녀는 은과 파란 보석으로 만든 목걸이를 하고 있었어.",
+"nuance_ko": "silver는 금속 은 또는 은색을 가리켜요. silver coin(은화), silver medal(은메달), silverware(은 식기류)처럼 써요. 형용사로도 쓰여서 silver hair는 '은발'이에요. 25주년 결혼기념일은 silver anniversary라고 해요. every cloud has a silver lining은 '고난 속에도 희망은 있다'는 유명한 속담이고 born with a silver spoon은 '부잣집에서 태어난'이라는 관용구예요. 구어에서 silver는 올림픽 은메달을 줄여 말하기도 해요.",
+"also": []
+},
+{
+"w": "similar",
+"pos": "adj",
+"meaning_ko": "비슷한, 유사한",
+"example_en": "Our tastes in music are very **similar**.",
+"example_ko": "우리 음악 취향은 아주 비슷해.",
+"nuance_ko": "similar는 똑같지는 않지만 닮은 것을 가리키는 형용사예요. be similar to ~(~와 비슷하다)에서 전치사 to를 쓴다는 점이 중요해요. similar with는 틀린 표현이에요. same은 똑같은 것, similar는 비슷하지만 같지는 않은 것이에요. in a similar way(비슷한 방식으로), similar results(비슷한 결과)처럼 써요. 반대는 different 또는 dissimilar예요. 부사 similarly는 '마찬가지로'라서 글에서 문장을 이을 때 쓰기도 해요.",
+"also": [
+{
+"w": "similarity",
+"pos": "n",
+"ko": "유사성",
+"en": "There's a striking **similarity** between the two cases."
+},
+{
+"w": "similarly",
+"pos": "adv",
+"ko": "마찬가지로",
+"en": "**Similarly**, prices have gone up in many other areas."
+}
+]
+},
+{
+"w": "sink",
+"pos": "v",
+"meaning_ko": "가라앉다, 가라앉히다",
+"example_en": "The boat started to **sink** after hitting the rocks.",
+"example_ko": "배가 바위에 부딪힌 뒤 가라앉기 시작했어.",
+"nuance_ko": "sink는 물에 가라앉거나 서서히 내려가는 동사로 sink-sank-sunk로 불규칙 활용해요. 명사 sink는 '싱크대'라서 kitchen sink는 주방의 싱크대예요. 비유로는 '의기소침해지다, 몰락하다'라서 My heart sank는 '가슴이 철렁했다'예요. sink or swim은 '죽든 살든 해 보자'는 관용구이고 everything but the kitchen sink는 '온갖 것을 다 가져온'이라는 표현이에요. 반대는 float(뜨다)예요.",
+"also": [
+{
+"w": "sunk",
+"pos": "v",
+"ko": "가라앉았다(과거분사)",
+"en": "The ship had **sunk** by morning."
+},
+{
+"w": "sinking",
+"pos": "adj",
+"ko": "가라앉는",
+"en": "He had a **sinking** feeling about the result."
+}
+]
+},
+{
+"w": "site",
+"pos": "n",
+"meaning_ko": "장소, 사이트",
+"example_en": "The construction **site** is closed on weekends.",
+"example_ko": "공사 현장은 주말에는 문을 닫아.",
+"nuance_ko": "site는 어떤 일이 일어나거나 무언가가 있는 장소를 가리켜요. construction site(공사 현장), building site, historical site(사적지)처럼 쓰여요. 웹사이트의 줄임말로도 쓰여서 visit the site는 '그 사이트에 방문하다'예요. sight(시야, 광경)와 cite(인용하다)와 발음이 같아서 받아쓰기에서 주의해요. on site는 '현장에서'라는 뜻이라 on-site training은 '현장 교육'이에요. location이 위치라면 site는 특정 용도의 부지라는 느낌이 강해요.",
+"also": [
+{
+"w": "sites",
+"pos": "n",
+"ko": "장소들, 사이트들",
+"en": "The city has many historical **sites** worth visiting."
+}
+]
+},
+{
+"w": "ski",
+"pos": "n",
+"meaning_ko": "스키",
+"example_en": "We rented **skis** and boots at the resort.",
+"example_ko": "우리는 리조트에서 스키랑 부츠를 빌렸어.",
+"nuance_ko": "ski는 눈 위를 미끄러지는 스키 판이고 동사로는 '스키를 타다'예요. go skiing(스키 타러 가다)처럼 -ing 형태로 많이 쓰고, 한 쌍을 말할 때 a pair of skis라고 해요. 발음은 /skiː/로 '스키'예요. 스노보드는 snowboard, 크로스컨트리 스키는 cross-country skiing이라고 해요. ski resort(스키장), ski lift(리프트), ski slope(스키 슬로프)처럼 합성어가 많아요. 물 위에서 타는 것은 water ski라고 해요.",
+"also": [
+{
+"w": "skiing",
+"pos": "n",
+"ko": "스키 타기",
+"en": "**Skiing** is a popular winter sport here."
+},
+{
+"w": "skier",
+"pos": "n",
+"ko": "스키 타는 사람",
+"en": "The **skier** raced down the mountain."
+}
+]
+},
+{
+"w": "skill",
+"pos": "n",
+"meaning_ko": "기술, 능력",
+"example_en": "Good communication is a very important **skill** at work.",
+"example_ko": "좋은 소통 능력은 직장에서 아주 중요한 기술이야.",
+"nuance_ko": "skill은 연습과 훈련으로 익힌 기술, 능력이에요. language skills, communication skills, technical skills처럼 복수로 자주 써요. ability는 타고난 능력도 포함하지만 skill은 배워서 갖춘 능력이라는 차이가 있어요. 이력서에서 skills 항목에는 갖춘 기술을 나열해요. 형용사 skilled는 '숙련된'이라서 a skilled worker는 '숙련공'이고 반대는 unskilled예요. skillful(숙련된, 솜씨 좋은)은 영국식으로 skilful로 써요.",
+"also": [
+{
+"w": "skilled",
+"pos": "adj",
+"ko": "숙련된",
+"en": "She is a **skilled** photographer."
+},
+{
+"w": "skilful",
+"pos": "adj",
+"ko": "솜씨 좋은(영국식)",
+"en": "The surgeon made a **skilful** repair."
+}
+]
+},
+{
+"w": "skirt",
+"pos": "n",
+"meaning_ko": "치마",
+"example_en": "She wore a long **skirt** and a white blouse.",
+"example_ko": "그녀는 긴 치마에 하얀 블라우스를 입었어.",
+"nuance_ko": "skirt는 허리부터 아래로 내려오는 치마예요. miniskirt(미니스커트), pleated skirt(주름치마), pencil skirt(펜슬 스커트)처럼 종류가 많아요. 동사 skirt는 '가장자리를 따라가다, 피하다'라서 skirt around a problem은 '문제를 둘러 피하다'예요. 사람을 피할 때도 쓰여서 skirt the issue는 '쟁점을 회피하다'예요. 국가 간 이야기를 할 때 skirt는 '변두리'를 뜻하기도 해요. 영국에서는 skirt가 속어로 여성을 가리키기도 해서 쓰지 않는 게 좋아요.",
+"also": []
+},
+{
+"w": "slave",
+"pos": "n",
+"meaning_ko": "노예",
+"example_en": "The museum tells the story of people who were sold as **slaves**.",
+"example_ko": "그 박물관은 노예로 팔려 간 사람들의 이야기를 전해.",
+"nuance_ko": "slave는 자유를 빼앗기고 소유물처럼 부려진 사람, 즉 노예예요. 역사와 인권 문맥에서 쓰는 무거운 단어예요. 비유로는 '~에 얽매인 사람'이라서 a slave to fashion은 '유행의 노예'예요. 동사 slave는 '혹사하며 일하다'라서 slave away는 '뼈 빠지게 일하다'예요. 구어로 I've been slaving over the stove all day는 '하루 종일 요리하느라 고생했다'는 뜻이에요. 명사 slavery는 '노예 제도'라서 abolish slavery는 '노예제를 폐지하다'예요.",
+"also": [
+{
+"w": "slavery",
+"pos": "n",
+"ko": "노예 제도",
+"en": "**Slavery** was abolished in the nineteenth century."
+}
+]
+},
+{
+"w": "slide",
+"pos": "v",
+"meaning_ko": "미끄러지다, 슬라이드",
+"example_en": "The kids love to **slide** down the hill in winter.",
+"example_ko": "애들은 겨울에 언덕에서 미끄럼 타는 걸 좋아해.",
+"nuance_ko": "slide는 매끄러운 표면 위를 미끄러지는 동사로 slide-slid-slid로 활용해요. 놀이터의 미끄럼틀도 slide이고, 발표 자료의 한 장도 slide예요. slide into home(홈으로 슬라이딩하다), slide the door open(문을 밀어 열다)처럼 써요. 비유로는 점점 나빠지는 상황을 가리켜서 let it slide는 '그냥 넘어가다'라는 구어 표현이에요. slip은 의도하지 않고 미끄러지는 것이고 slide는 의도적이기도 한 미끄러짐이라는 차이가 있어요.",
+"also": [
+{
+"w": "sliding",
+"pos": "adj",
+"ko": "미끄러지는",
+"en": "The house has a large **sliding** glass door."
+}
+]
+},
+{
+"w": "smart",
+"pos": "adj",
+"meaning_ko": "똑똑한, 맵시 있는",
+"example_en": "That was a **smart** move to leave early and avoid traffic.",
+"example_ko": "일찍 출발해서 교통 체증을 피한 건 영리한 선택이었어.",
+"nuance_ko": "smart는 머리가 좋거나 판단이 영리한 것을 가리키는 형용사예요. 미국에서는 intelligent보다 구어에서 훨씬 자주 쓰이고, 영국에서는 '옷차림이 말끔한'이라는 뜻으로도 써요. a smart idea, a smart decision처럼 영리한 선택을 칭찬할 때 좋아요. 기기에 붙으면 '스마트'라서 smartphone, smart TV처럼 인터넷과 연결되고 자동화된 것을 말해요. clever는 재치 있고 머리 회전이 빠른 느낌이고 smart는 지식과 판단력까지 포함해요.",
+"also": [
+{
+"w": "smartly",
+"pos": "adv",
+"ko": "말쑥하게, 영리하게",
+"en": "He was **smartly** dressed for the interview."
+}
+]
+},
+{
+"w": "smash",
+"pos": "v",
+"meaning_ko": "박살내다, 부수다",
+"example_en": "A ball **smashed** the window of the car.",
+"example_ko": "공이 날아와서 차 유리창을 박살 냈어.",
+"nuance_ko": "smash는 세게 부딪혀서 깨뜨리거나 부수는 동사예요. break보다 힘이 세고 소리가 큰 느낌이 있어요. smash a window(유리창을 깨다), smash into a wall(벽에 들이받다)처럼 써요. 비유로는 기록을 깨거나 크게 성공한다는 뜻이라 a smash hit은 '대히트작'이에요. smash a record는 '기록을 깨다'예요. 명사 smash는 '박살남, 충돌'이에요. 형용사 smashing은 영국 구어로 '아주 멋진'이라는 뜻이에요.",
+"also": [
+{
+"w": "smashed",
+"pos": "v",
+"ko": "박살 냈다",
+"en": "He **smashed** the plate on the floor."
+},
+{
+"w": "smashing",
+"pos": "adj",
+"ko": "멋진(영국 구어)",
+"en": "That's a **smashing** idea!"
+}
+]
+},
+{
+"w": "smooth",
+"pos": "adj",
+"meaning_ko": "매끄러운, 순조로운",
+"example_en": "The road is **smooth** and easy to drive on.",
+"example_ko": "길이 매끄러워서 운전하기 편해.",
+"nuance_ko": "smooth는 표면이 울퉁불퉁하지 않고 매끄러운 것을 가리키는 형용사예요. smooth skin(매끈한 피부), a smooth ride(부드러운 승차감)처럼 써요. 일이 순조롭게 진행될 때도 쓰여서 a smooth process는 '매끄러운 진행'이에요. 맛에서는 '부드러운'이라서 smooth coffee나 smooth wine처럼 써요. 사람에게 쓰면 '말솜씨가 능청스러운'이라는 뜻일 수 있어서 a smooth talker는 '말 잘하는 사람'이면서 약간 의심스러운 느낌도 있어요. 동사 smooth는 '매끄럽게 하다'예요.",
+"also": [
+{
+"w": "smoothly",
+"pos": "adv",
+"ko": "순조롭게, 매끄럽게",
+"en": "The meeting went **smoothly**."
+},
+{
+"w": "smoothed",
+"pos": "v",
+"ko": "매끄럽게 폈다",
+"en": "She **smoothed** the tablecloth with her hand."
+}
+]
+},
+{
+"w": "snake",
+"pos": "n",
+"meaning_ko": "뱀",
+"example_en": "We saw a **snake** crossing the path on our hike.",
+"example_ko": "하이킹하다가 길을 가로지르는 뱀을 봤어.",
+"nuance_ko": "snake는 뱀이고 독이 있는 뱀은 poisonous snake 또는 venomous snake라고 해요. 사람에게 쓰면 '교활하고 믿을 수 없는 사람'이라서 He's a snake in the grass는 '풀 속에 숨은 뱀, 믿을 수 없는 배신자'라는 관용구예요. 동사 snake는 '뱀처럼 구불구불 나아가다'라서 The road snakes through the mountains는 '길이 산을 굽이굽이 지나간다'예요. snake oil은 '가짜 만능 약, 사기성 제품'을 비꼬는 말이에요. snakes and ladders는 '뱀 사다리 게임'이에요.",
+"also": [
+{
+"w": "snakes",
+"pos": "n",
+"ko": "뱀들",
+"en": "There are many harmless **snakes** in this park."
+}
+]
+},
+{
+"w": "snap",
+"pos": "v",
+"meaning_ko": "딱 부러지다, 찰칵 찍다",
+"example_en": "The branch **snapped** under the weight of the snow.",
+"example_ko": "눈의 무게를 못 이기고 가지가 뚝 부러졌어.",
+"nuance_ko": "snap은 갑자기 딱 소리를 내며 부러지거나 끊어지는 동작이에요. snap a twig(나뭇가지를 꺾다), snap one's fingers(손가락을 튕기다)처럼 써요. 감정이 폭발할 때도 써서 He snapped at me는 '그가 나한테 버럭 화를 냈다'예요. 사진을 찍는 것도 snap이라서 snap a photo는 '사진을 찰칵 찍다'예요. 명사 snap은 '딱 소리'와 '스냅 사진'이에요. in a snap은 '순식간에'라는 표현이고 snap out of it은 '정신 차려'라는 구어예요.",
+"also": [
+{
+"w": "snapped",
+"pos": "v",
+"ko": "딱 부러졌다, 화냈다",
+"en": "She **snapped** at her brother for no reason."
+}
+]
+},
+{
+"w": "social",
+"pos": "adj",
+"meaning_ko": "사회적인, 사교적인",
+"example_en": "He's very **social** and loves meeting new people.",
+"example_ko": "그는 사교적이어서 새로운 사람 만나는 걸 좋아해.",
+"nuance_ko": "social은 사회에 관한 것 또는 사람들과 어울리는 것을 가리키는 형용사예요. social media(소셜 미디어), social life(사교 생활), social problems(사회 문제), social skills(사회성)처럼 써요. 사람에게 쓰면 '사교적인'이라서 a social person은 '사람들과 잘 어울리는 사람'이에요. 반대는 antisocial로 '반사회적인' 또는 '비사교적인'이라는 뜻이어서 의미 구분이 필요해요. society는 명사이고 social은 형용사라는 점도 구분해요.",
+"also": [
+{
+"w": "socially",
+"pos": "adv",
+"ko": "사회적으로, 사교적으로",
+"en": "He's not very good at mixing **socially**."
+},
+{
+"w": "antisocial",
+"pos": "adj",
+"ko": "반사회적인, 비사교적인",
+"en": "Loud parties late at night are **antisocial**."
+}
+]
+},
+{
+"w": "society",
+"pos": "n",
+"meaning_ko": "사회, 협회",
+"example_en": "Education plays a key role in modern **society**.",
+"example_ko": "교육은 현대 사회에서 핵심 역할을 해.",
+"nuance_ko": "society는 사람들이 함께 사는 사회 전체 또는 공통 관심사로 모인 단체를 가리켜요. modern society(현대 사회), a member of society(사회 구성원), the Royal Society(영국 왕립 학회)처럼 써요. 대학에는 society라는 동아리가 있어서 the chess society는 체스 동아리예요. community가 지역 공동체라면 society는 더 큰 사회적 개념이에요. high society는 '상류 사회'예요. 형용사는 social이고 societal은 '사회의, 사회적인'으로 학술적인 글에 자주 나와요.",
+"also": [
+{
+"w": "societies",
+"pos": "n",
+"ko": "사회들, 협회들",
+"en": "Different **societies** have different customs."
+}
+]
+},
+{
+"w": "sock",
+"pos": "n",
+"meaning_ko": "양말",
+"example_en": "I can't find my other **sock**, so I'll wear a different pair.",
+"example_ko": "짝이 되는 양말 한 짝을 못 찾겠어서 다른 걸 신을래.",
+"nuance_ko": "sock은 발에 신는 양말이고 보통 한 켤레는 a pair of socks라고 말해요. 한 짝은 a sock이에요. 한국어의 '양말'과 달리 영어에서는 단수·복수를 구분하기 때문에 pair를 붙이는 점을 기억해요. put a sock in it은 영국 구어로 '조용히 해'라는 표현이고 knock someone's socks off는 '놀라서 입이 떡 벌어지게 하다'예요. 동사 sock은 구어로 '세게 치다'라서 sock someone in the face는 '얼굴에 한 방 날리다'예요.",
+"also": [
+{
+"w": "socks",
+"pos": "n",
+"ko": "양말",
+"en": "These wool **socks** keep my feet warm."
+}
+]
+},
+{
+"w": "soil",
+"pos": "n",
+"meaning_ko": "흙, 토양",
+"example_en": "The plants grow well in rich, dark **soil**.",
+"example_ko": "식물은 기름지고 어두운 흙에서 잘 자라.",
+"nuance_ko": "soil은 식물이 자라는 흙, 토양이에요. rich soil(비옥한 땅), topsoil(표토), soil erosion(토양 침식)처럼 써요. dirt는 옷이나 몸에 묻는 더러운 흙이고 soil은 농업과 자연 맥락에서 쓰는 흙이라는 차이가 있어요. 비유로 on foreign soil은 '타국 땅에서'라는 표현이에요. 동사 soil은 '더럽히다'라서 soiled clothes는 '더러워진 옷'이에요. ground는 땅 표면, soil은 그 속의 흙이라는 구분도 있어요.",
+"also": [
+{
+"w": "soils",
+"pos": "n",
+"ko": "토양들",
+"en": "Different crops need different **soils**."
+}
+]
+},
+{
+"w": "soldier",
+"pos": "n",
+"meaning_ko": "군인, 병사",
+"example_en": "The **soldier** returned home after two years overseas.",
+"example_ko": "그 군인은 2년간의 해외 복무를 마치고 집으로 돌아왔어.",
+"nuance_ko": "soldier는 군대에서 복무하는 군인을 가리켜요. 일반적으로 육군 병사를 뜻하고, 해군은 sailor, 공군은 airman이라고 구분하기도 해요. an old soldier, soldier on(꿋꿋이 계속하다)처럼 써요. soldier on은 힘들어도 포기하지 않고 계속한다는 구어 표현이라 직장에서 자주 써요. 발음은 /ˈsoʊldʒər/로 'ldi'가 '울져'처럼 들려서 철자와 다르게 읽는 점이 한국 학습자의 함정이에요. 직업 군인은 professional soldier라고 해요.",
+"also": [
+{
+"w": "soldiers",
+"pos": "n",
+"ko": "군인들",
+"en": "Thousands of **soldiers** marched through the capital."
+}
+]
+},
+{
+"w": "solid",
+"pos": "adj",
+"meaning_ko": "단단한, 탄탄한",
+"example_en": "The water turned into **solid** ice overnight.",
+"example_ko": "물이 밤새 단단한 얼음이 되었어.",
+"nuance_ko": "solid는 액체나 기체가 아닌 단단한 상태 또는 속이 꽉 찬 것을 가리켜요. solid ground(단단한 땅), solid gold(순금), a solid foundation(탄탄한 기반)처럼 써요. 비유로 '믿을 만한, 확실한'이라는 뜻이 있어서 solid evidence는 '확실한 증거', a solid performance는 '안정적인 연기'예요. 구어에서 Solid!는 '좋았어, 훌륭해!'라는 칭찬으로 쓰이기도 해요. 명사 solid는 '고체'로 solids and liquids(고체와 액체)처럼 과학 맥락에서 써요.",
+"also": [
+{
+"w": "solidly",
+"pos": "adv",
+"ko": "단단히, 탄탄하게",
+"en": "The team played **solidly** all season."
+}
+]
+},
+{
+"w": "somewhat",
+"pos": "adv",
+"meaning_ko": "다소, 약간",
+"example_en": "The results were **somewhat** disappointing.",
+"example_ko": "결과는 다소 실망스러웠어.",
+"nuance_ko": "somewhat은 정도가 어느 정도 있다는 뜻의 부사로 '약간, 다소'예요. a bit이나 rather와 비슷하지만 somewhat은 격식 있고 부드럽게 정도를 낮춰 말할 때 좋아요. somewhat different(다소 다른), somewhat surprised(약간 놀란)처럼 형용사 앞에 자주 와요. 부정적인 내용을 완곡하게 표현할 때 유용해서 업무 메일이나 뉴스에서 흔하게 보여요. more than somewhat은 '상당히'라는 반어적 표현이고 somewhat of a ~는 '다소 ~같은'이에요.",
+"also": []
+},
+{
+"w": "sore",
+"pos": "adj",
+"meaning_ko": "아픈, 쓰린",
+"example_en": "My legs are **sore** after yesterday's long run.",
+"example_ko": "어제 오래 달려서 다리가 쑤셔.",
+"nuance_ko": "sore는 근육통이나 염증 때문에 만지면 아프거나 욱신거리는 상태를 가리키는 형용사예요. sore throat(목 아픔), sore muscles(근육통), sore eyes처럼 써요. pain이나 ache보다 만지거나 쓸 때 아픈 느낌이에요. a sore loser는 '지고 나서 분해하는 사람'을 가리키는 관용 표현이에요. stick out like a sore thumb는 '눈에 확 띄다'라는 뜻이에요. 명사 sore는 '상처, 염증'이라서 cold sore는 '입술 포진'이에요.",
+"also": [
+{
+"w": "sores",
+"pos": "n",
+"ko": "상처들, 염증들",
+"en": "The patient had painful **sores** on his feet."
+}
+]
+},
+{
+"w": "sorted",
+"pos": "adj",
+"meaning_ko": "해결된, 정리된",
+"example_en": "Don't worry, everything is **sorted** and ready to go.",
+"example_ko": "걱정 마, 다 정리돼서 준비 끝났어.",
+"nuance_ko": "sorted는 sort(분류하다)의 과거분사지만 영국 구어에서 '해결된, 준비된'이라는 뜻으로 많이 써요. Sorted!는 '해결됐어!'라는 가벼운 감탄이고 Are you sorted for the trip?은 '여행 준비 다 됐어?'예요. sort out은 '정리하다, 해결하다'라서 sort out a problem은 '문제를 해결하다'예요. 컴퓨터에서 sorted list는 '정렬된 목록'이에요. 미국 영어에서는 해결됐다는 뜻으로 쓰지 않으니 영국식 구어라는 점을 알아 두세요.",
+"also": [
+{
+"w": "sorting",
+"pos": "n",
+"ko": "분류, 정리",
+"en": "**Sorting** the mail takes about an hour."
+}
+]
+},
+{
+"w": "soul",
+"pos": "n",
+"meaning_ko": "영혼, 마음",
+"example_en": "She put her heart and **soul** into the project.",
+"example_ko": "그녀는 그 프로젝트에 온 정성을 쏟았어.",
+"nuance_ko": "soul은 사람의 영혼 또는 마음 깊은 곳의 본질을 가리켜요. heart and soul(몸과 마음을 다해), a kind soul(마음씨 좋은 사람)처럼 써요. 음악 장르 soul은 감정이 깊이 배어난 음악이고 soul food는 미국 남부 흑인 문화의 전통 음식이에요. 구어에서 soul은 '사람'이라는 뜻으로도 쓰여서 Not a soul was there는 '아무도 없었다'예요. poor soul은 '불쌍한 사람'이에요. 형용사 soulful은 '감정이 깊은'이에요.",
+"also": [
+{
+"w": "souls",
+"pos": "n",
+"ko": "영혼들, 사람들",
+"en": "Not a soul was in sight."
+},
+{
+"w": "soulful",
+"pos": "adj",
+"ko": "감정이 풍부한",
+"en": "She sang a **soulful** ballad."
+}
+]
+},
+{
+"w": "soup",
+"pos": "n",
+"meaning_ko": "수프, 국",
+"example_en": "I made a big pot of vegetable **soup** for dinner.",
+"example_ko": "저녁으로 야채 수프를 큰 냄비 가득 끓였어.",
+"nuance_ko": "soup은 국물이 있는 수프를 가리켜요. 한국어의 국이나 찌개도 영어로는 soup 또는 stew로 번역돼요. 국물이 많고 맑으면 soup, 걸쭉하고 건더기가 많으면 stew라고 구분해요. 숟가락으로 먹는 음식이라서 eat soup 대신 have soup이라고 말하는 경우가 많아요. 먹을 때는 drink soup보다 eat soup이 일반적이에요. in the soup는 구어로 '곤경에 빠진'이라는 뜻이고 from soup to nuts는 '처음부터 끝까지'라는 관용구예요.",
+"also": []
+},
+{
+"w": "southern",
+"pos": "adj",
+"meaning_ko": "남쪽의, 남부의",
+"example_en": "She has a **southern** accent that is easy to recognize.",
+"example_ko": "그녀는 알아듣기 쉬운 남부 억양을 갖고 있어.",
+"nuance_ko": "southern은 남쪽에 있거나 남쪽에서 온 것을 가리키는 형용사예요. southern Italy(이탈리아 남부), southern hospitality(미국 남부의 친절)처럼 써요. 미국에서는 특히 남부 사투리나 문화를 가리킬 때 Southern을 대문자로 써요. Southern Hemisphere는 '남반구'이고 Southern Cross는 '남십자성'이에요. 반대는 northern이고 같은 방향 계열로 eastern(동쪽의), western(서쪽의)도 있어요. 발음은 /ˈsʌðərn/으로 th가 유성음이라는 점이 함정이에요.",
+"also": [
+{
+"w": "southerner",
+"pos": "n",
+"ko": "남부 사람",
+"en": "As a **southerner**, he loves warm weather."
+}
+]
+},
+{
+"w": "spare",
+"pos": "adj",
+"meaning_ko": "여분의, 남는",
+"example_en": "Do you have a **spare** charger I could borrow?",
+"example_ko": "혹시 빌릴 수 있는 여분의 충전기 있어?",
+"nuance_ko": "spare는 예비로 남겨 둔 여분의 것을 가리키는 형용사예요. spare key(여분 열쇠), spare room(남는 방), spare time(여가 시간), spare tire(스페어 타이어)처럼 써요. 동사 spare는 '아끼다, 면하게 하다'라서 spare no expense는 '비용을 아끼지 않다', Spare me the details는 '자세한 건 말하지 마'예요. can you spare a minute?은 '잠깐 시간 낼 수 있어?'라는 구어 표현이에요. 명사로는 '예비품'이라서 a spare는 스페어 타이어를 가리키기도 해요.",
+"also": [
+{
+"w": "spared",
+"pos": "v",
+"ko": "면했다, 아꼈다",
+"en": "The town was **spared** by the storm."
+}
+]
+},
+{
+"w": "species",
+"pos": "n",
+"meaning_ko": "종, 생물종",
+"example_en": "Many **species** of birds are in danger of disappearing.",
+"example_ko": "많은 조류 종이 멸종 위기에 처해 있어.",
+"nuance_ko": "species는 생물학에서 생물을 분류하는 단위인 '종'이에요. 단수와 복수가 같아서 one species, two species예요. specie는 다른 단어로 '경화(硬貨)'를 뜻하므로 단수형으로 쓰지 않아요. endangered species(멸종 위기종), invasive species(외래종), a new species(신종)처럼 써요. 인간은 Homo sapiens라는 species이고 the human species는 '인류'를 가리켜요. 환경과 과학 기사에서 아주 자주 만나는 단어예요.",
+"also": [
+{
+"w": "subspecies",
+"pos": "n",
+"ko": "아종",
+"en": "This tiger is a rare **subspecies**."
+}
+]
+},
+{
+"w": "specific",
+"pos": "adj",
+"meaning_ko": "구체적인, 특정한",
+"example_en": "Can you be more **specific** about what went wrong?",
+"example_ko": "뭐가 잘못됐는지 좀 더 구체적으로 말해 줄래?",
+"nuance_ko": "specific은 막연하지 않고 구체적이거나 특정한 것을 가리키는 형용사예요. a specific time(특정한 시간), specific instructions(구체적인 지시), be specific about ~(~에 대해 구체적으로 말하다)처럼 써요. particular와 비슷하지만 specific은 다른 것과 구분되는 정확한 하나를 가리키는 느낌이에요. 반대는 general(일반적인)이에요. 복수 명사 specifics는 '세부 사항'이라서 Let's discuss the specifics는 '세부 사항을 얘기해 보자'예요. specific to ~는 '~에 특유한'이에요.",
+"also": [
+{
+"w": "specifically",
+"pos": "adv",
+"ko": "구체적으로, 특별히",
+"en": "I asked for that room **specifically**."
+},
+{
+"w": "specification",
+"pos": "n",
+"ko": "명세, 사양",
+"en": "The **specification** lists every required feature."
+}
+]
+},
+{
+"w": "speech",
+"pos": "n",
+"meaning_ko": "연설, 말",
+"example_en": "The mayor gave a short **speech** at the opening ceremony.",
+"example_ko": "시장은 개막식에서 짧은 연설을 했어.",
+"nuance_ko": "speech는 사람들 앞에서 하는 연설을 가리키고, 말하는 능력이나 말투를 뜻하기도 해요. give a speech(연설하다), freedom of speech(언론·표현의 자유), speech therapy(언어 치료)처럼 써요. 동사 speak의 명사형이지만 철자가 speak와 다르게 speech라서 speak → speech의 형태 변화를 주의해요. 연설은 presentation보다 더 공식적이고 감정에 호소하는 느낌이 있어요. 형용사 speechless는 '말문이 막힌'이라서 I was speechless는 '할 말을 잃었어'예요.",
+"also": [
+{
+"w": "speechless",
+"pos": "adj",
+"ko": "말문이 막힌",
+"en": "The gift left her **speechless**."
+}
+]
+},
+{
+"w": "speed",
+"pos": "n",
+"meaning_ko": "속도, 빠르기",
+"example_en": "The driver was going well over the **speed** limit.",
+"example_ko": "운전자는 제한 속도를 훌쩍 넘겨 달리고 있었어.",
+"nuance_ko": "speed는 움직이는 빠르기를 말하며 speed limit(제한 속도), high speed(고속), at full speed(전속력으로)처럼 써요. velocity는 방향까지 포함한 물리학 용어이고 speed는 일반적인 빠르기예요. 동사 speed는 '빠르게 가다'이고 과거형은 sped 또는 speeded예요. speed up(속도를 높이다), slow down(속도를 줄이다)처럼 구동사로 자주 써요. 구어에서 up to speed는 '최신 정보를 아는'이라서 get up to speed는 '파악하다, 따라잡다'예요.",
+"also": [
+{
+"w": "speeding",
+"pos": "n",
+"ko": "과속",
+"en": "He got a ticket for **speeding**."
+},
+{
+"w": "speedy",
+"pos": "adj",
+"ko": "빠른",
+"en": "We wish you a **speedy** recovery."
+}
+]
+},
+{
+"w": "spell",
+"pos": "v",
+"meaning_ko": "철자를 쓰다, 말하다",
+"example_en": "How do you **spell** your last name?",
+"example_ko": "성의 철자가 어떻게 돼요?",
+"nuance_ko": "spell은 단어를 글자 단위로 쓰거나 말하는 동사예요. How do you spell ~?은 '~는 철자가 어떻게 돼?'라는 질문으로 일상에서 자주 써요. Can you spell that for me?는 '그 철자를 불러 줄래요?'예요. spell은 과거형으로 spelled와 spelt(영국식)가 있어요. 명사로는 '주문, 마법'과 '한동안의 기간'이라는 뜻도 있어서 cast a spell(마법을 걸다), a cold spell(한파 기간)처럼 써요. spell out은 '자세히 설명하다'라는 구동사예요.",
+"also": [
+{
+"w": "spelling",
+"pos": "n",
+"ko": "철자",
+"en": "My **spelling** has improved a lot this year."
+},
+{
+"w": "misspelled",
+"pos": "adj",
+"ko": "철자가 틀린",
+"en": "I noticed a **misspelled** word in the title."
+}
+]
+},
+{
+"w": "spin",
+"pos": "v",
+"meaning_ko": "돌리다, 회전하다",
+"example_en": "The kids love to **spin** around until they get dizzy.",
+"example_ko": "아이들은 어지러워질 때까지 빙글빙글 도는 걸 좋아해.",
+"nuance_ko": "spin은 빠르게 빙글빙글 돌거나 돌리는 동사로 spin-spun-spun으로 활용해요. spin a coin(동전을 돌리다), spin a web(거미줄을 치다), spin yarn(실을 잣다)처럼 써요. 비유로 spin a story는 '이야기를 지어내다'이고 정치에서 spin은 사실을 유리하게 포장하는 일이라서 spin doctor는 '홍보 전문가'예요. 내 머리가 빙빙 도는 느낌은 My head is spinning이라고 말해요. spin class는 실내 자전거를 타는 운동 수업이에요.",
+"also": [
+{
+"w": "spinning",
+"pos": "adj",
+"ko": "돌아가는",
+"en": "The **spinning** wheel kept turning slowly."
+}
+]
+},
+{
+"w": "spirit",
+"pos": "n",
+"meaning_ko": "정신, 영혼",
+"example_en": "The team showed great **spirit** even though they lost.",
+"example_ko": "그 팀은 졌어도 대단한 투지를 보여 줬어.",
+"nuance_ko": "spirit은 영혼, 정신, 기운을 가리키는 단어예요. team spirit(팀 정신), in good spirits(기분이 좋은), the spirit of the law(법의 취지)처럼 써요. 복수 spirits는 '증류주'이면서 '기분'이라서 문맥으로 구분해요. 유령 같은 존재를 가리킬 때도 쓰여서 evil spirits는 '악령'이에요. 형용사 spiritual은 '영적인'이라서 spiritual leader는 '종교 지도자'예요. Christmas spirit은 크리스마스의 정신, 즉 나눔과 따뜻한 마음을 뜻해요.",
+"also": [
+{
+"w": "spiritual",
+"pos": "adj",
+"ko": "영적인",
+"en": "Many people seek **spiritual** comfort in nature."
+},
+{
+"w": "spirits",
+"pos": "n",
+"ko": "기분, 증류주",
+"en": "Her **spirits** lifted when she saw the sun."
+}
+]
+},
+{
+"w": "split",
+"pos": "v",
+"meaning_ko": "나누다, 갈라지다",
+"example_en": "Let's **split** the bill evenly between the four of us.",
+"example_ko": "넷이서 계산서를 똑같이 나눠 내자.",
+"nuance_ko": "split은 하나를 둘 이상으로 쪼개거나 나누는 동사로 split-split-split로 변하지 않아요. split the bill(계산을 나누다), split the cost(비용을 나누다)처럼 구어에서 자주 써요. 관계가 갈라질 때도 써서 They split up은 '그들은 헤어졌다'예요. 의견이 갈릴 때는 The committee was split(위원회 의견이 갈렸다)처럼 쓰여요. 명사 split은 '분열, 갈라진 틈'이고 a split second는 '찰나의 순간'이라는 표현이에요. 바나나 스플릿처럼 디저트 이름에도 나와요.",
+"also": [
+{
+"w": "splitting",
+"pos": "adj",
+"ko": "쪼개지는",
+"en": "I have a **splitting** headache."
+}
+]
+},
+{
+"w": "spoil",
+"pos": "v",
+"meaning_ko": "망치다, 버릇없게 하다",
+"example_en": "Don't **spoil** the surprise by telling her.",
+"example_ko": "그녀에게 말해서 깜짝 이벤트를 망치지 마.",
+"nuance_ko": "spoil은 뜻이 크게 세 가지예요. 계획이나 기분을 망치는 것, 음식이 상하는 것, 아이를 너무 오냐오냐해서 버릇없게 만드는 것이에요. spoil the fun(재미를 망치다), spoil a child(아이를 버릇없게 키우다), The milk spoiled(우유가 상했다)처럼 써요. 과거형은 spoiled(미국)와 spoilt(영국) 둘 다 가능해요. 영화나 드라마에서 줄거리를 미리 말해 흥을 깨는 것은 spoiler(스포일러)예요. spoiled brat은 '버릇없는 아이'라는 구어예요.",
+"also": [
+{
+"w": "spoiled",
+"pos": "adj",
+"ko": "버릇없는, 상한",
+"en": "He's a **spoiled** kid who never says thank you."
+},
+{
+"w": "spoiler",
+"pos": "n",
+"ko": "스포일러",
+"en": "No **spoilers**, I haven't seen the finale yet!"
+}
+]
+},
+{
+"w": "spray",
+"pos": "n",
+"meaning_ko": "분무, 스프레이",
+"example_en": "She used a **spray** to keep the mosquitoes away.",
+"example_ko": "그녀는 모기를 쫓으려고 스프레이를 썼어.",
+"nuance_ko": "spray는 작은 물방울이나 입자를 흩뿌리는 분무, 또는 그렇게 뿜는 용기예요. hair spray(헤어스프레이), insect spray(방충 스프레이), sea spray(파도의 물보라)처럼 써요. 동사 spray는 '뿌리다'라서 spray the plants with water는 '식물에 물을 뿌리다'예요. 페인트를 뿌리는 spray paint나 낙서(graffiti)를 그리는 도구로도 쓰여요. 총알을 난사하는 것도 spray라서 spray bullets는 '총알을 난사하다'예요.",
+"also": [
+{
+"w": "sprayed",
+"pos": "v",
+"ko": "뿌렸다",
+"en": "He **sprayed** the walls with white paint."
+}
+]
+},
+{
+"w": "spread",
+"pos": "v",
+"meaning_ko": "퍼지다, 펼치다",
+"example_en": "The news **spread** quickly through the whole school.",
+"example_ko": "그 소식은 학교 전체에 순식간에 퍼졌어.",
+"nuance_ko": "spread는 퍼뜨리거나 펼치거나 바르는 동사로 spread-spread-spread로 변하지 않아요. spread a rumor(소문을 퍼뜨리다), spread butter on bread(빵에 버터를 바르다), spread out a map(지도를 펼치다)처럼 써요. 질병이나 소문이 번질 때 spread가 자주 쓰여요. 명사 spread는 '확산'이고 잼처럼 바르는 것도 spread라서 cheese spread는 '바르는 치즈'예요. spread oneself too thin은 '너무 많은 일을 벌이다'라는 관용구예요.",
+"also": [
+{
+"w": "spreading",
+"pos": "v",
+"ko": "퍼지고 있는",
+"en": "The fire is **spreading** quickly across the hill."
+}
+]
+},
+{
+"w": "stable",
+"pos": "adj",
+"meaning_ko": "안정된, 변하지 않는",
+"example_en": "The patient's condition is **stable** now.",
+"example_ko": "환자의 상태는 지금 안정돼 있어.",
+"nuance_ko": "stable은 흔들리거나 변하지 않고 안정된 것을 가리키는 형용사예요. a stable job(안정된 직업), stable prices(안정된 물가), a stable relationship(안정된 관계)처럼 써요. 반대는 unstable이고 명사 stability는 '안정성'이에요. 명사 stable은 '마구간'이라서 horse stable은 말을 기르는 곳이에요. 병원에서 stable은 환자가 위급하지 않고 상태가 유지되고 있다는 뜻이에요. steady는 일정하게 지속되는 것이고 stable은 흔들리지 않는 것이라는 미묘한 차이가 있어요.",
+"also": [
+{
+"w": "stability",
+"pos": "n",
+"ko": "안정성",
+"en": "The country needs political **stability**."
+},
+{
+"w": "unstable",
+"pos": "adj",
+"ko": "불안정한",
+"en": "The ladder looked **unstable**."
+}
+]
+},
+{
+"w": "staff",
+"pos": "n",
+"meaning_ko": "직원, 인력",
+"example_en": "The hotel **staff** were friendly and helpful.",
+"example_ko": "호텔 직원들은 친절하고 도움이 많이 됐어.",
+"nuance_ko": "staff는 한 조직에서 일하는 직원 전체를 가리키는 집합 명사예요. 미국에서는 단수로, 영국에서는 복수로도 받는 경우가 있어요. 한 명을 말할 때는 a staff member 또는 a member of staff라고 해요. a staff는 직원 전체 집단을 가리키므로 한 사람에게 쓰지 않아요. 한국 학습자가 We have three staffs처럼 복수로 쓰는 실수를 자주 해요. 동사 staff는 '직원을 두다'라서 The store is staffed by volunteers는 '가게는 자원봉사자들이 운영한다'예요.",
+"also": [
+{
+"w": "staffing",
+"pos": "n",
+"ko": "인력 배치",
+"en": "**Staffing** shortages slowed down the service."
+}
+]
+},
+{
+"w": "stairs",
+"pos": "n",
+"meaning_ko": "계단",
+"example_en": "Take the **stairs** instead of the elevator to stay fit.",
+"example_ko": "건강 유지하려면 엘리베이터 대신 계단을 이용해.",
+"nuance_ko": "stairs는 계단이라서 보통 복수로 써요. take the stairs(계단으로 가다), go up the stairs(계단을 올라가다), a flight of stairs(한 층 분의 계단)처럼 써요. 한 칸의 계단은 stair 또는 step이에요. staircase나 stairway는 계단 전체 구조물을 가리키는 말이에요. upstairs는 '위층으로, 위층에서', downstairs는 '아래층으로'라서 부사나 형용사로 쓰여요. 영국 구어로 under the stairs는 계단 밑 수납공간을 뜻해요.",
+"also": [
+{
+"w": "stair",
+"pos": "n",
+"ko": "계단 한 칸",
+"en": "She sat on the bottom **stair** and waited."
+}
+]
+},
+{
+"w": "stamp",
+"pos": "n",
+"meaning_ko": "우표, 도장",
+"example_en": "I need to buy a **stamp** to send this letter.",
+"example_ko": "이 편지를 보내려면 우표를 사야 해.",
+"nuance_ko": "stamp는 우표, 도장, 발을 구르는 동작을 가리켜요. postage stamp(우표), rubber stamp(고무도장), date stamp(날짜 도장)처럼 써요. 동사 stamp는 '도장을 찍다, 발을 쿵쿵 구르다'라서 stamp one's foot은 '발을 구르다'예요. rubber stamp는 비유로 '형식적으로 승인하다'라서 rubber-stamp a decision은 '검토 없이 도장 찍듯 승인하다'예요. 여권에 찍는 입국 도장도 stamp예요. stamp out은 '근절하다'라는 뜻이에요.",
+"also": [
+{
+"w": "stamped",
+"pos": "adj",
+"ko": "도장이 찍힌",
+"en": "Please bring a **stamped** envelope."
+}
+]
+},
+{
+"w": "standard",
+"pos": "n",
+"meaning_ko": "기준, 표준",
+"example_en": "The hotel meets the highest safety **standards**.",
+"example_ko": "그 호텔은 최고 수준의 안전 기준을 충족해.",
+"nuance_ko": "standard는 기준, 표준, 수준을 가리켜요. high standards(높은 기준), living standards(생활 수준), meet the standard(기준을 충족하다)처럼 복수로 자주 써요. 형용사 standard는 '표준의, 일반적인'이라서 standard size, standard procedure처럼 써요. 반대는 non-standard이고 substandard는 '기준 미달의'예요. 영어 시험이나 품질 관리에서 자주 만나는 단어예요. standard of living은 '생활 수준'을 말해요.",
+"also": [
+{
+"w": "standards",
+"pos": "n",
+"ko": "기준들, 수준",
+"en": "She has very high **standards** for her work."
+},
+{
+"w": "standardize",
+"pos": "v",
+"ko": "표준화하다",
+"en": "We need to **standardize** the process across teams."
+}
+]
+},
+{
+"w": "starve",
+"pos": "v",
+"meaning_ko": "굶주리다, 굶어 죽다",
+"example_en": "I'm absolutely **starving**, let's eat right now.",
+"example_ko": "나 완전 배고파 죽겠어, 지금 당장 먹자.",
+"nuance_ko": "starve는 먹을 것이 없어서 굶주리거나 굶어 죽는 동사예요. 구어에서는 과장해서 I'm starving이라고 하면 '배고파 죽겠어'라는 가벼운 표현이에요. starve to death(굶어 죽다), starve oneself(굶다)처럼 써요. 비유로 starve for attention은 '관심에 목마르다'예요. 명사 starvation은 '기아'이고 starvation diet는 '극단적인 단식 다이어트'예요. hungry는 배고픈 일반 상태이고 starving은 아주 심하게 굶주린 상태로 구어에서는 과장이 많아요.",
+"also": [
+{
+"w": "starving",
+"pos": "adj",
+"ko": "굶주린",
+"en": "The **starving** dog ate everything in the bowl."
+},
+{
+"w": "starvation",
+"pos": "n",
+"ko": "기아, 굶주림",
+"en": "Thousands died of **starvation** during the famine."
+}
+]
+},
+{
+"w": "states",
+"pos": "n",
+"meaning_ko": "주, 나라들",
+"example_en": "Many **states** in the US have different tax rules.",
+"example_ko": "미국의 많은 주는 세금 규정이 서로 달라.",
+"nuance_ko": "state는 뜻이 많은 단어예요. 나라, 미국의 주, 상태, 정부를 모두 뜻해요. 복수 states는 문맥에 따라 '미국의 여러 주' 또는 '국가들'이에요. the States는 구어로 '미국'을 가리키는 표현이라서 back in the States는 '미국에 있을 때'예요. state of mind(마음 상태), state of the art(최첨단), in a state of shock(충격 상태)처럼 쓰여요. 동사 state는 '진술하다'라서 State your name(이름을 말하세요)처럼 격식 있게 써요.",
+"also": [
+{
+"w": "interstate",
+"pos": "adj",
+"ko": "주 사이의",
+"en": "We drove along the **interstate** highway."
+}
+]
+},
+{
+"w": "steady",
+"pos": "adj",
+"meaning_ko": "꾸준한, 안정된",
+"example_en": "She has made **steady** progress in her studies.",
+"example_ko": "그녀는 공부에서 꾸준히 진전을 보이고 있어.",
+"nuance_ko": "steady는 급하게 변하지 않고 안정적으로 이어지는 것을 가리키는 형용사예요. a steady job(안정된 일자리), a steady pace(일정한 속도), steady hands(흔들리지 않는 손)처럼 써요. 연애에서는 steady boyfriend(정식으로 사귀는 남자친구)처럼 오래된 관계를 말해요. Steady on!은 '진정해, 천천히 해'라는 영국식 구어예요. slow and steady wins the race는 '느려도 꾸준한 것이 이긴다'는 속담이에요. 부사 steadily는 '꾸준히'예요.",
+"also": [
+{
+"w": "steadily",
+"pos": "adv",
+"ko": "꾸준히",
+"en": "Prices have risen **steadily** over the years."
+},
+{
+"w": "unsteady",
+"pos": "adj",
+"ko": "흔들리는",
+"en": "He was a bit **unsteady** on his feet."
+}
+]
+},
+{
+"w": "steak",
+"pos": "n",
+"meaning_ko": "스테이크",
+"example_en": "I'd like my **steak** medium rare, please.",
+"example_ko": "스테이크는 미디엄 레어로 부탁드려요.",
+"nuance_ko": "steak는 두껍게 썰어 구운 고기, 주로 소고기 스테이크를 가리켜요. 굽기 정도는 rare, medium rare, medium, medium well, well done으로 말해요. 주문할 때 How would you like your steak cooked?라는 질문을 받아요. 생선 스테이크도 있어서 salmon steak처럼 두껍게 썬 것을 가리켜요. 발음은 /steɪk/로 '스테이크'이고 stake(말뚝)와 발음이 같아요. steak and eggs는 미국의 전통 아침 메뉴이고 steakhouse는 스테이크 전문점이에요.",
+"also": []
+},
+{
+"w": "steam",
+"pos": "n",
+"meaning_ko": "증기, 김",
+"example_en": "**Steam** rose from the hot soup as she served it.",
+"example_ko": "그녀가 뜨거운 수프를 내자 김이 모락모락 올랐어.",
+"nuance_ko": "steam은 물이 끓을 때 나오는 수증기, 김이에요. 동사 steam은 '찌다'라서 steam vegetables(채소를 찌다), steamed rice(찐 밥)처럼 요리에 자주 써요. 비유로 let off steam은 '쌓인 감정을 풀다', run out of steam은 '기운이 떨어지다'예요. under one's own steam은 '스스로의 힘으로'라는 관용구예요. steam engine은 증기 기관이고 산업혁명의 상징이에요. 목욕탕의 steam room은 증기탕을 가리켜요.",
+"also": [
+{
+"w": "steamed",
+"pos": "adj",
+"ko": "찐",
+"en": "I ordered **steamed** fish with rice."
+}
+]
+},
+{
+"w": "steel",
+"pos": "n",
+"meaning_ko": "강철",
+"example_en": "The bridge is made of **steel** and concrete.",
+"example_ko": "그 다리는 강철과 콘크리트로 만들어졌어.",
+"nuance_ko": "steel은 철에 탄소를 섞어 만든 강철이에요. stainless steel(스테인리스강), steel industry(철강 산업), steel beam(강철 빔)처럼 써요. 비유로는 강하고 단단한 성격을 나타내서 nerves of steel은 '강철 같은 담력', steel oneself은 '마음을 단단히 먹다'예요. 형용사 steely는 '강철 같은'이라서 a steely gaze는 '차갑고 강한 눈빛'이에요. iron은 철, steel은 철에 합금한 강철이라는 점이 달라요. 한국 철강업을 말할 때 steel company라고 해요.",
+"also": [
+{
+"w": "steely",
+"pos": "adj",
+"ko": "강철 같은",
+"en": "She gave him a **steely** look."
+}
+]
+},
+{
+"w": "stiff",
+"pos": "adj",
+"meaning_ko": "뻣뻣한, 결린",
+"example_en": "My neck is **stiff** from sleeping in a bad position.",
+"example_ko": "자세가 안 좋아서 자고 났더니 목이 뻐근해.",
+"nuance_ko": "stiff는 잘 구부러지지 않고 뻣뻣한 것을 가리키는 형용사예요. a stiff neck(뻣뻣한 목), stiff fabric(빳빳한 천), a stiff breeze(강한 바람)처럼 써요. 사람의 태도에도 쓰여서 a stiff smile은 '굳은 미소'이고 stiff competition은 '치열한 경쟁'이에요. 음료에서는 '독한'이라서 a stiff drink는 '독한 술'이에요. bored stiff는 '지루해 죽겠는', scared stiff는 '겁에 질려 얼어붙은'이라는 구어 표현이에요.",
+"also": [
+{
+"w": "stiffness",
+"pos": "n",
+"ko": "뻣뻣함",
+"en": "I feel some **stiffness** in my shoulders."
+},
+{
+"w": "stiffen",
+"pos": "v",
+"ko": "뻣뻣해지다",
+"en": "His body **stiffened** when he heard the noise."
+}
+]
+},
+{
+"w": "stir",
+"pos": "v",
+"meaning_ko": "젓다, 휘젓다",
+"example_en": "**Stir** the soup gently so it doesn't burn.",
+"example_ko": "수프가 타지 않도록 살살 저어 줘.",
+"nuance_ko": "stir는 숟가락 등으로 액체를 빙빙 젓는 동사예요. stir the coffee(커피를 젓다), stir-fry(센 불에 볶다)처럼 요리에서 자주 써요. 감정이나 관심을 일으킨다는 뜻도 있어서 stir up trouble은 '문제를 일으키다', stir emotions는 '감정을 자극하다'예요. 조금 움직이는 것도 stir라서 Nothing stirred in the house는 '집 안에 아무 기척도 없었다'예요. 명사 stir는 '소동'이라서 cause a stir는 '소동을 일으키다'예요.",
+"also": [
+{
+"w": "stirring",
+"pos": "adj",
+"ko": "감동적인",
+"en": "He gave a **stirring** speech to the team."
+}
+]
+},
+{
+"w": "stock",
+"pos": "n",
+"meaning_ko": "재고, 주식",
+"example_en": "We're out of **stock**, but we'll get more next week.",
+"example_ko": "재고가 다 떨어졌는데 다음 주에 더 들어올 거예요.",
+"nuance_ko": "stock은 뜻이 다양해요. 상점의 재고, 기업의 주식, 요리의 육수(chicken stock)를 모두 가리켜요. in stock(재고가 있는), out of stock(품절)처럼 쇼핑몰에서 자주 보이고, stock market(주식 시장), stock price(주가)는 금융 뉴스에서 흔해요. 동사 stock은 '채워 넣다'라서 stock the shelves(선반에 상품을 채우다)예요. take stock of ~는 '~를 점검하다'라는 관용구이고 stock up on ~는 '~를 비축하다'예요.",
+"also": [
+{
+"w": "stocks",
+"pos": "n",
+"ko": "주식들",
+"en": "He invested in **stocks** and bonds."
+}
+]
+},
+{
+"w": "stomach",
+"pos": "n",
+"meaning_ko": "위, 배",
+"example_en": "I have a pain in my **stomach** after eating that.",
+"example_ko": "그걸 먹고 나서 배가 아파.",
+"nuance_ko": "stomach는 위 또는 배를 가리켜요. stomachache(복통), upset stomach(배탈), on an empty stomach(빈속에)처럼 써요. 동사로는 '참아 내다'라서 I can't stomach violent movies는 '폭력적인 영화는 못 견뎌'예요. 비유로 have a strong stomach은 '비위가 좋다'이고, have no stomach for ~는 '~할 배짱이 없다'예요. belly는 구어에서 배를 가리키고 tummy는 아이들이 쓰는 말이에요. 발음은 /ˈstʌmək/으로 ch가 'k' 소리라서 헷갈리기 쉬워요.",
+"also": []
+},
+{
+"w": "storm",
+"pos": "n",
+"meaning_ko": "폭풍, 폭풍우",
+"example_en": "A big **storm** is expected to hit the coast tonight.",
+"example_ko": "오늘 밤 해안에 큰 폭풍이 올 것으로 예상돼.",
+"nuance_ko": "storm은 강한 바람과 비를 동반한 폭풍을 가리켜요. thunderstorm(뇌우), snowstorm(눈보라), storm warning(폭풍 경보)처럼 합성어가 많아요. 비유로는 소동이나 비난의 폭풍을 뜻해서 a storm of protest(항의의 폭풍)처럼 써요. 동사 storm은 '돌진해 들어가다'라서 storm into the room은 '화가 나서 방에 쾅 들어가다'예요. take by storm은 '순식간에 사로잡다'라서 The song took the world by storm은 '그 노래가 전 세계를 휩쓸었다'예요.",
+"also": [
+{
+"w": "stormy",
+"pos": "adj",
+"ko": "폭풍우가 치는",
+"en": "It was a dark and **stormy** night."
+}
+]
+},
+{
+"w": "strawberry",
+"pos": "n",
+"meaning_ko": "딸기",
+"example_en": "We picked fresh **strawberries** at the farm this morning.",
+"example_ko": "오늘 아침에 농장에서 신선한 딸기를 땄어.",
+"nuance_ko": "strawberry는 딸기이고 복수는 strawberries처럼 y가 ies로 바뀌어요. strawberry jam(딸기잼), strawberry shortcake(딸기 케이크)처럼 디저트에 자주 쓰여요. 영국 윔블던 테니스 대회의 전통 간식이 strawberries and cream이에요. 이름에 straw(짚)가 들어간 이유는 짚을 깔고 키웠거나 열매 사이에 짚을 둔 데서 왔다는 설이 있지만 정확한 어원은 확실하지 않아요. blueberry, raspberry 같은 베리류와 함께 berry 계열 단어예요.",
+"also": []
+},
+{
+"w": "stream",
+"pos": "n",
+"meaning_ko": "개울, 흐름",
+"example_en": "We crossed a small **stream** on our way up the mountain.",
+"example_ko": "산을 오르는 길에 작은 개울을 건넜어.",
+"nuance_ko": "stream은 작은 개울 또는 계속 이어지는 흐름을 가리켜요. a mountain stream(산골 개울), a stream of cars(차량의 행렬), stream of consciousness(의식의 흐름)처럼 써요. 동사 stream은 '흐르다, 스트리밍하다'라서 stream a movie는 '영화를 스트리밍하다'예요. 요즘은 streaming service(스트리밍 서비스)로 아주 자주 만나는 단어예요. go with the stream은 '대세를 따르다', against the stream은 '흐름을 거슬러'라는 뜻이에요. river는 stream보다 더 크고 넓어요.",
+"also": [
+{
+"w": "streaming",
+"pos": "n",
+"ko": "스트리밍",
+"en": "Most people use **streaming** to watch TV now."
+}
+]
+},
+{
+"w": "strength",
+"pos": "n",
+"meaning_ko": "힘, 강점",
+"example_en": "Her biggest **strength** is staying calm under pressure.",
+"example_ko": "그녀의 가장 큰 강점은 압박 속에서도 침착한 거야.",
+"nuance_ko": "strength는 힘, 체력, 강점을 가리켜요. physical strength(체력), strengths and weaknesses(강점과 약점), the strength of the economy(경제의 건전성)처럼 써요. 형용사 strong의 명사형이라서 철자에 주의해야 하고 strenth로 틀리는 일이 많아요. 발음은 /streŋkθ/로 'ng'와 'th'가 이어져서 어렵기로 유명해요. 동사 strengthen은 '강화하다'라서 strengthen the team(팀을 강화하다)처럼 써요. on the strength of ~는 '~를 근거로'라는 격식 있는 표현이에요.",
+"also": [
+{
+"w": "strengthen",
+"pos": "v",
+"ko": "강화하다",
+"en": "Regular exercise will **strengthen** your muscles."
+},
+{
+"w": "strengths",
+"pos": "n",
+"ko": "강점들",
+"en": "Interviewers often ask about your **strengths**."
+}
+]
+},
+{
+"w": "stress",
+"pos": "n",
+"meaning_ko": "스트레스, 압박",
+"example_en": "Too much **stress** at work can make you sick.",
+"example_ko": "직장에서 스트레스를 너무 많이 받으면 병날 수 있어.",
+"nuance_ko": "stress는 정신적, 신체적 압박이나 긴장 상태를 가리켜요. under stress(스트레스를 받는), stress relief(스트레스 해소), reduce stress처럼 써요. 불가산 명사로 쓰는 것이 일반적이고 a stress라고 쓰는 일은 드물어요. 동사 stress는 '강조하다'라서 stress the importance of ~는 '~의 중요성을 강조하다'예요. 언어에서 stress는 '강세'로 단어에서 강하게 읽는 음절을 말해요. 형용사 stressed는 '스트레스를 받은', stressful은 '스트레스가 많은'이에요.",
+"also": [
+{
+"w": "stressed",
+"pos": "adj",
+"ko": "스트레스를 받은",
+"en": "I'm feeling really **stressed** about the exam."
+},
+{
+"w": "stressful",
+"pos": "adj",
+"ko": "스트레스가 많은",
+"en": "It was a **stressful** week at work."
+}
+]
+},
+{
+"w": "stretch",
+"pos": "v",
+"meaning_ko": "늘이다, 쭉 펴다",
+"example_en": "I always **stretch** for ten minutes before I run.",
+"example_ko": "난 달리기 전에 항상 10분 동안 스트레칭을 해.",
+"nuance_ko": "stretch는 몸이나 물건을 쭉 펴거나 늘이는 동사예요. stretch your arms(팔을 쭉 뻗다), stretch a rubber band(고무줄을 늘이다)처럼 써요. 운동 전 스트레칭은 do some stretches로 말해요. 명사 stretch는 '구간, 기간'이라서 a long stretch of road(길게 뻗은 도로), for a stretch of time(한동안)처럼 써요. at a stretch는 '쉬지 않고 연속으로'예요. 비유로는 한계까지 끌어올리는 일이라서 stretch the truth는 '사실을 과장하다'예요.",
+"also": [
+{
+"w": "stretching",
+"pos": "n",
+"ko": "스트레칭",
+"en": "Light **stretching** can ease back pain."
+}
+]
+},
+{
+"w": "string",
+"pos": "n",
+"meaning_ko": "끈, 줄, 일련",
+"example_en": "She tied the package with a piece of **string**.",
+"example_ko": "그녀는 끈 한 가닥으로 소포를 묶었어.",
+"nuance_ko": "string은 가는 끈이나 줄, 악기의 현을 가리켜요. a ball of string(실 뭉치), guitar strings(기타 줄)처럼 써요. 비유로는 '일련'이라서 a string of events(일련의 사건들)처럼 쓰이고 프로그래밍에서는 '문자열'이에요. no strings attached는 '아무 조건 없이'라는 뜻이라 구어에서 자주 써요. pull strings는 '뒤에서 영향력을 행사하다', on a shoestring은 '아주 적은 돈으로'라는 관용구예요. 과거형은 string-strung-strung으로 불규칙해요.",
+"also": [
+{
+"w": "strings",
+"pos": "n",
+"ko": "현악기, 줄들",
+"en": "The **strings** section played beautifully."
+}
+]
+},
+{
+"w": "strip",
+"pos": "n",
+"meaning_ko": "길고 가느다란 조각, 띠",
+"example_en": "He cut the paper into thin **strips**.",
+"example_ko": "그는 종이를 가늘게 길쭉한 조각으로 잘랐어.",
+"nuance_ko": "strip은 가늘고 길쭉한 조각이나 띠를 가리켜요. a strip of paper(종이 조각), a strip of land(좁고 긴 땅), comic strip(만화)처럼 써요. 동사 strip은 '벗기다, 제거하다'라서 strip the paint(페인트를 벗기다), strip off one's clothes(옷을 벗다)처럼 써요. 라스베이거스의 The Strip은 번화가를 가리키는 고유명사예요. strip mall은 길게 늘어선 작은 상점가를 말해요. strip someone of ~는 '~를 박탈하다'라서 strip him of his title은 '그의 직함을 박탈하다'예요.",
+"also": [
+{
+"w": "stripped",
+"pos": "v",
+"ko": "벗겼다, 박탈했다",
+"en": "They **stripped** the old wallpaper off the wall."
+}
+]
+},
+{
+"w": "stroke",
+"pos": "n",
+"meaning_ko": "뇌졸중, 한 번의 동작",
+"example_en": "He had a **stroke** last year but has recovered well.",
+"example_ko": "그는 작년에 뇌졸중을 겪었지만 잘 회복했어.",
+"nuance_ko": "stroke는 뜻이 여러 개라 문맥이 중요해요. 의학에서는 '뇌졸중'이고, 수영이나 골프의 '스트로크', 붓질의 한 획, 쓰다듬는 동작 모두 stroke예요. at a stroke는 '단번에', a stroke of luck은 '행운'이라는 표현이에요. 동사 stroke는 '쓰다듬다'라서 stroke a cat은 '고양이를 쓰다듬다'예요. heatstroke는 '열사병', sunstroke는 '일사병'이에요. 수영 영법을 backstroke(배영), breaststroke(평영)처럼 stroke로 말하기도 해요.",
+"also": [
+{
+"w": "stroked",
+"pos": "v",
+"ko": "쓰다듬었다",
+"en": "She **stroked** the cat gently."
+}
+]
+},
+{
+"w": "struggle",
+"pos": "v",
+"meaning_ko": "애쓰다, 몸부림치다",
+"example_en": "Many students **struggle** with this kind of math problem.",
+"example_ko": "많은 학생이 이런 유형의 수학 문제를 힘들어해.",
+"nuance_ko": "struggle은 어려움을 이겨 내려고 몹시 애쓰는 동사예요. struggle with ~(~로 고생하다), struggle to + 동사원형(힘들게 ~하려고 애쓰다)처럼 써요. fight보다 외부와의 싸움에 가깝고 struggle은 상황과 맞서 버티는 느낌이에요. 명사 struggle은 '투쟁, 고군분투'라서 a struggle for survival(생존을 위한 투쟁)처럼 써요. It was a struggle은 '힘든 일이었어'라는 구어 표현이에요. 몸싸움을 할 때도 쓰여서 He struggled free는 '그가 몸부림쳐서 빠져나왔다'예요.",
+"also": [
+{
+"w": "struggling",
+"pos": "adj",
+"ko": "고군분투하는",
+"en": "The **struggling** company asked for a loan."
+}
+]
+},
+{
+"w": "style",
+"pos": "n",
+"meaning_ko": "스타일, 방식",
+"example_en": "I love her **style**, especially how she mixes old and new clothes.",
+"example_ko": "그녀의 스타일이 좋아, 특히 오래된 옷이랑 새 옷을 섞어 입는 게.",
+"nuance_ko": "style은 옷차림, 예술, 글쓰기, 생활 방식 등에서 드러나는 고유한 방식이나 모양이에요. fashion style, writing style, lifestyle(생활 방식)처럼 써요. in style은 '유행하는'이고 out of style은 '유행이 지난'이에요. 동사 style은 '스타일링하다'라서 style one's hair는 '머리를 손질하다'예요. 구어에서 That's not my style은 '그건 내 스타일이 아니야'로 취향을 말할 때 자주 써요. stylish는 '세련된'이라는 형용사예요.",
+"also": [
+{
+"w": "stylish",
+"pos": "adj",
+"ko": "세련된",
+"en": "She wore a **stylish** coat to the party."
+},
+{
+"w": "styles",
+"pos": "n",
+"ko": "스타일들",
+"en": "The shop sells many different **styles** of shoes."
+}
+]
+},
+{
+"w": "success",
+"pos": "n",
+"meaning_ko": "성공, 성과",
+"example_en": "The new restaurant has been a huge **success**.",
+"example_ko": "새 식당은 엄청난 성공을 거두고 있어.",
+"nuance_ko": "success는 목표를 이루었거나 좋은 결과를 얻은 성공이에요. a big success, achieve success, success story(성공담)처럼 써요. 불가산으로 성공 일반을, 가산으로 구체적인 성공 사례를 가리켜서 He was a success는 '그는 성공한 사람이야'예요. 형용사 successful(성공한)과 동사 succeed(성공하다)와 구분해야 해요. succeed in ~ing 구조로 쓰고 succeed to ~ing는 틀려요. 부사 successfully는 '성공적으로'로 successfully completed(성공적으로 완료된)처럼 쓰여요.",
+"also": [
+{
+"w": "successful",
+"pos": "adj",
+"ko": "성공한",
+"en": "She runs a **successful** online business."
+},
+{
+"w": "successfully",
+"pos": "adv",
+"ko": "성공적으로",
+"en": "The operation was completed **successfully**."
+}
+]
+},
+{
+"w": "suck",
+"pos": "v",
+"meaning_ko": "빨다, 빨아들이다",
+"example_en": "The baby began to **suck** on the bottle right away.",
+"example_ko": "아기는 곧바로 젖병을 빨기 시작했어.",
+"nuance_ko": "suck은 입으로 빨아들이거나 기계가 빨아들이는 동사예요. suck on a candy(사탕을 빨아 먹다), suck up water(물을 빨아올리다)처럼 써요. 구어에서 It sucks는 '형편없다, 최악이다'라는 속어이고 가벼운 대화에서 자주 쓰지만 약간 거친 표현이라 격식 있는 자리에서는 피해요. suck up to someone은 '아부하다'라는 구어예요. 진공청소기는 vacuum cleaner이지만 구어에서 It sucks dust라고도 해요. 명사 suck은 '빨기'로 쓰여요.",
+"also": [
+{
+"w": "sucking",
+"pos": "v",
+"ko": "빨고 있는",
+"en": "The baby is **sucking** her thumb."
+}
+]
+},
+{
+"w": "suffer",
+"pos": "v",
+"meaning_ko": "고통받다, 겪다",
+"example_en": "Many people **suffer** from back pain at some point.",
+"example_ko": "많은 사람이 살면서 한 번쯤은 허리 통증으로 고생해.",
+"nuance_ko": "suffer는 고통, 손해, 질병을 겪는 동사예요. suffer from ~(~로 고통받다), suffer a loss(손실을 입다), suffer damage(피해를 입다)처럼 써요. 질병 앞에서는 전치사 from이 중요해서 suffer from a cold는 '감기를 앓다'예요. 심각한 상태에 어울리고, 가벼운 불편에는 have나 get을 써요. 명사 suffering은 '고통'이라서 end the suffering of animals는 '동물의 고통을 끝내다'예요. sufferer는 '환자, 고통받는 사람'이고 allergy sufferer는 '알레르기 환자'예요.",
+"also": [
+{
+"w": "suffering",
+"pos": "n",
+"ko": "고통",
+"en": "The war caused terrible **suffering**."
+},
+{
+"w": "sufferer",
+"pos": "n",
+"ko": "고통받는 사람",
+"en": "He is an asthma **sufferer**."
+}
+]
+},
+{
+"w": "sugar",
+"pos": "n",
+"meaning_ko": "설탕",
+"example_en": "I take my coffee with one **sugar** and no milk.",
+"example_ko": "난 커피에 설탕 하나만 넣고 우유는 안 넣어.",
+"nuance_ko": "sugar는 설탕이고 불가산 명사지만 커피 한 잔의 설탕 한 스푼은 one sugar처럼 셀 때도 있어요. brown sugar(흑설탕), sugar-free(무설탕), added sugar(첨가당)처럼 건강 정보에서 자주 보여요. 호칭으로 Sugar!는 연인을 부르는 애칭이고 미국 남부 구어에서 많이 써요. sugar는 감탄사로 쓰이기도 해서 Oh, sugar!는 욕 대신 쓰는 순한 표현이에요. 형용사 sugary는 '설탕이 든, 달콤한'이라서 sugary drinks는 '단 음료'예요. blood sugar는 '혈당'이에요.",
+"also": [
+{
+"w": "sugary",
+"pos": "adj",
+"ko": "설탕이 많은, 달콤한",
+"en": "Try to avoid **sugary** snacks."
+}
+]
+},
+{
+"w": "super",
+"pos": "adj",
+"meaning_ko": "아주 좋은, 굉장한",
+"example_en": "The new café near my house is **super** cozy.",
+"example_ko": "우리 집 근처 새 카페가 진짜 아늑해.",
+"nuance_ko": "super는 '아주 좋은, 굉장한'이라는 형용사이면서 구어에서는 '아주'라는 부사처럼 쓰여요. super easy(엄청 쉬운), super tired(엄청 피곤한)처럼 형용사 앞에 붙여 강조해요. 단독으로 That's super!는 '정말 좋아!'라는 감탄이에요. 접두사 super-는 '초월한, 최상의'라서 supermarket, superstar, superhero처럼 합성어를 만들어요. 영국 구어로 Super!는 '아주 좋아!'라는 응답이에요. 아이들 대화에서는 so나 really만큼 자주 쓰이는 강조어예요.",
+"also": []
+},
+{
+"w": "supply",
+"pos": "n",
+"meaning_ko": "공급, 비품",
+"example_en": "The city ran out of its water **supply** during the drought.",
+"example_ko": "가뭄 중에 그 도시는 물 공급이 바닥났어.",
+"nuance_ko": "supply는 필요한 물건의 공급 또는 비축량을 가리켜요. water supply(수돗물 공급), supply and demand(수요와 공급), supplies(비품, 보급품)처럼 써요. 동사 supply는 '공급하다'라서 supply A with B 또는 supply B to A 구조를 써요. 예를 들어 supply the school with books는 '학교에 책을 공급하다'예요. in short supply는 '부족한'이라는 표현이라 비즈니스에서 자주 보여요. 복수 supplies는 사무용품 같은 소모품이라서 office supplies는 '사무용품'이에요.",
+"also": [
+{
+"w": "supplier",
+"pos": "n",
+"ko": "공급 업체",
+"en": "We switched to a cheaper **supplier**."
+},
+{
+"w": "supplies",
+"pos": "n",
+"ko": "비품, 보급품",
+"en": "We need to buy more school **supplies**."
+}
+]
+},
+{
+"w": "surface",
+"pos": "n",
+"meaning_ko": "표면, 겉",
+"example_en": "The **surface** of the table was covered with dust.",
+"example_ko": "탁자 표면에 먼지가 쌓여 있었어.",
+"nuance_ko": "surface는 물체의 겉면이나 표면을 가리켜요. on the surface(겉으로는), the surface of the water(수면), scratch the surface(겉핥기만 하다)처럼 써요. 비유로는 겉으로 드러난 모습을 뜻해서 below the surface는 '표면 아래에서, 숨겨진'이에요. 동사 surface는 '수면으로 떠오르다, 드러나다'라서 The truth finally surfaced는 '진실이 마침내 드러났다'예요. 컴퓨터의 Surface는 마이크로소프트 제품 이름이기도 해요.",
+"also": [
+{
+"w": "surfaced",
+"pos": "v",
+"ko": "수면 위로 떠올랐다",
+"en": "The submarine **surfaced** near the harbor."
+}
+]
+},
+{
+"w": "surround",
+"pos": "v",
+"meaning_ko": "둘러싸다, 에워싸다",
+"example_en": "Tall trees **surround** the old farmhouse on all sides.",
+"example_ko": "키 큰 나무들이 오래된 농가를 사방에서 둘러싸고 있어.",
+"nuance_ko": "surround는 어떤 것을 사방으로 에워싼다는 동사로 수동태 be surrounded by ~(~에 둘러싸여 있다)로 자주 써요. The house is surrounded by trees처럼 쓰여요. 뒤에 전치사 없이 바로 목적어를 쓰는 타동사라서 surround the building이 맞아요. 상황에도 쓰여서 surrounded by problems는 '문제에 둘러싸인'이에요. 명사 surroundings는 '주변 환경'이라서 beautiful surroundings는 '아름다운 환경'이에요. 형용사 surrounding은 '주변의'로 the surrounding area는 '인근 지역'이에요.",
+"also": [
+{
+"w": "surrounding",
+"pos": "adj",
+"ko": "주변의",
+"en": "People from the **surrounding** villages came to the market."
+},
+{
+"w": "surroundings",
+"pos": "n",
+"ko": "주변 환경",
+"en": "The hotel has beautiful **surroundings**."
+}
+]
+},
+{
+"w": "survive",
+"pos": "v",
+"meaning_ko": "살아남다, 견뎌 내다",
+"example_en": "Only a few plants could **survive** the harsh winter.",
+"example_ko": "혹독한 겨울을 견딘 식물은 몇 안 됐어.",
+"nuance_ko": "survive는 위험이나 어려움 속에서 살아남는 동사예요. survive an accident(사고에서 살아남다), survive on a small salary(적은 월급으로 버티다)처럼 써요. 타동사로 survive the war는 '전쟁에서 살아남다'이고 survive by ~ing는 '~하며 살아가다'예요. 구어에서 I'll survive는 '난 괜찮을 거야'라는 뜻이에요. 사람을 두고 먼저 간 경우 He is survived by his wife는 '유족으로 아내가 있다'는 부고 표현이에요. 명사 survivor는 '생존자'예요.",
+"also": [
+{
+"w": "survivor",
+"pos": "n",
+"ko": "생존자",
+"en": "She was the only **survivor** of the crash."
+},
+{
+"w": "survival",
+"pos": "n",
+"ko": "생존",
+"en": "The animals' **survival** depends on the water."
+}
+]
+},
+{
+"w": "suspect",
+"pos": "n",
+"meaning_ko": "용의자, 의심받는 사람",
+"example_en": "The police have arrested a **suspect** in the robbery.",
+"example_ko": "경찰이 강도 사건의 용의자를 체포했어.",
+"nuance_ko": "suspect는 명사로 /ˈsʌspekt/ 앞에 강세가 와서 '용의자'이고, 동사로 /səˈspekt/ 뒤에 강세가 와서 '의심하다, 짐작하다'예요. 형용사 suspect(의심스러운)는 명사처럼 앞에 강세를 둬요. 동사 suspect는 I suspect that ~(~가 아닐까 싶다)로 증거는 없지만 어렴풋이 생각한다는 뜻이에요. doubt는 '믿지 않다', suspect는 '그럴 것 같다고 생각하다'라서 의미가 반대에 가까워요. suspect someone of ~ing는 '~를 ~했다고 의심하다'예요.",
+"also": [
+{
+"w": "suspected",
+"pos": "adj",
+"ko": "의심되는",
+"en": "He is a **suspected** thief."
+},
+{
+"w": "unsuspecting",
+"pos": "adj",
+"ko": "의심하지 않는",
+"en": "The **unsuspecting** tourists were robbed."
+}
+]
+}
+]

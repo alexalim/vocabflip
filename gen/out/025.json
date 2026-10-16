@@ -1,0 +1,1570 @@
+[
+ {
+  "w": "infect",
+  "pos": "v",
+  "meaning_ko": "감염시키다, (기분·분위기를) 옮기다",
+  "example_en": "Wash your hands, or you'll **infect** everyone else in the house.",
+  "example_ko": "손 씻어, 안 그러면 집에 있는 다른 사람들한테 다 옮겨.",
+  "nuance_ko": "infect는 세균이나 바이러스가 몸에 들어가 병을 일으키게 한다는 그림이에요. 사람이 주어면 '옮기다', 상처나 기기가 목적어면 '감염되다'에 가까워요. 컴퓨터 바이러스에도 쓰여서 The virus infected thousands of PCs처럼 말해요. 수동태 get infected with ~ 형태가 일상에서 훨씬 자주 나와요. 비유적으로 '열정·분위기를 퍼뜨리다'라는 뜻도 있지만 약간 문학적이에요.",
+  "also": [
+   {
+    "w": "infection",
+    "pos": "n",
+    "ko": "감염, 염증",
+    "en": "She got a bad **infection** after the surgery."
+   },
+   {
+    "w": "infectious",
+    "pos": "adj",
+    "ko": "전염성의, 옮기 쉬운",
+    "en": "His laugh is so **infectious** that everyone joins in."
+   }
+  ]
+ },
+ {
+  "w": "inflate",
+  "pos": "v",
+  "meaning_ko": "부풀리다, (가격·수치를) 부풀려 올리다",
+  "example_en": "Can you help me **inflate** these balloons before the party starts?",
+  "example_ko": "파티 시작 전에 이 풍선 좀 같이 불어 줄래?",
+  "nuance_ko": "inflate는 공기나 가스를 넣어 빵빵하게 만든다는 말이에요. 타이어, 풍선, 구명조끼에 딱 맞는 동사예요. 숫자나 가격을 실제보다 부풀린다는 비유로도 많이 써요. 반대말은 deflate로, 바람이 빠지거나 자신감이 꺾이는 것도 가리켜요. 일상에서는 '바람 넣다'를 pump up이나 blow up이라고도 하는데, inflate가 좀 더 정확하고 중립적이에요.",
+  "also": [
+   {
+    "w": "inflation",
+    "pos": "n",
+    "ko": "물가 상승, 인플레이션",
+    "en": "**Inflation** has made groceries much more expensive this year."
+   },
+   {
+    "w": "inflated",
+    "pos": "adj",
+    "ko": "부풀려진, 과장된",
+    "en": "He has a really **inflated** opinion of himself."
+   },
+   {
+    "w": "inflatable",
+    "pos": "adj",
+    "ko": "공기를 넣어 부풀리는",
+    "en": "We bought an **inflatable** boat for the lake."
+   }
+  ]
+ },
+ {
+  "w": "ingredient",
+  "pos": "n",
+  "meaning_ko": "재료, 성분, 구성 요소",
+  "example_en": "I forgot one **ingredient**, so the soup tastes a little flat.",
+  "example_ko": "재료 하나를 빼먹었더니 국물 맛이 좀 밍밍해.",
+  "nuance_ko": "ingredient는 요리나 제품을 이루는 각각의 재료·성분을 말해요. 보통 복수형 ingredients로 레시피나 화장품 성분표에서 자주 보여요. 비유적으로 '성공의 핵심 요소'를 the key ingredient for success처럼 쓰기도 해요. material은 물건을 만드는 원재료, ingredient는 먹거나 바르는 혼합물의 구성 요소라는 느낌이 강해요. 가산명사라서 an ingredient, two ingredients처럼 셀 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "inhabit",
+  "pos": "v",
+  "meaning_ko": "거주하다, 서식하다",
+  "example_en": "Only a few rare birds **inhabit** this small island.",
+  "example_ko": "이 작은 섬에는 희귀한 새 몇 종만 살아요.",
+  "nuance_ko": "inhabit은 사람이나 동물이 어떤 장소에 '자리 잡고 산다'는 뜻의 타동사예요. live in과 비슷하지만 훨씬 격식 있고 글에서 자주 나와요. 타동사라서 inhabit in이라고 쓰면 틀려요. inhabit the area처럼 바로 목적어를 붙여요. 수동태로 The island is inhabited by ~ 형태도 흔하고, 사람이 사는 곳인지 가를 때 inhabited와 uninhabited를 써요.",
+  "also": [
+   {
+    "w": "inhabitant",
+    "pos": "n",
+    "ko": "주민, 서식 동물",
+    "en": "Every **inhabitant** of the village knows him."
+   },
+   {
+    "w": "uninhabited",
+    "pos": "adj",
+    "ko": "사람이 살지 않는",
+    "en": "They found an **uninhabited** island and camped there."
+   }
+  ]
+ },
+ {
+  "w": "inherit",
+  "pos": "v",
+  "meaning_ko": "물려받다, 상속받다",
+  "example_en": "She will **inherit** the family farm when her father retires.",
+  "example_ko": "아버지가 은퇴하시면 그 집 농장은 그녀가 물려받을 거야.",
+  "nuance_ko": "inherit은 재산, 지위, 성격, 유전적 특징을 윗세대에게서 이어받는다는 뜻이에요. 돈·집은 inherit money, 외모나 병은 inherit a trait처럼 써요. 비유적으로 '전임자의 문제를 떠안다'는 뜻으로도 쓰여서 inherit a mess가 자주 나와요. 한국어 '상속하다'와 달리 받는 쪽이 주어라는 점을 기억하세요. 물려주는 쪽은 leave나 pass on을 써요.",
+  "also": [
+   {
+    "w": "inheritance",
+    "pos": "n",
+    "ko": "상속 재산, 유산",
+    "en": "He spent his whole **inheritance** within two years."
+   },
+   {
+    "w": "inherited",
+    "pos": "adj",
+    "ko": "물려받은, 유전된",
+    "en": "It's an **inherited** condition that runs in our family."
+   }
+  ]
+ },
+ {
+  "w": "initial",
+  "pos": "adj",
+  "meaning_ko": "처음의, 초기의",
+  "example_en": "My **initial** reaction was to say no, but I changed my mind.",
+  "example_ko": "처음엔 싫다고 하려 했는데 마음을 바꿨어.",
+  "nuance_ko": "initial은 어떤 과정의 맨 처음 단계를 가리키는 형용사예요. initial reaction, initial plan, initial cost 같은 짝꿍이 흔해요. first와 달리 뒤에 이어지는 변화가 있다는 걸 암시해서, 처음엔 이랬는데 나중엔 달라졌다는 문맥에 잘 맞아요. 명사로는 이름의 첫 글자를 뜻하고 보통 복수형 initials로 써요. 서류에 sign the initials처럼 이니셜을 적는 상황에서 만나요.",
+  "also": [
+   {
+    "w": "initially",
+    "pos": "adv",
+    "ko": "처음에는",
+    "en": "**Initially**, I thought the idea was crazy."
+   },
+   {
+    "w": "initials",
+    "pos": "n",
+    "ko": "이름의 머리글자",
+    "en": "Please write your **initials** at the bottom of each page."
+   }
+  ]
+ },
+ {
+  "w": "initiate",
+  "pos": "v",
+  "meaning_ko": "시작하다, 개시하다",
+  "example_en": "The company will **initiate** a new training program next month.",
+  "example_ko": "회사가 다음 달에 새 교육 프로그램을 시작할 거예요.",
+  "nuance_ko": "initiate는 start의 격식 있는 버전으로, 어떤 일을 '처음 열어서 굴러가게 한다'는 느낌이에요. 계획, 대화, 절차, 소송처럼 공식적이거나 중요한 일에 잘 어울려요. begin이나 start는 일상 대화에서 쓰고, initiate는 뉴스·비즈니스에서 자주 봐요. 일을 먼저 움직인 주체가 누구인지 강조할 때 좋아요. 명사 initiative는 '주도권, 자발성'이라는 별도 뜻이 있어서 take the initiative로 자주 써요.",
+  "also": [
+   {
+    "w": "initiative",
+    "pos": "n",
+    "ko": "주도권, 새로운 계획",
+    "en": "She took the **initiative** and called the client herself."
+   },
+   {
+    "w": "initiation",
+    "pos": "n",
+    "ko": "시작, 입회식",
+    "en": "The **initiation** of the project was delayed."
+   },
+   {
+    "w": "uninitiated",
+    "pos": "adj",
+    "ko": "경험·지식이 없는",
+    "en": "The jargon is confusing to the **uninitiated**."
+   }
+  ]
+ },
+ {
+  "w": "inject",
+  "pos": "v",
+  "meaning_ko": "주사하다, 주입하다",
+  "example_en": "The nurse will **inject** the vaccine into your upper arm.",
+  "example_ko": "간호사가 윗팔에 백신을 놓아 줄 거예요.",
+  "nuance_ko": "inject는 주사기로 약물을 몸에 넣는다는 기본 그림이 있어요. 여기서 확장돼 자금, 활기, 유머를 어떤 곳에 넣는다는 비유로도 써요. inject money into the economy나 inject some humor처럼 말해요. 한국어 '주사 맞다'는 get an injection이나 get a shot이 자연스럽고, be injected는 약간 딱딱해요. 컴퓨터에서 코드를 끼워 넣는 inject도 개발자들이 자주 써요.",
+  "also": [
+   {
+    "w": "injection",
+    "pos": "n",
+    "ko": "주사, 투입",
+    "en": "I'm scared of needles, so I hate getting an **injection**."
+   }
+  ]
+ },
+ {
+  "w": "innovate",
+  "pos": "v",
+  "meaning_ko": "혁신하다, 새로운 것을 도입하다",
+  "example_en": "Small companies often have to **innovate** to survive against big rivals.",
+  "example_ko": "작은 회사들은 큰 경쟁사를 상대로 살아남으려면 혁신해야 하는 경우가 많아요.",
+  "nuance_ko": "innovate는 기존 방식을 벗어나 새로운 방법이나 제품을 만들어 낸다는 뜻이에요. 비즈니스와 기술 뉴스에서 아주 흔하고, 보통 자동사로 쓰여서 목적어 없이 innovate만 말해도 돼요. invent는 세상에 없던 물건을 처음 만드는 것이고, innovate는 기존 것을 새롭게 바꾸는 것까지 포함해요. 명사 innovation과 사람을 가리키는 innovator가 더 자주 쓰여요. 한국 학습자는 innovation을 '기술 혁신'으로만 좁게 이해하는데 서비스나 방식에도 쓰여요.",
+  "also": [
+   {
+    "w": "innovation",
+    "pos": "n",
+    "ko": "혁신, 새로운 방식",
+    "en": "The phone was a real **innovation** at the time."
+   },
+   {
+    "w": "innovator",
+    "pos": "n",
+    "ko": "혁신가",
+    "en": "She is known as a bold **innovator** in fashion."
+   }
+  ]
+ },
+ {
+  "w": "input",
+  "pos": "n",
+  "meaning_ko": "입력, 의견·조언, 투입",
+  "example_en": "We'd really like your **input** before we finalize the design.",
+  "example_ko": "디자인을 확정하기 전에 네 의견을 꼭 듣고 싶어.",
+  "nuance_ko": "input은 컴퓨터에 넣는 입력값이라는 뜻과, 회의에서 받는 '의견·기여'라는 뜻이 있어요. 비즈니스에서는 Can I get your input on this?처럼 부드럽게 의견을 구할 때 자주 써요. 이때는 불가산명사로 취급해서 an input보다 some input, your input이라고 해요. 반대말은 output이에요. 동사로는 데이터를 입력한다는 뜻의 input도 있는데 과거형은 input이나 inputted 둘 다 써요.",
+  "also": []
+ },
+ {
+  "w": "inquire",
+  "pos": "v",
+  "meaning_ko": "문의하다, 묻다",
+  "example_en": "I'm writing to **inquire** about the apartment you listed online.",
+  "example_ko": "온라인에 올리신 아파트에 대해 문의드리려고 메일 드립니다.",
+  "nuance_ko": "inquire는 ask의 격식 있는 말로, 정보를 공식적으로 물어볼 때 써요. inquire about ~ 형태가 가장 흔하고, 이메일이나 안내문에서 자주 만나요. 영국 영어에서는 enquire를 쓰기도 해요. inquire into는 '조사하다'라는 뜻으로 더 깊이 파고드는 느낌이에요. 일상 대화에서는 그냥 ask를 쓰는 게 자연스럽고, inquire를 쓰면 딱딱하게 들려요.",
+  "also": [
+   {
+    "w": "inquiry",
+    "pos": "n",
+    "ko": "문의, 조사",
+    "en": "We received an **inquiry** from a customer this morning."
+   }
+  ]
+ },
+ {
+  "w": "insert",
+  "pos": "v",
+  "meaning_ko": "끼워 넣다, 삽입하다",
+  "example_en": "Please **insert** your card into the slot and wait for the beep.",
+  "example_ko": "카드를 투입구에 넣고 삑 소리가 날 때까지 기다려 주세요.",
+  "nuance_ko": "insert는 어떤 틈이나 구멍 안으로 무언가를 끼워 넣는다는 뜻이에요. 카드, 열쇠, USB처럼 맞는 자리에 넣을 때와 문서에 문장이나 그림을 넣을 때 둘 다 써요. put in보다 딱 맞는 자리에 정확히 끼운다는 느낌이 강해요. 명사로도 쓰여서 신문 속 끼워 넣는 광고지를 insert라고 해요. 문서 프로그램의 Insert 메뉴로 한국 사람들에게도 익숙한 단어예요.",
+  "also": [
+   {
+    "w": "insertion",
+    "pos": "n",
+    "ko": "삽입",
+    "en": "The **insertion** of a new paragraph changed the page count."
+   }
+  ]
+ },
+ {
+  "w": "insight",
+  "pos": "n",
+  "meaning_ko": "통찰력, 깊은 이해",
+  "example_en": "Her talk gave me a lot of **insight** into how customers think.",
+  "example_ko": "그녀의 강연 덕분에 고객이 어떻게 생각하는지 깊이 이해하게 됐어.",
+  "nuance_ko": "insight는 표면 너머의 본질을 꿰뚫어 보는 깊은 이해를 뜻해요. gain insight into ~나 provide insight into ~ 형태로 자주 써요. 불가산으로도 쓰고, 구체적인 깨달음 하나를 말할 때는 an insight처럼 가산으로도 써요. 단순한 정보 information과 달리 '그래서 이게 무슨 의미인지'까지 알게 된 상태예요. 비즈니스, 연구, 기사에서 데이터에서 얻은 시사점을 말할 때 특히 많이 나와요.",
+  "also": [
+   {
+    "w": "insightful",
+    "pos": "adj",
+    "ko": "통찰력 있는",
+    "en": "That was a very **insightful** comment."
+   }
+  ]
+ },
+ {
+  "w": "inspire",
+  "pos": "v",
+  "meaning_ko": "영감을 주다, 고무하다",
+  "example_en": "Her story **inspired** me to start running every morning.",
+  "example_ko": "그녀의 이야기를 듣고 나도 매일 아침 달리기를 시작하게 됐어.",
+  "nuance_ko": "inspire는 누군가의 말이나 행동이 다른 사람에게 의욕과 아이디어를 불어넣는다는 뜻이에요. inspire someone to do ~ 구문이 가장 흔해요. motivate는 동기를 부여하는 데 초점이 있고, inspire는 마음을 움직여 새로운 시도를 하게 하는 느낌이에요. 예술 작품이 어떤 일에서 영감을 받았다는 be inspired by ~ 표현도 자주 써요. 형용사 inspiring은 감동을 주는 대상에, inspired는 영감을 받은 사람에 써요.",
+  "also": [
+   {
+    "w": "inspiration",
+    "pos": "n",
+    "ko": "영감, 영감을 주는 사람",
+    "en": "My grandmother has always been my **inspiration**."
+   },
+   {
+    "w": "inspiring",
+    "pos": "adj",
+    "ko": "감동을 주는",
+    "en": "It was an **inspiring** speech about never giving up."
+   }
+  ]
+ },
+ {
+  "w": "install",
+  "pos": "v",
+  "meaning_ko": "설치하다, 깔다",
+  "example_en": "I need to **install** the update before I can open the app.",
+  "example_ko": "업데이트를 설치해야 앱을 열 수 있어.",
+  "nuance_ko": "install은 프로그램을 컴퓨터에 깔거나 기기·설비를 제자리에 설치한다는 뜻이에요. 에어컨, 보일러, 소프트웨어 모두 같은 단어를 써요. 반대말은 uninstall이고, 한국어처럼 '깔다·지우다' 짝으로 외우면 편해요. 사람을 새 자리에 앉히는 '취임시키다'라는 격식 있는 뜻도 있지만 드물어요. 명사형 installation은 설치 행위뿐 아니라 설치된 시설이나 미술 설치 작품도 가리켜요.",
+  "also": [
+   {
+    "w": "installation",
+    "pos": "n",
+    "ko": "설치, 설비",
+    "en": "The **installation** took only about an hour."
+   }
+  ]
+ },
+ {
+  "w": "instinct",
+  "pos": "n",
+  "meaning_ko": "본능, 직감",
+  "example_en": "My **instinct** told me something was wrong with the deal.",
+  "example_ko": "이 거래에 뭔가 문제가 있다는 직감이 들었어.",
+  "nuance_ko": "instinct는 배우지 않아도 타고난 행동 성향이나, 이성보다 먼저 오는 직감을 뜻해요. 동물의 생존 본능과 사람의 감각을 모두 가리켜요. trust your instincts, follow your instinct처럼 말하고, 개별 직감은 복수형 instincts도 흔해요. intuition은 좀 더 지적이고 조용한 직관, instinct는 즉각적이고 거의 반사적인 느낌이에요. by instinct는 '본능적으로'라는 뜻이에요.",
+  "also": [
+   {
+    "w": "instinctive",
+    "pos": "adj",
+    "ko": "본능적인",
+    "en": "Pulling your hand from a hot stove is an **instinctive** reaction."
+   },
+   {
+    "w": "instinctively",
+    "pos": "adv",
+    "ko": "본능적으로",
+    "en": "She **instinctively** stepped back when the dog barked."
+   }
+  ]
+ },
+ {
+  "w": "institute",
+  "pos": "n",
+  "meaning_ko": "기관, 연구소, 협회",
+  "example_en": "She works at a research **institute** that studies climate change.",
+  "example_ko": "그녀는 기후 변화를 연구하는 연구소에서 일해요.",
+  "nuance_ko": "institute는 연구·교육·전문 분야를 다루는 기관 이름에 자주 붙어요. Massachusetts Institute of Technology가 대표적이에요. school이나 college보다 전문 연구 기관이라는 느낌이 강해요. 동사로는 제도나 규칙을 '도입하다, 시행하다'라는 격식 있는 뜻이 있어요. institute a new policy 같은 표현은 뉴스나 공문서에서 주로 봐요. 명사 institute와 institution은 혼동하기 쉬운데 institution이 더 넓은 개념이에요.",
+  "also": []
+ },
+ {
+  "w": "institution",
+  "pos": "n",
+  "meaning_ko": "기관, 제도, 시설",
+  "example_en": "Banks and universities are major **institutions** in any society.",
+  "example_ko": "은행과 대학은 어느 사회에서나 중요한 기관이에요.",
+  "nuance_ko": "institution은 사회에서 오래 자리 잡은 큰 기관이나 제도를 가리켜요. 은행, 대학, 병원, 정부 같은 조직이 대표적이고 결혼 제도 같은 사회 관습도 포함해요. financial institution, educational institution처럼 분야를 앞에 붙여 써요. 문맥에 따라 병원·교도소 같은 수용 시설을 뜻하기도 해서 부정적 뉘앙스가 있을 수 있어요. 뉴스, 학술, 비즈니스에서 자주 나오는 격식 있는 단어예요.",
+  "also": [
+   {
+    "w": "institutional",
+    "pos": "adj",
+    "ko": "제도적인, 기관의",
+    "en": "The report points to **institutional** problems in the agency."
+   }
+  ]
+ },
+ {
+  "w": "integrate",
+  "pos": "v",
+  "meaning_ko": "통합하다, 융화시키다",
+  "example_en": "We plan to **integrate** the two systems by the end of the year.",
+  "example_ko": "우리는 올해 말까지 두 시스템을 통합할 계획이에요.",
+  "nuance_ko": "integrate는 따로 있던 것들을 하나로 합쳐 매끄럽게 작동하게 한다는 뜻이에요. 단순히 붙이는 combine보다 서로 잘 맞물려 하나의 체계가 된다는 느낌이에요. IT에서 시스템·앱 연동, 사회에서 이민자 통합에 모두 자주 써요. integrate A with B 또는 integrate A into B 형태로 쓰고, 자동사로 '잘 어울리다'도 돼요. 반대 개념은 separate, segregate예요.",
+  "also": [
+   {
+    "w": "integration",
+    "pos": "n",
+    "ko": "통합, 융합",
+    "en": "The **integration** of new staff took a few weeks."
+   },
+   {
+    "w": "integrated",
+    "pos": "adj",
+    "ko": "통합된",
+    "en": "It's an **integrated** system that handles billing and orders."
+   }
+  ]
+ },
+ {
+  "w": "intellectual",
+  "pos": "adj",
+  "meaning_ko": "지적인, 지성의",
+  "example_en": "He prefers **intellectual** conversations over small talk at parties.",
+  "example_ko": "그는 파티에서 잡담보다는 지적인 대화를 더 좋아해요.",
+  "nuance_ko": "intellectual은 머리를 쓰는 활동이나 지적 능력과 관련된 것을 가리키는 형용사예요. intellectual property처럼 쓰면 '지적 재산'이라는 법적·경제적 표현이 돼요. intelligent는 똑똑함 자체, intellectual은 사고와 학문 쪽 성향이 강한 것을 말해요. 명사로는 지식인을 뜻하고, 때로는 너무 이론적이라는 비꼬는 뉘앙스도 있어요. 사람을 직접 intellectual이라 부르면 칭찬일 수도, 거리감일 수도 있어서 맥락을 봐야 해요.",
+  "also": [
+   {
+    "w": "intellectually",
+    "pos": "adv",
+    "ko": "지적으로",
+    "en": "The job is **intellectually** demanding but rewarding."
+   }
+  ]
+ },
+ {
+  "w": "intelligence",
+  "pos": "n",
+  "meaning_ko": "지능, 정보(기관)",
+  "example_en": "Artificial **intelligence** is changing how we write and work.",
+  "example_ko": "인공지능이 우리가 글 쓰고 일하는 방식을 바꾸고 있어요.",
+  "nuance_ko": "intelligence는 배우고 이해하고 문제를 푸는 지적 능력을 뜻해요. 또 하나의 큰 뜻은 군사·국가의 정보, 첩보예요. the intelligence agency, military intelligence처럼 쓰여요. 불가산명사라서 an intelligence라고 하지 않아요. AI는 Artificial Intelligence의 줄임말이고, 형용사는 intelligent예요. 정보 information과 달리 정보기관이 수집한 은밀한 정보를 가리킬 때 특히 써요.",
+  "also": []
+ },
+ {
+  "w": "interact",
+  "pos": "v",
+  "meaning_ko": "상호작용하다, 소통하다",
+  "example_en": "Kids learn a lot by **interacting** with other children.",
+  "example_ko": "아이들은 다른 아이들과 어울리면서 많이 배워요.",
+  "nuance_ko": "interact는 사람이나 사물이 서로 영향을 주고받으며 작용한다는 뜻이에요. interact with ~ 형태로 쓰고, 전치사 with를 빼먹기 쉬워요. 사람 사이의 교류뿐 아니라 약물이 서로 반응하거나 사용자가 앱과 상호작용하는 상황에도 써요. 한국어 '소통하다'보다 쌍방향 주고받음이 핵심이에요. 명사 interaction과 형용사 interactive는 UI·교육 분야에서 특히 흔해요.",
+  "also": [
+   {
+    "w": "interaction",
+    "pos": "n",
+    "ko": "상호작용, 교류",
+    "en": "Daily **interaction** with customers teaches you a lot."
+   },
+   {
+    "w": "interactive",
+    "pos": "adj",
+    "ko": "쌍방향의",
+    "en": "The museum has several **interactive** exhibits for kids."
+   }
+  ]
+ },
+ {
+  "w": "interfere",
+  "pos": "v",
+  "meaning_ko": "간섭하다, 방해하다",
+  "example_en": "Please don't **interfere** when I'm talking to my kids.",
+  "example_ko": "내가 애들이랑 얘기할 땐 끼어들지 말아 줘.",
+  "nuance_ko": "interfere는 남의 일에 불필요하게 끼어들거나 진행을 방해한다는 뜻이에요. interfere in은 남의 일에 참견하는 것, interfere with는 진행을 방해하는 것으로 전치사에 따라 달라요. My phone interferes with the speakers처럼 사물이 주어일 수도 있어요. meddle은 더 부정적이고 못마땅한 참견이에요. 한국 학습자는 전치사 in과 with를 헷갈리는 경우가 많아요.",
+  "also": [
+   {
+    "w": "interference",
+    "pos": "n",
+    "ko": "간섭, 방해, 잡음",
+    "en": "There's a lot of **interference** on this phone line."
+   }
+  ]
+ },
+ {
+  "w": "interior",
+  "pos": "n",
+  "meaning_ko": "내부, 실내",
+  "example_en": "The **interior** of the car is surprisingly spacious.",
+  "example_ko": "이 차는 내부가 생각보다 널찍해요.",
+  "nuance_ko": "interior는 건물이나 자동차, 나라의 안쪽을 가리켜요. 반대말은 exterior이고 둘이 한 쌍으로 다니는 경우가 많아요. interior design은 실내 디자인이라 인테리어는 영어에서 '실내 장식'을 가리키는 말이에요. 한국어 인테리어가 가구·소품 꾸미기를 가리키는 것과 약간 달라서 interior만 말하면 '내부'라는 뜻이 먼저예요. 형용사로도 쓰여서 interior walls는 내벽을 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "internal",
+  "pos": "adj",
+  "meaning_ko": "내부의, 체내의",
+  "example_en": "This is an **internal** memo, so please don't share it outside.",
+  "example_ko": "이건 사내 문서니까 밖에 공유하지 말아 주세요.",
+  "nuance_ko": "internal은 조직이나 몸, 나라의 안쪽에 속한다는 뜻의 형용사예요. internal affairs, internal bleeding, internal memo처럼 짝꿍이 다양해요. 반대말은 external이에요. 한국어 '내부'와 비슷하지만 사람의 마음속은 inner를 쓰는 경우가 많아요. 회사에서 internal은 외부 공개하지 않는 사내용이라는 뉘앙스로 자주 나와요.",
+  "also": [
+   {
+    "w": "internally",
+    "pos": "adv",
+    "ko": "내부적으로",
+    "en": "We discussed the issue **internally** before going public."
+   }
+  ]
+ },
+ {
+  "w": "international",
+  "pos": "adj",
+  "meaning_ko": "국제적인, 국가 간의",
+  "example_en": "She works for an **international** company with offices in ten countries.",
+  "example_ko": "그녀는 열 개 나라에 지사가 있는 국제 회사에서 일해요.",
+  "nuance_ko": "international은 둘 이상의 나라가 관련된다는 뜻이에요. international flight, international law, international students처럼 써요. global은 전 세계 규모, international은 나라 사이의 관계에 초점이 있어요. 한국어 '해외'는 overseas나 foreign으로 말하는 게 자연스러운 때가 많아요. 명사 internationals는 외국 선수나 학생을 가리키기도 해요.",
+  "also": [
+   {
+    "w": "internationally",
+    "pos": "adv",
+    "ko": "국제적으로",
+    "en": "The singer is famous **internationally**."
+   }
+  ]
+ },
+ {
+  "w": "interpret",
+  "pos": "v",
+  "meaning_ko": "해석하다, 통역하다",
+  "example_en": "People can **interpret** the same poem in very different ways.",
+  "example_ko": "같은 시라도 사람마다 전혀 다르게 해석할 수 있어요.",
+  "nuance_ko": "interpret는 의미가 분명하지 않은 것을 자기 나름대로 이해하고 풀이한다는 뜻이에요. 데이터, 꿈, 법, 예술 작품에 주로 써요. 또 하나의 뜻은 구두 통역이에요. 말로 옮기는 건 interpret, 글로 옮기는 건 translate로 구분해요. interpret A as B 형태로 'A를 B로 받아들이다'를 자주 말해요. 오해가 생길 때 Don't interpret that as criticism처럼 써요.",
+  "also": [
+   {
+    "w": "interpretation",
+    "pos": "n",
+    "ko": "해석, 통역",
+    "en": "That's one possible **interpretation** of the data."
+   },
+   {
+    "w": "interpreter",
+    "pos": "n",
+    "ko": "통역사",
+    "en": "We hired an **interpreter** for the meeting."
+   }
+  ]
+ },
+ {
+  "w": "intervene",
+  "pos": "v",
+  "meaning_ko": "개입하다, 중재하다",
+  "example_en": "The teacher had to **intervene** when the argument got heated.",
+  "example_ko": "말다툼이 격해지자 선생님이 나서서 말려야 했어요.",
+  "nuance_ko": "intervene은 상황이 더 나빠지지 않도록 중간에 끼어들어 개입한다는 뜻이에요. 부정적인 참견 interfere와 달리 필요한 개입이라는 긍정적 뉘앙스가 있을 수 있어요. 정부, 경찰, 의료진이 위기에 나서는 상황에서 뉴스에 자주 나와요. 자동사라서 intervene in ~ 형태로 써요. 명사 intervention은 경제 정책 개입이나 의학적 처치까지 넓게 쓰여요.",
+  "also": [
+   {
+    "w": "intervention",
+    "pos": "n",
+    "ko": "개입, 중재",
+    "en": "Early **intervention** can help children with reading problems."
+   }
+  ]
+ },
+ {
+  "w": "intimate",
+  "pos": "adj",
+  "meaning_ko": "친밀한, 아늑한, 사적인",
+  "example_en": "We had an **intimate** dinner with just close friends.",
+  "example_ko": "가까운 친구들끼리만 오붓하게 저녁을 먹었어요.",
+  "nuance_ko": "intimate는 아주 가까운 관계나 조용하고 사적인 분위기를 뜻하는 형용사예요. intimate friend, intimate setting, intimate details처럼 쓰여요. 문맥에 따라 성적 관계를 암시할 수도 있어서 사람에게 쓸 때 조심해야 해요. 한국어 '친밀한'보다 사적이고 개인적인 영역까지 들어간 느낌이에요. 작은 규모의 아늑한 공연장이나 식당을 칭찬할 때도 자주 써요.",
+  "also": [
+   {
+    "w": "intimacy",
+    "pos": "n",
+    "ko": "친밀감",
+    "en": "Years of friendship created a deep **intimacy** between them."
+   },
+   {
+    "w": "intimately",
+    "pos": "adv",
+    "ko": "깊이, 매우 잘",
+    "en": "He knows the city **intimately**."
+   }
+  ]
+ },
+ {
+  "w": "invasion",
+  "pos": "n",
+  "meaning_ko": "침략, 침입",
+  "example_en": "The country prepared for an **invasion** from the north.",
+  "example_ko": "그 나라는 북쪽에서의 침공에 대비했어요.",
+  "nuance_ko": "invasion은 군대가 다른 나라에 쳐들어가는 침략을 뜻해요. 비유적으로 사생활 침해를 invasion of privacy로, 해충이나 인파의 갑작스러운 출현도 invasion이라고 해요. 동사 invade와 짝으로 외우면 좋아요. 뉴스, 역사, 법 분야에서 자주 나오고 일상에서는 비유로 써요. an invasion of ~ 형태로 '~의 침해, ~의 대거 유입'을 표현해요.",
+  "also": []
+ },
+ {
+  "w": "invent",
+  "pos": "v",
+  "meaning_ko": "발명하다, 지어내다",
+  "example_en": "Who **invented** the telephone, and when did it happen?",
+  "example_ko": "전화기는 누가 언제 발명했어요?",
+  "nuance_ko": "invent는 세상에 없던 물건이나 방법을 처음 만들어 낸다는 뜻이에요. discover는 이미 있던 걸 발견하는 것이라 구별해야 해요. 이야기·핑계를 지어낸다는 뜻도 있어서 invent an excuse는 '핑계를 꾸며내다'예요. 명사 invention은 발명품과 발명 행위, 때로 꾸며낸 이야기도 가리켜요. 사람을 가리키는 inventor는 발명가예요.",
+  "also": [
+   {
+    "w": "invention",
+    "pos": "n",
+    "ko": "발명(품)",
+    "en": "The printing press was a revolutionary **invention**."
+   },
+   {
+    "w": "inventor",
+    "pos": "n",
+    "ko": "발명가",
+    "en": "The **inventor** spent years improving his machine."
+   }
+  ]
+ },
+ {
+  "w": "invest",
+  "pos": "v",
+  "meaning_ko": "투자하다, (시간·노력을) 쏟다",
+  "example_en": "She decided to **invest** her savings in a small coffee shop.",
+  "example_ko": "그녀는 모아 둔 돈을 작은 커피숍에 투자하기로 했어요.",
+  "nuance_ko": "invest는 나중에 이익을 기대하며 돈, 시간, 노력을 쏟는다는 뜻이에요. invest in ~ 형태로 쓰고 invest A in B는 'A를 B에 투자하다'예요. 돈뿐 아니라 invest time in learning English처럼 시간과 노력에도 자연스럽게 써요. 단기 매매보다 장기적으로 불린다는 뉘앙스가 있어요. 명사 investment와 사람을 가리키는 investor가 같이 자주 나와요.",
+  "also": [
+   {
+    "w": "investment",
+    "pos": "n",
+    "ko": "투자, 투자금",
+    "en": "Buying a house is a big **investment**."
+   },
+   {
+    "w": "investor",
+    "pos": "n",
+    "ko": "투자자",
+    "en": "The **investors** wanted a quick return."
+   }
+  ]
+ },
+ {
+  "w": "irony",
+  "pos": "n",
+  "meaning_ko": "아이러니, 반어, 역설적 상황",
+  "example_en": "The **irony** is that the fire station burned down last night.",
+  "example_ko": "아이러니하게도 어젯밤에 소방서가 불에 타 버렸어요.",
+  "nuance_ko": "irony는 기대와 정반대의 결과가 나오거나 말과 속뜻이 반대일 때 쓰는 말이에요. 단순한 우연이나 불운과 달라서 '뭔가 모순돼서 씁쓸하거나 웃기다'는 느낌이 있어야 해요. 한국인이 가장 많이 틀리는 건 그냥 불행한 일에 ironic을 붙이는 거예요. 말로 하는 반어는 verbal irony, 상황의 아이러니는 situational irony라고 해요. the irony is that ~ 형태가 입말에서 가장 흔해요.",
+  "also": [
+   {
+    "w": "ironic",
+    "pos": "adj",
+    "ko": "아이러니한, 반어적인",
+    "en": "It's **ironic** that the doctor is always sick."
+   },
+   {
+    "w": "ironically",
+    "pos": "adv",
+    "ko": "역설적이게도",
+    "en": "**Ironically**, the shortcut took us twice as long."
+   }
+  ]
+ },
+ {
+  "w": "isolate",
+  "pos": "v",
+  "meaning_ko": "고립시키다, 분리하다",
+  "example_en": "Patients with the virus must be **isolated** from other people.",
+  "example_ko": "그 바이러스에 걸린 환자는 다른 사람들과 격리해야 해요.",
+  "nuance_ko": "isolate는 무언가를 다른 것들로부터 떼어 놓는다는 뜻이에요. 환자 격리, 문제의 원인 분리, 사회적 고립 모두 isolate로 말해요. 과학에서는 물질이나 원인을 따로 분리해 낸다는 뜻이에요. 수동태 feel isolated는 외로움과 고립감을 표현할 때 자주 써요. 명사 isolation과 형용사 isolated(외딴, 고립된)가 일상에서 더 흔해요.",
+  "also": [
+   {
+    "w": "isolation",
+    "pos": "n",
+    "ko": "고립, 격리",
+    "en": "Months of **isolation** made him feel lonely."
+   },
+   {
+    "w": "isolated",
+    "pos": "adj",
+    "ko": "외딴, 고립된",
+    "en": "They live in an **isolated** cabin in the mountains."
+   }
+  ]
+ },
+ {
+  "w": "jail",
+  "pos": "n",
+  "meaning_ko": "감옥, 교도소",
+  "example_en": "He spent a night in **jail** after the fight.",
+  "example_ko": "그는 싸움 뒤에 하룻밤을 유치장에서 보냈어요.",
+  "nuance_ko": "jail은 재판 전이나 비교적 가벼운 죄로 구금되는 지역 구치소를 말해요. 형기가 긴 죄수가 가는 곳은 prison이라 구별해요. 다만 일상 대화에서는 둘을 섞어 쓰기도 해요. go to jail, in jail처럼 관사 없이 쓰는 게 자연스러워요. 동사로는 '투옥하다'라는 뜻이고 be jailed for ~ 형태가 뉴스에 자주 나와요.",
+  "also": [
+   {
+    "w": "jailed",
+    "pos": "adj",
+    "ko": "투옥된",
+    "en": "The **jailed** journalist was released last week."
+   }
+  ]
+ },
+ {
+  "w": "jet",
+  "pos": "n",
+  "meaning_ko": "제트기, 분출",
+  "example_en": "They flew home on a private **jet** after the concert.",
+  "example_ko": "그들은 콘서트가 끝나고 전용기를 타고 집에 갔어요.",
+  "nuance_ko": "jet은 제트 엔진으로 나는 비행기를 뜻해요. jet lag처럼 장거리 비행으로 생기는 시차 피로에도 쓰여요. 물이나 가스가 좁은 구멍에서 세게 뿜어 나오는 분출도 jet이라고 해요. a jet of water처럼 쓰고 샤워기나 제트 스키가 이 뜻에서 왔어요. private jet은 개인 전용기라 부유함을 나타내는 표현으로 뉴스에 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "joint",
+  "pos": "adj",
+  "meaning_ko": "공동의, 합동의",
+  "example_en": "The two countries issued a **joint** statement about the agreement.",
+  "example_ko": "두 나라는 합의에 관해 공동 성명을 냈어요.",
+  "nuance_ko": "joint는 둘 이상이 함께하는 공동의 것을 가리키는 형용사예요. joint account, joint venture, joint statement가 대표적인 짝꿍이에요. 명사로는 뼈와 뼈가 만나는 관절, 목재나 파이프의 이음매를 뜻해요. 그래서 joint pain은 관절통이에요. 미국 속어로 음식점이나 마약 담배를 가리키기도 해서 문맥을 잘 봐야 해요.",
+  "also": [
+   {
+    "w": "jointly",
+    "pos": "adv",
+    "ko": "공동으로",
+    "en": "The house is **jointly** owned by the couple."
+   }
+  ]
+ },
+ {
+  "w": "journal",
+  "pos": "n",
+  "meaning_ko": "학술지, 일기, 일지",
+  "example_en": "I keep a **journal** to write down my thoughts every night.",
+  "example_ko": "나는 매일 밤 생각을 적으려고 일기를 써요.",
+  "nuance_ko": "journal은 크게 두 가지 뜻이에요. 하나는 매일의 생각이나 일을 기록하는 일기, 다른 하나는 전문 분야의 학술지예요. 학술지는 보통 peer-reviewed journal, medical journal처럼 말해요. diary는 개인의 하루 일상 중심, journal은 생각·기록·성찰에 더 무게가 있어요. magazine은 대중 잡지, journal은 전문가 대상이라는 차이가 있어요.",
+  "also": []
+ },
+ {
+  "w": "journalist",
+  "pos": "n",
+  "meaning_ko": "기자, 언론인",
+  "example_en": "A **journalist** called me this morning asking about the accident.",
+  "example_ko": "오늘 아침 기자가 전화해서 그 사고에 대해 물었어요.",
+  "nuance_ko": "journalist는 신문·방송·온라인 매체에서 취재하고 기사를 쓰는 사람을 두루 가리켜요. reporter는 현장에서 취재하는 기자, journalist는 직업 전반을 아우르는 더 넓은 말이에요. investigative journalist는 탐사 보도 기자예요. 한국어 '기자'가 곧바로 reporter로 번역되는 경우가 많지만 직업 일반을 말할 땐 journalist가 자연스러워요. 형용사는 journalistic이에요.",
+  "also": []
+ },
+ {
+  "w": "jury",
+  "pos": "n",
+  "meaning_ko": "배심원단, 심사위원단",
+  "example_en": "The **jury** found him not guilty after two days of discussion.",
+  "example_ko": "배심원단은 이틀간 논의한 끝에 그에게 무죄를 평결했어요.",
+  "nuance_ko": "jury는 재판에서 유죄·무죄를 판단하는 시민 배심원 전체를 뜻해요. 한 사람은 juror예요. 콘테스트나 영화제에서 우승자를 고르는 심사위원단도 jury라고 해요. 집합명사라서 미국에서는 단수 취급, 영국에서는 복수 취급도 해요. serve on a jury는 '배심원으로 참여하다', jury duty는 배심원 의무예요.",
+  "also": []
+ },
+ {
+  "w": "justify",
+  "pos": "v",
+  "meaning_ko": "정당화하다, 타당함을 입증하다",
+  "example_en": "How can you **justify** spending so much money on a watch?",
+  "example_ko": "시계 하나에 그렇게 큰돈을 쓰는 게 어떻게 정당하다고 할 수 있어?",
+  "nuance_ko": "justify는 어떤 행동이나 결정이 옳거나 합당하다고 이유를 들어 설명한다는 뜻이에요. 대개 의심스럽거나 비용이 큰 일에 대해 쓰고 How can you justify ~?는 따지는 말투예요. justify oneself는 변명하듯 자신을 정당화한다는 의미예요. 인쇄 용어로 글줄을 양쪽 정렬하는 것도 justify예요. 형용사 justified는 '정당한', unjustified는 '부당한'이에요.",
+  "also": [
+   {
+    "w": "justification",
+    "pos": "n",
+    "ko": "정당화, 타당한 이유",
+    "en": "There's no **justification** for such rude behavior."
+   },
+   {
+    "w": "justified",
+    "pos": "adj",
+    "ko": "정당한",
+    "en": "Her anger was completely **justified**."
+   }
+  ]
+ },
+ {
+  "w": "label",
+  "pos": "n",
+  "meaning_ko": "라벨, 상표, 꼬리표",
+  "example_en": "Always read the **label** before you take any medicine.",
+  "example_ko": "약을 먹기 전에는 항상 라벨을 읽어 보세요.",
+  "nuance_ko": "label은 물건에 붙은 표시나 설명서를 말해요. 식품 성분표, 옷 세탁 표시, 약병 설명서가 모두 label이에요. 사람이나 대상에 붙이는 고정된 꼬리표라는 비유로도 써서 '낙인'처럼 부정적일 수 있어요. 동사로는 label A as B 형태로 'A를 B라고 규정하다'예요. 음반 회사를 record label이라고도 불러요. 영국식 철자는 labelled, 미국식은 labeled예요.",
+  "also": []
+ },
+ {
+  "w": "landscape",
+  "pos": "n",
+  "meaning_ko": "풍경, 경치, 가로 방향",
+  "example_en": "The **landscape** here is gorgeous, especially at sunset.",
+  "example_ko": "여기 경치는 특히 해 질 녘에 정말 멋져요.",
+  "nuance_ko": "landscape는 눈앞에 펼쳐진 넓은 육지 풍경을 가리켜요. 산, 들판, 강이 어우러진 자연 경관이 대표적이에요. scenery는 보이는 경치 전체를 느슨하게 말하고, landscape는 땅의 모양에 초점이 있어요. 프린터나 화면 설정에서는 가로 방향(landscape)과 세로 방향(portrait)을 구분해요. 비유적으로 the political landscape처럼 어떤 분야의 전체 상황을 말할 때도 자주 써요.",
+  "also": [
+   {
+    "w": "landscaping",
+    "pos": "n",
+    "ko": "조경",
+    "en": "They spent a lot of money on **landscaping** the garden."
+   }
+  ]
+ },
+ {
+  "w": "latter",
+  "pos": "adj",
+  "meaning_ko": "후자의, 후반의",
+  "example_en": "I like both options, but I prefer the **latter**.",
+  "example_ko": "두 선택지 다 좋은데, 나는 후자가 더 좋아요.",
+  "nuance_ko": "latter는 앞에서 언급한 둘 중 나중에 말한 쪽을 가리켜요. 반대말은 former(전자)로, the former and the latter 형태로 짝을 이뤄요. 셋 이상일 때는 last를 쓰고 latter는 둘일 때만 써요. 이 점을 한국 학습자가 자주 틀려요. the latter half of the year처럼 '후반의'라는 뜻의 형용사로도 쓰여요. 글에서 자주 보이고 회화에서는 드물어요.",
+  "also": []
+ },
+ {
+  "w": "laughter",
+  "pos": "n",
+  "meaning_ko": "웃음, 웃음소리",
+  "example_en": "The room was filled with **laughter** during the whole dinner.",
+  "example_ko": "저녁 내내 방 안이 웃음소리로 가득했어요.",
+  "nuance_ko": "laughter는 웃는 소리나 웃는 행위 전체를 가리키는 불가산명사예요. 한 번 웃는 행위는 laugh이고 그 소리의 집합은 laughter예요. burst into laughter는 '웃음을 터뜨리다', roar with laughter는 '크게 웃다'예요. a laughter, laughters라고 쓰지 않으니 조심하세요. 동사 laugh와 짝으로 laugh는 개별적, laughter는 분위기를 묘사할 때 써요.",
+  "also": []
+ },
+ {
+  "w": "launch",
+  "pos": "v",
+  "meaning_ko": "출시하다, 시작하다, 발사하다",
+  "example_en": "The company plans to **launch** its new app next Friday.",
+  "example_ko": "그 회사는 다음 주 금요일에 새 앱을 출시할 계획이에요.",
+  "nuance_ko": "launch는 로켓을 쏘아 올리거나 배를 물에 띄우듯 '무언가를 세상에 내보낸다'는 그림이에요. 제품 출시, 캠페인 시작, 사업 개시에 폭넓게 써요. 로켓·미사일은 발사한다, 앱·서비스는 출시한다고 번역하면 돼요. 명사로도 같은 모양이고 a product launch가 자주 쓰여요. begin보다 대외적으로 공개하는 이벤트 같은 느낌이 강해요.",
+  "also": []
+ },
+ {
+  "w": "layer",
+  "pos": "n",
+  "meaning_ko": "층, 겹",
+  "example_en": "Put on another **layer**, because it gets cold at night.",
+  "example_ko": "밤에는 추워지니까 한 겹 더 껴입어.",
+  "nuance_ko": "layer는 어떤 것 위에 겹쳐진 한 켜를 가리켜요. 케이크, 지층, 오존층, 옷 껴입기 모두 layer예요. floor가 건물의 층을 말한다면 layer는 두께가 있는 겹을 말해요. dress in layers는 추운 날 여러 겹 껴입는다는 뜻으로 일상적이에요. 동사로 layer도 있어서 겹쳐 쌓는다는 뜻이에요. 비유적으로 an extra layer of security처럼 추가 단계를 말해요.",
+  "also": []
+ },
+ {
+  "w": "leak",
+  "pos": "v",
+  "meaning_ko": "새다, 유출하다",
+  "example_en": "The roof started to **leak** during the storm last night.",
+  "example_ko": "어젯밤 폭풍우 때 지붕에서 물이 새기 시작했어요.",
+  "nuance_ko": "leak은 틈이나 구멍으로 액체나 가스가 새어 나온다는 뜻이에요. 비유적으로 비밀 정보가 몰래 새어 나가는 것도 leak이라고 해요. 이때는 leak the news to the press처럼 타동사로도 쓰여요. 물이 세는 건 자동사, 정보를 흘리는 건 타동사로 구분하면 쉬워요. 명사로 a gas leak, a data leak처럼 흔하게 써요.",
+  "also": [
+   {
+    "w": "leakage",
+    "pos": "n",
+    "ko": "누출, 누설",
+    "en": "They found a gas **leakage** in the basement."
+   },
+   {
+    "w": "leaky",
+    "pos": "adj",
+    "ko": "새는",
+    "en": "We need to fix this **leaky** faucet."
+   }
+  ]
+ },
+ {
+  "w": "lease",
+  "pos": "n",
+  "meaning_ko": "임대차 계약, 임대 기간",
+  "example_en": "Our **lease** ends in June, so we need a new apartment.",
+  "example_ko": "우리 임대 계약이 6월에 끝나서 새 아파트를 구해야 해요.",
+  "nuance_ko": "lease는 집, 사무실, 자동차 등을 일정 기간 빌리거나 빌려주는 계약이에요. sign a lease, break a lease, renew a lease가 대표 표현이에요. rent와 비슷하지만 lease는 보통 길고 공식적인 계약이에요. 동사로는 빌리는 쪽도 빌려주는 쪽도 lease a car처럼 쓸 수 있어요. 한국의 전세·월세와는 제도가 달라서 단순 번역하면 어색해요.",
+  "also": []
+ },
+ {
+  "w": "leather",
+  "pos": "n",
+  "meaning_ko": "가죽",
+  "example_en": "I just bought a new pair of **leather** boots for winter.",
+  "example_ko": "겨울용 가죽 부츠를 새로 한 켤레 샀어요.",
+  "nuance_ko": "leather는 동물 가죽을 가공한 소재를 말해요. 가방, 신발, 소파, 자켓에 쓰여요. 명사로 leather jacket처럼 다른 명사 앞에 붙여 형용사처럼도 써요. 인조 가죽은 faux leather나 synthetic leather라고 해요. 불가산명사라서 a leather가 아니라 some leather나 a piece of leather라고 해요. 소재를 말할 때 made of leather로 표현해요.",
+  "also": []
+ },
+ {
+  "w": "lecture",
+  "pos": "n",
+  "meaning_ko": "강의, 훈계",
+  "example_en": "The professor's **lecture** on climate change was fascinating.",
+  "example_ko": "교수님의 기후 변화 강의는 정말 흥미로웠어요.",
+  "nuance_ko": "lecture는 대학 등에서 한 사람이 청중 앞에서 하는 강의를 뜻해요. attend a lecture, give a lecture처럼 말해요. class가 수업 전반이라면 lecture는 일방적인 설명 중심이에요. 일상 대화에서는 잔소리하듯 길게 훈계하는 것도 lecture라고 해요. Don't lecture me!는 '설교 좀 하지 마'라는 뜻이에요. 동사로 lecture on ~도 가능해요.",
+  "also": [
+   {
+    "w": "lecturer",
+    "pos": "n",
+    "ko": "강사",
+    "en": "She works as a **lecturer** at the local college."
+   }
+  ]
+ },
+ {
+  "w": "legend",
+  "pos": "n",
+  "meaning_ko": "전설, 전설적인 인물",
+  "example_en": "The old **legend** says a dragon sleeps under that mountain.",
+  "example_ko": "옛 전설에 따르면 저 산 밑에서 용이 잠들어 있대요.",
+  "nuance_ko": "legend는 오래전부터 전해지는, 사실과 허구가 섞인 이야기를 가리켜요. 또 업계에서 대단한 업적을 남긴 사람을 a living legend라고 부르기도 해요. myth는 신화적, legend는 역사적 인물이나 사건에 얽힌 이야기라는 느낌이에요. 지도나 도표 아래의 범례도 legend라고 해요. 영어권 인터넷 구어에서 You're a legend!는 '진짜 대단하다, 고마워'라는 칭찬이에요.",
+  "also": [
+   {
+    "w": "legendary",
+    "pos": "adj",
+    "ko": "전설적인",
+    "en": "He's a **legendary** guitarist known around the world."
+   }
+  ]
+ },
+ {
+  "w": "legislate",
+  "pos": "v",
+  "meaning_ko": "법률을 제정하다",
+  "example_en": "Parliament voted to **legislate** against unfair working hours.",
+  "example_ko": "의회는 부당한 근무 시간을 막는 법을 제정하기로 표결했어요.",
+  "nuance_ko": "legislate는 의회나 정부가 법을 만드는 행위를 가리키는 격식 있는 동사예요. 주로 자동사로 legislate against ~ 형태로 '~을 막는 법을 만들다'를 뜻해요. 뉴스나 정치 기사에서 나오고 일상 대화에서는 거의 쓰지 않아요. 법을 만드는 사람은 legislator, 기관은 legislature예요. 관련 단어를 묶어서 외워 두면 정치 뉴스가 훨씬 잘 읽혀요.",
+  "also": [
+   {
+    "w": "legislation",
+    "pos": "n",
+    "ko": "법률, 입법",
+    "en": "New **legislation** on data privacy will take effect next year."
+   },
+   {
+    "w": "legislative",
+    "pos": "adj",
+    "ko": "입법의",
+    "en": "The **legislative** branch makes the laws."
+   }
+  ]
+ },
+ {
+  "w": "legitimate",
+  "pos": "adj",
+  "meaning_ko": "합법적인, 정당한",
+  "example_en": "You have a **legitimate** reason to complain about the delay.",
+  "example_ko": "지연에 대해 불평할 정당한 이유가 있어요.",
+  "nuance_ko": "legitimate는 법적으로나 도덕적으로 정당하고 타당하다는 뜻이에요. legitimate business, legitimate concern, legitimate reason처럼 써요. legal은 법에 맞는지만 따지고, legitimate는 법적 근거와 함께 정당성·진짜임을 나타내요. 정부나 후계자에 쓰면 '정통성 있는'이라는 의미예요. 구어로 줄인 legit은 '진짜인, 믿을 만한, 쩐다'라는 가벼운 말투예요. 반대말은 illegitimate예요.",
+  "also": [
+   {
+    "w": "legitimacy",
+    "pos": "n",
+    "ko": "정당성, 합법성",
+    "en": "Critics questioned the **legitimacy** of the election."
+   },
+   {
+    "w": "legit",
+    "pos": "adj",
+    "ko": "합법적인, 진짜인",
+    "en": "Is this website **legit**, or is it a scam?"
+   }
+  ]
+ },
+ {
+  "w": "liable",
+  "pos": "adj",
+  "meaning_ko": "법적 책임이 있는, ~하기 쉬운",
+  "example_en": "The company is **liable** for any damage caused by its product.",
+  "example_ko": "회사는 자사 제품이 일으킨 어떤 손해에 대해서도 책임이 있어요.",
+  "nuance_ko": "liable은 법적으로 책임을 져야 한다는 뜻이에요. be liable for ~ 형태로 '~에 대해 책임이 있다'를 말해요. 두 번째 뜻은 be liable to do로 '~하기 쉽다'인데, 대개 좋지 않은 일에 써요. 예를 들어 liable to break는 '깨지기 쉬운'이에요. likely는 중립적으로 '~할 것 같다', liable to는 부정적인 가능성에 쓰는 차이가 있어요. 법률과 계약 문서에서 정말 자주 보여요.",
+  "also": [
+   {
+    "w": "liability",
+    "pos": "n",
+    "ko": "법적 책임, 부채",
+    "en": "The company denied any **liability** for the accident."
+   }
+  ]
+ },
+ {
+  "w": "liberal",
+  "pos": "adj",
+  "meaning_ko": "진보적인, 자유주의의, 후한",
+  "example_en": "She grew up in a very **liberal** family that valued free speech.",
+  "example_ko": "그녀는 표현의 자유를 중시하는 아주 진보적인 가정에서 자랐어요.",
+  "nuance_ko": "liberal은 개인의 자유와 변화에 열려 있는 태도를 나타내요. 미국에서는 정치적으로 진보 성향을 가리켜서 반대말이 conservative예요. 유럽에서는 자유시장 중시 성향을 가리킬 때도 있어서 나라마다 의미가 조금 달라요. '후한, 넉넉한'이라는 뜻도 있어서 a liberal amount of sauce는 '소스를 듬뿍'이라는 뜻이에요. liberal arts는 인문·교양 학문을 뜻해요.",
+  "also": [
+   {
+    "w": "liberals",
+    "pos": "n",
+    "ko": "진보주의자들",
+    "en": "**Liberals** and conservatives disagreed on the new law."
+   }
+  ]
+ },
+ {
+  "w": "liberate",
+  "pos": "v",
+  "meaning_ko": "해방시키다, 자유롭게 하다",
+  "example_en": "Soldiers **liberated** the town after months of occupation.",
+  "example_ko": "몇 달간의 점령 끝에 군인들이 그 마을을 해방시켰어요.",
+  "nuance_ko": "liberate는 억압이나 구속에서 풀어 자유롭게 해 준다는 뜻이에요. 점령된 도시, 포로, 억압받는 집단에 쓰는 무거운 단어예요. 비유적으로 형식에서 벗어나게 해 준다는 liberating feeling도 자주 써요. free보다 격식이 있고 싸움이나 투쟁의 결과라는 느낌이 있어요. 명사 liberation은 해방, 광복에 가까운 단어예요.",
+  "also": [
+   {
+    "w": "liberation",
+    "pos": "n",
+    "ko": "해방",
+    "en": "The country celebrated its **liberation** with a parade."
+   },
+   {
+    "w": "liberating",
+    "pos": "adj",
+    "ko": "해방감을 주는",
+    "en": "Quitting that job felt strangely **liberating**."
+   }
+  ]
+ },
+ {
+  "w": "liberty",
+  "pos": "n",
+  "meaning_ko": "자유, 권리",
+  "example_en": "People fought for their **liberty** during the revolution.",
+  "example_ko": "사람들은 혁명 때 자유를 위해 싸웠어요.",
+  "nuance_ko": "liberty는 억압이나 자의적 지배로부터 벗어난 자유로운 상태를 가리켜요. 정치와 법적 권리의 맥락에서 쓰는 격식 있는 단어예요. freedom은 일상적이고 폭넓은 자유, liberty는 제도로 보장되는 자유라는 느낌이에요. at liberty to do는 '~해도 좋다'라는 격식 표현이에요. take the liberty of ~는 '실례를 무릅쓰고 ~하다'로 예의를 갖출 때 써요. Statue of Liberty에서도 익숙한 단어예요.",
+  "also": []
+ },
+ {
+  "w": "link",
+  "pos": "n",
+  "meaning_ko": "링크, 연결, 관련성",
+  "example_en": "I'll send you the **link** to the document right now.",
+  "example_ko": "지금 바로 그 문서 링크 보내 줄게.",
+  "nuance_ko": "link는 웹의 클릭 가능한 주소이면서, 두 대상을 이어 주는 연결이나 관련성을 뜻해요. 인터넷 링크는 일상 대화에서 가장 흔해요. There is a link between smoking and cancer처럼 인과적 관련성도 말해요. 동사로는 link A to B 형태로 'A와 B를 연결하다'예요. 수동태 be linked to ~는 '~와 관련되다'로 뉴스에서 자주 나와요.",
+  "also": [
+   {
+    "w": "linked",
+    "pos": "adj",
+    "ko": "연결된, 관련된",
+    "en": "These two events seem to be **linked**."
+   },
+   {
+    "w": "linkage",
+    "pos": "n",
+    "ko": "연계, 연결",
+    "en": "Researchers found a **linkage** between diet and mood."
+   }
+  ]
+ },
+ {
+  "w": "liquid",
+  "pos": "n",
+  "meaning_ko": "액체",
+  "example_en": "Mix the dry ingredients first, then slowly add the **liquid**.",
+  "example_ko": "마른 재료를 먼저 섞고, 그다음에 액체를 천천히 넣으세요.",
+  "nuance_ko": "liquid는 물이나 기름처럼 흘러 다니는 액체를 가리켜요. 고체 solid, 기체 gas와 함께 물질의 세 가지 상태로 배워요. 형용사로도 쓰여서 liquid soap, liquid assets(현금화하기 쉬운 자산)처럼 말해요. fluid는 흐르는 성질(액체와 기체 모두) 전체를 말하는 더 넓은 용어예요. 요리에서는 재료 중 물, 우유 같은 액상 재료를 총칭해서 쓰기도 해요.",
+  "also": [
+   {
+    "w": "liquidity",
+    "pos": "n",
+    "ko": "유동성",
+    "en": "The firm had a serious problem with **liquidity**."
+   }
+  ]
+ },
+ {
+  "w": "literal",
+  "pos": "adj",
+  "meaning_ko": "문자 그대로의, 글자 그대로의",
+  "example_en": "Don't take it as a **literal** translation; it's more of a rough idea.",
+  "example_ko": "그걸 글자 그대로의 번역으로 받아들이지 마. 대략적인 뜻일 뿐이야.",
+  "nuance_ko": "literal은 비유나 과장 없이 단어의 원래 뜻 그대로라는 의미예요. literal translation은 직역이에요. 반대는 figurative(비유적인)예요. 일상 구어에서 literally를 '정말로, 말 그대로'라고 과장되게 쓰는 경우가 많아요. 예를 들어 I literally died laughing은 실제로 죽은 게 아니에요. 격식 있는 글에서는 이런 과장 용법을 피하는 게 좋아요.",
+  "also": [
+   {
+    "w": "literally",
+    "pos": "adv",
+    "ko": "말 그대로, 정말로",
+    "en": "The house was **literally** next door to the school."
+   }
+  ]
+ },
+ {
+  "w": "literary",
+  "pos": "adj",
+  "meaning_ko": "문학의, 문학적인",
+  "example_en": "She wrote a **literary** magazine when she was in college.",
+  "example_ko": "그녀는 대학 때 문학 잡지를 만들었어요.",
+  "nuance_ko": "literary는 문학에 관한 것, 또는 글이 문학 작품처럼 격조 있다는 뜻의 형용사예요. literary award, literary criticism, literary style처럼 써요. literate(읽고 쓸 줄 아는)와 철자가 비슷해서 헷갈리기 쉬워요. 공식적인 글에서 쓰고 일상 대화에서는 드물어요. literary 뒤에는 보통 work, figure, device 같은 명사가 붙어요.",
+  "also": []
+ },
+ {
+  "w": "literature",
+  "pos": "n",
+  "meaning_ko": "문학, 문헌",
+  "example_en": "He studied English **literature** at university.",
+  "example_ko": "그는 대학에서 영문학을 공부했어요.",
+  "nuance_ko": "literature는 소설, 시, 희곡 같은 문학 작품 전체를 뜻하는 불가산명사예요. 학문 분야에서는 연구 문헌을 가리키기도 해서 review the literature는 '선행 연구를 검토하다'예요. 상품 설명서나 안내 자료도 informal하게 literature라고 불러요. 한 편의 작품은 a work of literature처럼 말해요. fiction, poetry보다 더 상위 개념이에요.",
+  "also": []
+ },
+ {
+  "w": "lobby",
+  "pos": "n",
+  "meaning_ko": "로비, 로비 단체",
+  "example_en": "I'll wait for you in the hotel **lobby** around noon.",
+  "example_ko": "정오쯤 호텔 로비에서 기다릴게.",
+  "nuance_ko": "lobby는 호텔이나 건물 입구의 넓은 공간을 말하고, 정치에서는 특정 이익을 대변하는 압력 단체를 뜻해요. the gun lobby, the farm lobby처럼 업계의 영향력 집단을 가리켜요. 동사로는 정치인에게 영향을 미치려고 로비 활동을 하는 걸 뜻해요. lobby for ~는 '~를 위해 로비하다'예요. 영어에서는 비리 느낌보다 합법적인 정치 활동이라는 중립적 의미도 있어요.",
+  "also": [
+   {
+    "w": "lobbying",
+    "pos": "n",
+    "ko": "로비 활동",
+    "en": "Heavy **lobbying** by the industry delayed the bill."
+   },
+   {
+    "w": "lobbyist",
+    "pos": "n",
+    "ko": "로비스트",
+    "en": "The **lobbyist** met with several senators."
+   }
+  ]
+ },
+ {
+  "w": "lodge",
+  "pos": "v",
+  "meaning_ko": "숙박하다, 박히다, (항의를) 제기하다",
+  "example_en": "A fish bone got **lodged** in his throat during dinner.",
+  "example_ko": "저녁 먹다가 생선 가시가 목에 걸렸어요.",
+  "nuance_ko": "lodge는 일시적으로 머무르다, 어디에 단단히 끼이다, 공식적으로 제기하다 등 여러 뜻이 있어요. get lodged in은 '~에 끼어 걸리다'라는 뜻으로 일상에서도 써요. lodge a complaint는 정식으로 항의를 제기한다는 격식 표현이에요. 명사 lodge는 산장이나 사냥용 오두막을 가리켜요. 숙박업소 lodging은 숙소 자체나 임시 숙박을 뜻해요.",
+  "also": [
+   {
+    "w": "lodging",
+    "pos": "n",
+    "ko": "숙소, 숙박",
+    "en": "Food and **lodging** were included in the tour price."
+   }
+  ]
+ },
+ {
+  "w": "logic",
+  "pos": "n",
+  "meaning_ko": "논리, 타당한 이치",
+  "example_en": "I don't see the **logic** behind this decision at all.",
+  "example_ko": "이 결정이 어떤 논리인지 전혀 모르겠어요.",
+  "nuance_ko": "logic은 옳은 추론의 규칙과 그에 따른 사고방식을 뜻해요. 불가산명사로 the logic of ~ 형태가 흔하고, 일상에서는 말이 되는 이치나 근거를 가리켜요. There's no logic to it은 '말이 안 된다'는 뜻이에요. 컴퓨터에서는 프로그램이 따르는 로직, 즉 처리 흐름을 말해요. 형용사 logical은 논리적인, 당연한 선택이라는 뜻으로도 쓰여요.",
+  "also": [
+   {
+    "w": "logical",
+    "pos": "adj",
+    "ko": "논리적인",
+    "en": "It's the most **logical** choice given the facts."
+   },
+   {
+    "w": "logically",
+    "pos": "adv",
+    "ko": "논리적으로",
+    "en": "Let's think about this **logically**."
+   }
+  ]
+ },
+ {
+  "w": "loyal",
+  "pos": "adj",
+  "meaning_ko": "충성스러운, 의리 있는",
+  "example_en": "He's been a **loyal** customer of our shop for ten years.",
+  "example_ko": "그분은 10년 동안 우리 가게의 단골이었어요.",
+  "nuance_ko": "loyal은 사람, 조직, 신념에 변함없이 의리를 지킨다는 뜻이에요. loyal friend, loyal customer, loyal fan처럼 긍정적인 사람에게 써요. 개의 충성심을 말할 때도 흔해서 a loyal dog 같은 표현이 자주 나와요. be loyal to ~ 형태로 대상을 연결해요. 한국어 의리와 충성 사이 정도의 느낌이에요. 반대로 배신은 disloyal이나 betray로 표현해요.",
+  "also": [
+   {
+    "w": "loyalty",
+    "pos": "n",
+    "ko": "충성심, 의리",
+    "en": "The brand has built a lot of customer **loyalty**."
+   }
+  ]
+ },
+ {
+  "w": "luxury",
+  "pos": "n",
+  "meaning_ko": "사치, 고급품, 호사",
+  "example_en": "A week off work is a real **luxury** for me right now.",
+  "example_ko": "지금 나한테 일주일 쉬는 건 정말 큰 호사야.",
+  "nuance_ko": "luxury는 필수는 아니지만 큰 즐거움과 편안함을 주는 값비싼 것을 뜻해요. 고급 호텔, 명품처럼 비싼 물건에도 쓰고 시간이나 여유가 있을 때의 호사도 가리켜요. a luxury hotel, luxury goods처럼 명사 앞에 붙여 형용사처럼 써요. 가산·불가산 모두 가능한데 사치스러운 생활은 불가산, 구체적인 호사 하나는 a luxury예요. luxurious는 그런 느낌이 나는 형용사예요.",
+  "also": [
+   {
+    "w": "luxurious",
+    "pos": "adj",
+    "ko": "호화로운",
+    "en": "We stayed in a **luxurious** suite with an ocean view."
+   }
+  ]
+ },
+ {
+  "w": "magnet",
+  "pos": "n",
+  "meaning_ko": "자석, 사람을 끄는 것",
+  "example_en": "My kids stuck colorful **magnets** all over the fridge.",
+  "example_ko": "우리 애들이 냉장고 전체에 알록달록한 자석을 붙여 놨어요.",
+  "nuance_ko": "magnet은 쇠붙이를 끌어당기는 자석이에요. 냉장고에 붙이는 기념품 자석도 magnet이라고 불러요. 비유적으로 사람이나 장소를 끌어들이는 것을 a tourist magnet, a magnet for trouble처럼 표현해요. 형용사 magnetic은 '자기를 띤'이라는 뜻과 '매력적인'이라는 뜻을 함께 가져요. a magnetic personality는 사람을 끄는 카리스마를 뜻해요.",
+  "also": [
+   {
+    "w": "magnetic",
+    "pos": "adj",
+    "ko": "자성의, 매력적인",
+    "en": "She has a **magnetic** personality that draws people in."
+   }
+  ]
+ },
+ {
+  "w": "majority",
+  "pos": "n",
+  "meaning_ko": "대다수, 과반수",
+  "example_en": "The **majority** of people here take the subway to work.",
+  "example_ko": "여기 사람들 대부분은 지하철로 출근해요.",
+  "nuance_ko": "majority는 전체 중 절반을 넘는 대다수를 뜻해요. the majority of ~ 뒤의 명사에 따라 동사 수를 일치시켜요. 선거나 표결에서 과반을 얻는다는 뜻으로도 쓰고 반대말은 minority예요. most of와 달리 비율적 우세를 강조하는 정도라 formal한 글에서 잘 나와요. in the majority는 '다수를 차지하는'이라는 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "manifest",
+  "pos": "v",
+  "meaning_ko": "나타내다, 분명히 드러나다",
+  "example_en": "Stress can **manifest** itself as headaches or trouble sleeping.",
+  "example_ko": "스트레스는 두통이나 불면으로 나타날 수 있어요.",
+  "nuance_ko": "manifest는 눈에 보이지 않던 감정, 증상, 성질이 겉으로 분명히 드러난다는 뜻이에요. manifest itself in ~ 또는 manifest as ~ 형태가 자주 쓰여요. 형용사로는 '명백한'이라는 격식 있는 뜻이고 manifest destiny 같은 역사 용어에 나와요. 의학에서 증상이 나타난다고 말할 때 특히 많이 써요. 명사 manifestation은 징후, 표출을 뜻해요.",
+  "also": [
+   {
+    "w": "manifestation",
+    "pos": "n",
+    "ko": "징후, 표출",
+    "en": "His rudeness was a **manifestation** of deeper stress."
+   }
+  ]
+ },
+ {
+  "w": "manipulate",
+  "pos": "v",
+  "meaning_ko": "조종하다, 교묘히 다루다",
+  "example_en": "He tried to **manipulate** her into signing the contract.",
+  "example_ko": "그는 그녀를 교묘하게 구슬려서 계약서에 서명하게 하려 했어요.",
+  "nuance_ko": "manipulate는 사람이나 상황을 자기에게 유리하게 교묘히 움직인다는 뜻으로 보통 부정적이에요. manipulate public opinion, manipulate data가 대표 짝꿍이에요. 도구나 기계를 능숙하게 다룬다는 중립적인 뜻도 있어요. 감정적으로 사람을 조종하는 것을 심리 쪽에서 manipulation이라고 부르고 일상에서도 흔해졌어요. control보다 속임수와 교묘함이 포함된 느낌이에요.",
+  "also": [
+   {
+    "w": "manipulation",
+    "pos": "n",
+    "ko": "조작, 조종",
+    "en": "The report revealed **manipulation** of sales figures."
+   },
+   {
+    "w": "manipulative",
+    "pos": "adj",
+    "ko": "교묘하게 조종하는",
+    "en": "She called him a cold and **manipulative** person."
+   }
+  ]
+ },
+ {
+  "w": "manual",
+  "pos": "adj",
+  "meaning_ko": "수동의, 손으로 하는",
+  "example_en": "I prefer a **manual** car because it feels more fun to drive.",
+  "example_ko": "수동 기어 차가 운전하는 재미가 있어서 더 좋아요.",
+  "nuance_ko": "manual은 기계가 아니라 손으로 하는 수동의, 육체노동의라는 형용사예요. manual labor는 육체노동, manual transmission은 수동 변속기예요. 명사로는 사용 설명서를 뜻해서 user manual이 대표적이에요. 반대말은 형용사일 때 automatic이에요. 두 품사가 같은 모양이어서 문맥으로 구분해요. 한국어 '매뉴얼'은 명사 뜻이 주로 알려져 있어요.",
+  "also": [
+   {
+    "w": "manually",
+    "pos": "adv",
+    "ko": "수동으로",
+    "en": "You'll have to update the file **manually**."
+   }
+  ]
+ },
+ {
+  "w": "manufacture",
+  "pos": "v",
+  "meaning_ko": "제조하다, 대량 생산하다",
+  "example_en": "They **manufacture** car parts in a factory near the coast.",
+  "example_ko": "그들은 해안 근처 공장에서 자동차 부품을 제조해요.",
+  "nuance_ko": "manufacture는 공장에서 기계를 이용해 대량으로 만든다는 뜻이에요. make는 일반적이고 manufacture는 산업적 규모와 격식이 있어요. 비유적으로 증거나 이야기를 '조작해 내다'라는 뜻도 있어요. 명사로는 제조 활동을 가리켜요. 사람을 가리키는 manufacturer는 제조업체이고 made in ~ 표기와 함께 상품에서 자주 만나요.",
+  "also": [
+   {
+    "w": "manufacturer",
+    "pos": "n",
+    "ko": "제조업체",
+    "en": "The **manufacturer** offered a full refund."
+   },
+   {
+    "w": "manufacturing",
+    "pos": "n",
+    "ko": "제조업",
+    "en": "Many jobs in **manufacturing** moved overseas."
+   }
+  ]
+ },
+ {
+  "w": "margin",
+  "pos": "n",
+  "meaning_ko": "여백, 차이(폭), 이윤",
+  "example_en": "She won the election by a narrow **margin** of only two votes.",
+  "example_ko": "그녀는 단 두 표 차이로 근소하게 선거에서 이겼어요.",
+  "nuance_ko": "margin은 문서의 가장자리 여백이라는 기본 뜻이 있어요. 점수나 표 차이를 가리키는 by a wide margin, by a narrow margin 표현이 뉴스에 자주 나와요. 비즈니스에서는 profit margin처럼 이윤 폭을 뜻해요. margin of error는 오차 범위예요. 사회적으로 주변부로 밀려난 사람들을 on the margins of society라고 표현하기도 해요.",
+  "also": [
+   {
+    "w": "marginal",
+    "pos": "adj",
+    "ko": "미미한, 한계의",
+    "en": "The new design made only a **marginal** difference."
+   },
+   {
+    "w": "marginally",
+    "pos": "adv",
+    "ko": "약간, 미미하게",
+    "en": "Sales improved only **marginally** this quarter."
+   }
+  ]
+ },
+ {
+  "w": "marine",
+  "pos": "adj",
+  "meaning_ko": "바다의, 해양의",
+  "example_en": "The aquarium has a huge collection of **marine** life.",
+  "example_ko": "그 수족관에는 엄청나게 다양한 해양 생물이 있어요.",
+  "nuance_ko": "marine은 바다나 해양과 관련된 것을 가리키는 형용사예요. marine biology, marine life, marine environment처럼 과학과 환경 분야에서 쓰여요. 명사로 대문자 Marine은 미 해병대 병사를 뜻해요. sea는 바다 자체, marine은 그것과 관련된 성질을 나타내요. 격식 있는 어휘라서 일상 대화보다는 글, 뉴스, 학술에서 많이 보여요.",
+  "also": []
+ },
+ {
+  "w": "mature",
+  "pos": "adj",
+  "meaning_ko": "성숙한, 어른스러운",
+  "example_en": "He's very **mature** for his age and handles problems calmly.",
+  "example_ko": "그는 나이에 비해 매우 어른스러워서 문제를 침착하게 처리해요.",
+  "nuance_ko": "mature는 심리적·신체적으로 충분히 성장해서 어른스럽다는 뜻이에요. 사람에게는 칭찬이지만 나이 든 사람에게 쓰면 완곡한 표현이 되기도 해요. 치즈, 와인처럼 숙성된 식품에도 써요. 동사로는 '성숙하다, 만기가 되다'를 뜻해서 금융에서 채권이 만기가 될 때 쓰여요. 반대말은 immature로, 유치하다는 비판이 되니 사람에게 쓸 땐 조심해요.",
+  "also": [
+   {
+    "w": "maturity",
+    "pos": "n",
+    "ko": "성숙, 만기",
+    "en": "The bond reaches **maturity** in five years."
+   },
+   {
+    "w": "immature",
+    "pos": "adj",
+    "ko": "미숙한, 유치한",
+    "en": "That was a really **immature** thing to say."
+   }
+  ]
+ },
+ {
+  "w": "mayor",
+  "pos": "n",
+  "meaning_ko": "시장",
+  "example_en": "The **mayor** promised to build more bike lanes downtown.",
+  "example_ko": "시장은 도심에 자전거 도로를 더 만들겠다고 약속했어요.",
+  "nuance_ko": "mayor는 도시나 읍의 장으로 시장을 뜻해요. 대문자로 Mayor Kim처럼 호칭 앞에 붙여 써요. 한국의 시장과 달리 미국과 영국에서는 권한과 선출 방식이 다양해요. 서울시장 같은 광역 단체장은 the mayor of Seoul이라고 해요. 도지사는 governor이고 둘을 혼동하지 않도록 해요. 형용사 mayoral은 시장 선거 같은 맥락에 쓰여요.",
+  "also": [
+   {
+    "w": "mayoral",
+    "pos": "adj",
+    "ko": "시장의",
+    "en": "The **mayoral** race is getting more competitive."
+   }
+  ]
+ },
+ {
+  "w": "meanwhile",
+  "pos": "adv",
+  "meaning_ko": "한편, 그동안에",
+  "example_en": "I'll cook dinner; **meanwhile**, you can set the table.",
+  "example_ko": "내가 저녁을 만들 테니까, 그동안 너는 상을 차려 줘.",
+  "nuance_ko": "meanwhile은 어떤 일이 진행되는 동안 다른 일이 동시에 일어난다고 연결해 주는 부사예요. 이야기에서 장면을 전환할 때 '한편'이라는 느낌으로 써요. 글에서는 문장 맨 앞에 Meanwhile,로 쓰는 게 일반적이에요. in the meantime도 비슷한 뜻이지만 앞으로 기다리는 동안이라는 느낌이 더 강해요. 대조를 나타내는 '반면에'의 뜻으로도 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "mechanic",
+  "pos": "n",
+  "meaning_ko": "정비사, 기계공",
+  "example_en": "My **mechanic** said the brakes need to be replaced soon.",
+  "example_ko": "정비사가 그러는데 브레이크를 곧 교체해야 한대요.",
+  "nuance_ko": "mechanic은 자동차나 기계를 고치는 정비사를 뜻해요. 복수형 mechanics는 역학이라는 학문이나 어떤 일의 작동 원리를 가리켜요. the mechanics of the game은 게임의 작동 방식을 말해요. 형용사 mechanical은 기계의, 기계적인이라는 뜻이고 반복적이고 감정 없는 동작을 가리키기도 해요. 단수 mechanic은 직업, 복수형은 원리라는 차이를 알아 두세요.",
+  "also": [
+   {
+    "w": "mechanical",
+    "pos": "adj",
+    "ko": "기계의, 기계적인",
+    "en": "We had a **mechanical** failure on the flight."
+   }
+  ]
+ },
+ {
+  "w": "mechanism",
+  "pos": "n",
+  "meaning_ko": "기계 장치, 작동 방식, 메커니즘",
+  "example_en": "The lock has a simple **mechanism** that anyone can fix.",
+  "example_ko": "그 자물쇠는 누구나 고칠 수 있을 만큼 구조가 단순해요.",
+  "nuance_ko": "mechanism은 기계의 부품 구조나, 어떤 일이 일어나는 원리와 방식을 가리켜요. 몸의 방어 메커니즘은 defense mechanism, 대처 방식은 coping mechanism이에요. 한국어 메커니즘과 거의 같은 뜻으로 쓰이지만 영어에서는 구체적인 장치도 포함해요. a mechanism for ~ 형태로 '~을 위한 장치·절차'를 표현해요. 학술과 비즈니스 글에서 자주 보여요.",
+  "also": []
+ },
+ {
+  "w": "media",
+  "pos": "n",
+  "meaning_ko": "언론, 매체, 미디어",
+  "example_en": "The **media** covered the story for weeks after the accident.",
+  "example_ko": "언론은 그 사고 이후 몇 주 동안 이 이야기를 보도했어요.",
+  "nuance_ko": "media는 신문, TV, 인터넷 같은 매체와 그것을 운영하는 언론계를 가리켜요. 원래 medium의 복수형이라 문법적으로는 복수지만 집합적으로 단수처럼 쓰기도 해요. social media는 SNS를 포함한 소셜 미디어예요. the media는 정관사를 붙여 언론 전체를 말하는 경우가 많아요. 일상에서 mass media, news media처럼 앞에 수식어를 붙여서 범위를 좁혀요.",
+  "also": []
+ },
+ {
+  "w": "medium",
+  "pos": "adj",
+  "meaning_ko": "중간의, 보통의",
+  "example_en": "I'll have a **medium** coffee and a small salad, please.",
+  "example_ko": "중간 사이즈 커피랑 작은 샐러드 주세요.",
+  "nuance_ko": "medium은 크기나 정도가 중간이라는 형용사로, 카페나 옷 사이즈에서 가장 흔히 만나요. 스테이크 굽기에서는 중간 정도로 익힌 medium이에요. 명사로는 수단, 매체를 뜻하고 복수형은 media 또는 mediums예요. 영매(medium)라는 뜻도 있어서 문맥을 봐야 해요. 사이즈를 말할 때 small, medium, large 순서로 외워 두면 편해요.",
+  "also": []
+ },
+ {
+  "w": "menu",
+  "pos": "n",
+  "meaning_ko": "메뉴, 차림표",
+  "example_en": "Could we see the dessert **menu**, please?",
+  "example_ko": "디저트 메뉴판 좀 볼 수 있을까요?",
+  "nuance_ko": "menu는 음식점에서 고를 수 있는 음식 목록과 그 판을 가리켜요. 컴퓨터나 앱 화면의 메뉴도 같은 단어를 써요. 한국어처럼 음식 한 종류를 메뉴라고 하면 영어에서는 어색한 경우가 많아서 dish나 item이 자연스러워요. 예를 들어 '무슨 메뉴 시킬래?'는 What are you having?에 가까워요. on the menu는 메뉴에 있다는 뜻이고 비유적으로 '예정되어 있다'로도 써요.",
+  "also": []
+ },
+ {
+  "w": "mere",
+  "pos": "adj",
+  "meaning_ko": "단지 ~에 불과한",
+  "example_en": "It took me a **mere** ten minutes to finish the report.",
+  "example_ko": "보고서를 끝내는 데 단 10분밖에 안 걸렸어요.",
+  "nuance_ko": "mere는 '겨우, 단지 ~일 뿐'이라는 뜻으로 대상이 작거나 하찮다고 강조하는 형용사예요. 명사 바로 앞에만 놓이고 서술적으로는 못 써요. a mere child, a mere ten minutes 같은 짝꿍이 흔해요. 비교급이 없고 최상급 merest는 '가장 작은'이라는 강조 표현이에요. just나 only와 비슷하지만 더 글 같고 강조적이에요.",
+  "also": [
+   {
+    "w": "merely",
+    "pos": "adv",
+    "ko": "단지, 그저",
+    "en": "I'm **merely** asking for a small favor."
+   }
+  ]
+ },
+ {
+  "w": "merge",
+  "pos": "v",
+  "meaning_ko": "합병하다, 합치다",
+  "example_en": "The two banks plan to **merge** by the end of next year.",
+  "example_ko": "그 두 은행은 내년 말까지 합병할 계획이에요.",
+  "nuance_ko": "merge는 둘 이상이 하나로 섞이거나 합쳐져서 구분이 없어진다는 뜻이에요. 회사 합병, 도로 합류, 파일 병합에 모두 써요. 도로 표지판 Merge는 차선이 합쳐지니 조심하라는 뜻이에요. 깃(git) 용어로 merge는 코드를 합치는 작업이라 개발자에게 아주 익숙해요. merge with와 merge into 모두 쓰이지만 merge A into B가 흡수되는 느낌이에요.",
+  "also": [
+   {
+    "w": "merger",
+    "pos": "n",
+    "ko": "합병",
+    "en": "The **merger** created the largest airline in the region."
+   }
+  ]
+ },
+ {
+  "w": "method",
+  "pos": "n",
+  "meaning_ko": "방법, 방식",
+  "example_en": "This **method** works best when you have limited time.",
+  "example_ko": "이 방법은 시간이 부족할 때 가장 잘 먹혀요.",
+  "nuance_ko": "method는 어떤 일을 하는 체계적이고 정해진 방식을 가리켜요. way는 일상적인 방법, method는 순서와 절차가 있는 방법이라는 느낌이에요. the scientific method, teaching method, payment method처럼 분야별 표현이 흔해요. 개발에서는 클래스에 속한 함수도 method라고 불러요. method for ~ing와 method of ~ing 둘 다 가능해요.",
+  "also": [
+   {
+    "w": "methodology",
+    "pos": "n",
+    "ko": "방법론",
+    "en": "The study's **methodology** was criticized by experts."
+   }
+  ]
+ },
+ {
+  "w": "migrate",
+  "pos": "v",
+  "meaning_ko": "이주하다, 이동하다",
+  "example_en": "Many birds **migrate** south before the winter begins.",
+  "example_ko": "많은 새들이 겨울이 오기 전에 남쪽으로 이동해요.",
+  "nuance_ko": "migrate는 동물이 계절에 따라 이동하거나 사람이 더 나은 곳을 찾아 옮겨 간다는 뜻이에요. 데이터나 시스템을 새 환경으로 옮기는 것도 migrate라고 해서 IT에서도 흔해요. immigrate는 한 나라로 이민 들어오는 것, emigrate는 나가는 것이라 구분이 필요해요. migrate는 이동 자체와 방향성을 중립적으로 표현해요. 명사 migration, 사람은 migrant예요.",
+  "also": [
+   {
+    "w": "migration",
+    "pos": "n",
+    "ko": "이주, 이동",
+    "en": "The yearly **migration** of whales draws many tourists."
+   }
+  ]
+ },
+ {
+  "w": "mild",
+  "pos": "adj",
+  "meaning_ko": "순한, 온화한, 가벼운",
+  "example_en": "The weather here is **mild** even in the middle of winter.",
+  "example_ko": "여기는 한겨울에도 날씨가 온화해요.",
+  "nuance_ko": "mild는 자극이 약하고 부드러운 상태를 나타내요. 날씨는 춥지도 덥지도 않은 온화함, 음식은 맵지 않은 순한 맛, 증상은 가벼운 정도를 말해요. mild cough, mild flavor, mild climate가 대표적이에요. 사람의 성격이 온순하다는 뜻으로도 쓰지만 약간 소극적인 느낌이 들 수 있어요. 반대말은 상황에 따라 severe, harsh, spicy예요.",
+  "also": [
+   {
+    "w": "mildly",
+    "pos": "adv",
+    "ko": "약간, 부드럽게",
+    "en": "To put it **mildly**, I was disappointed."
+   }
+  ]
+ },
+ {
+  "w": "miner",
+  "pos": "n",
+  "meaning_ko": "광부",
+  "example_en": "The **miners** were trapped underground for three days.",
+  "example_ko": "광부들은 사흘 동안 지하에 갇혀 있었어요.",
+  "nuance_ko": "miner는 광산에서 석탄이나 광물을 캐는 광부를 말해요. 철자가 같은 minor(미성년자, 작은)와 발음이 같아서 헷갈리기 쉬워요. 동사 mine은 '캐다, 채굴하다'이고 비트코인을 만드는 데도 mine을 써서 채굴자를 miner라고 불러요. data mining은 대량의 데이터에서 의미를 캐는 작업이에요. 명사 mine은 광산이면서 지뢰도 뜻해요.",
+  "also": [
+   {
+    "w": "mining",
+    "pos": "n",
+    "ko": "채굴, 광업",
+    "en": "**Mining** is a dangerous job in many countries."
+   }
+  ]
+ },
+ {
+  "w": "minimum",
+  "pos": "n",
+  "meaning_ko": "최소한, 최소량",
+  "example_en": "You need a **minimum** of two years of experience for this job.",
+  "example_ko": "이 일을 하려면 최소 2년의 경력이 필요해요.",
+  "nuance_ko": "minimum은 허용되는 가장 적은 양이나 정도를 가리켜요. a minimum of ~는 '최소한 ~'라는 뜻으로 구인 공고와 규정에서 자주 나와요. the bare minimum은 정말 최소한의 것만 한다는 약간 비꼬는 표현이에요. 형용사로는 minimum wage처럼 '최저의'를 뜻해요. 반대말은 maximum이고 복수형은 minima 또는 minimums예요.",
+  "also": []
+ },
+ {
+  "w": "ministry",
+  "pos": "n",
+  "meaning_ko": "부처, 성직",
+  "example_en": "The **Ministry** of Health announced new guidelines today.",
+  "example_ko": "보건부가 오늘 새로운 지침을 발표했어요.",
+  "nuance_ko": "ministry는 영국과 많은 나라에서 정부의 부처를 가리키는 말이에요. 미국에서는 department를 쓰기 때문에 같은 기관을 두고 표현이 달라요. 예를 들어 한국의 교육부는 the Ministry of Education이라고 해요. 장관은 minister이고 미국에서는 secretary예요. 종교에서는 목회나 성직을 뜻하기도 해서 문맥이 중요해요.",
+  "also": []
+ },
+ {
+  "w": "missile",
+  "pos": "n",
+  "meaning_ko": "미사일, 발사체",
+  "example_en": "The country tested a long-range **missile** over the weekend.",
+  "example_ko": "그 나라는 주말에 장거리 미사일을 시험 발사했어요.",
+  "nuance_ko": "missile은 목표를 향해 날아가도록 설계된 무기를 가리켜요. 스스로 추진력이 있고 유도되는 것이 특징이에요. rocket은 추진체 자체를 말하고 유도 장치가 없을 수도 있어요. 총알처럼 던지거나 쏘는 물체는 projectile이에요. 뉴스에서 missile launch, missile defense, missile test 같은 표현이 많아요.",
+  "also": []
+ },
+ {
+  "w": "mixture",
+  "pos": "n",
+  "meaning_ko": "혼합물, 뒤섞인 것",
+  "example_en": "Pour the **mixture** into a pan and bake for thirty minutes.",
+  "example_ko": "반죽을 팬에 붓고 30분 동안 구우세요.",
+  "nuance_ko": "mixture는 여러 가지를 섞어 놓은 상태나 결과물이에요. 요리 반죽, 화학 혼합물, 감정이 섞인 상태를 모두 가리켜요. a mixture of excitement and fear처럼 서로 다른 감정이 뒤섞였을 때 자주 써요. mix는 동사나 섞인 것 자체를 말하고 mixture는 결과물에 초점이 있어요. 한 가지 성분이 아닌 여러 개일 때 a mixture of A and B 형태로 말해요.",
+  "also": []
+ },
+ {
+  "w": "mobile",
+  "pos": "adj",
+  "meaning_ko": "이동하는, 이동 가능한",
+  "example_en": "Do you have a **mobile** app for ordering food?",
+  "example_ko": "음식 주문할 수 있는 모바일 앱 있어요?",
+  "nuance_ko": "mobile은 쉽게 움직이거나 옮길 수 있다는 뜻이에요. mobile phone, mobile app, mobile home에서 보듯 이동성이 핵심이에요. 영국 영어에서는 휴대전화를 mobile이라고 하고 미국에서는 cell phone이라고 해요. 사람에게 쓰면 몸을 잘 움직일 수 있다는 뜻이고 반대말은 immobile이에요. 사회 계층을 오르내릴 수 있는 social mobility도 같은 어원이에요.",
+  "also": [
+   {
+    "w": "mobility",
+    "pos": "n",
+    "ko": "이동성, 기동성",
+    "en": "Exercise helps older people keep their **mobility**."
+   }
+  ]
+ },
+ {
+  "w": "mode",
+  "pos": "n",
+  "meaning_ko": "모드, 방식, 상태",
+  "example_en": "I switched my phone to silent **mode** during the movie.",
+  "example_ko": "영화 보는 동안 휴대폰을 무음 모드로 바꿨어요.",
+  "nuance_ko": "mode는 기기나 사람이 작동하거나 행동하는 방식·상태를 가리켜요. airplane mode, silent mode, dark mode처럼 전자 기기에서 흔해요. be in vacation mode, work mode처럼 사람의 마음가짐이나 상태에도 비유적으로 써요. a mode of transport는 이동 수단의 종류를 뜻하는 격식 있는 표현이에요. 수학에서는 최빈값을 mode라고 해요.",
+  "also": []
+ },
+ {
+  "w": "moderate",
+  "pos": "adj",
+  "meaning_ko": "적당한, 중간 정도의",
+  "example_en": "Doctors recommend **moderate** exercise for at least thirty minutes a day.",
+  "example_ko": "의사들은 하루 최소 30분의 적당한 운동을 권해요.",
+  "nuance_ko": "moderate는 지나치지 않고 적당한 수준이라는 뜻이에요. moderate exercise, moderate prices, moderate climate가 대표적이에요. 정치에서는 극단적이지 않은 온건파를 moderate라고 불러요. 동사 moderate는 [mɑːdəreɪt]로 발음이 달라지고 '조절하다, 사회를 보다'라는 뜻이에요. 형용사는 [mɑːdərət]로 마지막이 약하게 끝나는 점에 주의해요.",
+  "also": [
+   {
+    "w": "moderately",
+    "pos": "adv",
+    "ko": "적당히, 어느 정도",
+    "en": "The soup was **moderately** spicy, just how I like it."
+   }
+  ]
+ },
+ {
+  "w": "modest",
+  "pos": "adj",
+  "meaning_ko": "겸손한, 대단치 않은",
+  "example_en": "Despite his success, he remains very **modest** about it.",
+  "example_ko": "성공했는데도 그는 그것에 대해 매우 겸손해요.",
+  "nuance_ko": "modest는 자기 업적을 자랑하지 않고 낮추는 겸손함을 뜻해요. 물건이나 숫자에 쓰면 크지 않고 소박하다는 의미라서 a modest income, a modest house는 평범하거나 작은 규모를 말해요. 한국어 겸손하다와 비슷하지만 수량이 많지 않다는 뜻이 의외로 자주 쓰여요. 옷차림이 단정하고 노출이 적을 때도 modest라고 해요. 명사 modesty는 겸손함이에요.",
+  "also": [
+   {
+    "w": "modesty",
+    "pos": "n",
+    "ko": "겸손",
+    "en": "His **modesty** made everyone like him."
+   }
+  ]
+ },
+ {
+  "w": "modify",
+  "pos": "v",
+  "meaning_ko": "수정하다, 변경하다",
+  "example_en": "We had to **modify** the plan after the budget was cut.",
+  "example_ko": "예산이 삭감된 뒤에 계획을 수정해야 했어요.",
+  "nuance_ko": "modify는 전체를 갈아엎지 않고 일부를 조금 바꿔 알맞게 조정한다는 뜻이에요. change보다 작고 목적이 있는 변경이라는 느낌이에요. 소프트웨어나 법, 계약, 차량 개조에도 쓰여요. 문법에서 modifier는 다른 말을 꾸며 주는 수식어를 가리켜요. genetically modified food처럼 유전자 변형에도 써요. 명사 modification은 수정 사항이에요.",
+  "also": [
+   {
+    "w": "modification",
+    "pos": "n",
+    "ko": "수정, 변경",
+    "en": "The contract needs a few small **modifications**."
+   },
+   {
+    "w": "modified",
+    "pos": "adj",
+    "ko": "수정된, 개조된",
+    "en": "He drives a heavily **modified** sports car."
+   }
+  ]
+ },
+ {
+  "w": "module",
+  "pos": "n",
+  "meaning_ko": "모듈, 구성 단위",
+  "example_en": "Each **module** of the course takes about two weeks to finish.",
+  "example_ko": "강의의 각 모듈은 완료하는 데 2주 정도 걸려요.",
+  "nuance_ko": "module은 전체 시스템을 이루는 독립적인 구성 단위를 가리켜요. 교육 과정의 한 단원, 소프트웨어의 기능 단위, 우주선의 분리 가능한 부분이 모두 module이에요. 개발에서 module은 import해서 쓰는 코드 묶음이라 익숙할 거예요. 형용사 modular는 '모듈식의'로 필요한 부분만 조립하는 구조를 말해요. 강좌에서는 course보다 작은 단위로 이해하면 돼요.",
+  "also": [
+   {
+    "w": "modular",
+    "pos": "adj",
+    "ko": "모듈식의",
+    "en": "The company sells **modular** furniture you can rearrange."
+   }
+  ]
+ }
+]

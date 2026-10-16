@@ -1,0 +1,40 @@
+name: 콘텐츠 오류 제보
+description: 뜻, 예문, 뉘앙스, 발음 기호가 틀리거나 어색할 때
+labels: ["content"]
+body:
+  - type: input
+    id: word
+    attributes:
+      label: 단어
+      placeholder: afford
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: 어느 부분인가요?
+      options:
+        - 뜻 (meaning_ko)
+        - 예문 (example_en / example_ko)
+        - 뉘앙스 (nuance_ko)
+        - 이렇게도 쓰인다 (also)
+        - 발음 기호 (IPA)
+        - 기타
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 지금 내용과 문제점
+      description: 카드에 지금 나오는 내용을 붙여 넣고, 무엇이 틀리거나 어색한지 적어 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 고친 내용 제안 (선택)
+  - type: input
+    id: source
+    attributes:
+      label: 근거 (선택)
+      description: 사전 링크 등

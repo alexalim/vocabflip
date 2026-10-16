@@ -1,0 +1,1576 @@
+[
+ {
+  "w": "drag",
+  "pos": "v",
+  "meaning_ko": "끌다, 질질 끌다",
+  "example_en": "I had to **drag** the heavy suitcase up the stairs.",
+  "example_ko": "무거운 여행 가방을 계단 위로 끌고 올라가야 했어.",
+  "nuance_ko": "drag는 무거운 것을 바닥에 닿은 채 힘들게 끌어당기는 동작이에요. drag and drop은 컴퓨터에서 파일을 끌어다 놓는 동작이고, drag someone along은 마지못해 데려가는 느낌이에요. 시간이 느리게 갈 때도 The meeting dragged on이라고 해서 '지루하게 이어졌다'는 뜻이에요. 구어체로 What a drag!는 '정말 귀찮고 따분하네!'라는 뜻이에요. pull은 일반적으로 당기는 것이고, drag는 저항이 있어서 힘들게 끄는 느낌이에요. 불규칙동사가 아니라 dragged로 g를 겹쳐 써요.",
+  "also": []
+ },
+ {
+  "w": "dragon",
+  "pos": "n",
+  "meaning_ko": "용",
+  "example_en": "In the story, a **dragon** guards the golden treasure.",
+  "example_ko": "그 이야기에서는 용이 황금 보물을 지켜.",
+  "nuance_ko": "dragon은 서양 신화와 판타지에 나오는 불을 뿜는 날개 달린 괴물이에요. 동양의 용(龍)과는 이미지가 달라서 서양에서는 대체로 위협적인 존재로 그려져요. slay a dragon은 '용을 처치하다'라는 뜻으로 큰 문제를 해결하는 비유로도 써요. 코모도 도마뱀은 Komodo dragon이라고 불러요. 사나운 여자를 놀리는 속어로 쓰이기도 하는데 무례하니 피하는 게 좋아요. dragonfly는 잠자리예요.",
+  "also": []
+ },
+ {
+  "w": "drama",
+  "pos": "n",
+  "meaning_ko": "드라마, 극적인 사건, 연극",
+  "example_en": "I've been watching a Korean **drama** every night this week.",
+  "example_ko": "이번 주엔 매일 밤 한국 드라마를 보고 있어.",
+  "nuance_ko": "drama는 TV 드라마, 연극, 그리고 일상의 극적인 사건이나 소동을 뜻해요. a TV drama, a historical drama, drama class(연극 수업)처럼 써요. 일상에서 Don't make a drama out of it은 '별일 아닌 걸로 소란 피우지 마'라는 뜻이에요. drama queen은 사소한 일에 과장하는 사람을 놀리는 표현이에요. 코미디 comedy와 대비되어 진지한 극을 가리킬 때가 많아요. 형용사 dramatic은 '극적인, 급격한'이라서 a dramatic change는 급격한 변화예요.",
+  "also": [
+   {
+    "w": "dramatic",
+    "pos": "adj",
+    "ko": "극적인, 급격한",
+    "en": "There was a **dramatic** rise in prices."
+   },
+   {
+    "w": "dramatically",
+    "pos": "adv",
+    "ko": "극적으로",
+    "en": "Sales dropped **dramatically** last month."
+   }
+  ]
+ },
+ {
+  "w": "drawer",
+  "pos": "n",
+  "meaning_ko": "서랍",
+  "example_en": "Your keys are in the top **drawer** of the desk.",
+  "example_ko": "열쇠는 책상 맨 위 서랍에 있어.",
+  "nuance_ko": "drawer는 책상이나 장롱에 달린 서랍이에요. 발음은 [드로어]처럼 한 음절에 가깝게 읽어요. top drawer, kitchen drawer, open a drawer처럼 써요. draw(그리다, 끌어당기다)에 -er이 붙은 단어라서 '끌어당기는 것'이 어원이에요. top-drawer는 형용사처럼 쓰면 '최고급의'라는 뜻이에요. 영국식에서 drawers는 속옷이라는 옛 표현이기도 해요. chest of drawers는 서랍장이에요.",
+  "also": []
+ },
+ {
+  "w": "drum",
+  "pos": "n",
+  "meaning_ko": "드럼, 북, 통",
+  "example_en": "My son is learning to play the **drum**.",
+  "example_ko": "우리 아들은 드럼을 배우는 중이야.",
+  "nuance_ko": "drum은 악기 북이나 드럼, 그리고 원통형 용기를 모두 뜻해요. play the drums처럼 악기를 말할 때는 복수형을 쓰는 경우가 많아요. 큰 기름통은 an oil drum이라고 해요. 동사로 손가락으로 두드리는 동작도 drum이라서 drum one's fingers on the table이라고 해요. drum up은 '지지나 관심을 모으다'라는 구동사예요. 귀 속 고막은 eardrum이에요.",
+  "also": [
+   {
+    "w": "drummer",
+    "pos": "n",
+    "ko": "드러머",
+    "en": "The **drummer** kept a steady beat."
+   }
+  ]
+ },
+ {
+  "w": "duck",
+  "pos": "n",
+  "meaning_ko": "오리, 몸을 숙이다",
+  "example_en": "We fed the **ducks** at the pond with some bread.",
+  "example_ko": "우린 연못에서 빵으로 오리들에게 먹이를 줬어.",
+  "nuance_ko": "duck은 오리라는 명사이면서 갑자기 몸을 숙여 피하는 동사이기도 해요. duck your head는 문틀에 머리가 부딪히지 않게 숙이라는 말이에요. duck out of는 하기 싫은 일에서 슬쩍 빠진다는 뜻이에요. like water off a duck's back은 '아무 효과가 없는, 전혀 신경 쓰지 않는'이라는 관용 표현이에요. sitting duck은 공격받기 쉬운 처지의 대상을 가리켜요. 새끼 오리는 duckling이에요.",
+  "also": []
+ },
+ {
+  "w": "due",
+  "pos": "adj",
+  "meaning_ko": "~하기로 되어 있는, 마감인, 마땅한",
+  "example_en": "The report is **due** on Friday, so I'm working late.",
+  "example_ko": "보고서 마감이 금요일이라서 늦게까지 일하고 있어.",
+  "nuance_ko": "due는 때가 되어 예정되어 있거나 마땅히 받아야 한다는 뜻의 형용사예요. be due on Friday(금요일이 마감이다), The baby is due in May(5월이 출산 예정이다), payment is due(지불 기한이 왔다)처럼 써요. due to + 명사는 '~ 때문에'라는 뜻이고 because of와 비슷하게 쓰여요. in due course는 '때가 되면'이라는 격식 있는 표현이에요. after due consideration은 '충분히 고려한 끝에'라는 뜻이에요. deadline이 정해진 마감이라면 due는 형용사로 그 시점이 도래했음을 나타내요.",
+  "also": [
+   {
+    "w": "unduly",
+    "pos": "adv",
+    "ko": "지나치게",
+    "en": "Don't worry **unduly** about the results."
+   },
+   {
+    "w": "dues",
+    "pos": "n",
+    "ko": "회비",
+    "en": "I have to pay my club **dues** this week."
+   }
+  ]
+ },
+ {
+  "w": "dump",
+  "pos": "v",
+  "meaning_ko": "버리다, 내려놓다, 쓰레기장",
+  "example_en": "Please don't **dump** your trash in the park.",
+  "example_ko": "공원에 쓰레기를 버리지 말아 주세요.",
+  "nuance_ko": "dump는 처리하기 귀찮은 것을 아무렇게나 쏟아버린다는 뜻의 동사예요. 쓰레기를 불법으로 버릴 때도 쓰고, 연인을 갑자기 차버릴 때도 dump라고 해요. He dumped me는 '그가 나를 찼어'라는 구어 표현이에요. 명사 dump는 쓰레기 처리장이거나 지저분한 곳을 뜻해서 This place is a dump는 '여긴 지저분한 곳이야'예요. 컴퓨터에서 data dump는 데이터를 통째로 내보내는 작업이에요. 일을 남에게 떠넘길 때도 dump work on someone이라고 해요.",
+  "also": [
+   {
+    "w": "dumping",
+    "pos": "n",
+    "ko": "투기, 덤핑",
+    "en": "Illegal **dumping** of waste is a crime."
+   }
+  ]
+ },
+ {
+  "w": "dust",
+  "pos": "n",
+  "meaning_ko": "먼지, 먼지를 털다",
+  "example_en": "There's a thick layer of **dust** on the old piano.",
+  "example_ko": "그 오래된 피아노 위에는 먼지가 두껍게 쌓여 있어.",
+  "nuance_ko": "dust는 공기 중이나 표면에 쌓인 먼지이고 셀 수 없는 명사예요. 동사로는 먼지를 털어내다라는 뜻이라서 dust the shelves는 선반의 먼지를 닦는다는 말이에요. 같은 철자의 동사는 반대로 가루를 뿌리다라는 뜻도 있어서 dust a cake with sugar라고 해요. bite the dust는 '쓰러지다, 실패하다', gather dust는 '쓰이지 않고 방치되다'라는 관용 표현이에요. 형용사 dusty는 '먼지투성이인'이에요. 청소 맥락의 dustpan은 쓰레받기예요.",
+  "also": [
+   {
+    "w": "dusty",
+    "pos": "adj",
+    "ko": "먼지투성이의",
+    "en": "The attic was **dusty** and full of old boxes."
+   }
+  ]
+ },
+ {
+  "w": "duty",
+  "pos": "n",
+  "meaning_ko": "의무, 임무, 관세",
+  "example_en": "It's your **duty** as a citizen to vote.",
+  "example_ko": "투표하는 건 시민으로서 네 의무야.",
+  "nuance_ko": "duty는 도덕적·법적·직업적으로 해야 하는 의무나 임무를 뜻해요. do one's duty, a sense of duty, on duty(근무 중), off duty(비번)처럼 써요. 공항의 duty-free shop은 면세점으로, duty가 '관세'라는 뜻이기 때문이에요. 복수형 duties는 직무 내용을 말해서 job duties라고 해요. obligation은 구속력 있는 의무이고 duty는 책임감과 도덕적 무게가 담겨 있어요. 군대에서는 military duty로 병역을 뜻해요.",
+  "also": [
+   {
+    "w": "dutiful",
+    "pos": "adj",
+    "ko": "의무에 충실한",
+    "en": "She is a **dutiful** daughter."
+   }
+  ]
+ },
+ {
+  "w": "earn",
+  "pos": "v",
+  "meaning_ko": "벌다, 얻다",
+  "example_en": "She **earns** about four thousand dollars a month.",
+  "example_ko": "그녀는 한 달에 4천 달러쯤 벌어.",
+  "nuance_ko": "earn은 일하거나 노력해서 돈, 존경, 명성을 얻는다는 뜻이에요. earn a living, earn money, earn respect, earn a degree처럼 써요. win은 경쟁에서 이겨 얻는 것이고 earn은 노력의 대가를 받는 거예요. 돈을 번다는 표현에서 make money도 쓰지만 earn은 근로나 투자에서의 정당한 수입이라는 느낌이에요. well-earned는 '그럴 만한 자격이 있는'이라서 a well-earned rest라고 해요. 명사 earnings는 수입이나 기업의 영업 이익이에요.",
+  "also": [
+   {
+    "w": "earnings",
+    "pos": "n",
+    "ko": "수입, 실적",
+    "en": "The company reported strong **earnings**."
+   },
+   {
+    "w": "earner",
+    "pos": "n",
+    "ko": "돈 버는 사람",
+    "en": "She is the main **earner** in her family."
+   }
+  ]
+ },
+ {
+  "w": "ease",
+  "pos": "n",
+  "meaning_ko": "쉬움, 편안함, 완화하다",
+  "example_en": "She answered the difficult questions with great **ease**.",
+  "example_ko": "그녀는 어려운 질문들에 아주 수월하게 대답했어.",
+  "nuance_ko": "ease는 어렵지 않고 편안한 상태를 뜻하는 명사이면서 완화하다라는 동사예요. with ease는 '쉽게', at ease는 '편안한', ill at ease는 '불편한'이라는 표현이에요. ease the pain은 고통을 덜어준다는 뜻이고 ease into는 서서히 적응해 간다는 뜻이에요. 군대에서는 At ease!가 '편히 쉬어' 구령이에요. 형용사 uneasy는 '불안한, 마음이 편치 않은'이에요. 쉽다는 뜻의 easy는 같은 어원이에요.",
+  "also": [
+   {
+    "w": "uneasy",
+    "pos": "adj",
+    "ko": "불안한",
+    "en": "I felt **uneasy** walking home alone."
+   },
+   {
+    "w": "unease",
+    "pos": "n",
+    "ko": "불안감",
+    "en": "There was a sense of **unease** in the room."
+   }
+  ]
+ },
+ {
+  "w": "economy",
+  "pos": "n",
+  "meaning_ko": "경제, 절약",
+  "example_en": "The **economy** has been slowly improving this year.",
+  "example_ko": "올해 경제가 서서히 나아지고 있어.",
+  "nuance_ko": "economy는 한 나라나 지역의 경제를 뜻하는 말이에요. a strong economy, the global economy, grow the economy처럼 뉴스에서 아주 자주 나와요. 비행기의 economy class는 일반석을 뜻하고, economy size는 경제적인 대용량 포장이에요. 절약이라는 뜻도 있지만 그때는 economies of scale(규모의 경제)처럼 전문 용어로 쓰여요. economic은 경제의, economical은 절약이 되는 것을 말해서 철자와 뜻이 다르니 조심하세요. 학문 economics는 경제학이에요.",
+  "also": [
+   {
+    "w": "economic",
+    "pos": "adj",
+    "ko": "경제의",
+    "en": "The country faces serious **economic** problems."
+   },
+   {
+    "w": "economical",
+    "pos": "adj",
+    "ko": "경제적인, 절약되는",
+    "en": "A hybrid car is more **economical** to drive."
+   },
+   {
+    "w": "economist",
+    "pos": "n",
+    "ko": "경제학자",
+    "en": "The **economist** predicted a slowdown."
+   }
+  ]
+ },
+ {
+  "w": "edit",
+  "pos": "v",
+  "meaning_ko": "편집하다, 수정하다",
+  "example_en": "Can you **edit** my essay before I submit it?",
+  "example_ko": "제출하기 전에 내 에세이 좀 다듬어 줄래?",
+  "nuance_ko": "edit은 글, 영상, 사진 등을 다듬고 고치는 작업이에요. edit a video, edit a document, edit out(삭제하다)처럼 써요. correct는 틀린 곳을 바로잡는 것이고 edit은 전체 구성과 표현을 다듬는 것이에요. 컴퓨터에서 Edit 메뉴는 복사, 붙여넣기, 되돌리기가 모여 있는 곳이에요. 명사 editor는 편집자이고 editorial은 신문의 사설을 뜻해요. 영상 편집자는 video editor예요.",
+  "also": [
+   {
+    "w": "editor",
+    "pos": "n",
+    "ko": "편집자",
+    "en": "The **editor** liked my article."
+   },
+   {
+    "w": "editorial",
+    "pos": "n",
+    "ko": "사설",
+    "en": "The newspaper's **editorial** criticized the policy."
+   }
+  ]
+ },
+ {
+  "w": "effect",
+  "pos": "n",
+  "meaning_ko": "효과, 영향",
+  "example_en": "The new rule had a big **effect** on our work.",
+  "example_ko": "새 규칙은 우리 업무에 큰 영향을 줬어.",
+  "nuance_ko": "effect는 어떤 원인에서 비롯된 결과나 영향을 뜻하는 명사예요. have an effect on(~에 영향을 미치다), side effect(부작용), cause and effect(원인과 결과), special effects(특수효과)처럼 써요. affect(영향을 미치다)는 동사이고 effect는 명사라는 구분이 대원칙이에요. take effect는 법이나 약이 '효력을 발휘하다', in effect는 '사실상'이라는 표현이에요. 동사 effect는 '초래하다'라는 격식 있는 뜻이라서 effect change라고 해요. 영화 효과는 sound effects처럼 복수로 자주 써요.",
+  "also": []
+ },
+ {
+  "w": "effort",
+  "pos": "n",
+  "meaning_ko": "노력, 수고",
+  "example_en": "Thank you for all the **effort** you put into this.",
+  "example_ko": "이 일에 쏟아 준 모든 노력에 감사해.",
+  "nuance_ko": "effort는 어떤 일을 해내려고 쏟는 힘과 노력이에요. make an effort, put effort into, with effort, effortless처럼 써요. 불가산으로 쓰면 에너지 같은 것이고 an effort로 쓰면 하나의 시도예요. 예를 들어 It takes effort는 '노력이 든다'는 뜻이고, in an effort to는 '~하려는 노력으로'예요. It's not worth the effort는 '수고할 만한 가치가 없다'는 표현이에요. try는 시도 자체이고 effort는 들이는 힘의 양에 초점이 있어요.",
+  "also": [
+   {
+    "w": "effortless",
+    "pos": "adj",
+    "ko": "힘들이지 않은",
+    "en": "The dancer made it look **effortless**."
+   }
+  ]
+ },
+ {
+  "w": "elder",
+  "pos": "adj",
+  "meaning_ko": "손위의, 연장자",
+  "example_en": "My **elder** brother lives in Busan.",
+  "example_ko": "우리 형은 부산에 살아.",
+  "nuance_ko": "elder는 두 사람 중 나이가 많은 쪽을 가리키는 형용사이고, 명사로는 연장자나 어르신을 뜻해요. my elder sister, the elder of the two처럼 비교 대상이 있을 때 쓰고 elder than이라고 하지는 않아요. older는 일반적인 비교급이라서 older than을 쓸 수 있어요. elders는 마을이나 공동체의 어른들을 말해서 Respect your elders는 어른을 공경하라는 말이에요. 형용사 elderly는 '연세가 드신'이라는 예의 바른 표현이에요. 한국어 '형, 누나, 언니, 오빠'는 모두 elder brother/sister로 옮겨요.",
+  "also": [
+   {
+    "w": "elderly",
+    "pos": "adj",
+    "ko": "연세가 드신",
+    "en": "An **elderly** man offered me his seat."
+   }
+  ]
+ },
+ {
+  "w": "elect",
+  "pos": "v",
+  "meaning_ko": "선출하다, 뽑다",
+  "example_en": "The people **elected** her as mayor last year.",
+  "example_ko": "작년에 시민들은 그녀를 시장으로 선출했어.",
+  "nuance_ko": "elect는 투표로 대표를 선출하는 동사예요. elect someone (as) president, be elected to office처럼 써요. 선출된 사람 앞에 붙는 president-elect는 '당선인'이라는 뜻이에요. 격식 있는 문어체에서 elect to do는 '~하기로 선택하다'라는 뜻이기도 해요. appoint는 윗사람이 임명하는 것이고, elect는 투표로 뽑는 거예요. 명사 election은 선거이고 electoral은 선거의 뜻이에요.",
+  "also": [
+   {
+    "w": "election",
+    "pos": "n",
+    "ko": "선거",
+    "en": "The **election** will be held in November."
+   },
+   {
+    "w": "elected",
+    "pos": "adj",
+    "ko": "선출된",
+    "en": "She is a newly **elected** official."
+   }
+  ]
+ },
+ {
+  "w": "electric",
+  "pos": "adj",
+  "meaning_ko": "전기의, 전동의",
+  "example_en": "My neighbor just bought an **electric** car.",
+  "example_ko": "이웃이 막 전기차를 샀어.",
+  "nuance_ko": "electric은 전기로 작동하는 기기나 전기 자체와 관련된 형용사예요. an electric car, an electric guitar, electric shock(감전)처럼 써요. electrical은 전기 관련 분야를 말해서 electrical engineer, electrical wiring이라고 해요. 둘의 차이는 electric은 전기로 작동하는 물건, electrical은 전기와 관련된 일반적인 것으로 대략 구분돼요. 분위기가 짜릿하다는 비유로 an electric atmosphere도 써요. 명사 electricity는 전기 에너지를 뜻하는 셀 수 없는 명사예요.",
+  "also": [
+   {
+    "w": "electricity",
+    "pos": "n",
+    "ko": "전기",
+    "en": "The storm knocked out the **electricity**."
+   },
+   {
+    "w": "electrician",
+    "pos": "n",
+    "ko": "전기 기사",
+    "en": "We called an **electrician** to fix the wiring."
+   }
+  ]
+ },
+ {
+  "w": "elephant",
+  "pos": "n",
+  "meaning_ko": "코끼리",
+  "example_en": "The baby **elephant** followed its mother across the river.",
+  "example_ko": "아기 코끼리가 엄마를 따라 강을 건넜어.",
+  "nuance_ko": "elephant는 코끼리예요. the elephant in the room은 모두 알지만 언급하지 않는 불편한 문제를 가리키는 유명한 표현이에요. white elephant는 유지비만 들고 쓸모없는 물건을 뜻하고, 선물 교환 놀이의 이름이기도 해요. An elephant never forgets는 코끼리가 기억력이 좋다는 속담이에요. 아주 큰 것을 비유할 때도 쓰여요. 코끼리의 코는 trunk, 상아는 tusk라고 해요.",
+  "also": []
+ },
+ {
+  "w": "email",
+  "pos": "n",
+  "meaning_ko": "이메일, 이메일을 보내다",
+  "example_en": "I'll send you an **email** with all the details tonight.",
+  "example_ko": "오늘 밤에 세부 내용을 이메일로 보내 줄게.",
+  "nuance_ko": "email은 전자 우편이고 명사와 동사로 모두 써요. send an email, reply to an email, email me처럼 써요. 철자는 email과 e-mail 둘 다 쓰이는데 요즘은 email이 일반적이에요. mail은 우편물이나 우편 시스템을 뜻하고 email은 전자 메시지를 말해요. 동사로 쓰면 I'll email you처럼 전치사 없이 사람을 직접 목적어로 받아요. 업무에서는 CC, BCC, attachment 같은 관련 용어가 함께 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "embarrass",
+  "pos": "v",
+  "meaning_ko": "당황스럽게 하다, 창피하게 하다",
+  "example_en": "Please don't **embarrass** me in front of my friends.",
+  "example_ko": "친구들 앞에서 날 창피하게 만들지 말아 줘.",
+  "nuance_ko": "embarrass는 사람들 앞에서 어색하고 창피하게 만든다는 동사예요. 감정을 느끼는 사람은 embarrassed, 창피한 상황은 embarrassing이라서 I'm embarrassed와 It's embarrassing으로 구분해요. 철자가 어려워서 r과 s가 모두 두 번 들어가는 점을 기억하세요. shy는 성격이고 embarrassed는 순간적인 감정이에요. ashamed는 도덕적으로 부끄러운 감정이라서 embarrassed와 다르게 죄책감이 섞여요. 명사 embarrassment는 당혹감 또는 창피한 존재라서 He's an embarrassment처럼 써요.",
+  "also": [
+   {
+    "w": "embarrassed",
+    "pos": "adj",
+    "ko": "창피한, 당황한",
+    "en": "I was so **embarrassed** when I forgot her name."
+   },
+   {
+    "w": "embarrassing",
+    "pos": "adj",
+    "ko": "창피한, 곤란한",
+    "en": "That was an **embarrassing** mistake."
+   }
+  ]
+ },
+ {
+  "w": "emotion",
+  "pos": "n",
+  "meaning_ko": "감정",
+  "example_en": "She couldn't hide her **emotion** when she saw the gift.",
+  "example_ko": "그녀는 선물을 보고 감정을 숨기지 못했어.",
+  "nuance_ko": "emotion은 기쁨, 슬픔, 분노 같은 마음의 감정을 뜻하는 명사예요. show emotion, mixed emotions, control your emotions처럼 써요. feeling은 더 일상적이고 일반적인 느낌이고 emotion은 더 강하게 느껴지는 감정이에요. 형용사 emotional은 '감정적인, 감동적인'이라서 an emotional speech는 감동적인 연설이에요. 사람에게 emotional이라고 하면 감정 기복이 큰 편이라는 뜻일 수 있어요. emotional intelligence는 감성 지능을 뜻해요.",
+  "also": [
+   {
+    "w": "emotional",
+    "pos": "adj",
+    "ko": "감정적인, 감동적인",
+    "en": "It was an **emotional** goodbye."
+   }
+  ]
+ },
+ {
+  "w": "empire",
+  "pos": "n",
+  "meaning_ko": "제국",
+  "example_en": "The Roman **Empire** once ruled most of Europe.",
+  "example_ko": "로마 제국은 한때 유럽 대부분을 지배했어.",
+  "nuance_ko": "empire는 여러 영토나 민족을 지배하는 제국이에요. the Roman Empire, the British Empire, build an empire처럼 써요. 비유적으로는 거대한 사업망을 뜻해서 a media empire는 거대 언론 기업이에요. kingdom은 왕이 다스리는 나라이고 empire는 더 큰 지배력을 가진 체제예요. 황제는 emperor이고 제국의 지배자를 가리켜요. 영화 Star Wars에는 Galactic Empire가 등장해요.",
+  "also": []
+ },
+ {
+  "w": "encourage",
+  "pos": "v",
+  "meaning_ko": "격려하다, 장려하다",
+  "example_en": "My teacher always **encouraged** me to keep writing.",
+  "example_ko": "선생님은 늘 내가 계속 글을 쓰도록 격려해 주셨어.",
+  "nuance_ko": "encourage는 누군가가 용기를 내거나 어떤 일을 하도록 북돋워 준다는 동사예요. encourage someone to do 구문이 기본이고, encourage a habit처럼 행동이나 습관을 장려할 수도 있어요. support는 곁에서 돕는 것이고 encourage는 마음의 힘을 불어넣는 거예요. 반대말은 discourage(낙담시키다, 말리다)예요. 수동형 be encouraged는 '용기를 얻다, 고무되다'라는 뜻이에요. 명사 encouragement는 격려의 말이나 행동이에요.",
+  "also": [
+   {
+    "w": "encouraging",
+    "pos": "adj",
+    "ko": "고무적인",
+    "en": "The test results were very **encouraging**."
+   },
+   {
+    "w": "encouragement",
+    "pos": "n",
+    "ko": "격려",
+    "en": "Thanks for your **encouragement**."
+   }
+  ]
+ },
+ {
+  "w": "enemy",
+  "pos": "n",
+  "meaning_ko": "적, 원수",
+  "example_en": "He made an **enemy** of his boss by speaking up.",
+  "example_ko": "그는 의견을 말했다가 상사의 눈 밖에 나 버렸어.",
+  "nuance_ko": "enemy는 적대 관계에 있는 상대, 즉 적이에요. make an enemy, a common enemy, public enemy처럼 써요. 군사적으로는 상대 국가나 군대를 the enemy라고 해요. 비유적으로 건강의 적을 말할 때 Sugar is the enemy라고 표현해요. opponent는 경기나 논쟁의 상대이고 enemy는 더 적대적이고 해를 끼치려는 존재예요. rival은 경쟁 상대라서 적대감이 약해요. The enemy of my enemy is my friend는 유명한 격언이에요.",
+  "also": []
+ },
+ {
+  "w": "energy",
+  "pos": "n",
+  "meaning_ko": "에너지, 기력",
+  "example_en": "I don't have the **energy** to cook tonight.",
+  "example_ko": "오늘 밤엔 요리할 기력이 없어.",
+  "nuance_ko": "energy는 활동하는 힘과 기력, 그리고 전기·가스 같은 에너지원을 모두 뜻해요. full of energy, save energy, renewable energy, energy drink처럼 쓰여요. 불가산 명사라서 an energy라고 하지 않고 a lot of energy라고 해요. power는 힘이나 전력 자체이고 energy는 일을 할 수 있는 능력의 양이에요. 사람에게 She has so much energy라고 하면 활기가 넘친다는 뜻이에요. 형용사 energetic은 '활동적인'이에요.",
+  "also": [
+   {
+    "w": "energetic",
+    "pos": "adj",
+    "ko": "활동적인",
+    "en": "The puppy is very **energetic**."
+   }
+  ]
+ },
+ {
+  "w": "engage",
+  "pos": "v",
+  "meaning_ko": "참여시키다, 끌다, 약혼하다",
+  "example_en": "A good teacher knows how to **engage** students.",
+  "example_ko": "좋은 교사는 학생들을 수업에 참여시키는 법을 알아.",
+  "nuance_ko": "engage는 사람의 관심을 끌어 어떤 활동에 참여시키거나 몰입하게 한다는 뜻이에요. engage in은 '~에 종사하다, 참여하다', engage with는 '~와 교류하다'예요. 약혼한 사이를 be engaged라고 하고 engaged to someone이라고 해요. 전화가 통화 중일 때 영국식에서는 The line is engaged라고 해요. 기어를 맞물리게 할 때도 engage the gear라고 해요. 마케팅에서 engagement는 사용자 참여도를 뜻해요.",
+  "also": [
+   {
+    "w": "engaged",
+    "pos": "adj",
+    "ko": "약혼한, 몰두한",
+    "en": "They got **engaged** last summer."
+   },
+   {
+    "w": "engagement",
+    "pos": "n",
+    "ko": "약혼, 참여",
+    "en": "Their **engagement** was announced yesterday."
+   },
+   {
+    "w": "engaging",
+    "pos": "adj",
+    "ko": "매력적인, 흥미로운",
+    "en": "She is an **engaging** speaker."
+   }
+  ]
+ },
+ {
+  "w": "engineer",
+  "pos": "n",
+  "meaning_ko": "기술자, 엔지니어",
+  "example_en": "My sister works as a software **engineer**.",
+  "example_ko": "우리 언니는 소프트웨어 엔지니어로 일해.",
+  "nuance_ko": "engineer는 기계, 전기, 소프트웨어 같은 분야를 설계하고 만드는 기술자예요. a civil engineer, a software engineer, a chief engineer처럼 분야를 앞에 붙여요. 동사 engineer는 '교묘하게 꾸미다'라는 뜻도 있어서 engineer a plan이라고 해요. technician은 기술을 실무로 다루는 사람이고 engineer는 설계와 문제 해결에 더 가까워요. 열차 기관사도 영어로 engineer예요. 학문 engineering은 공학이에요.",
+  "also": [
+   {
+    "w": "engineering",
+    "pos": "n",
+    "ko": "공학",
+    "en": "He studied mechanical **engineering** at university."
+   }
+  ]
+ },
+ {
+  "w": "enormous",
+  "pos": "adj",
+  "meaning_ko": "거대한, 막대한",
+  "example_en": "They live in an **enormous** house with ten bedrooms.",
+  "example_ko": "그들은 침실이 열 개나 되는 어마어마한 집에 살아.",
+  "nuance_ko": "enormous는 크기, 양, 정도가 엄청나게 크다는 뜻이에요. an enormous amount of, enormous pressure, enormous success처럼 써요. big과 large보다 훨씬 강한 표현이고 huge나 giant와 비슷해요. 이미 강한 의미라서 very enormous는 어색하고 absolutely enormous라고 해요. enormity는 사실 '극악무도함'이라는 뜻도 있어서 enormous와 혼동하지 않도록 주의해야 해요. 부사 enormously는 '대단히'라서 enormously popular처럼 써요.",
+  "also": [
+   {
+    "w": "enormously",
+    "pos": "adv",
+    "ko": "엄청나게",
+    "en": "The film was **enormously** popular."
+   }
+  ]
+ },
+ {
+  "w": "entertain",
+  "pos": "v",
+  "meaning_ko": "즐겁게 하다, 대접하다",
+  "example_en": "Magicians **entertain** the crowd at the festival every year.",
+  "example_ko": "마술사들이 해마다 축제에서 관객을 즐겁게 해.",
+  "nuance_ko": "entertain은 사람들을 즐겁게 해 준다는 뜻과 손님을 접대한다는 뜻이 있어요. entertain guests는 손님을 대접하는 것이고 entertain an idea는 '어떤 생각을 고려하다'라는 격식 있는 표현이에요. amuse는 가볍게 웃게 하는 것이고 entertain은 공연이나 이야기로 즐기게 하는 거예요. 명사 entertainment는 오락이고, entertainer는 연예인이나 공연자예요. 비즈니스 접대는 business entertainment라고 해요. entertaining은 '재미있는'이라는 형용사예요.",
+  "also": [
+   {
+    "w": "entertainment",
+    "pos": "n",
+    "ko": "오락, 연예",
+    "en": "There is live **entertainment** every weekend."
+   },
+   {
+    "w": "entertaining",
+    "pos": "adj",
+    "ko": "재미있는",
+    "en": "He gave an **entertaining** talk."
+   }
+  ]
+ },
+ {
+  "w": "entire",
+  "pos": "adj",
+  "meaning_ko": "전체의, 온전한",
+  "example_en": "I spent the **entire** weekend cleaning my apartment.",
+  "example_ko": "주말 내내 집 청소하는 데 다 보냈어.",
+  "nuance_ko": "entire는 빠진 부분 없이 전체라는 뜻을 강조하는 형용사예요. the entire day, the entire country, an entire pizza처럼 the나 소유격 뒤에서 명사를 꾸며요. whole과 거의 같은 뜻이지만 entire는 조금 더 강조하는 느낌이에요. entire 앞에는 보통 정관사가 와서 the entire, my entire로 쓰고 an entire day도 가능해요. 부사 entirely는 '완전히'라서 not entirely true처럼 부분 부정으로도 써요. all은 대명사처럼 쓸 수 있지만 entire는 형용사로만 써요.",
+  "also": [
+   {
+    "w": "entirely",
+    "pos": "adv",
+    "ko": "전적으로",
+    "en": "I **entirely** agree with you."
+   }
+  ]
+ },
+ {
+  "w": "envelope",
+  "pos": "n",
+  "meaning_ko": "봉투",
+  "example_en": "She put the letter in an **envelope** and sealed it.",
+  "example_ko": "그녀는 편지를 봉투에 넣고 봉했어.",
+  "nuance_ko": "envelope은 편지나 서류를 넣는 봉투예요. 발음은 [엔벌로웁]이 흔하고 [온벌로웁]도 써요. seal an envelope, an addressed envelope, a self-addressed stamped envelope처럼 우편 용어와 함께 나와요. push the envelope는 '한계를 넘어서려 하다'라는 관용 표현이에요. 돈 선물이나 팁을 줄 때도 envelope에 넣어 줘요. 동사 envelop은 철자와 발음이 다르게 [인벨럽]으로 '감싸다'라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "environment",
+  "pos": "n",
+  "meaning_ko": "환경",
+  "example_en": "We should do more to protect the **environment**.",
+  "example_ko": "우린 환경을 지키려고 더 노력해야 해.",
+  "nuance_ko": "environment는 자연환경과 사람이 살거나 일하는 주변 환경을 모두 뜻해요. protect the environment는 자연 보호, a good working environment는 근무 환경이에요. 자연환경을 말할 때는 보통 the environment처럼 정관사를 붙여요. 컴퓨터에서는 development environment처럼 작업 환경을 가리켜요. 철자에서 n이 두 번째에 들어가는 점을 자주 틀려서 environment라고 써야 해요. 형용사 environmental은 환경의라서 environmental issues라고 해요.",
+  "also": [
+   {
+    "w": "environmental",
+    "pos": "adj",
+    "ko": "환경의",
+    "en": "They are working on **environmental** issues."
+   },
+   {
+    "w": "environmentalist",
+    "pos": "n",
+    "ko": "환경운동가",
+    "en": "The **environmentalist** spoke at the rally."
+   }
+  ]
+ },
+ {
+  "w": "equal",
+  "pos": "adj",
+  "meaning_ko": "같은, 평등한",
+  "example_en": "Men and women should receive **equal** pay for equal work.",
+  "example_ko": "같은 일을 하면 남녀 모두 동일한 임금을 받아야 해.",
+  "nuance_ko": "equal은 크기, 양, 지위가 같은 상태를 말하는 형용사예요. equal rights, equal opportunity, equal to(~와 같은)처럼 써요. 동사로는 '같다, 맞먹다'라서 Two plus two equals four처럼 써요. same은 똑같다는 뜻이고 equal은 가치나 양이 동등하다는 뜻이에요. be equal to the task는 '그 일을 감당할 능력이 있다'는 관용 표현이에요. 명사 equality는 평등이고 inequality는 불평등이에요.",
+  "also": [
+   {
+    "w": "equally",
+    "pos": "adv",
+    "ko": "똑같이, 마찬가지로",
+    "en": "Both options are **equally** good."
+   },
+   {
+    "w": "equality",
+    "pos": "n",
+    "ko": "평등",
+    "en": "The group fights for gender **equality**."
+   },
+   {
+    "w": "unequal",
+    "pos": "adj",
+    "ko": "불평등한",
+    "en": "The two teams had **unequal** resources."
+   }
+  ]
+ },
+ {
+  "w": "equipment",
+  "pos": "n",
+  "meaning_ko": "장비, 기기",
+  "example_en": "The gym has a lot of modern **equipment**.",
+  "example_ko": "그 헬스장에는 최신 장비가 많아.",
+  "nuance_ko": "equipment는 어떤 일에 필요한 장비와 기구 전체를 뜻하는 불가산 명사예요. an equipment나 equipments라고 쓰면 틀리고, a piece of equipment 또는 some equipment라고 해요. 이 점은 한국 학습자가 정말 자주 틀리는 부분이에요. sports equipment, office equipment, medical equipment처럼 분야를 앞에 붙여요. tool은 개별 도구이고 equipment는 여러 장비의 총칭이에요. 동사 equip은 '장비를 갖추게 하다'예요.",
+  "also": [
+   {
+    "w": "equip",
+    "pos": "v",
+    "ko": "장비를 갖추다",
+    "en": "We need to **equip** the lab with new computers."
+   }
+  ]
+ },
+ {
+  "w": "escape",
+  "pos": "v",
+  "meaning_ko": "탈출하다, 벗어나다, 모면하다",
+  "example_en": "Two prisoners **escaped** from the jail last night.",
+  "example_ko": "어젯밤 죄수 두 명이 감옥에서 탈출했어.",
+  "nuance_ko": "escape는 갇힌 곳이나 위험에서 빠져나가거나 피한다는 뜻이에요. escape from prison, escape danger, escape notice(눈에 띄지 않다)처럼 써요. escape는 from과 함께 쓰는 자동사 용법도 있고 목적어를 바로 받는 타동사 용법도 있어요. 명사로 an escape는 탈출이나 도피처라서 a quick escape from the city라고 해요. 컴퓨터 키보드의 Esc 키가 escape의 줄임말이에요. avoid는 미리 피하는 것이고, escape는 이미 닥친 것에서 빠져나오는 것이에요.",
+  "also": [
+   {
+    "w": "escaped",
+    "pos": "adj",
+    "ko": "탈출한",
+    "en": "The **escaped** prisoner was caught near the border."
+   }
+  ]
+ },
+ {
+  "w": "establish",
+  "pos": "v",
+  "meaning_ko": "설립하다, 확립하다",
+  "example_en": "The company was **established** in 1995.",
+  "example_ko": "그 회사는 1995년에 설립됐어.",
+  "nuance_ko": "establish는 조직이나 제도를 세우거나 관계, 사실을 확립한다는 뜻이에요. establish a company, establish a rule, establish contact, establish the facts처럼 써요. 수동형 be established in은 '~년에 설립되다'라서 회사 소개에서 자주 보여요. found는 설립하는 행위이고 establish는 안정적인 기반을 갖추게 하는 느낌이 더해요. 형용사 established는 '확립된, 기반이 잡힌'이에요. the establishment는 기득권층을 뜻하기도 해요.",
+  "also": [
+   {
+    "w": "established",
+    "pos": "adj",
+    "ko": "자리 잡은",
+    "en": "He is an **established** author in the field."
+   },
+   {
+    "w": "establishment",
+    "pos": "n",
+    "ko": "설립, 기관, 기득권층",
+    "en": "The **establishment** of the school took years."
+   }
+  ]
+ },
+ {
+  "w": "estate",
+  "pos": "n",
+  "meaning_ko": "토지, 부동산, 재산",
+  "example_en": "She works as a real **estate** agent downtown.",
+  "example_ko": "그녀는 시내에서 부동산 중개인으로 일해.",
+  "nuance_ko": "estate는 넓은 토지나 대저택, 그리고 죽은 사람이 남긴 재산을 뜻해요. real estate는 부동산, a country estate는 시골 대저택, a housing estate는 영국식 주택단지예요. 법률에서 estate는 상속 재산을 뜻해서 estate tax는 상속세예요. property는 소유물 전반이고 estate는 토지와 건물이 중심이에요. estate agent는 영국식 부동산 중개인이에요. 한국어 '에스테이트'로는 잘 안 쓰지만 부동산 광고에서 자주 만나는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "event",
+  "pos": "n",
+  "meaning_ko": "행사, 사건",
+  "example_en": "The charity **event** raised over ten thousand dollars.",
+  "example_ko": "그 자선 행사는 1만 달러 넘게 모금했어.",
+  "nuance_ko": "event는 일어난 사건이나 계획된 행사를 뜻해요. a big event, a sporting event, current events(시사), in the event of(~의 경우에)처럼 써요. 육상 경기에서는 한 종목을 event라고 해요. incident는 불미스러운 사건이고 event는 중립적이어서 긍정적인 행사에도 쓸 수 있어요. 상황이 일어나는 일을 말할 때 a chain of events라고 해요. 형용사 eventful은 '다사다난한'이에요.",
+  "also": [
+   {
+    "w": "eventful",
+    "pos": "adj",
+    "ko": "다사다난한",
+    "en": "It was an **eventful** week at work."
+   }
+  ]
+ },
+ {
+  "w": "eventually",
+  "pos": "adv",
+  "meaning_ko": "결국, 마침내",
+  "example_en": "We got lost, but **eventually** we found the hotel.",
+  "example_ko": "길을 잃었지만 결국 호텔을 찾았어.",
+  "nuance_ko": "eventually는 시간이 오래 걸리거나 여러 일을 거친 뒤 마침내 결과가 나온다는 뜻이에요. 어려움이나 지연이 있었다는 뉘앙스가 있어서 finally와 비슷하지만 결과가 우연이나 과정을 거쳐 나왔다는 느낌이 있어요. 한국어 '결국'과 가장 잘 맞아요. 유럽 언어의 비슷한 단어는 '결국'이 아닌 '혹시'를 뜻하는 경우가 있어 헷갈리지 마세요. at last는 오래 기다린 끝의 안도감이 있고 eventually는 객관적으로 '언젠가 결국'이라는 말이에요. 형용사 eventual은 최종적인 뜻이라서 the eventual winner라고 해요.",
+  "also": [
+   {
+    "w": "eventual",
+    "pos": "adj",
+    "ko": "최종적인",
+    "en": "The **eventual** winner was a newcomer."
+   }
+  ]
+ },
+ {
+  "w": "evidence",
+  "pos": "n",
+  "meaning_ko": "증거, 근거",
+  "example_en": "There is no **evidence** that he was at the scene.",
+  "example_ko": "그가 현장에 있었다는 증거는 없어.",
+  "nuance_ko": "evidence는 어떤 주장이 사실임을 보이는 증거와 근거예요. 불가산 명사라서 an evidence나 evidences라고 하지 않고 a piece of evidence, some evidence라고 해요. 법정에서는 증거물을 뜻하고, 학술에서는 데이터 근거를 말해요. provide evidence, lack of evidence, evidence suggests that처럼 쓰여요. proof는 확정적인 증명이고 evidence는 사실 쪽을 가리키는 단서에 가까워요. 그래서 There is evidence but no proof가 가능한 말이에요.",
+  "also": []
+ },
+ {
+  "w": "evil",
+  "pos": "adj",
+  "meaning_ko": "사악한, 악",
+  "example_en": "The movie's **evil** villain wants to destroy the world.",
+  "example_ko": "그 영화의 사악한 악당은 세상을 파괴하려고 해.",
+  "nuance_ko": "evil은 도덕적으로 매우 나쁘고 해로운 성질, 즉 사악함을 뜻해요. 형용사로 evil plan, evil laugh, 명사로 good and evil(선과 악)처럼 써요. bad는 일반적으로 나쁜 것이고 evil은 의도적으로 해치려는 악함이에요. the lesser of two evils는 '두 악 중 덜한 것'을 뜻하는 관용 표현이에요. evil eye는 눈빛으로 불운을 준다는 미신이에요. 판타지와 영화에서 아주 흔히 나오는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "exam",
+  "pos": "n",
+  "meaning_ko": "시험",
+  "example_en": "I have a big **exam** on Monday, so I can't go out.",
+  "example_ko": "월요일에 큰 시험이 있어서 나갈 수 없어.",
+  "nuance_ko": "exam은 examination의 줄임말로 학교나 자격시험을 뜻하는 일상적인 단어예요. take an exam, pass/fail an exam, study for an exam, final exam처럼 써요. 시험을 본다는 표현에서 do an exam이나 see an exam은 틀리고 take가 맞아요. test는 비교적 가벼운 시험이고 exam은 더 중요하고 공식적인 시험이라는 느낌이 있어요. 의료 검진도 a medical exam이라고 해요. 영국식에서는 exams가 학기말 시험 기간을 통칭해요.",
+  "also": []
+ },
+ {
+  "w": "examine",
+  "pos": "v",
+  "meaning_ko": "조사하다, 검사하다, 살펴보다",
+  "example_en": "The doctor **examined** my knee carefully.",
+  "example_ko": "의사가 내 무릎을 꼼꼼히 진찰했어.",
+  "nuance_ko": "examine은 무언가를 자세히 살펴보고 점검한다는 동사예요. examine a patient(진찰하다), examine the evidence, examine a document처럼 써요. 시험을 보는 학생에게는 쓰지 않고 시험관이 평가한다는 뜻으로 쓰여요. check는 가볍게 확인하는 것이고 examine은 더 철저하게 조사하는 거예요. 명사 examination은 검사와 시험을 모두 뜻하고 exam으로 줄여요. 연구와 보고서에서 자주 나오는 격식 있는 동사예요.",
+  "also": [
+   {
+    "w": "examination",
+    "pos": "n",
+    "ko": "검사, 시험",
+    "en": "The **examination** took about an hour."
+   },
+   {
+    "w": "examiner",
+    "pos": "n",
+    "ko": "시험관, 검사관",
+    "en": "The **examiner** asked me a few questions."
+   }
+  ]
+ },
+ {
+  "w": "example",
+  "pos": "n",
+  "meaning_ko": "예, 본보기",
+  "example_en": "Can you give me an **example** of what you mean?",
+  "example_ko": "네가 말하는 게 어떤 건지 예를 하나 들어 줄래?",
+  "nuance_ko": "example은 설명을 돕는 구체적인 예이거나, 따라 할 만한 본보기를 뜻해요. for example은 '예를 들어', give an example, set an example(모범을 보이다), a good example of처럼 써요. for example은 문장 중간이나 앞에 놓고 쉼표로 끊어 줘요. 줄임말 e.g.는 for example의 라틴어 약어예요. sample은 전체의 일부를 뽑은 견본이라서 example과 구분돼요. follow someone's example은 누군가를 본받는다는 말이에요.",
+  "also": []
+ },
+ {
+  "w": "excellent",
+  "pos": "adj",
+  "meaning_ko": "훌륭한, 우수한",
+  "example_en": "You did an **excellent** job on the presentation.",
+  "example_ko": "발표 정말 훌륭하게 해냈어.",
+  "nuance_ko": "excellent는 good보다 훨씬 뛰어난 최고 수준을 뜻하는 형용사예요. an excellent idea, in excellent condition, excellent work처럼 써요. 이미 최상급 의미라서 very excellent는 어색하고 absolutely excellent라고 해요. 구어체 감탄사로도 써서 Excellent!는 '아주 좋아!'라는 반응이에요. great, wonderful과 비슷하지만 excellent는 약간 더 공식적이고 품질을 평가할 때 어울려요. 명사 excellence는 '탁월함'이에요.",
+  "also": [
+   {
+    "w": "excellence",
+    "pos": "n",
+    "ko": "탁월함",
+    "en": "The school is known for academic **excellence**."
+   }
+  ]
+ },
+ {
+  "w": "exchange",
+  "pos": "v",
+  "meaning_ko": "교환하다, 환전하다",
+  "example_en": "Can I **exchange** this shirt for a bigger size?",
+  "example_ko": "이 셔츠를 더 큰 사이즈로 교환할 수 있나요?",
+  "nuance_ko": "exchange는 한 가지를 주고 다른 것을 받는 교환이에요. exchange A for B(A를 B로 교환하다), exchange greetings, exchange money(환전하다)처럼 써요. 명사로는 an exchange student(교환학생), the stock exchange(증권거래소), in exchange for(~의 대가로)가 흔해요. return은 반품이고 exchange는 다른 상품으로 바꿔 받는 것이에요. 대화를 주고받을 때도 an exchange of views처럼 써요. 환율은 exchange rate예요.",
+  "also": []
+ },
+ {
+  "w": "exercise",
+  "pos": "n",
+  "meaning_ko": "운동, 연습 문제, 행사하다",
+  "example_en": "I try to get some **exercise** every morning.",
+  "example_ko": "난 매일 아침 운동을 조금이라도 하려고 해.",
+  "nuance_ko": "exercise는 몸을 위한 운동과 학습용 연습 문제, 권리를 행사하는 일 등 여러 뜻이 있어요. do exercise, get exercise, an exercise book처럼 써요. 운동을 한다고 할 때 make exercise라고 하면 틀리고 do exercise 또는 exercise라고 해요. 불가산 명사로 쓰면 운동 전반, 가산으로 쓰면 개별 연습이라서 grammar exercises(문법 연습 문제)처럼 복수로 써요. exercise your rights는 권리를 행사한다는 격식 있는 표현이에요. workout은 운동 세션을 말하는 구어체예요.",
+  "also": []
+ },
+ {
+  "w": "exhaust",
+  "pos": "v",
+  "meaning_ko": "기진맥진하게 하다, 다 써버리다",
+  "example_en": "The long hike completely **exhausted** me.",
+  "example_ko": "긴 하이킹에 완전히 지쳐 버렸어.",
+  "nuance_ko": "exhaust는 힘이나 자원을 다 써서 바닥나게 한다는 동사예요. exhaust one's energy, exhaust resources처럼 쓰고, 흔히 be exhausted로 '기진맥진하다'라고 말해요. tired보다 훨씬 강한 표현이고 worn out과 비슷해요. 명사 exhaust는 자동차 배기가스라서 exhaust fumes, exhaust pipe라고 해요. exhaustive는 '철저한, 빠짐없는'이라는 다른 뜻이에요. 감정이나 인내가 바닥났을 때도 써서 I've exhausted all my options는 '쓸 수 있는 방법을 다 썼다'는 말이에요.",
+  "also": [
+   {
+    "w": "exhausted",
+    "pos": "adj",
+    "ko": "기진맥진한",
+    "en": "I'm absolutely **exhausted** after the trip."
+   },
+   {
+    "w": "exhausting",
+    "pos": "adj",
+    "ko": "지치게 하는",
+    "en": "It was an **exhausting** day."
+   },
+   {
+    "w": "exhaustion",
+    "pos": "n",
+    "ko": "극도의 피로",
+    "en": "She collapsed from **exhaustion**."
+   }
+  ]
+ },
+ {
+  "w": "exist",
+  "pos": "v",
+  "meaning_ko": "존재하다, 살아가다",
+  "example_en": "Do you really believe ghosts **exist**?",
+  "example_ko": "너 정말 유령이 존재한다고 믿어?",
+  "nuance_ko": "exist는 실제로 있다, 존재한다는 뜻의 동사로 진행형을 거의 쓰지 않아요. Do unicorns exist?처럼 존재 여부를 물을 때 자주 써요. be 동사와 비슷하지만 exist는 존재 자체에 초점을 두고, live는 생활을 하는 쪽에 가까워요. barely exist는 '겨우 목숨만 부지하다'라는 뜻으로 어렵게 산다는 뉘앙스가 있어요. 명사 existence는 존재나 생활이고 come into existence는 '생겨나다'예요. 형용사 existing은 '기존의, 현존하는'이라서 existing customers는 기존 고객이에요.",
+  "also": [
+   {
+    "w": "existence",
+    "pos": "n",
+    "ko": "존재",
+    "en": "Nobody knew of its **existence** until last year."
+   },
+   {
+    "w": "existing",
+    "pos": "adj",
+    "ko": "기존의",
+    "en": "We upgraded the **existing** system."
+   }
+  ]
+ },
+ {
+  "w": "expense",
+  "pos": "n",
+  "meaning_ko": "비용, 지출",
+  "example_en": "Travel **expenses** will be paid by the company.",
+  "example_ko": "출장 경비는 회사에서 내줄 거야.",
+  "nuance_ko": "expense는 어떤 일을 하는 데 드는 비용이나 지출이에요. travel expenses, living expenses, at the expense of(~을 희생해서)처럼 써요. 복수형 expenses는 업무 관련 경비를 말해서 claim expenses는 경비를 청구하는 거예요. at my own expense는 '내 돈으로'라는 뜻이고 at someone's expense는 '남의 희생이나 놀림감으로'라는 의미도 있어요. cost는 값 자체이고 expense는 지출되는 돈이라는 느낌이 더 강해요. 형용사 expensive는 비싼이에요.",
+  "also": []
+ },
+ {
+  "w": "expose",
+  "pos": "v",
+  "meaning_ko": "노출시키다, 폭로하다",
+  "example_en": "Don't **expose** the film to direct sunlight.",
+  "example_ko": "필름을 직사광선에 노출시키지 마.",
+  "nuance_ko": "expose는 감춰진 것을 겉으로 드러내거나 위험에 노출시킨다는 동사예요. expose A to B(A를 B에 노출시키다), expose a secret(비밀을 폭로하다)처럼 써요. 수동형 be exposed to는 '~에 노출되다'라서 children exposed to violence라고 해요. 사진에서는 노출을 주는 것이 expose라서 overexposed는 노출 과다예요. 명사 exposure는 노출이자 언론의 주목을 받는 일이에요. reveal은 비밀을 밝히는 것이고, expose는 숨겨진 잘못이나 위험을 드러내는 느낌이에요.",
+  "also": [
+   {
+    "w": "exposure",
+    "pos": "n",
+    "ko": "노출",
+    "en": "Too much **exposure** to the sun can be harmful."
+   },
+   {
+    "w": "exposed",
+    "pos": "adj",
+    "ko": "노출된",
+    "en": "The wires were **exposed** and dangerous."
+   }
+  ]
+ },
+ {
+  "w": "extend",
+  "pos": "v",
+  "meaning_ko": "연장하다, 확장하다, 뻗다",
+  "example_en": "Can we **extend** the deadline by a few days?",
+  "example_ko": "마감을 며칠만 연장할 수 있을까요?",
+  "nuance_ko": "extend는 기간이나 범위, 크기를 늘리거나 확장한다는 뜻이에요. extend the deadline, extend a visa, extend an invitation(초대하다), extend a hand(손을 내밀다)처럼 써요. 자동사로는 '뻗어 있다'라서 The road extends for miles라고 해요. prolong은 길어지게 하는 것이고 extend는 더 나아가게 하는 것이에요. 명사 extension은 연장이나 전화 내선이라서 Extension 205처럼 써요. 형용사 extended는 '확대된, 길어진'이라서 extended family(대가족)라고 해요.",
+  "also": [
+   {
+    "w": "extended",
+    "pos": "adj",
+    "ko": "연장된",
+    "en": "We booked an **extended** stay at the hotel."
+   }
+  ]
+ },
+ {
+  "w": "extreme",
+  "pos": "adj",
+  "meaning_ko": "극단적인, 극심한",
+  "example_en": "The region suffers from **extreme** heat in summer.",
+  "example_ko": "그 지역은 여름에 극심한 더위에 시달려.",
+  "nuance_ko": "extreme은 정도가 매우 심하거나 극단적인 상태를 뜻해요. extreme weather, extreme sports, extreme poverty처럼 써요. 명사로는 극단을 뜻해서 go to extremes는 극단으로 치닫는 것이고 at the other extreme은 반대 극단에서라는 표현이에요. 부사 extremely는 '매우, 극도로'라서 extremely good처럼 일상에서 아주 흔해요. 사람에게는 extremist로 극단주의자를 가리켜요. very보다 훨씬 강한 정도를 나타내요.",
+  "also": [
+   {
+    "w": "extremely",
+    "pos": "adv",
+    "ko": "극도로",
+    "en": "The test was **extremely** difficult."
+   },
+   {
+    "w": "extremist",
+    "pos": "n",
+    "ko": "극단주의자",
+    "en": "The group was labeled an **extremist** organization."
+   }
+  ]
+ },
+ {
+  "w": "fail",
+  "pos": "v",
+  "meaning_ko": "실패하다, 낙제하다",
+  "example_en": "I **failed** my driving test twice before passing.",
+  "example_ko": "운전면허 시험에 두 번 떨어지고서야 합격했어.",
+  "nuance_ko": "fail은 목표를 이루지 못하거나 시험에서 떨어진다는 뜻이에요. fail an exam, fail to do, fail miserably처럼 써요. 시험에 합격하다의 반대말로 pass and fail이 짝이에요. 기계가 작동을 멈출 때도 The brakes failed라고 해요. fail to do 구문은 '~하지 못하다'라서 He failed to show up처럼 쓰고, 부정문처럼 말하는 형식적인 표현이에요. 약속을 어길 때는 fail to keep a promise라고 해요. 반대말은 succeed예요.",
+  "also": [
+   {
+    "w": "failing",
+    "pos": "n",
+    "ko": "결점, 약점",
+    "en": "Impatience is his biggest **failing**."
+   },
+   {
+    "w": "unfailing",
+    "pos": "adj",
+    "ko": "변함없는",
+    "en": "She has shown **unfailing** kindness."
+   }
+  ]
+ },
+ {
+  "w": "faint",
+  "pos": "adj",
+  "meaning_ko": "희미한, 어렴풋한, 기절하다",
+  "example_en": "I could hear a **faint** sound coming from the basement.",
+  "example_ko": "지하실에서 희미한 소리가 들렸어.",
+  "nuance_ko": "faint는 소리, 빛, 냄새가 희미하고 약하다는 형용사예요. a faint smile, a faint memory, faint light처럼 써요. 동사로는 정신을 잃고 쓰러진다는 뜻이라서 She fainted from the heat는 '더위에 기절했다'예요. feel faint는 '어지럽고 기절할 것 같다'는 표현이에요. I haven't the faintest idea는 '전혀 모르겠다'는 강조 표현이에요. 부사 faintly는 '희미하게'예요.",
+  "also": [
+   {
+    "w": "faintly",
+    "pos": "adv",
+    "ko": "희미하게",
+    "en": "She smiled **faintly** at the joke."
+   }
+  ]
+ },
+ {
+  "w": "fairy",
+  "pos": "n",
+  "meaning_ko": "요정",
+  "example_en": "The little girl dressed up as a **fairy** for Halloween.",
+  "example_ko": "그 어린 소녀는 핼러윈에 요정으로 분장했어.",
+  "nuance_ko": "fairy는 날개가 달린 작은 마법의 존재, 곧 요정이에요. a fairy tale은 동화이고, a fairy godmother는 도움을 주는 마법의 대모예요. 현실에서 꿈같은 이야기를 비유할 때도 fairy tale ending(동화 같은 결말)이라고 해요. tooth fairy는 빠진 이를 가져가고 선물을 놓고 간다는 서구 어린이 문화의 요정이에요. fairy lights는 장식용 작은 전구예요. 속어로 남성 동성애자를 비하하는 말로 쓰이기도 해서 사람에게는 쓰지 않는 게 좋아요.",
+  "also": []
+ },
+ {
+  "w": "faith",
+  "pos": "n",
+  "meaning_ko": "믿음, 신뢰, 신앙",
+  "example_en": "I have complete **faith** in your ability to do this.",
+  "example_ko": "난 네가 이걸 해낼 수 있다고 굳게 믿어.",
+  "nuance_ko": "faith는 증거 없이도 마음으로 믿는 믿음, 사람에 대한 신뢰, 종교적 신앙을 뜻해요. have faith in(~를 믿다), lose faith, in good faith(선의로), keep the faith처럼 써요. trust는 경험에 기반한 신뢰이고 faith는 증거 이상으로 믿는 마음이에요. 종교를 말할 때 the Christian faith라고 해요. blind faith는 '맹목적 신앙'이에요. 형용사 faithful은 '충실한, 신의 있는'이에요.",
+  "also": [
+   {
+    "w": "faithful",
+    "pos": "adj",
+    "ko": "충실한",
+    "en": "The dog was a **faithful** companion."
+   },
+   {
+    "w": "unfaithful",
+    "pos": "adj",
+    "ko": "부정한, 불성실한",
+    "en": "He was **unfaithful** to his wife."
+   }
+  ]
+ },
+ {
+  "w": "familiar",
+  "pos": "adj",
+  "meaning_ko": "익숙한, 잘 아는",
+  "example_en": "Your face looks very **familiar**. Have we met before?",
+  "example_ko": "얼굴이 낯익은데요. 우리 전에 만난 적 있나요?",
+  "nuance_ko": "familiar는 자주 보거나 겪어서 낯설지 않은 느낌을 말해요. be familiar with(~에 익숙하다), look familiar(낯이 익다), a familiar sound처럼 써요. be familiar to someone은 '누구에게 익숙하다', be familiar with something은 '내가 그것을 잘 안다'로 방향이 달라요. 이 구분이 한국 학습자에게 혼동돼요. 반대말은 unfamiliar예요. 가족 같다는 어원에서 와서 때로 지나치게 친한 태도를 familiar라고 해요.",
+  "also": [
+   {
+    "w": "unfamiliar",
+    "pos": "adj",
+    "ko": "낯선",
+    "en": "The food was **unfamiliar** to me."
+   },
+   {
+    "w": "familiarity",
+    "pos": "n",
+    "ko": "친숙함",
+    "en": "Her **familiarity** with the tools helped a lot."
+   }
+  ]
+ },
+ {
+  "w": "famous",
+  "pos": "adj",
+  "meaning_ko": "유명한",
+  "example_en": "This restaurant is **famous** for its fried chicken.",
+  "example_ko": "이 식당은 프라이드치킨으로 유명해.",
+  "nuance_ko": "famous는 많은 사람에게 널리 알려진 상태를 말해요. be famous for(~로 유명하다), a famous actor, world-famous처럼 써요. famous for는 좋은 이유일 때 쓰고 나쁜 이유로 유명하면 notorious for를 써요. well-known은 잘 알려진 정도이고 famous는 더 널리 알려진 거예요. 사람이 famous하다고 하면 연예인처럼 대중적 인지도가 높다는 뜻이에요. 명사 fame은 명성이고 become famous는 유명해지다예요.",
+  "also": [
+   {
+    "w": "famously",
+    "pos": "adv",
+    "ko": "유명하게도",
+    "en": "He **famously** refused to answer reporters."
+   }
+  ]
+ },
+ {
+  "w": "fan",
+  "pos": "n",
+  "meaning_ko": "팬, 선풍기",
+  "example_en": "I'm a huge **fan** of that band.",
+  "example_ko": "난 그 밴드의 열렬한 팬이야.",
+  "nuance_ko": "fan은 좋아하는 스타나 스포츠팀의 팬을 뜻하고, 부채나 선풍기 같은 환기 장치도 가리켜요. a big fan of, fan club, an electric fan처럼 써요. be a fan of는 '~를 좋아하다'라는 가벼운 표현으로 I'm not a fan of spicy food는 '매운 음식은 별로야'라는 부드러운 부정이에요. 동사 fan은 부채질하다 또는 불길을 부추기다라서 fan the flames는 갈등을 부추긴다는 뜻이에요. fanatic은 광신적인 팬이라서 fan의 어원이에요.",
+  "also": []
+ },
+ {
+  "w": "fancy",
+  "pos": "adj",
+  "meaning_ko": "화려한, 고급스러운, 좋아하다",
+  "example_en": "We went to a **fancy** restaurant for our anniversary.",
+  "example_ko": "기념일이라서 고급 레스토랑에 갔어.",
+  "nuance_ko": "fancy는 장식이 많고 비싸 보이는 화려한 것을 말하는 형용사예요. a fancy hotel, fancy clothes처럼 쓰고 약간 과시적인 어감이 있어요. 영국식 동사로는 '~하고 싶다, 끌린다'라서 Do you fancy a coffee?는 커피 한잔 하고 싶냐는 말이에요. 또 '상상하다'라는 뜻도 있어서 Fancy that!은 '세상에, 상상이 되니!' 같은 놀람 표현이에요. take a fancy to는 '~이 마음에 들다'예요. luxury보다 일상적이고 가볍게 쓰는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "fantastic",
+  "pos": "adj",
+  "meaning_ko": "환상적인, 굉장한",
+  "example_en": "We had a **fantastic** time at the beach.",
+  "example_ko": "해변에서 정말 환상적인 시간을 보냈어.",
+  "nuance_ko": "fantastic은 매우 훌륭하고 멋지다는 뜻의 구어체 칭찬이에요. a fantastic idea, fantastic news, feel fantastic처럼 써요. great보다 한층 강한 감탄이고 wonderful과 비슷해요. 원래는 환상 속에서나 가능한 비현실적인 것을 뜻해서 a fantastic story는 공상적인 이야기예요. 문맥상 Fantastic!은 '대박!'이라는 감탄사로 많이 써요. 어원은 fantasy와 같아요. 부사 fantastically는 '굉장히'라서 fantastically good처럼 쓰여요.",
+  "also": [
+   {
+    "w": "fantastically",
+    "pos": "adv",
+    "ko": "환상적으로, 굉장히",
+    "en": "The band played **fantastically** last night."
+   }
+  ]
+ },
+ {
+  "w": "fashion",
+  "pos": "n",
+  "meaning_ko": "패션, 유행, 방식",
+  "example_en": "She works in the **fashion** industry in Paris.",
+  "example_ko": "그녀는 파리에서 패션 업계에 종사해.",
+  "nuance_ko": "fashion은 옷의 스타일과 유행, 그리고 어떤 일을 하는 방식을 뜻해요. fashion show, in fashion(유행하는), out of fashion(유행이 지난), fast fashion처럼 써요. in a similar fashion은 '비슷한 방식으로'라는 격식 있는 표현이에요. 동사 fashion은 '만들어 내다'라는 뜻으로 fashion a tool from wood처럼 써요. style은 개인의 스타일이고 fashion은 사회적 유행이에요. 형용사 fashionable은 '유행하는, 세련된'이에요.",
+  "also": [
+   {
+    "w": "fashionable",
+    "pos": "adj",
+    "ko": "유행하는",
+    "en": "That café is very **fashionable** right now."
+   }
+  ]
+ },
+ {
+  "w": "fault",
+  "pos": "n",
+  "meaning_ko": "잘못, 결함, 단층",
+  "example_en": "It's not your **fault**. Nobody could have known.",
+  "example_ko": "네 잘못이 아니야. 아무도 알 수 없었어.",
+  "nuance_ko": "fault는 잘못이나 책임, 기계나 사람의 결함을 뜻해요. It's my fault, find fault with(트집 잡다), at fault(책임이 있는), a technical fault처럼 써요. blame은 비난하는 행위이고 fault는 책임이 누구에게 있는지를 말해요. 지질학에서는 지각이 갈라진 단층을 fault라고 해서 fault line이 지진 뉴스에 자주 나와요. 테니스에서 서브가 실패하면 fault라고 해요. 형용사 faulty는 '결함이 있는'이라서 faulty wiring이라고 해요.",
+  "also": [
+   {
+    "w": "faulty",
+    "pos": "adj",
+    "ko": "결함이 있는",
+    "en": "A **faulty** switch caused the fire."
+   }
+  ]
+ },
+ {
+  "w": "favour",
+  "pos": "n",
+  "meaning_ko": "호의, 부탁, 지지",
+  "example_en": "Could you do me a **favour** and watch my bag?",
+  "example_ko": "부탁 하나만 들어줄래? 내 가방 좀 봐 줘.",
+  "nuance_ko": "favour는 영국식 철자이고 미국식은 favor예요. do someone a favour는 '부탁을 들어주다', ask a favour는 부탁하다, in favour of는 '~에 찬성하여'라는 표현이에요. 동사 favour는 '선호하다, 편애하다'라서 The law favours big companies처럼 써요. out of favour는 '인기를 잃은'이라는 뜻이에요. 형용사 favourable은 '호의적인, 유리한'이에요. 즐겁게 쓰이는 favourite도 같은 뿌리의 단어예요.",
+  "also": [
+   {
+    "w": "favourable",
+    "pos": "adj",
+    "ko": "호의적인, 유리한",
+    "en": "The weather was **favourable** for sailing."
+   }
+  ]
+ },
+ {
+  "w": "feather",
+  "pos": "n",
+  "meaning_ko": "깃털",
+  "example_en": "She found a white **feather** on the path.",
+  "example_ko": "그녀는 길에서 하얀 깃털을 하나 발견했어.",
+  "nuance_ko": "feather는 새의 깃털이에요. a feather pillow(깃털 베개), light as a feather(깃털처럼 가벼운)처럼 써요. birds of a feather flock together는 '끼리끼리 모인다'라는 속담이에요. a feather in one's cap은 자랑스러운 성과를 뜻하는 표현이에요. 어떤 사람이 화낼 때 ruffle someone's feathers라고 해서 '기분을 상하게 하다'라는 관용구도 있어요. 동사 feather는 깃털을 달다 또는 노를 수평으로 젓는 동작이에요.",
+  "also": [
+   {
+    "w": "feathered",
+    "pos": "adj",
+    "ko": "깃털이 있는",
+    "en": "The **feathered** hat looked elegant."
+   }
+  ]
+ },
+ {
+  "w": "feature",
+  "pos": "n",
+  "meaning_ko": "특징, 기능, 특집",
+  "example_en": "This phone has a great camera **feature** for night photos.",
+  "example_ko": "이 폰은 야간 촬영용 카메라 기능이 좋아.",
+  "nuance_ko": "feature는 어떤 것의 눈에 띄는 특징이나 기능, 얼굴 생김새, 특집 기사를 뜻해요. a key feature, a new feature in the app, a feature film(장편 영화), facial features처럼 써요. 동사로는 '특징으로 하다, 출연시키다'라서 The movie features a famous actor는 유명한 배우가 출연한다는 뜻이에요. 소프트웨어 개발에서는 feature가 새 기능이고, it's not a bug, it's a feature는 개발자들이 하는 유명한 농담이에요. characteristic은 성질을 말하고 feature는 눈에 띄는 부분이에요.",
+  "also": [
+   {
+    "w": "featured",
+    "pos": "adj",
+    "ko": "특집의, 주연의",
+    "en": "She is the **featured** artist this month."
+   }
+  ]
+ },
+ {
+  "w": "february",
+  "pos": "n",
+  "meaning_ko": "2월",
+  "example_en": "My birthday is in **February**, the coldest month.",
+  "example_ko": "내 생일은 가장 추운 달인 2월이야.",
+  "nuance_ko": "February는 2월이고 항상 대문자로 써요. 철자와 발음이 어려워서 첫 r을 읽지 않는 [페뷰어리]로 읽는 사람이 많아요. in February, on February 14th처럼 쓰고 14일은 Valentine's Day예요. 2월은 28일이지만 4년마다 윤년(leap year)에는 29일이에요. 약어는 Feb.이에요. 날짜 쓰기는 미국식 February 3, 영국식 3 February예요.",
+  "also": []
+ },
+ {
+  "w": "female",
+  "pos": "adj",
+  "meaning_ko": "여성의, 암컷의",
+  "example_en": "The company wants to hire more **female** engineers.",
+  "example_ko": "그 회사는 여성 엔지니어를 더 많이 채용하고 싶어 해.",
+  "nuance_ko": "female은 생물학적으로 암컷이나 여성임을 나타내는 형용사 또는 명사예요. female employees, a female cat, 설문의 Male/Female 항목처럼 쓰여요. 사람을 직접 가리킬 때는 woman이 자연스럽고, She is a female이라고 하면 어색하거나 무례하게 들릴 수 있어요. female은 주로 통계, 서류, 동물에서 쓰고 일상 대화에서는 woman을 써요. 반대는 male이에요. 사물에도 암수가 있는 부품에서 female connector라고 쓰기도 해요.",
+  "also": []
+ },
+ {
+  "w": "fence",
+  "pos": "n",
+  "meaning_ko": "울타리, 담",
+  "example_en": "Our neighbor built a tall **fence** around his garden.",
+  "example_ko": "이웃이 자기 정원 둘레에 높은 울타리를 쳤어.",
+  "nuance_ko": "fence는 마당이나 땅의 경계를 막아주는 울타리예요. build a fence, climb over a fence, a wooden fence처럼 써요. sit on the fence는 '중립을 지키며 결정하지 않다'라는 관용 표현이에요. mend fences는 '관계를 회복하다'라는 비유예요. 동사 fence는 울타리를 두르다 또는 펜싱 경기를 하다라는 뜻이에요. wall은 벽돌이나 돌로 만든 담이고 fence는 나무나 철망으로 만든 가벼운 경계예요.",
+  "also": [
+   {
+    "w": "fencing",
+    "pos": "n",
+    "ko": "펜싱, 울타리 재료",
+    "en": "She won a medal in **fencing**."
+   }
+  ]
+ },
+ {
+  "w": "fetch",
+  "pos": "v",
+  "meaning_ko": "가져오다, 데려오다",
+  "example_en": "Can you **fetch** me a glass of water, please?",
+  "example_ko": "물 한 잔만 가져다줄래?",
+  "nuance_ko": "fetch는 어디에 가서 무언가를 가지고 돌아온다는 동사예요. 개에게 공을 가져오게 하는 놀이 fetch로 유명해요. go and fetch는 영국식에서 '가서 가져오다'라는 뜻으로 자연스럽고, 미국 일상에서는 get이나 bring이 더 흔해요. fetch a price는 '얼마에 팔리다'라서 The painting fetched a million dollars는 그림이 백만 달러에 팔렸다는 말이에요. 소프트웨어에서는 fetch data가 데이터를 불러오는 동작이에요. far-fetched는 '터무니없는'이라는 형용사예요.",
+  "also": []
+ },
+ {
+  "w": "file",
+  "pos": "n",
+  "meaning_ko": "파일, 서류철, 철하다",
+  "example_en": "I saved the document as a PDF **file**.",
+  "example_ko": "그 문서를 PDF 파일로 저장했어.",
+  "nuance_ko": "file은 컴퓨터 파일, 서류철, 그리고 서류를 철해 보관하는 동작을 뜻해요. open a file, save a file, a file cabinet, on file(보관 중)처럼 써요. 동사로는 서류를 제출하는 것도 file이라서 file a complaint(고소하다), file taxes(세금 신고하다)처럼 써요. 줄을 서서 걸어가는 모습도 in single file(일렬로)이라고 해요. 손톱 가는 줄도 nail file이라고 해요. 법률과 행정에서 자주 쓰여 file for divorce는 이혼 소송을 낸다는 뜻이에요.",
+  "also": [
+   {
+    "w": "filing",
+    "pos": "n",
+    "ko": "서류 정리, 제출",
+    "en": "The **filing** of taxes is due in April."
+   }
+  ]
+ },
+ {
+  "w": "finance",
+  "pos": "n",
+  "meaning_ko": "재정, 금융, 자금을 대다",
+  "example_en": "She studied **finance** and now works at a bank.",
+  "example_ko": "그녀는 금융을 공부했고 지금은 은행에서 일해.",
+  "nuance_ko": "finance는 돈의 관리와 금융을 뜻하는 명사이고, 동사로는 자금을 대다라는 뜻이에요. personal finance, corporate finance, the finance department처럼 써요. 복수 finances는 개인이나 조직의 재정 상태를 말해서 manage one's finances라고 해요. 동사로 finance a car는 자동차 할부로 사는 것이고 finance a project는 사업에 자금을 대는 거예요. economy는 경제 전체이고 finance는 돈의 흐름과 관리에 초점이 있어요. 형용사 financial은 '재정의'라서 financial problems라고 해요.",
+  "also": [
+   {
+    "w": "financial",
+    "pos": "adj",
+    "ko": "재정의, 금융의",
+    "en": "He is having **financial** problems."
+   },
+   {
+    "w": "financially",
+    "pos": "adv",
+    "ko": "재정적으로",
+    "en": "They are **financially** secure."
+   }
+  ]
+ },
+ {
+  "w": "firm",
+  "pos": "adj",
+  "meaning_ko": "단단한, 확고한, 회사",
+  "example_en": "She has a **firm** belief in hard work.",
+  "example_ko": "그녀는 열심히 일하는 것에 대한 확고한 믿음이 있어.",
+  "nuance_ko": "firm은 딱딱하거나 굳건한 상태, 그리고 입장이 확고함을 뜻하는 형용사이고 명사로는 회사를 뜻해요. a firm handshake, a firm decision, a law firm(법률 사무소)처럼 써요. stand firm은 '굳건히 버티다'예요. soft(부드러운)의 반대로 침대나 과일이 단단하다고 할 때도 firm을 써요. company가 일반적인 회사라면 firm은 전문 서비스를 하는 회사에 잘 어울려요. 부사 firmly는 '단단히, 단호하게'예요.",
+  "also": [
+   {
+    "w": "firmly",
+    "pos": "adv",
+    "ko": "단호하게, 단단히",
+    "en": "He **firmly** refused the offer."
+   }
+  ]
+ },
+ {
+  "w": "flag",
+  "pos": "n",
+  "meaning_ko": "깃발, 표시하다",
+  "example_en": "They raised the national **flag** at the ceremony.",
+  "example_ko": "그들은 기념식에서 국기를 게양했어.",
+  "nuance_ko": "flag는 깃발이나 국기이고, 동사로는 표시를 해 두다 또는 알리다라는 뜻이에요. raise a flag, wave a flag, red flag(위험 신호)처럼 써요. 이메일에서 flag an email은 중요 표시를 하는 것이에요. 비즈니스에서 Let me flag this issue는 '이 문제를 짚고 넘어갈게요'라는 말이에요. flag down a taxi는 택시를 손을 흔들어 세우는 것이고, a red flag는 경고 신호예요. 아무도 지켜주지 않아 힘이 빠질 때 flag는 '지치다'라는 뜻으로도 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "flame",
+  "pos": "n",
+  "meaning_ko": "불꽃, 화염",
+  "example_en": "The candle **flame** flickered in the wind.",
+  "example_ko": "촛불의 불꽃이 바람에 흔들렸어.",
+  "nuance_ko": "flame은 불이 타오를 때 보이는 불꽃이에요. burst into flames(불길에 휩싸이다), fan the flames(불길을 부채질하다), an old flame(옛 연인)처럼 써요. fire는 불 전체 현상이고 flame은 그 안의 일렁이는 불꽃 부분이에요. 인터넷에서는 flame이 공격적인 댓글을 뜻해서 flame war는 감정적인 논쟁이에요. 동사 flame은 불타오르다이고 형용사 flaming은 '불타는, 지독한'이에요. 사랑의 열정을 비유해 a flame of passion이라고 해요.",
+  "also": [
+   {
+    "w": "flaming",
+    "pos": "adj",
+    "ko": "불타는",
+    "en": "A **flaming** torch lit the cave."
+   }
+  ]
+ },
+ {
+  "w": "flash",
+  "pos": "n",
+  "meaning_ko": "번쩍임, 섬광, 순간",
+  "example_en": "A **flash** of lightning lit up the whole sky.",
+  "example_ko": "번개가 번쩍하더니 하늘 전체를 밝혔어.",
+  "nuance_ko": "flash는 번쩍이는 빛과 아주 짧은 순간을 뜻해요. in a flash는 '순식간에', a flash of lightning, camera flash, flash drive(USB 메모리)처럼 써요. 동사 flash는 빛을 번쩍이다, 잠깐 보여주다라서 flash a smile은 짧게 미소를 보이는 것이에요. 뉴스 속보를 news flash라고 해요. a flash of inspiration은 갑작스러운 영감이에요. blink는 눈을 깜박이는 것이고 flash는 빛이 번쩍이는 거예요.",
+  "also": [
+   {
+    "w": "flashing",
+    "pos": "adj",
+    "ko": "번쩍이는",
+    "en": "A **flashing** light warned the drivers."
+   }
+  ]
+ },
+ {
+  "w": "flight",
+  "pos": "n",
+  "meaning_ko": "비행, 항공편",
+  "example_en": "My **flight** to Tokyo leaves at seven in the morning.",
+  "example_ko": "도쿄행 내 비행기는 아침 7시에 출발해.",
+  "nuance_ko": "flight는 비행 자체와 특정 항공편을 모두 뜻해요. book a flight, catch a flight, miss a flight, a direct flight, a connecting flight처럼 써요. 비행기 전체는 plane이고 flight는 그 운항편을 말해요. 계단 한 층을 a flight of stairs라고 해서 비행과 상관없는 뜻도 있어요. flight attendant는 승무원이에요. fight or flight는 '맞서 싸울지 도망갈지'의 반응이라는 심리학 표현이에요. 동사형은 fly이고 flight는 그 명사형이에요.",
+  "also": []
+ },
+ {
+  "w": "flip",
+  "pos": "v",
+  "meaning_ko": "뒤집다, 휙 넘기다",
+  "example_en": "**Flip** the pancake when you see bubbles on top.",
+  "example_ko": "윗면에 거품이 보이면 팬케이크를 뒤집어.",
+  "nuance_ko": "flip은 가볍게 휙 뒤집거나 튕기는 동작이에요. flip a coin(동전을 던지다), flip a switch(스위치를 켜다), flip through a magazine(잡지를 휙휙 넘기다)처럼 써요. flip out은 구어체로 '발끈하다, 이성을 잃다', flip over는 뒤집히다예요. 요리에서 flip a burger는 햄버거 패티를 뒤집는 거예요. flip-flops는 쪼리 슬리퍼를 뜻해요. 명사 flip은 뒤집기나 공중제비를 말하기도 해요.",
+  "also": []
+ },
+ {
+  "w": "float",
+  "pos": "v",
+  "meaning_ko": "뜨다, 떠다니다",
+  "example_en": "A few leaves **floated** on the surface of the pond.",
+  "example_ko": "나뭇잎 몇 개가 연못 수면 위에 떠 있었어.",
+  "nuance_ko": "float는 물이나 공기 위에 가라앉지 않고 떠 있는 상태를 말해요. float on water, float away, float an idea(의견을 슬쩍 내놓다)처럼 써요. 반대말은 sink예요. 회사가 주식을 상장하는 것도 float a company라고 해요. 명사 float는 부표나 퍼레이드 차량을 뜻해서 parade floats가 대표적이에요. 기분이 좋아서 가볍게 들뜬 느낌을 floating on air라고 비유해요.",
+  "also": [
+   {
+    "w": "floating",
+    "pos": "adj",
+    "ko": "떠 있는",
+    "en": "We saw a **floating** restaurant on the river."
+   }
+  ]
+ },
+ {
+  "w": "flood",
+  "pos": "n",
+  "meaning_ko": "홍수, 쇄도",
+  "example_en": "The heavy rain caused a **flood** in the village.",
+  "example_ko": "폭우로 마을에 홍수가 났어.",
+  "nuance_ko": "flood는 큰물이 넘쳐 육지를 덮는 홍수를 뜻해요. a flash flood는 갑자기 불어나는 돌발 홍수, flood warning은 홍수 경보예요. 비유적으로 a flood of calls, a flood of tears처럼 한꺼번에 몰려드는 것을 가리켜요. 동사 flood는 물에 잠기다 또는 가득 차다라서 The room flooded with light은 빛이 쏟아져 들어왔다는 표현이에요. inundate는 더 격식 있는 말이고, flood는 일상 뉴스에서 자주 써요. Noah's flood는 성경의 대홍수를 뜻해요.",
+  "also": [
+   {
+    "w": "flooding",
+    "pos": "n",
+    "ko": "침수",
+    "en": "**Flooding** closed several roads."
+   }
+  ]
+ },
+ {
+  "w": "flow",
+  "pos": "v",
+  "meaning_ko": "흐르다, 흐름",
+  "example_en": "The river **flows** through the middle of the city.",
+  "example_ko": "그 강은 도시 한가운데를 가로질러 흘러.",
+  "nuance_ko": "flow는 물, 전기, 정보, 대화 등이 막힘없이 흐른다는 뜻이에요. go with the flow는 '흐름에 맡기다, 순리대로 가다'라는 구어 표현이에요. cash flow(현금 흐름), traffic flow(교통 흐름), a flow of information처럼 명사로도 자주 써요. in the flow 상태는 몰입하는 상태를 뜻하는데 심리학의 flow 개념과 연결돼요. 글이 자연스럽게 읽힐 때 This text flows well이라고 해요. stream은 작고 꾸준한 흐름이고 flow는 일반적인 흐름이에요.",
+  "also": [
+   {
+    "w": "flowing",
+    "pos": "adj",
+    "ko": "흐르는",
+    "en": "She wore a long, **flowing** dress."
+   }
+  ]
+ },
+ {
+  "w": "fold",
+  "pos": "v",
+  "meaning_ko": "접다, 개다",
+  "example_en": "Please **fold** the clothes and put them in the drawer.",
+  "example_ko": "옷을 개서 서랍에 넣어 줘.",
+  "nuance_ko": "fold는 종이, 천 등을 접거나 개는 동작이에요. fold a letter, fold your arms(팔짱 끼다), fold the laundry처럼 써요. 사업이 문을 닫을 때도 The company folded라고 해서 '망했다'는 뜻이에요. 포커에서 카드를 포기하는 것도 fold라고 해요. 명사 fold는 접힌 부분이나 주름이고, 두 배 많다는 뜻의 tenfold(10배)처럼 접미사로도 쓰여요. unfold는 펼치다 또는 전개되다예요.",
+  "also": [
+   {
+    "w": "unfold",
+    "pos": "v",
+    "ko": "펼치다, 전개되다",
+    "en": "The story began to **unfold** slowly."
+   }
+  ]
+ },
+ {
+  "w": "folk",
+  "pos": "n",
+  "meaning_ko": "사람들, 민속",
+  "example_en": "Some of the older **folk** in town still remember the flood.",
+  "example_ko": "마을의 나이 든 분들 중에는 아직 그 홍수를 기억하는 분들이 있어.",
+  "nuance_ko": "folk는 평범한 사람들이나 특정 지역·집단의 전통을 뜻해요. folk music(민속 음악), folk tale(민담), folk art(민속 예술)처럼 써요. 복수형 folks는 구어체에서 '여러분, 가족'을 부르는 말이라서 Hi, folks!는 '여러분, 안녕하세요!'에 해당해요. my folks는 내 부모님이나 가족을 의미해요. people과 비슷하지만 folk는 소박하고 따뜻한 느낌이에요. That's all, folks!는 쇼를 마칠 때 쓰는 유명한 인사예요.",
+  "also": []
+ },
+ {
+  "w": "fool",
+  "pos": "n",
+  "meaning_ko": "바보, 속이다",
+  "example_en": "I felt like such a **fool** when I realized my mistake.",
+  "example_ko": "내 실수를 깨닫고 나니 내가 너무 바보 같았어.",
+  "nuance_ko": "fool은 어리석은 사람을 뜻하는 명사이고, 동사로는 속이다, 장난치다라는 뜻이에요. make a fool of oneself는 '바보 같은 짓을 해서 웃음거리가 되다', fool around는 '빈둥거리다, 장난치다'예요. You can't fool me는 '나를 속일 수 없어'라는 구어 표현이에요. April Fools' Day는 4월 1일 만우절이에요. idiot보다 가볍게 놀리는 느낌으로 쓸 수도 있지만 상대에게 직접 쓰면 무례해요. 형용사 foolish는 '어리석은'이에요.",
+  "also": [
+   {
+    "w": "foolish",
+    "pos": "adj",
+    "ko": "어리석은",
+    "en": "It would be **foolish** to ignore the warning."
+   }
+  ]
+ },
+ {
+  "w": "foreign",
+  "pos": "adj",
+  "meaning_ko": "외국의, 낯선",
+  "example_en": "She speaks three **foreign** languages fluently.",
+  "example_ko": "그녀는 외국어 세 개를 유창하게 해.",
+  "nuance_ko": "foreign은 자기 나라가 아닌 다른 나라의 것을 뜻하는 형용사예요. a foreign language, foreign policy(외교 정책), foreign exchange(외환), a foreign country처럼 써요. 낯설고 이질적이라는 뜻도 있어서 That concept is foreign to me는 '그 개념은 나에게 낯설다'예요. 사람을 foreign person이라고 부르면 차갑게 들릴 수 있어서 foreigner 대신 international이나 visitor를 쓰기도 해요. overseas는 해외를 뜻하고 foreign은 소속이 다른 외국을 가리켜요. 철자에서 g가 들어가는 점을 주의하세요.",
+  "also": [
+   {
+    "w": "foreigner",
+    "pos": "n",
+    "ko": "외국인",
+    "en": "As a **foreigner**, she found the rules confusing."
+   }
+  ]
+ },
+ {
+  "w": "forgive",
+  "pos": "v",
+  "meaning_ko": "용서하다",
+  "example_en": "I hope you can **forgive** me for what I said.",
+  "example_ko": "내가 한 말을 용서해 줬으면 좋겠어.",
+  "nuance_ko": "forgive는 상대의 잘못에 대해 화를 풀고 용서한다는 동사예요. forgive someone for -ing 구문이 일반적이고 불규칙으로 forgive-forgave-forgiven이에요. Forgive me는 정중하게 양해를 구하는 표현이고, Excuse me보다 개인적인 사과의 느낌이 있어요. forgive and forget은 '용서하고 잊다'라는 표현이에요. 형용사 forgiving은 '관대한', 명사 forgiveness는 '용서'예요. pardon은 법적·공식적 사면에 가까워요.",
+  "also": [
+   {
+    "w": "forgiveness",
+    "pos": "n",
+    "ko": "용서",
+    "en": "She asked for his **forgiveness**."
+   },
+   {
+    "w": "unforgivable",
+    "pos": "adj",
+    "ko": "용서할 수 없는",
+    "en": "What he did was **unforgivable**."
+   }
+  ]
+ },
+ {
+  "w": "forth",
+  "pos": "adv",
+  "meaning_ko": "앞으로, 밖으로",
+  "example_en": "The soldiers marched **forth** into the cold morning.",
+  "example_ko": "군인들은 차가운 아침 속으로 앞을 향해 행진했어.",
+  "nuance_ko": "forth는 앞으로 나아가는 방향이나 밖으로 나오는 모습을 뜻하는 약간 문어적인 부사예요. back and forth(앞뒤로, 왔다 갔다), and so forth(기타 등등), set forth(출발하다, 제시하다), bring forth(낳다)처럼 굳어진 표현에서 많이 만나요. from this day forth는 '이날부터 계속'이라는 격식 있는 표현이에요. fourth(네 번째)와 발음이 같아서 철자를 구분해야 해요. 일상 대화에서는 forward가 더 흔하고 forth는 관용구로 살아남은 단어예요.",
+  "also": []
+ },
+ {
+  "w": "fortnight",
+  "pos": "n",
+  "meaning_ko": "2주",
+  "example_en": "We're going on holiday for a **fortnight** in August.",
+  "example_ko": "우린 8월에 2주 동안 휴가를 갈 거야.",
+  "nuance_ko": "fortnight은 14일, 곧 2주를 뜻하는 영국식 단어예요. 원래 fourteen nights에서 줄어든 말이에요. 미국에서는 거의 쓰지 않고 two weeks라고 해요. a fortnight ago는 2주 전, in a fortnight는 2주 후, once a fortnight는 2주에 한 번이라는 뜻이에요. 급여를 2주에 한 번 주는 방식도 fortnightly라고 불러요. 영국, 호주, 아일랜드 영어를 접할 때 자주 만나는 단어예요.",
+  "also": [
+   {
+    "w": "fortnightly",
+    "pos": "adj",
+    "ko": "2주마다의",
+    "en": "The magazine is published **fortnightly**."
+   }
+  ]
+ },
+ {
+  "w": "fortune",
+  "pos": "n",
+  "meaning_ko": "재산, 운, 큰돈",
+  "example_en": "He made a **fortune** selling used cars.",
+  "example_ko": "그는 중고차를 팔아서 큰돈을 벌었어.",
+  "nuance_ko": "fortune은 막대한 재산과 운명, 행운을 모두 뜻해요. make a fortune(큰돈을 벌다), cost a fortune(엄청난 돈이 들다), good fortune(행운), tell someone's fortune(점치다)처럼 써요. fortune cookie는 중국 식당에서 주는 운세 쿠키예요. Fortune favors the bold는 '행운은 용감한 자를 돕는다'라는 속담이에요. 형용사 fortunate는 '운 좋은'이라서 I'm fortunate to have you처럼 써요. luck은 일상적인 운이고 fortune은 운명이나 큰 재산을 포함해요.",
+  "also": []
+ },
+ {
+  "w": "fox",
+  "pos": "n",
+  "meaning_ko": "여우",
+  "example_en": "A **fox** ran across the road in front of our car.",
+  "example_ko": "여우 한 마리가 우리 차 앞의 도로를 가로질러 달려갔어.",
+  "nuance_ko": "fox는 여우예요. 영어에서도 여우는 꾀가 많고 영리한 동물로 그려져서 as sly as a fox(여우처럼 교활한)라는 비유가 있어요. outfox someone은 '꾀로 이기다'라는 뜻이에요. fox in the henhouse는 '위험한 사람이 약한 사람들 곁에 있는 상황'을 비유해요. 속어로 foxy는 매력적이라는 뜻으로 쓰일 수 있지만 요즘은 낡은 표현이에요. Fox는 방송사 이름이기도 해요. 여우 사냥은 fox hunting이라고 해요.",
+  "also": [
+   {
+    "w": "foxy",
+    "pos": "adj",
+    "ko": "교활한, 매력적인",
+    "en": "He gave me a **foxy** grin."
+   }
+  ]
+ },
+ {
+  "w": "frame",
+  "pos": "n",
+  "meaning_ko": "틀, 액자, 틀에 넣다",
+  "example_en": "I put the photo in a wooden **frame**.",
+  "example_ko": "사진을 나무 액자에 넣었어.",
+  "nuance_ko": "frame은 그림이나 창을 둘러싸는 틀, 구조물의 뼈대, 영상의 한 컷 등을 뜻해요. a picture frame, a bike frame, frame by frame, frame of mind(마음 상태)처럼 써요. 동사 frame은 액자에 넣다 또는 문제를 특정 관점으로 표현하다라는 뜻이에요. 누군가를 누명 씌우다도 frame someone이라서 He was framed는 '그는 누명을 썼다'예요. framework는 틀과 체계를 의미해서 소프트웨어 프레임워크로도 익숙해요. 영상에서는 초당 프레임 수를 frames per second라고 해요.",
+  "also": []
+ },
+ {
+  "w": "frankly",
+  "pos": "adv",
+  "meaning_ko": "솔직히",
+  "example_en": "**Frankly**, I don't think this plan will work.",
+  "example_ko": "솔직히 말해서 이 계획은 안 될 것 같아.",
+  "nuance_ko": "frankly는 꾸밈없이 솔직하게 말한다는 부사로 문장 앞에서 말투를 알려줘요. Frankly speaking, To be frank, honestly와 비슷하게 써요. 듣기 불편한 말을 꺼낼 때 앞에 붙이는 경우가 많아요. Frankly, my dear, I don't give a damn은 영화 Gone with the Wind의 유명한 대사예요. 형용사 frank는 솔직한이라서 a frank talk(솔직한 대화)라고 해요. blunt는 직설적이라서 상대를 불쾌하게 할 수 있고 frank는 정직하다는 긍정적 뉘앙스가 있어요.",
+  "also": [
+   {
+    "w": "frankness",
+    "pos": "n",
+    "ko": "솔직함",
+    "en": "I appreciate your **frankness**."
+   }
+  ]
+ },
+ {
+  "w": "frog",
+  "pos": "n",
+  "meaning_ko": "개구리",
+  "example_en": "A small green **frog** jumped into the pond.",
+  "example_ko": "작은 초록 개구리가 연못으로 뛰어들었어.",
+  "nuance_ko": "frog는 개구리예요. a frog in one's throat는 목이 잠겨서 목소리가 잘 안 나오는 상태를 뜻하는 표현이에요. leapfrog는 개구리뛰기 놀이이면서 '건너뛰어 앞지르다'라는 비유이기도 해요. a big frog in a small pond는 작은 집단에서 대단한 사람을 뜻해요. 동화 속 frog prince 이야기도 유명해요. 올챙이는 tadpole이고 두꺼비는 toad라서 구분해서 써요.",
+  "also": []
+ },
+ {
+  "w": "frost",
+  "pos": "n",
+  "meaning_ko": "서리, 성에",
+  "example_en": "The grass was covered with **frost** this morning.",
+  "example_ko": "오늘 아침 잔디가 서리로 덮여 있었어.",
+  "nuance_ko": "frost는 기온이 영하로 떨어질 때 표면에 맺히는 서리예요. a heavy frost, morning frost, frost on the window처럼 써요. 동사로는 서리가 내리다, 케이크에 아이싱을 입히다라는 뜻이에요. frosting은 케이크에 바르는 단 크림 아이싱이에요. Jack Frost는 겨울과 서리를 의인화한 존재예요. 차가운 태도를 비유할 때도 쓰여 a frosty welcome은 냉랭한 환대예요.",
+  "also": [
+   {
+    "w": "frosty",
+    "pos": "adj",
+    "ko": "서리가 내린, 냉랭한",
+    "en": "It was a **frosty** morning in January."
+   }
+  ]
+ },
+ {
+  "w": "fruit",
+  "pos": "n",
+  "meaning_ko": "과일, 열매, 결실",
+  "example_en": "I try to eat fresh **fruit** every day.",
+  "example_ko": "난 매일 신선한 과일을 먹으려고 해.",
+  "nuance_ko": "fruit는 과일이고 보통 셀 수 없는 명사로 써서 some fruit, a piece of fruit라고 해요. 종류를 강조할 때는 복수형 fruits를 쓰기도 해요. 비유적으로 노력의 결과를 뜻해서 the fruits of one's labor는 '노력의 결실'이에요. bear fruit는 '결실을 맺다, 성과가 나다'라는 표현이에요. low-hanging fruit는 '쉽게 얻을 수 있는 성과'라는 비즈니스 용어예요. 형용사 fruitful은 '성과가 많은'이고 fruitless는 '헛된'이에요.",
+  "also": [
+   {
+    "w": "fruitless",
+    "pos": "adj",
+    "ko": "헛된",
+    "en": "Their search was **fruitless**."
+   },
+   {
+    "w": "fruity",
+    "pos": "adj",
+    "ko": "과일 맛이 나는",
+    "en": "This wine has a **fruity** flavor."
+   }
+  ]
+ },
+ {
+  "w": "frustrate",
+  "pos": "v",
+  "meaning_ko": "좌절시키다, 답답하게 하다",
+  "example_en": "It really **frustrates** me when the internet keeps cutting out.",
+  "example_ko": "인터넷이 계속 끊기면 정말 답답해.",
+  "nuance_ko": "frustrate는 노력이 막히거나 일이 뜻대로 안 풀려 답답하고 좌절하게 만든다는 동사예요. 감정을 느끼는 사람은 frustrated, 답답하게 만드는 일은 frustrating이라서 I'm frustrated와 It's frustrating으로 구분해요. 한국어 '좌절'보다 가벼운 답답함에 훨씬 더 자주 써요. annoyed는 짜증이고 frustrated는 막힌 느낌의 답답함이에요. 명사 frustration은 '좌절감'이라서 express frustration이라고 해요. 계획을 막아 못하게 하는 frustrate a plan이라는 뜻도 있어요.",
+  "also": [
+   {
+    "w": "frustrated",
+    "pos": "adj",
+    "ko": "좌절한, 답답한",
+    "en": "She felt **frustrated** by the slow progress."
+   },
+   {
+    "w": "frustrating",
+    "pos": "adj",
+    "ko": "답답하게 하는",
+    "en": "This traffic is so **frustrating**."
+   },
+   {
+    "w": "frustration",
+    "pos": "n",
+    "ko": "좌절감",
+    "en": "He sighed in **frustration**."
+   }
+  ]
+ },
+ {
+  "w": "fry",
+  "pos": "v",
+  "meaning_ko": "튀기다, 부치다",
+  "example_en": "I'll **fry** some eggs for breakfast.",
+  "example_ko": "아침으로 계란 프라이를 좀 해 줄게.",
+  "nuance_ko": "fry는 기름에 튀기거나 부치는 요리 방법이에요. fry an egg, stir-fry(센 불에 볶다), deep-fry(기름에 푹 튀기다), pan-fry(팬에 지지다)처럼 써요. 명사 fries는 감자튀김이에요. 영국식에서는 chips라고 불러요. 굽다는 bake나 roast, 삶다는 boil이라서 조리법마다 동사가 달라요. 구어체로 get fried는 햇볕에 타거나 과부하로 망가진다는 뜻이에요. small fry는 하찮은 사람을 뜻하는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "fries",
+    "pos": "n",
+    "ko": "감자튀김",
+    "en": "Can I get **fries** with that?"
+   },
+   {
+    "w": "fryer",
+    "pos": "n",
+    "ko": "튀김기",
+    "en": "We bought an air **fryer** last week."
+   }
+  ]
+ }
+]

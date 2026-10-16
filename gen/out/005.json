@@ -1,0 +1,1523 @@
+[
+ {
+  "w": "main",
+  "pos": "adj",
+  "meaning_ko": "주된, 가장 중요한",
+  "example_en": "The **main** reason I called is to ask about next week's schedule.",
+  "example_ko": "내가 전화한 주된 이유는 다음 주 일정이 궁금해서야.",
+  "nuance_ko": "main은 여러 개 중에서 '핵심이 되는 하나'를 가리켜요. the main road, the main idea, the main point처럼 거의 항상 명사 앞에서만 써요. 서술 자리에서 'This is main.'이라고 하면 어색하니 조심하세요. most important와 뜻은 비슷하지만 main은 비교급 없이 그냥 '메인'이라는 분류를 나타내요. main course, main entrance, main office 같은 짝꿍 표현이 많아요.",
+  "also": [
+   {
+    "w": "mainly",
+    "pos": "adv",
+    "ko": "주로, 대부분",
+    "en": "The audience was **mainly** teenagers."
+   }
+  ]
+ },
+ {
+  "w": "major",
+  "pos": "adj",
+  "meaning_ko": "주요한, 큰, (대학) 전공",
+  "example_en": "We ran into a **major** problem with the payment system yesterday.",
+  "example_ko": "어제 결제 시스템에 큰 문제가 생겼어.",
+  "nuance_ko": "major는 '중요도나 규모가 상당히 큰'이라는 느낌이에요. a major problem, a major change, a major city처럼 쓰고 반대말은 minor예요. main이 '여러 개 중 핵심'이라면 major는 '사소하지 않은 큰 것'에 가까워요. 명사로는 대학 전공(What's your major?)이고, 동사로는 major in history처럼 in과 함께 써요. 한국어의 '메이저'처럼 큰 업계나 대형 리그를 말할 때도 흔히 써요.",
+  "also": [
+   {
+    "w": "majored",
+    "pos": "v",
+    "ko": "전공했다",
+    "en": "She **majored** in biology at college."
+   }
+  ]
+ },
+ {
+  "w": "make",
+  "pos": "v",
+  "meaning_ko": "만들다, ~하게 하다",
+  "example_en": "Can you **make** a quick pot of coffee before the meeting starts?",
+  "example_ko": "회의 시작 전에 커피 한 주전자만 빨리 내려줄래?",
+  "nuance_ko": "make는 없던 것을 '만들어내거나 결과를 일으킨다'는 그림이에요. make a decision, make a mistake, make money, make sense처럼 명사와 짝을 이루는 표현이 정말 많아요. 사역으로는 make someone do처럼 to 없이 동사원형을 써요(He made me laugh). 한국 학습자는 do a decision, do a mistake처럼 do와 헷갈리는데, 결정·실수·약속은 make를 써요. do는 활동이나 일 자체(do homework), make는 결과물이나 행위의 산출에 가까워요.",
+  "also": [
+   {
+    "w": "maker",
+    "pos": "n",
+    "ko": "만드는 사람, 제조사",
+    "en": "The **maker** of this phone just released a new model."
+   }
+  ]
+ },
+ {
+  "w": "man",
+  "pos": "n",
+  "meaning_ko": "남자, 사람(인류)",
+  "example_en": "That **man** over there has been waiting for you for an hour.",
+  "example_ko": "저기 있는 남자분이 한 시간째 널 기다리고 있어.",
+  "nuance_ko": "man은 성인 남자를 뜻하는 가장 기본 단어예요. 복수형이 men으로 불규칙인 점을 꼭 기억하세요. 구어에서는 Hey man!, Come on, man처럼 친구를 부르거나 감탄을 나타내는 호칭으로도 많이 써요. 오래된 글에서는 mankind처럼 '인류'를 뜻하기도 하지만, 요즘은 people이나 humanity를 더 선호해요. 동사로 'man the desk'처럼 '(자리를) 지키다'로 쓰는 용법도 있어요.",
+  "also": [
+   {
+    "w": "manly",
+    "pos": "adj",
+    "ko": "남자다운",
+    "en": "He thought carrying the heavy box was very **manly**."
+   }
+  ]
+ },
+ {
+  "w": "manage",
+  "pos": "v",
+  "meaning_ko": "관리하다, 간신히 해내다",
+  "example_en": "I somehow **managed** to finish the report before midnight.",
+  "example_ko": "자정 전에 어떻게든 보고서를 끝냈어.",
+  "nuance_ko": "manage에는 두 가지 얼굴이 있어요. 하나는 팀이나 돈, 시간을 '관리하다'(manage a team)이고, 다른 하나는 어려운 일을 '어떻게든 해내다'(manage to do)예요. 후자는 manage to + 동사원형 구문이고 '결국 성공했다'는 뉘앙스를 담아요. can과 달리 힘든 상황 끝에 해냈다는 느낌이라서 managed to는 과거의 성공을 말할 때 자연스러워요. 비즈니스에서는 management, manager 같은 파생어도 매우 자주 만나요.",
+  "also": [
+   {
+    "w": "management",
+    "pos": "n",
+    "ko": "경영, 관리",
+    "en": "The **management** announced a new hiring plan."
+   },
+   {
+    "w": "manager",
+    "pos": "n",
+    "ko": "관리자, 매니저",
+    "en": "My **manager** approved the vacation request today."
+   },
+   {
+    "w": "manageable",
+    "pos": "adj",
+    "ko": "감당할 만한",
+    "en": "The workload is finally **manageable** this month."
+   }
+  ]
+ },
+ {
+  "w": "many",
+  "pos": "det",
+  "meaning_ko": "많은(셀 수 있는)",
+  "example_en": "There aren't **many** seats left for tonight's show.",
+  "example_ko": "오늘 밤 공연은 남은 좌석이 많지 않아.",
+  "nuance_ko": "many는 셀 수 있는 복수명사와 함께 쓰는 '많은'이에요. 셀 수 없는 명사에는 much를 써야 해서 many water는 틀려요. 긍정문에서는 a lot of가 더 자연스럽고, many는 부정문과 의문문(How many ~?)에서 특히 많이 나와요. 격식 있는 글에서는 긍정문에도 many people believe처럼 써요. too many, so many, as many as 같은 짝꿍 표현도 알아두세요.",
+  "also": []
+ },
+ {
+  "w": "mark",
+  "pos": "n",
+  "meaning_ko": "자국, 표시, 점수",
+  "example_en": "There's a dark **mark** on the wall where the picture used to hang.",
+  "example_ko": "그림이 걸려 있던 벽에 어두운 자국이 남아 있어.",
+  "nuance_ko": "mark는 표면에 남은 흔적이나 눈에 띄도록 한 표시를 가리켜요. 명사로는 자국(a scratch mark), 점수(영국식 marks), 기준선(the 100-mark)으로 쓰고, 동사로는 '표시하다, 기념하다'(mark the occasion)로 써요. 시험 점수는 미국에서는 grade나 score를 더 많이 써서 mark는 영국 영어 느낌이 있어요. make a mark on ~(~에 족적을 남기다)처럼 비유적으로도 자주 써요. 형광펜으로 표시하는 건 mark가 아니라 highlight라고 해야 자연스러울 때가 많아요.",
+  "also": [
+   {
+    "w": "marker",
+    "pos": "n",
+    "ko": "마커, 표지",
+    "en": "Use a **marker** to label each box."
+   },
+   {
+    "w": "markedly",
+    "pos": "adv",
+    "ko": "현저하게",
+    "en": "Sales improved **markedly** after the redesign."
+   }
+  ]
+ },
+ {
+  "w": "market",
+  "pos": "n",
+  "meaning_ko": "시장, 시황",
+  "example_en": "I bought these vegetables at the **market** near my apartment.",
+  "example_ko": "이 채소는 우리 아파트 근처 시장에서 샀어.",
+  "nuance_ko": "market은 물건을 사고파는 장소이면서 동시에 '수요와 공급이 오가는 경제적 영역'을 뜻해요. the stock market, the job market, the housing market처럼 분야 이름과 함께 쓰는 경우가 많아요. 동사로는 '시장에 내놓고 홍보하다'(market a product)예요. on the market은 '시장에 나와 있는'이라는 관용 표현이라 집이나 제품이 팔리고 있다는 뜻이에요. 한국어 '마켓'이 가게 이름처럼 쓰이지만, 영어 market은 슈퍼마켓(supermarket)을 줄인 말로도 쓰인다는 점을 참고하세요.",
+  "also": [
+   {
+    "w": "marketing",
+    "pos": "n",
+    "ko": "마케팅",
+    "en": "She works in **marketing** at a software company."
+   }
+  ]
+ },
+ {
+  "w": "marry",
+  "pos": "v",
+  "meaning_ko": "결혼하다, 결혼시키다",
+  "example_en": "They plan to **marry** next spring in a small garden ceremony.",
+  "example_ko": "그 둘은 내년 봄에 작은 정원 결혼식을 올릴 계획이래.",
+  "nuance_ko": "marry는 타동사라서 'marry him'처럼 전치사 없이 바로 대상을 써요. marry with him은 흔한 한국인 실수예요. '~와 결혼한 상태'를 말할 때는 be married to를 쓰고, get married는 '결혼하는 행위'를 가리켜요. 즉 I got married last year(작년에 결혼했다), I'm married to a doctor(의사와 결혼한 상태)처럼 구분해요. 구어에서는 get married를 훨씬 더 자주 써요.",
+  "also": [
+   {
+    "w": "marriage",
+    "pos": "n",
+    "ko": "결혼, 결혼 생활",
+    "en": "Their **marriage** lasted over fifty years."
+   },
+   {
+    "w": "married",
+    "pos": "adj",
+    "ko": "결혼한, 기혼의",
+    "en": "Are you **married** or single?"
+   },
+   {
+    "w": "unmarried",
+    "pos": "adj",
+    "ko": "미혼의",
+    "en": "He is **unmarried** and lives alone."
+   }
+  ]
+ },
+ {
+  "w": "master",
+  "pos": "v",
+  "meaning_ko": "숙달하다, 정복하다",
+  "example_en": "It took me years to **master** the guitar, but it was worth it.",
+  "example_ko": "기타를 마스터하는 데 몇 년이 걸렸지만 그럴 만한 가치가 있었어.",
+  "nuance_ko": "master가 동사일 때는 어떤 기술이나 어려운 일을 '완전히 익혀서 능숙해지다'는 뜻이에요. learn보다 훨씬 강해서 '더 이상 헤매지 않는 수준'을 말해요. 명사로는 대가나 주인(a master of disguise), 석사 학위(a master's degree)로도 써요. 주인과 노예 관계의 master-slave는 기술 문서에서 점점 다른 용어로 바뀌는 추세예요. master a skill, master a language처럼 쓰는 게 가장 흔해요.",
+  "also": [
+   {
+    "w": "mastery",
+    "pos": "n",
+    "ko": "숙달, 통달",
+    "en": "Her **mastery** of French impressed everyone."
+   },
+   {
+    "w": "masterful",
+    "pos": "adj",
+    "ko": "능수능란한",
+    "en": "It was a **masterful** performance from start to finish."
+   }
+  ]
+ },
+ {
+  "w": "matter",
+  "pos": "v",
+  "meaning_ko": "중요하다, 문제",
+  "example_en": "It doesn't **matter** to me which restaurant we choose tonight.",
+  "example_ko": "오늘 밤 어느 식당으로 가든 난 상관없어.",
+  "nuance_ko": "matter는 동사로 쓰면 '중요하다, 문제가 되다'라는 뜻이고 진행형으로는 거의 쓰지 않아요. It doesn't matter(상관없어)와 What's the matter?(무슨 일이야?)가 가장 자주 쓰이는 형태예요. 명사로는 '문제, 사안'(a personal matter)이나 '물질'(organic matter)을 뜻해요. no matter what/how/when은 '아무리 ~해도'라는 양보의 구문으로 정말 많이 써요. important보다 가볍고 구어적이라 대화에서 아주 자연스러워요.",
+  "also": []
+ },
+ {
+  "w": "may",
+  "pos": "v",
+  "meaning_ko": "~일지도 모른다, ~해도 된다",
+  "example_en": "It **may** rain this afternoon, so take an umbrella with you.",
+  "example_ko": "오늘 오후에 비 올지도 모르니까 우산 챙겨 가.",
+  "nuance_ko": "may는 두 가지 의미를 가져요. 하나는 가능성(It may rain, 약 50% 정도)이고, 다른 하나는 격식 있는 허락(May I come in?)이에요. 가능성은 might보다 조금 높은 확신이라고 보면 돼요. 허락을 구할 때 may는 정중하고 격식 있는 편이라, 친구끼리는 can을 더 많이 써요. 조동사라서 뒤에는 동사원형이 오고 3인칭에도 -s를 붙이지 않아요. 대문자 May는 5월이라서 문장 중간에서 구분이 필요해요.",
+  "also": []
+ },
+ {
+  "w": "maybe",
+  "pos": "adv",
+  "meaning_ko": "아마, 어쩌면",
+  "example_en": "**Maybe** we should leave early to avoid the traffic tonight.",
+  "example_ko": "어쩌면 오늘 밤 차 막히니까 일찍 출발하는 게 좋겠어.",
+  "nuance_ko": "maybe는 확실하지 않을 때 쓰는 부사로 보통 문장 맨 앞에 와요. 'Maybe we should ~'는 제안을 부드럽게 하는 정말 자주 쓰는 패턴이에요. 두 단어인 may be(조동사+be동사)와 헷갈리지 마세요. It may be true는 맞고 It maybe true는 틀려요. perhaps보다 훨씬 구어적이고, 대답으로 'Maybe.'만 말하면 '글쎄, 아직 모르겠어'라는 뜻이에요. 거절을 돌려 말하는 느낌으로도 쓰여서 상황에 따라 완곡한 No일 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "meal",
+  "pos": "n",
+  "meaning_ko": "식사, 끼니",
+  "example_en": "We had a big **meal** at my grandmother's house on Sunday.",
+  "example_ko": "일요일에 할머니 댁에서 거하게 한 끼 먹었어.",
+  "nuance_ko": "meal은 아침·점심·저녁처럼 앉아서 먹는 '한 끼 식사'를 말해요. breakfast, lunch, dinner를 모두 아우르는 상위어라서 'three meals a day'처럼 쓰죠. food는 음식 자체(셀 수 없음)이고 meal은 한 끼(셀 수 있음)라는 차이가 있어요. a home-cooked meal, a light meal, skip a meal 같은 표현이 자주 나와요. 레스토랑 메뉴의 meal deal이나 happy meal처럼 세트 메뉴를 가리키기도 해요.",
+  "also": []
+ },
+ {
+  "w": "mean",
+  "pos": "v",
+  "meaning_ko": "의미하다, 의도하다",
+  "example_en": "What do you **mean** by saying the plan is too risky?",
+  "example_ko": "그 계획이 너무 위험하다니, 그게 무슨 뜻이야?",
+  "nuance_ko": "mean은 '단어가 의미하다'와 '사람이 의도하다' 두 가지로 써요. What does this word mean?, I didn't mean to hurt you처럼요. 변화형은 mean-meant-meant로 불규칙이에요. 대화에서 What do you mean?은 상대 말을 되묻거나 약간 따지는 느낌도 있어서 억양에 따라 인상이 달라져요. 형용사 mean은 '심술궂은, 못된'이라는 전혀 다른 뜻이라 문맥으로 구별해야 해요. mean to do는 '~할 작정이다', mean it은 '진심이다'로 써요.",
+  "also": [
+   {
+    "w": "meaning",
+    "pos": "n",
+    "ko": "의미",
+    "en": "I don't understand the **meaning** of this sentence."
+   },
+   {
+    "w": "meaningful",
+    "pos": "adj",
+    "ko": "의미 있는",
+    "en": "She wanted a more **meaningful** job."
+   },
+   {
+    "w": "meaningless",
+    "pos": "adj",
+    "ko": "무의미한",
+    "en": "Without context, the number is **meaningless**."
+   }
+  ]
+ },
+ {
+  "w": "meet",
+  "pos": "v",
+  "meaning_ko": "만나다, 충족시키다",
+  "example_en": "Let's **meet** in front of the station at six o'clock.",
+  "example_ko": "6시에 역 앞에서 만나자.",
+  "nuance_ko": "meet는 처음 만나거나 약속을 잡고 만나는 상황에서 모두 써요. 'Nice to meet you'는 처음 인사할 때만 쓰고, 이미 아는 사이라면 'Good to see you'가 자연스러워요. meet 뒤에는 with를 붙이지 않는 게 기본이에요(meet him이지 meet with him은 공식 회담·면담 느낌). 또 '요구나 기준을 충족시키다'(meet the deadline, meet the requirements)도 아주 흔한 용법이에요. 변화형은 meet-met-met로 불규칙이에요.",
+  "also": [
+   {
+    "w": "meeting",
+    "pos": "n",
+    "ko": "회의, 만남",
+    "en": "I have a **meeting** at ten tomorrow."
+   },
+   {
+    "w": "unmet",
+    "pos": "adj",
+    "ko": "충족되지 않은",
+    "en": "Many needs remain **unmet** in rural areas."
+   }
+  ]
+ },
+ {
+  "w": "member",
+  "pos": "n",
+  "meaning_ko": "구성원, 회원",
+  "example_en": "She became a **member** of the hiking club last year.",
+  "example_ko": "그녀는 작년에 등산 동호회 회원이 됐어.",
+  "nuance_ko": "member는 단체·조직·가족에 속한 한 사람을 가리켜요. a member of the team, a family member, a staff member처럼 of와 자주 연결돼요. 회원제 헬스장이나 쇼핑몰의 '회원'도 member이고, 가입 상태는 membership이에요. EU 같은 국가 단위에서는 member states처럼 개체를 가리킬 수도 있어요. 한국어로 '멤버'라고 해도 영어에서는 팀 동료(teammate)와 약간 뉘앙스가 달라서 '소속'에 초점이 있어요.",
+  "also": [
+   {
+    "w": "membership",
+    "pos": "n",
+    "ko": "회원 자격, 회원권",
+    "en": "My gym **membership** expires next month."
+   }
+  ]
+ },
+ {
+  "w": "mention",
+  "pos": "v",
+  "meaning_ko": "언급하다, 말하다",
+  "example_en": "He didn't even **mention** the problem during the whole meeting.",
+  "example_ko": "그는 회의 내내 그 문제를 언급조차 안 했어.",
+  "nuance_ko": "mention은 어떤 것을 '슬쩍 말하다, 이름을 들먹이다'는 가벼운 언급이에요. 깊이 설명하는 건 explain이나 discuss이고, mention은 거론하는 정도예요. 타동사라서 mention about the problem은 틀리고 mention the problem이 맞아요. 감사 인사에 대한 답례 'Don't mention it'(별말씀을요)과 'not to mention ~'(~은 말할 것도 없고) 같은 관용구도 알아두세요. 뉴스나 비즈니스 메일에서 as mentioned above(위에서 언급했듯이)처럼도 자주 나와요.",
+  "also": [
+   {
+    "w": "mentioned",
+    "pos": "adj",
+    "ko": "언급된",
+    "en": "The **mentioned** issues will be fixed soon."
+   }
+  ]
+ },
+ {
+  "w": "mess",
+  "pos": "n",
+  "meaning_ko": "엉망인 상태, 어질러진 것",
+  "example_en": "Sorry about the **mess**, I wasn't expecting any guests today.",
+  "example_ko": "어질러져 있어서 미안, 오늘 손님 올 줄 몰랐어.",
+  "nuance_ko": "mess는 물리적으로 어질러진 상태뿐 아니라 '엉망진창이 된 상황'도 가리켜요. My room is a mess, What a mess! 같이 쓰고, 일이나 인생이 꼬였을 때도 써요. make a mess는 어지르다이고 clean up a mess는 치우다예요. mess up은 '망치다'(I messed up the test), mess around는 '빈둥거리다, 장난치다'라는 구동사예요. 영어권 군대나 대학에서 mess hall은 식당을 가리키는 별개의 용법이에요.",
+  "also": [
+   {
+    "w": "messy",
+    "pos": "adj",
+    "ko": "지저분한, 복잡한",
+    "en": "His desk is always **messy**."
+   }
+  ]
+ },
+ {
+  "w": "middle",
+  "pos": "n",
+  "meaning_ko": "가운데, 중간",
+  "example_en": "Someone left a bag right in the **middle** of the hallway.",
+  "example_ko": "누가 복도 한가운데에 가방을 두고 갔어.",
+  "nuance_ko": "middle은 양 끝에서 같은 거리에 있는 중앙 지점이나 시기를 말해요. in the middle of ~는 위치(in the middle of the road)뿐 아니라 '~하는 중에'(I'm in the middle of something)라는 뜻으로도 많이 써요. center와 비슷하지만 center는 정확한 중심점, middle은 대략 중간 영역을 말해요. 형용사로는 the middle child(둘째), middle-aged(중년의)처럼 써요. 한국어 '중간'처럼 시간·장소·정도 모두에 쓸 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "might",
+  "pos": "v",
+  "meaning_ko": "~할지도 모른다",
+  "example_en": "She **might** be late because of the heavy traffic downtown.",
+  "example_ko": "시내에 차가 많이 막혀서 그녀가 늦을지도 몰라.",
+  "nuance_ko": "might는 may보다 가능성이 낮은 추측을 나타내는 조동사예요. 현재나 미래의 불확실한 추측에 쓰고 'might have p.p.'로 과거에 대한 추측도 해요. may와 거의 구분 없이 쓰는 원어민도 많지만, might가 더 조심스러운 느낌이에요. 가정법 과거에서 may의 과거형 역할도 해요(He said he might come). 명사 might는 '힘, 권력'이라는 전혀 다른 뜻이니 헷갈리지 마세요. Might I ask?처럼 아주 격식 있는 요청에도 써요.",
+  "also": []
+ },
+ {
+  "w": "mile",
+  "pos": "n",
+  "meaning_ko": "마일(약 1.6km)",
+  "example_en": "The nearest gas station is about two **miles** from here.",
+  "example_ko": "가장 가까운 주유소는 여기서 약 2마일 거리야.",
+  "nuance_ko": "mile은 미국·영국에서 거리를 재는 단위로 약 1.6킬로미터예요. 숫자와 함께 쓰면 복수형을 써요(three miles). 'a ten-mile run'처럼 형용사처럼 쓸 때는 mile을 단수로 두고 하이픈으로 이어요. 비유적으로 'go the extra mile'은 '더 노력하다'라는 관용구이고, miles away는 '아주 멀리, 딴 생각에 빠져'라는 뜻으로 써요. 한국 학습자는 km로 환산해서 감을 잡으면 이해가 빨라요.",
+  "also": [
+   {
+    "w": "mileage",
+    "pos": "n",
+    "ko": "주행 거리, 연비",
+    "en": "This car has really low **mileage** for its age."
+   }
+  ]
+ },
+ {
+  "w": "milk",
+  "pos": "n",
+  "meaning_ko": "우유, 젖",
+  "example_en": "We're out of **milk**, so can you pick some up on the way home?",
+  "example_ko": "우유 떨어졌는데, 집에 오는 길에 좀 사다 줄래?",
+  "nuance_ko": "milk는 셀 수 없는 명사라서 a milk가 아니라 a glass of milk, a carton of milk처럼 단위로 세요. 카페에서는 oat milk, almond milk 같은 식물성 대체 우유가 흔해요. 동사로는 '젖을 짜다'이지만, 비유적으로 '남을 이용해 뽑아먹다'(milk the situation)로도 써요. 한국어 '우유'는 소의 젖이지만 영어 milk는 사람이나 코코넛 등 어떤 젖이나 즙에도 쓸 수 있어요.",
+  "also": [
+   {
+    "w": "milky",
+    "pos": "adj",
+    "ko": "우유 같은, 뿌연",
+    "en": "The tea was pale and **milky**."
+   }
+  ]
+ },
+ {
+  "w": "million",
+  "pos": "num",
+  "meaning_ko": "백만",
+  "example_en": "Over a **million** people watched the final match online.",
+  "example_ko": "백만 명이 넘는 사람이 결승전을 온라인으로 시청했어.",
+  "nuance_ko": "million은 100만이라는 큰 수로, 숫자 뒤에서는 복수형 s를 붙이지 않아요(three million people). 하지만 막연히 '수백만'이라고 할 때는 millions of people처럼 s와 of를 붙여요. 한국어는 만 단위로 세기 때문에 1,000,000을 '백만'으로 외워서 영어의 천 단위 쉼표와 맞추는 연습이 필요해요. a million은 비유적으로 '엄청 많은'이라는 뜻도 있어요(I've told you a million times). 돈에서는 a million dollars를 줄여 a mil 또는 $1M이라고도 해요.",
+  "also": [
+   {
+    "w": "millions",
+    "pos": "n",
+    "ko": "수백만, 무수히 많음",
+    "en": "**Millions** of fans watched the final."
+   }
+  ]
+ },
+ {
+  "w": "mind",
+  "pos": "n",
+  "meaning_ko": "마음, 정신, 꺼리다",
+  "example_en": "Do you **mind** if I open the window for a minute?",
+  "example_ko": "잠깐 창문 좀 열어도 괜찮을까?",
+  "nuance_ko": "mind는 명사로 '생각하는 머리와 마음'이고, 동사로는 '꺼리다, 신경 쓰다'예요. Do you mind if I ~?에 '괜찮다'고 답하려면 Not at all이나 No, go ahead처럼 부정으로 답해야 해서 한국인이 자주 헷갈려요. Mind the gap, Mind your head처럼 '조심하라'는 영국식 표현도 있어요. change my mind(마음을 바꾸다), make up my mind(결심하다), never mind(신경 쓰지 마)는 꼭 외워둘 만한 표현이에요. mind + -ing 형태를 쓰는 점도 기억하세요.",
+  "also": [
+   {
+    "w": "mindful",
+    "pos": "adj",
+    "ko": "염두에 두는, 의식하는",
+    "en": "Be **mindful** of the noise at night."
+   },
+   {
+    "w": "mindless",
+    "pos": "adj",
+    "ko": "생각 없는, 무의미한",
+    "en": "It was a **mindless** task that bored me."
+   }
+  ]
+ },
+ {
+  "w": "minute",
+  "pos": "n",
+  "meaning_ko": "분, 잠깐",
+  "example_en": "Give me a **minute** and I'll be right with you.",
+  "example_ko": "잠깐만 기다려, 금방 갈게.",
+  "nuance_ko": "minute는 시간 단위 '분'이지만 구어에서는 '아주 잠깐'이라는 뜻으로도 많이 써요. Just a minute, Wait a minute처럼 잠깐 기다려 달라는 표현이 대표적이에요. in a minute은 '곧', at the last minute은 '막판에'라는 뜻이에요. 같은 철자의 형용사 minute(마이뉴트)는 '아주 작은'이라는 전혀 다른 발음과 뜻이니 주의하세요. 회의록은 minutes(복수)라고 쓰는 점도 비즈니스에서 알아둘 만해요.",
+  "also": []
+ },
+ {
+  "w": "miss",
+  "pos": "v",
+  "meaning_ko": "놓치다, 그리워하다",
+  "example_en": "I'm going to **miss** you so much when you move away.",
+  "example_ko": "네가 이사 가면 정말 많이 보고 싶을 거야.",
+  "nuance_ko": "miss의 핵심 그림은 '무언가가 있어야 할 자리에 없음을 느끼는 것'이에요. 그래서 버스를 놓치다(miss the bus), 기회를 놓치다, 사람이 그리워지다 모두 같은 뿌리의 뜻이에요. 'I miss you'는 연인·가족·친구에게 두루 쓰는 따뜻한 표현이에요. 사물은 miss의 목적어가 되어 '없어서 불편하다'도 되고, 총이나 공이 '빗나가다'의 뜻도 있어요. 명사 Miss는 미혼 여성 호칭으로도 써요.",
+  "also": []
+ },
+ {
+  "w": "missed",
+  "pos": "adj",
+  "meaning_ko": "놓친, 빗나간",
+  "example_en": "I saw three **missed** calls from my boss this morning.",
+  "example_ko": "오늘 아침에 상사에게서 부재중 전화가 세 통 와 있었어.",
+  "nuance_ko": "missed는 miss의 과거형이면서 형용사로도 쓰여 '놓친, 받지 못한'이라는 뜻을 나타내요. missed call(부재중 전화), missed opportunity(놓친 기회), missed deadline(지키지 못한 마감)처럼 명사 앞에서 자주 만나요. 과거분사 missing(없어진, 실종된)과 구별해야 해요. missing은 현재 어디에 있는지 모른다는 뜻이고 missed는 놓쳤다는 사건에 가까워요. 비즈니스 메일에서 'I missed your message'처럼도 써요.",
+  "also": [
+   {
+    "w": "missing",
+    "pos": "adj",
+    "ko": "없어진, 실종된",
+    "en": "My wallet is **missing** from my bag."
+   }
+  ]
+ },
+ {
+  "w": "mistake",
+  "pos": "n",
+  "meaning_ko": "실수, 잘못",
+  "example_en": "I made a big **mistake** by trusting him with my password.",
+  "example_ko": "그에게 비밀번호를 맡긴 건 내 큰 실수였어.",
+  "nuance_ko": "mistake는 의도하지 않은 잘못이나 착오를 가리켜요. 동사는 make를 써서 make a mistake이고, do a mistake는 틀린 표현이에요. by mistake는 '실수로'라는 뜻의 자주 쓰는 구예요. error보다 일상적이고 부드러운 말이고, error는 기술·공식 문서에서 자주 나와요. 동사 mistake는 'mistake A for B'(A를 B로 착각하다) 구문으로 쓰는데, mistake-mistook-mistaken으로 변해요.",
+  "also": [
+   {
+    "w": "mistaken",
+    "pos": "adj",
+    "ko": "잘못 알고 있는",
+    "en": "If you think that, you are **mistaken**."
+   },
+   {
+    "w": "unmistakable",
+    "pos": "adj",
+    "ko": "틀림없는, 분명한",
+    "en": "There was an **unmistakable** smell of smoke."
+   }
+  ]
+ },
+ {
+  "w": "mister",
+  "pos": "n",
+  "meaning_ko": "씨, 선생님(남성 호칭)",
+  "example_en": "Excuse me, **mister**, you dropped your wallet on the floor.",
+  "example_ko": "저기요, 아저씨, 바닥에 지갑 떨어뜨리셨어요.",
+  "nuance_ko": "mister는 남성에게 붙이는 호칭 Mr.의 풀어쓴 형태예요. 보통은 Mr. Kim처럼 성과 함께 줄여서 쓰고, 이름 없이 'Hey, mister'라고 부르면 낯선 남자를 부르는 약간 거칠거나 어린이 같은 느낌이에요. 여성 호칭은 Ms., Mrs., Miss로 갈라져요. 요즘은 이름을 모를 때 Excuse me, sir가 훨씬 정중하고 일반적이에요. Mr.에는 마침표를 찍는 것이 미국식이고 영국식은 Mr로 써요.",
+  "also": []
+ },
+ {
+  "w": "moment",
+  "pos": "n",
+  "meaning_ko": "순간, 잠깐",
+  "example_en": "Just give me a **moment** to find the right file.",
+  "example_ko": "맞는 파일 찾을 때까지 잠깐만 시간을 줘.",
+  "nuance_ko": "moment는 매우 짧은 시간이나 특정한 순간을 말해요. Wait a moment, Just a moment처럼 minute와 비슷하게 '잠시만'으로 쓰지만 약간 더 격식 있어요. at the moment는 '지금 현재', for the moment는 '당분간', in a moment는 '곧'이에요. at the moment를 쓰면 지금 이 시점의 상황이 일시적이라는 느낌을 줘요. 특별한 사건을 가리킬 때는 'a magic moment', 'a historic moment'처럼 의미가 큰 순간을 뜻해요.",
+  "also": [
+   {
+    "w": "momentarily",
+    "pos": "adv",
+    "ko": "잠시, 곧",
+    "en": "The lights went out **momentarily**."
+   }
+  ]
+ },
+ {
+  "w": "monday",
+  "pos": "n",
+  "meaning_ko": "월요일",
+  "example_en": "We have a team meeting every **Monday** morning at nine.",
+  "example_ko": "우리는 매주 월요일 아침 9시에 팀 회의가 있어.",
+  "nuance_ko": "Monday는 요일 이름이라서 항상 대문자로 시작해요. 요일 앞에는 보통 전치사 on을 써서 on Monday라고 하고, 매주 반복되면 on Mondays 또는 every Monday라고 해요. 미국 달력은 일요일 시작이 많아서 Monday가 한 주의 둘째 날이라는 감각이 한국과 비슷해요. Monday blues는 월요일의 우울함, Monday morning quarterback은 결과가 나온 뒤에 훈수 두는 사람을 뜻하는 관용 표현이에요. 약어는 Mon.이에요.",
+  "also": []
+ },
+ {
+  "w": "money",
+  "pos": "n",
+  "meaning_ko": "돈",
+  "example_en": "I'm saving **money** for a trip to Japan next summer.",
+  "example_ko": "내년 여름 일본 여행을 가려고 돈을 모으고 있어.",
+  "nuance_ko": "money는 셀 수 없는 명사라서 a money나 moneys 같은 복수는 거의 쓰지 않아요. 액수를 말할 때는 a lot of money, some money, much money로 말하고 dollar처럼 단위를 붙일 때는 셀 수 있어요. 자주 쓰는 짝꿍은 save money(저축하다), spend money(쓰다), make money(벌다), waste money(낭비하다)예요. 돈을 번다고 할 때 earn money도 맞지만 make money가 더 구어적이에요. 한국인이 get money라고 하는 경우가 많은데 문맥에 따라 make나 earn이 더 자연스러워요.",
+  "also": []
+ },
+ {
+  "w": "month",
+  "pos": "n",
+  "meaning_ko": "달, 개월",
+  "example_en": "I've been learning to cook for about a **month** now.",
+  "example_ko": "요리를 배운 지 이제 한 달쯤 됐어.",
+  "nuance_ko": "month는 달력의 한 달 또는 30일 정도의 기간을 뜻해요. 숫자와 함께 쓰면 복수형을 쓰고(three months), 형용사처럼 쓸 때는 단수형과 하이픈을 써요(a three-month course). 전치사는 in March처럼 월 이름 앞에 in을 쓰고, 'this month', 'last month', 'next month'에는 전치사가 필요 없어요. 한국어 '개월'과 달리 영어는 in a month(한 달 후에)와 for a month(한 달 동안)의 쓰임을 구분해야 해요.",
+  "also": [
+   {
+    "w": "monthly",
+    "pos": "adj",
+    "ko": "매달의, 월간의",
+    "en": "I pay a **monthly** fee for the app."
+   }
+  ]
+ },
+ {
+  "w": "more",
+  "pos": "det",
+  "meaning_ko": "더 많은, 더",
+  "example_en": "Could I have some **more** water, please?",
+  "example_ko": "물 좀 더 주실 수 있을까요?",
+  "nuance_ko": "more는 many와 much의 비교급으로 '더 많은'이라는 뜻이고, 형용사나 부사 앞에서는 '더 ~한'이 돼요(more beautiful). 3음절 이상의 긴 형용사에 more를 쓰고, 짧은 형용사는 -er를 붙여요. more than은 '~보다 많은'이고, no more than은 '고작 ~밖에'라는 부정적인 느낌이에요. 'more and more'는 점점 더 많이, 'what's more'는 게다가라는 접속 표현이에요. 식당에서 'Would you like some more?'는 더 먹겠느냐는 가장 흔한 질문이에요.",
+  "also": []
+ },
+ {
+  "w": "morning",
+  "pos": "n",
+  "meaning_ko": "아침, 오전",
+  "example_en": "I usually go for a short walk every **morning** before work.",
+  "example_ko": "나는 보통 출근 전 매일 아침 짧게 산책해.",
+  "nuance_ko": "morning은 해가 뜬 뒤부터 정오까지의 시간을 말해요. 전치사는 in the morning이지만 구체적인 날짜가 붙으면 on Monday morning처럼 on을 써요. 'this morning'과 'tomorrow morning'은 전치사 없이 써요. 인사 Good morning은 정오 전에만 쓰고, 오후부터는 Good afternoon으로 바꿔요. 새벽 시간(2~3시)을 말할 때도 'at 3 in the morning'처럼 morning이 쓰여서 한국어 '새벽'과 범위가 달라요.",
+  "also": []
+ },
+ {
+  "w": "most",
+  "pos": "det",
+  "meaning_ko": "대부분의, 가장",
+  "example_en": "**Most** of my friends live in the same neighborhood as me.",
+  "example_ko": "내 친구들 대부분이 나랑 같은 동네에 살아.",
+  "nuance_ko": "most는 '대부분'과 '가장'이라는 두 가지 뜻이 있어요. 한정사로는 most people처럼 the 없이 쓰고, 최상급으로는 the most beautiful처럼 the를 붙이는 점이 달라요. 대부분의 일반 명사를 말할 때 the most people은 틀리고 most people이 맞아요. most of 뒤에는 the/my/these 같은 한정사와 함께 명사가 와요(most of the time). 구어에서 mostly(주로)와 헷갈려 most를 부사로 잘못 쓰지 않도록 주의하세요.",
+  "also": [
+   {
+    "w": "mostly",
+    "pos": "adv",
+    "ko": "주로, 대개",
+    "en": "The crowd was **mostly** young people."
+   }
+  ]
+ },
+ {
+  "w": "mother",
+  "pos": "n",
+  "meaning_ko": "어머니, 엄마",
+  "example_en": "My **mother** calls me every Sunday just to check in.",
+  "example_ko": "우리 엄마는 안부를 묻는다고 매주 일요일마다 전화하셔.",
+  "nuance_ko": "mother는 어머니를 가리키는 가장 격식 있는 기본 단어예요. 호칭으로 부를 때는 Mom(미국)/Mum(영국)이 일상적이고 Mother는 다소 옛스럽거나 격식을 차린 느낌이에요. mother tongue(모국어), mother nature(대자연), single mother(미혼 엄마)처럼 다양한 복합어가 있어요. 동사 mother는 '엄마처럼 보살피다'로 쓰지만 때로 지나치게 감싼다는 부정적 뉘앙스가 담겨요. 서류나 공식 글에서는 mother, 구어에서는 mom으로 구분해요.",
+  "also": [
+   {
+    "w": "motherhood",
+    "pos": "n",
+    "ko": "모성, 엄마가 되는 것",
+    "en": "She talked about the joys of **motherhood**."
+   },
+   {
+    "w": "motherly",
+    "pos": "adj",
+    "ko": "어머니 같은",
+    "en": "She gave him a **motherly** hug."
+   }
+  ]
+ },
+ {
+  "w": "mountain",
+  "pos": "n",
+  "meaning_ko": "산",
+  "example_en": "We climbed the **mountain** early in the morning to see the sunrise.",
+  "example_ko": "일출을 보려고 이른 아침에 산에 올랐어.",
+  "nuance_ko": "mountain은 hill보다 훨씬 높고 가파른 큰 산을 뜻해요. 한국의 낮은 야산은 오히려 hill이 더 어울리고, 설악산 같은 큰 산은 mountain이라고 해요. 'climb a mountain'과 'go hiking in the mountains'가 가장 흔한 표현이에요. 산 이름 앞에는 Mount Everest처럼 Mount를 붙이거나 Mt.로 줄여요. 비유적으로 'a mountain of work'는 '산더미 같은 일', 'make a mountain out of a molehill'은 '사소한 일을 크게 부풀리다'라는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "mountainous",
+    "pos": "adj",
+    "ko": "산이 많은",
+    "en": "The region is **mountainous** and cold."
+   }
+  ]
+ },
+ {
+  "w": "mouth",
+  "pos": "n",
+  "meaning_ko": "입, 입구",
+  "example_en": "Please don't talk with your **mouth** full of food.",
+  "example_ko": "음식을 입에 가득 넣고 말하지 마.",
+  "nuance_ko": "mouth는 신체의 입이면서 강이나 동굴의 '입구'를 뜻하기도 해요(the mouth of the river). 'Open your mouth'는 병원에서도 자주 들리고, 'keep your mouth shut'은 비밀을 지키거나 조용히 하라는 뜻이에요. 발음은 /maʊθ/이고 동사로는 [maʊð]로 th 소리가 유성음으로 바뀌어요. big mouth(입이 싼 사람), mouth-watering(군침이 도는)처럼 복합 표현이 많아요. 사람의 입 말고 동물의 주둥이는 muzzle이나 snout라고도 하지만 일상에서는 mouth로 충분해요.",
+  "also": [
+   {
+    "w": "mouthful",
+    "pos": "n",
+    "ko": "한 입 가득",
+    "en": "He took a big **mouthful** of pasta."
+   }
+  ]
+ },
+ {
+  "w": "move",
+  "pos": "v",
+  "meaning_ko": "움직이다, 이사하다",
+  "example_en": "We're going to **move** to a bigger apartment next month.",
+  "example_ko": "우리 다음 달에 더 큰 아파트로 이사 갈 거야.",
+  "nuance_ko": "move의 핵심은 '위치가 바뀌는 것'이에요. 몸이 움직이거나 물건을 옮기거나, 이사를 하거나 감정이 움직이는 것(감동하다)까지 모두 포함해요. 이사할 때는 move to/into/out of로 방향을 나타내고, move on은 '다음 단계로 넘어가다'라는 구동사예요. 명사로는 '조치, 수'(a smart move)나 체스 같은 게임의 '한 수'를 말해요. 가만히 있는 학습자에게 'Don't move!'는 경찰 영화에서 자주 들리죠.",
+  "also": [
+   {
+    "w": "movement",
+    "pos": "n",
+    "ko": "움직임, 운동",
+    "en": "The civil rights **movement** changed the country."
+   },
+   {
+    "w": "moving",
+    "pos": "adj",
+    "ko": "감동적인, 움직이는",
+    "en": "It was a very **moving** speech."
+   }
+  ]
+ },
+ {
+  "w": "movie",
+  "pos": "n",
+  "meaning_ko": "영화",
+  "example_en": "Do you want to watch a **movie** at my place tonight?",
+  "example_ko": "오늘 밤 우리 집에서 영화 볼래?",
+  "nuance_ko": "movie는 미국에서 가장 흔한 '영화' 단어이고, 영국에서는 film을 더 선호해요. 극장에 가는 건 go to the movies이며 영화관은 movie theater라고 해요. 영화를 본다고 할 때는 watch a movie 또는 see a movie 모두 가능해요. movie night, movie star, movie ticket처럼 복합어가 많아요. 학술적이고 격식 있는 글에서는 film이나 cinema를 더 자주 써요.",
+  "also": []
+ },
+ {
+  "w": "mrs",
+  "pos": "n",
+  "meaning_ko": "~부인, ~여사",
+  "example_en": "**Mrs.** Johnson will be teaching our class this semester.",
+  "example_ko": "이번 학기에는 존슨 선생님이 우리 수업을 맡으실 거야.",
+  "nuance_ko": "Mrs.는 결혼한 여성의 성 앞에 붙이는 호칭이에요. 발음은 /ˈmɪsɪz/로 '미시즈'이고 철자와 달리 r이 소리나지 않아요. 결혼 여부를 밝히지 않는 호칭 Ms.가 요즘 직장과 공식 문서에서는 더 안전해요. Miss는 미혼 여성에게, Mrs.는 기혼 여성에게 쓰는 전통적인 구분이에요. 학교에서 선생님을 부를 때도 Mrs. Kim처럼 성과 함께 쓰고, 이름만 붙이지는 않아요.",
+  "also": []
+ },
+ {
+  "w": "much",
+  "pos": "det",
+  "meaning_ko": "많은(셀 수 없는), 매우",
+  "example_en": "I don't have **much** time left before the train leaves.",
+  "example_ko": "기차 출발까지 시간이 별로 많이 안 남았어.",
+  "nuance_ko": "much는 셀 수 없는 명사와 쓰는 '많은'이며, 주로 부정문과 의문문에서 써요. 긍정문에서는 a lot of나 plenty of를 더 자연스럽게 쓰고, much는 too much, so much, very much처럼 짝을 이룰 때 나와요. How much is it?은 가격을 물어보는 가장 기본적인 문장이에요. much는 부사로도 쓰여서 'much better', 'thank you very much'처럼 비교급이나 감사 표현을 강조해요. many와 구별해서 셀 수 있느냐 없느냐로 판단하세요.",
+  "also": []
+ },
+ {
+  "w": "mum",
+  "pos": "n",
+  "meaning_ko": "엄마(영국식)",
+  "example_en": "My **mum** makes the best apple pie in the whole town.",
+  "example_ko": "우리 엄마는 온 동네에서 제일 맛있는 애플파이를 만들어.",
+  "nuance_ko": "mum은 영국·호주 등에서 쓰는 '엄마' 호칭이에요. 미국에서는 같은 의미로 mom을 쓰니, 영국 영화나 드라마에서 mum이 나오면 mom이라고 생각하면 돼요. 똑같은 철자의 형용사 mum은 '입을 다문'이라는 뜻이어서 keep mum(비밀을 지키다)이라는 관용구도 있어요. 한국어 '엄마'처럼 아이가 부르는 말이지만 어른도 자연스럽게 써요. 격식 있는 글에서는 mother를 쓰고 mum은 가볍고 정겨운 느낌이에요.",
+  "also": [
+   {
+    "w": "mom",
+    "pos": "n",
+    "ko": "엄마(미국식)",
+    "en": "My **mom** called me twice today."
+   }
+  ]
+ },
+ {
+  "w": "music",
+  "pos": "n",
+  "meaning_ko": "음악",
+  "example_en": "I listen to **music** on my phone every time I commute.",
+  "example_ko": "난 출퇴근할 때마다 폰으로 음악을 들어.",
+  "nuance_ko": "music은 셀 수 없는 명사라서 a music이나 musics라고 하지 않고, a piece of music처럼 단위로 세요. 듣는다고 할 때는 listen to music, 연주한다고 할 때는 play music을 써요. 장르는 pop music, classical music, live music처럼 앞에 붙여요. 학과나 직업과 관련해서는 'study music', 'a music teacher'처럼 형용사 역할도 해요. 소리 자체를 가리키는 sound나 noise와는 달리, 조화롭게 구성된 작품을 말해요.",
+  "also": [
+   {
+    "w": "musical",
+    "pos": "adj",
+    "ko": "음악의, 음악적인",
+    "en": "She has real **musical** talent."
+   },
+   {
+    "w": "musician",
+    "pos": "n",
+    "ko": "음악가",
+    "en": "He wants to be a professional **musician**."
+   }
+  ]
+ },
+ {
+  "w": "must",
+  "pos": "v",
+  "meaning_ko": "~해야 한다, ~임에 틀림없다",
+  "example_en": "You **must** be exhausted after driving all night.",
+  "example_ko": "밤새 운전했으니 분명 지쳤겠다.",
+  "nuance_ko": "must에는 의무(You must wear a seat belt)와 강한 추측(You must be tired) 두 가지 의미가 있어요. 구어에서 의무는 have to가 훨씬 흔하고, must는 규칙이나 개인의 강한 신념을 나타내는 느낌이에요. 부정형 must not은 '절대 ~하면 안 된다'로 금지이고, don't have to는 '~할 필요 없다'라는 점이 큰 차이예요. 과거 시제가 없어서 과거 의무는 had to로 바꿔요. 명사 must는 '꼭 해야 할 것'(a must-see)의 뜻으로도 써요.",
+  "also": []
+ },
+ {
+  "w": "name",
+  "pos": "n",
+  "meaning_ko": "이름",
+  "example_en": "Could you spell your last **name** for me, please?",
+  "example_ko": "성을 한 글자씩 불러주실 수 있을까요?",
+  "nuance_ko": "name은 사람이나 사물을 구분하는 이름이에요. first name(이름), last name(성), full name(성명)을 구분해서 알아두세요. 동사로는 '이름을 짓다, 지명하다'(They named the baby Lucy)로 쓰고, 'name after ~'는 ~를 따서 이름을 짓는다는 뜻이에요. 'What's your name?'은 약간 직설적이라서 'May I have your name?'이 서비스 상황에서는 더 정중해요. in the name of(~의 이름으로), make a name for yourself(이름을 알리다)도 자주 나오는 표현이에요.",
+  "also": [
+   {
+    "w": "named",
+    "pos": "adj",
+    "ko": "~라는 이름의",
+    "en": "I have a dog **named** Max."
+   },
+   {
+    "w": "namely",
+    "pos": "adv",
+    "ko": "즉, 다시 말해",
+    "en": "Two things matter, **namely** price and quality."
+   }
+  ]
+ },
+ {
+  "w": "nation",
+  "pos": "n",
+  "meaning_ko": "국가, 국민",
+  "example_en": "The whole **nation** was watching the final match last night.",
+  "example_ko": "어젯밤 온 국민이 결승전을 지켜보고 있었어.",
+  "nuance_ko": "nation은 정치적 조직으로서의 '국가'와 그 안에 사는 '국민 전체'를 동시에 가리켜요. country가 지리적 영토를 중시하는 반면 nation은 공동체와 정체성을 강조하는 느낌이에요. the United Nations(국제연합), a nation of immigrants처럼 쓰고 'the whole nation'은 온 국민을 뜻해요. 뉴스나 연설에서 자주 나오는 단어이고 일상 대화에서는 country가 더 흔해요. 형용사 national은 '국가의, 전국적인'이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "national",
+    "pos": "adj",
+    "ko": "국가의, 전국적인",
+    "en": "It was big **national** news."
+   },
+   {
+    "w": "nationwide",
+    "pos": "adj",
+    "ko": "전국적인",
+    "en": "The company launched a **nationwide** campaign."
+   }
+  ]
+ },
+ {
+  "w": "nature",
+  "pos": "n",
+  "meaning_ko": "자연, 천성",
+  "example_en": "I love spending my weekends out in **nature** with my dog.",
+  "example_ko": "난 주말을 개랑 자연 속에서 보내는 게 정말 좋아.",
+  "nuance_ko": "nature는 두 가지 뜻으로 많이 써요. 하나는 산과 숲 같은 '자연'이고, 다른 하나는 사람이나 사물의 '본성, 성질'(human nature)이에요. 자연은 관사 없이 in nature, close to nature처럼 써요. by nature는 '태생적으로'(He's shy by nature)라는 뜻이에요. 'the nature of the problem'처럼 사물의 성격을 설명할 때 격식 있는 글에서 자주 나와요. 형용사 natural은 '자연스러운, 타고난'이라는 두 가지 뜻을 모두 가져요.",
+  "also": [
+   {
+    "w": "natural",
+    "pos": "adj",
+    "ko": "자연스러운, 타고난",
+    "en": "She is a **natural** leader."
+   },
+   {
+    "w": "naturally",
+    "pos": "adv",
+    "ko": "자연스럽게, 당연히",
+    "en": "**Naturally**, I was nervous before the exam."
+   }
+  ]
+ },
+ {
+  "w": "naughty",
+  "pos": "adj",
+  "meaning_ko": "말 안 듣는, 장난꾸러기인",
+  "example_en": "The puppy was **naughty** and chewed up my favorite shoes.",
+  "example_ko": "강아지가 말썽을 부려서 내가 제일 아끼는 신발을 다 씹어놨어.",
+  "nuance_ko": "naughty는 주로 어린아이나 반려동물이 '말을 안 듣고 장난을 치는' 상황에 써요. 심각한 잘못이 아니라 귀엽게 혼낼 만한 정도의 말썽이라는 뉘앙스예요. You've been naughty!, a naughty boy처럼 말해요. 성인에게 쓰면 약간 장난스럽거나 짓궂은 느낌을 주니 문맥에 주의하세요. bad보다 훨씬 가볍고, 미국보다 영국 영어에서 더 많이 쓰는 편이에요.",
+  "also": [
+   {
+    "w": "naughtiness",
+    "pos": "n",
+    "ko": "말썽, 짓궂음",
+    "en": "His **naughtiness** made everyone laugh."
+   }
+  ]
+ },
+ {
+  "w": "near",
+  "pos": "prep",
+  "meaning_ko": "가까이, ~근처에",
+  "example_en": "Is there a good coffee shop **near** your office?",
+  "example_ko": "너희 사무실 근처에 괜찮은 카페 있어?",
+  "nuance_ko": "near는 거리가 가깝다는 뜻으로 전치사, 형용사, 부사, 동사로 모두 쓰여요. 전치사일 때는 near the station처럼 바로 명사가 오고 of는 붙이지 않아요(near of는 틀림). close to도 비슷하지만 near가 더 짧고 일반적이에요. 시간에도 써서 'in the near future'(가까운 미래에)처럼 말해요. nearby는 '근처의, 근처에'로 near the place라는 목적어 없이 단독으로 쓰는 점이 달라요.",
+  "also": [
+   {
+    "w": "nearly",
+    "pos": "adv",
+    "ko": "거의",
+    "en": "I **nearly** missed my flight this morning."
+   },
+   {
+    "w": "nearby",
+    "pos": "adj",
+    "ko": "가까운, 근처의",
+    "en": "We found a **nearby** restaurant."
+   }
+  ]
+ },
+ {
+  "w": "neat",
+  "pos": "adj",
+  "meaning_ko": "깔끔한, 멋진",
+  "example_en": "Her handwriting is always so **neat** and easy to read.",
+  "example_ko": "그녀의 글씨는 항상 깔끔해서 읽기 쉬워.",
+  "nuance_ko": "neat은 정돈되고 깔끔한 상태를 말해요. a neat desk, neat handwriting처럼 물건이나 모양에 쓰고, 사람에게는 '단정한'이라는 뜻이에요. 미국 구어에서는 'That's neat!'처럼 '멋지다, 좋다'라는 감탄으로도 써서 약간 옛스럽고 순수한 느낌이 있어요. 영국에서는 위스키를 얼음 없이 마신다는 뜻의 neat(스트레이트)도 있어요. tidy와 비슷하지만 neat은 질서 정연한 외관을 더 강조해요.",
+  "also": [
+   {
+    "w": "neatly",
+    "pos": "adv",
+    "ko": "깔끔하게",
+    "en": "She folded the clothes **neatly**."
+   }
+  ]
+ },
+ {
+  "w": "necessary",
+  "pos": "adj",
+  "meaning_ko": "필요한, 불가피한",
+  "example_en": "Is it really **necessary** to attend every single meeting?",
+  "example_ko": "모든 회의에 꼭 다 참석해야 하는 거야?",
+  "nuance_ko": "necessary는 '없으면 안 되는, 반드시 필요한'이라는 뜻의 형용사예요. It is necessary (for A) to do ~ 구문이 가장 흔하고, if necessary(필요하다면), when necessary(필요할 때)도 자주 써요. needed보다 격식이 있고 규칙이나 요건을 말할 때 어울려요. 철자가 어려워서 collar 하나, sleeve 두 개라는 암기법(one c, two s)이 있어요. 반대말 unnecessary와 함께 외워두면 좋아요.",
+  "also": [
+   {
+    "w": "necessarily",
+    "pos": "adv",
+    "ko": "반드시, 필연적으로",
+    "en": "Expensive doesn't **necessarily** mean better."
+   },
+   {
+    "w": "unnecessary",
+    "pos": "adj",
+    "ko": "불필요한",
+    "en": "Please avoid **unnecessary** costs."
+   }
+  ]
+ },
+ {
+  "w": "neck",
+  "pos": "n",
+  "meaning_ko": "목",
+  "example_en": "I woke up with a stiff **neck** after sleeping on the sofa.",
+  "example_ko": "소파에서 자고 일어났더니 목이 뻣뻣해.",
+  "nuance_ko": "neck은 머리와 몸통을 잇는 신체 부위인 '목'이에요. 목 안쪽의 장기인 throat(목구멍)와 구분하세요. 'a pain in the neck'은 '골칫거리'라는 관용구이고, neck and neck은 경주에서 '막상막하'를 뜻해요. 옷의 목둘레는 neckline, 병의 좁은 부분은 the neck of the bottle이에요. 한국어 '목'이 목소리까지 포함하는 것과 달리 영어 neck은 신체 부위에만 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "need",
+  "pos": "v",
+  "meaning_ko": "필요로 하다, ~해야 한다",
+  "example_en": "You **need** to get some rest before the big presentation.",
+  "example_ko": "중요한 발표 전에 좀 쉬어야 해.",
+  "nuance_ko": "need는 '없으면 곤란한 것'을 말하는 동사예요. need + 명사(I need help), need to + 동사원형(I need to go) 모두 자주 써요. want가 '원한다'라면 need는 '필요하다'로 더 절실하고 객관적이에요. need -ing는 수동의 뜻으로 'The car needs washing'(세차가 필요해)처럼 써요. 부정문에서는 don't need to 또는 needn't(영국식)로 말하고, 명사 need는 '필요, 욕구'(in need of help)예요.",
+  "also": [
+   {
+    "w": "needed",
+    "pos": "adj",
+    "ko": "필요한",
+    "en": "Your help is **needed** here."
+   },
+   {
+    "w": "needless",
+    "pos": "adj",
+    "ko": "불필요한",
+    "en": "It was a **needless** argument."
+   }
+  ]
+ },
+ {
+  "w": "neighbour",
+  "pos": "n",
+  "meaning_ko": "이웃",
+  "example_en": "My **neighbour** always waters my plants when I'm on vacation.",
+  "example_ko": "내가 휴가 갈 때마다 이웃이 우리 집 화분에 물을 줘.",
+  "nuance_ko": "neighbour는 영국식 철자이고 미국식은 neighbor예요. 바로 옆집이나 같은 동네에 사는 사람을 뜻하고, 이웃 나라를 가리킬 때도 써요(neighboring country). 한국어 '이웃사촌'처럼 친근한 의미도 있지만 영어권 대도시에서는 서로 모르는 경우도 많아요. next-door neighbour는 '옆집 사람'이에요. 형용사로 쓰는 neighbouring도 'neighbouring towns'처럼 '인근의'를 뜻해요.",
+  "also": [
+   {
+    "w": "neighbourhood",
+    "pos": "n",
+    "ko": "동네, 이웃",
+    "en": "It's a quiet **neighbourhood** with many parks."
+   },
+   {
+    "w": "neighbouring",
+    "pos": "adj",
+    "ko": "이웃한, 인접한",
+    "en": "We visited a **neighbouring** village."
+   }
+  ]
+ },
+ {
+  "w": "never",
+  "pos": "adv",
+  "meaning_ko": "결코 ~않다, 한 번도 ~않다",
+  "example_en": "I've **never** seen such a beautiful sunset in my whole life.",
+  "example_ko": "살면서 이렇게 아름다운 노을은 처음 봐.",
+  "nuance_ko": "never는 '어떤 때에도 ~않다'는 완전 부정이에요. 이미 부정어이므로 never don't 같은 이중 부정은 쓰지 않아요. 현재완료와 함께 'I've never been to Paris'처럼 경험이 없음을 말하는 게 가장 흔한 패턴이에요. 빈도부사라서 일반동사 앞, be동사 뒤에 와요(She is never late). Never mind(신경 쓰지 마), never ever(절대로)처럼 강조 표현도 구어에서 많이 써요.",
+  "also": []
+ },
+ {
+  "w": "new",
+  "pos": "adj",
+  "meaning_ko": "새로운, 새",
+  "example_en": "I just started a **new** job at a design company downtown.",
+  "example_ko": "나 시내에 있는 디자인 회사에서 새 일을 막 시작했어.",
+  "nuance_ko": "new는 '새로 만들어졌거나 처음 접하는'이라는 뜻이에요. 물건이 새것(a new phone)일 수도 있고, 나에게 처음인 것(I'm new here)일 수도 있어요. 중고가 아니라는 뜻으로 brand new를 쓰면 '완전히 새것'으로 강조해요. 'What's new?'는 가볍게 안부를 묻는 인사예요. news(소식)와는 다른 단어이니 철자를 혼동하지 마세요. recent는 시간적으로 최근이라는 의미이고 new는 이전에 없던 것이라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "newly",
+    "pos": "adv",
+    "ko": "새로, 최근에",
+    "en": "They are a **newly** married couple."
+   },
+   {
+    "w": "renew",
+    "pos": "v",
+    "ko": "갱신하다",
+    "en": "I need to **renew** my passport soon."
+   }
+  ]
+ },
+ {
+  "w": "news",
+  "pos": "n",
+  "meaning_ko": "소식, 뉴스",
+  "example_en": "I have some good **news** to share with you today.",
+  "example_ko": "오늘 너한테 알려줄 좋은 소식이 있어.",
+  "nuance_ko": "news는 s로 끝나지만 셀 수 없는 단수 명사예요. 그래서 The news is good처럼 단수 동사를 쓰고, a news나 newses는 틀려요. 한 건을 세려면 a piece of news나 an item of news라고 해요. good news, bad news, breaking news, fake news 같은 짝꿍 표현이 많아요. 방송 뉴스는 the news이고 'watch the news', 'on the news'로 말해요.",
+  "also": []
+ },
+ {
+  "w": "next",
+  "pos": "adj",
+  "meaning_ko": "다음의, 그 다음",
+  "example_en": "The **next** train to the airport leaves in ten minutes.",
+  "example_ko": "공항행 다음 열차는 10분 후에 출발해.",
+  "nuance_ko": "next는 순서상 바로 다음이라는 뜻이에요. next week, next month처럼 시간을 말할 때 전치사 없이 쓰고, on next week은 틀려요. 'the next day'는 과거 이야기에서 '그 다음 날'을 뜻하고 'next day'와 약간 달라요. next to는 '~옆에'라는 위치의 전치사구예요(next to the bank). 부사로는 'What should I do next?'처럼 '그 다음에'를 의미해요. 'Next, please'는 줄 서 있을 때 다음 사람을 부르는 말이에요.",
+  "also": []
+ },
+ {
+  "w": "nice",
+  "pos": "adj",
+  "meaning_ko": "좋은, 친절한",
+  "example_en": "It was really **nice** of you to help me move.",
+  "example_ko": "이사하는 걸 도와줘서 정말 고마웠어.",
+  "nuance_ko": "nice는 매우 폭넓게 쓰이는 '좋은'이에요. 사람에게는 친절하다, 날씨와 물건에는 괜찮다는 뜻이에요. 'It's nice of you to ~'는 상대의 친절에 감사할 때 쓰고, 'Nice to meet you'는 첫 만남 인사예요. 다만 너무 일반적이라 구체적이지 않아서 글쓰기에서는 pleasant, kind, lovely 같은 단어로 바꾸는 경우가 많아요. nice and + 형용사(nice and warm)는 '기분 좋게 ~한'이라는 구어 구문이에요.",
+  "also": [
+   {
+    "w": "nicely",
+    "pos": "adv",
+    "ko": "훌륭하게, 멋지게",
+    "en": "The new curtains match the room **nicely**."
+   }
+  ]
+ },
+ {
+  "w": "night",
+  "pos": "n",
+  "meaning_ko": "밤",
+  "example_en": "I couldn't sleep last **night** because of the loud noise outside.",
+  "example_ko": "밖이 시끄러워서 어젯밤에 잠을 못 잤어.",
+  "nuance_ko": "night는 해가 진 뒤부터 다음 날 해 뜨기 전까지의 시간이에요. at night(밤에), last night(어젯밤), tonight(오늘 밤)처럼 전치사나 접두어가 달라요. 같은 '저녁'이라도 evening은 퇴근 후 잠들기 전까지고 night는 완전히 어두워진 때를 말해요. Good night은 헤어지거나 잠자기 전 인사로만 써요. all night long(밤새도록), night owl(올빼미족)같은 표현도 알아두세요.",
+  "also": [
+   {
+    "w": "nightly",
+    "pos": "adj",
+    "ko": "밤마다의",
+    "en": "The **nightly** news starts at eight."
+   }
+  ]
+ },
+ {
+  "w": "nine",
+  "pos": "num",
+  "meaning_ko": "아홉, 9",
+  "example_en": "The store opens at **nine** every morning except Sundays.",
+  "example_ko": "그 가게는 일요일만 빼고 매일 아침 9시에 열어.",
+  "nuance_ko": "nine은 숫자 9예요. 같은 어근에서 nineteen(19)과 ninety(90)가 나오는데 강세가 달라서 헷갈려요. nineteen은 끝에 강세가 있고 ninety는 앞에 강세가 있어요. 시간 표현에서 nine o'clock이나 nine a.m.이라고 해요. 'nine to five'는 일반적인 근무 시간 또는 평범한 직장 생활을 뜻하는 관용구예요. 'on cloud nine'은 '날아갈 듯 기쁜'이라는 표현이에요.",
+  "also": [
+   {
+    "w": "ninety",
+    "pos": "num",
+    "ko": "아흔, 90",
+    "en": "My grandfather turned **ninety** last week."
+   },
+   {
+    "w": "ninth",
+    "pos": "num",
+    "ko": "아홉 번째",
+    "en": "Our office is on the **ninth** floor."
+   }
+  ]
+ },
+ {
+  "w": "no",
+  "pos": "det",
+  "meaning_ko": "없는, 아니오",
+  "example_en": "There is **no** way I can finish this by tomorrow morning.",
+  "example_ko": "내일 아침까지 이걸 끝내는 건 절대 불가능해.",
+  "nuance_ko": "no는 대답으로서의 '아니오'와 명사 앞에서 '하나도 없는'이라는 한정사 역할을 해요. no + 명사는 not any와 같아서 I have no time은 I don't have any time과 같은 뜻이에요. 'There's no way ~'는 강하게 불가능하다는 구어 표현이고, 'No problem', 'No worries'는 사과나 부탁에 대한 가벼운 대답이에요. 한국어 '아니요'는 질문의 형태에 따라 yes/no가 뒤집혀서 헷갈릴 수 있으니 'You don't like it?' 같은 부정 의문에 주의하세요.",
+  "also": [
+   {
+    "w": "nothing",
+    "pos": "pron",
+    "ko": "아무것도 ~않다",
+    "en": "There's **nothing** left in the fridge."
+   },
+   {
+    "w": "nobody",
+    "pos": "pron",
+    "ko": "아무도 ~않다",
+    "en": "**Nobody** knew about the surprise party."
+   }
+  ]
+ },
+ {
+  "w": "noise",
+  "pos": "n",
+  "meaning_ko": "소음, 시끄러운 소리",
+  "example_en": "The construction **noise** next door keeps me awake at night.",
+  "example_ko": "옆집 공사 소음 때문에 밤에 잠을 못 자.",
+  "nuance_ko": "noise는 불쾌하거나 시끄러운 소리를 가리켜요. sound는 중립적인 소리이고 noise는 부정적인 뉘앙스가 강해요. make noise는 '소란을 피우다', noise level은 '소음 수준'이에요. 셀 수 있을 때는 'strange noises'처럼 쓰고, 소음 일반을 말할 때는 셀 수 없어요. 'Don't make so much noise'처럼 조용히 해달라는 부탁에서 많이 나와요. 컴퓨터나 통신에서는 신호에 섞인 잡음도 noise라고 해요.",
+  "also": [
+   {
+    "w": "noisy",
+    "pos": "adj",
+    "ko": "시끄러운",
+    "en": "The street was too **noisy** to sleep."
+   }
+  ]
+ },
+ {
+  "w": "none",
+  "pos": "pron",
+  "meaning_ko": "하나도 ~않다, 아무것도",
+  "example_en": "I asked everyone for help, but **none** of them could come.",
+  "example_ko": "다들에게 도와달라고 했는데, 아무도 올 수 없었어.",
+  "nuance_ko": "none은 'not one'이나 'not any'의 뜻으로, 사람이나 사물 모두를 가리킬 수 있어요. none of the + 복수명사 구조로 쓰며, 동사는 단수도 복수도 허용되지만 구어에서는 복수가 많아요. 완전 부정이라 none의 문장에 not을 또 넣지 않아요. 'None of your business'는 '네가 상관할 바 아니야'라는 날 선 표현이고, 'none the wiser'는 '여전히 모르는'이라는 관용구예요. 단독으로 'How many? None.'처럼 대답할 수도 있어요.",
+  "also": []
+ },
+ {
+  "w": "normal",
+  "pos": "adj",
+  "meaning_ko": "정상적인, 보통의",
+  "example_en": "It's perfectly **normal** to feel nervous before a big interview.",
+  "example_ko": "중요한 면접 전에 긴장하는 건 지극히 정상이야.",
+  "nuance_ko": "normal은 보통이거나 일반적이어서 '정상'인 상태를 말해요. normal temperature, back to normal처럼 기준이 되는 상태를 가리키죠. 의학이나 통계에서는 정상 범위(normal range)를 뜻하기도 해요. usual이나 ordinary와 비슷하지만 normal은 '기준에 맞는다'는 판단이 담겨 있어요. 명사로 'the new normal'(새로운 일상)이라는 표현도 자주 쓰여요. 반대말은 abnormal이나 unusual이에요.",
+  "also": [
+   {
+    "w": "normally",
+    "pos": "adv",
+    "ko": "보통, 평소에는",
+    "en": "I **normally** wake up around seven."
+   },
+   {
+    "w": "normalize",
+    "pos": "v",
+    "ko": "정상화하다",
+    "en": "The data needs to be **normalized** first."
+   }
+  ]
+ },
+ {
+  "w": "north",
+  "pos": "n",
+  "meaning_ko": "북쪽, 북",
+  "example_en": "The wind is coming from the **north**, so it feels really cold.",
+  "example_ko": "바람이 북쪽에서 불어와서 꽤 춥게 느껴져.",
+  "nuance_ko": "north는 방위 '북쪽'이에요. 명사(in the north), 형용사(the north side), 부사(drive north)로 모두 쓰이고 방향 앞에는 to를 붙이지 않아요(go north). 동서남북을 말할 때 영어는 north, south, east, west 순서로 말하는 한국어와 달리 north and south처럼 순서가 약간 달라요. northeast, northwest는 한 단어로 붙여 써요. 국가 이름에서 North Korea, North America처럼 대문자 고유명사로도 많이 나와요.",
+  "also": [
+   {
+    "w": "northwest",
+    "pos": "n",
+    "ko": "북서쪽",
+    "en": "The storm is moving toward the **northwest**."
+   }
+  ]
+ },
+ {
+  "w": "nose",
+  "pos": "n",
+  "meaning_ko": "코",
+  "example_en": "I have a cold, so my **nose** won't stop running.",
+  "example_ko": "감기에 걸려서 콧물이 멈추질 않아.",
+  "nuance_ko": "nose는 신체의 코이면서 냄새를 맡는 감각을 뜻해요. 'blow your nose'(코를 풀다), 'runny nose'(콧물), 'nosebleed'(코피)처럼 건강 표현에 자주 나와요. 관용구로 'poke your nose into ~'는 '참견하다', 'under your nose'는 '눈앞에 빤히 있는데 못 알아본다'를 뜻해요. 동사로는 '코를 들이밀다, 조심스레 나아가다'로 쓰지만 드물어요. 한국어 '코'가 후각과 모양 둘 다 가리키듯이 영어도 비슷하게 확장돼요.",
+  "also": []
+ },
+ {
+  "w": "not",
+  "pos": "adv",
+  "meaning_ko": "~않다, 아니다",
+  "example_en": "I'm **not** sure if I can make it to the party tonight.",
+  "example_ko": "오늘 밤 파티에 갈 수 있을지 잘 모르겠어.",
+  "nuance_ko": "not은 동사나 문장을 부정하는 가장 기본 단어예요. 구어에서는 don't, isn't, can't처럼 줄여 쓰고, not이 단독으로 쓰일 때는 'Not now', 'Not really'처럼 짧게 답해요. 'I don't think he is coming'처럼 think 뒤의 내용을 부정할 때 앞에서 부정하는 것이 영어식 표현이에요. not only A but also B, not A but B 같은 구문은 시험에도 자주 나와요. 부정 의문문 'Aren't you tired?'에 대한 대답 방식이 한국어와 반대인 점도 주의하세요.",
+  "also": []
+ },
+ {
+  "w": "note",
+  "pos": "n",
+  "meaning_ko": "메모, 주목하다",
+  "example_en": "I left a **note** on the fridge so you wouldn't forget.",
+  "example_ko": "잊지 않게 냉장고에 메모를 붙여놨어.",
+  "nuance_ko": "note는 짧게 적은 메모나 쪽지, 음악의 음표, 주석, 지폐(영국) 등 여러 뜻을 가져요. take notes는 필기하다이고 make a note of ~는 ~을 적어두다예요. 동사로는 '주목하다, 언급하다'로 쓰며 'Please note that ~'(~에 유의해 주세요)가 공지에서 정말 자주 나와요. 'Noted.'는 비즈니스 이메일에서 '알겠습니다'라는 짧은 답이에요. 형용사 notable(주목할 만한)과 notably(특히)도 함께 외워두면 좋아요.",
+  "also": [
+   {
+    "w": "noted",
+    "pos": "adj",
+    "ko": "유명한, 저명한",
+    "en": "She is a **noted** author in Korea."
+   },
+   {
+    "w": "notable",
+    "pos": "adj",
+    "ko": "주목할 만한",
+    "en": "There were several **notable** changes."
+   }
+  ]
+ },
+ {
+  "w": "notice",
+  "pos": "v",
+  "meaning_ko": "알아차리다, 공지",
+  "example_en": "Did you **notice** that she changed her hairstyle?",
+  "example_ko": "그녀가 머리 모양 바꾼 거 알아챘어?",
+  "nuance_ko": "notice는 눈이나 귀로 무언가를 '알아차리는 것'이에요. 의식적으로 찾는 look과 달리 자연스럽게 눈에 들어오는 느낌이에요. notice + 목적어 + 동사원형/-ing 구조도 자주 써서 'I noticed him leave'처럼 말해요. 명사로는 '공지, 통지'(a notice on the door)와 'give notice'(사직을 통보하다), 'without notice'(예고 없이)가 있어요. 'Until further notice'는 '추후 공지 전까지'라는 안내문 단골 표현이에요.",
+  "also": [
+   {
+    "w": "noticeable",
+    "pos": "adj",
+    "ko": "눈에 띄는",
+    "en": "There was a **noticeable** difference in speed."
+   },
+   {
+    "w": "unnoticed",
+    "pos": "adj",
+    "ko": "눈에 띄지 않은",
+    "en": "He slipped out **unnoticed**."
+   }
+  ]
+ },
+ {
+  "w": "now",
+  "pos": "adv",
+  "meaning_ko": "지금, 이제",
+  "example_en": "I can't talk **now**, but I'll call you back in an hour.",
+  "example_ko": "지금은 통화 못 하는데, 한 시간 뒤에 다시 전화할게.",
+  "nuance_ko": "now는 말하는 지금 이 순간을 가리켜요. right now(바로 지금), just now(방금), by now(이제쯤이면), from now on(지금부터)처럼 짝꿍 표현이 많아요. 현재완료와는 'just now'가 과거형과 어울린다는 차이를 알아두세요(I saw him just now). 문장 앞에서 Now,라고 하면 화제를 전환하거나 주의를 환기하는 담화 표지 역할도 해요. 'Now or never'는 지금이 아니면 기회가 없다는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "number",
+  "pos": "n",
+  "meaning_ko": "숫자, 번호, 수",
+  "example_en": "Can I have your phone **number** in case I need to reach you?",
+  "example_ko": "연락할 일이 있을 수 있으니 전화번호 좀 알려줄래?",
+  "nuance_ko": "number는 숫자와 번호, 그리고 '수량'을 뜻해요. a number of + 복수명사는 '여러 개의'이고 the number of는 '~의 수'라서 동사의 수 일치가 달라요(A number of people are / The number of people is). 'a large number of'처럼 많고 적음은 large/small로 표현하고 many/few로 하지 않아요. 전화번호는 phone number, 번호판은 license plate number라고 해요. 동사로는 '번호를 매기다'로 쓰고 약어는 No. 또는 #이에요.",
+  "also": [
+   {
+    "w": "numbered",
+    "pos": "adj",
+    "ko": "번호가 매겨진",
+    "en": "The seats are **numbered** from one to fifty."
+   }
+  ]
+ },
+ {
+  "w": "nurse",
+  "pos": "n",
+  "meaning_ko": "간호사",
+  "example_en": "The **nurse** checked my blood pressure before the doctor arrived.",
+  "example_ko": "간호사가 의사 오기 전에 내 혈압을 쟀어.",
+  "nuance_ko": "nurse는 병원에서 환자를 돌보는 간호사예요. doctor가 진단하고 처방하면 nurse는 환자를 직접 돌보고 처치를 돕는 역할이에요. 남녀 구분 없이 쓰며 male nurse라는 표현은 요즘 불필요하게 성별을 강조해서 피하는 추세예요. 동사로는 '간호하다'뿐 아니라 '(아기에게) 젖을 먹이다', '(상처·감정을) 달래며 품다'(nurse a grudge)로도 써요. school nurse(보건 교사), nursing home(요양원)도 함께 알아두세요.",
+  "also": [
+   {
+    "w": "nursing",
+    "pos": "n",
+    "ko": "간호, 간호학",
+    "en": "She is studying **nursing** at university."
+   }
+  ]
+ },
+ {
+  "w": "obvious",
+  "pos": "adj",
+  "meaning_ko": "명백한, 뻔한",
+  "example_en": "It was **obvious** from his face that he was lying.",
+  "example_ko": "그의 표정만 봐도 거짓말하고 있다는 게 뻔했어.",
+  "nuance_ko": "obvious는 설명 없이도 한눈에 알 수 있을 만큼 '분명한'이라는 뜻이에요. It is obvious that ~ 구문이 가장 흔하고, 'the obvious choice'(당연한 선택)처럼 명사 앞에서도 써요. clear와 비슷하지만 obvious는 '누구나 알 만큼 뻔하다'는 느낌이라 때로는 '그걸 왜 말해' 같은 약간 무시하는 어감을 줄 수 있어요. 'Captain Obvious'는 뻔한 말만 하는 사람을 놀리는 농담이에요. 부사 obviously는 구어에서 '당연히'의 뜻으로 쓰여요.",
+  "also": [
+   {
+    "w": "obviously",
+    "pos": "adv",
+    "ko": "분명히, 당연히",
+    "en": "**Obviously**, we need more time."
+   }
+  ]
+ },
+ {
+  "w": "odd",
+  "pos": "adj",
+  "meaning_ko": "이상한, 홀수의",
+  "example_en": "It's **odd** that he didn't call, since he said he would.",
+  "example_ko": "전화하겠다고 했는데 안 한 게 이상해.",
+  "nuance_ko": "odd는 평소와 달라서 '이상하게 느껴지는' 상태예요. strange와 비슷하지만 odd는 가볍게 어색하거나 어딘가 맞지 않는 느낌이에요. 수학에서는 '홀수의'(odd number)이고 반대는 even(짝수)이에요. odd jobs는 '잡다한 일', the odd one out은 '한 개만 다른 것'이라는 관용 표현이에요. 'at odd times'는 '불규칙한 때에'라는 뜻이에요. 같은 어원의 odds는 '가능성, 확률'(the odds are against us)이라는 다른 뜻이에요.",
+  "also": [
+   {
+    "w": "oddly",
+    "pos": "adv",
+    "ko": "이상하게",
+    "en": "**Oddly** enough, nobody noticed."
+   },
+   {
+    "w": "odds",
+    "pos": "n",
+    "ko": "가능성, 확률",
+    "en": "The **odds** of winning are very low."
+   }
+  ]
+ },
+ {
+  "w": "of",
+  "pos": "prep",
+  "meaning_ko": "~의, ~중에서",
+  "example_en": "A lot **of** people showed up for the concert last night.",
+  "example_ko": "어젯밤 콘서트에 정말 많은 사람이 왔어.",
+  "nuance_ko": "of는 소유, 부분, 종류, 재료 등 '~의'라는 관계를 폭넓게 나타내는 가장 흔한 전치사 중 하나예요. a cup of tea(수량), the end of the day(소속), a friend of mine(이중 소유), made of wood(재료)처럼 쓰임이 다양해요. 한국어 '~의'와 달리 영어는 of의 어순이 뒤집혀서 'the name of the book'처럼 앞뒤가 바뀌어요. 또한 afraid of, proud of, think of 같은 특정 형용사·동사와 짝을 이루니 통째로 외우세요. 발음은 약하게 /əv/로 말해요.",
+  "also": []
+ },
+ {
+  "w": "off",
+  "pos": "adv",
+  "meaning_ko": "떨어져, 꺼진, 쉬는",
+  "example_en": "Don't forget to turn **off** the lights before you leave.",
+  "example_ko": "나가기 전에 불 끄는 거 잊지 마.",
+  "nuance_ko": "off는 '붙어 있던 것에서 떨어짐'이 핵심 그림이에요. 그래서 전원이 꺼짐(turn off), 일이 끝나 쉼(day off), 출발함(set off), 할인(10% off)에 모두 쓰여요. on의 반대 개념으로 이해하면 쉬워요. 전치사로는 'Keep off the grass'(잔디에 들어가지 마세요)처럼 '~에서 떨어져'이고, 부사로는 'I'm off to work'처럼 '출발하여'예요. take off(이륙하다/벗다), put off(미루다), call off(취소하다) 같은 구동사가 많아서 하나씩 익혀야 해요.",
+  "also": []
+ },
+ {
+  "w": "offer",
+  "pos": "v",
+  "meaning_ko": "제안하다, 제공하다",
+  "example_en": "They **offered** me a job at their Seoul office last week.",
+  "example_ko": "그쪽에서 지난주에 서울 사무실 일자리를 제안했어.",
+  "nuance_ko": "offer는 상대가 받을지 말지 선택할 수 있게 무언가를 '내미는' 행위예요. 일자리, 도움, 음식, 의견 모두 대상이 될 수 있어요. offer + 사람 + 물건(offered me a job), offer to + 동사(offered to help) 구문이 흔해요. 명사로는 '제안'(a job offer)과 '할인 행사'(a special offer)예요. suggest가 방법을 '제안하는' 것이라면 offer는 실제로 줄 수 있는 것을 건네는 거예요. 비즈니스에서 'We offer free shipping'처럼 서비스 제공도 offer를 써요.",
+  "also": [
+   {
+    "w": "offering",
+    "pos": "n",
+    "ko": "제공, 헌물",
+    "en": "The restaurant has a wide **offering** of vegan dishes."
+   }
+  ]
+ },
+ {
+  "w": "office",
+  "pos": "n",
+  "meaning_ko": "사무실, 직장",
+  "example_en": "I'll be in the **office** until six, so stop by anytime.",
+  "example_ko": "6시까지 사무실에 있으니까 언제든 들러.",
+  "nuance_ko": "office는 사무를 보는 공간, 즉 사무실과 회사 건물을 말해요. at the office(사무실에서), go to the office(출근하다), work from home(재택근무)과 대비해서 자주 써요. 'a doctor's office'(미국 병원), 'post office'(우체국), 'box office'(매표소)처럼 업무를 보는 공간 전반을 가리켜요. 공직을 뜻하는 office(be in office, 재임 중)도 뉴스에서 자주 나와요. 한국어 '회사'와 달리 company는 조직이고 office는 공간이라는 차이가 있어요.",
+  "also": []
+ },
+ {
+  "w": "officer",
+  "pos": "n",
+  "meaning_ko": "경찰관, 장교, 임원",
+  "example_en": "A police **officer** stopped us on the highway for speeding.",
+  "example_ko": "경찰관이 과속 때문에 고속도로에서 우리를 세웠어.",
+  "nuance_ko": "officer는 공식적인 직책을 가진 사람을 뜻하며, 가장 흔한 용법은 police officer(경찰관)예요. 군대의 장교(military officer), 회사의 임원(chief executive officer, CEO)도 모두 officer예요. 경찰을 호칭할 때는 'Officer Smith'처럼 성과 함께 불러요. 공무원은 official(고위 공직자)과 구별해서 쓰세요. 직책 이름에 붙는 officer는 대체로 책임과 권한이 있는 자리를 의미해요.",
+  "also": []
+ },
+ {
+  "w": "often",
+  "pos": "adv",
+  "meaning_ko": "자주, 종종",
+  "example_en": "How **often** do you go to the gym during the week?",
+  "example_ko": "일주일에 헬스장 얼마나 자주 가?",
+  "nuance_ko": "often은 빈도부사로 always보다 약하고 sometimes보다 강한 '자주'예요. 위치는 일반동사 앞, be동사나 조동사 뒤에 두는 것이 기본이지만 문장 끝에도 올 수 있어요(I go there quite often). How often ~?은 횟수를 묻는 의문문으로 필수 표현이에요. 발음은 /ˈɒfn/으로 t를 빼는 사람이 많고 t를 읽어도 틀리지 않아요. 격식 있는 글에서는 frequently를 쓰기도 하지만 일상에서는 often이 훨씬 자연스러워요.",
+  "also": []
+ },
+ {
+  "w": "oil",
+  "pos": "n",
+  "meaning_ko": "기름, 석유",
+  "example_en": "Add a little olive **oil** to the pan before cooking the eggs.",
+  "example_ko": "계란을 부치기 전에 팬에 올리브 오일을 조금 둘러줘.",
+  "nuance_ko": "oil은 요리용 기름, 윤활유, 석유 등 액체 기름 전반을 나타내요. 셀 수 없는 명사라서 a bottle of oil, some oil처럼 써요. 뉴스에서 oil price(유가), crude oil(원유)이 자주 나오고, 부엌에서는 cooking oil이에요. 자동차에서는 oil change(엔진오일 교환)라고 하죠. 그림 재료인 oil painting(유화)도 알아두세요. 'Oil and water don't mix'는 성격이 안 맞는 둘을 비유하는 속담이에요.",
+  "also": [
+   {
+    "w": "oily",
+    "pos": "adj",
+    "ko": "기름기 많은",
+    "en": "I don't like **oily** food."
+   }
+  ]
+ },
+ {
+  "w": "ok",
+  "pos": "adj",
+  "meaning_ko": "괜찮은, 좋아",
+  "example_en": "Is it **OK** if I leave a bit early today?",
+  "example_ko": "오늘 좀 일찍 가도 괜찮을까?",
+  "nuance_ko": "OK는 영어를 넘어 전 세계에서 통하는 말로, 허락·동의·'그저 괜찮음'을 모두 나타내요. 문맥과 억양에 따라 'Okay.'가 짧으면 수긍, 길면 불만을 담기도 해요. 'I'm OK'는 '괜찮아요(도움이 필요 없어요)'라는 거절로도 쓰고, 'It's okay'는 사과에 대한 대답이에요. 철자는 OK, Okay, ok 모두 가능하지만 격식 있는 글에서는 okay를 쓰는 것이 좋아요. 품사도 형용사, 부사, 감탄사, 동사('OK the plan')까지 다양해요.",
+  "also": [
+   {
+    "w": "okay",
+    "pos": "adj",
+    "ko": "괜찮은",
+    "en": "Are you **okay** after that fall?"
+   }
+  ]
+ },
+ {
+  "w": "old",
+  "pos": "adj",
+  "meaning_ko": "나이 든, 오래된",
+  "example_en": "How **old** is your little brother now?",
+  "example_ko": "네 남동생은 지금 몇 살이야?",
+  "nuance_ko": "old는 나이가 많거나 오래된 것을 말해요. How old are you?는 가장 기본적인 나이 묻기이고 '나는 서른 살이야'는 I'm thirty years old 또는 I'm thirty로 말해요. 사람에게 old라고만 하면 실례가 될 수 있어서 elderly나 senior를 더 정중하게 써요. 'an old friend'는 나이 든 친구가 아니라 '오래 사귄 친구'라는 점에 주의하세요. 비교급은 older(더 나이 든, 더 오래된), 가족의 서열은 elder/eldest를 쓰기도 해요.",
+  "also": [
+   {
+    "w": "older",
+    "pos": "adj",
+    "ko": "더 나이 많은",
+    "en": "My **older** sister lives in Busan."
+   }
+  ]
+ },
+ {
+  "w": "on",
+  "pos": "prep",
+  "meaning_ko": "~위에, ~에(요일·날짜)",
+  "example_en": "I'll see you **on** Friday at the usual place.",
+  "example_ko": "금요일에 늘 보던 곳에서 보자.",
+  "nuance_ko": "on의 핵심 그림은 '표면에 닿아 있음'이에요. 책상 위(on the desk), 벽에 걸린(on the wall) 것뿐 아니라 요일과 날짜(on Monday, on May 5th)에도 써요. 상태를 나타내는 on(on sale, on time, on fire)도 '작동 중, 진행 중' 느낌이에요. 교통수단은 on the bus, on a plane처럼 올라타는 것에는 on을 쓰고 승용차는 in a car를 써요. 부사로는 'Keep going on'처럼 '계속해서'예요.",
+  "also": [
+   {
+    "w": "onto",
+    "pos": "prep",
+    "ko": "~위로",
+    "en": "The cat jumped **onto** the table."
+   }
+  ]
+ },
+ {
+  "w": "once",
+  "pos": "adv",
+  "meaning_ko": "한 번, 일단 ~하면",
+  "example_en": "I've only been to Europe **once**, back in college.",
+  "example_ko": "유럽엔 대학교 때 딱 한 번 가봤어.",
+  "nuance_ko": "once는 횟수 '한 번', 과거 어느 때 '한때', 접속사로 '~하자마자, 일단 ~하면'을 나타내는 다용도 단어예요. 부사일 때 'once a week'(주 1회), 'once upon a time'(옛날 옛적에), 'at once'(즉시, 동시에)가 대표적이에요. 접속사로는 'Once you try it, you'll love it'처럼 조건과 시간의 느낌을 함께 줘요. twice, three times처럼 한 번, 두 번은 once, twice로 말하고 세 번부터는 times를 붙여요. 'once in a while'은 '가끔'이라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "one",
+  "pos": "num",
+  "meaning_ko": "하나, 어떤 사람",
+  "example_en": "I need just **one** more minute to finish this email.",
+  "example_ko": "이 이메일 끝내는 데 딱 1분만 더 필요해.",
+  "nuance_ko": "one은 숫자 1이면서 대명사로도 쓰여요. 'the red one'처럼 앞에 나온 명사를 대신하는 용법과 'One should always be honest'처럼 일반적인 사람을 가리키는 격식 있는 용법이 있어요. 구어에서는 일반적인 사람을 말할 때 you를 더 자주 써요. one of the + 복수명사 구조에서 동사는 단수에 맞춘다는 점이 시험에 자주 나와요(One of my friends is ~). 'one another'는 서로를 뜻해요.",
+  "also": [
+   {
+    "w": "ones",
+    "pos": "pron",
+    "ko": "것들",
+    "en": "I prefer the blue **ones**."
+   }
+  ]
+ },
+ {
+  "w": "only",
+  "pos": "adv",
+  "meaning_ko": "오직, 단지",
+  "example_en": "I **only** need five minutes to explain the whole idea.",
+  "example_ko": "전체 아이디어를 설명하는 데 5분이면 돼.",
+  "nuance_ko": "only는 부사로 '단지, 오직'이고 형용사로 '유일한'(the only one)이에요. 위치에 따라 의미가 미묘하게 달라지기 때문에 수식하려는 말 바로 앞에 놓는 것이 좋아요. 'I only ate an apple'과 'I ate only an apple'은 구어에서 거의 같지만, 글에서는 후자가 더 정확해요. 접속사처럼 'only that ~'(다만 ~일 뿐)도 쓰고, 'not only A but also B'의 문장 구조도 중요해요. only 문두 도치도 알아두세요.",
+  "also": []
+ },
+ {
+  "w": "open",
+  "pos": "v",
+  "meaning_ko": "열다, 열려 있는",
+  "example_en": "Could you **open** the window? It's getting really stuffy in here.",
+  "example_ko": "창문 좀 열어줄래? 여기 너무 답답해지고 있어.",
+  "nuance_ko": "open은 동사로 '열다', 형용사로 '열려 있는, 개방된'이에요. 가게나 은행의 영업을 말할 때도 'The bank opens at nine'처럼 써요. 반대는 close/shut이에요. 'open-minded'는 열린 마음을 가진 사람을, 'open to ~'는 '~에 열려 있는, ~을 받아들일 수 있는'을 뜻해요. 컴퓨터에서 파일을 열 때도 open을 써요. 상태를 말하는 'The door is open'과 동작을 말하는 'open the door'를 구분하세요.",
+  "also": [
+   {
+    "w": "opening",
+    "pos": "n",
+    "ko": "개장, 빈자리",
+    "en": "There's a job **opening** at our company."
+   },
+   {
+    "w": "openly",
+    "pos": "adv",
+    "ko": "공개적으로, 솔직하게",
+    "en": "She spoke **openly** about her mistakes."
+   }
+  ]
+ },
+ {
+  "w": "or",
+  "pos": "conj",
+  "meaning_ko": "또는, 아니면",
+  "example_en": "Would you like tea **or** coffee with your breakfast?",
+  "example_ko": "아침 식사랑 같이 차 드실래요, 커피 드실래요?",
+  "nuance_ko": "or는 선택지를 연결하는 접속사로 '또는, 아니면'이에요. 긍정문에서는 or, 부정문에서는 and 대신 or를 써서 'I don't like tea or coffee'(차도 커피도 싫어)가 돼요. 의문문에서 'A or B?'는 억양이 A는 올리고 B는 내려야 선택 질문이 되고, 둘 다 올리면 예/아니오 질문이 돼요. 명령문 뒤의 or는 '그렇지 않으면'이라는 경고예요(Hurry up, or you'll be late). 'either A or B'는 A와 B 중 하나를 말해요.",
+  "also": []
+ },
+ {
+  "w": "orange",
+  "pos": "n",
+  "meaning_ko": "오렌지, 주황색",
+  "example_en": "I squeezed a fresh **orange** into my glass for breakfast.",
+  "example_ko": "아침으로 마시려고 컵에 오렌지를 짜 넣었어.",
+  "nuance_ko": "orange는 과일과 색을 모두 가리키고, 색을 말할 때는 형용사나 명사로 써요. 과일이 먼저 있고 그 색이 이름이 되었다는 점이 재미있어요. orange juice(오렌지 주스), orange peel(껍질)처럼 쓰고, 발음은 /ˈɒrɪndʒ/ 또는 미국식 /ˈɔːrɪndʒ/예요. 한국어 '오렌지색'과 '주황색'은 같은 색이에요. 영어에서 orange를 오렌지 과일로 쓸 땐 셀 수 있어서 an orange, two oranges라고 해요.",
+  "also": []
+ },
+ {
+  "w": "order",
+  "pos": "n",
+  "meaning_ko": "주문, 순서, 명령",
+  "example_en": "Could I **order** a large pizza and a side of fries?",
+  "example_ko": "라지 피자 하나랑 감자튀김 사이드 하나 주문할 수 있을까요?",
+  "nuance_ko": "order는 세 가지 핵심 뜻이 있어요. 첫째는 식당이나 쇼핑의 '주문'(place an order), 둘째는 '순서·질서'(in alphabetical order, law and order), 셋째는 '명령'(follow orders)이에요. in order to ~는 '~하기 위해서'이고 out of order는 '고장난'이라는 뜻의 관용 표현이에요. 'May I take your order?'는 식당 직원이 주문을 받을 때 하는 질문이에요. 동사로는 'order a meal', 'order someone to do ~'로 쓰여요.",
+  "also": [
+   {
+    "w": "orderly",
+    "pos": "adj",
+    "ko": "질서 정연한",
+    "en": "The crowd stayed **orderly** and calm."
+   }
+  ]
+ },
+ {
+  "w": "other",
+  "pos": "adj",
+  "meaning_ko": "다른, 그 밖의",
+  "example_en": "Do you have any **other** questions before we finish?",
+  "example_ko": "끝나기 전에 다른 질문 있어?",
+  "nuance_ko": "other는 이미 언급된 것 외에 '또 다른'을 의미해요. the other는 둘 중 나머지 하나, the others는 나머지 전부를 가리키는 구분이 중요해요. another는 an + other로 '또 하나의'라는 단수 한정사이고, other는 복수나 셀 수 없는 명사와 써요(other people). each other(서로), every other day(하루걸러), the other day(일전에) 같은 관용 표현도 함께 외워두세요. 한국어 '다른'이 'different'와 'other'를 모두 포함해서 헷갈리기 쉬워요.",
+  "also": [
+   {
+    "w": "others",
+    "pos": "pron",
+    "ko": "다른 사람들",
+    "en": "Some like it, but **others** don't."
+   }
+  ]
+ },
+ {
+  "w": "ought",
+  "pos": "v",
+  "meaning_ko": "~해야 한다",
+  "example_en": "You **ought** to see a doctor if the cough doesn't go away.",
+  "example_ko": "기침이 안 낫는다면 병원에 가보는 게 좋겠어.",
+  "nuance_ko": "ought to는 should와 비슷하게 도덕적 의무나 권고를 나타내는 조동사예요. should보다 약간 격식 있거나 객관적 기준에서의 당연한 일을 말하는 느낌이 있어요. 뒤에 to + 동사원형이 오고 3인칭에서도 s를 붙이지 않아요. 부정은 ought not to이고 구어에서는 거의 쓰지 않으며 shouldn't를 대신 써요. 과거 후회는 'ought to have p.p.'로 표현해요. 구어에서 oughta로 줄여 말하기도 해요.",
+  "also": []
+ },
+ {
+  "w": "out",
+  "pos": "adv",
+  "meaning_ko": "밖에, 밖으로",
+  "example_en": "I'm going **out** for lunch with some coworkers today.",
+  "example_ko": "오늘 동료 몇 명이랑 점심 먹으러 나가.",
+  "nuance_ko": "out은 '안에서 밖으로' 움직이거나 밖에 있는 상태를 나타내요. go out(외출하다/데이트하다), eat out(외식하다), run out of(~이 바닥나다), find out(알아내다), work out(운동하다/잘 풀리다) 같은 구동사가 아주 많아요. 'out of'는 '~에서 벗어난, ~이 떨어진'(out of milk)을 뜻하므로 out of order(고장), out of date(시대에 뒤진)와 함께 익혀두세요. 불이 꺼지거나 야구에서 아웃되었을 때도 out을 써요.",
+  "also": [
+   {
+    "w": "outside",
+    "pos": "adv",
+    "ko": "밖에, 바깥에서",
+    "en": "Let's wait **outside** until the doors open."
+   },
+   {
+    "w": "outer",
+    "pos": "adj",
+    "ko": "바깥쪽의",
+    "en": "The **outer** walls were painted white."
+   }
+  ]
+ },
+ {
+  "w": "over",
+  "pos": "prep",
+  "meaning_ko": "~위에, ~이상, 끝난",
+  "example_en": "The meeting is finally **over**, so we can all go home.",
+  "example_ko": "회의가 드디어 끝났으니까 다들 집에 가도 돼.",
+  "nuance_ko": "over의 핵심 그림은 '위를 덮거나 넘어가는 것'이에요. 위치(a bridge over the river), 초과(over 100 people), 끝남(The game is over), 다시(Do it over)까지 쓰임이 넓어요. above가 떨어져서 위에 있는 것이라면 over는 위를 넘거나 덮는 느낌이에요. 구동사로 think over(곰곰 생각하다), turn over(뒤집다), get over(극복하다)가 흔해요. 'over the phone'(전화로), 'over lunch'(점심 먹으며)처럼 수단과 상황을 나타내기도 해요.",
+  "also": [
+   {
+    "w": "overly",
+    "pos": "adv",
+    "ko": "지나치게",
+    "en": "Don't be **overly** worried about it."
+   }
+  ]
+ },
+ {
+  "w": "own",
+  "pos": "adj",
+  "meaning_ko": "자기 자신의, 소유하다",
+  "example_en": "I'd love to have my **own** apartment someday.",
+  "example_ko": "언젠가 내 집을 갖고 싶어.",
+  "nuance_ko": "own은 형용사일 때 소유격(my, your, his) 뒤에 와서 '자기 자신의'라는 소유를 강조해요. my own car처럼 쓰고 an own car는 틀려요. 동사로는 '소유하다'이고 'Who owns this building?'처럼 상태 동사라서 진행형은 쓰지 않아요. on my own은 '혼자서, 스스로'를 뜻하고, 'of your own'은 '자기만의'라는 뜻이에요. 'Mind your own business'는 '네 일이나 신경 써'라는 직설적인 말이에요.",
+  "also": []
+ }
+]

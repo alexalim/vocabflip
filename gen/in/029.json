@@ -1,0 +1,962 @@
+[
+ {
+  "w": "supreme",
+  "lvl": "3k",
+  "forms": [
+   "supremely"
+  ]
+ },
+ {
+  "w": "surgery",
+  "lvl": "3k",
+  "forms": [
+   "surgeries"
+  ]
+ },
+ {
+  "w": "survey",
+  "lvl": "3k",
+  "forms": [
+   "surveys",
+   "surveyor",
+   "surveyed",
+   "surveying",
+   "surveyors",
+   "unsurveyed"
+  ]
+ },
+ {
+  "w": "suspend",
+  "lvl": "3k",
+  "forms": [
+   "suspended",
+   "suspension",
+   "suspending",
+   "suspensions",
+   "suspenders",
+   "suspender",
+   "suspends"
+  ]
+ },
+ {
+  "w": "sustain",
+  "lvl": "3k",
+  "forms": [
+   "sustained",
+   "sustainable",
+   "sustaining",
+   "sustainability",
+   "sustains",
+   "unsustainable"
+  ]
+ },
+ {
+  "w": "sweat",
+  "lvl": "3k",
+  "forms": [
+   "sweating",
+   "sweaty",
+   "sweated",
+   "sweats",
+   "sweatier",
+   "sweatiest"
+  ]
+ },
+ {
+  "w": "swell",
+  "lvl": "3k",
+  "forms": [
+   "swollen",
+   "swelling",
+   "swelled",
+   "swells",
+   "swellings"
+  ]
+ },
+ {
+  "w": "symbol",
+  "lvl": "3k",
+  "forms": [
+   "symbolic",
+   "symbols",
+   "symbolism",
+   "symbolically",
+   "symbolized",
+   "symbolised",
+   "symbolise",
+   "symbolize"
+  ]
+ },
+ {
+  "w": "sympathy",
+  "lvl": "3k",
+  "forms": [
+   "sympathetic",
+   "sympathetically",
+   "sympathies",
+   "sympathise",
+   "unsympathetic",
+   "sympathisers",
+   "sympathize",
+   "sympathizers"
+  ]
+ },
+ {
+  "w": "symptom",
+  "lvl": "3k",
+  "forms": [
+   "symptoms",
+   "symptomatic",
+   "symptomatically"
+  ]
+ },
+ {
+  "w": "tackle",
+  "lvl": "3k",
+  "forms": [
+   "tackling",
+   "tackled",
+   "tackles",
+   "tackler",
+   "tacklers"
+  ]
+ },
+ {
+  "w": "tactic",
+  "lvl": "3k",
+  "forms": [
+   "tactics",
+   "tactical",
+   "tactically"
+  ]
+ },
+ {
+  "w": "talent",
+  "lvl": "3k",
+  "forms": [
+   "talents",
+   "talented",
+   "untalented"
+  ]
+ },
+ {
+  "w": "target",
+  "lvl": "3k",
+  "forms": [
+   "targets",
+   "targeted",
+   "targeting",
+   "targetted",
+   "targetting"
+  ]
+ },
+ {
+  "w": "task",
+  "lvl": "3k",
+  "forms": [
+   "tasks",
+   "tasking",
+   "tasked"
+  ]
+ },
+ {
+  "w": "technical",
+  "lvl": "3k",
+  "forms": [
+   "technically"
+  ]
+ },
+ {
+  "w": "technique",
+  "lvl": "3k",
+  "forms": [
+   "techniques"
+  ]
+ },
+ {
+  "w": "temperature",
+  "lvl": "3k",
+  "forms": [
+   "temperatures"
+  ]
+ },
+ {
+  "w": "temporary",
+  "lvl": "3k",
+  "forms": [
+   "temporarily",
+   "temps",
+   "temp"
+  ]
+ },
+ {
+  "w": "tender",
+  "lvl": "3k",
+  "forms": [
+   "tenderness",
+   "tenderly"
+  ]
+ },
+ {
+  "w": "tennis",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "territory",
+  "lvl": "3k",
+  "forms": [
+   "territories",
+   "territorial",
+   "territoriality",
+   "territorially"
+  ]
+ },
+ {
+  "w": "terror",
+  "lvl": "3k",
+  "forms": [
+   "terrorist",
+   "terrorism",
+   "terrorists",
+   "terrors",
+   "terrorised",
+   "terrorise",
+   "terrorized",
+   "terrorising"
+  ]
+ },
+ {
+  "w": "text",
+  "lvl": "3k",
+  "forms": [
+   "texts",
+   "textual",
+   "subtext",
+   "textuality",
+   "subtexts",
+   "textualism",
+   "textualized"
+  ]
+ },
+ {
+  "w": "theme",
+  "lvl": "3k",
+  "forms": [
+   "themes",
+   "thematic",
+   "themed",
+   "thematically"
+  ]
+ },
+ {
+  "w": "theoretical",
+  "lvl": "3k",
+  "forms": [
+   "theoretically",
+   "theoreticians",
+   "theoretic",
+   "theoretician"
+  ]
+ },
+ {
+  "w": "theory",
+  "lvl": "3k",
+  "forms": [
+   "theories",
+   "theorists",
+   "theorist"
+  ]
+ },
+ {
+  "w": "therapy",
+  "lvl": "3k",
+  "forms": [
+   "therapist",
+   "therapists",
+   "therapies"
+  ]
+ },
+ {
+  "w": "thereby",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "thorough",
+  "lvl": "3k",
+  "forms": [
+   "thoroughly",
+   "thoroughness"
+  ]
+ },
+ {
+  "w": "thrill",
+  "lvl": "3k",
+  "forms": [
+   "thrilled",
+   "thrilling",
+   "thriller",
+   "thrills",
+   "thrillers"
+  ]
+ },
+ {
+  "w": "tissue",
+  "lvl": "3k",
+  "forms": [
+   "tissues"
+  ]
+ },
+ {
+  "w": "ton",
+  "lvl": "3k",
+  "forms": [
+   "tonnes",
+   "tons",
+   "tonne",
+   "tonnage",
+   "tonner",
+   "tonnages",
+   "tonners"
+  ]
+ },
+ {
+  "w": "toss",
+  "lvl": "3k",
+  "forms": [
+   "tossed",
+   "tossing",
+   "tosses"
+  ]
+ },
+ {
+  "w": "tournament",
+  "lvl": "3k",
+  "forms": [
+   "tournaments"
+  ]
+ },
+ {
+  "w": "tragedy",
+  "lvl": "3k",
+  "forms": [
+   "tragedies",
+   "tragedians",
+   "tragedian"
+  ]
+ },
+ {
+  "w": "trail",
+  "lvl": "3k",
+  "forms": [
+   "trailing",
+   "trailed",
+   "trails"
+  ]
+ },
+ {
+  "w": "transact",
+  "lvl": "3k",
+  "forms": [
+   "transaction",
+   "transactions",
+   "transactional",
+   "transacted",
+   "transacting",
+   "transacts"
+  ]
+ },
+ {
+  "w": "transform",
+  "lvl": "3k",
+  "forms": [
+   "transformation",
+   "transformed",
+   "transforming",
+   "transformations",
+   "transformer",
+   "transforms",
+   "transformational",
+   "transformers"
+  ]
+ },
+ {
+  "w": "transition",
+  "lvl": "3k",
+  "forms": [
+   "transitional",
+   "transitions",
+   "transitionally"
+  ]
+ },
+ {
+  "w": "translate",
+  "lvl": "3k",
+  "forms": [
+   "translation",
+   "translated",
+   "translations",
+   "translating",
+   "translator",
+   "translates",
+   "translators",
+   "untranslated"
+  ]
+ },
+ {
+  "w": "transmit",
+  "lvl": "3k",
+  "forms": [
+   "transmission",
+   "transmitted",
+   "transmitter",
+   "transmitting",
+   "transmissions",
+   "transmitters",
+   "transmits",
+   "transmittal"
+  ]
+ },
+ {
+  "w": "transport",
+  "lvl": "3k",
+  "forms": [
+   "transported",
+   "transportation",
+   "transporting",
+   "transporter",
+   "transports",
+   "transporters",
+   "transportable"
+  ]
+ },
+ {
+  "w": "treasure",
+  "lvl": "3k",
+  "forms": [
+   "treasury",
+   "treasurer",
+   "treasures",
+   "treasured",
+   "treasurers",
+   "treasuries",
+   "treasuring"
+  ]
+ },
+ {
+  "w": "treaty",
+  "lvl": "3k",
+  "forms": [
+   "treaties"
+  ]
+ },
+ {
+  "w": "tremendous",
+  "lvl": "3k",
+  "forms": [
+   "tremendously"
+  ]
+ },
+ {
+  "w": "trend",
+  "lvl": "3k",
+  "forms": [
+   "trends",
+   "trending",
+   "trended"
+  ]
+ },
+ {
+  "w": "tribe",
+  "lvl": "3k",
+  "forms": [
+   "tribal",
+   "tribes",
+   "tribalism"
+  ]
+ },
+ {
+  "w": "trigger",
+  "lvl": "3k",
+  "forms": [
+   "triggered",
+   "triggers",
+   "triggering"
+  ]
+ },
+ {
+  "w": "triumph",
+  "lvl": "3k",
+  "forms": [
+   "triumphant",
+   "triumphantly",
+   "triumphs",
+   "triumphed",
+   "triumphal",
+   "triumphing",
+   "triumphalism",
+   "triumphalist"
+  ]
+ },
+ {
+  "w": "troop",
+  "lvl": "3k",
+  "forms": [
+   "troops",
+   "trooped",
+   "trooping"
+  ]
+ },
+ {
+  "w": "tube",
+  "lvl": "3k",
+  "forms": [
+   "tubes",
+   "tubing",
+   "tubed"
+  ]
+ },
+ {
+  "w": "tunnel",
+  "lvl": "3k",
+  "forms": [
+   "tunnels",
+   "tunnelling",
+   "tunnelled",
+   "tunnellings"
+  ]
+ },
+ {
+  "w": "ultimate",
+  "lvl": "3k",
+  "forms": [
+   "ultimately"
+  ]
+ },
+ {
+  "w": "undergo",
+  "lvl": "3k",
+  "forms": [
+   "undergoing",
+   "undergone",
+   "underwent",
+   "undergoes"
+  ]
+ },
+ {
+  "w": "underlie",
+  "lvl": "3k",
+  "forms": [
+   "underlying",
+   "underlies",
+   "underlay",
+   "underlain",
+   "underly"
+  ]
+ },
+ {
+  "w": "undertake",
+  "lvl": "3k",
+  "forms": [
+   "undertaken",
+   "undertaking",
+   "undertakings",
+   "undertook",
+   "undertakes"
+  ]
+ },
+ {
+  "w": "uniform",
+  "lvl": "3k",
+  "forms": [
+   "uniforms",
+   "uniformity",
+   "uniformed",
+   "uniformly"
+  ]
+ },
+ {
+  "w": "unique",
+  "lvl": "3k",
+  "forms": [
+   "uniquely",
+   "uniqueness"
+  ]
+ },
+ {
+  "w": "unity",
+  "lvl": "3k",
+  "forms": [
+   "unities"
+  ]
+ },
+ {
+  "w": "universe",
+  "lvl": "3k",
+  "forms": [
+   "universal",
+   "universally",
+   "universality",
+   "universals",
+   "universes",
+   "universalism",
+   "universalistic",
+   "universalist"
+  ]
+ },
+ {
+  "w": "update",
+  "lvl": "3k",
+  "forms": [
+   "updated",
+   "updating",
+   "updates",
+   "updatings"
+  ]
+ },
+ {
+  "w": "urban",
+  "lvl": "3k",
+  "forms": [
+   "urbanization",
+   "urbanisation",
+   "urbanized",
+   "urbanised",
+   "urbanist",
+   "urbanise",
+   "urbanists",
+   "urbanize"
+  ]
+ },
+ {
+  "w": "urge",
+  "lvl": "3k",
+  "forms": [
+   "urged",
+   "urging",
+   "urges",
+   "urgings"
+  ]
+ },
+ {
+  "w": "urgent",
+  "lvl": "3k",
+  "forms": [
+   "urgency",
+   "urgently",
+   "nonurgent"
+  ]
+ },
+ {
+  "w": "utility",
+  "lvl": "3k",
+  "forms": [
+   "utilities"
+  ]
+ },
+ {
+  "w": "vague",
+  "lvl": "3k",
+  "forms": [
+   "vaguely",
+   "vagueness",
+   "vaguest",
+   "vaguer"
+  ]
+ },
+ {
+  "w": "valid",
+  "lvl": "3k",
+  "forms": [
+   "validity",
+   "invalidity",
+   "validly"
+  ]
+ },
+ {
+  "w": "variety",
+  "lvl": "3k",
+  "forms": [
+   "varieties",
+   "varietal"
+  ]
+ },
+ {
+  "w": "vast",
+  "lvl": "3k",
+  "forms": [
+   "vastly",
+   "vastness",
+   "vaster"
+  ]
+ },
+ {
+  "w": "venture",
+  "lvl": "3k",
+  "forms": [
+   "ventures",
+   "ventured",
+   "venturing",
+   "venturous"
+  ]
+ },
+ {
+  "w": "versus",
+  "lvl": "3k",
+  "forms": [
+   "vs"
+  ]
+ },
+ {
+  "w": "vessel",
+  "lvl": "3k",
+  "forms": [
+   "vessels"
+  ]
+ },
+ {
+  "w": "veteran",
+  "lvl": "3k",
+  "forms": [
+   "veterans"
+  ]
+ },
+ {
+  "w": "via",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "vice",
+  "lvl": "3k",
+  "forms": [
+   "vices"
+  ]
+ },
+ {
+  "w": "victory",
+  "lvl": "3k",
+  "forms": [
+   "victories",
+   "victorious"
+  ]
+ },
+ {
+  "w": "violate",
+  "lvl": "3k",
+  "forms": [
+   "violation",
+   "violations",
+   "violated",
+   "violating",
+   "violates",
+   "violators",
+   "violator"
+  ]
+ },
+ {
+  "w": "violence",
+  "lvl": "3k",
+  "forms": [
+   "nonviolence"
+  ]
+ },
+ {
+  "w": "virtual",
+  "lvl": "3k",
+  "forms": [
+   "virtually"
+  ]
+ },
+ {
+  "w": "virtue",
+  "lvl": "3k",
+  "forms": [
+   "virtues",
+   "virtuous",
+   "virtuously"
+  ]
+ },
+ {
+  "w": "virus",
+  "lvl": "3k",
+  "forms": [
+   "viruses"
+  ]
+ },
+ {
+  "w": "visible",
+  "lvl": "3k",
+  "forms": [
+   "invisible",
+   "visibility",
+   "visibly",
+   "invisibility",
+   "invisibly"
+  ]
+ },
+ {
+  "w": "vision",
+  "lvl": "3k",
+  "forms": [
+   "visions",
+   "visionary",
+   "visionaries"
+  ]
+ },
+ {
+  "w": "visual",
+  "lvl": "3k",
+  "forms": [
+   "visually",
+   "visualise",
+   "visualize",
+   "visualisation",
+   "visualized",
+   "visualization",
+   "visualised",
+   "visuals"
+  ]
+ },
+ {
+  "w": "vital",
+  "lvl": "3k",
+  "forms": [
+   "vitally",
+   "vitals"
+  ]
+ },
+ {
+  "w": "volume",
+  "lvl": "3k",
+  "forms": [
+   "volumes",
+   "vol",
+   "vols"
+  ]
+ },
+ {
+  "w": "voluntary",
+  "lvl": "3k",
+  "forms": [
+   "voluntarily",
+   "voluntariness",
+   "voluntaristic"
+  ]
+ },
+ {
+  "w": "volunteer",
+  "lvl": "3k",
+  "forms": [
+   "volunteers",
+   "volunteered",
+   "volunteering",
+   "volunteerism"
+  ]
+ },
+ {
+  "w": "vulnerable",
+  "lvl": "3k",
+  "forms": [
+   "vulnerability",
+   "invulnerable",
+   "invulnerability",
+   "vulnerabilities",
+   "vulnerably"
+  ]
+ },
+ {
+  "w": "wealth",
+  "lvl": "3k",
+  "forms": [
+   "wealthy",
+   "wealthier",
+   "wealthiest",
+   "wealthiness"
+  ]
+ },
+ {
+  "w": "weave",
+  "lvl": "3k",
+  "forms": [
+   "weaving",
+   "woven",
+   "weaver",
+   "weavers",
+   "weaves",
+   "wove",
+   "weaved"
+  ]
+ },
+ {
+  "w": "weigh",
+  "lvl": "3k",
+  "forms": [
+   "weighed",
+   "weighing",
+   "weighs",
+   "weigher",
+   "weighers",
+   "unweighed"
+  ]
+ },
+ {
+  "w": "welfare",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "whisper",
+  "lvl": "3k",
+  "forms": [
+   "whispered",
+   "whispering",
+   "whispers",
+   "whisperer",
+   "whisperers"
+  ]
+ },
+ {
+  "w": "withdraw",
+  "lvl": "3k",
+  "forms": [
+   "withdrawal",
+   "withdrawn",
+   "withdrew",
+   "withdrawing",
+   "withdrawals",
+   "withdraws"
+  ]
+ },
+ {
+  "w": "yield",
+  "lvl": "3k",
+  "forms": [
+   "yields",
+   "yielded",
+   "yielding",
+   "unyielding"
+  ]
+ },
+ {
+  "w": "youth",
+  "lvl": "3k",
+  "forms": [
+   "youths",
+   "youthful",
+   "youthfulness",
+   "youthfully"
+  ]
+ },
+ {
+  "w": "zone",
+  "lvl": "3k",
+  "forms": [
+   "zones",
+   "zoned",
+   "zonal",
+   "zoning"
+  ]
+ }
+]

@@ -1,0 +1,1807 @@
+[
+ {
+  "w": "tree",
+  "pos": "n",
+  "meaning_ko": "나무",
+  "example_en": "We sat under a big **tree** and had our lunch in the shade.",
+  "example_ko": "우리는 큰 나무 아래에 앉아서 그늘에서 점심을 먹었어.",
+  "nuance_ko": "tree는 줄기가 굵고 키가 큰 나무를 가리켜요. 작은 나무는 shrub나 bush라고 구분하고, 풀은 grass, 식물 전체는 plant예요. 나무를 심는 건 plant a tree, 베는 건 cut down a tree라고 해요. 비유적으로 'family tree'(가계도), 'decision tree'(의사결정 나무)처럼 가지치기 구조를 나타내기도 해요. 'bark up the wrong tree'는 엉뚱한 사람을 의심하거나 잘못된 방향으로 노력한다는 관용구이고, 'money doesn't grow on trees'는 돈은 쉽게 벌 수 없다는 속담이에요.",
+  "also": [
+   {
+    "w": "trees",
+    "pos": "n",
+    "ko": "나무들",
+    "en": "The **trees** turn red in autumn."
+   }
+  ]
+ },
+ {
+  "w": "trip",
+  "pos": "n",
+  "meaning_ko": "여행, 걸려 넘어지다",
+  "example_en": "We're planning a weekend **trip** to the coast to relax a bit.",
+  "example_ko": "우리는 좀 쉬려고 주말에 해안으로 여행을 갈 계획이야.",
+  "nuance_ko": "trip은 짧은 여행이나 다녀오는 일정을 가리켜요. 'a business trip'(출장), 'a day trip'(당일치기), 'a road trip'(자동차 여행), 'take a trip'(여행을 가다)처럼 써요. travel이 개념으로서의 여행이라면 trip은 한 번의 구체적인 여행이고, journey는 긴 이동 과정을 강조해요. 동사 trip은 '발이 걸려 넘어지다'(trip over a rock)라는 뜻이에요. 'trip up'은 실수를 하게 만들다이고 슬랭으로 약물에 취한 환각 상태를 뜻하기도 해요.",
+  "also": [
+   {
+    "w": "trips",
+    "pos": "n",
+    "ko": "여행들",
+    "en": "We take a few **trips** every year."
+   },
+   {
+    "w": "tripped",
+    "pos": "v",
+    "ko": "넘어졌다",
+    "en": "He **tripped** over the cable."
+   }
+  ]
+ },
+ {
+  "w": "trouble",
+  "pos": "n",
+  "meaning_ko": "문제, 곤란, 수고",
+  "example_en": "I'm having **trouble** logging in to my account this morning.",
+  "example_ko": "오늘 아침 내 계정에 로그인하는 데 문제가 있어.",
+  "nuance_ko": "trouble은 문제, 곤란, 수고를 뜻하는 셀 수 없는 명사로 'have trouble -ing'(~하는 데 어려움을 겪다)가 가장 중요한 구문이에요. 'in trouble'(곤경에 빠진), 'get into trouble'(문제를 일으키다/혼나다), 'take the trouble to ~'(수고를 아끼지 않고 ~하다), 'no trouble'(수고랄 것 없어요)이 자주 쓰여요. problem은 해결할 문제 자체이고 trouble은 겪는 어려움과 불편함을 말해요. 동사로는 '괴롭히다, 폐를 끼치다'(Sorry to trouble you, 번거롭게 해서 죄송합니다)로 정중한 부탁에 써요.",
+  "also": [
+   {
+    "w": "troubled",
+    "pos": "adj",
+    "ko": "불안한, 문제 있는",
+    "en": "He had a **troubled** childhood."
+   },
+   {
+    "w": "troublesome",
+    "pos": "adj",
+    "ko": "골치 아픈",
+    "en": "The old printer is **troublesome**."
+   }
+  ]
+ },
+ {
+  "w": "True",
+  "pos": "adj",
+  "meaning_ko": "사실인, 진짜의",
+  "example_en": "Is it **true** that you're moving to another city next month?",
+  "example_ko": "다음 달에 다른 도시로 이사한다는 게 사실이야?",
+  "nuance_ko": "true는 사실에 부합하는 '사실인, 맞는'과 진정한(a true friend), 충실한(be true to yourself)이라는 뜻이에요. 'Is that true?'는 놀라서 되묻는 말, 'That's true'는 상대 말에 수긍할 때 쓰는 말, 'come true'는 꿈이나 예측이 이루어지다예요. 'true or false'는 맞고 틀림을 묻는 문제 형식이고 프로그래밍에서 true/false는 불리언 값이에요. real과 달리 true는 사실이나 진위에 초점을 둬요. 'true to form'은 예상대로 늘 그렇듯이라는 표현이에요.",
+  "also": [
+   {
+    "w": "truly",
+    "pos": "adv",
+    "ko": "진심으로, 정말",
+    "en": "I'm **truly** grateful for your help."
+   },
+   {
+    "w": "untrue",
+    "pos": "adj",
+    "ko": "사실이 아닌",
+    "en": "That statement is completely **untrue**."
+   }
+  ]
+ },
+ {
+  "w": "trust",
+  "pos": "n",
+  "meaning_ko": "신뢰, 믿다",
+  "example_en": "It takes a long time to build **trust** but only a moment to lose it.",
+  "example_ko": "신뢰를 쌓는 건 오래 걸리지만 잃는 건 한순간이야.",
+  "nuance_ko": "trust는 상대의 정직함이나 능력을 믿는 신뢰(명사)와 믿다(동사)예요. 'trust someone to do ~'(~가 ~해줄 것을 믿다), 'trust in ~'(~을 신뢰하다), 'I trust that ~'(~라고 믿는다)처럼 쓰여요. believe가 말이 사실이라고 믿는 것이라면 trust는 사람에 대한 의지와 신뢰예요. 'Trust me'는 나를 믿어봐, 'Trust your gut'은 직감을 믿어라예요. 법률에서 trust는 신탁을 뜻하기도 해요. 'trust fund'는 신탁 기금, 'breach of trust'는 신뢰를 깨는 행위예요.",
+  "also": [
+   {
+    "w": "trusted",
+    "pos": "adj",
+    "ko": "신뢰받는",
+    "en": "He is a **trusted** friend."
+   },
+   {
+    "w": "trusting",
+    "pos": "adj",
+    "ko": "남을 잘 믿는",
+    "en": "She is too **trusting** of strangers."
+   }
+  ]
+ },
+ {
+  "w": "truth",
+  "pos": "n",
+  "meaning_ko": "진실, 사실",
+  "example_en": "Please tell me the **truth**. I promise I won't be upset.",
+  "example_ko": "진실을 말해줘. 화 안 낸다고 약속할게.",
+  "nuance_ko": "truth는 사실 그대로의 진실을 뜻하고 셀 수 없는 명사지만 복수형 truths로도 일반적 진리를 가리킬 수 있어요. 'tell the truth'(사실대로 말하다), 'to tell you the truth'(솔직히 말해서), 'the whole truth'(모든 진실), 'in truth'(사실은)처럼 쓰여요. 'Truth be told'는 사실을 말하자면이라는 서두이고 'There's some truth in it'은 일리가 있다는 뜻이에요. 'truth or dare'는 진실게임이에요. fact는 객관적 사실, truth는 더 넓은 의미의 진실과 참인 것을 가리켜요.",
+  "also": [
+   {
+    "w": "truthful",
+    "pos": "adj",
+    "ko": "정직한",
+    "en": "Be **truthful** about what happened."
+   },
+   {
+    "w": "truths",
+    "pos": "n",
+    "ko": "진리들",
+    "en": "They discussed universal **truths**."
+   }
+  ]
+ },
+ {
+  "w": "try",
+  "pos": "v",
+  "meaning_ko": "시도하다, 해보다",
+  "example_en": "Why don't you **try** the new Thai restaurant down the street?",
+  "example_ko": "길 아래쪽에 새로 생긴 태국 식당에 한번 가보는 게 어때?",
+  "nuance_ko": "try는 해보다, 시도하다이고 try to + 동사원형(노력하다)과 try + -ing(시험 삼아 해보다)은 의미가 달라요. 'I tried to open the window'는 열려고 애썼다(결과 불확실), 'I tried opening the window'는 시험 삼아 열어봤다예요. 음식이나 옷을 시도할 때도 'try this dish', 'try it on'(입어 보다)을 써요. 'try out'은 시험해 보다/선발 시험을 보다, 'try one's best'는 최선을 다하다예요. 명사로 'give it a try'는 한번 해보다, 'worth a try'는 시도해 볼 만한이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "tried",
+    "pos": "v",
+    "ko": "시도했다",
+    "en": "I **tried** calling, but no one answered."
+   },
+   {
+    "w": "trying",
+    "pos": "adj",
+    "ko": "힘든, 성가신",
+    "en": "It was a **trying** week for everyone."
+   }
+  ]
+ },
+ {
+  "w": "tuesday",
+  "pos": "n",
+  "meaning_ko": "화요일",
+  "example_en": "Our weekly team meeting is every **Tuesday** at ten in the morning.",
+  "example_ko": "우리 주간 팀 회의는 매주 화요일 아침 10시야.",
+  "nuance_ko": "Tuesday는 화요일이고 요일 이름이라 항상 대문자로 써요. on Tuesday(화요일에), on Tuesdays(화요일마다), last/next Tuesday처럼 쓰이고 약어는 Tue. 또는 Tues.예요. 미국에서 'Super Tuesday'는 대통령 예비선거가 많이 열리는 날, 'Taco Tuesday'는 화요일에 타코를 할인하는 문화를 뜻해요. 'Tuesday' 철자는 e와 s의 순서를 자주 틀리니 주의하세요. 같은 발음의 two-s-day로 외우면 도움이 돼요.",
+  "also": [
+   {
+    "w": "tuesdays",
+    "pos": "n",
+    "ko": "화요일마다",
+    "en": "I go to yoga on **Tuesdays**."
+   }
+  ]
+ },
+ {
+  "w": "turn",
+  "pos": "v",
+  "meaning_ko": "돌다, 돌리다, 바뀌다",
+  "example_en": "**Turn** left at the next corner and you'll see the bank on your right.",
+  "example_ko": "다음 모퉁이에서 좌회전하면 오른쪽에 은행이 보일 거야.",
+  "nuance_ko": "turn은 방향을 돌리거나 상태가 바뀌는 동사로 그림이 '회전'이에요. 방향(turn left), 변화(turn red, turn into ~), 순서(It's your turn, 네 차례야), 책장을 넘기다(turn the page) 등으로 쓰여요. 구동사가 매우 많아서 turn on/off(켜다/끄다), turn up(나타나다/소리를 키우다), turn down(거절하다/줄이다), turn out(~로 밝혀지다), turn in(제출하다)이 대표적이에요. 'in turn'은 차례로, 'by turns'는 번갈아, 'take turns'는 교대로 하다예요.",
+  "also": [
+   {
+    "w": "turned",
+    "pos": "v",
+    "ko": "돌았다, 바뀌었다",
+    "en": "The leaves **turned** red in October."
+   },
+   {
+    "w": "turning",
+    "pos": "n",
+    "ko": "모퉁이, 전환",
+    "en": "Take the second **turning** on the left."
+   }
+  ]
+ },
+ {
+  "w": "twelve",
+  "pos": "num",
+  "meaning_ko": "열둘, 12",
+  "example_en": "The shop closes at **twelve** on Saturdays and stays shut on Sundays.",
+  "example_ko": "그 가게는 토요일에는 열두 시에 닫고 일요일은 쉬어.",
+  "nuance_ko": "twelve는 12이고 영어에서 1년 12개월과 시계 12시간, 1다스(a dozen)의 기준이 되는 수라서 일상에서 자주 나와요. 서수는 twelfth로 철자와 발음이 불규칙하니 주의하세요(twelveth가 아님). 시간에서 12시는 noon(정오)이나 midnight(자정)로 구분해서 말하기도 하고 12 a.m.과 12 p.m.은 헷갈리기 쉬워요. 12 p.m.은 낮 12시, 12 a.m.은 밤 12시예요. 'twelve-step program'은 중독 치료 프로그램을 가리켜요.",
+  "also": [
+   {
+    "w": "twelfth",
+    "pos": "num",
+    "ko": "열두 번째",
+    "en": "His birthday is on the **twelfth**."
+   }
+  ]
+ },
+ {
+  "w": "twenty",
+  "pos": "num",
+  "meaning_ko": "스물, 20",
+  "example_en": "I'll meet you in **twenty** minutes in front of the library.",
+  "example_ko": "20분 후에 도서관 앞에서 만나자.",
+  "nuance_ko": "twenty는 20이고 'in your twenties'(20대에), 'twenty-one'(21, 하이픈으로 연결)처럼 쓰여요. 20~99의 합성어는 하이픈을 써서 twenty-five, ninety-nine이라고 해요. 미국에서 20달러 지폐를 'a twenty'라고 부르고, 'twenty-twenty vision'(20/20 시력)은 정상 시력을 뜻해요. 'twenty-four seven'(24/7)은 연중무휴로 쉬지 않고를 뜻하는 표현이에요. 서수는 twentieth로 ty가 tieth로 바뀌어요.",
+  "also": [
+   {
+    "w": "twenties",
+    "pos": "n",
+    "ko": "20대",
+    "en": "She is in her early **twenties**."
+   }
+  ]
+ },
+ {
+  "w": "two",
+  "pos": "num",
+  "meaning_ko": "둘, 2",
+  "example_en": "I've been waiting for almost **two** hours, and he still hasn't shown up.",
+  "example_ko": "거의 두 시간째 기다리는데 그가 아직도 안 나타났어.",
+  "nuance_ko": "two는 숫자 2이고 to, too와 발음이 같아서 쓰기에서 혼동하기 쉬워요. two가 숫자, to가 전치사/부정사, too가 너무·또한이라는 점을 구분하세요. 관용구로 'two heads are better than one'(백지장도 맞들면 낫다), 'two cents'(내 의견, put in my two cents), 'It takes two to tango'(싸움이나 일은 둘이 있어야 한다)가 있어요. 'Two's company, three's a crowd'는 둘이 좋고 셋은 어색하다는 말이에요.",
+  "also": [
+   {
+    "w": "twice",
+    "pos": "adv",
+    "ko": "두 번",
+    "en": "I've been there **twice**."
+   }
+  ]
+ },
+ {
+  "w": "type",
+  "pos": "n",
+  "meaning_ko": "종류, 유형, 입력하다",
+  "example_en": "What **type** of music do you listen to when you study?",
+  "example_ko": "공부할 때 어떤 종류의 음악을 들어?",
+  "nuance_ko": "type은 명사로 종류·유형, 동사로 타자 치다·입력하다예요. 'a type of ~'(~의 한 종류), 'What type of ~?'(어떤 종류의 ~?), 'my type'(내 이상형)처럼 써요. kind, sort와 비슷하지만 type은 분류와 특성에 초점이 있어서 blood type(혈액형)처럼 구분 체계에서 자주 써요. 'He's not my type'은 내 스타일이 아니라는 구어예요. 컴퓨터에서 type은 글자를 입력하는 행위이고 'type in'(입력하다), 'typeface'(서체)도 같은 어원이에요.",
+  "also": [
+   {
+    "w": "types",
+    "pos": "n",
+    "ko": "종류들",
+    "en": "There are many **types** of pasta."
+   }
+  ]
+ },
+ {
+  "w": "ugly",
+  "pos": "adj",
+  "meaning_ko": "못생긴, 추한",
+  "example_en": "That building looks **ugly**, but the view from inside is amazing.",
+  "example_ko": "저 건물은 못생겨 보이지만 안에서 보는 전망은 끝내줘.",
+  "nuance_ko": "ugly는 외모나 모양이 보기 흉하다는 뜻이고 사람에게 쓰면 매우 직설적이고 무례하게 들려요. 사람의 외모를 평가하는 대신 사물, 건물, 날씨, 상황에 더 자연스럽게 쓰입니다. 'an ugly situation'은 폭력적이거나 불쾌한 상황, 'an ugly mood'는 험악한 분위기예요. 반대는 beautiful, pretty이고 'ugly duckling'은 미운 오리 새끼처럼 훗날 크게 성공할 사람을 비유해요. 'ugly truth'는 불편한 진실이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "uglier",
+    "pos": "adj",
+    "ko": "더 못생긴",
+    "en": "The second design looked **uglier**."
+   }
+  ]
+ },
+ {
+  "w": "uncle",
+  "pos": "n",
+  "meaning_ko": "삼촌, 아저씨",
+  "example_en": "My **uncle** visits us every summer and brings gifts from abroad.",
+  "example_ko": "우리 삼촌은 매년 여름마다 우리를 찾아오면서 해외 선물을 가져오셔.",
+  "nuance_ko": "uncle은 부모의 형제나 이모·고모의 남편을 가리키는 친척 호칭이에요. 영어는 외삼촌·큰아버지·고모부 등을 구분하지 않고 모두 uncle이라고 해요. 이름 앞에 붙여 'Uncle Tom'처럼 부르기도 하고, 친구의 부모와 친한 어른을 uncle이라고 부르는 문화는 일부 지역에서만 쓰여요. 'Say uncle'은 미국 구어로 항복하다·졌다고 말하다, 'Uncle Sam'은 미국 정부를 의인화한 표현이에요. 'Bob's your uncle'은 영국에서 '그러면 끝이야'라는 뜻의 관용구예요.",
+  "also": [
+   {
+    "w": "uncles",
+    "pos": "n",
+    "ko": "삼촌들",
+    "en": "All my **uncles** came to the wedding."
+   }
+  ]
+ },
+ {
+  "w": "under",
+  "pos": "prep",
+  "meaning_ko": "~아래에, ~미만의",
+  "example_en": "The cat was hiding **under** the bed the whole afternoon.",
+  "example_ko": "고양이가 오후 내내 침대 밑에 숨어 있었어.",
+  "nuance_ko": "under는 어떤 것의 바로 아래에 있다는 위치를 나타내요. below는 단순히 낮은 위치, under는 덮이거나 접촉에 가까운 아래라는 차이가 있어요. 나이·수량에서 '~미만'(under 18), 지배·영향(under pressure, under control), 진행 중(under construction)으로 확장돼요. 'under the weather'는 몸이 안 좋은, 'under way'는 진행 중인, 'under no circumstances'는 어떤 경우에도 ~않다라는 뜻이에요. 반대는 over이며 접두어로 underline(밑줄 긋다), underestimate(과소평가하다)에도 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "underneath",
+  "pos": "prep",
+  "meaning_ko": "~의 바로 밑에",
+  "example_en": "I found my keys **underneath** a pile of papers on my desk.",
+  "example_ko": "책상 위 서류 더미 바로 밑에서 열쇠를 찾았어.",
+  "nuance_ko": "underneath는 어떤 것의 바로 밑, 가려져 있거나 덮인 아래를 나타내요. under와 비슷하지만 underneath는 위에 있는 것에 가려진 느낌이 더 강하고 약간 격식이 있어요. 부사로 '그 밑에'(a sweater with a shirt underneath)나 비유적으로 '겉모습 아래에(속으로는)'로도 쓰여요(Underneath his tough exterior, he is gentle). beneath와 거의 같은 의미이지만 beneath가 더 문어적이에요. 명사로 the underneath는 '아랫면'을 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "understand",
+  "pos": "v",
+  "meaning_ko": "이해하다",
+  "example_en": "I don't **understand** why the system keeps crashing every night.",
+  "example_ko": "시스템이 왜 매일 밤 계속 다운되는지 이해가 안 돼.",
+  "nuance_ko": "understand는 의미나 이유, 상황을 이해하다이고 변화형은 understand-understood-understood예요. 상태 동사라서 진행형을 거의 쓰지 않아요(I understand, not I'm understanding). 'I see'는 알겠다는 가벼운 반응, 'I get it'은 구어, 'I understand'는 공감과 이해 모두에 쓰여요. 'make yourself understood'는 자기 말이 통하게 하다예요. 'Do you understand?'는 때로 윽박지르는 말투가 될 수 있어서 'Does that make sense?'가 더 부드러워요.",
+  "also": [
+   {
+    "w": "understanding",
+    "pos": "n",
+    "ko": "이해, 합의",
+    "en": "We have a clear **understanding** of the rules."
+   },
+   {
+    "w": "misunderstanding",
+    "pos": "n",
+    "ko": "오해",
+    "en": "It was just a **misunderstanding**."
+   }
+  ]
+ },
+ {
+  "w": "unless",
+  "pos": "conj",
+  "meaning_ko": "~하지 않는 한",
+  "example_en": "We'll go hiking tomorrow **unless** it rains heavily in the morning.",
+  "example_ko": "아침에 비가 많이 오지 않는 한 내일 등산 갈 거야.",
+  "nuance_ko": "unless는 '~하지 않는 한, ~이 아니라면'이라는 부정 조건을 나타내는 접속사로 'if ... not'과 비슷해요. 'Unless you hurry, you'll miss the train'은 'If you don't hurry, ...'와 같은 뜻이에요. unless 절 안에는 not을 다시 쓰지 않아요(Unless you don't ~는 틀림). 미래의 의미라도 현재 시제를 쓰고, 'unless otherwise stated'(달리 명시되지 않는 한)는 규정에서 쓰는 관용구예요. 모든 if not 문장을 unless로 바꿀 수는 없고 '유일한 예외'를 말할 때 어울려요.",
+  "also": []
+ },
+ {
+  "w": "until",
+  "pos": "prep",
+  "meaning_ko": "~까지",
+  "example_en": "Please wait here **until** I come back from the meeting.",
+  "example_ko": "회의 끝나고 돌아올 때까지 여기서 기다려 주세요.",
+  "nuance_ko": "until은 어떤 시점까지 상태나 동작이 계속됨을 나타내는 전치사·접속사예요. 'until Friday', 'until I arrive'처럼 쓰고 구어에서는 till도 쓰여요. 부정문 'not until ~'은 ~해서야 비로소(I didn't know until yesterday, 어제서야 알았다)를 뜻해요. by(~까지는 완료)와 구별해서 'Work until five'(5시까지 계속 일하다)와 'Finish by five'(5시까지는 끝내다)를 알아두세요. 문두에서는 Until이 더 격식 있고 'not until'은 도치 구문(Not until later did I realize)에도 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "up",
+  "pos": "adv",
+  "meaning_ko": "위로, 일어나서",
+  "example_en": "I woke **up** at six this morning and went for a quick run.",
+  "example_ko": "오늘 아침 6시에 일어나서 가볍게 달리기를 했어.",
+  "nuance_ko": "up은 방향이 위쪽이거나 완성·증가를 뜻하는 부사·전치사예요. 구동사 속의 up은 '위로'(stand up), '완전히'(eat up, 다 먹다), '증가'(speed up), '접근'(walk up to)을 나타내요. wake up, get up, give up, look up(찾아보다), pick up, set up, show up 등 수없이 많아요. 'What's up?'은 구어 인사로 '잘 지내?', 'be up'은 깨어 있다(I was up all night), 'up to you'는 네가 결정해라예요. 'Time's up'은 시간이 다 됐다, 'It's up in the air'는 미정이다예요.",
+  "also": [
+   {
+    "w": "upside",
+    "pos": "n",
+    "ko": "긍정적인 면",
+    "en": "The **upside** is that it's free."
+   }
+  ]
+ },
+ {
+  "w": "upon",
+  "pos": "prep",
+  "meaning_ko": "~위에, ~하자마자",
+  "example_en": "Once **upon** a time, there lived a king who loved his people.",
+  "example_ko": "옛날 옛적에 백성을 사랑한 임금님이 살았어.",
+  "nuance_ko": "upon은 on의 격식 있는 형태로 '~위에', '~하자마자'(upon arrival, 도착하자마자)로 쓰여요. 일상에서는 on을 더 자주 쓰고 upon은 글이나 관용 표현에서 주로 보여요. 'once upon a time'은 동화의 시작 문구, 'depend upon ~'은 depend on ~과 같은 의미, 'upon request'(요청 시), 'upon completion'(완료 시)처럼 서류나 안내문에서 자주 만나요. 'upon my word'는 옛스러운 맹세 표현이에요. 구동사 구조 'rely upon', 'insist upon'에서는 upon이 on과 호환돼요.",
+  "also": []
+ },
+ {
+  "w": "use",
+  "pos": "v",
+  "meaning_ko": "사용하다, 쓰다",
+  "example_en": "Can I **use** your phone for a second? Mine just died.",
+  "example_ko": "네 전화기 잠깐 써도 될까? 내 건 방금 꺼졌어.",
+  "nuance_ko": "use는 동사(/juːz/)와 명사(/juːs/)에서 발음이 달라요. 동사는 사용하다, 명사는 사용·용도예요. 'use A for B'(A를 B에 쓰다), 'make use of ~'(~을 활용하다), 'It's no use -ing'(~해봐야 소용없다), 'in use'(사용 중인)가 중요한 구문이에요. 'used to + 동사원형'은 '과거에 ~하곤 했다', 'be used to -ing'는 '~에 익숙하다'로 둘을 구별해야 해요. 'Use your head'는 머리를 써라는 구어이고 'user'는 사용자(user-friendly, 사용하기 쉬운)예요.",
+  "also": [
+   {
+    "w": "useful",
+    "pos": "adj",
+    "ko": "유용한",
+    "en": "This app is really **useful**."
+   },
+   {
+    "w": "user",
+    "pos": "n",
+    "ko": "사용자",
+    "en": "Each **user** has a unique password."
+   }
+  ]
+ },
+ {
+  "w": "usual",
+  "pos": "adj",
+  "meaning_ko": "평소의, 보통의",
+  "example_en": "I'll meet you at the **usual** place at seven, okay?",
+  "example_ko": "평소 보던 곳에서 7시에 보자, 알았지?",
+  "nuance_ko": "usual은 평소와 같은, 흔히 있는 것이라는 형용사예요. 'as usual'(평소처럼), 'the usual'(늘 먹는 것/하는 것, 단골 가게에서 'The usual, please'), 'than usual'(평소보다)처럼 쓰여요. normal이 '정상 범위 안'이라면 usual은 '습관적으로 늘 그런'이라는 느낌이에요. 반대는 unusual이고 'It's unusual for him to be late'처럼 써요. 'business as usual'은 평소와 다름없이 영업·진행이라는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "usually",
+    "pos": "adv",
+    "ko": "보통, 대개",
+    "en": "I **usually** take the bus to work."
+   },
+   {
+    "w": "unusual",
+    "pos": "adj",
+    "ko": "흔치 않은",
+    "en": "That's an **unusual** name."
+   }
+  ]
+ },
+ {
+  "w": "van",
+  "pos": "n",
+  "meaning_ko": "밴, 승합차",
+  "example_en": "We rented a **van** to move all the furniture to the new apartment.",
+  "example_ko": "새 아파트로 가구를 전부 옮기려고 밴을 빌렸어.",
+  "nuance_ko": "van은 짐이나 사람을 실어 나르는 상자 모양 승합차를 말해요. 택배용 delivery van, 이삿짐용 moving van, 가족용 minivan(미니밴)이 대표적이에요. truck보다 작고 car보다 큰 차량을 말해요. 영국에서는 화물을 실어 나르는 차 전반을 van이라고 해요. 'van life'는 승합차를 개조해 생활하는 문화이고 'caravan'은 영국에서 이동식 주택을 가리켜요. 'van' 철자는 짧아서 발음 /væn/에 유의하세요.",
+  "also": [
+   {
+    "w": "vans",
+    "pos": "n",
+    "ko": "밴들",
+    "en": "Delivery **vans** line the street each morning."
+   }
+  ]
+ },
+ {
+  "w": "very",
+  "pos": "adv",
+  "meaning_ko": "매우, 아주",
+  "example_en": "The soup was **very** hot, so I waited a few minutes before eating.",
+  "example_ko": "수프가 아주 뜨거워서 몇 분 기다렸다가 먹었어.",
+  "nuance_ko": "very는 형용사와 부사를 강조하는 가장 기본적인 정도 부사예요. 'very good', 'very quickly'처럼 쓰고 동사를 직접 꾸미지 못해서 'I very like it'은 틀리고 'I like it very much'가 맞아요. 비교급 앞에는 very 대신 much, a lot을 써요(much better). 'the very ~'는 바로 그 ~(the very thing I need, 내게 딱 필요한 것), 'very well'은 알겠습니다(마지못해 동의) 또는 매우 잘이라는 뜻이에요. 'Thank you very much'는 감사의 기본 표현이에요. 글에서는 very를 반복하기보다 더 구체적인 형용사로 바꾸는 것이 좋아요.",
+  "also": []
+ },
+ {
+  "w": "video",
+  "pos": "n",
+  "meaning_ko": "영상, 비디오",
+  "example_en": "I watched a short **video** on how to bake bread at home.",
+  "example_ko": "집에서 빵 굽는 법에 관한 짧은 영상을 봤어.",
+  "nuance_ko": "video는 영상물이나 동영상, 비디오 녹화를 뜻하는 명사예요. 'watch a video', 'make a video', 'video call'(화상 통화), 'video game'(비디오 게임), 'music video'(뮤직비디오)처럼 쓰여요. 동사로 '녹화하다'(video the event)를 쓰기도 해요. 온라인 플랫폼이 보편화되면서 clip(짧은 영상)과 구분해 쓰고, 영화는 movie, TV 방송은 program이에요. 'upload a video'(영상을 올리다)는 일상 어휘예요.",
+  "also": [
+   {
+    "w": "videos",
+    "pos": "n",
+    "ko": "영상들",
+    "en": "She posts cooking **videos** every week."
+   }
+  ]
+ },
+ {
+  "w": "view",
+  "pos": "n",
+  "meaning_ko": "전망, 견해, 보다",
+  "example_en": "The hotel room has a beautiful **view** of the ocean.",
+  "example_ko": "그 호텔 방에서는 바다가 아름답게 내려다보여.",
+  "nuance_ko": "view는 눈에 보이는 경치(전망)와 의견(견해)이라는 두 방향으로 쓰여요. 'a view of the sea'(바다 전망), 'in my view'(내 견해로는), 'point of view'(관점)가 대표적이에요. 동사로는 '바라보다, ~라고 여기다'(view it as a chance)예요. 'in view of ~'는 ~을 고려하여, 'on view'는 전시 중인, 'with a view to -ing'는 ~할 목적으로라는 격식 표현이에요. 온라인 영상에서 view는 조회수(a million views)를 뜻해요.",
+  "also": [
+   {
+    "w": "views",
+    "pos": "n",
+    "ko": "견해, 조회수",
+    "en": "The video got a million **views**."
+   },
+   {
+    "w": "viewer",
+    "pos": "n",
+    "ko": "시청자",
+    "en": "The show has millions of **viewers**."
+   }
+  ]
+ },
+ {
+  "w": "visit",
+  "pos": "v",
+  "meaning_ko": "방문하다, 방문",
+  "example_en": "I'd love to **visit** Japan again and try more of the local food.",
+  "example_ko": "일본에 다시 가서 현지 음식을 더 먹어보고 싶어.",
+  "nuance_ko": "visit은 사람이나 장소를 방문하는 동사이고 타동사라서 'visit to Japan'이 아닌 'visit Japan'으로 써요(명사일 때는 a visit to Japan). 병원에서 'pay a visit'(방문하다), 'visiting hours'(면회 시간), 'visiting professor'(객원 교수)가 자주 쓰여요. stay는 머무르는 것이고 visit은 잠깐 들르는 것이에요. 구어에서 'visit with someone'은 미국에서 담소를 나누다는 뜻이에요. 웹사이트 방문도 'visit our website'라고 써요.",
+  "also": [
+   {
+    "w": "visitor",
+    "pos": "n",
+    "ko": "방문객",
+    "en": "We had a **visitor** yesterday."
+   },
+   {
+    "w": "visited",
+    "pos": "v",
+    "ko": "방문했다",
+    "en": "We **visited** my grandparents last week."
+   }
+  ]
+ },
+ {
+  "w": "voice",
+  "pos": "n",
+  "meaning_ko": "목소리, 의견",
+  "example_en": "I could hear her **voice** from the other room, and she sounded upset.",
+  "example_ko": "다른 방에서 그녀의 목소리가 들렸는데, 속상한 것 같았어.",
+  "nuance_ko": "voice는 목소리라는 기본 의미 외에 의견을 표현하는 힘(give people a voice)이나 문법의 태(active voice, passive voice)를 뜻해요. 'raise your voice'는 목소리를 높이다, 'lose your voice'는 목이 쉬다, 'a small voice'는 작은 목소리, 'voice an opinion'은 의견을 표명하다예요. 'voice message'는 음성 메시지, 'voice assistant'는 음성 비서예요. 'at the top of one's voice'는 목청껏, 'the voice of reason'은 이성의 목소리예요.",
+  "also": [
+   {
+    "w": "voices",
+    "pos": "n",
+    "ko": "목소리들",
+    "en": "I heard **voices** coming from the hall."
+   },
+   {
+    "w": "voiced",
+    "pos": "v",
+    "ko": "표명했다",
+    "en": "She **voiced** her concerns at the meeting."
+   }
+  ]
+ },
+ {
+  "w": "wait",
+  "pos": "v",
+  "meaning_ko": "기다리다",
+  "example_en": "Please **wait** here while I check if the doctor is available.",
+  "example_ko": "의사 선생님이 시간이 되는지 확인하는 동안 여기서 기다려 주세요.",
+  "nuance_ko": "wait는 어떤 일이 일어나거나 누군가 올 때까지 기다리는 자동사예요. 'wait for + 대상'(wait for the bus), 'wait to + 동사원형'(wait to see)으로 쓰고 wait the bus는 틀려요. 'Wait a minute/second'는 잠깐만, 'I can't wait to ~'는 몹시 기대된다, 'wait and see'는 두고 보자, 'wait on someone'은 시중들다(식당에서 서빙하다)예요. 'wait up'은 자지 않고 기다리다. 'Wait!'이라고 소리치면 급히 멈추라는 뜻으로 쓰여요.",
+  "also": [
+   {
+    "w": "waiting",
+    "pos": "n",
+    "ko": "기다림",
+    "en": "The **waiting** room was crowded."
+   },
+   {
+    "w": "waited",
+    "pos": "v",
+    "ko": "기다렸다",
+    "en": "We **waited** for over an hour."
+   }
+  ]
+ },
+ {
+  "w": "wake",
+  "pos": "v",
+  "meaning_ko": "깨다, 깨우다",
+  "example_en": "Please **wake** me up at six tomorrow morning; I have an early flight.",
+  "example_ko": "내일 아침 6시에 나 좀 깨워줘, 비행기가 일찍이야.",
+  "nuance_ko": "wake는 잠에서 깨다·깨우다예요. 변화형은 wake-woke-woken이고 'wake up'이 일상에서 가장 흔해요. 자동사로 'I woke up late', 타동사로 'wake someone up'(누구를 깨우다)이라고 해요. get up은 침대에서 일어나는 동작이고 wake up은 잠에서 깨는 상태예요. 'wake-up call'은 모닝콜이면서 경각심을 일깨우는 사건을 비유해요. 명사 wake는 장례식 전야 모임이나 배가 지나간 흔적을 뜻하고 'in the wake of ~'는 ~의 여파로라는 뜻이에요.",
+  "also": [
+   {
+    "w": "woke",
+    "pos": "v",
+    "ko": "깼다",
+    "en": "I **woke** up at five this morning."
+   },
+   {
+    "w": "waking",
+    "pos": "adj",
+    "ko": "깨어 있는",
+    "en": "I think about it every **waking** moment."
+   }
+  ]
+ },
+ {
+  "w": "walk",
+  "pos": "v",
+  "meaning_ko": "걷다, 산책",
+  "example_en": "I usually **walk** to work because it's only fifteen minutes from home.",
+  "example_ko": "집에서 15분밖에 안 걸려서 보통 걸어서 출근해.",
+  "nuance_ko": "walk는 발로 걸어 이동하는 동사이고 명사로는 산책·걷기(go for a walk)를 뜻해요. 'walk to work', 'walk the dog'(개를 산책시키다), 'walk someone home'(누구를 집까지 바래다주다)가 자주 쓰여요. 'take a walk'은 산책하다, 'in walking distance'는 걸어서 갈 수 있는 거리, 'walk of life'는 직업·계층이에요. 'walk out'은 박차고 나가다/파업하다, 'walk away'는 외면하고 떠나다예요. 'a walk in the park'는 식은 죽 먹기라는 관용구예요.",
+  "also": [
+   {
+    "w": "walking",
+    "pos": "n",
+    "ko": "걷기",
+    "en": "**Walking** is great for your health."
+   },
+   {
+    "w": "walked",
+    "pos": "v",
+    "ko": "걸었다",
+    "en": "We **walked** along the river."
+   }
+  ]
+ },
+ {
+  "w": "wall",
+  "pos": "n",
+  "meaning_ko": "벽, 담",
+  "example_en": "There's a large painting on the **wall** above the sofa.",
+  "example_ko": "소파 위쪽 벽에 큰 그림이 걸려 있어.",
+  "nuance_ko": "wall은 건물 안팎의 벽이나 담장을 가리켜요. 방 안의 벽은 'on the wall'(벽에 걸려 있는), 담벼락은 'over the wall'(담 너머로)처럼 써요. 'Great Wall'(만리장성), 'Wall Street'(월가)가 고유명사로 유명해요. 'hit a wall'은 한계에 부딪히다, 'climb the walls'는 지루해 미칠 것 같다, 'a fly on the wall'은 몰래 지켜보는 관찰자라는 관용 표현이에요. 'drive someone up the wall'은 누군가를 미치게 하다예요. 'walled'는 벽으로 둘러싸인이라는 뜻의 형용사예요.",
+  "also": [
+   {
+    "w": "walls",
+    "pos": "n",
+    "ko": "벽들",
+    "en": "The old city has thick stone **walls**."
+   }
+  ]
+ },
+ {
+  "w": "want",
+  "pos": "v",
+  "meaning_ko": "원하다",
+  "example_en": "Do you **want** to grab some coffee after the meeting?",
+  "example_ko": "회의 끝나고 커피 한잔할래?",
+  "nuance_ko": "want는 원하다이고 'want + 명사', 'want to + 동사원형', 'want + 사람 + to + 동사원형'(I want you to come)의 세 구조로 써요. want that절은 쓸 수 없어서 'I want that you come'은 틀려요. 'Would you like ~?'가 정중한 권유이고 'Do you want ~?'는 친근한 질문이에요. 'want' 자체가 직접적이라 윗사람에게는 'I'd like to ~'가 더 정중해요. 명사 want는 '부족, 결핍'(for want of ~, ~이 없어서)이라는 뜻도 있어요. 구어에서 wanna는 want to의 줄임말이에요.",
+  "also": [
+   {
+    "w": "wanted",
+    "pos": "adj",
+    "ko": "수배된, 원하는",
+    "en": "He is a **wanted** man."
+   },
+   {
+    "w": "unwanted",
+    "pos": "adj",
+    "ko": "원치 않는",
+    "en": "Delete any **unwanted** emails."
+   }
+  ]
+ },
+ {
+  "w": "war",
+  "pos": "n",
+  "meaning_ko": "전쟁",
+  "example_en": "My grandfather often told us stories about the **war** when he was young.",
+  "example_ko": "우리 할아버지는 젊었을 때 겪은 전쟁 이야기를 종종 들려주셨어.",
+  "nuance_ko": "war는 국가나 집단 간의 전쟁이고 셀 수 있는 명사예요(world wars). 'World War II'(제2차 세계대전), 'civil war'(내전), 'Cold War'(냉전), 'at war'(전쟁 중인), 'go to war'(전쟁을 일으키다)처럼 써요. 비유적으로 'price war'(가격 전쟁), 'war on drugs'(마약과의 전쟁), 'a war of words'(설전)도 있어요. battle은 하나의 전투, war는 전체 전쟁을 말해요. 'postwar'는 전후의, 'prewar'는 전쟁 전의를 뜻하는 형용사예요.",
+  "also": [
+   {
+    "w": "wars",
+    "pos": "n",
+    "ko": "전쟁들",
+    "en": "The country has suffered many **wars**."
+   },
+   {
+    "w": "postwar",
+    "pos": "adj",
+    "ko": "전후의",
+    "en": "The **postwar** economy grew rapidly."
+   }
+  ]
+ },
+ {
+  "w": "warm",
+  "pos": "adj",
+  "meaning_ko": "따뜻한, 훈훈한",
+  "example_en": "It's a **warm** day, so I'll leave my jacket at home.",
+  "example_ko": "날이 따뜻해서 재킷은 집에 두고 갈래.",
+  "nuance_ko": "warm은 적당히 따뜻한 온도를 말하며 hot(뜨거운)보다 낮고 cool(선선한)보다 높아요. 날씨, 음식, 옷뿐 아니라 'a warm welcome'(따뜻한 환영), 'warm-hearted'(마음이 따뜻한)처럼 정서적 온기에도 써요. 동사 warm은 '데우다, 따뜻해지다'로 'warm up'은 준비 운동을 하다/데우다, 'warm to ~'는 ~에 호감을 느끼기 시작하다예요. 색에서 warm colors는 붉은 계열의 따뜻한 색이에요. 'Keep warm'은 따뜻하게 있으라는 인사말이에요.",
+  "also": [
+   {
+    "w": "warmth",
+    "pos": "n",
+    "ko": "따뜻함",
+    "en": "I felt the **warmth** of the sun."
+   },
+   {
+    "w": "warmer",
+    "pos": "adj",
+    "ko": "더 따뜻한",
+    "en": "It's **warmer** today than yesterday."
+   }
+  ]
+ },
+ {
+  "w": "wash",
+  "pos": "v",
+  "meaning_ko": "씻다, 빨다",
+  "example_en": "Don't forget to **wash** your hands before you eat dinner.",
+  "example_ko": "저녁 먹기 전에 손 씻는 거 잊지 마.",
+  "nuance_ko": "wash는 물과 세제로 씻거나 빠는 동작이에요. 'wash your hands/face', 'wash the dishes'(설거지하다), 'wash the car', 'wash clothes'(빨래하다)처럼 쓰여요. 'wash up'은 영국에서 설거지하다, 미국에서는 손을 씻다예요. 'wash away'는 쓸려 내려가다, 'wash out'은 빨아서 얼룩을 빼다예요. 명사 wash는 세탁물(a load of wash)이나 씻기이고 'car wash'는 세차장이에요. 'It will all come out in the wash'는 시간이 지나면 다 밝혀질 거라는 관용구예요.",
+  "also": [
+   {
+    "w": "washing",
+    "pos": "n",
+    "ko": "세탁, 빨래",
+    "en": "I need to do the **washing** tonight."
+   },
+   {
+    "w": "washed",
+    "pos": "v",
+    "ko": "씻었다",
+    "en": "She **washed** the dishes after dinner."
+   }
+  ]
+ },
+ {
+  "w": "waste",
+  "pos": "v",
+  "meaning_ko": "낭비하다, 쓰레기",
+  "example_en": "Don't **waste** your time on things that don't really matter.",
+  "example_ko": "정말 중요하지도 않은 일에 시간 낭비하지 마.",
+  "nuance_ko": "waste는 시간·돈·자원을 헛되이 쓰다(동사), 낭비나 쓰레기(명사)예요. 'waste of time'(시간 낭비), 'waste money'(돈을 낭비하다), 'food waste'(음식물 쓰레기), 'waste disposal'(폐기물 처리)처럼 쓰여요. 'go to waste'는 낭비되다, 'waste away'는 쇠약해지다예요. 'Waste not, want not'은 아끼면 부족함이 없다는 속담이에요. spend와 달리 waste는 부정적으로 쓰고 trash/garbage는 일상 쓰레기를 가리키는 데 반해 waste는 산업·환경 문맥에서 많이 보여요.",
+  "also": [
+   {
+    "w": "wasted",
+    "pos": "adj",
+    "ko": "낭비된",
+    "en": "That was a **wasted** opportunity."
+   },
+   {
+    "w": "wasteful",
+    "pos": "adj",
+    "ko": "낭비하는",
+    "en": "It's **wasteful** to leave the lights on."
+   }
+  ]
+ },
+ {
+  "w": "watch",
+  "pos": "v",
+  "meaning_ko": "보다, 지켜보다, 손목시계",
+  "example_en": "Do you want to **watch** a movie at my place tonight?",
+  "example_ko": "오늘 밤 우리 집에서 영화 볼래?",
+  "nuance_ko": "watch는 움직이는 것을 집중해서 지켜보는 동사로 TV·영화·경기에 쓰여요. see는 눈에 들어오는 것, look은 시선을 향하는 것, watch는 계속 주의를 기울이는 것이라는 차이가 있어요. 'Watch out!'은 조심해, 'watch your step'은 발밑 조심, 'watch over'는 보살피다예요. 명사 watch는 손목시계, 'night watch'는 야간 경비를 뜻해요. 'watch the clock'은 시계만 쳐다보다(퇴근 시간 기다리다)라는 관용구예요.",
+  "also": [
+   {
+    "w": "watching",
+    "pos": "v",
+    "ko": "보고 있는",
+    "en": "I'm **watching** a documentary now."
+   },
+   {
+    "w": "watched",
+    "pos": "v",
+    "ko": "보았다",
+    "en": "We **watched** the game together."
+   }
+  ]
+ },
+ {
+  "w": "water",
+  "pos": "n",
+  "meaning_ko": "물",
+  "example_en": "Could I have a glass of **water**, please? I'm really thirsty.",
+  "example_ko": "물 한 잔 주실 수 있어요? 정말 목이 말라서요.",
+  "nuance_ko": "water는 물이고 셀 수 없는 명사라서 a glass of water, a bottle of water처럼 단위를 붙여요. 식당에서 'tap water'(수돗물), 'sparkling water'(탄산수), 'still water'(탄산 없는 물)를 구별해요. 동사로 '물을 주다'(water the plants), '눈물이 나다'(My eyes are watering)로도 써요. 'water down'은 희석시키다, 'hold water'는 논리가 타당하다, 'in hot water'는 곤경에 처한이라는 관용 표현이에요. 'Water under the bridge'는 이미 지난 일이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "waters",
+    "pos": "n",
+    "ko": "바다, 수역",
+    "en": "They sailed through shallow **waters**."
+   },
+   {
+    "w": "watery",
+    "pos": "adj",
+    "ko": "물기 많은",
+    "en": "The soup tasted a bit **watery**."
+   }
+  ]
+ },
+ {
+  "w": "wave",
+  "pos": "n",
+  "meaning_ko": "파도, 흔들다, 물결",
+  "example_en": "The kids were jumping over every **wave** at the beach.",
+  "example_ko": "아이들이 해변에서 파도가 올 때마다 뛰어넘었어.",
+  "nuance_ko": "wave는 바다의 파도, 손을 흔드는 동작, 열풍·열기 같은 물결(a heat wave, 폭염), 갑작스러운 증가(a wave of protests)를 뜻해요. 동사로는 손을 흔들다(wave goodbye)예요. 'wave at someone'은 누구에게 손을 흔들어 인사하다, 'wave to ~'는 멀리서 부르다 느낌이에요. 'make waves'는 파문을 일으키다/물의를 빚다, 'ride the wave'는 흐름을 타다예요. 'wavelength'는 파장이고 'on the same wavelength'는 생각이 통하는 사이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "waved",
+    "pos": "v",
+    "ko": "손을 흔들었다",
+    "en": "She **waved** at us from across the street."
+   },
+   {
+    "w": "waves",
+    "pos": "n",
+    "ko": "파도들",
+    "en": "The **waves** were very high today."
+   }
+  ]
+ },
+ {
+  "w": "way",
+  "pos": "n",
+  "meaning_ko": "길, 방법, 방식",
+  "example_en": "Is there a better **way** to solve this problem without spending more money?",
+  "example_ko": "돈을 더 쓰지 않고 이 문제를 해결할 더 나은 방법이 있을까?",
+  "nuance_ko": "way는 길, 방법, 방향, 방식을 두루 뜻하는 단어예요. 'on the way'(가는 길에), 'by the way'(그런데, 화제 전환), 'in a way'(어떤 면에서), 'no way'(절대 아니야), 'make way'(길을 비켜주다)처럼 관용 표현이 많아요. 방법으로 쓸 때는 'the way to do it'이나 'a way of -ing'를 써요. 'the way you talk'은 네가 말하는 방식이고 'the way that'은 ~하는 방식으로 쓰이므로 how와 함께 쓰지 않아요(the way how는 틀림). 'Way too much'는 구어에서 정도를 강조해요.",
+  "also": [
+   {
+    "w": "ways",
+    "pos": "n",
+    "ko": "방법들",
+    "en": "There are many **ways** to learn English."
+   }
+  ]
+ },
+ {
+  "w": "we",
+  "pos": "pron",
+  "meaning_ko": "우리는",
+  "example_en": "**We** should probably leave now if we want to catch the last train.",
+  "example_ko": "막차를 타려면 우리 이제 슬슬 출발해야 해.",
+  "nuance_ko": "we는 말하는 사람이 포함된 복수 주어 대명사예요. 목적격은 us, 소유격은 our, 소유대명사는 ours, 재귀대명사는 ourselves예요. 한국어에서는 '우리'가 소유 의미로도 자주 쓰여서 'our wife'처럼 말하기 쉽지만 영어에서는 'my wife'가 자연스러워요. 회사나 단체를 가리킬 때도 we를 써요('We offer free shipping'). 'We' 대신 'Let's ~'로 제안하는 것이 흔하고, 격식 있는 글에서 필자 자신을 가리키는 we(editorial we)도 있어요.",
+  "also": [
+   {
+    "w": "our",
+    "pos": "det",
+    "ko": "우리의",
+    "en": "This is **our** new office."
+   },
+   {
+    "w": "ourselves",
+    "pos": "pron",
+    "ko": "우리 스스로",
+    "en": "We built the shelf **ourselves**."
+   }
+  ]
+ },
+ {
+  "w": "wear",
+  "pos": "v",
+  "meaning_ko": "입고 있다, 착용하다",
+  "example_en": "What should I **wear** to the interview tomorrow morning?",
+  "example_ko": "내일 아침 면접에 뭘 입고 가야 할까?",
+  "nuance_ko": "wear는 옷, 신발, 모자, 안경, 시계, 향수 등을 몸에 착용한 상태를 나타내요. put on(입는 동작)과 달리 wear는 입고 있는 상태예요. 'wear glasses', 'wear a ring', 'wear perfume'처럼 입는 것 외에도 두루 써요. 변화형은 wear-wore-worn이에요. 'wear out'은 닳아서 못 쓰게 되다, 'wear off'는 서서히 사라지다, 'wear and tear'는 마모, 'wear down'은 지치게 하다예요. 'dress'는 옷을 입히다/옷차림, wear는 입은 상태라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "wearing",
+    "pos": "v",
+    "ko": "입고 있는",
+    "en": "She is **wearing** a red scarf."
+   },
+   {
+    "w": "worn",
+    "pos": "adj",
+    "ko": "닳은",
+    "en": "His shoes were old and **worn**."
+   }
+  ]
+ },
+ {
+  "w": "weather",
+  "pos": "n",
+  "meaning_ko": "날씨",
+  "example_en": "The **weather** has been really nice all week, so let's go outside.",
+  "example_ko": "한 주 내내 날씨가 정말 좋았으니까 밖에 나가자.",
+  "nuance_ko": "weather는 날씨이고 셀 수 없는 명사라서 a weather, weathers는 보통 쓰지 않아요. 'What's the weather like?'(날씨 어때?), 'weather forecast'(일기예보), 'under the weather'(몸이 안 좋은), 'in all weathers'(어떤 날씨에도)처럼 써요. 동사 weather는 '(어려움을) 견뎌내다'(weather the storm, 폭풍을 이겨내다)나 '풍화시키다'예요. climate는 장기간의 기후 패턴이고 weather는 특정 시점의 날씨라는 차이가 있어요. 대화에서 weather 이야기는 안전한 small talk 소재예요.",
+  "also": [
+   {
+    "w": "weathered",
+    "pos": "adj",
+    "ko": "풍파를 겪은",
+    "en": "He had a **weathered** face."
+   }
+  ]
+ },
+ {
+  "w": "web",
+  "pos": "n",
+  "meaning_ko": "거미줄, 웹",
+  "example_en": "I found the information I needed by searching the **web** for a few minutes.",
+  "example_ko": "몇 분 동안 웹을 검색해서 필요한 정보를 찾았어.",
+  "nuance_ko": "web은 원래 거미줄(spider's web)을 뜻하고, 지금은 World Wide Web의 줄임말로 '웹, 인터넷'을 가리킬 때 더 자주 써요. 'web page'(웹 페이지), 'website'(웹사이트), 'web browser'(웹 브라우저), 'on the web'(웹상에서)처럼 IT에서 필수 단어예요. 비유적으로 얽히고설킨 구조를 'a web of lies'(거짓말의 그물)처럼 말해요. 'web' 혼자 쓰이면 인터넷 전체를 가리키지만 'the Internet'이 네트워크, 'the web'이 그 위의 정보 서비스라는 구분이 있어요.",
+  "also": []
+ },
+ {
+  "w": "wednesday",
+  "pos": "n",
+  "meaning_ko": "수요일",
+  "example_en": "Our team usually has lunch together on **Wednesday**.",
+  "example_ko": "우리 팀은 보통 수요일에 같이 점심을 먹어.",
+  "nuance_ko": "Wednesday는 수요일이며 철자가 어려워서 학습자가 자주 틀리는 단어예요. 발음은 /ˈwenzdeɪ/로 d가 소리나지 않아요. on Wednesday(수요일에), on Wednesdays(매주 수요일에), next Wednesday처럼 써요. 약어는 Wed.이에요. 'Hump day'는 수요일을 가리키는 구어로, 주중의 고비를 넘는 날이라는 의미예요. 영어 이름은 북유럽 신 Woden(오딘)의 날에서 유래했어요. 'Ash Wednesday'는 기독교의 재의 수요일이에요.",
+  "also": [
+   {
+    "w": "wednesdays",
+    "pos": "n",
+    "ko": "수요일마다",
+    "en": "I have yoga class on **Wednesdays**."
+   }
+  ]
+ },
+ {
+  "w": "week",
+  "pos": "n",
+  "meaning_ko": "주, 일주일",
+  "example_en": "I have a lot of meetings **this week**, so I'll be busy.",
+  "example_ko": "이번 주에는 회의가 많아서 바쁠 거야.",
+  "nuance_ko": "week는 7일 단위의 주를 나타내요. this week(이번 주), last week(지난주), next week(다음 주) 앞에는 전치사가 필요 없고 'in a week'(일주일 후에), 'for a week'(일주일 동안), 'once a week'(주 1회)처럼 써요. 'weekday'는 평일, 'weekend'는 주말이에요. 'a week from today'는 오늘로부터 일주일 뒤이고 'every other week'는 격주예요. 'It's been a long week'은 고단한 한 주였다는 일상 표현이에요. 'weekly'는 매주의/매주라는 형용사·부사예요.",
+  "also": [
+   {
+    "w": "weekly",
+    "pos": "adj",
+    "ko": "매주의",
+    "en": "We have a **weekly** team meeting."
+   },
+   {
+    "w": "weeks",
+    "pos": "n",
+    "ko": "몇 주",
+    "en": "It took about three **weeks**."
+   }
+  ]
+ },
+ {
+  "w": "weight",
+  "pos": "n",
+  "meaning_ko": "무게, 체중",
+  "example_en": "I've been trying to lose some **weight** before summer comes.",
+  "example_ko": "여름이 오기 전에 체중을 좀 빼려고 노력 중이야.",
+  "nuance_ko": "weight는 무게, 체중, 추(역기)를 뜻해요. 'lose weight'(살 빼다), 'gain weight'(살찌다), 'put on weight'(체중이 늘다), 'lift weights'(웨이트 운동하다)가 자주 쓰여요. 비유적으로 중요성이나 영향력('carry weight', 무게가 실리다)도 뜻해요. 'weight' 철자는 e와 i의 순서가 어려워서 'eight(8)'이 들어 있다고 기억하면 도움이 돼요. 동사 weigh(무게를 재다)와 형용사 heavy/light를 함께 외워두세요. 'worth one's weight in gold'는 매우 값어치 있다는 관용구예요.",
+  "also": [
+   {
+    "w": "weights",
+    "pos": "n",
+    "ko": "역기, 추들",
+    "en": "He lifts **weights** at the gym every day."
+   },
+   {
+    "w": "weighted",
+    "pos": "adj",
+    "ko": "가중된",
+    "en": "The grade is a **weighted** average."
+   }
+  ]
+ },
+ {
+  "w": "well",
+  "pos": "adv",
+  "meaning_ko": "잘, 건강한, 글쎄",
+  "example_en": "She speaks English so **well** that people think she grew up in the U.S.",
+  "example_ko": "그녀는 영어를 너무 잘해서 사람들이 미국에서 자란 줄 알아.",
+  "nuance_ko": "well은 부사 '잘', 형용사 '건강한', 감탄사 '글쎄, 음'으로 쓰이는 단어예요. good은 형용사(a good player)이고 well은 동사를 꾸미는 부사(plays well)라는 구별이 중요해요. 단, 건강을 말할 때는 'I'm well'과 'I'm good' 둘 다 쓰여요. 대화에서 'Well, ...'는 생각하며 말을 시작하거나 화제를 바꿀 때 쓰는 담화 표지예요. 'as well'(또한), 'as well as'(~뿐 아니라), 'well done'(잘했어), 'may as well'(~하는 게 낫겠다)처럼 쓰이는 관용 표현도 많아요.",
+  "also": [
+   {
+    "w": "unwell",
+    "pos": "adj",
+    "ko": "몸이 안 좋은",
+    "en": "I'm feeling a little **unwell** today."
+   }
+  ]
+ },
+ {
+  "w": "west",
+  "pos": "n",
+  "meaning_ko": "서쪽, 서",
+  "example_en": "The sun sets in the **west**, so the room gets hot in the afternoon.",
+  "example_ko": "해가 서쪽으로 지기 때문에 그 방은 오후에 더워져.",
+  "nuance_ko": "west는 방위 '서쪽'이고 명사, 형용사, 부사로 두루 쓰여요. 'go west'(서쪽으로 가다), 'the west coast'(서해안), 'the West'(서양/서구)처럼 대문자 West는 서양 문화권을 가리켜요. 미국의 서부 개척 시대 'the Wild West'도 유명해요. 'Go west'는 비유적으로 망가지다·죽다라는 영국 구어 표현이기도 해요. 방위 순서는 north, south, east, west이며 northwest, southwest처럼 붙여 써요.",
+  "also": [
+   {
+    "w": "westward",
+    "pos": "adv",
+    "ko": "서쪽으로",
+    "en": "The road runs **westward** along the coast."
+   },
+   {
+    "w": "midwest",
+    "pos": "n",
+    "ko": "미국 중서부",
+    "en": "She grew up in the American **Midwest**."
+   }
+  ]
+ },
+ {
+  "w": "wet",
+  "pos": "adj",
+  "meaning_ko": "젖은, 습한",
+  "example_en": "My shoes got completely **wet** because I stepped in a puddle.",
+  "example_ko": "웅덩이를 밟아서 신발이 완전히 젖었어.",
+  "nuance_ko": "wet은 물에 젖거나 습기가 많은 상태를 나타내고 반대는 dry예요. 'wet clothes', 'wet weather'(비 오는 날씨), 'Wet paint'(칠 주의)처럼 쓰여요. 동사 wet은 '적시다'이고 변화형 wet-wet-wet이나 wet-wetted-wetted가 둘 다 가능해요. 'get wet'(젖다), 'soaking wet'(흠뻑 젖은), 'wet blanket'(분위기 깨는 사람)이 자주 쓰여요. 영국에서 wet은 유약하고 심약한 사람을 놀리는 말로도 쓰이니 문맥을 보세요. damp는 약간 눅눅한 정도이고 wet은 확실히 젖은 정도예요.",
+  "also": [
+   {
+    "w": "wetter",
+    "pos": "adj",
+    "ko": "더 젖은",
+    "en": "This winter was **wetter** than usual."
+   }
+  ]
+ },
+ {
+  "w": "what",
+  "pos": "pron",
+  "meaning_ko": "무엇, 어떤",
+  "example_en": "**What** time does the store open on Sundays?",
+  "example_ko": "일요일에는 그 가게가 몇 시에 열어?",
+  "nuance_ko": "what은 의문대명사 '무엇', 의문형용사 '어떤', 관계대명사 '~하는 것'으로 쓰이는 핵심 단어예요. 'What is this?', 'What time is it?', 'What do you think?'처럼 질문을 만들고 'What I need is rest'처럼 관계절의 주어가 돼요. 감탄문에서 'What a beautiful day!'는 what + a + 형용사 + 명사 어순이에요. 'What if ~?'는 만약 ~라면 어쩌지?, 'So what?'은 그래서 어쩌라고?, 'What for?'는 왜?, 'what's up'은 안부 인사예요. 가볍게 되물을 때 'What?'은 약간 무례해서 'Pardon?'이 더 정중해요.",
+  "also": [
+   {
+    "w": "whatever",
+    "pos": "pron",
+    "ko": "무엇이든",
+    "en": "Choose **whatever** you like."
+   }
+  ]
+ },
+ {
+  "w": "wheel",
+  "pos": "n",
+  "meaning_ko": "바퀴, 핸들",
+  "example_en": "One of the **wheels** on my bike is making a strange noise.",
+  "example_ko": "내 자전거 바퀴 하나에서 이상한 소리가 나.",
+  "nuance_ko": "wheel은 바퀴를 뜻하고 자동차 핸들을 가리키기도 해요('behind the wheel', 운전석에서). 'steering wheel'은 운전대, 'wheelchair'는 휠체어, 'Ferris wheel'은 관람차예요. 'reinvent the wheel'은 이미 있는 것을 처음부터 다시 만드는 헛수고를 뜻하는 관용구이고 'the squeaky wheel gets the grease'는 불만을 크게 말해야 대접받는다는 속담이에요. 'wheel' 동사는 '바퀴 달린 것을 밀고 가다'(wheel a cart)예요. 'on wheels'는 바퀴 달린이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "wheels",
+    "pos": "n",
+    "ko": "바퀴들, 차",
+    "en": "The car has four large **wheels**."
+   }
+  ]
+ },
+ {
+  "w": "when",
+  "pos": "adv",
+  "meaning_ko": "언제, ~할 때",
+  "example_en": "**When** are you planning to take your vacation this year?",
+  "example_ko": "올해 휴가는 언제 갈 계획이야?",
+  "nuance_ko": "when은 의문부사 '언제', 접속사 '~할 때', 관계부사로 쓰여요. 의문문 'When is the meeting?'은 정확한 시점을 묻고 접속사 'When I arrived, it was raining'은 시간 절을 이끌어요. when 절 안에서는 미래도 현재 시제를 써요(When I get there, I'll call you). 'when it comes to ~'는 ~에 관해서라면, 'since when'은 도대체 언제부터(놀람/비꼼), 'when in Rome, do as the Romans do'는 로마에 가면 로마법을 따르라는 속담이에요. while(~하는 동안)과 구별하세요.",
+  "also": [
+   {
+    "w": "whenever",
+    "pos": "adv",
+    "ko": "~할 때마다",
+    "en": "Call me **whenever** you need help."
+   }
+  ]
+ },
+ {
+  "w": "where",
+  "pos": "adv",
+  "meaning_ko": "어디, ~하는 곳",
+  "example_en": "**Where** did you buy that jacket? It looks great on you.",
+  "example_ko": "그 재킷 어디서 샀어? 너한테 정말 잘 어울려.",
+  "nuance_ko": "where는 의문부사 '어디서', 관계부사 '~하는 곳'으로 쓰여요. 'Where are you from?'(어디 출신이야?), 'Where to?'(어디로 가세요?)는 택시에서 자주 들려요. 관계부사 where는 'a place where people can relax'처럼 장소 명사를 꾸미고 뒤에 완전한 문장이 와요. 'where' 뒤에 to를 붙이는 실수(Where are you going to?)는 구어에서는 쓰지만 정석은 'Where are you going?'이에요. 'wherever'는 어디든지, 'where possible'은 가능한 한이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "wherever",
+    "pos": "adv",
+    "ko": "어디든지",
+    "en": "Sit **wherever** you like."
+   }
+  ]
+ },
+ {
+  "w": "whether",
+  "pos": "conj",
+  "meaning_ko": "~인지 아닌지",
+  "example_en": "I'm not sure **whether** I should accept the job offer or not.",
+  "example_ko": "그 일자리 제안을 받아들여야 할지 말아야 할지 잘 모르겠어.",
+  "nuance_ko": "whether는 '~인지 아닌지'를 나타내는 접속사로 if와 비슷하지만 더 격식 있고 쓰임이 넓어요. 'I wonder whether ~', 'It depends on whether ~'처럼 쓰고, 전치사 뒤에는 if가 아닌 whether만 쓸 수 있어요(the question of whether). 'whether or not'은 ~이든 아니든, 'whether A or B'는 A이든 B이든이에요. 주어나 to부정사와도 결합해서 'Whether to go is up to you'처럼 쓸 수 있어요. weather(날씨)와 발음이 같으니 철자를 주의하세요.",
+  "also": []
+ },
+ {
+  "w": "which",
+  "pos": "pron",
+  "meaning_ko": "어느 것, 그것은",
+  "example_en": "**Which** of these two phones would you recommend for a beginner?",
+  "example_ko": "이 두 휴대폰 중에 초보자에게는 어느 것을 추천해?",
+  "nuance_ko": "which는 제한된 선택지 중에서 고를 때 쓰는 '어느 것'(의문대명사·형용사)이고, 관계대명사로는 사물을 선행사로 하는 '~하는'이에요. what은 선택지가 열려 있을 때, which는 정해진 범위에서 고를 때 써요. 'Which one do you want?'가 전형적이에요. 관계대명사 which는 제한적(the book which I read)과 계속적 용법(He was late, which annoyed me)이 있고 후자는 앞 문장 전체를 받을 수 있어요. 'in which', 'of which'처럼 전치사 뒤에서 격식 있게 써요.",
+  "also": [
+   {
+    "w": "whichever",
+    "pos": "pron",
+    "ko": "어느 쪽이든",
+    "en": "Take **whichever** you prefer."
+   }
+  ]
+ },
+ {
+  "w": "while",
+  "pos": "conj",
+  "meaning_ko": "~하는 동안, 반면에",
+  "example_en": "I like to listen to podcasts **while** I'm cooking dinner.",
+  "example_ko": "난 저녁 요리할 때 팟캐스트 듣는 걸 좋아해.",
+  "nuance_ko": "while은 두 동작이 동시에 일어나는 '~하는 동안'과 대조를 나타내는 '반면에'(He likes tea, while she prefers coffee)로 쓰여요. 명사 while은 '잠시, 한동안'이라서 'a while'(한동안), 'for a while'(잠깐 동안), 'after a while'(얼마 후에), 'worth your while'(시간을 들일 만한)처럼 써요. during은 명사 앞에서 기간을, while은 절 앞에서 동시 진행을 나타내요. 문어에서는 'whilst'가 영국식 격식 표현으로 쓰이고, 현재진행형과 자주 어울려요.",
+  "also": [
+   {
+    "w": "whilst",
+    "pos": "conj",
+    "ko": "~하는 동안(영국식)",
+    "en": "Please remain seated **whilst** the plane is moving."
+   }
+  ]
+ },
+ {
+  "w": "white",
+  "pos": "adj",
+  "meaning_ko": "흰, 하얀",
+  "example_en": "She wore a simple **white** dress to the outdoor wedding.",
+  "example_ko": "그녀는 야외 결혼식에 소박한 흰색 드레스를 입고 왔어.",
+  "nuance_ko": "white는 흰색이고 형용사와 명사 모두 쓰여요. 순수함·깨끗함(white wedding), 항복(white flag), 거짓말(a white lie, 선의의 거짓말)처럼 상징적으로 쓰여요. 'white-collar'는 사무직, 'white noise'는 백색 소음, 'White House'는 미국 대통령 관저예요. 인종을 가리킬 때 white는 민감한 문맥이 될 수 있어서 맥락을 조심해야 해요. 'whiteboard'는 화이트보드, 'white wine'은 화이트 와인이에요. 달걀흰자도 white(the white of an egg)예요.",
+  "also": [
+   {
+    "w": "whites",
+    "pos": "n",
+    "ko": "흰자, 흰옷",
+    "en": "Separate the **whites** from the yolks."
+   },
+   {
+    "w": "whiter",
+    "pos": "adj",
+    "ko": "더 하얀",
+    "en": "This detergent makes clothes **whiter**."
+   }
+  ]
+ },
+ {
+  "w": "who",
+  "pos": "pron",
+  "meaning_ko": "누구, ~하는 사람",
+  "example_en": "**Who** is the woman standing next to the window?",
+  "example_ko": "창가 옆에 서 있는 여자분이 누구야?",
+  "nuance_ko": "who는 의문대명사 '누구'와 관계대명사 '~하는 사람'으로 쓰여요. 'Who is it?', 'Who called?'처럼 주어로 쓰고 목적어로는 격식상 whom이지만 구어에서는 who를 그대로 써요(Who did you see?). 관계대명사 who는 사람을 선행사로 받아 'the man who lives next door'처럼 써요. 'who's'(who is/has)와 whose(누구의)를 철자에서 헷갈리지 마세요. 'Who knows?'는 누가 알겠어(모르겠다), 'Who cares?'는 알 게 뭐람이라는 반어적 표현이에요.",
+  "also": [
+   {
+    "w": "whose",
+    "pos": "pron",
+    "ko": "누구의",
+    "en": "**Whose** bag is this?"
+   },
+   {
+    "w": "whom",
+    "pos": "pron",
+    "ko": "누구를",
+    "en": "To **whom** should I address the letter?"
+   }
+  ]
+ },
+ {
+  "w": "whole",
+  "pos": "adj",
+  "meaning_ko": "전체의, 온전한",
+  "example_en": "I spent the **whole** weekend cleaning the house and doing laundry.",
+  "example_ko": "주말 내내 집 청소하고 빨래하면서 보냈어.",
+  "nuance_ko": "whole은 '전체의, 통째의'를 뜻하는 형용사로 'the whole day'(하루 종일), 'a whole new world'(완전히 새로운 세상), 'the whole thing'(전부 다)처럼 쓰여요. all은 개별 요소의 총합이고 whole은 하나로서의 전체라는 느낌이에요. 어순은 'the whole day' (all the day는 부자연스러움)이에요. 명사로 'as a whole'(전체적으로), 'on the whole'(대체로)가 자주 쓰여요. 'whole grain'은 통곡물, 'whole milk'는 전지우유이고 hole(구멍)과 발음이 같아요.",
+  "also": [
+   {
+    "w": "wholly",
+    "pos": "adv",
+    "ko": "전적으로",
+    "en": "I'm not **wholly** convinced."
+   }
+  ]
+ },
+ {
+  "w": "why",
+  "pos": "adv",
+  "meaning_ko": "왜",
+  "example_en": "**Why** didn't you tell me earlier that you couldn't come?",
+  "example_ko": "못 온다고 왜 더 일찍 말해주지 않았어?",
+  "nuance_ko": "why는 이유를 묻는 의문부사 '왜'예요. 'Why did you do that?', 'Why not?'(안 될 게 뭐야? 좋아!)처럼 쓰여요. 'Why don't you/we ~?'는 제안(~하는 게 어때?)으로 질문처럼 보여도 실제로는 권유예요. 관계부사로 'the reason why ~'가 쓰이고 because와 함께 겹치면 중복이에요. 명사 why는 '이유, 까닭'(the whys and wherefores, 이유와 사정)이라는 뜻이에요. 'That's why ~'는 그래서 ~하는 거야, 'Why on earth ~?'는 도대체 왜 ~하는 거야라는 강조 질문이에요.",
+  "also": [
+   {
+    "w": "whys",
+    "pos": "n",
+    "ko": "이유들",
+    "en": "I want to know the **whys** and hows."
+   }
+  ]
+ },
+ {
+  "w": "wide",
+  "pos": "adj",
+  "meaning_ko": "넓은, 폭이 넓은",
+  "example_en": "The river is about fifty meters **wide** at this point.",
+  "example_ko": "강폭이 이 지점에서는 대략 50미터쯤 돼.",
+  "nuance_ko": "wide는 폭이 넓은 것을 나타내고 반대는 narrow예요. broad와 비슷하지만 wide는 양쪽 끝의 거리를 강조하고 broad는 넓게 펼쳐진 느낌이에요. 'ten meters wide'처럼 수치 뒤에 오고, 'a wide range of ~'(다양한 ~), 'wide open'(활짝 열린), 'worldwide'(세계적인)처럼 합성어도 많아요. 'wide awake'는 완전히 깨어 있는이라는 부사적 용법이에요. 'a wide variety'는 매우 다양한 종류예요. 부사 widely는 '널리, 폭넓게'(widely known, 널리 알려진)예요.",
+  "also": [
+   {
+    "w": "widely",
+    "pos": "adv",
+    "ko": "널리",
+    "en": "The book is **widely** read."
+   },
+   {
+    "w": "width",
+    "pos": "n",
+    "ko": "너비",
+    "en": "Measure the **width** of the door."
+   }
+  ]
+ },
+ {
+  "w": "wife",
+  "pos": "n",
+  "meaning_ko": "아내",
+  "example_en": "My **wife** and I are planning a trip to Italy this fall.",
+  "example_ko": "아내와 나는 이번 가을에 이탈리아 여행을 계획하고 있어.",
+  "nuance_ko": "wife는 결혼한 여성 배우자를 말하고 복수형은 불규칙하게 wives로 변해요. 남편은 husband, 부부는 husband and wife예요. 영어에서는 '아내'를 소개할 때 'my wife'라고 하는데 한국어의 '우리 와이프'처럼 our를 쓰지 않아요. 구어에서는 'the missus'(영국)나 'the wife'로도 지칭해요. 호칭이 필요한 동반자 개념으로는 요즘 partner도 폭넓게 쓰이고 'ex-wife'는 전처, 'wife-to-be'는 아내가 될 사람이에요.",
+  "also": [
+   {
+    "w": "wives",
+    "pos": "n",
+    "ko": "아내들",
+    "en": "The **wives** of the players attended the party."
+   }
+  ]
+ },
+ {
+  "w": "wild",
+  "pos": "adj",
+  "meaning_ko": "야생의, 거친, 열광적인",
+  "example_en": "We saw a **wild** deer standing quietly at the edge of the forest.",
+  "example_ko": "우리는 숲 가장자리에 조용히 서 있는 야생 사슴을 봤어.",
+  "nuance_ko": "wild는 길들여지지 않은 야생의 상태이면서 거칠고 통제되지 않은 느낌(wild party)이나 열광적인 상태를 뜻해요. 'wild animals', 'wildflowers', 'wild guess'(막연한 추측), 'go wild'(열광하다/날뛰다), 'wild about ~'(~에 푹 빠진)처럼 쓰여요. 'wildlife'는 야생 동물, 'the wild'는 야생(in the wild, 야생에서), 'run wild'는 제멋대로 날뛰다예요. 'Wild West'는 미국 서부 개척 시대, 'wildfire'는 산불이에요. 구어에서 'That's wild!'는 놀랍다·말도 안 돼라는 감탄이에요.",
+  "also": [
+   {
+    "w": "wildly",
+    "pos": "adv",
+    "ko": "격렬하게, 몹시",
+    "en": "The crowd cheered **wildly**."
+   },
+   {
+    "w": "wilds",
+    "pos": "n",
+    "ko": "황야",
+    "en": "They explored the **wilds** of Alaska."
+   }
+  ]
+ },
+ {
+  "w": "will",
+  "pos": "v",
+  "meaning_ko": "~할 것이다, 의지",
+  "example_en": "I **will** call you tomorrow morning to confirm the details.",
+  "example_ko": "내일 아침에 전화해서 세부 사항을 확인할게.",
+  "nuance_ko": "will은 미래, 의지, 즉흥적 결정, 예측을 나타내는 조동사예요. 'I'll help you'(도와줄게)처럼 그 자리에서 결정할 때 쓰고, 미리 계획한 일은 be going to를 더 자주 써요. 'Will you ~?'는 부탁, 'Won't you ~?'는 권유예요. 명사 will은 의지(free will), 유언장(make a will)을 뜻해서 'willpower'(의지력), 'against my will'(내 의사에 반하여)처럼 쓰여요. 구어에서는 I'll, you'll, they'll처럼 줄이고 'll 형태가 forms에 포함돼요.",
+  "also": []
+ },
+ {
+  "w": "willing",
+  "pos": "adj",
+  "meaning_ko": "기꺼이 ~하는",
+  "example_en": "I'm **willing** to work overtime if it helps the team finish on time.",
+  "example_ko": "팀이 제시간에 끝내는 데 도움이 된다면 기꺼이 야근할게.",
+  "nuance_ko": "willing은 'be willing to + 동사원형' 구조로 '기꺼이 ~하다, ~할 의향이 있다'를 뜻해요. 강요가 아닌 자발적인 마음 상태를 나타내서 volunteer(자원자)와 가까워요. 'a willing helper'(기꺼이 돕는 사람), 'willing and able'(의욕과 능력을 갖춘)이 자주 쓰여요. 반대는 unwilling이고 'God willing'은 신의 뜻이라면, 즉 모든 게 순조롭다면이라는 관용구예요. want보다 조건부이고 수동적으로 열려 있다는 느낌이 있어요.",
+  "also": [
+   {
+    "w": "willingly",
+    "pos": "adv",
+    "ko": "기꺼이",
+    "en": "She **willingly** shared her notes."
+   },
+   {
+    "w": "unwilling",
+    "pos": "adj",
+    "ko": "꺼리는",
+    "en": "He was **unwilling** to admit his mistake."
+   }
+  ]
+ },
+ {
+  "w": "win",
+  "pos": "v",
+  "meaning_ko": "이기다, 따다",
+  "example_en": "Our team needs to **win** this game to make it to the finals.",
+  "example_ko": "우리 팀이 결승에 가려면 이 경기를 이겨야 해.",
+  "nuance_ko": "win은 경기·경쟁·상을 이기거나 얻다이고 변화형은 win-won-won이에요. win the game/prize/election처럼 이기는 대상을 목적어로 써서 'win against ~' 대신 'beat ~'(상대를 이기다)를 쓰는 점이 중요해요. 'I beat him / I won the game'을 구별하세요. 'win-win'은 서로에게 이득인 상황, 'win someone over'는 설득해서 내 편으로 만들다, 'you win some, you lose some'은 이길 때도 질 때도 있는 법이라는 위로의 말이에요. 명사 win은 승리예요.",
+  "also": [
+   {
+    "w": "winner",
+    "pos": "n",
+    "ko": "승자",
+    "en": "The **winner** gets a free ticket."
+   },
+   {
+    "w": "winning",
+    "pos": "adj",
+    "ko": "우승한, 이기는",
+    "en": "They celebrated their **winning** goal."
+   }
+  ]
+ },
+ {
+  "w": "wind",
+  "pos": "n",
+  "meaning_ko": "바람, 감다",
+  "example_en": "A strong **wind** knocked over several trees during the storm.",
+  "example_ko": "폭풍우 때 강한 바람이 나무 여러 그루를 쓰러뜨렸어.",
+  "nuance_ko": "wind는 /wɪnd/로 읽으면 바람, /waɪnd/로 읽으면 동사 '감다, 굽이치다'(wind-wound-wound)로 발음과 뜻이 달라져요. 바람은 'a strong wind', 'the wind blows', 'windy'(바람이 부는)처럼 쓰여요. breeze는 산들바람, gale은 강풍, wind는 일반적인 바람이에요. 'get wind of ~'는 ~의 소문을 듣다, 'wind up'은 결국 ~하게 되다/마무리하다, 'in the wind'는 임박한이라는 관용 표현이에요. 'wind chill'은 체감 온도예요.",
+  "also": [
+   {
+    "w": "windy",
+    "pos": "adj",
+    "ko": "바람 부는",
+    "en": "It's too **windy** to use an umbrella."
+   },
+   {
+    "w": "winds",
+    "pos": "n",
+    "ko": "바람들",
+    "en": "Strong **winds** are expected tonight."
+   }
+  ]
+ },
+ {
+  "w": "window",
+  "pos": "n",
+  "meaning_ko": "창문",
+  "example_en": "Could you open the **window**? It's getting really stuffy in here.",
+  "example_ko": "창문 좀 열어줄래? 여기 너무 답답해지고 있어.",
+  "nuance_ko": "window는 건물·차의 창문을 가리키고 컴퓨터 화면의 창(a browser window)도 같은 단어를 써요. 'by the window'(창가에), 'window seat'(창가 좌석), 'window shopping'(아이쇼핑)처럼 쓰여요. 'window of opportunity'는 기회의 창, 즉 짧게 열린 기회를 뜻하는 관용구이고 'out the window'는 완전히 사라진을 뜻해요. 은행·매표소의 창구(ticket window)도 window라고 해요. 건물의 문(door)과 구별되고 유리창은 pane이라 부르기도 해요.",
+  "also": [
+   {
+    "w": "windows",
+    "pos": "n",
+    "ko": "창문들",
+    "en": "All the **windows** were open."
+   }
+  ]
+ },
+ {
+  "w": "wine",
+  "pos": "n",
+  "meaning_ko": "와인, 포도주",
+  "example_en": "Would you like a glass of red **wine** with your steak?",
+  "example_ko": "스테이크와 함께 레드 와인 한 잔 하시겠어요?",
+  "nuance_ko": "wine은 포도주이며 셀 수 없는 명사지만 종류를 말할 때는 셀 수 있어요('a good wine', 'Italian wines'). 한 잔은 a glass of wine, 한 병은 a bottle of wine이에요. red wine, white wine, sparkling wine(스파클링), dessert wine이 대표적이고 'wine list'는 와인 메뉴예요. 와인은 grapes에서, 'winery'는 와이너리(양조장)예요. 'wine and dine'은 대접하며 접대하다라는 뜻이에요. 'It's like fine wine'은 나이가 들수록 좋아진다는 비유로 쓰여요.",
+  "also": [
+   {
+    "w": "wines",
+    "pos": "n",
+    "ko": "와인 종류들",
+    "en": "The restaurant has a great list of **wines**."
+   },
+   {
+    "w": "winery",
+    "pos": "n",
+    "ko": "와이너리",
+    "en": "We toured a local **winery** on Saturday."
+   }
+  ]
+ },
+ {
+  "w": "winter",
+  "pos": "n",
+  "meaning_ko": "겨울",
+  "example_en": "It gets really cold here in **winter**, so bring a warm coat.",
+  "example_ko": "여기는 겨울에 정말 추워지니까 따뜻한 코트 챙겨 와.",
+  "nuance_ko": "winter는 겨울이고 'in winter' 또는 'in the winter'로 씁니다. last winter, this winter는 전치사 없이 써요. 'winter break'는 겨울방학, 'winter coat'는 겨울 코트, 'winter solstice'는 동지예요. 동사로 'winter in Florida'(플로리다에서 겨울을 나다)처럼 쓰는 경우는 드물지만 철새나 사람이 겨울을 보내는 경우에 써요. 'The winter of discontent'는 불만의 겨울을 뜻하는 영국의 정치·문학 표현이고 'wintry'는 겨울 같은, 쌀쌀한이라는 형용사예요.",
+  "also": [
+   {
+    "w": "winters",
+    "pos": "n",
+    "ko": "겨울들",
+    "en": "The **winters** here are long and cold."
+   },
+   {
+    "w": "wintry",
+    "pos": "adj",
+    "ko": "겨울 같은",
+    "en": "We had a cold and **wintry** morning."
+   }
+  ]
+ },
+ {
+  "w": "wish",
+  "pos": "v",
+  "meaning_ko": "바라다, 소원",
+  "example_en": "I **wish** I had more time to travel and see the world.",
+  "example_ko": "여행하면서 세상을 볼 시간이 더 있으면 좋겠어.",
+  "nuance_ko": "wish는 현실과 다른 일을 바라는 마음을 나타내요. 'I wish + 과거형'(현재 사실에 대한 아쉬움, I wish I were rich), 'I wish + had p.p.'(과거에 대한 후회), 'wish for ~'(~을 소원하다)로 쓰여요. hope는 실현 가능한 희망, wish는 불가능하거나 가능성이 낮은 소망이라는 차이가 중요해요. 'Best wishes'는 편지 끝인사, 'make a wish'는 소원을 빌다, 'wish you luck'은 행운을 빌다, 'wishful thinking'은 희망 섞인 생각이에요. 격식 있게 'I wish to ~'는 ~하고 싶다예요.",
+  "also": [
+   {
+    "w": "wishes",
+    "pos": "n",
+    "ko": "소원들",
+    "en": "Send them my best **wishes**."
+   },
+   {
+    "w": "wished",
+    "pos": "v",
+    "ko": "바랐다",
+    "en": "She **wished** on a shooting star."
+   }
+  ]
+ },
+ {
+  "w": "with",
+  "pos": "prep",
+  "meaning_ko": "~와 함께, ~을 가지고",
+  "example_en": "Would you like to have lunch **with** me and my coworkers today?",
+  "example_ko": "오늘 나랑 내 동료들이랑 같이 점심 먹을래?",
+  "nuance_ko": "with는 동반(함께), 도구(~으로), 소유(~이 있는), 상태(~한 채로), 이유(~때문에) 등 매우 다양한 의미를 나타내는 전치사예요. 'go with me', 'cut with a knife', 'a girl with long hair', 'with a smile'처럼 쓰여요. 한국어로 '~와'가 대등한 의미라면 영어 with는 동반이 핵심이라서 'marry with her'가 아닌 'marry her'처럼 with가 불필요한 동사도 있어요. 'agree with ~'(~에 동의하다), 'deal with ~'(~을 다루다), 'be familiar with ~'(~에 익숙하다)처럼 전치사 짝이 정해진 표현이 많아요.",
+  "also": []
+ },
+ {
+  "w": "within",
+  "pos": "prep",
+  "meaning_ko": "~이내에, ~안에",
+  "example_en": "The package should arrive **within** three to five business days.",
+  "example_ko": "소포는 영업일 기준 3~5일 이내에 도착할 거예요.",
+  "nuance_ko": "within은 일정한 범위나 기간 안에 있다는 뜻의 전치사예요. 시간('within an hour', 1시간 이내), 거리('within walking distance', 걸어갈 수 있는 거리), 범위('within the law', 법의 테두리 안에서)에 써요. in은 '~후에'(in an hour)와 '~안에'를 모두 뜻할 수 있지만 within은 기한 이내라는 의미가 명확해요. 'within reach'는 손이 닿는 거리에, 'within limits'는 한도 내에서예요. 'from within'은 내부로부터라는 부사적 표현이에요. 공식 안내문이나 업무 메일에서 자주 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "without",
+  "pos": "prep",
+  "meaning_ko": "~없이",
+  "example_en": "I can't start my day **without** a cup of strong coffee.",
+  "example_ko": "난 진한 커피 한 잔 없이는 하루를 시작할 수 없어.",
+  "nuance_ko": "without은 with의 반대로 '~없이, ~하지 않고'를 나타내는 전치사예요. 'without a doubt'(의심할 여지 없이), 'without exception'(예외 없이), 'do without ~'(~없이 지내다), 'without -ing'(~하지 않고)처럼 쓰여요. 'without + 명사'는 이미 부정의 의미라서 문장에서 not과 함께 쓰면 이중 부정이 되지만 'not without difficulty'(어려움이 없지 않게)처럼 일부러 쓰는 경우도 있어요. 'It goes without saying that ~'(~는 말할 필요도 없다)는 관용 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "woman",
+  "pos": "n",
+  "meaning_ko": "여자, 여성",
+  "example_en": "The **woman** sitting next to me on the train was reading a book in Korean.",
+  "example_ko": "기차에서 내 옆에 앉은 여자분이 한국어 책을 읽고 있었어.",
+  "nuance_ko": "woman은 성인 여성을 가리키고 복수형은 불규칙하게 women(/ˈwɪmɪn/)이에요. 발음이 단수 /ˈwʊmən/과 복수 /ˈwɪmɪn/에서 달라지는 점에 주의하세요. 소녀는 girl, 여성은 woman이며 성인에게 girl을 쓰면 상황에 따라 어리게 대하는 느낌이 들 수 있어요. 직업 앞에 woman을 붙인 'woman doctor'는 불필요하게 성별을 강조한다고 여겨 doctor만 쓰는 추세예요. 'women's rights'(여성의 권리), 'the woman of the house'(안주인)처럼 쓰여요. 소유격에서는 women's 형태를 써요.",
+  "also": [
+   {
+    "w": "women",
+    "pos": "n",
+    "ko": "여성들",
+    "en": "Many **women** attended the conference."
+   },
+   {
+    "w": "womanhood",
+    "pos": "n",
+    "ko": "여성성, 성인 여성이 됨",
+    "en": "She spoke about the challenges of **womanhood**."
+   }
+  ]
+ },
+ {
+  "w": "wonder",
+  "pos": "v",
+  "meaning_ko": "궁금하다, 놀라움",
+  "example_en": "I **wonder** if she's coming to the party tonight or not.",
+  "example_ko": "그녀가 오늘 밤 파티에 올지 안 올지 궁금해.",
+  "nuance_ko": "wonder는 동사로 '궁금해하다, 의아해하다', 명사로 '경이, 놀라운 것'을 뜻해요. 'I wonder if/whether/why ~'는 혼잣말처럼 궁금증을 표현하는 구어 표현이고, 'I was wondering if you could ~'는 아주 정중한 부탁 형태예요(진행형이라 완곡). 'no wonder'는 그럴 만도 하다(No wonder you're tired), 'wonders never cease'는 놀라운 일도 다 있네라는 반어적 표현이에요. 'wonder at ~'은 ~에 경탄하다, 'the seven wonders of the world'는 세계 7대 불가사의예요.",
+  "also": [
+   {
+    "w": "wonderful",
+    "pos": "adj",
+    "ko": "훌륭한, 멋진",
+    "en": "We had a **wonderful** time at the beach."
+   },
+   {
+    "w": "wondered",
+    "pos": "v",
+    "ko": "궁금해했다",
+    "en": "I **wondered** why she left early."
+   }
+  ]
+ },
+ {
+  "w": "wood",
+  "pos": "n",
+  "meaning_ko": "나무(재료), 숲",
+  "example_en": "This table is made of solid **wood**, so it's really heavy.",
+  "example_ko": "이 탁자는 원목으로 만들어져서 정말 무거워.",
+  "nuance_ko": "wood는 재료로서의 나무(셀 수 없는 명사), 땔감, 작은 숲(woods)을 뜻해요. 'made of wood', 'a piece of wood', 'firewood'처럼 쓰고 복수 woods는 숲을 가리켜서 'walk in the woods'(숲속을 걷다)처럼 말해요. forest보다 작고 가까운 숲이 woods예요. 'knock on wood'는 불길한 말을 한 뒤 재수 없는 일을 막으려고 하는 액땜 표현이고 'out of the woods'는 위기를 벗어난, 'can't see the wood for the trees'는 사소한 것에 얽매여 전체를 못 보다예요.",
+  "also": [
+   {
+    "w": "wooden",
+    "pos": "adj",
+    "ko": "나무로 된",
+    "en": "They live in a small **wooden** house."
+   },
+   {
+    "w": "woods",
+    "pos": "n",
+    "ko": "숲",
+    "en": "We went for a walk in the **woods**."
+   }
+  ]
+ },
+ {
+  "w": "word",
+  "pos": "n",
+  "meaning_ko": "단어, 말",
+  "example_en": "I didn't understand a single **word** he said in the meeting.",
+  "example_ko": "그가 회의에서 한 말 중 한 마디도 이해하지 못했어.",
+  "nuance_ko": "word는 단어이면서 말, 약속, 소식을 뜻해요. 'a new word', 'in other words'(다시 말해서), 'word for word'(한 글자 한 글자 그대로), 'keep your word'(약속을 지키다), 'give me your word'(약속해 줘), 'word has it that ~'(소문에 의하면 ~)처럼 다양한 표현이 있어요. 'I'm lost for words'는 말문이 막히다, 'a man of his word'는 약속을 지키는 사람이에요. 'a word of advice'는 충고 한마디, 'the last word'는 최종 결정이나 최신 제품이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "words",
+    "pos": "n",
+    "ko": "단어들, 말",
+    "en": "Choose your **words** carefully."
+   },
+   {
+    "w": "wording",
+    "pos": "n",
+    "ko": "표현, 문구",
+    "en": "The **wording** of the contract is unclear."
+   }
+  ]
+ },
+ {
+  "w": "work",
+  "pos": "v",
+  "meaning_ko": "일하다, 작동하다",
+  "example_en": "The new software doesn't **work** properly on my old laptop.",
+  "example_ko": "새 소프트웨어가 내 오래된 노트북에서는 제대로 작동하지 않아.",
+  "nuance_ko": "work는 일하다(사람), 작동하다(기계), 효과가 있다(계획·약)라는 세 가지 핵심 뜻이 있어요. 'work at/for/in ~'(~에서 일하다), 'It works!'(잘 돼!), 'That works for me'(난 괜찮아, 일정 조율에서 자주)처럼 쓰여요. 명사 work는 셀 수 없는 일·작업이며 '작품'(a work of art)일 때만 셀 수 있어요. job은 직업이고 work는 일 자체예요. 'work out'은 운동하다/잘 풀리다/해결하다, 'work on ~'은 ~에 매달리다, 'work from home'은 재택근무를 뜻해요.",
+  "also": [
+   {
+    "w": "working",
+    "pos": "adj",
+    "ko": "일하는, 작동하는",
+    "en": "I'm a **working** mother of two."
+   },
+   {
+    "w": "worker",
+    "pos": "n",
+    "ko": "노동자",
+    "en": "The factory hired fifty new **workers**."
+   }
+  ]
+ },
+ {
+  "w": "world",
+  "pos": "n",
+  "meaning_ko": "세계, 세상",
+  "example_en": "She has traveled all around the **world** since she retired.",
+  "example_ko": "그녀는 은퇴한 이후 세계 곳곳을 여행해 왔어.",
+  "nuance_ko": "world는 지구와 그 안의 사람들, 또는 특정 영역의 세계(the business world, the animal world)를 뜻해요. 'around the world', 'all over the world'(전 세계에서), 'the whole world'(온 세상)처럼 쓰여요. 'the world' 앞에는 보통 정관사를 붙이고 'the real world'(현실 세계), 'in the world'(세상에서, 의문문 강조 'What in the world ~?', 도대체 무슨 ~), 'worldwide'(전 세계적인)가 자주 쓰여요. 'It's a small world'는 우연히 아는 사람을 만났을 때 쓰는 말이에요. 'the best in the world'(세계 최고)도 흔해요.",
+  "also": [
+   {
+    "w": "worlds",
+    "pos": "n",
+    "ko": "세계들",
+    "en": "The two **worlds** are very different."
+   },
+   {
+    "w": "worldly",
+    "pos": "adj",
+    "ko": "세속적인",
+    "en": "He gave up all his **worldly** possessions."
+   }
+  ]
+ },
+ {
+  "w": "worry",
+  "pos": "v",
+  "meaning_ko": "걱정하다, 걱정",
+  "example_en": "Don't **worry** about the report; I'll finish it before the meeting.",
+  "example_ko": "보고서는 걱정하지 마, 회의 전에 내가 끝낼게.",
+  "nuance_ko": "worry는 걱정하다(동사)와 걱정(명사)이에요. 'worry about ~'(~을 걱정하다), 'be worried about ~'(~을 걱정하고 있다), 'worry that ~'처럼 쓰고 사람이 걱정하는 상태는 worried, 걱정스러운 상황은 worrying이라고 해요. 'Don't worry!'(걱정하지 마), 'No worries'(괜찮아요, 영국·호주 구어), 'Not to worry'(걱정할 것 없어요)는 위로나 가벼운 응답이에요. 'worry sick'은 걱정으로 몸이 아플 지경이라는 강조 표현이에요. 'Worry' 명사는 'financial worries'(재정적 걱정)처럼 복수로 자주 써요.",
+  "also": [
+   {
+    "w": "worried",
+    "pos": "adj",
+    "ko": "걱정하는",
+    "en": "I'm **worried** about the exam."
+   },
+   {
+    "w": "worrying",
+    "pos": "adj",
+    "ko": "걱정스러운",
+    "en": "The news is quite **worrying**."
+   }
+  ]
+ },
+ {
+  "w": "worse",
+  "pos": "adj",
+  "meaning_ko": "더 나쁜",
+  "example_en": "The traffic was even **worse** than I expected this morning.",
+  "example_ko": "오늘 아침 교통 상황이 내 예상보다 훨씬 더 나빴어.",
+  "nuance_ko": "worse는 bad와 ill의 비교급으로 '더 나쁜, 더 악화된'이라는 뜻이에요. 형용사(The weather is worse)와 부사(He plays worse)로 모두 쓰이고 최상급은 worst예요. 'get worse'(악화되다), 'make things worse'(상황을 더 나쁘게 하다), 'from bad to worse'(점점 더 나빠져), 'worse luck'(운 나쁘게도), 'for better or worse'(좋든 나쁘든)처럼 쓰여요. more bad라고 하지 않고 반드시 worse라고 해야 해요. 'Even worse'는 설상가상이라는 뜻으로 대화 전환에 자주 쓰여요.",
+  "also": [
+   {
+    "w": "worst",
+    "pos": "adj",
+    "ko": "최악의",
+    "en": "That was the **worst** movie I've ever seen."
+   },
+   {
+    "w": "worsen",
+    "pos": "v",
+    "ko": "악화되다",
+    "en": "His condition may **worsen** overnight."
+   }
+  ]
+ },
+ {
+  "w": "worth",
+  "pos": "adj",
+  "meaning_ko": "~할 가치가 있는",
+  "example_en": "This museum is definitely **worth** a visit if you have a free afternoon.",
+  "example_ko": "오후에 시간이 나면 이 박물관은 꼭 가볼 만해.",
+  "nuance_ko": "worth는 'be worth + 명사/-ing'로 '~할 가치가 있다'를 뜻하는 형용사예요. 'worth a try', 'worth seeing', 'worth the money'처럼 가치나 값어치가 있다는 의미예요. 전치사처럼 뒤에 바로 명사나 동명사가 오는 특이한 단어라서 'worth to see'는 틀리고 'worth seeing'이 맞아요. 명사 worth는 가치·재산('net worth', 순자산)을 뜻하고 'ten dollars' worth of gas'처럼 '~어치'를 말해요. 'for what it's worth'(참고로 말하자면), 'worth it'(그럴 가치가 있는)은 대화에서 자주 써요.",
+  "also": [
+   {
+    "w": "worthy",
+    "pos": "adj",
+    "ko": "가치 있는",
+    "en": "He is **worthy** of the award."
+   },
+   {
+    "w": "worthless",
+    "pos": "adj",
+    "ko": "가치 없는",
+    "en": "The old coins turned out to be **worthless**."
+   }
+  ]
+ },
+ {
+  "w": "would",
+  "pos": "v",
+  "meaning_ko": "~할 것이다, ~하곤 했다",
+  "example_en": "I **would** love to join you for dinner, but I have another plan.",
+  "example_ko": "정말 같이 저녁 먹고 싶은데 다른 약속이 있어.",
+  "nuance_ko": "would는 will의 과거형이면서 정중한 요청, 가정, 과거의 습관을 나타내는 조동사예요. 'Would you mind ~?', 'Would you like ~?'는 정중한 요청·제안이고 'I would (I'd) love to'는 기꺼이 하고 싶다는 표현이에요. 가정법에서 'If I were you, I would ~'(내가 너라면 ~할 텐데), 과거 습관에서 'We would go fishing every summer'(우리는 여름마다 낚시하러 가곤 했다)로 쓰여요. 'would rather'는 차라리 ~하겠다, 'wouldn't'는 would not의 줄임말이에요.",
+  "also": []
+ },
+ {
+  "w": "write",
+  "pos": "v",
+  "meaning_ko": "쓰다, 작성하다",
+  "example_en": "Please **write** your name and phone number on the form.",
+  "example_ko": "양식에 이름과 전화번호를 써 주세요.",
+  "nuance_ko": "write는 글자를 쓰거나 글·편지·코드를 작성하는 동사이고 변화형은 write-wrote-written이에요. 'write to someone'(미국에서는 write someone), 'write about ~'(~에 관해 쓰다), 'write down'(적어두다), 'write back'(답장하다), 'write off'(손실로 처리하다/포기하다)처럼 쓰여요. 'put it in writing'은 문서로 남기다, 'writer'는 작가, 'handwriting'은 손글씨예요. type은 자판으로 치는 것이고 write는 손으로 쓰거나 창작하는 것이에요. 이메일을 쓸 때 'write an email'이라고 해요.",
+  "also": [
+   {
+    "w": "written",
+    "pos": "adj",
+    "ko": "서면의, 쓰인",
+    "en": "I need a **written** statement."
+   },
+   {
+    "w": "writer",
+    "pos": "n",
+    "ko": "작가",
+    "en": "She is a famous **writer** in Korea."
+   }
+  ]
+ },
+ {
+  "w": "wrong",
+  "pos": "adj",
+  "meaning_ko": "잘못된, 틀린",
+  "example_en": "I think I took the **wrong** exit, so we might be a bit late.",
+  "example_ko": "출구를 잘못 나온 것 같아서 우리 좀 늦을지도 몰라.",
+  "nuance_ko": "wrong은 틀린, 잘못된, 부적절한, 나쁜을 뜻하고 반대는 right예요. 'the wrong answer', 'the wrong number'(잘못 걸린 전화), 'What's wrong?'(무슨 일이야?), 'Something is wrong'(뭔가 잘못됐어), 'go wrong'(잘못되다), 'You're wrong'(네가 틀렸어)처럼 쓰여요. 'wrong'은 사실이 틀린 경우와 도덕적으로 나쁜 경우를 모두 포함해요. 'prove someone wrong'은 틀렸음을 증명하다, 'on the wrong foot'은 처음부터 어긋난, 'get it wrong'은 오해하다예요. 명사로는 '잘못, 부당함'(right and wrong)이에요.",
+  "also": [
+   {
+    "w": "wrongly",
+    "pos": "adv",
+    "ko": "잘못하여",
+    "en": "He was **wrongly** accused of the crime."
+   },
+   {
+    "w": "wrongs",
+    "pos": "n",
+    "ko": "잘못들",
+    "en": "They tried to right the **wrongs** of the past."
+   }
+  ]
+ },
+ {
+  "w": "yard",
+  "pos": "n",
+  "meaning_ko": "마당, 야드(길이)",
+  "example_en": "The kids are playing soccer in the **yard** behind our house.",
+  "example_ko": "애들이 우리 집 뒤 마당에서 축구하고 있어.",
+  "nuance_ko": "yard는 집 주변의 마당 또는 길이 단위 야드(약 0.91m)를 뜻해요. 미국에서는 집 앞뒤의 잔디밭을 yard, 영국에서는 garden이라고 부르는 경우가 많아요. 'backyard'(뒷마당), 'front yard'(앞마당), 'schoolyard'(운동장), 'junkyard'(폐차장), 'shipyard'(조선소)처럼 합성어가 흔하고, 'Scotland Yard'는 런던 경찰청의 별칭이에요. 길이 단위일 때는 'ten yards'처럼 복수로 말하고 미식축구에서 자주 나와요. 'the whole nine yards'는 모든 것을 다하는, 풀코스로라는 관용구예요.",
+  "also": []
+ },
+ {
+  "w": "yards",
+  "pos": "n",
+  "meaning_ko": "야드(복수), 마당들",
+  "example_en": "He ran for fifty **yards** before the other team caught him.",
+  "example_ko": "그는 상대 팀에게 잡히기 전에 50야드를 달렸어.",
+  "nuance_ko": "yards는 yard의 복수형이지만 이 단어 자체로 길이 단위 '야드'를 가리키는 일이 많아요. 숫자와 함께 쓸 때 'fifty yards'(약 46m)처럼 복수를 써요. 미식축구에서는 'rushing yards'(러싱 야드), 'a ten-yard pass'처럼 거리 기록에 자주 나와요. 골프나 스포츠 중계에서 'within a hundred yards'(100야드 이내)도 흔한 표현이에요. 비유적으로 'yards ahead of ~'는 ~보다 훨씬 앞선다는 구어 표현이에요. 마당들(여러 집 마당)을 말할 때도 복수가 쓰여요.",
+  "also": []
+ },
+ {
+  "w": "year",
+  "pos": "n",
+  "meaning_ko": "해, 년",
+  "example_en": "I've lived in this city for almost five **years** now.",
+  "example_ko": "난 이 도시에서 이제 거의 5년째 살고 있어.",
+  "nuance_ko": "year는 1년이라는 기간이나 해를 나타내고 나이를 말할 때도 쓰여요('She is ten years old'). 'this year', 'last year', 'next year'에는 전치사가 필요 없고 'in 2020', 'for two years', 'every year'처럼 쓰여요. 'a year ago'(1년 전), 'year after year'(해마다), 'all year round'(연중 내내), 'happy New Year'(새해 복 많이 받으세요)가 대표적이에요. 학년도 year로 써서 'first-year student'(1학년생), 'school year'(학년도)라고 해요. 'year' 뒤에 -old를 붙이는 'a ten-year-old boy'는 하이픈과 단수형이 중요해요.",
+  "also": [
+   {
+    "w": "years",
+    "pos": "n",
+    "ko": "몇 년",
+    "en": "It took several **years** to finish."
+   },
+   {
+    "w": "yearly",
+    "pos": "adj",
+    "ko": "매년의",
+    "en": "We have a **yearly** health check."
+   }
+  ]
+ },
+ {
+  "w": "yellow",
+  "pos": "adj",
+  "meaning_ko": "노란, 노란색",
+  "example_en": "She was wearing a bright **yellow** raincoat on the cloudy day.",
+  "example_ko": "구름 낀 날에 그녀는 밝은 노란색 비옷을 입고 있었어.",
+  "nuance_ko": "yellow는 노란색이고 형용사와 명사로 모두 쓰여요. 햇빛, 레몬, 바나나, 신호등의 주의 신호 등과 연결돼요. 'yellow card'는 축구의 경고 카드, 'yellow pages'는 업종별 전화번호부, 'yellow fever'는 황열병이에요. 구어에서 yellow는 '겁이 많은, 비겁한'(He's yellow)이라는 뜻의 속어로도 쓰이지만 이것은 요즘 덜 쓰이고 인종 차별적인 용법과 혼동될 수 있으니 주의하세요. 'yellowish'는 누르스름한, 'yellowing'은 누렇게 변하는이에요.",
+  "also": [
+   {
+    "w": "yellowish",
+    "pos": "adj",
+    "ko": "누르스름한",
+    "en": "The old paper had turned **yellowish**."
+   }
+  ]
+ },
+ {
+  "w": "yes",
+  "pos": "int",
+  "meaning_ko": "네, 예",
+  "example_en": "**Yes**, I'd love to come to the party. What time does it start?",
+  "example_ko": "네, 파티에 정말 가고 싶어요. 몇 시에 시작해요?",
+  "nuance_ko": "yes는 긍정이나 동의의 대답이고, 부정 의문문에서는 한국어와 대답 방식이 달라서 주의해야 해요. 'Don't you like it?'에 좋아하면 'Yes, I do'(아니, 좋아해), 싫어하면 'No, I don't'(응, 싫어)처럼 영어는 내용에 따라 yes/no를 선택해요. 구어체로는 yeah, yep, yup이 흔하고 'yes' 자체가 격식 있는 느낌이에요. 'Yes!'라고 외치는 것은 성공했을 때의 환호예요. 'say yes to ~'는 ~을 받아들이다, 'yes-man'은 무조건 맞장구치는 사람이에요.",
+  "also": [
+   {
+    "w": "yeah",
+    "pos": "int",
+    "ko": "응(구어)",
+    "en": "**Yeah**, that sounds good to me."
+   },
+   {
+    "w": "yep",
+    "pos": "int",
+    "ko": "응, 그래",
+    "en": "**Yep**, I'll be there."
+   }
+  ]
+ },
+ {
+  "w": "yesterday",
+  "pos": "adv",
+  "meaning_ko": "어제",
+  "example_en": "I saw an old friend from high school at the mall **yesterday**.",
+  "example_ko": "어제 쇼핑몰에서 고등학교 때 친구를 우연히 봤어.",
+  "nuance_ko": "yesterday는 오늘의 바로 전날을 뜻하고 부사와 명사로 쓰여요. 'yesterday morning'(어제 아침), 'the day before yesterday'(그저께), 'yesterday evening'(어제 저녁)처럼 쓰지만 'yesterday night'는 어색하고 'last night'(어젯밤)이 자연스러워요. 전치사 없이 쓰이는 점도 기억하세요. 'I wasn't born yesterday'는 나를 쉽게 속일 수 없다, 나는 바보가 아니다라는 관용 표현이에요. 'Yesterday' 노래로도 유명하고 과거 시제와 함께 써요.",
+  "also": []
+ },
+ {
+  "w": "yet",
+  "pos": "adv",
+  "meaning_ko": "아직, 그래도",
+  "example_en": "I haven't finished my homework **yet**, so I can't go out.",
+  "example_ko": "아직 숙제를 다 못 끝내서 못 나가.",
+  "nuance_ko": "yet은 부정문·의문문에서 '아직, 벌써'를 뜻하고 현재완료와 잘 어울려요('Have you eaten yet?', 'I haven't eaten yet'). 긍정문에서는 '그런데도, 하지만'이라는 접속사로 쓰여서 'simple yet elegant'(단순하지만 우아한)처럼 대조를 나타내요. 'not yet'은 아직 아니라는 짧은 대답, 'yet another'는 또 하나의, 'as yet'은 지금까지는이라는 격식 표현이에요. still(여전히)과 구별해서 yet은 기대가 아직 이루어지지 않은 상태를 강조해요. 비교급 강조 'yet more'도 쓸 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "you",
+  "pos": "pron",
+  "meaning_ko": "너, 당신, 여러분",
+  "example_en": "Thank **you** so much for helping me move last weekend.",
+  "example_ko": "지난 주말에 이사 도와줘서 정말 고마워.",
+  "nuance_ko": "you는 2인칭 대명사로 단수와 복수 모두에 쓰이고 주격과 목적격이 같은 형태예요. 한국어와 달리 높임말 구분이 없어서 you 하나로 친구와 상사 모두에게 말해요. 일반적인 사람을 가리키는 you('You should always check the date', 누구나)도 구어에서 흔해요. 소유격은 your, 소유대명사는 yours, 재귀는 yourself(단수)/yourselves(복수)예요. 복수를 분명히 하려고 미국 남부에서는 y'all, 다른 지역에서는 you guys를 써요. 'Thank you'와 'You're welcome'은 기본 인사 표현이에요.",
+  "also": [
+   {
+    "w": "your",
+    "pos": "det",
+    "ko": "너의",
+    "en": "Is this **your** bag?"
+   },
+   {
+    "w": "yourself",
+    "pos": "pron",
+    "ko": "너 자신",
+    "en": "Please help **yourself** to some snacks."
+   }
+  ]
+ },
+ {
+  "w": "young",
+  "pos": "adj",
+  "meaning_ko": "젊은, 어린",
+  "example_en": "When I was **young**, I spent every summer at my grandparents' farm.",
+  "example_ko": "어렸을 때 매년 여름을 조부모님 농장에서 보냈어.",
+  "nuance_ko": "young은 나이가 어리거나 젊은 상태를 나타내는 형용사예요. 사람, 동물, 회사, 아이디어 등에 쓰고 'a young man', 'young people', 'the young'(젊은 사람들)처럼 써요. 'young at heart'는 마음만은 젊은, 'You're only young once'는 젊음은 한 번뿐이다라는 격려로 쓰여요. old의 반대이고 중년 이후 사람에게 'You look young'은 칭찬이지만 성인에게 '어리다'고 하는 것은 무시처럼 들릴 수 있어요. 명사로 동물의 새끼들(the young)을 가리키기도 해요.",
+  "also": [
+   {
+    "w": "younger",
+    "pos": "adj",
+    "ko": "더 젊은",
+    "en": "My **younger** brother is still in school."
+   },
+   {
+    "w": "youngster",
+    "pos": "n",
+    "ko": "젊은이, 아이",
+    "en": "The **youngster** won first prize."
+   }
+  ]
+ },
+ {
+  "w": "zero",
+  "pos": "num",
+  "meaning_ko": "영, 0",
+  "example_en": "The temperature dropped to below **zero** last night, so the roads were icy.",
+  "example_ko": "어젯밤에 기온이 영하로 떨어져서 도로가 얼었어.",
+  "nuance_ko": "zero는 숫자 0이고 영국에서는 nought, 전화번호나 번호를 읽을 때는 oh라고 읽기도 해요. 'below zero'(영하), 'zero tolerance'(무관용), 'zero chance'(가능성 제로), 'ground zero'(폭심지/출발점)처럼 쓰여요. 'start from zero'는 처음부터 시작하다, 'zero in on ~'은 ~에 정확히 초점을 맞추다는 구동사예요. 'zero-sum'은 한쪽의 이득이 다른 쪽의 손실이 되는 상황을 가리키는 경제 용어예요. 성적 0점은 'a zero' 또는 'zero points'라고 표현해요.",
+  "also": [
+   {
+    "w": "zeros",
+    "pos": "n",
+    "ko": "영(복수)",
+    "en": "Add three **zeros** to the number."
+   }
+  ]
+ }
+]

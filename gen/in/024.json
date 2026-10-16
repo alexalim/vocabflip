@@ -1,0 +1,983 @@
+[
+ {
+  "w": "festival",
+  "lvl": "3k",
+  "forms": [
+   "festivals"
+  ]
+ },
+ {
+  "w": "fibre",
+  "lvl": "3k",
+  "forms": [
+   "fibres",
+   "fibrous",
+   "fibers",
+   "fiber"
+  ]
+ },
+ {
+  "w": "fiction",
+  "lvl": "3k",
+  "forms": [
+   "fictional",
+   "fictions",
+   "nonfiction"
+  ]
+ },
+ {
+  "w": "fierce",
+  "lvl": "3k",
+  "forms": [
+   "fiercely",
+   "fiercest",
+   "fiercer",
+   "fierceness"
+  ]
+ },
+ {
+  "w": "filter",
+  "lvl": "3k",
+  "forms": [
+   "filters",
+   "filtration",
+   "filtered",
+   "filtering",
+   "unfiltered",
+   "filtrate",
+   "filtrated",
+   "filtrations"
+  ]
+ },
+ {
+  "w": "firms",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "flavour",
+  "lvl": "3k",
+  "forms": [
+   "flavoured",
+   "flavours",
+   "flavouring",
+   "flavourings",
+   "flavor",
+   "flavors",
+   "flavored",
+   "flavoring"
+  ]
+ },
+ {
+  "w": "flee",
+  "lvl": "3k",
+  "forms": [
+   "fled",
+   "fleeing",
+   "flees"
+  ]
+ },
+ {
+  "w": "flesh",
+  "lvl": "3k",
+  "forms": [
+   "fleshy",
+   "fleshed",
+   "fleshing",
+   "fleshly",
+   "fleshes",
+   "fleshiness"
+  ]
+ },
+ {
+  "w": "flexible",
+  "lvl": "3k",
+  "forms": [
+   "flexibility",
+   "inflexible",
+   "flexibly",
+   "inflexibility",
+   "inflexibly"
+  ]
+ },
+ {
+  "w": "focus",
+  "lvl": "3k",
+  "forms": [
+   "focused",
+   "focusing",
+   "focuses",
+   "focussed",
+   "foci",
+   "focussing",
+   "unfocused",
+   "focusses"
+  ]
+ },
+ {
+  "w": "forecast",
+  "lvl": "3k",
+  "forms": [
+   "forecasts",
+   "forecasting",
+   "forecasters",
+   "forecaster",
+   "forecasted"
+  ]
+ },
+ {
+  "w": "formal",
+  "lvl": "3k",
+  "forms": [
+   "formally",
+   "formality",
+   "formalities",
+   "formalized",
+   "formalised",
+   "formalism",
+   "formalist",
+   "formalists"
+  ]
+ },
+ {
+  "w": "format",
+  "lvl": "3k",
+  "forms": [
+   "formats",
+   "formatting",
+   "formatted"
+  ]
+ },
+ {
+  "w": "formation",
+  "lvl": "3k",
+  "forms": [
+   "formations"
+  ]
+ },
+ {
+  "w": "former",
+  "lvl": "3k",
+  "forms": [
+   "formerly"
+  ]
+ },
+ {
+  "w": "formula",
+  "lvl": "3k",
+  "forms": [
+   "formulation",
+   "formulated",
+   "formulate",
+   "formulae",
+   "formulating",
+   "formulations",
+   "formulas",
+   "reformulation"
+  ]
+ },
+ {
+  "w": "foster",
+  "lvl": "3k",
+  "forms": [
+   "fostering",
+   "fostered",
+   "fosters"
+  ]
+ },
+ {
+  "w": "foundation",
+  "lvl": "3k",
+  "forms": [
+   "foundations"
+  ]
+ },
+ {
+  "w": "founded",
+  "lvl": "3k",
+  "forms": [
+   "founder",
+   "founding",
+   "founders",
+   "unfounded",
+   "founds"
+  ]
+ },
+ {
+  "w": "fragment",
+  "lvl": "3k",
+  "forms": [
+   "fragments",
+   "fragmented",
+   "fragmentation",
+   "fragmentary",
+   "fragmenting"
+  ]
+ },
+ {
+  "w": "framework",
+  "lvl": "3k",
+  "forms": [
+   "frameworks"
+  ]
+ },
+ {
+  "w": "frequency",
+  "lvl": "3k",
+  "forms": [
+   "frequencies",
+   "infrequency"
+  ]
+ },
+ {
+  "w": "frequent",
+  "lvl": "3k",
+  "forms": [
+   "frequently",
+   "infrequent",
+   "infrequently",
+   "frequented",
+   "frequenting",
+   "frequents"
+  ]
+ },
+ {
+  "w": "fuel",
+  "lvl": "3k",
+  "forms": [
+   "fuels",
+   "fuelled",
+   "fuelling",
+   "fueled",
+   "fueling"
+  ]
+ },
+ {
+  "w": "fulfil",
+  "lvl": "3k",
+  "forms": [
+   "fulfilled",
+   "fulfilment",
+   "fulfilling",
+   "fulfils",
+   "unfulfilled",
+   "fulfill",
+   "fulfillment",
+   "fulfilments"
+  ]
+ },
+ {
+  "w": "function",
+  "lvl": "3k",
+  "forms": [
+   "functions",
+   "functional",
+   "functioning",
+   "functionality",
+   "functionalist",
+   "functionally",
+   "functioned",
+   "functionalism"
+  ]
+ },
+ {
+  "w": "fundamental",
+  "lvl": "3k",
+  "forms": [
+   "fundamentally",
+   "fundamentalist",
+   "fundamentals",
+   "fundamentalists",
+   "fundamentalism"
+  ]
+ },
+ {
+  "w": "funeral",
+  "lvl": "3k",
+  "forms": [
+   "funerals"
+  ]
+ },
+ {
+  "w": "furthermore",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "gallery",
+  "lvl": "3k",
+  "forms": [
+   "galleries",
+   "galleried"
+  ]
+ },
+ {
+  "w": "gang",
+  "lvl": "3k",
+  "forms": [
+   "gangs",
+   "ganged",
+   "ganging"
+  ]
+ },
+ {
+  "w": "gap",
+  "lvl": "3k",
+  "forms": [
+   "gaps",
+   "gappy",
+   "gapped"
+  ]
+ },
+ {
+  "w": "gaze",
+  "lvl": "3k",
+  "forms": [
+   "gazed",
+   "gazing",
+   "gazes"
+  ]
+ },
+ {
+  "w": "gender",
+  "lvl": "3k",
+  "forms": [
+   "gendered",
+   "genders"
+  ]
+ },
+ {
+  "w": "gene",
+  "lvl": "3k",
+  "forms": [
+   "genes"
+  ]
+ },
+ {
+  "w": "generate",
+  "lvl": "3k",
+  "forms": [
+   "generated",
+   "generating",
+   "generates",
+   "generative",
+   "generatively"
+  ]
+ },
+ {
+  "w": "generous",
+  "lvl": "3k",
+  "forms": [
+   "generosity",
+   "generously",
+   "ungenerous",
+   "generosities"
+  ]
+ },
+ {
+  "w": "genetic",
+  "lvl": "3k",
+  "forms": [
+   "genetically",
+   "genetics",
+   "geneticists",
+   "geneticist"
+  ]
+ },
+ {
+  "w": "genuine",
+  "lvl": "3k",
+  "forms": [
+   "genuinely",
+   "genuineness"
+  ]
+ },
+ {
+  "w": "geography",
+  "lvl": "3k",
+  "forms": [
+   "geographical",
+   "geographically",
+   "geographic",
+   "geographers",
+   "geographer",
+   "geographies"
+  ]
+ },
+ {
+  "w": "gesture",
+  "lvl": "3k",
+  "forms": [
+   "gestures",
+   "gestured",
+   "gesturing"
+  ]
+ },
+ {
+  "w": "global",
+  "lvl": "3k",
+  "forms": [
+   "globally",
+   "globalization",
+   "globalisation",
+   "globalizing",
+   "globalised",
+   "globalism",
+   "globalise",
+   "globalized"
+  ]
+ },
+ {
+  "w": "glow",
+  "lvl": "3k",
+  "forms": [
+   "glowing",
+   "glowed",
+   "glows",
+   "glowingly"
+  ]
+ },
+ {
+  "w": "goods",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "gradual",
+  "lvl": "3k",
+  "forms": [
+   "gradually",
+   "gradualism",
+   "gradualist"
+  ]
+ },
+ {
+  "w": "graduate",
+  "lvl": "3k",
+  "forms": [
+   "graduates",
+   "graduated",
+   "graduating",
+   "graduation",
+   "grad",
+   "graduations",
+   "grads"
+  ]
+ },
+ {
+  "w": "grain",
+  "lvl": "3k",
+  "forms": [
+   "grains",
+   "grained",
+   "grainy"
+  ]
+ },
+ {
+  "w": "graphic",
+  "lvl": "3k",
+  "forms": [
+   "graphics",
+   "graphical",
+   "graphically"
+  ]
+ },
+ {
+  "w": "grasp",
+  "lvl": "3k",
+  "forms": [
+   "grasped",
+   "grasping",
+   "grasps"
+  ]
+ },
+ {
+  "w": "grateful",
+  "lvl": "3k",
+  "forms": [
+   "gratefully",
+   "ungrateful",
+   "ungratefully",
+   "gratefulness",
+   "ungratefulness"
+  ]
+ },
+ {
+  "w": "grave",
+  "lvl": "3k",
+  "forms": [
+   "graves"
+  ]
+ },
+ {
+  "w": "gravity",
+  "lvl": "3k",
+  "forms": [
+   "gravitational",
+   "gravitation",
+   "gravitate",
+   "gravitated",
+   "gravitating",
+   "gravities",
+   "gravitates"
+  ]
+ },
+ {
+  "w": "greet",
+  "lvl": "3k",
+  "forms": [
+   "greeted",
+   "greeting",
+   "greetings",
+   "greets"
+  ]
+ },
+ {
+  "w": "grip",
+  "lvl": "3k",
+  "forms": [
+   "gripped",
+   "grips",
+   "gripping",
+   "gripper",
+   "grippers"
+  ]
+ },
+ {
+  "w": "gross",
+  "lvl": "3k",
+  "forms": [
+   "grossly",
+   "grossness",
+   "grosser",
+   "grossest"
+  ]
+ },
+ {
+  "w": "guideline",
+  "lvl": "3k",
+  "forms": [
+   "guidelines"
+  ]
+ },
+ {
+  "w": "guitar",
+  "lvl": "3k",
+  "forms": [
+   "guitars",
+   "guitarist",
+   "guitarists"
+  ]
+ },
+ {
+  "w": "halt",
+  "lvl": "3k",
+  "forms": [
+   "halted",
+   "halting",
+   "halts",
+   "haltingly"
+  ]
+ },
+ {
+  "w": "harbor",
+  "lvl": "3k",
+  "forms": [
+   "harbour",
+   "harbours",
+   "harbouring",
+   "harboured",
+   "harboring",
+   "harbored",
+   "harbors"
+  ]
+ },
+ {
+  "w": "harsh",
+  "lvl": "3k",
+  "forms": [
+   "harshly",
+   "harsher",
+   "harshness",
+   "harshest"
+  ]
+ },
+ {
+  "w": "hazard",
+  "lvl": "3k",
+  "forms": [
+   "hazards",
+   "hazardous",
+   "hazarded",
+   "hazarding",
+   "hazardously",
+   "nonhazardous"
+  ]
+ },
+ {
+  "w": "headquarters",
+  "lvl": "3k",
+  "forms": [
+   "hq",
+   "headquartered",
+   "hqs"
+  ]
+ },
+ {
+  "w": "heal",
+  "lvl": "3k",
+  "forms": [
+   "healing",
+   "healed",
+   "healer",
+   "healers",
+   "heals",
+   "healings"
+  ]
+ },
+ {
+  "w": "heel",
+  "lvl": "3k",
+  "forms": [
+   "heels",
+   "heeled"
+  ]
+ },
+ {
+  "w": "hence",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "heritage",
+  "lvl": "3k",
+  "forms": [
+   "heritages"
+  ]
+ },
+ {
+  "w": "highlight",
+  "lvl": "3k",
+  "forms": [
+   "highlighted",
+   "highlights",
+   "highlighting",
+   "highlighter",
+   "highlighters"
+  ]
+ },
+ {
+  "w": "highway",
+  "lvl": "3k",
+  "forms": [
+   "highways"
+  ]
+ },
+ {
+  "w": "hint",
+  "lvl": "3k",
+  "forms": [
+   "hints",
+   "hinted",
+   "hinting"
+  ]
+ },
+ {
+  "w": "hip",
+  "lvl": "3k",
+  "forms": [
+   "hips",
+   "hipped"
+  ]
+ },
+ {
+  "w": "holy",
+  "lvl": "3k",
+  "forms": [
+   "holiness",
+   "unholy",
+   "holier",
+   "holiest",
+   "unholiness",
+   "unholier",
+   "unholiest"
+  ]
+ },
+ {
+  "w": "horror",
+  "lvl": "3k",
+  "forms": [
+   "horrors"
+  ]
+ },
+ {
+  "w": "host",
+  "lvl": "3k",
+  "forms": [
+   "hosts",
+   "hostess",
+   "hosted",
+   "hosting",
+   "hostesses"
+  ]
+ },
+ {
+  "w": "hostile",
+  "lvl": "3k",
+  "forms": [
+   "hostility",
+   "hostilities",
+   "hostiles"
+  ]
+ },
+ {
+  "w": "household",
+  "lvl": "3k",
+  "forms": [
+   "households"
+  ]
+ },
+ {
+  "w": "humour",
+  "lvl": "3k",
+  "forms": [
+   "humorous",
+   "humoured",
+   "humourless",
+   "humorously",
+   "humours",
+   "humouredly",
+   "humouring",
+   "humorist"
+  ]
+ },
+ {
+  "w": "hypothesis",
+  "lvl": "3k",
+  "forms": [
+   "hypotheses",
+   "hypothesized",
+   "hypothesised",
+   "hypothesize",
+   "hypothesise",
+   "hypothesising",
+   "hypothesizing",
+   "hypothesises"
+  ]
+ },
+ {
+  "w": "ideal",
+  "lvl": "3k",
+  "forms": [
+   "ideally",
+   "ideals",
+   "idealism",
+   "idealist",
+   "idealized",
+   "idealised",
+   "idealists",
+   "idealization"
+  ]
+ },
+ {
+  "w": "identity",
+  "lvl": "3k",
+  "forms": [
+   "identities"
+  ]
+ },
+ {
+  "w": "ideology",
+  "lvl": "3k",
+  "forms": [
+   "ideologies",
+   "ideologists",
+   "ideologist"
+  ]
+ },
+ {
+  "w": "immigrant",
+  "lvl": "3k",
+  "forms": [
+   "immigrants"
+  ]
+ },
+ {
+  "w": "immune",
+  "lvl": "3k",
+  "forms": [
+   "immunity",
+   "immunisation",
+   "immunities",
+   "immunised",
+   "immunization",
+   "immuno",
+   "immunise",
+   "immunising"
+  ]
+ },
+ {
+  "w": "impact",
+  "lvl": "3k",
+  "forms": [
+   "impacts",
+   "impacted",
+   "impacting"
+  ]
+ },
+ {
+  "w": "imperial",
+  "lvl": "3k",
+  "forms": [
+   "imperialism",
+   "imperialist",
+   "imperialists",
+   "imperialistic",
+   "imperialistically"
+  ]
+ },
+ {
+  "w": "implement",
+  "lvl": "3k",
+  "forms": [
+   "implementation",
+   "implemented",
+   "implementing",
+   "implements",
+   "implementations"
+  ]
+ },
+ {
+  "w": "implicate",
+  "lvl": "3k",
+  "forms": [
+   "implications",
+   "implication",
+   "implicated",
+   "implicating",
+   "implicates"
+  ]
+ },
+ {
+  "w": "imply",
+  "lvl": "3k",
+  "forms": [
+   "implied",
+   "implies",
+   "implying",
+   "impliedly"
+  ]
+ },
+ {
+  "w": "import",
+  "lvl": "3k",
+  "forms": [
+   "imports",
+   "imported",
+   "importing",
+   "importer",
+   "importers",
+   "importation",
+   "importations"
+  ]
+ },
+ {
+  "w": "importance",
+  "lvl": "3k",
+  "forms": [
+   "unimportance"
+  ]
+ },
+ {
+  "w": "impose",
+  "lvl": "3k",
+  "forms": [
+   "imposed",
+   "imposing",
+   "imposition",
+   "imposes",
+   "impositions",
+   "imposingly",
+   "imposer",
+   "imposers"
+  ]
+ },
+ {
+  "w": "impression",
+  "lvl": "3k",
+  "forms": [
+   "impressions",
+   "impressionable"
+  ]
+ },
+ {
+  "w": "incentive",
+  "lvl": "3k",
+  "forms": [
+   "incentives"
+  ]
+ },
+ {
+  "w": "incident",
+  "lvl": "3k",
+  "forms": [
+   "incidents"
+  ]
+ },
+ {
+  "w": "incorporate",
+  "lvl": "3k",
+  "forms": [
+   "inc",
+   "incorporated",
+   "incorporating",
+   "incorporates",
+   "incorporation",
+   "unincorporated",
+   "incorporations"
+  ]
+ },
+ {
+  "w": "independence",
+  "lvl": "3k",
+  "forms": []
+ },
+ {
+  "w": "independent",
+  "lvl": "3k",
+  "forms": [
+   "independently",
+   "independents"
+  ]
+ },
+ {
+  "w": "index",
+  "lvl": "3k",
+  "forms": [
+   "indexing",
+   "indices",
+   "indexes",
+   "indexed",
+   "indexation",
+   "indexical",
+   "indexer",
+   "indexers"
+  ]
+ },
+ {
+  "w": "inevitable",
+  "lvl": "3k",
+  "forms": [
+   "inevitably",
+   "inevitability"
+  ]
+ },
+ {
+  "w": "infant",
+  "lvl": "3k",
+  "forms": [
+   "infants",
+   "infancy"
+  ]
+ }
+]

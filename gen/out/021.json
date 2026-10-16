@@ -1,0 +1,1555 @@
+[
+ {
+  "w": "boost",
+  "pos": "v",
+  "meaning_ko": "끌어올리다, 북돋우다",
+  "example_en": "A good night's sleep can **boost** your mood and your memory.",
+  "example_ko": "푹 자면 기분도 좋아지고 기억력도 올라가.",
+  "nuance_ko": "boost는 뭔가를 아래에서 밀어 올려 수준을 높인다는 그림이에요. boost sales, boost confidence, boost the economy처럼 수치나 의욕을 끌어올릴 때 정말 많이 써요. increase보다 '힘을 실어 올린다'는 느낌이 강하고, 뉴스 헤드라인에서 즐겨 써요. 명사로도 'a boost in sales'(매출 상승), 'give someone a boost'(힘을 북돋워 주다)처럼 써요. booster shot은 백신 추가 접종이라 요즘 자주 들려요.",
+  "also": [
+   {
+    "w": "booster",
+    "pos": "n",
+    "ko": "추가 접종, 증폭 장치",
+    "en": "I got my **booster** shot last week."
+   }
+  ]
+ },
+ {
+  "w": "border",
+  "pos": "n",
+  "meaning_ko": "국경, 경계",
+  "example_en": "We had to show our passports at the **border**.",
+  "example_ko": "국경에서 여권을 보여줘야 했어.",
+  "nuance_ko": "border는 나라나 지역을 나누는 국경선이나 경계예요. cross the border, border control, border town처럼 써요. 동사로는 '~와 접해 있다'(Spain borders France)라는 뜻이고, 이때는 전치사 없이 바로 목적어를 써요. boundary는 사유지나 추상적인 한계에 더 많이 쓰고, border는 나라 사이의 선에 주로 써요. 옷이나 사진의 가장자리 테두리도 border라고 해요. 'on the border of ~'는 '~의 경계에 있는'이라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "boundary",
+  "pos": "n",
+  "meaning_ko": "경계, 한계",
+  "example_en": "The river forms the **boundary** between the two counties.",
+  "example_ko": "그 강이 두 군의 경계를 이루고 있어.",
+  "nuance_ko": "boundary는 지역을 나누는 경계선뿐 아니라 행동이나 개념의 한계선도 가리켜요. set boundaries(선을 긋다)는 대인관계에서 '내가 허용하는 범위를 정하다'는 뜻으로 요즘 자주 들려요. push the boundaries는 '한계를 넘어서려 시도하다'는 관용 표현이에요. border는 나라 사이의 선, boundary는 땅, 영역, 규칙의 선을 더 넓게 가리켜요. 복수형은 boundaries로 y를 ies로 바꿔요.",
+  "also": []
+ },
+ {
+  "w": "broadcast",
+  "pos": "v",
+  "meaning_ko": "방송하다, 널리 알리다",
+  "example_en": "The match will be **broadcast** live on national television.",
+  "example_ko": "그 경기는 전국 TV에서 생중계될 거야.",
+  "nuance_ko": "broadcast는 TV나 라디오로 프로그램을 내보내는 것을 말해요. 과거형과 과거분사는 broadcast로 그대로 쓰는 것이 표준이고, broadcasted도 가끔 보여요. 명사로는 방송 프로그램 그 자체예요(a live broadcast). 비유적으로 '널리 퍼뜨리다'(broadcast the news)라는 뜻도 있어요. stream은 인터넷으로 보내는 것이고, broadcast는 전파나 방송망으로 보내는 거예요. broadcaster는 방송사나 진행자를 말해요.",
+  "also": [
+   {
+    "w": "broadcaster",
+    "pos": "n",
+    "ko": "방송사, 방송인",
+    "en": "The **broadcaster** announced the schedule yesterday."
+   },
+   {
+    "w": "broadcasting",
+    "pos": "n",
+    "ko": "방송 (업)",
+    "en": "She works in **broadcasting**."
+   }
+  ]
+ },
+ {
+  "w": "budget",
+  "pos": "n",
+  "meaning_ko": "예산",
+  "example_en": "We're on a tight **budget** this month, so no eating out.",
+  "example_ko": "이번 달은 예산이 빠듯해서 외식은 안 돼.",
+  "nuance_ko": "budget은 쓸 수 있는 돈의 계획과 한도를 말해요. on a tight budget(빠듯한 예산으로), over budget(예산을 초과한), within budget(예산 내에서)이 자주 나와요. 형용사로 쓰면 '저렴한'이라는 뜻이어서 budget hotel, budget airline이라고 해요. 동사 budget for는 '~을 위한 예산을 잡다'예요. 정부나 회사의 예산뿐 아니라 개인 가계부에도 써요. 'budget cuts'(예산 삭감)는 뉴스 단골이에요.",
+  "also": [
+   {
+    "w": "budgetary",
+    "pos": "adj",
+    "ko": "예산의",
+    "en": "The project faces serious **budgetary** constraints."
+   }
+  ]
+ },
+ {
+  "w": "burden",
+  "pos": "n",
+  "meaning_ko": "부담, 짐",
+  "example_en": "I don't want to be a **burden** to my family.",
+  "example_ko": "나는 가족한테 짐이 되고 싶지 않아.",
+  "nuance_ko": "burden은 무겁게 짊어져야 하는 책임, 비용, 걱정 같은 부담을 말해요. 물리적인 짐이라는 뜻도 있지만 요즘은 추상적인 부담으로 훨씬 많이 써요. financial burden(재정적 부담), heavy burden처럼 쓰고, 'be a burden to someone'은 '누군가에게 짐이 되다'예요. 동사로 쓰면 'be burdened with ~'(~로 짐을 지다)가 자주 나와요. burden of proof(입증 책임)는 법률에서 쓰는 중요한 표현이에요.",
+  "also": [
+   {
+    "w": "burdened",
+    "pos": "adj",
+    "ko": "부담을 진",
+    "en": "She felt **burdened** by all the responsibility."
+   }
+  ]
+ },
+ {
+  "w": "bureau",
+  "pos": "n",
+  "meaning_ko": "사무국, 부서",
+  "example_en": "I called the tourist **bureau** to ask about bus times.",
+  "example_ko": "버스 시간을 물어보려고 관광 안내소에 전화했어.",
+  "nuance_ko": "bureau는 정부 기관의 부서나 어떤 업무를 보는 사무소를 말해요. Federal Bureau of Investigation(FBI)처럼 미국 정부 기관 이름에 자주 나와요. travel bureau, news bureau(지국)처럼 민간에서도 써요. 영국에서는 서랍 달린 책상이나 옷장을 뜻하기도 하고, 미국에서는 침실의 서랍장을 가리켜요. 프랑스어에서 온 단어라서 발음이 /ˈbjʊroʊ/예요. bureaucracy(관료제)와 같은 뿌리의 단어예요.",
+  "also": []
+ },
+ {
+  "w": "cabinet",
+  "pos": "n",
+  "meaning_ko": "수납장, 내각",
+  "example_en": "The plates are in the **cabinet** above the sink.",
+  "example_ko": "접시는 싱크대 위쪽 수납장에 있어.",
+  "nuance_ko": "cabinet은 선반이나 문이 달린 수납장이에요. kitchen cabinet, medicine cabinet, filing cabinet처럼 쓰임에 따라 이름이 붙어요. 정치에서는 대통령이나 총리를 보좌하는 장관들의 모임인 '내각'이라는 전혀 다른 뜻이 있어요. 'the Cabinet'은 보통 대문자로 쓰고, 'a cabinet minister'는 내각 장관이에요. 문맥으로 쉽게 구분되지만, 뉴스에서 처음 보면 가구가 아니라 정부 이야기라서 놀랄 수 있어요.",
+  "also": []
+ },
+ {
+  "w": "campaign",
+  "pos": "n",
+  "meaning_ko": "캠페인, 선거 운동",
+  "example_en": "The group launched a **campaign** to save the old library.",
+  "example_ko": "그 단체가 낡은 도서관을 지키자는 캠페인을 시작했어.",
+  "nuance_ko": "campaign은 특정 목표를 위해 일정 기간 조직적으로 벌이는 활동이에요. 선거 운동(election campaign), 광고(advertising campaign), 사회 운동(anti-smoking campaign)에 모두 써요. launch a campaign, run a campaign, campaign for/against처럼 쓰는 게 일반적이에요. 군사 용어에서는 '작전'의 뜻도 있어요. 동사로 쓸 때는 campaign for(~를 위해 운동하다)와 campaign against(~에 반대 운동하다)를 구분해요.",
+  "also": [
+   {
+    "w": "campaigner",
+    "pos": "n",
+    "ko": "운동가",
+    "en": "She's a well-known environmental **campaigner**."
+   }
+  ]
+ },
+ {
+  "w": "cancel",
+  "pos": "v",
+  "meaning_ko": "취소하다",
+  "example_en": "I had to **cancel** my trip because I got sick.",
+  "example_ko": "아파서 여행을 취소해야 했어.",
+  "nuance_ko": "cancel은 예정되어 있던 일이나 계약, 주문을 하지 않기로 하는 것이에요. cancel a flight, cancel a meeting, cancel a subscription처럼 정말 자주 써요. 이미 시작한 일을 끊는 abort와 달리, cancel은 시작 전에도 많이 써요. 영국식 철자는 cancelled(l 두 개), 미국식은 canceled(l 하나)예요. 명사 cancellation은 'cancellation fee'(취소 수수료)처럼 서비스 약관에서 자주 보여요. 'cancel culture'는 공개적으로 배척하는 현상을 말해요.",
+  "also": [
+   {
+    "w": "cancellation",
+    "pos": "n",
+    "ko": "취소",
+    "en": "There's a fee for late **cancellation**."
+   }
+  ]
+ },
+ {
+  "w": "cancer",
+  "pos": "n",
+  "meaning_ko": "암",
+  "example_en": "Early detection of **cancer** can save lives.",
+  "example_ko": "암은 조기 발견이 사람을 살릴 수 있어.",
+  "nuance_ko": "cancer는 몸속 세포가 비정상적으로 증식하는 병인 암을 말해요. lung cancer(폐암), breast cancer(유방암)처럼 부위를 앞에 붙여요. 가산·불가산 모두 쓰이지만 보통 불가산으로 'He has cancer'라고 말해요. 비유적으로는 사회를 갉아먹는 문제를 이르기도 해서 신중하게 써야 해요. 대문자 Cancer는 별자리 게자리이기도 해요. 형용사 cancerous는 '암의, 악성의'이고, 반대는 benign(양성)이에요.",
+  "also": [
+   {
+    "w": "cancerous",
+    "pos": "adj",
+    "ko": "암성의",
+    "en": "The test showed the lump was not **cancerous**."
+   }
+  ]
+ },
+ {
+  "w": "candidate",
+  "pos": "n",
+  "meaning_ko": "후보자, 지원자",
+  "example_en": "Each **candidate** will have two minutes to speak.",
+  "example_ko": "후보자마다 말할 시간이 2분씩 주어질 거야.",
+  "nuance_ko": "candidate는 선거의 후보, 구직 지원자, 시험 응시자처럼 선택이나 평가를 받는 사람이에요. presidential candidate(대통령 후보), job candidate(취업 지원자)처럼 써요. applicant는 지원서를 낸 사람 전체이고, candidate는 심사를 통과해 고려 대상이 된 사람이라는 느낌이 있어요. 'a strong candidate'(유력 후보)도 흔한 표현이에요. 사람이 아닌 대상에도 써서 'a candidate for the award'처럼 말해요. 발음은 /ˈkændɪdət/예요.",
+  "also": [
+   {
+    "w": "candidacy",
+    "pos": "n",
+    "ko": "출마, 후보 자격",
+    "en": "She announced her **candidacy** for mayor."
+   }
+  ]
+ },
+ {
+  "w": "capacity",
+  "pos": "n",
+  "meaning_ko": "수용력, 용량, 능력",
+  "example_en": "The stadium has a **capacity** of fifty thousand people.",
+  "example_ko": "그 경기장은 오만 명을 수용할 수 있어.",
+  "nuance_ko": "capacity는 담을 수 있는 최대량이나 수용 인원, 그리고 어떤 일을 해낼 수 있는 능력이에요. at full capacity(가득 찬 상태로), filled to capacity(꽉 차서)가 자주 나와요. 공연장 공지에서 'standing room only, at capacity'를 볼 수 있어요. 능력 의미로는 'capacity to learn'처럼 써요. in a capacity는 '~의 자격으로'라는 뜻이어서 'in my capacity as a manager'(관리자 자격으로)가 격식 있는 글에 나와요.",
+  "also": []
+ },
+ {
+  "w": "capture",
+  "pos": "v",
+  "meaning_ko": "붙잡다, 포착하다",
+  "example_en": "The photo perfectly **captures** the mood of the evening.",
+  "example_ko": "그 사진은 그날 저녁의 분위기를 완벽하게 담아냈어.",
+  "nuance_ko": "capture는 대상을 붙잡거나 사로잡는다는 뜻이에요. 사람이나 도시를 붙잡는 것, 순간을 사진·영상에 담는 것, 마음이나 관심을 끄는 것에 모두 써요. capture the moment(순간을 담다), capture attention(관심을 끌다)처럼 말해요. catch는 일상적으로 잡는 것이고, capture는 힘을 들여 확보하거나 기록으로 남기는 느낌이에요. 컴퓨터에서 screen capture(화면 캡처)로도 일상에서 쓰죠. 명사로도 'the capture of the city'처럼 써요.",
+  "also": [
+   {
+    "w": "captured",
+    "pos": "adj",
+    "ko": "붙잡힌, 포착된",
+    "en": "The **captured** soldiers were later released."
+   }
+  ]
+ },
+ {
+  "w": "carbon",
+  "pos": "n",
+  "meaning_ko": "탄소",
+  "example_en": "Planting trees helps reduce **carbon** in the atmosphere.",
+  "example_ko": "나무를 심으면 대기 중 탄소를 줄이는 데 도움이 돼.",
+  "nuance_ko": "carbon은 원소 기호 C인 탄소예요. 기후 변화 이야기에서 carbon dioxide(이산화탄소), carbon emissions(탄소 배출), carbon footprint(탄소 발자국)로 정말 자주 등장해요. 일상에서는 'carbon copy'가 복사본이나 판박이를 뜻하는 비유로 쓰이고, 이메일의 CC(carbon copy)도 여기서 나왔어요. carbon neutral은 배출한 만큼 상쇄해 순배출이 0인 상태예요. 다이아몬드와 흑연도 모두 탄소로 이뤄져 있어요.",
+  "also": []
+ },
+ {
+  "w": "carve",
+  "pos": "v",
+  "meaning_ko": "조각하다, 썰다",
+  "example_en": "He **carved** his name into the old oak tree.",
+  "example_ko": "그는 낡은 참나무에 자기 이름을 새겼어.",
+  "nuance_ko": "carve는 칼 같은 도구로 나무, 돌, 고기를 깎거나 썰어서 모양을 만든다는 뜻이에요. 핼러윈의 호박 조각(carve a pumpkin)이 가장 익숙한 예예요. 식탁에서 구운 칠면조를 써는 것도 carve라고 해요. 비유적으로 'carve out a career'는 '노력해서 자기 자리를 개척하다'라는 뜻이에요. cut은 단순 자르기이고, carve는 깎아서 형태를 만드는 점이 달라요. 명사 carving은 조각품이나 조각 기술이에요.",
+  "also": [
+   {
+    "w": "carving",
+    "pos": "n",
+    "ko": "조각, 조각품",
+    "en": "The temple walls are covered with detailed **carvings**."
+   }
+  ]
+ },
+ {
+  "w": "catalogue",
+  "pos": "n",
+  "meaning_ko": "카탈로그, 목록",
+  "example_en": "I flipped through the **catalogue** looking for a new sofa.",
+  "example_ko": "새 소파를 찾으려고 카탈로그를 훑어봤어.",
+  "nuance_ko": "catalogue는 상품, 도서, 작품 등을 정리해 놓은 목록이나 책자예요. 영국식은 catalogue, 미국식은 catalog이고 뜻은 같아요. 도서관에서는 장서 목록(library catalogue)을, 쇼핑에서는 상품 카탈로그를 의미해요. 동사로 'catalogue the collection'은 '목록으로 정리하다'예요. 비유적으로 'a catalogue of disasters'는 연달아 일어난 불행의 나열을 말해요. list보다 체계적으로 정리된 느낌이에요.",
+  "also": [
+   {
+    "w": "catalog",
+    "pos": "n",
+    "ko": "카탈로그 (미국식)",
+    "en": "The online **catalog** lists every item we sell."
+   }
+  ]
+ },
+ {
+  "w": "category",
+  "pos": "n",
+  "meaning_ko": "범주, 분류",
+  "example_en": "Which **category** does this product fall under?",
+  "example_ko": "이 제품은 어느 분류에 속해?",
+  "nuance_ko": "category는 공통점에 따라 나눈 하나의 범주나 분류예요. fall into a category, in the same category, category of products처럼 써요. 쇼핑몰의 상품 분류, 시상식 부문(best actor category)에서 흔히 보여요. type이나 kind는 일상적이고, category는 체계적으로 분류된 틀이라는 느낌이 강해요. 동사 categorize(분류하다)는 'be categorized as ~'로 자주 써요. 복수형은 categories예요.",
+  "also": [
+   {
+    "w": "categorize",
+    "pos": "v",
+    "ko": "분류하다",
+    "en": "We **categorize** the books by subject."
+   },
+   {
+    "w": "categorised",
+    "pos": "adj",
+    "ko": "분류된",
+    "en": "All files are **categorised** by date."
+   }
+  ]
+ },
+ {
+  "w": "catholic",
+  "pos": "adj",
+  "meaning_ko": "가톨릭의, 폭넓은",
+  "example_en": "She grew up in a strict **Catholic** family.",
+  "example_ko": "걔는 엄격한 가톨릭 집안에서 자랐어.",
+  "nuance_ko": "대문자 Catholic은 천주교(로마 가톨릭)의 또는 신자를 가리켜요. 소문자 catholic은 '폭넓은, 포용적인'이라는 드문 뜻이 있어서 'catholic tastes'는 '취향이 다양하다'는 뜻이에요. 독해 중에 소문자로 나오면 종교와 상관없을 수 있다는 점이 함정이에요. 명사로 쓰면 Catholic은 '가톨릭 신자'예요. Christian은 기독교 전체이고, Catholic은 그중 한 교파라는 점이 달라요. Catholicism은 천주교 교리와 제도를 가리키는 명사예요.",
+  "also": [
+   {
+    "w": "catholicism",
+    "pos": "n",
+    "ko": "가톨릭교",
+    "en": "**Catholicism** is the main religion in the country."
+   }
+  ]
+ },
+ {
+  "w": "cattle",
+  "pos": "n",
+  "meaning_ko": "소 (떼)",
+  "example_en": "The farmer keeps about two hundred **cattle** on his ranch.",
+  "example_ko": "그 농부는 목장에서 소를 이백 마리쯤 기르고 있어.",
+  "nuance_ko": "cattle은 집에서 기르는 소, 특히 소 떼를 통틀어 부르는 말이에요. 이미 복수형이라서 'cattles'나 'a cattle'이라고 쓰지 않고, 'ten cattle'이나 'a herd of cattle'이라고 해요. 소 한 마리는 cow나 bull처럼 성별에 따라 말하거나 'a head of cattle'이라고 해요. 고기용·젖소를 가리지 않고 쓰는 총칭이에요. cow는 암소 한 마리를 말해서 소 떼를 말할 때 cattle과 구분돼요. cattle ranch는 소 목장이에요.",
+  "also": []
+ },
+ {
+  "w": "cease",
+  "pos": "v",
+  "meaning_ko": "멈추다, 중단하다",
+  "example_en": "The factory will **cease** production at the end of the year.",
+  "example_ko": "그 공장은 연말에 생산을 중단할 거야.",
+  "nuance_ko": "cease는 stop의 격식 있는 버전으로, 공식 발표나 법률 문서에서 자주 써요. cease to + 동사 또는 cease + ~ing 둘 다 가능해요. 'cease-fire'(휴전)는 뉴스에서 아주 흔한 표현이에요. cease and desist(중지 명령)는 법률 용어로 유명해요. 'never cease to amaze me'(언제나 놀랍다)처럼 관용적인 칭찬 표현도 있어요. 일상 대화에서는 stop이 훨씬 자연스러워요.",
+  "also": [
+   {
+    "w": "ceaseless",
+    "pos": "adj",
+    "ko": "끊임없는",
+    "en": "The **ceaseless** noise kept me awake."
+   }
+  ]
+ },
+ {
+  "w": "celebrate",
+  "pos": "v",
+  "meaning_ko": "축하하다, 기념하다",
+  "example_en": "We're going out to **celebrate** her promotion tonight.",
+  "example_ko": "오늘 밤에 걔 승진 축하하러 나갈 거야.",
+  "nuance_ko": "celebrate는 좋은 일이나 기념일을 즐겁게 기념한다는 뜻이에요. celebrate a birthday, celebrate a victory처럼 써요. congratulate는 상대에게 '축하한다'고 말하는 것이고, celebrate는 함께 즐기며 기념하는 행동이에요. 그래서 'Congratulations!'는 말하고 'Let's celebrate!'는 파티를 하자는 뜻이에요. celebrated는 형용사로 '유명한'이란 뜻도 있어요(a celebrated author). 명사 celebration은 축하 행사이고, 사람은 celebrity예요.",
+  "also": [
+   {
+    "w": "celebration",
+    "pos": "n",
+    "ko": "축하 행사",
+    "en": "The whole town joined the **celebration**."
+   },
+   {
+    "w": "celebrated",
+    "pos": "adj",
+    "ko": "유명한",
+    "en": "She is a **celebrated** chef."
+   }
+  ]
+ },
+ {
+  "w": "cell",
+  "pos": "n",
+  "meaning_ko": "세포, 감방, 작은 방",
+  "example_en": "Every living thing is made of at least one **cell**.",
+  "example_ko": "모든 생물은 적어도 하나의 세포로 이루어져 있어.",
+  "nuance_ko": "cell은 문맥에 따라 뜻이 크게 달라요. 생물에서는 세포, 교도소에서는 독방(prison cell), 정치·범죄 조직에서는 소규모 단위(terrorist cell)예요. 미국 영어에서는 cell phone의 줄임말로 '휴대전화'도 가리켜요. 엑셀의 칸도 cell이라고 해서 'click on cell A1'처럼 말해요. 배터리의 단위 전지(solar cell)도 cell이에요. 문맥으로 구분해야 하는 다의어라서 처음 볼 땐 주변 단어를 꼭 보세요.",
+  "also": []
+ },
+ {
+  "w": "ceremony",
+  "pos": "n",
+  "meaning_ko": "의식, 식",
+  "example_en": "The graduation **ceremony** starts at ten in the morning.",
+  "example_ko": "졸업식은 아침 열 시에 시작해.",
+  "nuance_ko": "ceremony는 결혼식, 졸업식, 시상식처럼 정해진 절차에 따라 치르는 공식 행사예요. wedding ceremony, opening ceremony, award ceremony처럼 자주 써요. 'without ceremony'는 '격식 없이, 갑자기'란 뜻이고 'stand on ceremony'는 '격식을 차리다'라는 관용어예요. party는 편하게 즐기는 모임이고, ceremony는 의식 절차가 있는 행사라는 점이 달라요. 형용사 ceremonial은 '의식용의'(ceremonial role)예요.",
+  "also": [
+   {
+    "w": "ceremonial",
+    "pos": "adj",
+    "ko": "의식의, 형식적인",
+    "en": "The president's role is mostly **ceremonial**."
+   }
+  ]
+ },
+ {
+  "w": "chairman",
+  "pos": "n",
+  "meaning_ko": "의장, 회장",
+  "example_en": "The **chairman** opened the meeting with a short speech.",
+  "example_ko": "의장이 짧은 연설로 회의를 시작했어.",
+  "nuance_ko": "chairman은 회의나 위원회, 기업 이사회를 이끄는 의장이나 회장이에요. 성별 중립적인 표현으로 chairperson이나 chair가 요즘 더 널리 쓰여요. 여성이면 chairwoman을 쓰기도 해요. 한국의 '회장'에 해당하지만 CEO와는 달라서, chairman은 이사회를 이끄는 자리고 CEO는 경영 실무를 이끄는 자리예요. chairman of the board가 대표적인 직함이에요. 복수형은 chairmen이에요.",
+  "also": [
+   {
+    "w": "chairperson",
+    "pos": "n",
+    "ko": "의장 (성중립)",
+    "en": "She was elected **chairperson** of the committee."
+   },
+   {
+    "w": "chairmanship",
+    "pos": "n",
+    "ko": "의장직",
+    "en": "He held the **chairmanship** for six years."
+   }
+  ]
+ },
+ {
+  "w": "chamber",
+  "pos": "n",
+  "meaning_ko": "방, 의회, 실",
+  "example_en": "The vote took place in the upper **chamber** of parliament.",
+  "example_ko": "표결은 의회 상원에서 진행됐어.",
+  "nuance_ko": "chamber는 특정 용도의 방이나 공간을 가리키는 격식 있는 말이에요. 의회에서 상원·하원을 chamber라고 부르고(upper chamber, lower chamber), 'Chamber of Commerce'는 상공회의소예요. 몸속의 심방(chambers of the heart)처럼 밀폐된 공간도 chamber예요. 일상의 방은 room이고, chamber는 옛날식이거나 전문 분야 용어에 어울려요. chamber music(실내악)도 같은 뿌리에서 나온 말이에요. gas chamber는 가스실이라 무거운 역사적 맥락이 있어요.",
+  "also": []
+ },
+ {
+  "w": "characteristic",
+  "pos": "n",
+  "meaning_ko": "특징, 특성",
+  "example_en": "Curiosity is a key **characteristic** of good scientists.",
+  "example_ko": "호기심은 훌륭한 과학자의 핵심 특징이야.",
+  "nuance_ko": "characteristic은 사람이나 사물을 다른 것과 구별해 주는 고유한 특징이에요. 명사로는 'a characteristic of ~'이고, 형용사로는 'be characteristic of ~'(~의 전형적인 특징이다)로 써요. feature는 눈에 띄는 부분이고, characteristic은 본질적인 성질이라는 점이 달라요. 복수형 characteristics는 '특성들'로 'physical characteristics'처럼 많이 써요. 반대는 uncharacteristic(평소답지 않은)이에요. 'It's uncharacteristic of him'은 '걔답지 않다'는 말이에요.",
+  "also": [
+   {
+    "w": "characteristically",
+    "pos": "adv",
+    "ko": "특징적으로, 평소처럼",
+    "en": "He **characteristically** ignored the warning."
+   },
+   {
+    "w": "uncharacteristic",
+    "pos": "adj",
+    "ko": "평소답지 않은",
+    "en": "It was **uncharacteristic** of her to be late."
+   }
+  ]
+ },
+ {
+  "w": "charity",
+  "pos": "n",
+  "meaning_ko": "자선, 자선단체",
+  "example_en": "They donated all the money to a local **charity**.",
+  "example_ko": "그 사람들은 모은 돈을 전부 지역 자선단체에 기부했어.",
+  "nuance_ko": "charity는 어려운 사람을 돕는 자선 활동과 그런 단체를 모두 뜻해요. give to charity, a charity event, charity shop(영국의 자선 중고 가게)처럼 써요. 불가산 명사로 쓰면 '베풂'이고, 가산 명사로 쓰면 '자선단체'(a charity)예요. donation은 기부금 자체이고, charity는 기부를 받는 단체나 그 정신이에요. 'charity begins at home'은 '자선은 가까운 사람부터'라는 속담이에요. 복수형은 charities예요.",
+  "also": []
+ },
+ {
+  "w": "chart",
+  "pos": "n",
+  "meaning_ko": "도표, 차트",
+  "example_en": "The sales **chart** shows a steady rise over the past year.",
+  "example_ko": "매출 차트를 보면 지난 1년간 꾸준히 올랐어.",
+  "nuance_ko": "chart는 숫자나 정보를 시각적으로 보여주는 도표나 그래프예요. bar chart, pie chart, flow chart처럼 종류를 붙여 말해요. 음악에서는 순위 차트(top of the charts)를 뜻해서 'The song topped the charts.'처럼 써요. 의료에서는 환자 기록(medical chart)을 말하고, 항해에서는 해도(nautical chart)를 뜻하기도 해요. 동사로는 'chart a course'(진로를 정하다)나 '기록하다, 도표로 나타내다'로 써요. graph는 데이터의 관계를 선으로 그린 것이라 chart보다 범위가 좁아요.",
+  "also": [
+   {
+    "w": "uncharted",
+    "pos": "adj",
+    "ko": "미지의, 지도에 없는",
+    "en": "We're entering **uncharted** territory with this project."
+   }
+  ]
+ },
+ {
+  "w": "charter",
+  "pos": "n",
+  "meaning_ko": "헌장, 전세",
+  "example_en": "They booked a **charter** flight for the whole group.",
+  "example_ko": "그 사람들은 단체 전세기를 예약했어.",
+  "nuance_ko": "charter는 공식적인 헌장이나 인가서(the UN Charter)를 뜻하는 명사예요. 또 비행기나 배를 통째로 빌린다는 '전세'의 뜻으로도 자주 써서 charter flight, charter boat라고 해요. 동사 charter는 '전세를 내다, 특허장을 주다'예요. 미국의 charter school은 공적 자금을 받지만 자율적으로 운영되는 학교예요. 헌법 constitution보다 설립 취지를 밝히는 문서라는 느낌이 강해요.",
+  "also": [
+   {
+    "w": "chartered",
+    "pos": "adj",
+    "ko": "공인된, 전세 낸",
+    "en": "She is a **chartered** accountant."
+   }
+  ]
+ },
+ {
+  "w": "chemical",
+  "pos": "n",
+  "meaning_ko": "화학 물질",
+  "example_en": "Please don't mix cleaning **chemicals** at home.",
+  "example_ko": "집에서 청소용 화학 약품을 섞지 마세요.",
+  "nuance_ko": "chemical은 명사로는 화학 물질이나 약품, 형용사로는 화학의를 뜻해요. household chemicals(가정용 화학제품), toxic chemicals(독성 화학물질)처럼 자주 나와요. 일상에서 'chemical-free'라는 광고 문구가 있지만 모든 물질이 화학 물질이라서 과학적으로는 엄밀한 표현이 아니에요. 형용사로는 chemical reaction(화학 반응), chemical weapon(화학 무기)이 대표적이에요. 사람 사이의 'chemistry'(케미)는 같은 뿌리의 비유예요.",
+  "also": [
+   {
+    "w": "chemically",
+    "pos": "adv",
+    "ko": "화학적으로",
+    "en": "The water was **chemically** treated."
+   }
+  ]
+ },
+ {
+  "w": "cheque",
+  "pos": "n",
+  "meaning_ko": "수표",
+  "example_en": "I paid the rent by **cheque** this month.",
+  "example_ko": "이번 달 월세는 수표로 냈어.",
+  "nuance_ko": "cheque는 은행에 맡긴 돈으로 지급하도록 쓴 수표예요. 영국식 철자이고 미국식은 check이에요. 같은 철자 check는 '확인하다'라는 동사이기도 해서, 미국 영어에서는 문맥으로 구분해야 해요. write a cheque(수표를 쓰다), cash a cheque(수표를 현금으로 바꾸다), bounced cheque(부도 수표)처럼 써요. 요즘은 수표 사용이 줄었지만 영국이나 캐나다에서는 아직 남아 있어요. 식당의 계산서는 영국에선 bill, 미국에선 check라고 해서 주의가 필요해요.",
+  "also": []
+ },
+ {
+  "w": "chill",
+  "pos": "v",
+  "meaning_ko": "식히다, 느긋하게 쉬다",
+  "example_en": "Let's just **chill** at home this weekend.",
+  "example_ko": "이번 주말엔 그냥 집에서 느긋하게 쉬자.",
+  "nuance_ko": "chill의 원래 뜻은 차갑게 하거나 한기가 드는 것이에요. 음료를 chill하면 시원하게 식히는 거예요. 구어체에서는 'chill'이 '느긋하게 쉬다, 진정하다'라는 아주 흔한 슬랭이에요. 'Chill out!'은 '진정해!', 'Netflix and chill'은 편하게 쉬는 것에서 유래했지만 요즘 다른 의미로도 쓰여서 조심하세요. 명사 chill은 오싹한 한기나 으스스한 느낌(a chill ran down my spine)이에요. 형용사 chilly는 '쌀쌀한'이에요.",
+  "also": [
+   {
+    "w": "chilly",
+    "pos": "adj",
+    "ko": "쌀쌀한",
+    "en": "It's a bit **chilly** tonight; bring a jacket."
+   },
+   {
+    "w": "chilled",
+    "pos": "adj",
+    "ko": "차게 식힌",
+    "en": "Serve the wine **chilled**."
+   }
+  ]
+ },
+ {
+  "w": "circuit",
+  "pos": "n",
+  "meaning_ko": "회로, 순회 코스",
+  "example_en": "A short **circuit** caused the fire in the kitchen.",
+  "example_ko": "합선 때문에 부엌에서 불이 났어.",
+  "nuance_ko": "circuit은 전기가 흐르는 폐쇄된 경로인 회로, 그리고 한 바퀴 도는 경로나 순회를 뜻해요. short circuit(합선), integrated circuit(집적회로)이 전자 분야 용어예요. 스포츠에서는 'the tennis circuit'처럼 대회가 이어지는 일정을 말해요. 법원에서는 순회 재판 구역(circuit court)을 뜻해요. 헬스장의 circuit training은 여러 운동을 돌아가며 하는 훈련이에요. 'circuit breaker'는 차단기를 말해요.",
+  "also": []
+ },
+ {
+  "w": "circulate",
+  "pos": "v",
+  "meaning_ko": "순환하다, 퍼지다",
+  "example_en": "Rumors began to **circulate** around the office.",
+  "example_ko": "사무실에 소문이 돌기 시작했어.",
+  "nuance_ko": "circulate는 원을 그리며 돌거나 여러 사람 사이에 두루 퍼진다는 뜻이에요. 피가 몸을 순환하는 것(blood circulates), 공기가 방 안을 도는 것, 소문이나 문서가 돌아다니는 것에 모두 써요. 타동사로도 쓰여서 'circulate a memo'(메모를 돌리다)처럼 말해요. spread는 퍼져 나가는 것이고, circulate는 정해진 경로나 사람들 사이를 돌아다니는 느낌이에요. 명사 circulation은 혈액순환이나 신문의 발행 부수를 뜻해요.",
+  "also": [
+   {
+    "w": "circulation",
+    "pos": "n",
+    "ko": "순환, 발행 부수",
+    "en": "Poor **circulation** makes my hands cold."
+   }
+  ]
+ },
+ {
+  "w": "cite",
+  "pos": "v",
+  "meaning_ko": "인용하다, 언급하다",
+  "example_en": "The report **cites** several studies to support its claim.",
+  "example_ko": "그 보고서는 주장을 뒷받침하려고 여러 연구를 인용해.",
+  "nuance_ko": "cite는 출처를 밝히며 글이나 말, 사례를 끌어다 쓴다는 뜻이에요. 논문에서 'cite a source'(출처를 인용하다)가 가장 흔해요. 뉴스에서는 'cited as the reason'(이유로 꼽았다)처럼 이유나 사례를 드는 데도 많이 써요. quote는 말이나 문장을 그대로 따오는 것이고, cite는 출처를 가리키는 것에 초점이 있어요. 법적으로는 'be cited for speeding'처럼 위반 딱지를 받는 뜻도 있어요. 발음이 site, sight와 같아서 철자를 구분해야 해요.",
+  "also": [
+   {
+    "w": "citation",
+    "pos": "n",
+    "ko": "인용, 표창, 위반 딱지",
+    "en": "Add a **citation** for each source in your essay."
+   }
+  ]
+ },
+ {
+  "w": "civil",
+  "pos": "adj",
+  "meaning_ko": "시민의, 민사의, 예의 바른",
+  "example_en": "They had a **civil** conversation despite their disagreement.",
+  "example_ko": "의견이 달랐지만 그들은 예의 있게 대화했어.",
+  "nuance_ko": "civil에는 크게 세 가지 뜻이 있어요. 시민과 관련된 것(civil rights), 민사 관련(civil law), 그리고 정중하다는 뜻이에요. civil war(내전), civil servant(공무원), civil engineering(토목공학)처럼 합성어가 많아요. polite와 비슷하지만 civil은 '최소한의 예의는 지킨다'는 느낌이 있어서, 사이가 안 좋은 사람에게도 쓸 수 있어요. 군대가 아닌 '민간의'(civil aviation)라는 뜻도 있어요. civility는 예의 바름을 뜻하는 명사예요.",
+  "also": [
+   {
+    "w": "civility",
+    "pos": "n",
+    "ko": "예의, 정중함",
+    "en": "Basic **civility** costs nothing."
+   }
+  ]
+ },
+ {
+  "w": "civilian",
+  "pos": "n",
+  "meaning_ko": "민간인",
+  "example_en": "Many **civilians** were evacuated before the storm hit.",
+  "example_ko": "폭풍이 닥치기 전에 많은 민간인이 대피했어.",
+  "nuance_ko": "civilian은 군인이나 경찰이 아닌 일반 민간인이에요. 전쟁 뉴스에서 'civilian casualties'(민간인 사상자)가 자주 나와요. 군대 내부에서는 군복을 안 입은 사람, 군무원이 아닌 사람을 말해요. 형용사로도 쓰여서 civilian life(민간인으로서의 삶), civilian clothes(사복)라고 해요. citizen은 국가의 구성원이라는 법적 개념이고, civilian은 군 소속이 아닌 상태를 말하는 점이 달라요.",
+  "also": []
+ },
+ {
+  "w": "civilise",
+  "pos": "v",
+  "meaning_ko": "문명화하다, 교화하다",
+  "example_en": "Some historians question the idea that empires tried to **civilise** the world.",
+  "example_ko": "일부 역사학자들은 제국들이 세상을 문명화하려 했다는 생각에 의문을 제기해.",
+  "nuance_ko": "civilise는 사회를 문명 수준으로 끌어올리거나 거친 사람을 예절 바르게 만든다는 뜻이에요. 영국식 철자이고 미국식은 civilize예요. 식민지 시대에 '야만을 문명화한다'는 우월적인 시각과 연결되어, 현대에는 비판적인 맥락에서 많이 보여요. 일상에서는 'a civilised conversation'(품위 있는 대화)처럼 형용사 civilised로 가볍게 써요. 명사 civilisation은 '문명'으로, ancient civilisation(고대 문명)이 대표적이에요.",
+  "also": [
+   {
+    "w": "civilisation",
+    "pos": "n",
+    "ko": "문명",
+    "en": "The Indus Valley **civilisation** is thousands of years old."
+   },
+   {
+    "w": "civilised",
+    "pos": "adj",
+    "ko": "문명화된, 품위 있는",
+    "en": "Let's discuss this like **civilised** adults."
+   }
+  ]
+ },
+ {
+  "w": "clarify",
+  "pos": "v",
+  "meaning_ko": "명확히 하다, 해명하다",
+  "example_en": "Could you **clarify** what you mean by that?",
+  "example_ko": "그게 무슨 뜻인지 좀 더 분명히 말해 줄래?",
+  "nuance_ko": "clarify는 헷갈리거나 모호한 걸 분명하게 설명한다는 뜻이에요. 회의나 이메일에서 'Could you clarify ~?'는 정중하게 되묻는 정말 유용한 표현이에요. explain은 처음부터 설명하는 것이고, clarify는 이미 말한 것의 불명확한 부분을 정리하는 거예요. clarify a point, clarify the rules처럼 써요. 명사 clarity는 '명료함', clarification은 '해명, 설명'이에요. 요리에서 clarified butter는 정제 버터예요.",
+  "also": [
+   {
+    "w": "clarification",
+    "pos": "n",
+    "ko": "해명, 명확화",
+    "en": "I need some **clarification** on the deadline."
+   },
+   {
+    "w": "clarity",
+    "pos": "n",
+    "ko": "명료함",
+    "en": "Her writing has remarkable **clarity**."
+   }
+  ]
+ },
+ {
+  "w": "clause",
+  "pos": "n",
+  "meaning_ko": "조항, 절",
+  "example_en": "There's a **clause** in the contract that limits our liability.",
+  "example_ko": "계약서에 우리 책임을 제한하는 조항이 하나 있어.",
+  "nuance_ko": "clause에는 두 가지 뜻이 있어요. 법률·계약 문서의 개별 조항과, 문법에서 주어와 동사를 갖춘 절이에요. 계약에서 'a clause in the contract', 'termination clause'(해지 조항)처럼 써요. 문법에서는 main clause(주절), subordinate clause(종속절), relative clause(관계절)로 말해요. 발음은 /klɔːz/로 claws(발톱)와 같아요. article은 조 단위이고, clause는 그 안의 세부 항목이라는 느낌이에요. Santa Claus와 철자가 달라 헷갈리지 마세요.",
+  "also": []
+ },
+ {
+  "w": "client",
+  "pos": "n",
+  "meaning_ko": "고객, 의뢰인",
+  "example_en": "I have a meeting with an important **client** at three.",
+  "example_ko": "세 시에 중요한 고객이랑 미팅이 있어.",
+  "nuance_ko": "client는 변호사, 디자이너, 컨설턴트 같은 전문가에게 서비스를 의뢰하는 고객이에요. customer는 가게에서 물건을 사는 일반 손님이고, client는 지속적으로 전문 서비스를 받는 의뢰인이라는 차이가 있어요. 변호사의 의뢰인도 client예요. IT에서는 서버에 접속하는 쪽을 client라고 해서 client-server 구조를 말해요. 'client base'는 고객층을 뜻해요. 격식을 차린 비즈니스 영어에서 자주 나오는 단어예요.",
+  "also": []
+ },
+ {
+  "w": "climate",
+  "pos": "n",
+  "meaning_ko": "기후, 분위기",
+  "example_en": "The **climate** here is mild, with warm summers and cool winters.",
+  "example_ko": "이곳은 기후가 온화해서 여름은 따뜻하고 겨울은 선선해.",
+  "nuance_ko": "climate는 한 지역에서 오랜 기간 나타나는 평균적인 날씨 패턴, 즉 기후예요. weather가 오늘의 날씨라면 climate는 몇십 년에 걸친 경향이라는 차이가 있어요. climate change(기후 변화), tropical climate(열대 기후)처럼 써요. 비유적으로는 사회의 분위기도 가리켜서 'the political climate', 'economic climate'처럼 말해요. 'a climate of fear'(공포 분위기)는 뉴스에서 자주 보여요.",
+  "also": [
+   {
+    "w": "climatic",
+    "pos": "adj",
+    "ko": "기후의",
+    "en": "The region has seen major **climatic** changes."
+   }
+  ]
+ },
+ {
+  "w": "clinic",
+  "pos": "n",
+  "meaning_ko": "의원, 진료소",
+  "example_en": "I made an appointment at the **clinic** for tomorrow morning.",
+  "example_ko": "내일 아침으로 의원에 예약해 놨어.",
+  "nuance_ko": "clinic은 입원 시설 없이 외래 진료를 하는 작은 병원이에요. 동네 의원, 치과, 상담소를 모두 가리켜요. hospital은 입원과 큰 수술이 가능한 대형 병원이고, clinic은 그보다 작고 전문적인 곳이에요. dental clinic, free clinic, sleep clinic처럼 전문 분야가 붙어요. 대학에서는 학생들이 법률·의료 상담을 해 주는 실습 기관을 clinic이라 부르기도 해요. 형용사 clinical은 '임상의, 냉정한'이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "clinical",
+    "pos": "adj",
+    "ko": "임상의, 냉철한",
+    "en": "The drug is now in **clinical** trials."
+   },
+   {
+    "w": "clinician",
+    "pos": "n",
+    "ko": "임상 의사",
+    "en": "A **clinician** examined the patient."
+   }
+  ]
+ },
+ {
+  "w": "cluster",
+  "pos": "n",
+  "meaning_ko": "무리, 집단",
+  "example_en": "A **cluster** of houses sat at the foot of the hill.",
+  "example_ko": "언덕 아래에 집 몇 채가 모여 있었어.",
+  "nuance_ko": "cluster는 같은 종류가 가까이 모여 있는 작은 무리나 송이예요. a cluster of grapes(포도송이), a cluster of stars(성단), a cluster of cases(집단 감염)처럼 써요. group보다 서로 가까이 붙어 있다는 공간적 느낌이 강해요. 의료 뉴스의 'cluster infection'은 집단 감염이에요. IT에서는 여러 서버를 묶은 '클러스터'로 쓰여요. 동사로는 'people clustered around the fire'처럼 '떼 지어 모이다'예요.",
+  "also": []
+ },
+ {
+  "w": "coalition",
+  "pos": "n",
+  "meaning_ko": "연합, 연정",
+  "example_en": "Three parties formed a **coalition** government after the election.",
+  "example_ko": "선거 후 세 정당이 연립 정부를 구성했어.",
+  "nuance_ko": "coalition은 서로 다른 집단이 공동 목표를 위해 임시로 손잡은 연합이에요. 정치에서는 어떤 정당도 과반을 못 얻었을 때 만드는 연립 정부(coalition government)가 대표적이에요. alliance가 오래 지속되는 동맹 느낌이라면, coalition은 특정 목적을 위한 한시적 연합이라는 느낌이 있어요. 군사 연합군을 'a coalition of forces'라고도 해요. 시민사회에서는 여러 단체의 연대체도 coalition이라고 불러요.",
+  "also": []
+ },
+ {
+  "w": "code",
+  "pos": "n",
+  "meaning_ko": "암호, 코드, 규정",
+  "example_en": "Enter the **code** on your phone to unlock the door.",
+  "example_ko": "문을 열려면 폰에 뜬 코드를 입력해.",
+  "nuance_ko": "code는 쓰임이 아주 다양해요. 프로그래밍 코드, 암호(secret code), 숫자 코드(zip code), 그리고 규정(dress code)이 모두 code예요. dress code(복장 규정), code of conduct(행동 강령), code of ethics(윤리 강령)처럼 규칙의 의미로도 많이 써요. 컴퓨터에서는 uncountable로 'write code'라고 해요. 동사 code는 '암호화하다, 코딩하다'예요. 'Morse code'(모스 부호)처럼 신호 체계도 가리켜요.",
+  "also": [
+   {
+    "w": "coded",
+    "pos": "adj",
+    "ko": "암호화된",
+    "en": "They exchanged **coded** messages."
+   }
+  ]
+ },
+ {
+  "w": "coin",
+  "pos": "n",
+  "meaning_ko": "동전",
+  "example_en": "Do you have a **coin** for the vending machine?",
+  "example_ko": "자판기에 넣을 동전 있어?",
+  "nuance_ko": "coin은 금속으로 만든 동전이에요. flip a coin(동전을 던져 정하다), toss a coin처럼 선택을 정할 때 자주 써요. 동사로 coin은 '새 단어를 만들어 내다'라는 뜻이 있어서 'coin a phrase'(새 표현을 만들다)라고 해요. 'to coin a phrase'는 '표현이 진부하지만 말하자면'이라는 가벼운 서두예요. 'two sides of the same coin'(같은 것의 두 면)은 비유로 아주 흔해요. 지폐는 banknote 또는 bill이라서 구분돼요.",
+  "also": [
+   {
+    "w": "coined",
+    "pos": "adj",
+    "ko": "만들어진 (신조어)",
+    "en": "The term was **coined** in the 1990s."
+   }
+  ]
+ },
+ {
+  "w": "coincide",
+  "pos": "v",
+  "meaning_ko": "동시에 일어나다, 일치하다",
+  "example_en": "My vacation will **coincide** with the holiday this year.",
+  "example_ko": "올해는 내 휴가가 공휴일이랑 겹치게 돼.",
+  "nuance_ko": "coincide는 시간이나 장소가 겹치거나, 의견·내용이 같다는 뜻이에요. coincide with ~ 구문으로 써요. 'The meeting coincides with the festival'처럼 일정이 겹칠 때 자주 써요. 우연히 일어난 일치는 coincidence(우연)라는 명사로 'What a coincidence!'라고 해요. 의견이 일치할 때는 'Our views coincide'라고 해요. 한국어 '겹치다'와 비슷하지만 사건이 충돌하는 부정적 느낌은 약해요.",
+  "also": [
+   {
+    "w": "coincidence",
+    "pos": "n",
+    "ko": "우연의 일치",
+    "en": "It was pure **coincidence** that we met there."
+   },
+   {
+    "w": "coincidental",
+    "pos": "adj",
+    "ko": "우연의",
+    "en": "The timing was purely **coincidental**."
+   }
+  ]
+ },
+ {
+  "w": "collaborate",
+  "pos": "v",
+  "meaning_ko": "협력하다, 공동 작업하다",
+  "example_en": "The two companies will **collaborate** on a new product.",
+  "example_ko": "두 회사가 신제품을 공동으로 개발할 거야.",
+  "nuance_ko": "collaborate는 공동의 목표를 위해 함께 일한다는 뜻이에요. collaborate with someone on/in something 구문으로 써요. cooperate는 서로 협조하는 것이고, collaborate는 창작이나 연구처럼 함께 결과물을 만들어 내는 느낌이 강해요. 음악 콜라보(collaboration)가 바로 이 단어예요. 전쟁 시기에는 적에게 협력한다는 부정적인 뜻도 있어서 맥락을 살피세요. 명사 collaboration, 형용사 collaborative가 일할 때 자주 나와요.",
+  "also": [
+   {
+    "w": "collaboration",
+    "pos": "n",
+    "ko": "협업, 공동 작업",
+    "en": "The album is a **collaboration** between two artists."
+   },
+   {
+    "w": "collaborative",
+    "pos": "adj",
+    "ko": "협력적인",
+    "en": "We use a **collaborative** approach to design."
+   }
+  ]
+ },
+ {
+  "w": "collapse",
+  "pos": "v",
+  "meaning_ko": "무너지다, 쓰러지다",
+  "example_en": "The old bridge **collapsed** during the storm last night.",
+  "example_ko": "그 낡은 다리가 어젯밤 폭풍 때 무너졌어.",
+  "nuance_ko": "collapse는 구조물이 힘없이 폭삭 무너지거나 사람이 갑자기 쓰러지는 것을 말해요. 건물, 다리, 지붕뿐 아니라 시장, 회사, 협상, 건강이 무너지는 비유에도 써요. 'The deal collapsed'는 합의가 결렬됐다는 뜻이에요. fall down은 일상적이고, collapse는 완전히 무너졌다는 강한 느낌이에요. 명사로도 쓰여서 'the collapse of the company'(회사의 몰락)처럼 말해요. exhausted collapse on the sofa는 지쳐서 소파에 털썩 쓰러지는 것을 묘사해요.",
+  "also": [
+   {
+    "w": "collapsible",
+    "pos": "adj",
+    "ko": "접을 수 있는",
+    "en": "I bought a **collapsible** water bottle for hiking."
+   }
+  ]
+ },
+ {
+  "w": "colleague",
+  "pos": "n",
+  "meaning_ko": "동료",
+  "example_en": "I'm having lunch with a **colleague** from the marketing team.",
+  "example_ko": "마케팅팀 동료랑 점심 먹기로 했어.",
+  "nuance_ko": "colleague는 같은 직장이나 같은 직업군에서 일하는 동료예요. coworker가 같은 회사 동료를 편하게 부르는 말이라면, colleague는 약간 더 격식 있고 전문직 느낌이 있어요. 학자나 의사, 변호사가 서로를 부를 때 colleague를 흔히 써요. 'my colleagues'는 같은 부서뿐 아니라 업계 사람들도 포함할 수 있어요. 발음은 /ˈkɑːliːɡ/이고 마지막 -gue는 [g]로 읽어요. 철자가 어려워서 colleage라고 틀리는 경우가 많아요.",
+  "also": []
+ },
+ {
+  "w": "colony",
+  "pos": "n",
+  "meaning_ko": "식민지, 집단 서식지",
+  "example_en": "Thousands of penguins live together in one huge **colony**.",
+  "example_ko": "수천 마리의 펭귄이 하나의 거대한 집단 서식지에서 함께 살아.",
+  "nuance_ko": "colony는 다른 나라가 지배하는 식민지, 그리고 한곳에 모여 사는 동물이나 사람의 집단을 뜻해요. 역사 맥락에서는 'a British colony'(영국 식민지)처럼 쓰여요. 개미, 벌, 펭귄처럼 무리 지어 사는 생물은 an ant colony처럼 말해요. 사람도 an artists' colony(예술가 마을)처럼 같은 관심사를 가진 집단 거주지를 가리킬 수 있어요. 형용사 colonial은 '식민지의'(colonial rule)예요. 복수는 colonies예요.",
+  "also": [
+   {
+    "w": "colonial",
+    "pos": "adj",
+    "ko": "식민지의",
+    "en": "The city has a lot of **colonial** architecture."
+   },
+   {
+    "w": "colonialism",
+    "pos": "n",
+    "ko": "식민주의",
+    "en": "The book examines the legacy of **colonialism**."
+   }
+  ]
+ },
+ {
+  "w": "column",
+  "pos": "n",
+  "meaning_ko": "기둥, 세로줄, 칼럼",
+  "example_en": "She writes a weekly **column** for the local newspaper.",
+  "example_ko": "걔는 지역 신문에 주간 칼럼을 써.",
+  "nuance_ko": "column은 건물의 둥근 기둥, 표의 세로 열, 신문의 고정 칼럼 기사까지 세 가지 쓰임이 흔해요. 표에서는 row(가로줄)와 짝으로 외워 두면 헷갈리지 않아요. 신문에서는 정해진 필자가 연재하는 글을 가리키고, 쓰는 사람은 columnist예요. 'a column of smoke'처럼 길게 솟은 연기, 'a column of soldiers'처럼 줄지어 가는 행렬도 뜻해요. 발음은 /ˈkɑːləm/이고 끝의 n은 소리 나지 않아요.",
+  "also": []
+ },
+ {
+  "w": "combat",
+  "pos": "n",
+  "meaning_ko": "전투, 싸움",
+  "example_en": "The soldiers were trained for close **combat**.",
+  "example_ko": "그 군인들은 근접 전투 훈련을 받았어.",
+  "nuance_ko": "combat은 군인들이 벌이는 전투나 무력 충돌을 뜻하는 명사예요. in combat, combat training, combat zone처럼 써요. 동사로는 '맞서 싸우다, 퇴치하다'로 쓰고 뉴스에서 combat crime, combat climate change처럼 사회 문제에 맞선다는 뜻으로 자주 나와요. fight는 일상적인 싸움이고, combat은 조직적이고 격식 있는 싸움을 가리켜요. 동사 combat은 과거형이 combated 또는 combatted로 둘 다 가능해요.",
+  "also": [
+   {
+    "w": "combatant",
+    "pos": "n",
+    "ko": "전투원",
+    "en": "Both **combatants** agreed to a ceasefire."
+   }
+  ]
+ },
+ {
+  "w": "comedy",
+  "pos": "n",
+  "meaning_ko": "코미디, 희극",
+  "example_en": "We watched a romantic **comedy** on Friday night.",
+  "example_ko": "금요일 밤에 로맨틱 코미디 영화를 봤어.",
+  "nuance_ko": "comedy는 관객을 웃기려고 만든 영화, 드라마, 공연 같은 희극을 말해요. romantic comedy(로코), stand-up comedy(스탠드업 코미디), sitcom(상황 코미디)처럼 장르를 나눠 써요. 반대는 tragedy(비극)예요. 사람을 가리킬 때는 comedian(코미디언)이고, 여성이라도 일반적으로 comedian을 써요. 'The whole thing was a comedy of errors'는 실수가 연달아 벌어진 한바탕 소동을 뜻하는 관용 표현이에요. 불가산으로 장르 전체를 가리키기도 해요.",
+  "also": [
+   {
+    "w": "comedian",
+    "pos": "n",
+    "ko": "코미디언",
+    "en": "He's a famous stand-up **comedian**."
+   }
+  ]
+ },
+ {
+  "w": "commission",
+  "pos": "n",
+  "meaning_ko": "위원회, 수수료, 의뢰",
+  "example_en": "Salespeople here earn a **commission** on every deal they close.",
+  "example_ko": "여기 영업 직원들은 성사시킨 거래마다 수수료를 받아.",
+  "nuance_ko": "commission은 쓰임이 아주 많은 단어예요. 정부가 만든 위원회(the Federal Trade Commission), 판매 수수료, 작품이나 일의 의뢰를 모두 뜻해요. 영업직에서는 'work on commission'이 '성과에 따라 수당을 받는 방식으로 일하다'라는 뜻이에요. 예술가가 'a commissioned portrait'처럼 의뢰받은 작품도 commission이에요. 동사로는 '의뢰하다, 위임하다'예요. 'out of commission'은 '고장 나서 쓸 수 없는'이라는 관용 표현이에요.",
+  "also": [
+   {
+    "w": "commissioner",
+    "pos": "n",
+    "ko": "위원, 국장",
+    "en": "The police **commissioner** gave a statement."
+   },
+   {
+    "w": "commissioned",
+    "pos": "adj",
+    "ko": "의뢰받은",
+    "en": "It's a **commissioned** painting for the lobby."
+   }
+  ]
+ },
+ {
+  "w": "communicate",
+  "pos": "v",
+  "meaning_ko": "의사소통하다, 전달하다",
+  "example_en": "It's hard to **communicate** when you don't share a language.",
+  "example_ko": "같은 언어를 쓰지 않으면 의사소통하기가 어려워.",
+  "nuance_ko": "communicate는 말, 글, 몸짓 등으로 정보나 감정을 주고받는다는 뜻이에요. communicate with someone about something 구문으로 써요. talk는 말하는 행위 자체이고, communicate는 뜻이 제대로 전달되는 것까지 포함해요. 회사에서 'communicate clearly'(분명하게 소통하다)는 정말 자주 듣는 요구예요. 타동사로 'communicate a message'(메시지를 전하다)도 가능해요. 명사 communication은 '의사소통, 통신'으로 불가산이고, communications는 통신 수단을 가리켜요.",
+  "also": [
+   {
+    "w": "communication",
+    "pos": "n",
+    "ko": "의사소통",
+    "en": "Good **communication** is key to any team."
+   },
+   {
+    "w": "communicative",
+    "pos": "adj",
+    "ko": "의사소통에 적극적인",
+    "en": "She's very **communicative** about her feelings."
+   }
+  ]
+ },
+ {
+  "w": "communist",
+  "pos": "n",
+  "meaning_ko": "공산주의자",
+  "example_en": "The **communist** party ruled the country for decades.",
+  "example_ko": "공산당이 수십 년 동안 그 나라를 통치했어.",
+  "nuance_ko": "communist는 공산주의를 신봉하거나 그런 정당·정권에 속한 사람이에요. 형용사로는 '공산주의의'(communist regime)예요. 역사·정치 맥락에서 중립적으로 쓰이지만, 냉전 시기에는 상대를 비난하는 낙인으로도 쓰였어요. 한국 학습자는 communism(공산주의)과 communist(공산주의자·공산주의의)의 품사 차이를 헷갈리기 쉬워요. 대문자 Communist Party는 고유한 정당 이름으로 쓰고, 일반적인 이념은 소문자로 써요. socialist와는 다른 개념이라는 점도 알아두세요.",
+  "also": [
+   {
+    "w": "anticommunist",
+    "pos": "adj",
+    "ko": "반공의",
+    "en": "The government took a strong **anticommunist** stance."
+   }
+  ]
+ },
+ {
+  "w": "companion",
+  "pos": "n",
+  "meaning_ko": "동반자, 길동무",
+  "example_en": "My dog has been my closest **companion** for ten years.",
+  "example_ko": "우리 강아지가 십 년째 가장 가까운 동반자야.",
+  "nuance_ko": "companion은 함께 시간을 보내거나 길을 같이 가는 벗이에요. 사람뿐 아니라 반려동물도 'a loyal companion'이라고 해요. friend보다 함께하는 상태 자체에 초점이 있어서 travel companion(여행 동반자)처럼 쓰여요. 노인 곁에서 돌봐 주는 사람도 companion이라고 해요. 책 제목에서 'A Companion to ~'는 '~에 대한 안내서'란 뜻이에요. 명사 companionship은 '함께 있어서 느끼는 친밀감'이라 'enjoy the companionship of friends'처럼 써요.",
+  "also": [
+   {
+    "w": "companionship",
+    "pos": "n",
+    "ko": "동료애, 교제",
+    "en": "Old people often value **companionship** above all."
+   }
+  ]
+ },
+ {
+  "w": "compensate",
+  "pos": "v",
+  "meaning_ko": "보상하다, 만회하다",
+  "example_en": "The airline will **compensate** passengers for the long delay.",
+  "example_ko": "항공사가 긴 지연에 대해 승객들에게 보상할 거야.",
+  "nuance_ko": "compensate는 손해나 부족을 다른 것으로 메워 균형을 맞춘다는 뜻이에요. compensate someone for something 구문이 기본이고, compensate for ~는 '~을 보완하다'로 쓰여요. 'She compensated for her lack of experience with hard work'처럼 부족함을 다른 장점으로 메우는 의미로도 자주 써요. repay는 빚을 갚는 것이고, compensate는 손실에 상응하는 보상을 하는 거예요. 명사 compensation은 '보상금'이라서 뉴스에서 자주 보여요.",
+  "also": [
+   {
+    "w": "compensation",
+    "pos": "n",
+    "ko": "보상금, 보상",
+    "en": "He received **compensation** for his injury."
+   }
+  ]
+ },
+ {
+  "w": "compete",
+  "pos": "v",
+  "meaning_ko": "경쟁하다, 겨루다",
+  "example_en": "Over a hundred schools will **compete** in the tournament.",
+  "example_ko": "백 개가 넘는 학교가 대회에서 겨룰 거야.",
+  "nuance_ko": "compete는 승리나 이익을 두고 다른 상대와 겨룬다는 뜻이에요. compete with/against someone for something 구문으로 써요. 스포츠 대회(compete in a race)와 시장 경쟁(compete with other brands) 모두에 쓰여요. fight는 몸싸움이나 투쟁이고, compete는 규칙 안에서 겨루는 경쟁이에요. 형용사 competitive는 '경쟁력 있는, 승부욕 강한'이고, competitor는 경쟁자예요. 자동사라서 목적어를 바로 쓰지 않아요.",
+  "also": [
+   {
+    "w": "competitive",
+    "pos": "adj",
+    "ko": "경쟁이 치열한, 경쟁력 있는",
+    "en": "It's a very **competitive** job market."
+   },
+   {
+    "w": "competitor",
+    "pos": "n",
+    "ko": "경쟁자, 경쟁사",
+    "en": "Our biggest **competitor** just cut its prices."
+   }
+  ]
+ },
+ {
+  "w": "competent",
+  "pos": "adj",
+  "meaning_ko": "유능한, 능력 있는",
+  "example_en": "She's a **competent** manager who gets things done.",
+  "example_ko": "그분은 일을 제대로 해내는 유능한 관리자야.",
+  "nuance_ko": "competent는 맡은 일을 충분히 잘 해낼 능력이 있다는 뜻이에요. 대단히 뛰어나다는 칭찬보다는 '믿고 맡길 만하다'는 느낌이에요. skilled나 talented보다 담담하고 실무적인 평가예요. 반대말 incompetent는 '무능한'으로 아주 강한 비난이라 사람에게 직접 쓰면 무례해요. 법률에서는 'legally competent'(법적 능력이 있는)처럼 쓰이기도 해요. 명사 competence/competency는 업무 역량을 뜻해서 이력서와 평가서에 나와요.",
+  "also": [
+   {
+    "w": "incompetent",
+    "pos": "adj",
+    "ko": "무능한",
+    "en": "The previous manager was completely **incompetent**."
+   },
+   {
+    "w": "competency",
+    "pos": "n",
+    "ko": "역량",
+    "en": "The job requires strong technical **competency**."
+   }
+  ]
+ },
+ {
+  "w": "complaint",
+  "pos": "n",
+  "meaning_ko": "불평, 항의, 고소",
+  "example_en": "I'd like to make a **complaint** about the noise upstairs.",
+  "example_ko": "윗집 소음에 대해 항의하고 싶어요.",
+  "nuance_ko": "complaint는 불만을 표시하는 말이나 공식적인 항의예요. make a complaint, file a complaint, a complaint about ~처럼 써요. 서비스나 제품에 대한 불만은 customer complaint라고 해요. 의학에서는 '증상, 호소'라는 뜻도 있어서 'a stomach complaint'는 배 아픈 증세예요. 법에서는 소장(고소장)도 complaint라고 불러요. 동사 complain은 'complain about ~'으로 쓰는데, 불평 대상 앞의 전치사는 about이라는 점을 기억하세요.",
+  "also": []
+ },
+ {
+  "w": "complex",
+  "pos": "adj",
+  "meaning_ko": "복잡한",
+  "example_en": "The tax rules are far too **complex** for most people.",
+  "example_ko": "세금 규정은 대부분의 사람에게 너무 복잡해.",
+  "nuance_ko": "complex는 여러 부분이 얽혀 있어서 이해하기 어려운 복잡함을 말해요. complicated와 비슷하지만 complex는 구조가 정교하고 다층적인 것을, complicated는 불필요하게 꼬여 있는 것을 가리키는 느낌이에요. 명사로는 단지나 복합 건물(apartment complex, sports complex)을 뜻하고, 심리학에서는 콤플렉스(inferiority complex)예요. 한국어 '콤플렉스'는 보통 열등감만 가리키지만 영어 complex는 훨씬 넓은 개념이에요. 형용사는 /kəmˈpleks/, 명사는 /ˈkɑːmpleks/로 강세가 달라요.",
+  "also": [
+   {
+    "w": "complexity",
+    "pos": "n",
+    "ko": "복잡성",
+    "en": "I underestimated the **complexity** of the task."
+   }
+  ]
+ },
+ {
+  "w": "component",
+  "pos": "n",
+  "meaning_ko": "구성 요소, 부품",
+  "example_en": "Each **component** of the machine is tested separately.",
+  "example_ko": "기계의 각 부품은 따로따로 시험해.",
+  "nuance_ko": "component는 전체를 이루는 한 부분, 즉 구성 요소나 부품이에요. 전자기기의 부품(electronic components)에도 쓰고, 계획이나 시스템의 일부(a key component of the plan)에도 써요. part보다 더 기술적이고 격식 있는 느낌이 있어요. 소프트웨어 개발에서는 UI의 '컴포넌트'로 매일 쓰는 단어예요. 'main component'(주성분), 'essential component'(필수 요소)처럼 형용사와 자주 붙어요. 복수형은 components예요.",
+  "also": []
+ },
+ {
+  "w": "compose",
+  "pos": "v",
+  "meaning_ko": "작곡하다, 구성하다",
+  "example_en": "She **composed** her first song when she was only twelve.",
+  "example_ko": "걔는 열두 살 때 첫 곡을 작곡했어.",
+  "nuance_ko": "compose는 여러 요소를 모아 하나의 작품이나 전체로 만든다는 뜻이에요. 음악을 작곡하는 것, 글이나 이메일을 쓰는 것에 쓰여요. 'be composed of ~'는 '~로 구성되다'로 자주 나오는 수동태 구문이에요. 'compose yourself'는 '마음을 가라앉히다'라는 뜻의 관용구예요. write는 일반적인 글쓰기이고, compose는 신경 써서 구성한다는 느낌이 있어요. 작곡가는 composer예요.",
+  "also": [
+   {
+    "w": "composer",
+    "pos": "n",
+    "ko": "작곡가",
+    "en": "Mozart was a famous **composer**."
+   },
+   {
+    "w": "composition",
+    "pos": "n",
+    "ko": "구성, 작품",
+    "en": "The **composition** of the soil affects plant growth."
+   }
+  ]
+ },
+ {
+  "w": "compound",
+  "pos": "n",
+  "meaning_ko": "화합물, 복합체, 구내",
+  "example_en": "Water is a **compound** made of hydrogen and oxygen.",
+  "example_ko": "물은 수소와 산소로 이루어진 화합물이야.",
+  "nuance_ko": "compound는 둘 이상의 요소가 합쳐진 것을 말해요. 화학에서는 화합물이고, 언어에서는 두 단어를 합친 합성어(compound word), 건물에서는 울타리로 둘러싸인 구역(a prison compound)을 뜻해요. 동사로는 '악화시키다'라는 뜻도 있어서 'compound the problem'은 이미 있는 문제를 더 키운다는 뜻이에요. 금융의 compound interest는 복리를 말해요. 명사는 /ˈkɑːmpaʊnd/, 동사는 /kəmˈpaʊnd/로 강세가 달라요.",
+  "also": []
+ },
+ {
+  "w": "comprehensive",
+  "pos": "adj",
+  "meaning_ko": "포괄적인, 종합적인",
+  "example_en": "The book gives a **comprehensive** overview of the topic.",
+  "example_ko": "그 책은 주제에 대해 포괄적으로 개관해 줘.",
+  "nuance_ko": "comprehensive는 중요한 부분을 빠짐없이 다 아우른다는 뜻이에요. a comprehensive guide, comprehensive coverage, a comprehensive review처럼 써요. complete와 비슷하지만 comprehensive는 범위가 넓고 세밀하게 다룬다는 점에 초점이 있어요. 보험에서 'comprehensive insurance'는 종합 보험이에요. 영국에서는 comprehensive school이 입학 시험 없이 모든 학생을 받는 중등학교예요. 한국 학습자는 comprehend(이해하다)와 헷갈리지만 형용사는 '이해하는'이 아니라 '포괄적인'이에요.",
+  "also": [
+   {
+    "w": "comprehensively",
+    "pos": "adv",
+    "ko": "포괄적으로",
+    "en": "The topic was **comprehensively** covered in the report."
+   }
+  ]
+ },
+ {
+  "w": "comprise",
+  "pos": "v",
+  "meaning_ko": "~로 구성되다, 이루다",
+  "example_en": "The committee **comprises** twelve members from different fields.",
+  "example_ko": "위원회는 여러 분야에서 온 열두 명의 위원으로 이루어져 있어.",
+  "nuance_ko": "comprise는 '전체가 부분들을 포함하여 이루어져 있다'는 뜻으로, 전체가 주어이고 부분이 목적어예요. 그래서 'The team comprises ten players'라고 말하고, 'be comprised of'는 전통 문법에서는 틀렸다고 보지만 실제로는 많이 쓰여요. consist of와 뜻이 비슷하지만 comprise는 타동사라서 of를 쓰지 않는 게 표준이에요. 부분이 주어면 make up이나 constitute를 써서 'Ten players make up the team'이라고 해요. 격식 있는 글에서 주로 나와요.",
+  "also": []
+ },
+ {
+  "w": "compromise",
+  "pos": "n",
+  "meaning_ko": "타협, 절충",
+  "example_en": "After hours of talking, they finally reached a **compromise**.",
+  "example_ko": "몇 시간을 얘기한 끝에 그들은 결국 타협점을 찾았어.",
+  "nuance_ko": "compromise는 양쪽이 서로 조금씩 양보해서 합의에 이르는 타협이에요. reach a compromise, make a compromise, willing to compromise처럼 써요. 동사로 쓰면 '타협하다'이지만 'compromise your principles'는 '원칙을 저버리다'라는 부정적인 뜻이에요. 보안 맥락에서 'the system was compromised'는 해킹당했다는 뜻이라서, 컴퓨터 분야에서도 자주 나와요. uncompromising은 '타협하지 않는, 단호한'이라는 형용사예요.",
+  "also": [
+   {
+    "w": "compromised",
+    "pos": "adj",
+    "ko": "손상된, 침해당한",
+    "en": "Our passwords may have been **compromised**."
+   },
+   {
+    "w": "uncompromising",
+    "pos": "adj",
+    "ko": "타협 없는",
+    "en": "He took an **uncompromising** stance on safety."
+   }
+  ]
+ },
+ {
+  "w": "conceive",
+  "pos": "v",
+  "meaning_ko": "상상하다, 생각해 내다, 임신하다",
+  "example_en": "I can't **conceive** of living without my phone.",
+  "example_ko": "폰 없이 사는 건 상상도 안 돼.",
+  "nuance_ko": "conceive는 머릿속에서 아이디어나 계획을 떠올려 구상한다는 뜻이에요. 'conceive of ~'는 '~을 상상하다, 생각해 내다'로 부정문에서 특히 자주 써요. 'The plan was conceived in 2015'처럼 구상 단계를 가리키기도 해요. 의학에서는 '임신하다'라는 뜻도 있어요(conceive a child). imagine보다 격식 있고 논리적으로 생각해 낸다는 느낌이에요. 형용사 conceivable은 '상상할 수 있는', inconceivable은 '상상조차 할 수 없는'이에요.",
+  "also": [
+   {
+    "w": "conceivable",
+    "pos": "adj",
+    "ko": "상상할 수 있는",
+    "en": "It's **conceivable** that prices will fall."
+   },
+   {
+    "w": "inconceivable",
+    "pos": "adj",
+    "ko": "상상할 수 없는",
+    "en": "Such cruelty seems **inconceivable** to me."
+   }
+  ]
+ },
+ {
+  "w": "concept",
+  "pos": "n",
+  "meaning_ko": "개념",
+  "example_en": "The **concept** of time is hard to explain to kids.",
+  "example_ko": "시간이라는 개념은 아이들에게 설명하기 어려워.",
+  "nuance_ko": "concept은 머릿속에 있는 추상적인 개념이나 발상이에요. the concept of freedom, a new concept처럼 써요. idea는 떠오른 생각 전반이고, concept은 어느 정도 정리된 체계적 개념이라는 차이가 있어요. 광고나 제품 개발에서는 'concept art', 'concept car'처럼 아직 실현 전의 시안을 뜻해요. 'have no concept of ~'는 '~에 대한 개념이 없다'는 말로 무지를 강조해요. 형용사 conceptual은 '개념적인'이에요.",
+  "also": [
+   {
+    "w": "conceptual",
+    "pos": "adj",
+    "ko": "개념적인",
+    "en": "It's still at a **conceptual** stage."
+   }
+  ]
+ },
+ {
+  "w": "concert",
+  "pos": "n",
+  "meaning_ko": "콘서트, 연주회",
+  "example_en": "We got tickets to her **concert** next month.",
+  "example_ko": "다음 달 걔 콘서트 표를 구했어.",
+  "nuance_ko": "concert는 음악가들이 관객 앞에서 연주하는 공연이에요. go to a concert, live concert, rock concert처럼 써요. 'in concert with ~'는 '~와 협력하여'라는 격식 있는 숙어로, 여기서는 음악과 무관해요. gig는 소규모 라이브 공연이나 단발성 일을 가리키는 구어체예요. 오케스트라 공연은 보통 concert라고 하고, 연극은 play 또는 performance라서 구분돼요. 'concert hall'은 연주회장이에요.",
+  "also": []
+ },
+ {
+  "w": "conclude",
+  "pos": "v",
+  "meaning_ko": "결론짓다, 끝내다",
+  "example_en": "The study **concluded** that sleep affects memory.",
+  "example_ko": "그 연구는 수면이 기억력에 영향을 준다고 결론지었어.",
+  "nuance_ko": "conclude는 증거나 논의를 바탕으로 결론을 내리거나, 어떤 일을 마무리한다는 뜻이에요. conclude that ~ 구문으로 많이 써요. 연구 보고서에서 'We conclude that ~'는 정말 자주 쓰여요. 공식 행사나 회의를 끝낼 때도 써서 'The meeting concluded at five'라고 해요. end보다 격식 있고, 논리적 결론을 낸다는 느낌이 있어요. 합의에 이르는 것(conclude a deal, conclude an agreement)도 뜻해요.",
+  "also": [
+   {
+    "w": "concluding",
+    "pos": "adj",
+    "ko": "마무리하는",
+    "en": "In her **concluding** remarks, she thanked everyone."
+   }
+  ]
+ },
+ {
+  "w": "conclusion",
+  "pos": "n",
+  "meaning_ko": "결론",
+  "example_en": "Don't jump to a **conclusion** before you know all the facts.",
+  "example_ko": "사실을 다 알기 전에 섣불리 결론짓지 마.",
+  "nuance_ko": "conclusion은 논의, 연구, 글의 끝에서 도출한 결론이에요. reach a conclusion, draw a conclusion, in conclusion(끝으로)처럼 써요. 'jump to conclusions'는 성급하게 단정짓는다는 뜻의 흔한 관용구예요. 글쓰기에서는 서론(introduction), 본론(body)과 짝을 이루는 마지막 부분이에요. decision은 선택한 결정이고, conclusion은 생각이나 증거의 결과로 이르는 판단이라는 점이 달라요. 'foregone conclusion'은 '뻔한 결과'를 뜻해요.",
+  "also": []
+ },
+ {
+  "w": "concrete",
+  "pos": "adj",
+  "meaning_ko": "구체적인, 콘크리트로 된",
+  "example_en": "Can you give me a **concrete** example of what you mean?",
+  "example_ko": "무슨 말인지 구체적인 예를 하나 들어 줄래?",
+  "nuance_ko": "concrete는 형용사로는 추상적(abstract)이지 않고 실제적이며 구체적이라는 뜻이에요. concrete evidence(확실한 증거), concrete plan(구체적인 계획), concrete example처럼 써요. 명사로는 건설 재료인 콘크리트예요. 'concrete jungle'은 콘크리트로 뒤덮인 도시를 비유해요. 두 뜻이 완전히 달라 보이지만 둘 다 '단단히 굳어서 실체가 있는'이란 이미지에서 나왔어요. 강세는 형용사와 명사 모두 첫 음절이에요.",
+  "also": [
+   {
+    "w": "concretely",
+    "pos": "adv",
+    "ko": "구체적으로",
+    "en": "Let me explain this more **concretely**."
+   }
+  ]
+ },
+ {
+  "w": "condemn",
+  "pos": "v",
+  "meaning_ko": "비난하다, 규탄하다",
+  "example_en": "World leaders **condemned** the attack in strong terms.",
+  "example_ko": "세계 지도자들이 그 공격을 강한 어조로 규탄했어.",
+  "nuance_ko": "condemn은 도덕적·사회적으로 강하게 비난한다는 뜻이에요. 뉴스에서 'condemned the violence'처럼 폭력, 테러, 인권 침해를 규탄할 때 정말 자주 써요. criticize보다 훨씬 강하고, 공개적이고 단호한 비난이에요. 법에서는 사형이나 중형을 선고하는 것(be condemned to death)도 뜻해요. 건물이 위험해서 사용 금지 처분을 받을 때도 'The building was condemned'라고 해요. 발음에서 마지막 n은 소리 나지 않아요(/kənˈdem/).",
+  "also": [
+   {
+    "w": "condemnation",
+    "pos": "n",
+    "ko": "비난, 규탄",
+    "en": "The decision drew widespread **condemnation**."
+   }
+  ]
+ },
+ {
+  "w": "conduct",
+  "pos": "v",
+  "meaning_ko": "수행하다, 지휘하다",
+  "example_en": "Researchers **conducted** a survey of over a thousand people.",
+  "example_ko": "연구진이 천 명이 넘는 사람을 대상으로 설문조사를 실시했어.",
+  "nuance_ko": "conduct는 조사, 실험, 회의 같은 활동을 계획대로 진행한다는 뜻이에요. conduct a survey, conduct an experiment, conduct an interview처럼 써요. 음악에서는 오케스트라를 지휘하고, 물리에서는 열이나 전기를 전도한다는 뜻도 있어요. 동사는 /kənˈdʌkt/, 명사는 /ˈkɑːndʌkt/로 강세가 달라요. 명사 conduct는 '행동, 품행'으로, code of conduct(행동 강령)가 회사 규정에 자주 나와요. do보다 격식 있고 체계적인 진행을 나타내요.",
+  "also": [
+   {
+    "w": "conductor",
+    "pos": "n",
+    "ko": "지휘자, 도체",
+    "en": "The **conductor** raised his baton."
+   },
+   {
+    "w": "conducted",
+    "pos": "adj",
+    "ko": "실시된",
+    "en": "The study was **conducted** over three years."
+   }
+  ]
+ },
+ {
+  "w": "confer",
+  "pos": "v",
+  "meaning_ko": "협의하다, 수여하다",
+  "example_en": "The doctors left the room to **confer** in private.",
+  "example_ko": "의사들은 따로 상의하려고 방을 나갔어.",
+  "nuance_ko": "confer에는 두 가지 뜻이 있어요. 하나는 서로 의견을 나누며 협의하는 것이고(confer with someone), 다른 하나는 학위나 명예를 공식적으로 수여하는 것이에요(confer a degree). 이 두 뜻이 같은 단어에서 나왔다는 점이 신기해요. 협의 의미는 consult와 비슷하지만 confer는 동등한 관계에서 의견을 나누는 느낌이에요. 명사 conference는 '회의, 학술대회'로 훨씬 자주 쓰여요. 발음은 /kənˈfɜːr/로 두 번째 음절에 강세가 와요.",
+  "also": [
+   {
+    "w": "conference",
+    "pos": "n",
+    "ko": "회의, 학술대회",
+    "en": "She's presenting a paper at a **conference** in Boston."
+   }
+  ]
+ },
+ {
+  "w": "confess",
+  "pos": "v",
+  "meaning_ko": "고백하다, 자백하다",
+  "example_en": "I have to **confess** that I haven't read the book.",
+  "example_ko": "사실 그 책을 안 읽었다고 고백해야겠어.",
+  "nuance_ko": "confess는 숨기고 있던 잘못이나 부끄러운 사실을 털어놓는다는 뜻이에요. 범죄를 자백하는 것(confess to a crime)과 가벼운 고백('I have to confess ~')에 모두 써요. 이때 전치사 to를 쓰는 점이 중요해요. 종교에서는 죄를 고해하는 것을 말해요. admit과 비슷하지만 confess는 감추고 싶던 비밀을 털어놓는 무게감이 있어요. 연애 감정을 고백할 때도 'confess one's feelings'라고 쓸 수 있어요.",
+  "also": [
+   {
+    "w": "confession",
+    "pos": "n",
+    "ko": "고백, 자백",
+    "en": "His **confession** surprised everyone."
+   }
+  ]
+ },
+ {
+  "w": "confidence",
+  "pos": "n",
+  "meaning_ko": "자신감, 신뢰",
+  "example_en": "Practice will give you more **confidence** before the speech.",
+  "example_ko": "연습하면 연설 전에 자신감이 더 생길 거야.",
+  "nuance_ko": "confidence는 자기 능력에 대한 자신감, 그리고 상대에 대한 믿음이라는 두 뜻이 있어요. have confidence in ~(~을 신뢰하다), lose confidence, boost confidence처럼 써요. 'in confidence'는 '비밀로, 은밀히'라는 뜻이라서 'tell someone in confidence'는 비밀로 말해 준다는 의미예요. 정치에서 'vote of no confidence'는 불신임 투표예요. trust가 믿음 전반이라면 confidence는 능력과 결과에 대한 확신이 강조돼요.",
+  "also": []
+ },
+ {
+  "w": "confident",
+  "pos": "adj",
+  "meaning_ko": "자신 있는, 확신하는",
+  "example_en": "I'm **confident** that we'll win the game.",
+  "example_ko": "우리가 이 경기를 이길 거라고 확신해.",
+  "nuance_ko": "confident는 자신이 잘할 수 있다고 믿거나 어떤 일이 잘될 거라고 확신하는 상태예요. be confident of/about/in ~ 또는 be confident that절로 써요. sure와 비슷하지만 confident는 능력이나 결과에 대한 믿음, 자신감이 담겨 있어요. 사람의 성격을 말할 때는 'a confident speaker'처럼 긍정적이에요. arrogant와 달리 confident는 근거 있는 자신감이라는 점에서 다르죠. 부사는 confidently예요.",
+  "also": [
+   {
+    "w": "confidently",
+    "pos": "adv",
+    "ko": "자신 있게",
+    "en": "She walked **confidently** onto the stage."
+   }
+  ]
+ },
+ {
+  "w": "confine",
+  "pos": "v",
+  "meaning_ko": "가두다, 한정하다",
+  "example_en": "Please **confine** your questions to the topic we discussed.",
+  "example_ko": "질문은 우리가 논의한 주제로만 한정해 주세요.",
+  "nuance_ko": "confine은 어떤 범위나 공간 안에 가두거나 제한한다는 뜻이에요. 사람이나 동물을 가두는 것(confined to a cage)과, 활동이나 범위를 제한하는 것(confine yourself to ~)에 모두 써요. 병상에 누워 있는 상황은 'be confined to bed'라고 해요. limit보다 더 갇힌 느낌이고, 수동태 'be confined to'가 아주 흔해요. 명사 confinement는 감금이나 제한이고, 복수 confines는 '한계, 경계'예요(within the confines of the room).",
+  "also": [
+   {
+    "w": "confined",
+    "pos": "adj",
+    "ko": "갇힌, 좁은",
+    "en": "We were stuck in a small **confined** space."
+   },
+   {
+    "w": "confinement",
+    "pos": "n",
+    "ko": "감금, 제한",
+    "en": "He spent a year in solitary **confinement**."
+   }
+  ]
+ },
+ {
+  "w": "confirm",
+  "pos": "v",
+  "meaning_ko": "확인해 주다, 확정하다",
+  "example_en": "Please **confirm** your reservation by Friday.",
+  "example_ko": "금요일까지 예약을 확정해 주세요.",
+  "nuance_ko": "confirm은 이미 알려졌거나 예상한 사실이 맞다고 확인해 주거나 확정한다는 뜻이에요. confirm a reservation, confirm an appointment, confirm receipt처럼 비즈니스에서 정말 자주 써요. check은 직접 살펴보는 것이고, confirm은 사실임을 공식적으로 확인해 주는 느낌이에요. 의심이 확신으로 바뀔 때도 써서 'This confirms my suspicion.'이라고 해요. 이메일의 'Please confirm.'은 '확인 부탁드립니다'로 정말 흔해요. 명사는 confirmation(확인, 확정)이에요.",
+  "also": [
+   {
+    "w": "confirmation",
+    "pos": "n",
+    "ko": "확인, 확정",
+    "en": "You'll get an email **confirmation** shortly."
+   },
+   {
+    "w": "confirmed",
+    "pos": "adj",
+    "ko": "확정된, 굳어진",
+    "en": "He is a **confirmed** bachelor."
+   }
+  ]
+ },
+ {
+  "w": "conflict",
+  "pos": "n",
+  "meaning_ko": "갈등, 충돌",
+  "example_en": "There's a **conflict** between my work schedule and the class.",
+  "example_ko": "내 근무 일정이랑 수업이 충돌해.",
+  "nuance_ko": "conflict는 의견, 이익, 일정 등이 서로 맞지 않아 부딪치는 갈등을 말해요. 국가 간 무력 충돌(armed conflict)에서부터 일정 충돌(scheduling conflict)까지 폭넓게 써요. conflict of interest(이해 상충)는 법률과 윤리에서 아주 중요한 표현이에요. 명사는 /ˈkɑːnflɪkt/, 동사는 /kənˈflɪkt/로 강세가 달라요. 동사로는 'conflict with'로 '~와 상충하다'예요. fight보다 구조적이고 지속적인 갈등이라는 느낌이 있어요.",
+  "also": [
+   {
+    "w": "conflicting",
+    "pos": "adj",
+    "ko": "상충하는",
+    "en": "We received **conflicting** reports about the accident."
+   }
+  ]
+ },
+ {
+  "w": "confront",
+  "pos": "v",
+  "meaning_ko": "맞서다, 직면하다",
+  "example_en": "It's time to **confront** the problem instead of avoiding it.",
+  "example_ko": "이제 피하지만 말고 그 문제와 정면으로 맞서야 할 때야.",
+  "nuance_ko": "confront는 피하지 않고 어려운 문제나 사람과 직접 맞선다는 뜻이에요. confront a problem, confront a fear처럼 쓰고, 사람에게는 'confront someone about something'(~에 대해 따지다)이 흔해요. face와 비슷하지만 confront가 더 적극적이고 대결적인 느낌이에요. 수동태 'be confronted with ~'(~에 직면하다)는 어려운 상황에 맞닥뜨렸을 때 써요. 명사 confrontation은 '대립, 대치'이고, 형용사 confrontational은 '대결적인'이에요.",
+  "also": [
+   {
+    "w": "confrontation",
+    "pos": "n",
+    "ko": "대립, 대치",
+    "en": "The two leaders avoided a direct **confrontation**."
+   }
+  ]
+ },
+ {
+  "w": "congress",
+  "pos": "n",
+  "meaning_ko": "의회, 대규모 회의",
+  "example_en": "**Congress** is expected to vote on the bill next week.",
+  "example_ko": "의회가 다음 주에 그 법안을 표결할 것으로 예상돼.",
+  "nuance_ko": "Congress는 미국의 입법 기관으로 상원(Senate)과 하원(House of Representatives)으로 이루어져 있어요. 보통 대문자로 쓰고 the를 붙이지 않아요. member of Congress, pass through Congress처럼 써요. 소문자 congress는 학술이나 정치적 대규모 회의를 뜻해요(a medical congress). 영국의 의회는 Parliament라서 구분돼요. 형용사 congressional은 'a congressional hearing'(의회 청문회)처럼 써요.",
+  "also": [
+   {
+    "w": "congressional",
+    "pos": "adj",
+    "ko": "의회의",
+    "en": "A **congressional** committee investigated the case."
+   }
+  ]
+ },
+ {
+  "w": "consent",
+  "pos": "n",
+  "meaning_ko": "동의, 허락",
+  "example_en": "You need parental **consent** to join the trip.",
+  "example_ko": "여행에 참가하려면 부모님의 동의가 필요해.",
+  "nuance_ko": "consent는 어떤 일에 대해 자발적으로 허락하거나 동의하는 것이에요. give consent, with the consent of ~, informed consent(충분한 설명 후의 동의)처럼 써요. 의료와 법률에서 매우 중요한 개념이에요. 동사로는 consent to ~(~에 동의하다)로 써요. agree는 의견이 같다는 뜻도 있지만, consent는 상대의 요청이나 제안을 허락한다는 의미가 강해요. 'age of consent'는 성관계에 동의할 수 있는 법적 연령이에요.",
+  "also": []
+ },
+ {
+  "w": "consequence",
+  "pos": "n",
+  "meaning_ko": "결과, 영향",
+  "example_en": "You have to accept the **consequences** of your actions.",
+  "example_ko": "네 행동의 결과는 네가 받아들여야 해.",
+  "nuance_ko": "consequence는 어떤 행동이나 사건의 결과로 따라오는 영향이고, 대체로 부정적인 결과를 뜻해요. face the consequences, serious consequences, as a consequence of ~처럼 써요. result는 중립적인 결과이고, consequence는 그로 인해 파생되는 후과라는 느낌이 강해요. 'of no consequence'는 '중요하지 않은'이란 관용 표현이에요. 복수형으로 쓰는 경우가 많아요. 'in consequence'(그 결과)는 문어적인 접속 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "consequent",
+  "pos": "adj",
+  "meaning_ko": "그에 따른, 결과로 생기는",
+  "example_en": "The factory closed, with the **consequent** loss of five hundred jobs.",
+  "example_ko": "공장이 문을 닫았고, 그 결과 오백 개의 일자리가 사라졌어.",
+  "nuance_ko": "consequent는 앞서 일어난 일의 결과로 뒤따라 생기는 것을 꾸며주는 격식 있는 형용사예요. the consequent loss, the consequent changes처럼 명사 앞에 써요. 'consequent upon ~'은 '~에 뒤따르는'이란 문어적 표현이에요. 일상에서는 이 형용사보다 부사 consequently를 훨씬 많이 봐요. consequently는 therefore나 as a result와 비슷한 접속부사로, 문장 앞에서 'Consequently, we had to cancel.'처럼 써요. 형용사 consequential(중대한)과는 뜻이 달라요.",
+  "also": [
+   {
+    "w": "consequently",
+    "pos": "adv",
+    "ko": "그 결과, 따라서",
+    "en": "It rained all day; **consequently**, the match was cancelled."
+   }
+  ]
+ },
+ {
+  "w": "conservative",
+  "pos": "adj",
+  "meaning_ko": "보수적인",
+  "example_en": "My parents are quite **conservative** about money.",
+  "example_ko": "우리 부모님은 돈에 관해서는 꽤 보수적이셔.",
+  "nuance_ko": "conservative는 변화를 꺼리고 전통을 지키려는 보수적인 성향이에요. 정치에서는 보수 성향(the Conservative Party)을 뜻하고, 대문자 Conservative는 영국 보수당을 가리켜요. 일상에서는 'a conservative estimate'처럼 '적게 잡은, 신중한'이라는 뜻도 있어서, 수치를 낮게 어림할 때 써요. 옷차림이 단정하고 튀지 않는 것도 conservative라고 해요. 반대는 liberal 또는 progressive예요. 명사로도 쓰여서 'a conservative'는 보수주의자예요.",
+  "also": [
+   {
+    "w": "conservatively",
+    "pos": "adv",
+    "ko": "보수적으로, 신중하게",
+    "en": "The company is **conservatively** estimated to be worth millions."
+   }
+  ]
+ },
+ {
+  "w": "conserve",
+  "pos": "v",
+  "meaning_ko": "보존하다, 아껴 쓰다",
+  "example_en": "We should **conserve** water during the dry season.",
+  "example_ko": "건기에는 물을 아껴 써야 해.",
+  "nuance_ko": "conserve는 자원을 낭비하지 않고 아끼거나, 자연·문화재를 훼손되지 않게 보존한다는 뜻이에요. conserve energy, conserve water처럼 자원 절약에 많이 써요. save는 일반적으로 아끼는 것이고, conserve는 앞으로를 위해 신중하게 관리한다는 격식 있는 느낌이에요. preserve는 원형 그대로 유지하는 쪽이고, conserve는 쓰면서도 보호하는 쪽이라는 뉘앙스 차이가 있어요. 명사 conservation은 '보존, 보호'로 wildlife conservation(야생동물 보호)이 대표적이에요.",
+  "also": [
+   {
+    "w": "conservation",
+    "pos": "n",
+    "ko": "보존, 보호",
+    "en": "The group works on wildlife **conservation**."
+   }
+  ]
+ },
+ {
+  "w": "considerable",
+  "pos": "adj",
+  "meaning_ko": "상당한, 꽤 많은",
+  "example_en": "She spent a **considerable** amount of time on the project.",
+  "example_ko": "걔는 그 프로젝트에 상당한 시간을 썼어.",
+  "nuance_ko": "considerable은 양, 정도, 중요성이 꽤 크다는 뜻이에요. considerable amount, considerable difference, considerable effort처럼 써요. 크기를 직접 말하기보다 '상당하다'고 평가하는 느낌이에요. considerate(배려심 있는)와 철자가 비슷해서 헷갈리지만 뜻은 전혀 달라요. 'considerable'은 사람의 성격에는 쓰지 않아요. 부사 considerably는 '상당히'로 비교급과 함께 'considerably higher'처럼 자주 써요.",
+  "also": [
+   {
+    "w": "considerably",
+    "pos": "adv",
+    "ko": "상당히",
+    "en": "Prices have risen **considerably** this year."
+   }
+  ]
+ },
+ {
+  "w": "consist",
+  "pos": "v",
+  "meaning_ko": "~로 이루어지다, ~에 있다",
+  "example_en": "The team **consists** of five engineers and two designers.",
+  "example_ko": "그 팀은 엔지니어 다섯 명과 디자이너 두 명으로 이루어져 있어.",
+  "nuance_ko": "consist of는 '~로 구성되어 있다'는 뜻으로 구성 요소를 나열할 때 써요. consist in은 '본질이 ~에 있다'는 드문 표현이고, consist of와 구분해야 해요. 진행형이나 수동태로 쓰지 않는 상태 동사라는 점이 중요해요. 'be consisted of'는 틀린 문장이에요. comprise와 비슷하지만 consist of는 항상 전치사 of가 필요해요. include와 달리 전부 열거한다는 느낌이에요.",
+  "also": []
+ },
+ {
+  "w": "consistent",
+  "pos": "adj",
+  "meaning_ko": "일관된, 한결같은",
+  "example_en": "Being **consistent** matters more than working hard once in a while.",
+  "example_ko": "가끔 열심히 하는 것보다 꾸준한 게 더 중요해.",
+  "nuance_ko": "consistent는 시간이 지나도 변함없이 일관되다는 뜻이에요. 사람의 행동(consistent effort)과 결과(consistent results)에 모두 써요. 'be consistent with ~'는 '~와 일치하다, 부합하다'로 증거와 진술을 비교할 때 자주 써요. 'The evidence is consistent with his story.'처럼요. 반대말은 inconsistent(일관성 없는, 모순되는)예요. constant는 끊임없이 지속되는 것이고, consistent는 같은 수준과 방식을 유지하는 것이라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "consistently",
+    "pos": "adv",
+    "ko": "일관되게, 꾸준히",
+    "en": "She has **consistently** scored above average."
+   },
+   {
+    "w": "inconsistent",
+    "pos": "adj",
+    "ko": "일관성 없는",
+    "en": "His story was **inconsistent** from the start."
+   }
+  ]
+ },
+ {
+  "w": "constitute",
+  "pos": "v",
+  "meaning_ko": "구성하다, ~에 해당하다",
+  "example_en": "Women **constitute** about half of the workforce.",
+  "example_ko": "여성이 노동력의 약 절반을 차지해.",
+  "nuance_ko": "constitute는 부분이 모여 전체를 이루거나, 어떤 것에 해당한다는 뜻이에요. 'Ten players constitute a team'처럼 부분이 주어일 때 쓰고, 'This constitutes a violation'(이건 위반에 해당한다)처럼 법적 판단에도 써요. make up과 비슷하지만 훨씬 격식 있어요. 법률 문서에서 'What constitutes fraud?'(무엇이 사기에 해당하는가)는 정의를 묻는 전형적인 문장이에요. 명사 constitution은 헌법이라는 뜻과 함께 체질, 구성의 뜻도 있어요.",
+  "also": [
+   {
+    "w": "constituent",
+    "pos": "n",
+    "ko": "구성 요소, 유권자",
+    "en": "The senator met with her **constituents**."
+   }
+  ]
+ },
+ {
+  "w": "constitution",
+  "pos": "n",
+  "meaning_ko": "헌법, 체질",
+  "example_en": "Freedom of speech is protected by the **constitution**.",
+  "example_ko": "언론의 자유는 헌법으로 보호받아.",
+  "nuance_ko": "constitution은 국가를 이루는 기본 원칙을 정한 헌법이에요. the Constitution으로 대문자를 쓰면 특정 국가의 헌법을 가리켜요. 이와 달리 'a strong constitution'은 건강한 체질을 뜻해요. 국가의 구성과 조직을 의미하기도 해서 'the constitution of a committee'처럼 써요. 형용사 constitutional은 '헌법상의'이고, unconstitutional은 '위헌의'예요. 뉴스에서 'ruled unconstitutional'은 위헌 결정이 났다는 뜻이에요.",
+  "also": [
+   {
+    "w": "constitutional",
+    "pos": "adj",
+    "ko": "헌법상의",
+    "en": "The court reviewed the **constitutional** question."
+   },
+   {
+    "w": "unconstitutional",
+    "pos": "adj",
+    "ko": "위헌의",
+    "en": "The law was declared **unconstitutional**."
+   }
+  ]
+ },
+ {
+  "w": "constrain",
+  "pos": "v",
+  "meaning_ko": "제약하다, 억제하다",
+  "example_en": "Limited funding will **constrain** what the team can do.",
+  "example_ko": "자금이 한정돼서 팀이 할 수 있는 일에 제약이 생길 거야.",
+  "nuance_ko": "constrain은 어떤 힘이나 조건이 행동의 자유를 제한한다는 뜻이에요. 보통 외부 요인(예산, 시간, 규칙)이 선택지를 좁힌다는 느낌이에요. 수동태로 'be constrained by ~'(~에 제약을 받다)가 자주 나와요. restrict와 비슷하지만 constrain은 힘이 가해져 강제로 억누른다는 뉘앙스가 있어요. 명사 constraint는 '제약, 제한 사항'으로 time constraints(시간 제약), budget constraints처럼 업무 문서에 정말 자주 나와요.",
+  "also": [
+   {
+    "w": "constraint",
+    "pos": "n",
+    "ko": "제약, 제한",
+    "en": "Time is our biggest **constraint** right now."
+   },
+   {
+    "w": "constrained",
+    "pos": "adj",
+    "ko": "제약을 받는",
+    "en": "We are **constrained** by a tight budget."
+   }
+  ]
+ },
+ {
+  "w": "construct",
+  "pos": "v",
+  "meaning_ko": "건설하다, 구성하다",
+  "example_en": "They plan to **construct** a new bridge across the river.",
+  "example_ko": "그 사람들은 강을 가로지르는 새 다리를 건설할 계획이야.",
+  "nuance_ko": "construct는 건물, 다리, 도로 같은 구조물을 짓거나 논리·문장·이론을 체계적으로 세운다는 뜻이에요. build보다 격식 있고 계획적인 느낌이에요. construct an argument(논거를 구성하다), construct a sentence처럼 추상적인 대상에도 써요. 명사 construct는 '구성 개념'이라는 학술 용어로, 동사와 강세가 달라요(동사 con-STRUCT, 명사 CON-struct). construction은 '건설, 공사'로 'under construction'(공사 중)이 안내판에서 자주 보여요.",
+  "also": [
+   {
+    "w": "construction",
+    "pos": "n",
+    "ko": "건설, 공사",
+    "en": "The road is closed due to **construction**."
+   },
+   {
+    "w": "constructive",
+    "pos": "adj",
+    "ko": "건설적인",
+    "en": "Thanks for the **constructive** feedback."
+   }
+  ]
+ }
+]

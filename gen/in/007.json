@@ -1,0 +1,1140 @@
+[
+ {
+  "w": "road",
+  "lvl": "1k",
+  "forms": [
+   "roads",
+   "rd"
+  ]
+ },
+ {
+  "w": "rock",
+  "lvl": "1k",
+  "forms": [
+   "rocks",
+   "rocky",
+   "rocklike"
+  ]
+ },
+ {
+  "w": "roll",
+  "lvl": "1k",
+  "forms": [
+   "rolling",
+   "rolled",
+   "rolls",
+   "roller",
+   "rollers",
+   "unrolled",
+   "unroll",
+   "unrolling"
+  ]
+ },
+ {
+  "w": "room",
+  "lvl": "1k",
+  "forms": [
+   "rooms",
+   "roomy",
+   "roomed",
+   "anteroom",
+   "roomful",
+   "rooming",
+   "anterooms",
+   "roomier"
+  ]
+ },
+ {
+  "w": "rough",
+  "lvl": "1k",
+  "forms": [
+   "roughly",
+   "roughness",
+   "rougher",
+   "roughage",
+   "roughened",
+   "roughest",
+   "roughed",
+   "roughs"
+  ]
+ },
+ {
+  "w": "round",
+  "lvl": "1k",
+  "forms": [
+   "rounded",
+   "rounds",
+   "rounding",
+   "rounder",
+   "roundly",
+   "rounders",
+   "roundness",
+   "roundest"
+  ]
+ },
+ {
+  "w": "rubbish",
+  "lvl": "1k",
+  "forms": [
+   "rubbished",
+   "rubbishing",
+   "rubbishes"
+  ]
+ },
+ {
+  "w": "rule",
+  "lvl": "1k",
+  "forms": [
+   "rules",
+   "ruling",
+   "ruled",
+   "ruler",
+   "rulers",
+   "rulings",
+   "misrule",
+   "misruled"
+  ]
+ },
+ {
+  "w": "run",
+  "lvl": "1k",
+  "forms": [
+   "running",
+   "ran",
+   "runs",
+   "runners",
+   "runner",
+   "runny",
+   "rerun",
+   "rans"
+  ]
+ },
+ {
+  "w": "sad",
+  "lvl": "1k",
+  "forms": [
+   "sadly",
+   "sadness",
+   "saddened",
+   "saddest",
+   "sadder",
+   "saddens",
+   "sadnesses",
+   "sadden"
+  ]
+ },
+ {
+  "w": "safe",
+  "lvl": "1k",
+  "forms": [
+   "safety",
+   "safely",
+   "safer",
+   "unsafe",
+   "safest",
+   "safes",
+   "safeness"
+  ]
+ },
+ {
+  "w": "sail",
+  "lvl": "1k",
+  "forms": [
+   "sailing",
+   "sailed",
+   "sailors",
+   "sails",
+   "sailor",
+   "sailings",
+   "sailers",
+   "sailer"
+  ]
+ },
+ {
+  "w": "same",
+  "lvl": "1k",
+  "forms": [
+   "sameness"
+  ]
+ },
+ {
+  "w": "saturday",
+  "lvl": "1k",
+  "forms": [
+   "saturdays"
+  ]
+ },
+ {
+  "w": "save",
+  "lvl": "1k",
+  "forms": [
+   "saved",
+   "savings",
+   "saving",
+   "saves",
+   "savers",
+   "saver",
+   "unsaved"
+  ]
+ },
+ {
+  "w": "say",
+  "lvl": "1k",
+  "forms": [
+   "said",
+   "says",
+   "saying",
+   "sayings",
+   "unsaid",
+   "sez",
+   "unsayable"
+  ]
+ },
+ {
+  "w": "scare",
+  "lvl": "1k",
+  "forms": [
+   "scared",
+   "scary",
+   "scares",
+   "scaring",
+   "scarier",
+   "scariest",
+   "scareder",
+   "scaredest"
+  ]
+ },
+ {
+  "w": "school",
+  "lvl": "1k",
+  "forms": [
+   "schools",
+   "schooling",
+   "schooled",
+   "preschool",
+   "unschooled",
+   "preschoolers",
+   "preschooled",
+   "preschooler"
+  ]
+ },
+ {
+  "w": "science",
+  "lvl": "1k",
+  "forms": [
+   "scientific",
+   "scientists",
+   "sciences",
+   "scientist",
+   "scientifically",
+   "unscientific",
+   "scientificity",
+   "unscientifically"
+  ]
+ },
+ {
+  "w": "sea",
+  "lvl": "1k",
+  "forms": [
+   "seas",
+   "seaward",
+   "seawards"
+  ]
+ },
+ {
+  "w": "seat",
+  "lvl": "1k",
+  "forms": [
+   "seats",
+   "seated",
+   "seating",
+   "seater",
+   "unseated",
+   "seaters",
+   "unseat",
+   "unseating"
+  ]
+ },
+ {
+  "w": "second",
+  "lvl": "1k",
+  "forms": [
+   "secondary",
+   "secondly",
+   "seconder",
+   "secondarily",
+   "secondaries",
+   "seconders"
+  ]
+ },
+ {
+  "w": "secure",
+  "lvl": "1k",
+  "forms": [
+   "security",
+   "secured",
+   "securities",
+   "securing",
+   "insecurity",
+   "securely",
+   "insecure",
+   "unsecured"
+  ]
+ },
+ {
+  "w": "see",
+  "lvl": "1k",
+  "forms": [
+   "seen",
+   "saw",
+   "seeing",
+   "sees",
+   "unseen",
+   "seer",
+   "unseeing",
+   "seers"
+  ]
+ },
+ {
+  "w": "seem",
+  "lvl": "1k",
+  "forms": [
+   "seemed",
+   "seems",
+   "seemingly",
+   "seeming"
+  ]
+ },
+ {
+  "w": "self",
+  "lvl": "1k",
+  "forms": [
+   "selfish",
+   "selves",
+   "selfishness",
+   "selfless",
+   "unselfish",
+   "selfishly",
+   "selfhood",
+   "selflessly"
+  ]
+ },
+ {
+  "w": "sell",
+  "lvl": "1k",
+  "forms": [
+   "sold",
+   "selling",
+   "seller",
+   "sells",
+   "sellers",
+   "resellers",
+   "unsold",
+   "reseller"
+  ]
+ },
+ {
+  "w": "send",
+  "lvl": "1k",
+  "forms": [
+   "sent",
+   "sending",
+   "sends",
+   "sender",
+   "senders",
+   "unsent"
+  ]
+ },
+ {
+  "w": "sense",
+  "lvl": "1k",
+  "forms": [
+   "senseless",
+   "senselessness"
+  ]
+ },
+ {
+  "w": "serious",
+  "lvl": "1k",
+  "forms": [
+   "seriously",
+   "seriousness"
+  ]
+ },
+ {
+  "w": "serve",
+  "lvl": "1k",
+  "forms": [
+   "served",
+   "serving",
+   "servants",
+   "server",
+   "servant",
+   "serves",
+   "servers",
+   "servings"
+  ]
+ },
+ {
+  "w": "service",
+  "lvl": "1k",
+  "forms": [
+   "services",
+   "servicing",
+   "serviced",
+   "serviceable",
+   "unserviced"
+  ]
+ },
+ {
+  "w": "set",
+  "lvl": "1k",
+  "forms": [
+   "setting",
+   "sets",
+   "settings",
+   "unset"
+  ]
+ },
+ {
+  "w": "settle",
+  "lvl": "1k",
+  "forms": [
+   "settlement",
+   "settled",
+   "settlements",
+   "settling",
+   "settlers",
+   "settlor",
+   "settles",
+   "resettlement"
+  ]
+ },
+ {
+  "w": "seven",
+  "lvl": "1k",
+  "forms": [
+   "seventy",
+   "seventeen",
+   "seventeenth",
+   "seventh",
+   "seventies",
+   "sevens",
+   "seventieth",
+   "sevenths"
+  ]
+ },
+ {
+  "w": "several",
+  "lvl": "1k",
+  "forms": [
+   "severally"
+  ]
+ },
+ {
+  "w": "sex",
+  "lvl": "1k",
+  "forms": [
+   "sexual",
+   "sexuality",
+   "sexually",
+   "sexes",
+   "sexy",
+   "sexist",
+   "sexism",
+   "sexing"
+  ]
+ },
+ {
+  "w": "shake",
+  "lvl": "1k",
+  "forms": [
+   "shook",
+   "shaking",
+   "shaken",
+   "shaky",
+   "shakes",
+   "shakily",
+   "shaker",
+   "unshakeable"
+  ]
+ },
+ {
+  "w": "shall",
+  "lvl": "1k",
+  "forms": [
+   "shan",
+   "shalt",
+   "shalst"
+  ]
+ },
+ {
+  "w": "shape",
+  "lvl": "1k",
+  "forms": [
+   "shaped",
+   "shapes",
+   "shaping",
+   "shapely",
+   "shapeless",
+   "misshapen",
+   "shaper",
+   "shapers"
+  ]
+ },
+ {
+  "w": "share",
+  "lvl": "1k",
+  "forms": [
+   "shares",
+   "shared",
+   "sharing",
+   "unshared"
+  ]
+ },
+ {
+  "w": "she",
+  "lvl": "1k",
+  "forms": [
+   "her",
+   "herself",
+   "hers"
+  ]
+ },
+ {
+  "w": "ship",
+  "lvl": "1k",
+  "forms": [
+   "ships",
+   "shipping",
+   "shipped",
+   "shipment",
+   "shipments",
+   "shipper",
+   "shippers"
+  ]
+ },
+ {
+  "w": "shirt",
+  "lvl": "1k",
+  "forms": [
+   "shirts",
+   "shirted"
+  ]
+ },
+ {
+  "w": "shoe",
+  "lvl": "1k",
+  "forms": [
+   "shoes",
+   "shoeing",
+   "shoeless",
+   "shoed"
+  ]
+ },
+ {
+  "w": "shoot",
+  "lvl": "1k",
+  "forms": [
+   "shot",
+   "shooting",
+   "shots",
+   "shoots",
+   "shootings",
+   "shooter",
+   "shooters"
+  ]
+ },
+ {
+  "w": "shop",
+  "lvl": "1k",
+  "forms": [
+   "shops",
+   "shopping",
+   "shoppers",
+   "shopper",
+   "shopped"
+  ]
+ },
+ {
+  "w": "short",
+  "lvl": "1k",
+  "forms": [
+   "shorter",
+   "shortage",
+   "shortages",
+   "shortest",
+   "shortened",
+   "shorten",
+   "shortening",
+   "shortness"
+  ]
+ },
+ {
+  "w": "should",
+  "lvl": "1k",
+  "forms": [
+   "shouldn"
+  ]
+ },
+ {
+  "w": "shoulder",
+  "lvl": "1k",
+  "forms": [
+   "shoulders",
+   "shouldered",
+   "shouldering"
+  ]
+ },
+ {
+  "w": "shout",
+  "lvl": "1k",
+  "forms": [
+   "shouted",
+   "shouting",
+   "shouts",
+   "shouter",
+   "shouters"
+  ]
+ },
+ {
+  "w": "show",
+  "lvl": "1k",
+  "forms": [
+   "shown",
+   "shows",
+   "showed",
+   "showing",
+   "showings"
+  ]
+ },
+ {
+  "w": "shut",
+  "lvl": "1k",
+  "forms": [
+   "shutting",
+   "shuts"
+  ]
+ },
+ {
+  "w": "shy",
+  "lvl": "1k",
+  "forms": [
+   "shyness",
+   "shyly"
+  ]
+ },
+ {
+  "w": "sick",
+  "lvl": "1k",
+  "forms": [
+   "sickness",
+   "sickly",
+   "sickening",
+   "sickened",
+   "sickeningly",
+   "sicken",
+   "sicknesses",
+   "sickens"
+  ]
+ },
+ {
+  "w": "side",
+  "lvl": "1k",
+  "forms": [
+   "sides",
+   "sideways",
+   "sided",
+   "sidings",
+   "siding"
+  ]
+ },
+ {
+  "w": "sight",
+  "lvl": "1k",
+  "forms": [
+   "sights",
+   "sighted",
+   "sighting",
+   "unsightly",
+   "sightings",
+   "sightedness",
+   "sightless",
+   "sightlessly"
+  ]
+ },
+ {
+  "w": "sign",
+  "lvl": "1k",
+  "forms": [
+   "signed",
+   "signs",
+   "signing",
+   "signings",
+   "unsigned",
+   "signer",
+   "signers"
+  ]
+ },
+ {
+  "w": "silly",
+  "lvl": "1k",
+  "forms": [
+   "silliness",
+   "silliest",
+   "sillier",
+   "sillily"
+  ]
+ },
+ {
+  "w": "simple",
+  "lvl": "1k",
+  "forms": [
+   "simply",
+   "simplest",
+   "simpler",
+   "simplified",
+   "simplify",
+   "simplification",
+   "simplifying",
+   "simplifies"
+  ]
+ },
+ {
+  "w": "since",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "sing",
+  "lvl": "1k",
+  "forms": [
+   "singing",
+   "singer",
+   "sang",
+   "singers",
+   "sung",
+   "sings",
+   "unsung"
+  ]
+ },
+ {
+  "w": "single",
+  "lvl": "1k",
+  "forms": [
+   "singles",
+   "singled",
+   "singly",
+   "singling",
+   "singleness"
+  ]
+ },
+ {
+  "w": "sir",
+  "lvl": "1k",
+  "forms": [
+   "sirs"
+  ]
+ },
+ {
+  "w": "sister",
+  "lvl": "1k",
+  "forms": [
+   "sisters",
+   "sisterhood",
+   "sisterly"
+  ]
+ },
+ {
+  "w": "sit",
+  "lvl": "1k",
+  "forms": [
+   "sat",
+   "sitting",
+   "sits",
+   "sitter",
+   "sittings",
+   "sitters",
+   "resit",
+   "sittin"
+  ]
+ },
+ {
+  "w": "situation",
+  "lvl": "1k",
+  "forms": [
+   "situations",
+   "situated",
+   "situational",
+   "situate",
+   "situates",
+   "situating",
+   "situationally"
+  ]
+ },
+ {
+  "w": "six",
+  "lvl": "1k",
+  "forms": [
+   "sixty",
+   "sixth",
+   "sixteen",
+   "sixties",
+   "sixteenth",
+   "sixes",
+   "sixths",
+   "sixtieth"
+  ]
+ },
+ {
+  "w": "size",
+  "lvl": "1k",
+  "forms": [
+   "sizes",
+   "sized",
+   "sizable",
+   "sizing"
+  ]
+ },
+ {
+  "w": "skin",
+  "lvl": "1k",
+  "forms": [
+   "skins",
+   "skinned",
+   "skinning"
+  ]
+ },
+ {
+  "w": "sky",
+  "lvl": "1k",
+  "forms": [
+   "skies",
+   "skywards",
+   "skyward"
+  ]
+ },
+ {
+  "w": "sleep",
+  "lvl": "1k",
+  "forms": [
+   "sleeping",
+   "slept",
+   "sleepy",
+   "sleeps",
+   "sleepless",
+   "sleeper",
+   "sleepers",
+   "sleepily"
+  ]
+ },
+ {
+  "w": "slight",
+  "lvl": "1k",
+  "forms": [
+   "slightly",
+   "slightest",
+   "slighter",
+   "slighting"
+  ]
+ },
+ {
+  "w": "slip",
+  "lvl": "1k",
+  "forms": [
+   "slipped",
+   "slipping",
+   "slips",
+   "slippage",
+   "slippy",
+   "slippages"
+  ]
+ },
+ {
+  "w": "slow",
+  "lvl": "1k",
+  "forms": [
+   "slowly",
+   "slower",
+   "slowed",
+   "slowing",
+   "slows",
+   "slowness",
+   "slowest"
+  ]
+ },
+ {
+  "w": "small",
+  "lvl": "1k",
+  "forms": [
+   "smaller",
+   "smallest",
+   "smallish",
+   "smallness",
+   "smalls"
+  ]
+ },
+ {
+  "w": "smell",
+  "lvl": "1k",
+  "forms": [
+   "smells",
+   "smelt",
+   "smelling",
+   "smelled",
+   "smelly",
+   "smelliness"
+  ]
+ },
+ {
+  "w": "smile",
+  "lvl": "1k",
+  "forms": [
+   "smiled",
+   "smiling",
+   "smiles",
+   "unsmiling",
+   "smilingly"
+  ]
+ },
+ {
+  "w": "smoke",
+  "lvl": "1k",
+  "forms": [
+   "smoking",
+   "smoked",
+   "smokers",
+   "smoker",
+   "smoky",
+   "smokes",
+   "smokey",
+   "smokeless"
+  ]
+ },
+ {
+  "w": "snow",
+  "lvl": "1k",
+  "forms": [
+   "snowy",
+   "snowing",
+   "snows",
+   "snowed",
+   "snowiest",
+   "snowier",
+   "snowiness"
+  ]
+ },
+ {
+  "w": "so",
+  "lvl": "1k",
+  "forms": []
+ },
+ {
+  "w": "soft",
+  "lvl": "1k",
+  "forms": [
+   "softly",
+   "softened",
+   "softer",
+   "soften",
+   "softening",
+   "softness",
+   "softens",
+   "softest"
+  ]
+ },
+ {
+  "w": "some",
+  "lvl": "1k",
+  "forms": [
+   "something",
+   "sometimes",
+   "someone",
+   "somebody",
+   "somewhere",
+   "somehow",
+   "sometime",
+   "somethin"
+  ]
+ },
+ {
+  "w": "son",
+  "lvl": "1k",
+  "forms": [
+   "sons",
+   "sonny"
+  ]
+ },
+ {
+  "w": "song",
+  "lvl": "1k",
+  "forms": [
+   "songs"
+  ]
+ },
+ {
+  "w": "soon",
+  "lvl": "1k",
+  "forms": [
+   "sooner",
+   "soonest"
+  ]
+ },
+ {
+  "w": "sorry",
+  "lvl": "1k",
+  "forms": [
+   "sorrier",
+   "sorriest",
+   "sorriness"
+  ]
+ },
+ {
+  "w": "sort",
+  "lvl": "1k",
+  "forms": [
+   "sorts"
+  ]
+ },
+ {
+  "w": "sound",
+  "lvl": "1k",
+  "forms": [
+   "sounds",
+   "sounded",
+   "sounding",
+   "soundings",
+   "soundlessly",
+   "soundless"
+  ]
+ },
+ {
+  "w": "south",
+  "lvl": "1k",
+  "forms": [
+   "southerly",
+   "southerlies"
+  ]
+ },
+ {
+  "w": "space",
+  "lvl": "1k",
+  "forms": [
+   "spaces",
+   "spacious",
+   "spaced",
+   "spacing",
+   "spaciousness",
+   "spacers",
+   "spacer",
+   "spaciously"
+  ]
+ },
+ {
+  "w": "speak",
+  "lvl": "1k",
+  "forms": [
+   "speaker",
+   "spoke",
+   "speaking",
+   "spoken",
+   "speakers",
+   "speaks",
+   "unspoken",
+   "unspeakable"
+  ]
+ },
+ {
+  "w": "special",
+  "lvl": "1k",
+  "forms": [
+   "specialist",
+   "specially",
+   "specialists",
+   "specialised",
+   "specialized",
+   "speciality",
+   "specialization",
+   "specialising"
+  ]
+ },
+ {
+  "w": "spend",
+  "lvl": "1k",
+  "forms": [
+   "spent",
+   "spending",
+   "spends",
+   "spender",
+   "spenders",
+   "unspent",
+   "misspent"
+  ]
+ },
+ {
+  "w": "sport",
+  "lvl": "1k",
+  "forms": [
+   "sports",
+   "sporting",
+   "sporty"
+  ]
+ },
+ {
+  "w": "spot",
+  "lvl": "1k",
+  "forms": [
+   "spotted",
+   "spots",
+   "spotting",
+   "spotless",
+   "spotty",
+   "spotter",
+   "spotters",
+   "spotlessly"
+  ]
+ },
+ {
+  "w": "spring",
+  "lvl": "1k",
+  "forms": [
+   "springs",
+   "sprang",
+   "sprung",
+   "springing"
+  ]
+ },
+ {
+  "w": "square",
+  "lvl": "1k",
+  "forms": [
+   "sq",
+   "squares",
+   "squared",
+   "squarely",
+   "squaring",
+   "squarer",
+   "squareness",
+   "squarest"
+  ]
+ },
+ {
+  "w": "stage",
+  "lvl": "1k",
+  "forms": [
+   "stages",
+   "staged",
+   "staging"
+  ]
+ },
+ {
+  "w": "stand",
+  "lvl": "1k",
+  "forms": [
+   "stood",
+   "standing",
+   "stands",
+   "standin"
+  ]
+ }
+]

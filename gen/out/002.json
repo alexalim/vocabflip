@@ -1,0 +1,1820 @@
+[
+ {
+  "w": "dance",
+  "pos": "v",
+  "meaning_ko": "춤추다",
+  "example_en": "We **danced** until the music stopped around midnight.",
+  "example_ko": "우리는 자정쯤 음악이 멈출 때까지 춤췄어.",
+  "nuance_ko": "dance는 음악에 맞춰 몸을 움직이는 동작을 말하는 동사이자 명사예요. 동사로 쓸 때는 dance with someone처럼 상대가 있으면 with를 써요. 명사로는 a dance(한 곡의 춤, 무도회)와 dance(춤이라는 예술)를 구분해요. go dancing은 '춤추러 가다', dance to the music은 '음악에 맞춰 춤추다'라는 구문이에요. 비유로 dance around the issue는 '핵심을 피해 빙빙 돌려 말하다'라는 뜻이에요.",
+  "also": [
+   {
+    "w": "dancer",
+    "pos": "n",
+    "ko": "무용수, 춤추는 사람",
+    "en": "She trained as a **dancer** for ten years."
+   },
+   {
+    "w": "dancing",
+    "pos": "n",
+    "ko": "춤추기",
+    "en": "**Dancing** is a great way to stay fit."
+   }
+  ]
+ },
+ {
+  "w": "danger",
+  "pos": "n",
+  "meaning_ko": "위험",
+  "example_en": "The hikers were in real **danger** when the storm hit.",
+  "example_ko": "폭풍이 몰아쳤을 때 등산객들은 정말 위험한 상황이었어.",
+  "nuance_ko": "danger는 해를 입을 가능성이 있는 상태나 그런 위협을 뜻해요. in danger(위험에 처한), out of danger(위험에서 벗어난), danger of ~ing(~할 위험)처럼 써요. risk는 가능성의 크기나 감수하는 위험을 말하고, danger는 실제로 해가 될 수 있는 상태를 가리켜요. 경고문의 Danger!는 가장 강한 경고 표시예요. 형용사 dangerous를 쓸 자리에 danger를 쓰는 실수가 흔해요.",
+  "also": [
+   {
+    "w": "dangerous",
+    "pos": "adj",
+    "ko": "위험한",
+    "en": "It's **dangerous** to swim here at night."
+   },
+   {
+    "w": "endanger",
+    "pos": "v",
+    "ko": "위험에 빠뜨리다",
+    "en": "Reckless driving can **endanger** other people."
+   }
+  ]
+ },
+ {
+  "w": "dark",
+  "pos": "adj",
+  "meaning_ko": "어두운, 짙은",
+  "example_en": "It gets **dark** really early in the winter.",
+  "example_ko": "겨울엔 해가 아주 일찍 져서 어두워져.",
+  "nuance_ko": "dark는 빛이 없는 상태나 색이 짙다는 뜻이에요. 밝기에서는 dark room, 색에서는 dark blue(짙은 파랑), 분위기에서는 dark humor(블랙 유머)처럼 써요. 명사 the dark는 어둠이고, in the dark는 '어둠 속에서' 혹은 '아무것도 모르는 채'라는 비유 표현으로 쓰여요. after dark는 해진 뒤, afraid of the dark는 어둠을 무서워하는 거예요. 반대말은 light/bright이고 dim은 흐릿한 어둠을 말해요.",
+  "also": [
+   {
+    "w": "darkness",
+    "pos": "n",
+    "ko": "어둠",
+    "en": "We sat in **darkness** during the power cut."
+   },
+   {
+    "w": "darken",
+    "pos": "v",
+    "ko": "어두워지다",
+    "en": "The sky began to **darken** before the storm."
+   }
+  ]
+ },
+ {
+  "w": "darling",
+  "pos": "n",
+  "meaning_ko": "사랑하는 사람, 자기",
+  "example_en": "Thank you, **darling**, that was really sweet of you.",
+  "example_ko": "고마워 자기야, 정말 다정하네.",
+  "nuance_ko": "darling은 연인, 배우자, 아이를 부르는 다정한 애칭이에요. 영국식 영어에서는 여성이나 친근한 사람에게 흔히 쓰고, 낯선 사람에게 쓰면 무례하거나 얕보는 느낌이 날 수 있어요. 형용사로는 사랑스러운이라는 뜻이라 a darling little girl처럼 쓰고, '인기 있는 사람이나 대상'을 가리켜 the darling of the media라고도 해요. sweetheart, honey, dear도 비슷한 애칭이에요. 격식 있는 글에서는 Dear를 쓰고 darling은 쓰지 않아요.",
+  "also": []
+ },
+ {
+  "w": "date",
+  "pos": "n",
+  "meaning_ko": "날짜, 데이트, 약속",
+  "example_en": "What's the **date** of the meeting next month?",
+  "example_ko": "다음 달 회의 날짜가 언제야?",
+  "nuance_ko": "date는 날짜와 데이트라는 뜻이 모두 있는 명사이면서 '데이트하다'라는 동사로도 써요. 날짜를 묻는 What's the date today?는 '오늘 며칠이야?'이고 요일은 What day is it?으로 물어요. 연인 간 만남은 go on a date라고 하고, 의사나 미용실 약속은 date가 아니라 appointment라고 해야 해요. out of date는 '구식인', up to date는 '최신의', to date는 '지금까지'라는 표현이에요. 날짜는 미국식은 월/일, 영국식은 일/월 순서로 달라요.",
+  "also": [
+   {
+    "w": "dated",
+    "pos": "adj",
+    "ko": "구식의",
+    "en": "The furniture in the hotel looks a bit **dated**."
+   },
+   {
+    "w": "dating",
+    "pos": "n",
+    "ko": "데이트, 연애",
+    "en": "Online **dating** has become very common."
+   }
+  ]
+ },
+ {
+  "w": "daughter",
+  "pos": "n",
+  "meaning_ko": "딸",
+  "example_en": "Their **daughter** just started her first year of college.",
+  "example_ko": "그 집 딸이 이제 막 대학 일 학년이 됐어.",
+  "nuance_ko": "daughter는 부모에 대한 딸을 가리켜요. 발음은 /ˈdɔːtər/이고 gh는 소리 나지 않아요. 한국 학습자는 철자 때문에 gh를 발음하는 실수를 자주 해요. 아들은 son, 자식 전체는 children이에요. daughter-in-law는 며느리, granddaughter는 손녀라서 가족 호칭이 길어질 때 -in-law를 붙여요. 비유로 the daughter of ~는 어떤 사람이나 나라의 후손이라는 문학적 표현이에요.",
+  "also": []
+ },
+ {
+  "w": "day",
+  "pos": "n",
+  "meaning_ko": "하루, 날",
+  "example_en": "How was your **day** at work today?",
+  "example_ko": "오늘 회사에서 하루 어땠어?",
+  "nuance_ko": "day는 24시간의 하루, 혹은 해가 떠 있는 낮을 가리켜요. all day(하루 종일), every day(매일), these days(요즘), one day(언젠가)처럼 일상 표현이 매우 많아요. every day는 부사구이고 everyday는 형용사(평범한)라 철자를 구분해야 해요. day off는 휴무일, call it a day는 '오늘은 여기까지 하자'라는 뜻이에요. 인사로 Have a nice day는 하루를 좋게 보내라는 가벼운 작별 인사예요.",
+  "also": [
+   {
+    "w": "daily",
+    "pos": "adj",
+    "ko": "매일의",
+    "en": "She follows a **daily** routine of exercise."
+   },
+   {
+    "w": "daylight",
+    "pos": "n",
+    "ko": "햇빛, 낮",
+    "en": "We reached the camp before **daylight** faded."
+   }
+  ]
+ },
+ {
+  "w": "dead",
+  "pos": "adj",
+  "meaning_ko": "죽은, 작동하지 않는",
+  "example_en": "My phone is **dead**, so I can't call you.",
+  "example_ko": "폰이 꺼져서 전화를 못 하겠어.",
+  "nuance_ko": "dead는 생명이 없는 상태를 뜻하는 형용사이고, 배터리가 방전됐거나 기계가 작동하지 않는 것에도 써요. the dead는 죽은 사람들을 집합적으로 가리키고, dead end는 막다른 길이나 진전 없는 상황이에요. 강조 부사로도 써서 dead tired(완전 지친), dead serious(아주 진지한)처럼 구어체에서 많이 나와요. dead와 died는 혼동하기 쉬운데 dead는 상태, died는 die의 과거형이에요. 영어로 He is dead는 이미 죽었다는 상태이고 He died는 죽은 사건이에요.",
+  "also": [
+   {
+    "w": "deadly",
+    "pos": "adj",
+    "ko": "치명적인",
+    "en": "The virus can be **deadly** for older people."
+   }
+  ]
+ },
+ {
+  "w": "deal",
+  "pos": "n",
+  "meaning_ko": "거래, 합의, 다루다",
+  "example_en": "We finally made a **deal** after hours of talking.",
+  "example_ko": "몇 시간의 논의 끝에 우리는 마침내 합의를 봤어.",
+  "nuance_ko": "deal은 거래, 합의, 유리한 조건이라는 명사로 쓰고 동사로는 deal with(처리하다, 다루다)와 deal in(취급하다)이 중요해요. It's a deal은 '그럼 그렇게 하는 거다'라는 합의 표현이고, big deal은 중요한 일이거나 반어적으로 '별것도 아닌데'라는 뜻이에요. a great deal of는 '많은 양의'라는 뜻이고 셀 수 없는 명사와 함께 써요. 카드를 돌리는 동작도 deal이라 deal the cards라고 해요. 과거형은 dealt예요.",
+  "also": [
+   {
+    "w": "dealer",
+    "pos": "n",
+    "ko": "상인, 딜러",
+    "en": "The car **dealer** offered us a discount."
+   },
+   {
+    "w": "dealing",
+    "pos": "n",
+    "ko": "거래, 취급",
+    "en": "He has a reputation for fair **dealing**."
+   }
+  ]
+ },
+ {
+  "w": "dear",
+  "pos": "adj",
+  "meaning_ko": "소중한, 친애하는",
+  "example_en": "She is a **dear** friend of mine from childhood.",
+  "example_ko": "그녀는 어릴 때부터 알고 지낸 소중한 내 친구야.",
+  "nuance_ko": "dear는 사랑하고 아끼는 대상에 쓰는 형용사이면서 편지의 첫 인사 Dear Sir/Madam, Dear John으로 아주 유명해요. 이메일에서는 Dear 대신 Hi를 쓰는 경우가 많고 격식 있는 편지에서는 Dear를 써요. 애칭으로 my dear도 쓰지만 나이 든 사람이 젊은 사람에게 쓰면 약간 얕보는 느낌이 나요. 영국 영어에서는 '값이 비싼'이라는 뜻으로도 써서 That's a bit dear라고 해요. Oh dear!는 걱정이나 놀람의 감탄사예요.",
+  "also": [
+   {
+    "w": "dearly",
+    "pos": "adv",
+    "ko": "몹시, 비싼 대가로",
+    "en": "I would **dearly** love to see you again."
+   }
+  ]
+ },
+ {
+  "w": "death",
+  "pos": "n",
+  "meaning_ko": "죽음",
+  "example_en": "The news of his **death** shocked the whole town.",
+  "example_ko": "그의 죽음 소식은 온 마을을 충격에 빠뜨렸어.",
+  "nuance_ko": "death는 죽음이라는 명사로, 동사 die와 형용사 dead와 같은 계열이에요. 사망 원인을 말할 때 cause of death, 사형은 the death penalty라고 해요. 과장 표현으로 scared to death(무서워 죽을 지경인), bored to death(지겨워 죽겠는)도 흔하게 써요. death는 직접적이라 일상에서는 passing 같은 완곡어를 쓰기도 해요. 복수 deaths는 사망자를 뜻하는 뉴스 용어예요.",
+  "also": [
+   {
+    "w": "deathly",
+    "pos": "adj",
+    "ko": "죽음 같은",
+    "en": "A **deathly** silence fell over the room."
+   }
+  ]
+ },
+ {
+  "w": "decide",
+  "pos": "v",
+  "meaning_ko": "결정하다",
+  "example_en": "We still need to **decide** where to eat tonight.",
+  "example_ko": "오늘 저녁 어디서 먹을지 아직 정해야 해.",
+  "nuance_ko": "decide는 여러 가능성 중에서 하나를 정하는 동사예요. decide to do, decide on ~(~으로 정하다), decide whether to ~ 구문으로 써요. choose는 여러 개 중 고르는 행위이고 decide는 마음을 정하는 과정에 초점이 있어요. make a decision과 decide는 같은 뜻이지만 decide가 간결하고 자연스러워요. 한국어 '결정했어'를 I decide라고 현재형으로 쓰는 실수가 있는데 이미 정한 일은 I've decided로 현재완료를 써요.",
+  "also": [
+   {
+    "w": "decided",
+    "pos": "adj",
+    "ko": "분명한, 결단력 있는",
+    "en": "There was a **decided** change in her attitude."
+   },
+   {
+    "w": "undecided",
+    "pos": "adj",
+    "ko": "결정하지 못한",
+    "en": "I'm still **undecided** about the job offer."
+   }
+  ]
+ },
+ {
+  "w": "deep",
+  "pos": "adj",
+  "meaning_ko": "깊은, 깊이 있는",
+  "example_en": "The lake is surprisingly **deep** in the middle.",
+  "example_ko": "그 호수는 한가운데가 의외로 깊어.",
+  "nuance_ko": "deep은 위에서 아래로, 또는 바깥에서 안쪽으로 깊다는 뜻이에요. 물의 깊이는 물론 deep breath, deep sleep, deep thought처럼 정도가 크다는 의미로도 써요. 감정이나 지식이 깊다는 비유로 deep feelings, deep understanding이 있어요. 부사로 deep in thought(깊은 생각에 잠겨), deep down(마음속 깊이)처럼 쓰여요. 깊이를 숫자로 말할 때는 ten meters deep처럼 deep이 숫자 뒤에 와요. 명사형은 depth예요.",
+  "also": [
+   {
+    "w": "deeply",
+    "pos": "adv",
+    "ko": "깊이",
+    "en": "I'm **deeply** sorry for the mistake."
+   },
+   {
+    "w": "depth",
+    "pos": "n",
+    "ko": "깊이",
+    "en": "Nobody knows the **depth** of the cave."
+   }
+  ]
+ },
+ {
+  "w": "definite",
+  "pos": "adj",
+  "meaning_ko": "확실한, 분명한",
+  "example_en": "We don't have a **definite** answer yet.",
+  "example_ko": "아직 확실한 답은 없어.",
+  "nuance_ko": "definite는 분명하게 정해져 있어서 의심의 여지가 없다는 형용사예요. a definite plan, a definite yes처럼 명확하고 구체적인 것에 쓰고 vague의 반대 개념이에요. 문법의 definite article은 정관사 the를 가리켜요. certain과 비슷하지만 definite는 계획이나 답이 확정적이라는 느낌이 더 강해요. 부사 definitely는 '틀림없이, 물론'이라는 대답으로 정말 자주 쓰여요. 철자에서 -ite로 끝나는 것을 -ate로 틀리기 쉬워요.",
+  "also": [
+   {
+    "w": "definitely",
+    "pos": "adv",
+    "ko": "확실히, 물론",
+    "en": "I'll **definitely** be there on time."
+   },
+   {
+    "w": "indefinitely",
+    "pos": "adv",
+    "ko": "무기한으로",
+    "en": "The event was postponed **indefinitely**."
+   }
+  ]
+ },
+ {
+  "w": "degree",
+  "pos": "n",
+  "meaning_ko": "정도, 학위, 도",
+  "example_en": "She has a **degree** in computer science.",
+  "example_ko": "그녀는 컴퓨터공학 학위가 있어.",
+  "nuance_ko": "degree는 세 가지 뜻을 기억하세요. 온도·각도의 단위인 '도'(twenty degrees), 대학 졸업 학위(a master's degree), 그리고 정도(a high degree of accuracy)예요. 학위는 earn a degree, get a degree, hold a degree 모두 쓰고 학위의 종류는 bachelor's, master's, doctorate로 구분해요. to some degree는 '어느 정도는', by degrees는 '조금씩'이라는 표현이에요. 공손하게 정도를 줄이는 to a certain degree도 자주 써요.",
+  "also": []
+ },
+ {
+  "w": "delicious",
+  "pos": "adj",
+  "meaning_ko": "맛있는",
+  "example_en": "This soup is absolutely **delicious**!",
+  "example_ko": "이 수프 정말 맛있다!",
+  "nuance_ko": "delicious는 맛이나 냄새가 아주 좋은 음식을 칭찬할 때 쓰는 형용사예요. tasty보다 더 강한 칭찬이고 yummy는 아이들이나 친근한 말투에서 써요. 한국어 '맛있다'를 It is delicious로 말하면 훌륭하지만, 요리에 대한 구체적인 평은 It tastes great처럼 taste를 써도 좋아요. 맛이 없다는 말은 not delicious보다 awful, terrible이 자연스러워요. 음식뿐 아니라 냄새, 느낌(a delicious feeling)에도 쓸 수 있어요.",
+  "also": [
+   {
+    "w": "deliciously",
+    "pos": "adv",
+    "ko": "맛있게, 즐겁게",
+    "en": "The cake was **deliciously** moist."
+   }
+  ]
+ },
+ {
+  "w": "depend",
+  "pos": "v",
+  "meaning_ko": "의존하다, ~에 달려 있다",
+  "example_en": "It all **depends** on how much time we have.",
+  "example_ko": "그건 전부 우리한테 시간이 얼마나 있느냐에 달려 있어.",
+  "nuance_ko": "depend는 항상 on과 함께 depend on ~의 형태로 써요. 의존하다(depend on parents)와 ~에 따라 달라진다(It depends on the weather)의 두 뜻이 있어요. 구어에서는 It depends라는 말 한마디로 '상황에 따라 달라'라는 대답이 돼요. depend upon은 더 격식 있는 표현이에요. 형용사 dependent는 -ent로, 의존하는 사람 명사는 dependant 또는 dependent로 쓰는데 철자가 헷갈려요. 반대는 independent예요.",
+  "also": [
+   {
+    "w": "dependent",
+    "pos": "adj",
+    "ko": "의존하는",
+    "en": "The town is **dependent** on tourism."
+   },
+   {
+    "w": "dependable",
+    "pos": "adj",
+    "ko": "믿을 만한",
+    "en": "He is a **dependable** worker."
+   }
+  ]
+ },
+ {
+  "w": "die",
+  "pos": "v",
+  "meaning_ko": "죽다",
+  "example_en": "My grandfather **died** peacefully in his sleep.",
+  "example_ko": "우리 할아버지는 주무시다가 평온하게 돌아가셨어.",
+  "nuance_ko": "die는 생명을 잃는 순간을 가리키는 동사로, 사고나 병, 노환 등 원인을 말할 때 die of(병으로), die from(사고로) 같은 전치사를 써요. 과거형·과거분사는 died이고 진행형 dying은 y로 바뀌어요. 죽은 상태는 dead라서 He is dying은 죽어가는 중이고 He is dead는 이미 죽은 거예요. 구어 과장으로 I'm dying to ~(~하고 싶어 죽겠다), I'm dying of hunger(배고파 죽겠다)처럼 써요. die out은 멸종하다 또는 사라지다라는 뜻이에요.",
+  "also": [
+   {
+    "w": "dying",
+    "pos": "adj",
+    "ko": "죽어가는",
+    "en": "The **dying** plant needs water immediately."
+   }
+  ]
+ },
+ {
+  "w": "difference",
+  "pos": "n",
+  "meaning_ko": "차이, 다름",
+  "example_en": "What's the **difference** between these two phones?",
+  "example_ko": "이 두 폰은 뭐가 달라?",
+  "nuance_ko": "difference는 둘 이상 사이의 차이를 말하는 명사예요. the difference between A and B 구조로 쓰고, make a difference는 '변화를 가져오다, 영향이 있다', It makes no difference는 '상관없어'라는 표현이에요. 한국어로 '다르다'를 different로, '차이'를 difference로 정확히 구분해야 해요. tell the difference는 '차이를 구분하다'라는 뜻이고, split the difference는 '절충하다'예요. 숫자의 차이를 말할 때는 a difference of ten dollars처럼 of를 써요.",
+  "also": []
+ },
+ {
+  "w": "different",
+  "pos": "adj",
+  "meaning_ko": "다른, 별개의",
+  "example_en": "Our opinions are completely **different** on this.",
+  "example_ko": "이 문제에 대해서는 우리 의견이 완전히 달라.",
+  "nuance_ko": "different는 서로 같지 않다는 뜻의 형용사로, different from이 가장 표준이에요. 미국에서는 different than, 영국에서는 different to도 쓰이지만 from이 안전해요. 그냥 '여러 가지'라는 뜻으로 different kinds of ~처럼 쓰기도 해요. 한국어의 '다른'이 '또 다른(another)'과 '서로 다른(different)'을 모두 가리켜서 헷갈려요. a different person은 '다른 사람(성격이나 신원이 다른)'이라는 의미고 another person은 '또 한 사람'이에요.",
+  "also": [
+   {
+    "w": "differently",
+    "pos": "adv",
+    "ko": "다르게",
+    "en": "Everyone thinks **differently** about this problem."
+   }
+  ]
+ },
+ {
+  "w": "difficult",
+  "pos": "adj",
+  "meaning_ko": "어려운, 까다로운",
+  "example_en": "It was a **difficult** decision for the whole team.",
+  "example_ko": "팀 전체에게 어려운 결정이었어.",
+  "nuance_ko": "difficult는 해내기 힘들거나 이해하기 어려운 일과 까다로운 사람 모두에 써요. It is difficult to do처럼 가주어 it 구문으로 자주 쓰고 사람이 주어가 되면 어색해요. 예를 들어 I am difficult to study는 틀리고 It is difficult for me to study가 맞아요. hard는 구어체에서 더 흔하고 difficult는 약간 격식이 있어요. a difficult person은 '대하기 까다로운 사람'이라는 뜻이에요. 명사형은 difficulty로 have difficulty (in) doing처럼 쓰여요.",
+  "also": [
+   {
+    "w": "difficulty",
+    "pos": "n",
+    "ko": "어려움",
+    "en": "She had **difficulty** finding a parking spot."
+   },
+   {
+    "w": "difficulties",
+    "pos": "n",
+    "ko": "곤란, 어려움",
+    "en": "The company ran into financial **difficulties**."
+   }
+  ]
+ },
+ {
+  "w": "dig",
+  "pos": "v",
+  "meaning_ko": "파다, 캐다",
+  "example_en": "The kids love to **dig** holes in the sand.",
+  "example_ko": "아이들은 모래에 구멍 파는 걸 좋아해.",
+  "nuance_ko": "dig는 삽이나 손으로 땅을 파는 동작이에요. dig a hole(구멍을 파다), dig up(파내다, 캐내다)처럼 쓰고 정보를 파헤치다는 비유로 dig into the data, dig deeper도 쓰여요. 구어에서는 I dig it이 '좋아해, 마음에 들어'라는 옛날식 속어로 남아 있어요. 과거형·과거분사는 dug로 불규칙이고, 진행형은 digging으로 g를 겹쳐 써요. 명사 dig는 발굴 현장이나 놀리는 말(a dig at someone)을 뜻해요.",
+  "also": [
+   {
+    "w": "digging",
+    "pos": "n",
+    "ko": "땅 파기",
+    "en": "**Digging** in the garden is hard work."
+   }
+  ]
+ },
+ {
+  "w": "dinner",
+  "pos": "n",
+  "meaning_ko": "저녁 식사",
+  "example_en": "What are we having for **dinner** tonight?",
+  "example_ko": "오늘 저녁 뭐 먹어?",
+  "nuance_ko": "dinner는 하루 중 가장 중요한 식사로 보통 저녁 식사를 가리켜요. have dinner, cook dinner, for dinner처럼 관사 없이 쓰고, 특정 모임의 만찬일 때는 a dinner party, a formal dinner처럼 a를 붙여요. 영국 일부 지역에서는 점심을 dinner라 부르고 저녁은 tea라고 부르는 경우도 있어요. supper는 좀 더 가벼운 저녁이나 늦은 밤 식사를 뜻하는 말이에요. 초대하는 말은 Would you like to come over for dinner?라고 해요.",
+  "also": []
+ },
+ {
+  "w": "dirty",
+  "pos": "adj",
+  "meaning_ko": "더러운, 지저분한",
+  "example_en": "Take off your **dirty** shoes before you come in.",
+  "example_ko": "들어오기 전에 더러워진 신발은 벗어.",
+  "nuance_ko": "dirty는 먼지나 때, 오물이 묻은 상태를 뜻해요. dirty dishes(설거짓거리), dirty laundry(세탁물)처럼 일상 물건에 쓰고 비유로는 dirty trick(비열한 수법), dirty joke(음담패설)가 있어요. wash one's dirty linen in public은 집안 흉을 남에게 보이는 일이라는 숙어예요. 동사로는 '더럽히다'라서 Don't dirty the carpet이라고 해요. 청결의 반대는 clean이고, messy는 어질러진 상태라 dirty와 구분돼요.",
+  "also": [
+   {
+    "w": "dirt",
+    "pos": "n",
+    "ko": "먼지, 흙",
+    "en": "There was **dirt** all over his boots."
+   }
+  ]
+ },
+ {
+  "w": "discover",
+  "pos": "v",
+  "meaning_ko": "발견하다, 알아내다",
+  "example_en": "Scientists have **discovered** a new species of frog.",
+  "example_ko": "과학자들이 새로운 개구리 종을 발견했어.",
+  "nuance_ko": "discover는 이전에 알려지지 않았거나 몰랐던 것을 처음으로 찾아내거나 알게 된다는 뜻이에요. 새로운 것의 발견은 물론 I discovered that I was wrong처럼 사실을 깨닫는 것에도 써요. find는 단순히 찾다이고 discover는 새로움이나 놀라움의 느낌이 더 강해요. 발명은 invent, 발견은 discover로 구분해요. 명사 discovery와 동사의 철자 차이에 주의하세요. Discover is more formal이 아닌 중립적인 단어이며 뉴스·과학 글에서 자주 나와요.",
+  "also": [
+   {
+    "w": "discovery",
+    "pos": "n",
+    "ko": "발견",
+    "en": "The **discovery** changed how we see the universe."
+   },
+   {
+    "w": "undiscovered",
+    "pos": "adj",
+    "ko": "발견되지 않은",
+    "en": "The island remained **undiscovered** for centuries."
+   }
+  ]
+ },
+ {
+  "w": "do",
+  "pos": "v",
+  "meaning_ko": "하다",
+  "example_en": "What are you going to **do** this weekend?",
+  "example_ko": "이번 주말에 뭐 할 거야?",
+  "nuance_ko": "do는 '하다'라는 뜻의 일반 동사이면서, 조동사로 의문문과 부정문을 만드는 중요한 역할을 해요. Do you like it?, I don't know처럼 쓰고 강조할 때는 I do like it처럼 do를 넣기도 해요. do homework, do the dishes, do business는 do와 어울리는 짝꿍이고, make와 구분해야 해요. 일반적으로 만들어내는 것은 make, 활동·행위는 do를 써요. 과거형 did, 과거분사 done이며 well done은 '잘했어(또는 잘 익힌)'를 뜻해요.",
+  "also": [
+   {
+    "w": "undo",
+    "pos": "v",
+    "ko": "되돌리다, 풀다",
+    "en": "I clicked the wrong button, so I had to **undo** it."
+   }
+  ]
+ },
+ {
+  "w": "doctor",
+  "pos": "n",
+  "meaning_ko": "의사, 박사",
+  "example_en": "You should see a **doctor** about that cough.",
+  "example_ko": "그 기침은 병원에 가서 의사한테 보이는 게 좋겠어.",
+  "nuance_ko": "doctor는 의사 또는 박사 학위 소지자를 가리켜요. 호칭으로는 Dr. Kim처럼 쓰고, 병원에 가는 것은 see a doctor, go to the doctor라고 해요. 한국어 '병원에 가다'를 go to the hospital이라고 하면 입원이나 응급 상황처럼 들릴 수 있어요. 동사로 doctor는 '조작하다, 변조하다'라서 a doctored photo(조작된 사진)처럼 써요. 직책이 의사임을 강조할 땐 physician, 외과는 surgeon이에요.",
+  "also": [
+   {
+    "w": "doctors",
+    "pos": "n",
+    "ko": "의사들",
+    "en": "Several **doctors** examined him."
+   }
+  ]
+ },
+ {
+  "w": "dog",
+  "pos": "n",
+  "meaning_ko": "개",
+  "example_en": "We take our **dog** for a walk every morning.",
+  "example_ko": "우리는 매일 아침 개를 산책시켜.",
+  "nuance_ko": "dog는 가장 대표적인 반려동물로, 새끼는 puppy라고 해요. walk the dog(산책시키다), dog food, dog lover처럼 일상에서 자주 나와요. 비유로 It's a dog's life는 힘든 삶, raining cats and dogs는 폭우, every dog has its day는 '쥐구멍에도 볕 들 날 있다'라는 속담이에요. 동사로는 '끈질기게 따라다니며 괴롭히다'라서 dogged by injuries(부상에 시달린)처럼 써요. 애칭으로 doggy, doggie도 흔해요.",
+  "also": [
+   {
+    "w": "doggy",
+    "pos": "n",
+    "ko": "멍멍이",
+    "en": "The **doggy** wagged its tail happily."
+   }
+  ]
+ },
+ {
+  "w": "door",
+  "pos": "n",
+  "meaning_ko": "문",
+  "example_en": "Could you close the **door** behind you, please?",
+  "example_ko": "들어오면서 문 좀 닫아 줄래?",
+  "nuance_ko": "door는 방이나 건물, 자동차의 문을 가리켜요. 창문은 window, 대문은 front door, 뒷문은 back door라고 해요. knock on the door(문을 두드리다), answer the door(손님을 맞으러 나가다), next door(옆집에)가 자주 쓰여요. 비유로 open the door to ~는 '기회의 문을 열어 주다', behind closed doors는 '비공개로'라는 뜻이에요. out of doors는 옥외를 의미하는 옛 표현이고 outdoor/indoor는 형용사예요.",
+  "also": [
+   {
+    "w": "outdoor",
+    "pos": "adj",
+    "ko": "야외의",
+    "en": "We love **outdoor** activities like hiking."
+   },
+   {
+    "w": "indoor",
+    "pos": "adj",
+    "ko": "실내의",
+    "en": "The kids played an **indoor** game because of the rain."
+   }
+  ]
+ },
+ {
+  "w": "double",
+  "pos": "adj",
+  "meaning_ko": "두 배의, 이중의",
+  "example_en": "I'd like a **double** espresso, please.",
+  "example_ko": "더블 에스프레소로 한 잔 주세요.",
+  "nuance_ko": "double은 두 배이거나 둘로 이루어진 것을 나타내는 형용사, 명사, 동사예요. double room은 2인용 방, double check는 두 번 확인하다, double the amount는 양을 두 배로 늘리다라는 뜻이에요. double standard는 이중잣대, double-click은 마우스를 두 번 누르는 일이에요. 동사로 double은 '두 배가 되다'라서 Prices doubled in a year처럼 써요. 숫자 읽기에서는 double zero처럼 같은 숫자 두 개를 말할 때 써요.",
+  "also": [
+   {
+    "w": "doubly",
+    "pos": "adv",
+    "ko": "이중으로",
+    "en": "You should be **doubly** careful with this tool."
+   }
+  ]
+ },
+ {
+  "w": "doubt",
+  "pos": "n",
+  "meaning_ko": "의심, 의문",
+  "example_en": "I have no **doubt** that she'll do a great job.",
+  "example_ko": "그녀가 정말 잘 해낼 거라는 데 의심의 여지가 없어.",
+  "nuance_ko": "doubt는 의심이나 확신이 없는 마음을 말하는 명사이면서 동사예요. no doubt(의심할 여지 없이), without a doubt(확실히), in doubt(확실하지 않은)처럼 써요. 동사로 I doubt it은 '그럴 것 같지 않아'로, I doubt that he'll come처럼 부정적 확신을 나타내요. 철자의 b는 발음하지 않고 /daʊt/로 읽어요. 한국인이 doubt를 '의심하다'와 '의심스러워하다'의 뜻으로 혼동해 suspect와 헷갈리기도 하는데, suspect는 범죄 등이 있다고 의심하는 거예요.",
+  "also": [
+   {
+    "w": "doubtful",
+    "pos": "adj",
+    "ko": "의심스러운",
+    "en": "I'm **doubtful** that the plan will work."
+   },
+   {
+    "w": "undoubtedly",
+    "pos": "adv",
+    "ko": "의심할 여지 없이",
+    "en": "She is **undoubtedly** the best player on the team."
+   }
+  ]
+ },
+ {
+  "w": "down",
+  "pos": "adv",
+  "meaning_ko": "아래로, 내려서",
+  "example_en": "Please sit **down** and make yourself at home.",
+  "example_ko": "앉아서 편하게 있어요.",
+  "nuance_ko": "down은 위에서 아래로 향하는 방향이나 낮은 위치를 가리키는 기본적인 부사·전치사예요. sit down, go down, turn down(소리를 줄이다, 거절하다), calm down(진정하다)처럼 구동사로 매우 많이 쓰여요. 기분이 가라앉은 상태도 down이라서 I'm feeling down은 우울하다는 뜻이에요. 시스템이 작동하지 않는 상태(The server is down)나 줄어든 수치(down 5%)에도 써요. 반대말은 up이에요.",
+  "also": [
+   {
+    "w": "downward",
+    "pos": "adv",
+    "ko": "아래쪽으로",
+    "en": "The path slopes **downward** to the river."
+   }
+  ]
+ },
+ {
+  "w": "draw",
+  "pos": "v",
+  "meaning_ko": "그리다, 끌다, 뽑다",
+  "example_en": "Can you **draw** a quick map for me?",
+  "example_ko": "나한테 약도 좀 간단히 그려 줄래?",
+  "nuance_ko": "draw는 연필이나 펜으로 선을 그어 그림을 그린다는 뜻이 기본이에요. paint는 물감으로 그리는 것이라 구분돼요. 끌어당기다(draw a crowd), 뽑아내다(draw a conclusion, draw water), 무승부로 끝나다(The game ended in a draw)의 뜻도 있어요. draw attention to ~는 '~에 주목하게 만들다'라는 흔한 표현이에요. 과거형은 drew, 과거분사는 drawn이에요. 명사 drawing은 그림 또는 서랍(drawer)과 구분하세요.",
+  "also": [
+   {
+    "w": "drawing",
+    "pos": "n",
+    "ko": "그림, 소묘",
+    "en": "My daughter made a **drawing** of our house."
+   }
+  ]
+ },
+ {
+  "w": "dream",
+  "pos": "n",
+  "meaning_ko": "꿈, 꿈꾸다",
+  "example_en": "I had a strange **dream** last night.",
+  "example_ko": "어젯밤에 이상한 꿈을 꿨어.",
+  "nuance_ko": "dream은 자면서 꾸는 꿈과 이루고 싶은 꿈을 모두 가리켜요. have a dream(꿈을 꾸다), chase one's dream(꿈을 좇다), dream come true(소원 성취)처럼 써요. 동사 dream of/about ~는 '~을 꿈꾸다'인데 dream of는 소망, dream about은 잠 속의 꿈에 가까워요. 꿈에서 본 것은 I dreamed that ~이라고 하고, 과거형은 dreamed 또는 dreamt예요. a dream job은 이상적인 직업이라는 구어체 표현이에요.",
+  "also": [
+   {
+    "w": "dreamer",
+    "pos": "n",
+    "ko": "몽상가",
+    "en": "He's a **dreamer** with big plans."
+   },
+   {
+    "w": "dreamy",
+    "pos": "adj",
+    "ko": "꿈결 같은",
+    "en": "The song has a soft, **dreamy** sound."
+   }
+  ]
+ },
+ {
+  "w": "dress",
+  "pos": "n",
+  "meaning_ko": "원피스, 옷, 옷을 입다",
+  "example_en": "She wore a beautiful blue **dress** to the party.",
+  "example_ko": "그녀는 파티에 아름다운 파란색 원피스를 입고 갔어.",
+  "nuance_ko": "dress는 명사로 원피스를 말하고, 동사로는 옷을 입히다/입다라는 뜻이에요. dress up(차려입다), dress down(편하게 입다), get dressed(옷을 입다)처럼 쓰는 구동사와 표현이 많아요. wear는 입고 있는 상태, put on은 입는 동작, dress는 옷 입는 행위 전체를 말하는 느낌이에요. dress code는 복장 규정이고, 동사로 dress a wound는 상처를 처치하다라는 뜻이에요. 샐러드 소스를 dressing이라고 하는 것도 같은 뿌리예요.",
+  "also": [
+   {
+    "w": "dressed",
+    "pos": "adj",
+    "ko": "옷을 입은",
+    "en": "Are you **dressed** yet? We're leaving soon."
+   },
+   {
+    "w": "dressing",
+    "pos": "n",
+    "ko": "드레싱, 붕대",
+    "en": "I'd like Italian **dressing** on my salad."
+   }
+  ]
+ },
+ {
+  "w": "drink",
+  "pos": "v",
+  "meaning_ko": "마시다, 술을 마시다",
+  "example_en": "Do you want something to **drink** with your meal?",
+  "example_ko": "식사하면서 마실 것 좀 줄까?",
+  "nuance_ko": "drink는 액체를 마시는 동작이고 명사로는 음료나 술 한잔을 뜻해요. Let's grab a drink는 '술 한잔하자'는 뜻이라 문맥상 술일 때가 많아요. drink에는 술을 마신다는 의미도 있어서 He drinks too much는 과음한다는 뜻이고 He doesn't drink는 술을 안 마신다는 뜻이에요. 과거형은 drank, 과거분사는 drunk이며, drunk는 형용사로 '취한'이라는 뜻도 있어요. soft drink는 탄산음료, drinking water는 마시는 물이에요.",
+  "also": [
+   {
+    "w": "drinker",
+    "pos": "n",
+    "ko": "마시는 사람",
+    "en": "He's a heavy coffee **drinker**."
+   },
+   {
+    "w": "drinkable",
+    "pos": "adj",
+    "ko": "마실 수 있는",
+    "en": "The tap water here isn't **drinkable**."
+   }
+  ]
+ },
+ {
+  "w": "drive",
+  "pos": "v",
+  "meaning_ko": "운전하다, 몰다",
+  "example_en": "I **drive** to work every day except Fridays.",
+  "example_ko": "나는 금요일만 빼고 매일 차로 출근해.",
+  "nuance_ko": "drive는 차를 운전하는 동사이고, 명사로는 드라이브 자체, 의욕(drive), 컴퓨터 저장 장치(hard drive)를 뜻해요. drive someone crazy는 '미치게 만들다', drive away는 쫓아내다, drive up the price는 가격을 올리다라는 뜻이 있어요. 운전하는 대상이 차이면 drive a car, 사람을 태워 주면 drive someone to the airport처럼 써요. 과거형 drove, 과거분사 driven이고, 형용사 driven은 의욕적인이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "driver",
+    "pos": "n",
+    "ko": "운전자",
+    "en": "The bus **driver** greeted every passenger."
+   },
+   {
+    "w": "driving",
+    "pos": "n",
+    "ko": "운전",
+    "en": "**Driving** in heavy snow can be dangerous."
+   }
+  ]
+ },
+ {
+  "w": "drop",
+  "pos": "v",
+  "meaning_ko": "떨어뜨리다, 떨어지다, 내려주다",
+  "example_en": "Careful, don't **drop** the plates!",
+  "example_ko": "조심해, 접시 떨어뜨리지 마!",
+  "nuance_ko": "drop은 물건을 떨어뜨리거나 수치가 떨어진다는 뜻의 동사예요. 명사로는 물방울(a drop of water), 하락(a drop in prices)을 의미해요. 구동사로는 drop by(잠깐 들르다), drop off(내려주다 또는 잠들다), drop out(중퇴하다), drop in(불쑥 방문하다) 등이 많아요. Drop me a line은 '연락해 줘'라는 구어 표현이고, drop the subject는 '그 화제는 그만하자'예요. 비슷한 fall은 저절로 떨어지는 느낌이고 drop은 의도적이거나 갑작스러운 경우가 많아요.",
+  "also": [
+   {
+    "w": "droplet",
+    "pos": "n",
+    "ko": "작은 물방울",
+    "en": "A **droplet** of water ran down the glass."
+   }
+  ]
+ },
+ {
+  "w": "drug",
+  "pos": "n",
+  "meaning_ko": "약, 마약",
+  "example_en": "The doctor prescribed a new **drug** for his allergy.",
+  "example_ko": "의사가 그의 알레르기에 쓸 새 약을 처방했어.",
+  "nuance_ko": "drug는 의약품과 마약을 모두 가리키는 단어라서 문맥이 중요해요. 의학에서는 prescription drugs(처방약), over-the-counter drugs(일반의약품)처럼 약을, 사회·법적 맥락에서는 illegal drugs, drug abuse처럼 마약을 뜻해요. 일상 대화에서 약을 말할 때는 medicine이나 medication이 더 자연스럽고 drug은 건조한 느낌이에요. 약국은 pharmacy 혹은 미국의 drugstore예요. 동사로 drug someone은 '약을 먹여 몽롱하게 하다'라는 부정적 의미예요.",
+  "also": [
+   {
+    "w": "drugged",
+    "pos": "adj",
+    "ko": "약에 취한",
+    "en": "He felt **drugged** after taking the sleeping pill."
+   }
+  ]
+ },
+ {
+  "w": "dry",
+  "pos": "adj",
+  "meaning_ko": "마른, 건조한",
+  "example_en": "My skin gets really **dry** in the winter.",
+  "example_ko": "겨울엔 피부가 정말 건조해져.",
+  "nuance_ko": "dry는 물기가 없다는 뜻의 형용사이고 동사로는 말리다예요. dry skin, dry weather, dry towel처럼 일상에서 자주 써요. 맛에서는 dry wine이 '단맛이 적은 와인'이고 유머에서는 dry humor가 '무덤덤하게 하는 유머'라는 미묘한 쓰임이 있어요. 지루하다는 뜻으로 a dry lecture(건조한 강의)도 써요. dry out(바싹 마르다), dry up(말라붙다), blow-dry(드라이하다)가 대표 표현이에요.",
+  "also": [
+   {
+    "w": "drying",
+    "pos": "adj",
+    "ko": "말리는",
+    "en": "Put the clothes on the **drying** rack."
+   },
+   {
+    "w": "dryer",
+    "pos": "n",
+    "ko": "건조기",
+    "en": "Please move the wet clothes to the **dryer**."
+   }
+  ]
+ },
+ {
+  "w": "during",
+  "pos": "prep",
+  "meaning_ko": "~ 동안",
+  "example_en": "Please keep your phone off **during** the movie.",
+  "example_ko": "영화 상영 동안에는 휴대폰을 꺼 주세요.",
+  "nuance_ko": "during은 어떤 사건이나 기간이 진행되는 시간 동안 일이 일어난다는 뜻의 전치사로 뒤에 명사가 와요. during the meeting, during summer처럼 특정 기간을 나타내는 명사 앞에 써요. for는 기간의 길이(for two hours), during은 사건이 일어난 때(during the class)에 쓰는 것이 차이예요. 접속사 while은 뒤에 절이 와서 while I was sleeping처럼 써요. during 뒤에 숫자 기간을 바로 쓰지 않아요. during two hours는 어색하고 for two hours가 자연스러워요.",
+  "also": []
+ },
+ {
+  "w": "each",
+  "pos": "det",
+  "meaning_ko": "각각의, 각자",
+  "example_en": "**Each** student will get a different topic to present.",
+  "example_ko": "학생마다 발표할 주제를 각기 다르게 받을 거예요.",
+  "nuance_ko": "each는 둘 이상의 개별 대상을 하나하나 따로 보는 한정사·대명사예요. 뒤에는 단수 명사와 단수 동사가 와서 Each student has a book처럼 써요. each of the students 뒤에는 복수명사가 오지만 동사는 단수예요. every는 전체를 하나로 보고 each는 개개를 따로 볼 때 쓴다는 차이가 있어요. 부사로는 They cost five dollars each처럼 '개당'이라는 뜻이에요. each other는 서로라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "ear",
+  "pos": "n",
+  "meaning_ko": "귀",
+  "example_en": "She whispered something in his **ear**.",
+  "example_ko": "그녀는 그의 귀에 대고 뭔가를 속삭였어.",
+  "nuance_ko": "ear는 몸의 귀를 가리키며 소리를 듣는 기관이에요. 비유로 have a good ear for music은 음악에 대한 청각이 좋다, play it by ear는 즉흥적으로 해 나가다, all ears는 '귀를 쫑긋 세워 듣고 있다'라는 뜻이에요. in one ear and out the other는 '한 귀로 듣고 한 귀로 흘리다'로 한국어 속담과 같아요. 곡식의 이삭(an ear of corn)도 ear라고 하는데 어원이 달라요. earring은 귀걸이예요.",
+  "also": [
+   {
+    "w": "earful",
+    "pos": "n",
+    "ko": "잔소리",
+    "en": "I got an **earful** from my boss about the delay."
+   }
+  ]
+ },
+ {
+  "w": "early",
+  "pos": "adv",
+  "meaning_ko": "일찍, 이른",
+  "example_en": "I woke up **early** to catch the first train.",
+  "example_ko": "첫 기차를 타려고 일찍 일어났어.",
+  "nuance_ko": "early는 정해진 시간보다 앞서거나 초기라는 뜻으로 형용사와 부사 둘 다 돼요. an early riser(일찍 일어나는 사람), early morning, early on(초기에)처럼 쓰여요. early와 fast를 헷갈리는 한국인이 있는데 early는 시점, fast는 속도예요. 반대말은 late이고, on time은 정시에라는 뜻이라 early와 late의 중간이에요. The early bird catches the worm은 부지런한 사람이 이득을 본다는 속담이에요. 비교급 earlier는 앞서 말한 것을 가리킬 때도 써요.",
+  "also": [
+   {
+    "w": "earlier",
+    "pos": "adv",
+    "ko": "더 일찍, 앞서",
+    "en": "As I mentioned **earlier**, the deadline has moved."
+   },
+   {
+    "w": "earliest",
+    "pos": "adj",
+    "ko": "가장 이른",
+    "en": "What's the **earliest** flight to Busan?"
+   }
+  ]
+ },
+ {
+  "w": "earth",
+  "pos": "n",
+  "meaning_ko": "지구, 땅",
+  "example_en": "Life on **Earth** began billions of years ago.",
+  "example_ko": "지구상의 생명은 수십억 년 전에 시작됐어.",
+  "nuance_ko": "earth는 대문자 Earth일 때는 우리가 사는 행성 지구, 소문자일 때는 땅이나 흙을 가리켜요. on earth는 의문문에서 강조 표현으로 What on earth are you doing?(대체 뭘 하는 거야?)처럼 써요. down to earth는 '현실적이고 소박한 사람'을 칭찬하는 말이에요. 환경 이야기에서 save the earth, Earth Day가 자주 나와요. 비슷한 world는 인간 사회와 세상까지 포함하고 earth는 물리적 행성에 가까워요.",
+  "also": [
+   {
+    "w": "earthly",
+    "pos": "adj",
+    "ko": "지상의",
+    "en": "He had no **earthly** reason to complain."
+   }
+  ]
+ },
+ {
+  "w": "east",
+  "pos": "n",
+  "meaning_ko": "동쪽",
+  "example_en": "The sun rises in the **east**.",
+  "example_ko": "해는 동쪽에서 떠.",
+  "nuance_ko": "east는 동쪽을 가리키는 명사·형용사·부사예요. the east side, head east(동쪽으로 가다), to the east of ~(~의 동쪽에)처럼 써요. 방위 표기는 north, south, east, west 순서로 말하는 것이 일반적이에요. 대문자 East는 동양이나 동부 지역을 가리키고 the Far East(극동), the East Coast(미국 동부 해안)가 대표적이에요. 형용사 eastern은 동쪽의, 동양의라서 Eastern Europe처럼 써요.",
+  "also": [
+   {
+    "w": "eastward",
+    "pos": "adv",
+    "ko": "동쪽으로",
+    "en": "The river flows **eastward** toward the sea."
+   }
+  ]
+ },
+ {
+  "w": "easy",
+  "pos": "adj",
+  "meaning_ko": "쉬운, 편한",
+  "example_en": "The instructions were really **easy** to follow.",
+  "example_ko": "설명서가 따라 하기 정말 쉬웠어.",
+  "nuance_ko": "easy는 노력이나 어려움이 거의 없다는 뜻이에요. It is easy to ~ 구문으로 It is easy to learn English처럼 쓰고 사람 주어를 쓸 땐 He is easy to talk to처럼 목적어를 주어로 올려요. Take it easy는 '진정해, 무리하지 마', Easy come, easy go는 '쉽게 얻은 건 쉽게 잃는다', go easy on ~는 '~에게 너그럽게 하다'예요. 부사처럼 Easy! 하고 외치면 '조심해!, 살살!'이라는 뜻이에요. 반대말은 difficult 또는 hard예요.",
+  "also": [
+   {
+    "w": "easily",
+    "pos": "adv",
+    "ko": "쉽게",
+    "en": "She **easily** solved the puzzle."
+   },
+   {
+    "w": "easier",
+    "pos": "adj",
+    "ko": "더 쉬운",
+    "en": "It's **easier** said than done."
+   }
+  ]
+ },
+ {
+  "w": "eat",
+  "pos": "v",
+  "meaning_ko": "먹다",
+  "example_en": "Let's **eat** out tonight instead of cooking.",
+  "example_ko": "오늘 밤엔 요리하지 말고 나가서 먹자.",
+  "nuance_ko": "eat는 음식을 먹는 가장 기본적인 동사예요. eat out은 외식하다, eat up은 다 먹어 치우다, eat in은 집에서 먹다, 매장에서 먹다를 뜻해요. 과거형 ate, 과거분사 eaten이 불규칙이라 헷갈려요. have breakfast/lunch/dinner처럼 식사 이름과는 have를 쓰는 편이 자연스러워요. 고통이나 감정에 대해 What's eating you?는 '뭐가 신경 쓰이니?'라는 구어 표현이에요. 국을 먹는다고 할 때는 eat soup 또는 have soup 둘 다 가능해요.",
+  "also": [
+   {
+    "w": "eaten",
+    "pos": "v",
+    "ko": "먹힌, 먹은",
+    "en": "Have you **eaten** anything today?"
+   },
+   {
+    "w": "eater",
+    "pos": "n",
+    "ko": "먹는 사람",
+    "en": "My son is a picky **eater**."
+   }
+  ]
+ },
+ {
+  "w": "edge",
+  "pos": "n",
+  "meaning_ko": "가장자리, 날, 우위",
+  "example_en": "Don't stand too close to the **edge** of the cliff.",
+  "example_ko": "절벽 가장자리에 너무 가까이 서 있지 마.",
+  "nuance_ko": "edge는 물체의 가장자리, 칼의 날, 그리고 경쟁에서의 근소한 우위를 뜻하는 단어예요. on the edge of ~는 막 ~하려는 참이고 on edge는 신경이 곤두선 상태라서 비슷하지만 달라요. have an edge over ~는 '~보다 우위에 있다'는 의미예요. cutting edge는 최첨단이라 cutting-edge technology처럼 형용사로도 써요. 동사로 edge는 천천히 조금씩 움직이다라서 edge closer to the door처럼 써요.",
+  "also": [
+   {
+    "w": "edging",
+    "pos": "n",
+    "ko": "가장자리 장식",
+    "en": "The cloth had a lace **edging**."
+   }
+  ]
+ },
+ {
+  "w": "educate",
+  "pos": "v",
+  "meaning_ko": "교육하다, 가르치다",
+  "example_en": "Parents need to **educate** their kids about online safety.",
+  "example_ko": "부모는 아이들에게 온라인 안전에 대해 교육해야 해.",
+  "nuance_ko": "educate는 학교 교육 같은 체계적인 가르침뿐 아니라 어떤 주제에 대해 지식을 갖추도록 알려 주는 일까지 뜻해요. teach는 구체적인 기술이나 과목을 가르치는 데 쓰고, educate는 전반적인 지식과 인성 교육을 포함해요. educate oneself는 '스스로 공부하다'라는 뜻이에요. 수동태 be educated at ~는 '~에서 교육받았다'로 학력을 말할 때 자주 써요. 명사 education은 교육 또는 학력을 의미하고 higher education은 고등 교육이에요.",
+  "also": [
+   {
+    "w": "education",
+    "pos": "n",
+    "ko": "교육",
+    "en": "Good **education** opens many doors."
+   },
+   {
+    "w": "educational",
+    "pos": "adj",
+    "ko": "교육적인",
+    "en": "The museum has many **educational** programs."
+   },
+   {
+    "w": "educated",
+    "pos": "adj",
+    "ko": "교육받은",
+    "en": "She is a highly **educated** woman."
+   }
+  ]
+ },
+ {
+  "w": "egg",
+  "pos": "n",
+  "meaning_ko": "달걀, 알",
+  "example_en": "Would you like your **egg** scrambled or fried?",
+  "example_ko": "달걀은 스크램블로 해 드릴까요, 프라이로 해 드릴까요?",
+  "nuance_ko": "egg는 새나 곤충 등의 알이고, 일상에서는 주로 달걀을 가리켜요. 조리법에 따라 fried egg(프라이), scrambled eggs(스크램블), boiled egg(삶은 달걀), poached egg(수란)처럼 불러요. 껍질은 eggshell, 노른자는 yolk, 흰자는 egg white예요. 비유로 put all your eggs in one basket은 '한 곳에 모든 걸 걸다', walk on eggshells는 '조심조심 눈치 보다', egg on one's face는 '창피를 당하다'라는 숙어예요. 동사 egg someone on은 '부추기다'라는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "eight",
+  "pos": "num",
+  "meaning_ko": "여덟, 8",
+  "example_en": "The movie starts at **eight**, so let's leave soon.",
+  "example_ko": "영화가 여덟 시에 시작하니까 곧 출발하자.",
+  "nuance_ko": "eight는 숫자 8을 뜻하고 /eɪt/로 발음해요. 철자가 어려운 gh는 소리가 나지 않는 점에 주의하세요. ate(eat의 과거형)와 소리가 같아서 동음이의어예요. eighteen(18), eighty(80)는 철자에서 t가 하나 줄거나 늘어나는 점이 혼동돼요. 시각은 It's eight o'clock이고 나이는 She's eight years old처럼 말해요. an eight-hour day처럼 형용사로 쓰일 때 hour는 복수가 되지 않는 점도 알아두세요.",
+  "also": [
+   {
+    "w": "eighty",
+    "pos": "num",
+    "ko": "여든, 80",
+    "en": "My grandmother turned **eighty** last week."
+   },
+   {
+    "w": "eighteen",
+    "pos": "num",
+    "ko": "열여덟, 18",
+    "en": "You must be **eighteen** to vote."
+   }
+  ]
+ },
+ {
+  "w": "either",
+  "pos": "det",
+  "meaning_ko": "둘 중 하나의, ~도 (아니다)",
+  "example_en": "You can pay with **either** cash or card.",
+  "example_ko": "현금이나 카드 둘 중 아무거나로 결제하셔도 돼요.",
+  "nuance_ko": "either는 둘 중 어느 쪽이든 괜찮다는 뜻이고 either A or B 구문으로 자주 써요. 부정문 끝에서는 too의 부정형으로 쓰여 I don't like it either(나도 그거 안 좋아해)가 돼요. neither는 둘 다 아니라는 뜻이고 not either로도 말할 수 있어요. Either way는 '어느 쪽이든'이라는 구어 표현이에요. 세 개 이상에서는 either 대신 any를 쓰고, 동사는 either of the two 뒤에서 단수로 받는 게 원칙이에요.",
+  "also": []
+ },
+ {
+  "w": "eleven",
+  "pos": "num",
+  "meaning_ko": "열하나, 11",
+  "example_en": "The meeting finished a little after **eleven**.",
+  "example_ko": "회의는 열한 시가 조금 지나서 끝났어.",
+  "nuance_ko": "eleven은 숫자 11을 의미해요. 시계 시각을 말할 때 eleven o'clock, 나이는 eleven years old처럼 써요. 서수는 eleventh로 the eleventh floor(11층), November 11th처럼 날짜에서 쓰여요. 스포츠에서는 축구팀이 열한 명으로 구성되어 the starting eleven이라고 부르기도 해요. at the eleventh hour는 '마지막 순간에'라는 관용 표현이에요. 숫자 11의 철자는 e-l-e-v-e-n으로 e가 세 번 들어가요.",
+  "also": [
+   {
+    "w": "eleventh",
+    "pos": "adj",
+    "ko": "열한 번째의",
+    "en": "Their office is on the **eleventh** floor."
+   }
+  ]
+ },
+ {
+  "w": "else",
+  "pos": "adv",
+  "meaning_ko": "그 밖에, 다른",
+  "example_en": "Is there anything **else** I can help you with?",
+  "example_ko": "그 밖에 제가 도와드릴 일이 또 있나요?",
+  "nuance_ko": "else는 앞서 말한 것 외에 다른 것을 가리키는 단어로, someone else(다른 누군가), anything else(그 밖의 무엇), nowhere else(다른 데는 어디에도) 같은 표현으로 자주 써요. or else는 '그러지 않으면'이라는 경고 표현이에요. 소유격은 someone else's처럼 else에 's를 붙여요. other와 달리 else는 항상 대명사·부사 뒤에 위치해요. Anything else?는 가게나 식당에서 흔히 듣는 질문이에요.",
+  "also": [
+   {
+    "w": "elsewhere",
+    "pos": "adv",
+    "ko": "다른 곳에서",
+    "en": "If you don't like this, try looking **elsewhere**."
+   }
+  ]
+ },
+ {
+  "w": "employ",
+  "pos": "v",
+  "meaning_ko": "고용하다, 사용하다",
+  "example_en": "The factory **employs** around two hundred people.",
+  "example_ko": "그 공장은 이백 명쯤 되는 사람을 고용하고 있어.",
+  "nuance_ko": "employ는 사람을 일하도록 고용한다는 뜻의 동사이고, 격식 있는 글에서는 방법·기술을 쓴다는 뜻으로도 쓰여요. 같은 뜻의 hire는 새로 채용하는 구어적 표현이고, employ는 고용 상태를 이어간다는 느낌이에요. 고용된 사람은 employee, 고용주는 employer로 -ee와 -er 접미사 차이를 기억하세요. 수동태 be employed as a teacher는 '교사로 일하고 있다'예요. 명사 employment는 고용, 일자리라는 뜻이에요.",
+  "also": [
+   {
+    "w": "employee",
+    "pos": "n",
+    "ko": "직원",
+    "en": "Every **employee** gets ten days of paid leave."
+   },
+   {
+    "w": "employer",
+    "pos": "n",
+    "ko": "고용주",
+    "en": "My **employer** offered me a raise."
+   },
+   {
+    "w": "unemployment",
+    "pos": "n",
+    "ko": "실업",
+    "en": "**Unemployment** has dropped this year."
+   }
+  ]
+ },
+ {
+  "w": "empty",
+  "pos": "adj",
+  "meaning_ko": "빈, 비어 있는",
+  "example_en": "The fridge is almost **empty**, so let's go shopping.",
+  "example_ko": "냉장고가 거의 비었으니까 장 보러 가자.",
+  "nuance_ko": "empty는 안에 아무것도 없는 상태를 뜻하는 형용사이고, 동사로는 비우다예요. an empty bottle, an empty seat처럼 쓰고 비유적으로는 empty promises(공약), empty words(공허한 말)처럼 실속이 없다는 뜻이에요. empty-handed는 빈손으로, on an empty stomach는 빈속에라는 숙어예요. vacant는 방이나 자리가 사용 중이 아니라 비어 있다는 뜻이고, blank는 아무것도 적혀 있지 않은 상태예요. 감정이 텅 빈 느낌도 I feel empty로 말해요.",
+  "also": [
+   {
+    "w": "emptiness",
+    "pos": "n",
+    "ko": "공허함",
+    "en": "She felt a deep **emptiness** after he left."
+   }
+  ]
+ },
+ {
+  "w": "end",
+  "pos": "n",
+  "meaning_ko": "끝, 목적",
+  "example_en": "Let's meet again at the **end** of the month.",
+  "example_ko": "월말에 다시 만나자.",
+  "nuance_ko": "end는 어떤 것의 마지막, 끝 부분을 뜻하고 동사로는 끝나다·끝내다예요. at the end of ~(~의 끝에), in the end(결국에는), by the end of ~(~까지는)처럼 쓰는 표현이 많아요. in the end는 최종 결과를 말하고 at the end는 특정 끝 지점을 가리켜서 다르게 써요. the end of the world, dead end, no end of ~(많은)도 알아두세요. 목적, 목표라는 뜻의 to this end(이 목적을 위해)는 격식 있는 표현이에요.",
+  "also": [
+   {
+    "w": "ending",
+    "pos": "n",
+    "ko": "결말",
+    "en": "The movie has a surprising **ending**."
+   },
+   {
+    "w": "endless",
+    "pos": "adj",
+    "ko": "끝없는",
+    "en": "The road seemed **endless** in the heat."
+   }
+  ]
+ },
+ {
+  "w": "engine",
+  "pos": "n",
+  "meaning_ko": "엔진, 기관",
+  "example_en": "The car's **engine** started making a strange noise.",
+  "example_ko": "차의 엔진에서 이상한 소리가 나기 시작했어.",
+  "nuance_ko": "engine은 동력을 만들어내는 기관으로, 자동차 엔진이나 비행기 엔진처럼 쓰여요. motor와 구분하면 보통 engine은 연료를 태워 동력을 내고 motor는 전기로 움직인다고 나눠요. 인터넷의 search engine(검색 엔진)처럼 어떤 일을 돌아가게 하는 핵심 시스템도 engine이라 불러요. 비유로 engine of growth는 성장의 동력을 의미해요. 한국어의 '기관사'는 engineer(미국에선 열차 기관사)와 연결되는데 engineer는 대부분 기술자예요.",
+  "also": []
+ },
+ {
+  "w": "enjoy",
+  "pos": "v",
+  "meaning_ko": "즐기다, 즐겁게 보내다",
+  "example_en": "I really **enjoy** hiking on weekends.",
+  "example_ko": "주말에 하이킹하는 걸 정말 좋아해.",
+  "nuance_ko": "enjoy는 어떤 활동이나 경험에서 즐거움을 느낀다는 동사로, 뒤에 동명사나 명사가 오고 to부정사는 오지 않아요. 예를 들어 enjoy swimming, enjoy the party가 맞고 enjoy to swim은 틀려요. Enjoy!(맛있게 드세요, 즐기세요)는 식당이나 서비스에서 건네는 흔한 인사예요. enjoy oneself는 '즐거운 시간을 보내다'라는 재귀 표현이에요. like는 취향, enjoy는 실제로 경험하면서 느끼는 즐거움이라는 차이가 있어요.",
+  "also": [
+   {
+    "w": "enjoyable",
+    "pos": "adj",
+    "ko": "즐거운",
+    "en": "It was a truly **enjoyable** evening."
+   },
+   {
+    "w": "enjoyment",
+    "pos": "n",
+    "ko": "즐거움",
+    "en": "She reads purely for **enjoyment**."
+   }
+  ]
+ },
+ {
+  "w": "enough",
+  "pos": "adv",
+  "meaning_ko": "충분히, 충분한",
+  "example_en": "Is the room big **enough** for twenty people?",
+  "example_ko": "그 방이 스무 명 들어갈 만큼 충분히 커?",
+  "nuance_ko": "enough는 필요를 채우기에 충분하다는 뜻으로 형용사 뒤에서 big enough처럼 쓰고, 명사 앞에서는 enough money처럼 앞에 놓여요. 부사로 쓸 때 위치가 중요해서 enough big이 아니라 big enough예요. enough to do는 '~하기에 충분한'이라는 구문이에요. Enough!는 '그만해!', That's enough는 '이제 됐어'처럼 강한 중단 요청이에요. too와 반대 개념으로, too big은 지나치게 크고 big enough는 필요한 만큼 크다는 뜻이에요.",
+  "also": []
+ },
+ {
+  "w": "enter",
+  "pos": "v",
+  "meaning_ko": "들어가다, 입력하다",
+  "example_en": "Please **enter** your password to continue.",
+  "example_ko": "계속하려면 비밀번호를 입력하세요.",
+  "nuance_ko": "enter는 장소로 들어가거나, 대회·학교에 등록하거나, 컴퓨터에 정보를 입력하는 것 모두를 뜻해요. 타동사라서 enter the room처럼 전치사 없이 쓰고 enter into the room이라고 하지 않아요. enter into는 계약·협정 같은 추상적인 일에 쓰이고 enter into an agreement처럼 말해요. 키보드의 Enter 키도 같은 단어예요. 구어체에서 go in/come in이 일상 대화에선 더 자연스럽고 enter는 약간 격식 있게 들려요.",
+  "also": [
+   {
+    "w": "entered",
+    "pos": "v",
+    "ko": "들어간",
+    "en": "She **entered** the contest last month."
+   }
+  ]
+ },
+ {
+  "w": "especially",
+  "pos": "adv",
+  "meaning_ko": "특히",
+  "example_en": "I love fruit, **especially** mangoes and peaches.",
+  "example_ko": "나는 과일을 좋아해, 특히 망고랑 복숭아를.",
+  "nuance_ko": "especially는 여러 대상 중에서 어떤 것이 특히 더 해당된다는 뜻의 부사예요. 문장 앞에서 쓰는 경우보다 especially + 명사/구로 앞에서 말한 내용을 강조하는 쓰임이 대부분이에요. specially는 '특별한 목적을 위해'라는 뜻이라 specially made는 특별 제작이라는 의미로 구분해요. 예를 들어 It's especially cold today는 오늘 유난히 춥다, I bought it specially for you는 너를 위해 일부러 샀다는 뜻이에요. 부정문에서는 not especially가 '별로'라는 완곡한 부정이에요.",
+  "also": []
+ },
+ {
+  "w": "even",
+  "pos": "adv",
+  "meaning_ko": "심지어, ~조차, 훨씬",
+  "example_en": "He didn't **even** say goodbye before leaving.",
+  "example_ko": "그는 떠나기 전에 작별 인사조차 하지 않았어.",
+  "nuance_ko": "even은 '기대 이상이거나 예상 밖이다'를 나타내는 강조 부사예요. even if(설령 ~하더라도), even though(~인데도), not even(~조차 아닌) 같은 구문이 중요해요. 비교급을 강조할 때 even better처럼 '훨씬'의 의미로 쓰이고, 형용사로는 평평한, 짝수의, 균등한이라는 뜻이 있어요. an even number는 짝수, get even은 복수하다예요. even if와 even though를 구분해서 if는 가정, though는 사실이라는 점을 기억하세요.",
+  "also": []
+ },
+ {
+  "w": "evening",
+  "pos": "n",
+  "meaning_ko": "저녁",
+  "example_en": "We usually take a walk in the **evening**.",
+  "example_ko": "우리는 보통 저녁에 산책해.",
+  "nuance_ko": "evening은 해가 질 무렵부터 잠자기 전까지의 저녁 시간대를 가리켜요. in the evening, this evening, tomorrow evening처럼 쓰고 this나 tomorrow 앞에는 전치사를 쓰지 않아요. 인사로는 Good evening이 있고, 보통 만날 때 쓰며 헤어질 때는 Good night를 써요. night은 어두운 시간 전체를 가리키고 evening은 활동이 이어지는 초저녁에 가까워요. evening dress는 격식 있는 만찬용 복장이에요.",
+  "also": []
+ },
+ {
+  "w": "ever",
+  "pos": "adv",
+  "meaning_ko": "언젠가, 지금까지",
+  "example_en": "Have you **ever** been to Japan?",
+  "example_ko": "일본에 가 본 적 있어?",
+  "nuance_ko": "ever는 시간상 어느 때든지를 뜻하는 부사로, 의문문과 부정문, 조건문에서 많이 나와요. Have you ever ~?는 '~해 본 적 있니?'를 묻는 대표 문형이에요. 긍정문에서는 the best movie I've ever seen처럼 최상급과 함께 강조 역할을 해요. never는 ever의 부정형이라서 Have you never ~?가 아니라 Have you ever ~?를 써요. forever(영원히), ever since(그 후로 줄곧), hardly ever(거의 ~않는) 같은 표현도 자주 나와요.",
+  "also": []
+ },
+ {
+  "w": "every",
+  "pos": "det",
+  "meaning_ko": "모든, 매 ~마다",
+  "example_en": "I check my email **every** morning before work.",
+  "example_ko": "나는 출근 전 매일 아침 이메일을 확인해.",
+  "nuance_ko": "every는 하나하나를 빠짐없이 전부라는 뜻으로 단수 명사와 함께 써요. every day는 매일, every other day는 하루걸러, every two weeks는 이 주에 한 번이에요. every와 each는 비슷하지만 every는 전체를 묶어서, each는 개별로 보는 느낌이에요. 복합어로는 everyone, everything, everywhere가 있고 동사는 항상 단수로 받아요. 형용사 everyday(평범한, 일상적인)와 every day(날마다)는 철자가 달라 헷갈리기 쉬워요.",
+  "also": [
+   {
+    "w": "everything",
+    "pos": "pron",
+    "ko": "모든 것",
+    "en": "**Everything** is ready for the party."
+   },
+   {
+    "w": "everyone",
+    "pos": "pron",
+    "ko": "모든 사람",
+    "en": "**Everyone** loved the new menu."
+   },
+   {
+    "w": "everywhere",
+    "pos": "adv",
+    "ko": "어디에나",
+    "en": "I've looked **everywhere** for my keys."
+   }
+  ]
+ },
+ {
+  "w": "exact",
+  "pos": "adj",
+  "meaning_ko": "정확한, 꼭 그런",
+  "example_en": "Do you remember the **exact** time he called?",
+  "example_ko": "그가 전화한 정확한 시각이 기억나?",
+  "nuance_ko": "exact는 오차 없이 정확하다는 형용사예요. the exact amount, the exact same thing(똑같은 것)처럼 쓰고 정확함을 강조해요. accurate와 비슷하지만 exact는 정확히 들어맞는다는 의미가 강하고 accurate는 오류가 없음을 말해요. 부사 exactly는 대답으로 '바로 그거야'라는 맞장구에도 많이 쓰고, Not exactly는 '꼭 그렇지는 않아'라는 완곡한 부정이에요. 동사로 exact는 '요구하다, 가하다'라는 격식 있는 뜻이 있어요.",
+  "also": [
+   {
+    "w": "exactly",
+    "pos": "adv",
+    "ko": "정확히",
+    "en": "That's **exactly** what I was thinking."
+   }
+  ]
+ },
+ {
+  "w": "except",
+  "pos": "prep",
+  "meaning_ko": "~을 제외하고",
+  "example_en": "Everyone came to the party **except** Tom.",
+  "example_ko": "탐만 빼고 모두가 파티에 왔어.",
+  "nuance_ko": "except는 전체에서 일부를 빼고 말할 때 쓰는 전치사예요. everyone except me, all except the last one처럼 all, every, no 같은 말과 자주 짝을 이뤄요. except for ~는 '~을 제외하면' 또는 '~ 말고는'이라 문장 앞에도 올 수 있어요. accept와 철자와 발음이 비슷하지만 뜻이 완전히 달라요. 접속사로 쓰면 I'd go except I'm busy처럼 '~라는 점만 빼면'이라는 구어체가 돼요. besides는 '~ 외에도'로 추가의 의미라 except와 방향이 반대예요.",
+  "also": []
+ },
+ {
+  "w": "excite",
+  "pos": "v",
+  "meaning_ko": "흥분시키다, 신나게 하다",
+  "example_en": "The news about the trip really **excited** the kids.",
+  "example_ko": "여행 소식에 아이들이 정말 신이 났어.",
+  "nuance_ko": "excite는 사람을 설레고 들뜨게 만든다는 동사예요. 형용사는 감정을 느끼는 사람에게 excited, 흥분을 일으키는 대상에게 exciting을 써요. I'm excited about the trip, The trip is exciting처럼 구분해야 해요. 한국어로 이 둘을 같은 '신나는'으로 번역하는 탓에 I am exciting이라는 실수가 흔해요. 동사 excite 자체는 일상에서는 잘 안 쓰이고 대부분 분사 형태로 만나요. 명사 excitement는 흥분, 설렘을 뜻해요.",
+  "also": [
+   {
+    "w": "excited",
+    "pos": "adj",
+    "ko": "신이 난",
+    "en": "I'm so **excited** about tomorrow's trip!"
+   },
+   {
+    "w": "exciting",
+    "pos": "adj",
+    "ko": "흥미진진한",
+    "en": "It was an **exciting** game to watch."
+   },
+   {
+    "w": "excitement",
+    "pos": "n",
+    "ko": "흥분, 설렘",
+    "en": "The crowd cheered with **excitement**."
+   }
+  ]
+ },
+ {
+  "w": "excuse",
+  "pos": "n",
+  "meaning_ko": "변명, 핑계",
+  "example_en": "That's a poor **excuse** for being late again.",
+  "example_ko": "또 지각한 것에 대한 변명치고는 영 별로네.",
+  "nuance_ko": "excuse는 명사로 잘못에 대한 변명이나 핑계, 동사로는 /ɪkˈskjuːz/로 발음하며 용서하다·면제하다라는 뜻이 있어요. 명사는 /ɪkˈskjuːs/로 s 소리가 나서 발음이 달라져요. Excuse me는 말을 걸거나 길을 비켜 달라고 할 때 쓰는 인사이고, Sorry는 잘못에 대한 사과라서 둘이 달라요. make an excuse(핑계를 대다), no excuse for ~(~의 이유가 될 수 없다)처럼 써요. 동사 be excused from ~는 '~에서 면제되다'예요.",
+  "also": [
+   {
+    "w": "excused",
+    "pos": "adj",
+    "ko": "면제된",
+    "en": "She was **excused** from class today."
+   },
+   {
+    "w": "inexcusable",
+    "pos": "adj",
+    "ko": "용서할 수 없는",
+    "en": "His rude behavior was **inexcusable**."
+   }
+  ]
+ },
+ {
+  "w": "expect",
+  "pos": "v",
+  "meaning_ko": "기대하다, 예상하다",
+  "example_en": "I didn't **expect** to see you here today.",
+  "example_ko": "오늘 여기서 너를 볼 줄은 몰랐어.",
+  "nuance_ko": "expect는 어떤 일이 일어나거나 누군가 올 것이라고 예상하거나 기대하는 동사예요. expect to do, expect someone to do, expect that ~ 구문으로 쓰고 expect + 동명사는 쓰지 않아요. 한국인이 흔히 hope로 쓸 곳에 expect를 쓰는데, hope는 바라는 것, expect는 일어날 것이라 믿는 거예요. be expecting a baby는 임신 중이라는 완곡한 표현이에요. as expected(예상대로), than expected(예상보다)가 자주 쓰여요.",
+  "also": [
+   {
+    "w": "unexpected",
+    "pos": "adj",
+    "ko": "예상치 못한",
+    "en": "We got an **unexpected** visitor last night."
+   },
+   {
+    "w": "expectation",
+    "pos": "n",
+    "ko": "기대, 예상",
+    "en": "The results exceeded all our **expectations**."
+   },
+   {
+    "w": "expected",
+    "pos": "adj",
+    "ko": "예상되는",
+    "en": "The train is **expected** to arrive at noon."
+   }
+  ]
+ },
+ {
+  "w": "expensive",
+  "pos": "adj",
+  "meaning_ko": "비싼",
+  "example_en": "That restaurant looks nice, but it's way too **expensive**.",
+  "example_ko": "그 식당 괜찮아 보이긴 하는데 너무 비싸.",
+  "nuance_ko": "expensive는 값이 비싼 물건이나 서비스를 말하는 형용사예요. 사람이 주어가 아니라서 I am expensive는 어색하고 It is expensive to live here처럼 써요. 가격이 높다는 표현에는 high price, 가격이 비싸지 않다는 표현에는 cheap보다 정중한 inexpensive를 써요. 비교급은 more expensive, 최상급은 the most expensive예요. 가격이 터무니없이 비싸다면 overpriced, 값이 나가는 만큼 가치가 있으면 worth the money라 해요.",
+  "also": [
+   {
+    "w": "inexpensive",
+    "pos": "adj",
+    "ko": "저렴한",
+    "en": "We found an **inexpensive** hotel near the beach."
+   },
+   {
+    "w": "expensively",
+    "pos": "adv",
+    "ko": "비싸게",
+    "en": "She was **expensively** dressed for the party."
+   }
+  ]
+ },
+ {
+  "w": "experience",
+  "pos": "n",
+  "meaning_ko": "경험, 경력",
+  "example_en": "Do you have any **experience** working with children?",
+  "example_ko": "아이들과 일해 본 경험이 있나요?",
+  "nuance_ko": "experience는 직접 겪은 일(a bad experience)과 일을 통해 쌓은 경력(work experience)을 모두 뜻해요. 경력이나 숙련을 말할 때는 셀 수 없는 명사로 쓰고, 개별 사건은 an experience처럼 셀 수 있어요. 동사로는 '경험하다, 겪다'라서 experience difficulty처럼 써요. 이력서에서는 relevant experience(관련 경력)가 핵심 표현이에요. 한국어 '경험이 있다'는 have experience of/in ~으로 말하며 I have experience of로 쓰는 것도 가능해요.",
+  "also": [
+   {
+    "w": "experienced",
+    "pos": "adj",
+    "ko": "경험 많은",
+    "en": "He's an **experienced** pilot with twenty years in the air."
+   },
+   {
+    "w": "inexperienced",
+    "pos": "adj",
+    "ko": "경험이 부족한",
+    "en": "The team was young and **inexperienced**."
+   }
+  ]
+ },
+ {
+  "w": "explain",
+  "pos": "v",
+  "meaning_ko": "설명하다",
+  "example_en": "Could you **explain** how this machine works?",
+  "example_ko": "이 기계가 어떻게 작동하는지 설명해 줄 수 있어?",
+  "nuance_ko": "explain은 어떤 일의 이유나 방법을 상대가 이해하도록 풀어서 말하는 동사예요. explain A to B 구조라서 explain me처럼 쓰면 틀리고 explain it to me가 맞아요. 이 점이 한국 학습자가 가장 자주 틀리는 부분이에요. explain why/how/that ~처럼 의문사나 that절을 받을 수 있어요. 변명하고 싶을 때 Let me explain 이라고 하는 것도 흔해요. 명사 explanation(설명)은 철자에서 explain과 달리 a가 빠져 있다는 점을 기억하세요.",
+  "also": [
+   {
+    "w": "explanation",
+    "pos": "n",
+    "ko": "설명, 해명",
+    "en": "He gave a clear **explanation** of the rules."
+   },
+   {
+    "w": "unexplained",
+    "pos": "adj",
+    "ko": "설명되지 않은",
+    "en": "The cause of the delay remains **unexplained**."
+   }
+  ]
+ },
+ {
+  "w": "express",
+  "pos": "v",
+  "meaning_ko": "표현하다, 나타내다",
+  "example_en": "It's hard to **express** how grateful I am.",
+  "example_ko": "내가 얼마나 고마워하는지 말로 표현하기가 어려워.",
+  "nuance_ko": "express는 생각이나 감정을 말·글·표정 등으로 드러낸다는 동사예요. express an opinion, express concern, express thanks처럼 격식 있게 감정을 전달할 때 써요. express oneself는 '자기 생각을 표현하다'라는 재귀 표현이에요. 형용사·명사 express는 급행, 속달이라는 뜻으로 express train, express delivery에 쓰여요. 명사 expression은 표현이나 표정을 모두 뜻해서 a facial expression이라고 해요.",
+  "also": [
+   {
+    "w": "expression",
+    "pos": "n",
+    "ko": "표현, 표정",
+    "en": "She had a puzzled **expression** on her face."
+   },
+   {
+    "w": "expressive",
+    "pos": "adj",
+    "ko": "표현이 풍부한",
+    "en": "He has very **expressive** eyes."
+   }
+  ]
+ },
+ {
+  "w": "extra",
+  "pos": "adj",
+  "meaning_ko": "추가의, 여분의",
+  "example_en": "Do you have an **extra** charger I could borrow?",
+  "example_ko": "빌려 쓸 수 있는 여분의 충전기 있어?",
+  "nuance_ko": "extra는 기존의 것에 더해지는 추가분이나 여분을 뜻하는 형용사예요. extra charge(추가 요금), extra time(연장 시간), extra large(특대)처럼 쓰여요. 명사로는 추가 요금이나 영화의 엑스트라 배우를 뜻하고, 부사로는 extra careful(특별히 조심하는)처럼 정도를 강조해요. 구어체에서 He's so extra는 '과하게 오버한다'라는 신조어 용법이에요. extra는 보태진 것이라 원래 있던 것과 다른 spare(예비용)와 약간 달라요.",
+  "also": [
+   {
+    "w": "extras",
+    "pos": "n",
+    "ko": "추가 요금, 추가 항목",
+    "en": "The room price doesn't include **extras**."
+   }
+  ]
+ },
+ {
+  "w": "eye",
+  "pos": "n",
+  "meaning_ko": "눈",
+  "example_en": "She has bright green **eyes** and curly hair.",
+  "example_ko": "그녀는 밝은 초록색 눈에 곱슬머리야.",
+  "nuance_ko": "eye는 눈을 가리키는 명사이고, 시각이나 관찰하는 능력도 뜻해요. have an eye for ~는 '~을 볼 줄 아는 안목이 있다', keep an eye on ~는 '~을 지켜보다', catch someone's eye는 '시선을 끌다'예요. in the eye of the storm은 폭풍의 눈, see eye to eye는 '의견이 일치하다'라는 관용 표현이에요. 동사로 eye는 '유심히 보다'라서 She eyed the cake처럼 쓰고, 표기 eyeing/eying 둘 다 가능해요.",
+  "also": [
+   {
+    "w": "eyed",
+    "pos": "adj",
+    "ko": "눈이 ~한",
+    "en": "The wide-**eyed** child stared at the toys."
+   },
+   {
+    "w": "eyeful",
+    "pos": "n",
+    "ko": "눈이 휘둥그레질 구경거리",
+    "en": "Go on, take an **eyeful**."
+   }
+  ]
+ },
+ {
+  "w": "face",
+  "pos": "n",
+  "meaning_ko": "얼굴, 표면, 직면하다",
+  "example_en": "I could tell from his **face** that something was wrong.",
+  "example_ko": "그의 표정만 봐도 뭔가 잘못됐다는 걸 알 수 있었어.",
+  "nuance_ko": "face는 얼굴이라는 명사이고, 동사로는 '마주 보다, 직면하다'예요. face a problem(문제에 맞서다), can't face doing ~(~할 엄두가 안 나다)처럼 써요. face to face는 '직접 대면하여', lose face는 '체면을 잃다', save face는 '체면을 지키다'예요. 건물이나 시계의 앞면, 동전의 면처럼 표면도 face라고 해요. face the music은 '자기 행동의 결과를 받아들이다'라는 숙어예요. 숫자에서 face value는 액면가예요.",
+  "also": [
+   {
+    "w": "faced",
+    "pos": "adj",
+    "ko": "직면한",
+    "en": "She was **faced** with a tough choice."
+   },
+   {
+    "w": "facing",
+    "pos": "prep",
+    "ko": "~을 마주 보는",
+    "en": "The hotel room has a balcony **facing** the sea."
+   }
+  ]
+ },
+ {
+  "w": "fact",
+  "pos": "n",
+  "meaning_ko": "사실",
+  "example_en": "The **fact** is that we ran out of time.",
+  "example_ko": "사실은 우리가 시간이 부족했다는 거야.",
+  "nuance_ko": "fact는 증명할 수 있는 객관적 사실을 뜻하는 명사예요. in fact(사실은, 실제로), as a matter of fact(사실은), the fact that ~(~라는 사실)처럼 담화 표현이 많아요. 의견(opinion)과 대비되는 개념으로, 뉴스나 토론에서는 facts and figures, fact-check가 나와요. 한국어의 '사실은'을 처음 말을 꺼내는 표현으로 쓰고 싶으면 Actually가 더 자연스러울 때가 많아요. the fact of the matter is는 '진실은 이렇다'라는 말투예요.",
+  "also": [
+   {
+    "w": "facts",
+    "pos": "n",
+    "ko": "사실들, 정보",
+    "en": "Let's stick to the **facts**."
+   }
+  ]
+ },
+ {
+  "w": "fair",
+  "pos": "adj",
+  "meaning_ko": "공정한, 꽤 괜찮은",
+  "example_en": "It's not **fair** that I have to do all the work.",
+  "example_ko": "내가 일을 다 해야 한다는 건 공평하지 않아.",
+  "nuance_ko": "fair는 한쪽에 치우치지 않고 공정하다는 뜻이 가장 중요하고, 날씨가 맑은, 피부가 흰, 정도가 꽤 괜찮은(a fair amount)이라는 뜻도 있어요. That's fair는 '그 말도 일리 있어', fair enough는 '그래, 좋아', fair play는 '공정한 경기'라는 일상 표현이에요. 명사로는 박람회(a book fair)나 놀이공원 행사를 뜻해요. 반대말 unfair는 불공평하다는 뜻이고, 아이들이 자주 말하는 That's not fair!가 대표 예시예요.",
+  "also": [
+   {
+    "w": "fairly",
+    "pos": "adv",
+    "ko": "꽤, 공정하게",
+    "en": "The test was **fairly** easy."
+   },
+   {
+    "w": "unfair",
+    "pos": "adj",
+    "ko": "불공평한",
+    "en": "It's **unfair** to blame him for this."
+   },
+   {
+    "w": "fairness",
+    "pos": "n",
+    "ko": "공정함",
+    "en": "She's known for her **fairness** as a judge."
+   }
+  ]
+ },
+ {
+  "w": "fall",
+  "pos": "v",
+  "meaning_ko": "떨어지다, 넘어지다",
+  "example_en": "Be careful not to **fall** on the icy steps.",
+  "example_ko": "얼음 낀 계단에서 넘어지지 않게 조심해.",
+  "nuance_ko": "fall은 위에서 아래로 떨어지거나 넘어지는 동작, 값이 하락하는 변화를 뜻하는 동사예요. fall asleep(잠들다), fall in love(사랑에 빠지다), fall behind(뒤처지다)처럼 상태 변화를 나타내는 표현이 많아요. 과거형은 fell, 과거분사는 fallen이에요. 명사 fall은 낙하, 하락이고 미국에서는 가을(autumn)을 뜻해요. fall for는 '속아 넘어가다' 또는 '~에게 반하다'로 두 가지 뜻이 있어서 문맥을 보세요.",
+  "also": [
+   {
+    "w": "fallen",
+    "pos": "adj",
+    "ko": "쓰러진, 떨어진",
+    "en": "A **fallen** tree blocked the road."
+   },
+   {
+    "w": "falling",
+    "pos": "adj",
+    "ko": "떨어지는",
+    "en": "**Falling** leaves covered the garden."
+   }
+  ]
+ },
+ {
+  "w": "family",
+  "pos": "n",
+  "meaning_ko": "가족",
+  "example_en": "My **family** is having dinner together tonight.",
+  "example_ko": "우리 가족은 오늘 밤 같이 저녁을 먹어.",
+  "nuance_ko": "family는 가족 구성원 전체를 가리키는 집합명사예요. 하나의 단위로 볼 때는 단수 동사(My family is big), 구성원 개개인을 볼 때는 복수 동사(My family are all tall)를 쓰기도 해요. 미국에서는 거의 단수로 쓰는 편이에요. 직계 가족은 immediate family, 대가족은 extended family라고 해요. a family of four는 네 식구라는 뜻이고 family name은 성이에요. 형용사로는 family-friendly(가족 친화적인)처럼 쓰여요.",
+  "also": [
+   {
+    "w": "familial",
+    "pos": "adj",
+    "ko": "가족의",
+    "en": "The disease has a **familial** pattern."
+   }
+  ]
+ },
+ {
+  "w": "far",
+  "pos": "adv",
+  "meaning_ko": "멀리, 훨씬",
+  "example_en": "How **far** is the airport from here?",
+  "example_ko": "여기서 공항까지 얼마나 멀어?",
+  "nuance_ko": "far는 거리가 멀다는 부사·형용사이며 주로 의문문과 부정문에서 써요. How far is it?, It's not far처럼 쓰고 긍정문에서는 a long way를 쓰는 게 더 자연스러워요. 비교급 further/farther, 최상급 furthest/farthest가 있어요. so far(지금까지), far from ~(결코 ~이 아닌), by far(단연코)처럼 비유적으로 쓰는 표현이 많아요. far better처럼 비교급을 강조하는 용법으로도 써요.",
+  "also": [
+   {
+    "w": "farther",
+    "pos": "adv",
+    "ko": "더 멀리",
+    "en": "We drove **farther** than we planned."
+   }
+  ]
+ },
+ {
+  "w": "farm",
+  "pos": "n",
+  "meaning_ko": "농장",
+  "example_en": "My grandparents live on a small **farm** in the countryside.",
+  "example_ko": "우리 조부모님은 시골의 작은 농장에서 사셔.",
+  "nuance_ko": "farm은 농작물이나 가축을 기르는 농장이고, 동사로는 농사를 짓는다는 뜻이에요. dairy farm(젖소 농장), fish farm(양식장), farm animals(가축)처럼 써요. farmer는 농부이고, farmhouse는 농가 주택이에요. 비유적으로 server farm(서버 팜)이나 content farm처럼 대량 생산 시설을 의미하기도 해요. farm out은 일을 외부에 맡기다라는 구동사예요. 영국과 미국 모두 farm을 쓰고 ranch는 미국의 대규모 목장이에요.",
+  "also": [
+   {
+    "w": "farmer",
+    "pos": "n",
+    "ko": "농부",
+    "en": "The **farmer** got up at dawn to feed the animals."
+   },
+   {
+    "w": "farming",
+    "pos": "n",
+    "ko": "농업",
+    "en": "**Farming** is hard work in the summer."
+   }
+  ]
+ },
+ {
+  "w": "fast",
+  "pos": "adj",
+  "meaning_ko": "빠른, 빠르게",
+  "example_en": "You drive way too **fast** on this road.",
+  "example_ko": "넌 이 길에서 너무 빨리 달려.",
+  "nuance_ko": "fast는 속도가 빠르다는 형용사와 부사 모두로 쓰이는 단어예요. 부사 fastly는 없고 fast 자체가 부사예요. 비교급 faster, 최상급 fastest가 있고 fast food, fast forward 같은 복합어가 많아요. 시계가 빠르다고 할 때도 My watch is fast라고 해요. fall fast asleep은 '깊이 잠들다'처럼 fast가 단단히 고정된 상태를 뜻하기도 해요. 동사 fast는 단식하다라서 fasting은 금식이에요. quick은 짧은 시간 안에 이뤄지는 일에 쓰고 fast는 움직이는 속도에 써요.",
+  "also": [
+   {
+    "w": "faster",
+    "pos": "adv",
+    "ko": "더 빠르게",
+    "en": "Can you walk a little **faster**?"
+   }
+  ]
+ },
+ {
+  "w": "fat",
+  "pos": "adj",
+  "meaning_ko": "뚱뚱한, 지방",
+  "example_en": "This yogurt is low in **fat** but high in protein.",
+  "example_ko": "이 요거트는 지방은 적고 단백질은 많아.",
+  "nuance_ko": "fat은 형용사로 뚱뚱하다는 뜻이지만 사람의 외모를 직접 말하면 무례하게 들려서 조심해야 해요. 대신 overweight나 larger 같은 완곡한 말을 쓰는 게 좋아요. 명사 fat은 체지방이나 음식의 지방을 가리켜 low-fat milk, body fat, saturated fat처럼 쓰여요. 두껍다는 뜻도 있어서 a fat book은 두꺼운 책이에요. 비유로 a fat chance는 '가망이 전혀 없다'라는 반어적 표현이에요.",
+  "also": [
+   {
+    "w": "fatty",
+    "pos": "adj",
+    "ko": "기름진",
+    "en": "Try to avoid **fatty** foods before bed."
+   },
+   {
+    "w": "fats",
+    "pos": "n",
+    "ko": "지방 종류",
+    "en": "Olive oil contains healthy **fats**."
+   }
+  ]
+ },
+ {
+  "w": "father",
+  "pos": "n",
+  "meaning_ko": "아버지",
+  "example_en": "My **father** used to take me fishing every summer.",
+  "example_ko": "우리 아버지는 매해 여름마다 나를 낚시에 데려가셨어.",
+  "nuance_ko": "father는 아버지를 가리키는 격식 있는 말로 일상에서는 dad를 더 많이 써요. 호칭으로 Father라고 부르면 매우 공손하거나 종교적 느낌이 나요. 신부님을 부르는 Father, 창시자를 뜻하는 the father of modern science처럼 비유적으로도 써요. 동사로 father a child는 '아이의 아버지가 되다'라는 문어체 표현이에요. Father's Day는 아버지의 날이고 father-in-law는 시아버지·장인을 뜻해요.",
+  "also": [
+   {
+    "w": "fatherhood",
+    "pos": "n",
+    "ko": "아버지가 됨",
+    "en": "He enjoyed the challenges of **fatherhood**."
+   },
+   {
+    "w": "fatherly",
+    "pos": "adj",
+    "ko": "아버지 같은",
+    "en": "He gave me some **fatherly** advice."
+   }
+  ]
+ },
+ {
+  "w": "favourite",
+  "pos": "adj",
+  "meaning_ko": "가장 좋아하는",
+  "example_en": "What's your **favourite** kind of music?",
+  "example_ko": "제일 좋아하는 음악 장르가 뭐야?",
+  "nuance_ko": "favourite는 영국식 철자이고 미국식은 favorite예요. 명사로는 가장 좋아하는 것 또는 사람이라 my favourite처럼 쓰고, 형용사로 my favourite song처럼 명사를 꾸며요. 스포츠에서는 우승 후보, 이길 것으로 예상되는 쪽을 the favourite라고 해요. 부모가 한 아이만 편애하는 것은 favouritism으로 부정적인 뜻이에요. 영어 에세이를 쓸 때는 영국식과 미국식 철자를 한 가지로 통일하세요.",
+  "also": [
+   {
+    "w": "favourites",
+    "pos": "n",
+    "ko": "좋아하는 것들",
+    "en": "These cookies are the kids' **favourites**."
+   },
+   {
+    "w": "favouritism",
+    "pos": "n",
+    "ko": "편애",
+    "en": "The coach was accused of **favouritism**."
+   }
+  ]
+ },
+ {
+  "w": "fear",
+  "pos": "n",
+  "meaning_ko": "두려움, 공포",
+  "example_en": "Her biggest **fear** is speaking in front of a crowd.",
+  "example_ko": "그녀의 가장 큰 두려움은 많은 사람 앞에서 말하는 거야.",
+  "nuance_ko": "fear는 위험이나 무서운 대상 앞에서 느끼는 두려움이나 걱정을 뜻하는 명사이고, 동사로도 쓰여요. fear of heights(고소공포), for fear of ~ing(~할까 봐), in fear of one's life(목숨의 위협을 느끼며)가 대표적이에요. 동사 I fear that ~는 '~일까 걱정이다'라는 격식 있는 완곡한 표현이라 나쁜 소식을 전할 때 써요. 같은 뜻의 afraid는 형용사이고 fear는 명사·동사라서 품사가 달라요. 격식 있는 글에서는 fear의 힘이 강하며 일상에서는 scared를 많이 써요.",
+  "also": [
+   {
+    "w": "fearful",
+    "pos": "adj",
+    "ko": "두려워하는",
+    "en": "She was **fearful** of making a mistake."
+   },
+   {
+    "w": "fearless",
+    "pos": "adj",
+    "ko": "두려움 없는",
+    "en": "The **fearless** climber reached the top."
+   }
+  ]
+ },
+ {
+  "w": "feed",
+  "pos": "v",
+  "meaning_ko": "먹이다, 먹이를 주다",
+  "example_en": "I need to **feed** the cat before I leave.",
+  "example_ko": "나가기 전에 고양이 밥을 줘야 해.",
+  "nuance_ko": "feed는 누군가에게 먹을 것을 주거나 공급하는 동사예요. feed the baby, feed the dog처럼 타동사로 쓰고, 사람이 스스로 먹는 것은 eat이라 구분해요. 정보나 전력을 공급하는 뜻으로 feed data into the system처럼 쓰기도 하고 명사로는 뉴스 피드(news feed), 사료(animal feed)를 뜻해요. be fed up with ~는 '~이 지긋지긋하다'라는 구어 표현이에요. 과거형·과거분사는 fed예요.",
+  "also": [
+   {
+    "w": "feeding",
+    "pos": "n",
+    "ko": "먹이 주기",
+    "en": "The baby's **feeding** time is at six."
+   }
+  ]
+ },
+ {
+  "w": "feel",
+  "pos": "v",
+  "meaning_ko": "느끼다, ~한 기분이다",
+  "example_en": "I don't **feel** like going out tonight.",
+  "example_ko": "오늘 밤엔 나가고 싶은 기분이 아니야.",
+  "nuance_ko": "feel은 감각이나 감정을 느낀다는 동사로, 뒤에 형용사가 와서 I feel tired처럼 상태를 나타내요. feel like + 명사/동명사는 '~하고 싶다, ~같은 느낌이다'라는 구어 표현이에요. I feel that ~, I feel for you(안타깝다)처럼 의견이나 공감에도 쓰여요. feel free to ~는 '편하게 ~하세요'라는 정중한 허락이에요. 과거형·과거분사는 felt이고 명사 feeling은 감정, 느낌이에요. think보다 feel은 감정이 섞인 의견을 말할 때 어울려요.",
+  "also": [
+   {
+    "w": "feeling",
+    "pos": "n",
+    "ko": "감정, 느낌",
+    "en": "I have a bad **feeling** about this trip."
+   },
+   {
+    "w": "feelings",
+    "pos": "n",
+    "ko": "감정들",
+    "en": "I didn't want to hurt her **feelings**."
+   }
+  ]
+ },
+ {
+  "w": "fellow",
+  "pos": "n",
+  "meaning_ko": "동료, 녀석",
+  "example_en": "He's a nice **fellow** once you get to know him.",
+  "example_ko": "그 사람은 알고 나면 좋은 친구야.",
+  "nuance_ko": "fellow는 명사로 남자, 녀석이라는 약간 예스러운 표현이고, 형용사로는 같은 처지의 동료를 뜻해요. fellow students, fellow workers, fellow citizens처럼 앞에 붙어서 '같은 ~인 사람들'을 나타내요. 학계에서는 연구원이나 특별회원(a research fellow)을 뜻하기도 해요. 영국 구어 old fellow는 친근하게 부르는 호칭인데 요즘은 젊은 층이 잘 쓰지 않아요. fellowship은 연대감, 장학금(fellowship grant)이라는 뜻이에요.",
+  "also": [
+   {
+    "w": "fellowship",
+    "pos": "n",
+    "ko": "동료애, 연구 장학금",
+    "en": "She received a **fellowship** to study abroad."
+   }
+  ]
+ },
+ {
+  "w": "few",
+  "pos": "det",
+  "meaning_ko": "거의 없는, 몇몇의",
+  "example_en": "I only have a **few** minutes before the next meeting.",
+  "example_ko": "다음 회의 전까지 몇 분밖에 시간이 없어.",
+  "nuance_ko": "few는 셀 수 있는 복수 명사와 쓰고, 관사 a의 유무에 따라 뜻이 완전히 달라져요. a few는 '몇 개 있는'이라는 긍정적인 느낌이고, few는 '거의 없는'이라는 부정적인 느낌이에요. 예를 들어 I have a few friends는 친구가 몇 있다는 뜻이지만 I have few friends는 친구가 거의 없다는 뜻이에요. 셀 수 없는 명사에는 little과 a little을 써서 같은 구분을 해요. quite a few는 '꽤 많은'이라는 반전 표현이에요.",
+  "also": [
+   {
+    "w": "fewer",
+    "pos": "adj",
+    "ko": "더 적은",
+    "en": "There are **fewer** cars on the road today."
+   }
+  ]
+ },
+ {
+  "w": "field",
+  "pos": "n",
+  "meaning_ko": "들판, 분야, 경기장",
+  "example_en": "She's an expert in the **field** of marine biology.",
+  "example_ko": "그녀는 해양생물학 분야의 전문가야.",
+  "nuance_ko": "field는 들판, 밭이라는 기본 뜻 외에 연구나 직업 분야(the field of medicine), 경기장(a football field)도 가리켜요. in the field는 현장에서 일한다는 의미이고 field trip은 현장 학습이에요. 컴퓨터 서식의 입력 칸도 field라서 fill in the fields처럼 쓰여요. 비유로 level the playing field는 '공정한 경쟁 조건을 만들다'라는 뜻이에요. 같은 의미의 area보다 field가 더 전문 영역이라는 느낌이 강해요.",
+  "also": [
+   {
+    "w": "fielder",
+    "pos": "n",
+    "ko": "야수, 수비수",
+    "en": "The **fielder** caught the ball easily."
+   }
+  ]
+ },
+ {
+  "w": "fight",
+  "pos": "v",
+  "meaning_ko": "싸우다, 맞서 싸우다",
+  "example_en": "The two brothers always **fight** over the TV remote.",
+  "example_ko": "그 형제는 항상 TV 리모컨을 두고 싸워.",
+  "nuance_ko": "fight는 몸싸움이나 말다툼을 하는 것, 또는 어떤 대상에 맞서 싸운다는 뜻이에요. 사람끼리 싸울 때는 fight with/against someone, 이유는 fight over ~, 원인에 맞서는 것은 fight cancer(암과 싸우다)처럼 써요. 비교해서 argue는 말로 다투는 것이고 fight는 말뿐 아니라 몸으로 다투는 것까지 포함해요. 명사로 have a fight(싸우다), pick a fight(싸움을 걸다)가 있고 과거형은 fought예요. fight back은 '반격하다, 눈물을 참다'예요.",
+  "also": [
+   {
+    "w": "fighter",
+    "pos": "n",
+    "ko": "전사, 싸우는 사람",
+    "en": "She's a real **fighter** and never gives up."
+   },
+   {
+    "w": "fighting",
+    "pos": "n",
+    "ko": "싸움, 교전",
+    "en": "The **fighting** continued all night."
+   }
+  ]
+ },
+ {
+  "w": "figure",
+  "pos": "n",
+  "meaning_ko": "숫자, 인물, 모양",
+  "example_en": "The sales **figure** for this quarter looks really good.",
+  "example_ko": "이번 분기 매출 수치가 정말 좋아 보여.",
+  "nuance_ko": "figure는 쓰임이 다양한 명사로, 숫자·통계(sales figures), 인물(a public figure), 몸매나 형태, 그림의 도표를 모두 뜻해요. 동사로 figure out은 '알아내다, 이해하다'라는 구동사로 정말 자주 써요. I can't figure it out은 '이해가 안 돼'예요. 미국 구어에서 figure는 '~라고 생각하다'라서 I figure he'll be late처럼 써요. That figures는 '그럴 줄 알았어, 당연하네'라는 맞장구예요. figure of speech는 비유적 표현이에요.",
+  "also": [
+   {
+    "w": "figures",
+    "pos": "n",
+    "ko": "수치, 인물들",
+    "en": "The latest **figures** show a clear increase."
+   },
+   {
+    "w": "figured",
+    "pos": "v",
+    "ko": "생각했다",
+    "en": "I **figured** you'd be home by now."
+   }
+  ]
+ },
+ {
+  "w": "fill",
+  "pos": "v",
+  "meaning_ko": "채우다, 가득 차다",
+  "example_en": "Could you **fill** this glass with water, please?",
+  "example_ko": "이 잔에 물 좀 채워 줄래?",
+  "nuance_ko": "fill은 빈 공간을 채우거나 가득 차게 하는 동사예요. fill A with B로 B로 A를 채우고, 서류에서는 fill in/fill out a form(양식을 작성하다)이 매우 흔해요. 영국에서는 fill in, 미국에서는 fill out을 더 자주 써요. fill up은 가득 채우다(fill up the tank), fill in for someone은 '대신 일을 봐주다'예요. be filled with joy처럼 수동으로 감정을 나타내기도 해요. 명사 filling은 충전물, 치아 때운 것을 뜻해요.",
+  "also": [
+   {
+    "w": "filling",
+    "pos": "n",
+    "ko": "속재료, 충전물",
+    "en": "The pie has a sweet apple **filling**."
+   },
+   {
+    "w": "refill",
+    "pos": "v",
+    "ko": "다시 채우다",
+    "en": "Can I **refill** your coffee?"
+   }
+  ]
+ },
+ {
+  "w": "film",
+  "pos": "n",
+  "meaning_ko": "영화, 필름",
+  "example_en": "We watched a really funny **film** last night.",
+  "example_ko": "우리는 어젯밤에 정말 웃긴 영화를 봤어.",
+  "nuance_ko": "film은 영국 영어에서 영화를 가리키는 가장 일반적인 말이고, 미국에서는 movie를 더 많이 써요. 미국에서 film은 예술적이거나 진지한 영화를 말할 때 어울려요. 사진용 필름, 얇은 막(plastic film)이라는 뜻도 있어요. 동사로는 촬영하다라서 The movie was filmed in New Zealand처럼 써요. film studies는 영화학, film festival은 영화제예요. 영화관에 가는 것은 go to the cinema(영국), go to the movies(미국)라고 해요.",
+  "also": [
+   {
+    "w": "filming",
+    "pos": "n",
+    "ko": "촬영",
+    "en": "**Filming** starts next week in Paris."
+   }
+  ]
+ },
+ {
+  "w": "final",
+  "pos": "adj",
+  "meaning_ko": "마지막의, 최종적인",
+  "example_en": "This is your **final** chance to change your answer.",
+  "example_ko": "이게 답을 바꿀 마지막 기회야.",
+  "nuance_ko": "final은 순서상 마지막이거나 더 이상 바뀌지 않는 최종이라는 뜻의 형용사예요. the final decision, the final exam, the final score처럼 쓰고, 명사로는 결승전(the final)이나 기말시험(finals)을 뜻해요. last도 비슷하지만 final은 결정적이고 끝맺음의 성격이 강해요. 따라서 last chance는 마지막으로 남은 기회, final chance는 더는 없을 기회라는 강한 느낌이에요. 부사 finally는 '드디어, 마침내'라는 뜻으로도 많이 써요.",
+  "also": [
+   {
+    "w": "finally",
+    "pos": "adv",
+    "ko": "마침내",
+    "en": "We **finally** arrived at the hotel after midnight."
+   },
+   {
+    "w": "finals",
+    "pos": "n",
+    "ko": "기말고사, 결승",
+    "en": "She is studying hard for her **finals**."
+   }
+  ]
+ }
+]
