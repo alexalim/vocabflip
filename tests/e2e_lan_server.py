@@ -48,7 +48,8 @@ with sync_playwright() as p:
     check("server notice shown", "사내 PC 서버" in pc.inner_text(".poc"))
     pc.click('button[data-tab="study"]'); pc.keyboard.press("Space"); pc.keyboard.press("3")
     pc_cards = cards(pc)
-    pc.wait_for_timeout(2600)  # 저장 디바운스(2초) 후 서버 반영
+    pc.goto("about:blank")  # 2초 디바운스 전에 페이지를 떠남 → pagehide 때 바로 전송돼야 함
+    pc.wait_for_timeout(500)
 
     phone = device()
     phone.click('button[data-tab="account"]')
@@ -56,7 +57,7 @@ with sync_playwright() as p:
     phone.click("#f-login button.primary"); phone.wait_for_selector("#auth-msg.bad")
     check("wrong password rejected", "맞지 않아요" in phone.inner_text("#auth-msg"))
     phone.fill("#li-pw", PW); phone.click("#f-login button.primary"); phone.wait_for_selector(".who")
-    check("other device gets the same study", cards(phone) == pc_cards and len(pc_cards) == 2, cards(phone))
+    check("study saved on page leave reaches other device", cards(phone) == pc_cards and len(pc_cards) == 2, cards(phone))
 
     phone.reload(); phone.click('button[data-tab="account"]'); phone.wait_for_selector(".who")
     check("session survives reload (cookie)", USER in phone.inner_text(".who"))
@@ -64,7 +65,7 @@ with sync_playwright() as p:
     check("session cookie HttpOnly + SameSite=Strict", cookie["httpOnly"] and cookie["sameSite"] == "Strict")
 
     phone.click("#delete-account"); phone.click("#delete-account"); phone.wait_for_selector("#f-login")
-    pc.reload(); pc.click('button[data-tab="account"]'); pc.wait_for_selector("#f-login")
+    pc.goto(SITE); pc.click('button[data-tab="account"]'); pc.wait_for_selector("#f-login")
     check("deleted account logged out everywhere", True)
     pc.fill("#li-user", USER); pc.fill("#li-pw", PW); pc.click("#f-login button.primary"); pc.wait_for_selector("#auth-msg.bad")
     check("deleted account cannot log in", True)

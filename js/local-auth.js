@@ -75,12 +75,15 @@
   // ---------- server store ----------
   function serverStore(base) {
     let me = null, pushTimer = null, pending = null;
-    async function call(method, path, body) {
+    async function call(method, path, body, urgent) {
+      const text = body !== undefined ? JSON.stringify(body) : undefined;
       try {
         const r = await fetch(base + path, {
           method, credentials: "same-origin",
           headers: body !== undefined ? { "Content-Type": "application/json" } : {},
-          body: body !== undefined ? JSON.stringify(body) : undefined,
+          body: text,
+          // 페이지가 닫혀도 요청이 끝까지 가게 한다. 브라우저 한도(64KB) 안에서만 쓸 수 있다.
+          keepalive: !!urgent && text !== undefined && text.length < 60000,
         });
         const data = await r.json().catch(() => ({}));
         return { ok: r.ok, status: r.status, data };
@@ -89,13 +92,17 @@
       }
     }
     const err = (r) => (r.ok ? null : r.data.error || "network");
-    async function flush() {
+    async function flush(urgent) {
+      clearTimeout(pushTimer);
       if (!pending || !me) return;
       const state = pending;
       pending = null;
-      const r = await call("PUT", "/progress", { state });
+      const r = await call("PUT", "/progress", { state }, urgent);
       if (!r.ok) toast("서버에 학습 기록을 저장하지 못했어요. 이 PC 서버가 켜져 있는지 확인해 주세요");
     }
+    // 모바일은 앱 전환·탭 닫기로 페이지가 바로 사라지므로, 2초를 기다리지 않고 남은 기록을 보낸다
+    document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") flush(true); });
+    window.addEventListener("pagehide", () => flush(true));
     return {
       notice: "사내 PoC 버전: 계정과 학습 기록은 <b>사내 PC 서버</b>에 저장돼서 같은 사내망의 다른 기기에서도 로그인할 수 있어요. 그 PC가 꺼져 있으면 쓸 수 없어요. 암호화되지 않은 연결이니 다른 곳에서 쓰는 비밀번호는 쓰지 마세요.",
       async current() {
