@@ -4,3 +4,5 @@ gen/tmp/
 dist/
 __pycache__/
 .pytest_cache/
+supabase/functions/.env
+supabase/.env
