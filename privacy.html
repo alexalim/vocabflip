@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VocabFlip 개인정보 처리방침</title>
+<style>
+  :root { --bg: #f4f5f7; --ink: #1f2328; --muted: #6a737d; --line: #e3e6ea; --accent: #2f6fdf; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #17191c; --ink: #e6e8eb; --muted: #9aa2ad; --line: #33373d; color-scheme: dark; } }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.7 -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 24px max(16px, env(safe-area-inset-left, 0px)); }
+  h1 { font-size: 1.5rem; } h2 { font-size: 1.1rem; margin-top: 28px; }
+  table { width: 100%; border-collapse: collapse; font-size: .92rem; }
+  th, td { border: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+  .wrap { overflow-x: auto; } a { color: var(--accent); } .muted { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+<h1>VocabFlip 개인정보 처리방침</h1>
+<p class="muted">시행일: 2026년 10월 16일</p>
+<p>VocabFlip은 계정을 만들지 않아도 쓸 수 있습니다. 계정을 만들면 아래 정보를 처리합니다.
+계정 없이 쓰는 동안의 학습 기록은 이용자의 브라우저에만 저장되고 서버로 보내지 않습니다.</p>
+
+<h2>1. 처리하는 정보와 목적</h2>
+<div class="wrap"><table>
+  <tr><th>정보</th><th>목적</th><th>보관 기간</th></tr>
+  <tr><td>아이디, 비밀번호(복원할 수 없는 해시로만 저장)</td><td>로그인</td><td>탈퇴할 때까지</td></tr>
+  <tr><td>복구용 이메일</td><td>아이디 찾기, 비밀번호 재설정 메일 발송</td><td>탈퇴할 때까지</td></tr>
+  <tr><td>학습 기록(카드별 복습 일정, 일별 학습량, 앱 설정)</td><td>여러 기기 간 동기화</td><td>탈퇴할 때까지</td></tr>
+  <tr><td>구글·카카오 로그인 시 제공자가 보내는 식별자, 이름(닉네임), 프로필 사진 주소, 이메일(제공되는 경우)</td><td>소셜 로그인과 계정 연결</td><td>탈퇴할 때까지</td></tr>
+  <tr><td>메일 발송 기록(받는 주소, 시각)</td><td>메일 남용 방지(시간당 발송 제한)</td><td>발송 후 최대 30일</td></tr>
+</table></div>
+
+<h2>2. 처리를 맡기는 곳(수탁자)과 국외 이전</h2>
+<div class="wrap"><table>
+  <tr><th>받는 곳</th><th>맡기는 일</th><th>위치</th></tr>
+  <tr><td>Supabase Inc.</td><td>회원 정보·학습 기록 저장, 로그인 처리</td><td>데이터 저장 지역: 대한민국 서울(AWS ap-northeast-2), 회사 소재지 미국</td></tr>
+  <tr><td>Google LLC (Gmail)</td><td>아이디 찾기·비밀번호 재설정 메일 발송</td><td>미국 등</td></tr>
+  <tr><td>Google LLC, 카카오</td><td>소셜 로그인(이용자가 선택한 경우)</td><td>미국 / 대한민국</td></tr>
+</table></div>
+<p>정보는 이용자가 가입하거나 해당 기능을 쓸 때 암호화된 연결(HTTPS)로 전송됩니다.</p>
+
+<h2>3. 이용자의 권리</h2>
+<p>로그인한 뒤 <b>계정</b> 탭에서 복구용 이메일을 바꾸거나 <b>회원 탈퇴</b>를 누르면 계정과 학습 기록이 즉시 삭제됩니다.
+그 밖의 열람·정정·삭제·처리정지 요청은 아래 연락처로 보내 주세요.</p>
+
+<h2>4. 쿠키와 브라우저 저장소</h2>
+<p>광고·분석 쿠키를 쓰지 않습니다. 학습 기록과 로그인 상태를 이용자의 브라우저 저장소(localStorage)에 저장합니다.</p>
+
+<h2>5. 연락처</h2>
+<p>개인정보 관련 문의: <a href="https://github.com/alexalim/vocabflip/issues">github.com/alexalim/vocabflip/issues</a>
+(개인정보가 담긴 내용은 이슈에 쓰지 말고, 이슈로 연락 방법을 요청해 주세요.)</p>
+
+<p><a href="./">← VocabFlip으로 돌아가기</a></p>
+</main>
+</body>
+</html>
